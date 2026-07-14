@@ -3,5 +3,15 @@
     "slug": "bmw-2002",
     "type": "models",
     "dataFile": "bmw-2002"
+  },
+  {
+    "slug": "discovery",
+    "type": "models",
+    "dataFile": "discovery"
+  },
+  {
+    "slug": "discovery-sport",
+    "type": "models",
+    "dataFile": "discovery-sport"
   }
 ]
