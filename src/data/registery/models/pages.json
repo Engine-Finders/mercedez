@@ -1,17 +1,137 @@
 [
   {
+    "slug": "2002",
+    "type": "models",
+    "dataFile": "2002"
+  },
+  {
     "slug": "bmw-2002",
     "type": "models",
     "dataFile": "bmw-2002"
   },
   {
-    "slug": "discovery",
+    "slug": "1-series",
     "type": "models",
-    "dataFile": "discovery"
+    "dataFile": "1-series"
   },
   {
-    "slug": "discovery-sport",
+    "slug": "2-series",
     "type": "models",
-    "dataFile": "discovery-sport"
+    "dataFile": "2-series"
+  },
+  {
+    "slug": "3-series",
+    "type": "models",
+    "dataFile": "3-series"
+  },
+  {
+    "slug": "4-series",
+    "type": "models",
+    "dataFile": "4-series"
+  },
+  {
+    "slug": "5-series",
+    "type": "models",
+    "dataFile": "5-series"
+  },
+  {
+    "slug": "6-series",
+    "type": "models",
+    "dataFile": "6-series"
+  },
+  {
+    "slug": "7-series",
+    "type": "models",
+    "dataFile": "7-series"
+  },
+  {
+    "slug": "8-series",
+    "type": "models",
+    "dataFile": "8-series"
+  },
+  {
+    "slug": "i-series-electric-motors",
+    "type": "models",
+    "dataFile": "i-series-electric-motors"
+  },
+  {
+    "slug": "m1",
+    "type": "models",
+    "dataFile": "m1"
+  },
+  {
+    "slug": "m2",
+    "type": "models",
+    "dataFile": "m2"
+  },
+  {
+    "slug": "m3",
+    "type": "models",
+    "dataFile": "m3"
+  },
+  {
+    "slug": "m4",
+    "type": "models",
+    "dataFile": "m4"
+  },
+  {
+    "slug": "m5",
+    "type": "models",
+    "dataFile": "m5"
+  },
+  {
+    "slug": "m6",
+    "type": "models",
+    "dataFile": "m6"
+  },
+  {
+    "slug": "m8",
+    "type": "models",
+    "dataFile": "m8"
+  },
+  {
+    "slug": "x1",
+    "type": "models",
+    "dataFile": "x1"
+  },
+  {
+    "slug": "x2",
+    "type": "models",
+    "dataFile": "x2"
+  },
+  {
+    "slug": "x3",
+    "type": "models",
+    "dataFile": "x3"
+  },
+  {
+    "slug": "x4",
+    "type": "models",
+    "dataFile": "x4"
+  },
+  {
+    "slug": "x5",
+    "type": "models",
+    "dataFile": "x5"
+  },
+  {
+    "slug": "x6",
+    "type": "models",
+    "dataFile": "x6"
+  },
+  {
+    "slug": "x7",
+    "type": "models",
+    "dataFile": "x7"
+  },
+  {
+    "slug": "xm",
+    "type": "models",
+    "dataFile": "xm"
+  },
+  {
+    "slug": "z-series",
+    "type": "models",
+    "dataFile": "z-series"
   }
 ]

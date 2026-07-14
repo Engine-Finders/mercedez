@@ -627,7 +627,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "276DT, 306DT and 204DTD ratings: 94% confidence — the three highest-volume engines in our entire dataset [EM-VERIFIED], cross-referenced with specialist rebuild reports. D1/D2-era and petrol V8 ratings: Expert-knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data."
+      "text": "276DT, 306DT and 204DTD ratings: 94% confidence — the three highest-volume engines in our entire dataset [EM-VERIFIED], cross-referenced with specialist rebuild reports. D1/D2-era and petrol V8 ratings: Expert-knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data. Data note (internal): Enquiry volumes from EM_Proprietary_Data_2025.txt [EM-VERIFIED]; costs from Table A [EM-QUOTE]. Correction applied: the original Discovery strategy sheet listed 368DT (3.6 TDV8) and 508PS (4.4 SDV8) as Discovery engines — neither was ever fitted to a Discovery (they belong to Range Rover / Range Rover Sport per our own blueprint mapping). Removed. Correction applied: post-2021 D5 D250/D300 is the AJ20D6 Ingenium six, not the 306DT V6."
     },
     "dataCorrections": []
   },

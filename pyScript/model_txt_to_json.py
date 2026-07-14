@@ -21,19 +21,24 @@ from urllib.parse import urlparse
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_INPUT = ROOT / "txt-files" / "IBS Pages Content (Brand_Models) (1).txt"
+DEFAULT_INPUT = ROOT / "txt-files" / "IBS Pages Content (Brand_Models).txt"
 DEFAULT_OUT = ROOT / "output-json"
 
+# Every model page content block starts with SECTION 1 ... <ModelHero>
+# Supports both:
+#   SECTION 1 — HERO — <ModelHero>
+#   SECTION 1: HERO — <ModelHero>
 PAGE_START_RE = re.compile(
-    r"^(?P<title>.+?)\s+MODEL PAGE\s+[—\-]+\s+COMPLETE CONTENT\s*$",
+    r"^SECTION\s+1\s*[:—\-]\s*.*?[—\-]\s*<ModelHero>\s*.*$",
     re.MULTILINE | re.IGNORECASE,
 )
 META_START_RE = re.compile(
     r"^(?P<title>.+?)\s+[—\-]+\s+METADATA\s*&\s*SCHEMA PACKAGE\s*$",
     re.MULTILINE | re.IGNORECASE,
 )
+# Match by section number + component tag (label text varies by model)
 SECTION_RE = re.compile(
-    r"^SECTION\s+(?P<num>\d+[A-Z]?)\s*:\s*(?P<label>.+?)\s+[—\-]+\s*"
+    r"^SECTION\s+(?P<num>\d+[A-Z]?)\s*[:—\-]\s*(?P<label>.+?)\s+[—\-]+\s*"
     r"<(?P<component>[A-Za-z0-9_]+)>(?P<extra>[^\n]*)\s*$",
     re.MULTILINE,
 )
@@ -43,6 +48,10 @@ META_TAG_RE = re.compile(
 )
 FIELD_RE = re.compile(
     r"^(Tag Pill|H1|Sub-headline|Sub-Headline|Trust Strip|Primary CTA|H2)\s*:\s*(.*)$",
+    re.IGNORECASE,
+)
+MODEL_PAGE_TITLE_RE = re.compile(
+    r"^(?P<title>.+?)\s+MODEL PAGE\s+[—\-]+\s+COMPLETE CONTENT\s*$",
     re.IGNORECASE,
 )
 
@@ -1183,15 +1192,124 @@ def parse_meta_block(meta_text: str) -> dict[str, Any]:
     return meta
 
 
+def guess_page_title(text_before: str) -> str:
+    """Pull a page title from lines immediately before SECTION 1."""
+    lines = [clean(ln) for ln in text_before.splitlines() if clean(ln)]
+    window = lines[-40:]
+
+    for ln in reversed(window):
+        m = MODEL_PAGE_TITLE_RE.match(ln)
+        if m:
+            return clean(m.group(1))
+
+    skip_prefixes = (
+        "classification:",
+        "justification:",
+        "step 0",
+        "brand voice",
+        "people also compare",
+        "internal linking",
+        "data-integrity",
+        "section ",
+    )
+    skip_bits = (
+        "metadata",
+        "schema",
+        "complete content",
+        "http",
+        "<script",
+        "</script",
+        "internal working note",
+        "not published",
+    )
+
+    candidates = []
+    for ln in reversed(window):
+        low = ln.lower()
+        if any(low.startswith(p) for p in skip_prefixes):
+            continue
+        if any(bit in low for bit in skip_bits):
+            continue
+        if ln.startswith("{") or ln.startswith("}") or ln.startswith("</") or ln.startswith("<"):
+            continue
+        if re.fullmatch(r"_+", ln) or ln == "________________":
+            continue
+        if low in {"text", "html", "json", "script"}:
+            continue
+        if len(ln) > 70 or ln.count(" ") > 8 or ln.endswith("."):
+            continue
+        candidates.append(ln)
+
+    # Prefer explicit model-name style titles
+    modelish = re.compile(
+        r"^(bmw|defender|discovery|freelander|range rover|rr|jaguar|land rover)\b",
+        re.I,
+    )
+    for ln in candidates:
+        if modelish.match(ln):
+            return ln
+    if candidates:
+        return candidates[0]
+    return "unknown-page"
+
+
+def slugify(value: str) -> str:
+    value = value.lower().strip()
+    value = value.replace("&", " and ")
+    value = re.sub(r"[^a-z0-9]+", "-", value)
+    return value.strip("-") or "page"
+
+
 def split_pages(text: str) -> list[tuple[str, str]]:
+    """
+    Split the big TXT into one chunk per model page.
+
+    Page boundary = every SECTION 1 ... <ModelHero> line.
+    This covers Land Rover pages (with/without MODEL PAGE header)
+    and BMW pages that only use SECTION 1 — HERO — <ModelHero>.
+    """
     starts = list(PAGE_START_RE.finditer(text))
     if not starts:
-        raise SystemExit("No model pages found (expected '... MODEL PAGE — COMPLETE CONTENT').")
+        raise SystemExit(
+            "No model pages found. Expected lines like "
+            "'SECTION 1 — HERO — <ModelHero>' or 'SECTION 1: HERO — <ModelHero>'."
+        )
+
     pages = []
     for i, m in enumerate(starts):
-        start = m.end()
+        # Include a little look-back so "DISCOVERY MODEL PAGE…" / "DEFENDER" titles
+        # and the SECTION 1 line itself stay inside the page chunk.
+        lookback_start = starts[i - 1].end() if i > 0 else 0
+        pre = text[lookback_start:m.start()]
+        title = guess_page_title(pre)
+
+        # Page body starts at SECTION 1 line (keep section markers for parsers)
+        start = m.start()
         end = starts[i + 1].start() if i + 1 < len(starts) else len(text)
-        pages.append((clean(m.group("title")), text[start:end]))
+        # Also include any title lines immediately before SECTION 1 (same page)
+        title_block = ""
+        pre_lines = [ln for ln in pre.splitlines() if clean(ln)]
+        kept = []
+        for ln in reversed(pre_lines[-8:]):
+            cl = clean(ln)
+            low = cl.lower()
+            if "metadata" in low and "schema" in low:
+                break
+            if cl.startswith("</script") or cl.startswith("<script") or cl == "}":
+                break
+            if re.fullmatch(r"_+", cl) or cl == "________________":
+                kept.append(ln)
+                continue
+            if MODEL_PAGE_TITLE_RE.match(cl) or (
+                len(cl) <= 70 and cl.count(" ") <= 8 and not cl.endswith(".")
+            ):
+                kept.append(ln)
+                continue
+            break
+        if kept:
+            title_block = "\n".join(reversed(kept)) + "\n"
+
+        pages.append((title, title_block + text[start:end]))
     return pages
 
 
@@ -1217,10 +1335,12 @@ def build_page(page_name: str, page_text: str) -> dict[str, Any]:
     page = empty_page_skeleton()
     if meta_text:
         page["meta"] = parse_meta_block(meta_text)
-    if not page["meta"]["slug"]:
-        page["meta"]["slug"] = re.sub(r"[^a-z0-9]+", "-", page_name.lower()).strip("-")
 
-    for component, _label, body in iter_sections(content):
+    sections = iter_sections(content)
+    if not sections:
+        print(f"  ! warning: no SECTION markers found for '{page_name}'", file=sys.stderr)
+
+    for component, _label, body in sections:
         if component not in COMPONENT_PARSERS:
             print(f"  ! unknown component <{component}> — skipped", file=sys.stderr)
             continue
@@ -1229,6 +1349,28 @@ def build_page(page_name: str, page_text: str) -> dict[str, Any]:
             page[key] = parser(body)
         except Exception as e:
             print(f"  ! failed parsing <{component}>: {e}", file=sys.stderr)
+
+    if not page["meta"]["slug"]:
+        # Prefer H1 / tag pill / page title for slug when meta package is missing
+        h1 = page.get("hero", {}).get("h1") or ""
+        tag = page.get("hero", {}).get("tagPill") or ""
+        raw = ""
+        if h1:
+            raw = re.split(r"\s+[—\-]\s+", h1)[0]
+            raw = re.sub(
+                r"\b(engines?|engine replacement|the complete uk guide)\b",
+                "",
+                raw,
+                flags=re.I,
+            ).strip(" —-")
+        if not raw and tag:
+            raw = tag.split("•")[0].strip()
+        if not raw:
+            raw = page_name
+        page["meta"]["slug"] = slugify(raw)
+    if not page["meta"]["title"] and page.get("hero", {}).get("h1"):
+        page["meta"]["title"] = page["hero"]["h1"]
+        page["meta"]["titleCharCount"] = len(page["meta"]["title"])
     return page
 
 
@@ -1272,10 +1414,24 @@ def main() -> int:
     print(f"Found {len(pages)} page(s) in {input_path.name}")
 
     written = []
+    used_slugs: set[str] = set()
     for name, page_text in pages:
         print(f"- Parsing: {name}")
-        data = build_page(name, page_text)
-        slug = data["meta"]["slug"] or re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+        try:
+            data = build_page(name, page_text)
+        except Exception as e:
+            print(f"  ! failed page '{name}': {e}", file=sys.stderr)
+            continue
+
+        slug = data["meta"]["slug"] or slugify(name)
+        if slug in used_slugs:
+            n = 2
+            while f"{slug}-{n}" in used_slugs:
+                n += 1
+            slug = f"{slug}-{n}"
+            data["meta"]["slug"] = slug
+        used_slugs.add(slug)
+
         out_path = out_dir / f"{slug}.json"
         out_path.write_text(
             json.dumps(data, indent=2, ensure_ascii=False) + "\n",

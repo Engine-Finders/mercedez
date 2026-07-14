@@ -475,7 +475,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "204DTD rating: 95% confidence — the single most-enquired engine in our dataset (1,150 JLR-wide) plus 362 model-level L550 enquiries [EM-VERIFIED]. The split rating (pre/post-2019) reflects a genuine hardware change, not opinion. 224DT, Si4 and P300e: Expert-knowledge tier — documented patterns and specialist reports; the P300e parc is simply too young for volume data."
+      "text": "204DTD rating: 95% confidence — the single most-enquired engine in our dataset (1,150 JLR-wide) plus 362 model-level L550 enquiries [EM-VERIFIED]. The split rating (pre/post-2019) reflects a genuine hardware change, not opinion. 224DT, Si4 and P300e: Expert-knowledge tier — documented patterns and specialist reports; the P300e parc is simply too young for volume data. Data note (internal): Correction applied: the source data sheet omitted the Ford-derived Si4 GTDi petrol (2015–2017, pre-Ingenium) — added as pattern data so early petrol owners aren't orphaned. 224DT years corrected to 2015–2016 (launch engine, replaced by Ingenium within the first year); the sheet's \"2.2 Duratorq\" listing implied longer availability."
     },
     "dataCorrections": []
   },

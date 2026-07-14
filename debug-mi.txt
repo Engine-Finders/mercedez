@@ -1,0 +1,21 @@
+﻿python : Traceback (most recent call last):
+At C:\Users\HP Computers\AppData\Local\Temp\ps-script-235a7a6b-ffcd-4d94-9054-6e48b0b8016a.ps1:80 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 30, in <module>
+    print('ROW', row[0][:50], '=>', row[1][:60] if len(row)>1 else '')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP Computers\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2011' in position 37: character maps to <undefined>
+engines 0
+variants 0
+failures 0
+avg ú1,500ûú4,500 reconditioned, supply only
+header ['Metric', 'Display', 'Most Requested E87 Engines (2025)']
+rows 2
+ROW 
