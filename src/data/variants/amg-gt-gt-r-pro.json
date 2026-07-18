@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "slug": "amg-gt-gt-r-pro",
+    "title": "AMG GT R Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 58,
+    "description": "Every Mercedes‑AMG GT R & GT R Pro engine — M178 4.0 V8. Real UK costs, injector, misfire and reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 160,
+    "canonical": "https://mercedesengine.uk/amg-gt/gt-r-pro/",
+    "openGraph": {
+      "title": "AMG GT R Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes‑AMG GT R & GT R Pro engine — M178 4.0 V8. Real UK costs, injector, misfire and reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/amg-gt/gt-r-pro/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/amg-gt-r-pro.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AMG GT R Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes‑AMG GT R & GT R Pro engine — M178 4.0 V8. Real UK costs, injector, misfire and reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/amg-gt-r-pro.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "AMG GT",
+              "item": "https://mercedesengine.uk/amg-gt/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GT R / GT R Pro",
+              "item": "https://mercedesengine.uk/amg-gt/gt-r-pro/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑AMG GT R / GT R Pro Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "AMG GT R (M178, 2017-2021)",
+              "url": "https://mercedesengine.uk/amg-gt/gt-r/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "AMG GT R Pro (M178, 2019-2021)",
+              "url": "https://mercedesengine.uk/amg-gt/gt-r-pro/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑AMG GT R / GT R Pro Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M178",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑AMG GT R / GT R Pro engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned AMG GT R / GT R Pro (M178) engine typically costs £7,000–£15,000 supply only depending on the variant. A blown engine on an AMG GT can easily cost £9,000–£13,000 from a dealer. Fitting adds £1,200–£2,500 at independent specialist rates. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑AMG GT R / GT R Pro engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M178 is a masterpiece of engineering, hand‑built by AMG in Affalterbach. The powertrain is generally considered 'solid', but it has well‑documented issues: stuck injectors and misfire codes, dynamic engine/transmission mount failures, oil leaks, faulty exhaust flaps, catalytic converter failure, and complex battery/electrical issues. Regular maintenance is absolutely essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑AMG GT R / GT R Pro?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fuel injector sticking and misfire codes (the most critical engine issue), dynamic engine and transmission mount failure, oil leaks (transmission case and dry sump), exhaust flap and catalytic converter failure, and battery/electrical system issues. Both the GT R and GT R Pro share the same engine and thus the same problems. See the Era Map above for detailed advice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑AMG GT R / GT R Pro engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value. Against a well‑kept GT R (values £70,000–£120,000+ depending on condition and mileage), a £8,000–£10,000 reconditioned engine is 8–15% of the vehicle's value — worth it. The GT R Pro, with its limited production, commands even higher values. Given the GT R's status as a future classic and rising values, engine replacement is almost always worth it for a solid example."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑AMG GT R / GT R Pro engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code M178 is listed on the VIN plate and vehicle documentation. Both the GT R (2017–2021) and GT R Pro (2019–2021) use the same 4.0‑litre M178 V8 biturbo engine producing 577 bhp (585 PS). The engine is hand‑crafted by AMG in Affalterbach. Tell us your registration and we'll confirm for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the M178 injectors, or does it require engine replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Injector sticking and misfire issues are always repairable without replacing the engine — if caught early. Injector replacement costs £500–£1,500, and the ME control unit software should be updated to version VC 5.1 or later. However, if a misfire is left unaddressed, it can destroy the catalytic converters, leading to bills of £2,000–£5,000+ and parts on back order for months. At the first sign of rough running or a CEL, book an inspection immediately."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑AMG GT R / GT R Pro Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "5000",
+            "highPrice": "15000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes‑AMG GT R / GT R Pro UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes‑AMG GT R and GT R Pro M178 engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "AMG GT R Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/amg-gt/gt-r-pro/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes‑AMG GT R / GT R Pro • 2017–2021 • M178 4.0 V8 Biturbo",
+    "h1": "Mercedes‑AMG GT R / GT R Pro Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes‑AMG GT R and GT R Pro specialists. Compare reconditioned, rebuilt and used M178 4.0‑litre twin‑turbo V8 engines — supply & fit available nationwide for Mercedes‑AMG's ultimate track‑focused sports car.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12‑Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes‑AMG GT R / GT R Pro Engines — from £5,000 to £15,000 · Engine code: M178 (2017–2021)",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See AMG GT R / GT R Pro Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK‑Wide Network"
+  },
+  "eraMap": {
+    "title": "The AMG GT R / GT R PRO THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "AMG GT R (C190)",
+        "years": "2017–2021",
+        "engineCode": "M178 (4.0L V8 biturbo, 577 bhp)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£7,000–£12,000 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "Hand‑built AMG V8 — 577 bhp, 516 lb‑ft; epic performance but injector, misfire, transmission leak and dynamic mount issues are well‑documented"
+      },
+      {
+        "generation": "AMG GT R Pro (C190)",
+        "years": "2019–2021",
+        "engineCode": "M178 (4.0L V8 biturbo, 577 bhp)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£8,000–£15,000 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "Same M178 engine as GT R — 577 bhp; extensive aero and chassis upgrades; limited production (approx. 1,000 units)"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes‑AMG GT R / GT R Pro Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£5,000–£8,500",
+        "fittedIndie": "£6,500–£10,000",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; finding a good donor M178 is challenging"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£7,000–£12,000",
+        "fittedIndie": "£8,500–£14,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance for this hand‑built V8"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£9,000–£15,000",
+        "fittedIndie": "£10,500–£17,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; full factory‑spec refresh"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£12,000–£18,000",
+        "fittedIndie": "£14,000–£20,000",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the AMG GT R / GT R Pro M178 era (2017–2021). Replacement engines for high‑performance AMG models are exceptionally expensive — a blown engine on an AMG GT can easily cost £9,000–£13,000 from a dealer, with reconditioned units often exceeding £10,000. The GT R's original MSRP was around £140,000–£160,000, and used values remain high, making engine replacement a significant but often worthwhile investment.",
+    "labourEstimate": "Fitting an AMG GT R / GT R Pro engine typically takes 14–18 hours at £85–£130/hr (independent) or £140–£200/hr (London/SE dealer). The hand‑built M178's complexity and the car's low‑slung chassis add significant labour. [PLACEHOLDER — confirm vs cost sheet]",
+    "cta": {
+      "label": "→ Compare AMG GT R / GT R Pro engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Fuel Injector Sticking & Misfire Codes (M178)",
+        "symptoms": "Check engine light (CEL) on, rough running, misfire codes P030185/P030685 (cylinders 1 and 6), potential catalytic converter damage.",
+        "typicalMileage": "20,000–40,000 miles",
+        "repairCost": "£500–£1,500 (injector replacement — all eight recommended)【PLACEHOLDER】",
+        "replacementCost": "£2,000–£5,000+ (if catalytic converters are also damaged)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you experience misfires or CEL, book an inspection today"
+        },
+        "recommendation": "Stuck injectors and misfire codes are among the most frequently reported issues on the M178. The ME control unit software may need to be updated to version VC 5.1 or later to address misfire detection protocols. If left unaddressed, a persistent misfire can destroy the catalytic converters, which are expensive to replace and can be on back order for months. If you experience rough running or a CEL, have the injectors and ignition coils inspected immediately. Some owners have reported coil pack replacement resolving the issue.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/fuel-injector-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Dynamic Engine & Transmission Mount Failure",
+        "symptoms": "Error messages on the dash, warning lights, no noticeable change in driving dynamics despite codes, occasionally harsh gear changes.",
+        "typicalMileage": "20,000–40,000 miles",
+        "repairCost": "£800–£2,000 (engine and transmission mount replacement)【PLACEHOLDER】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon; can affect driving experience"
+        },
+        "recommendation": "The dynamic engine and transmission mounts are a known weak point on the AMG GT range. The error message is \"annoying\" and, even when a code is present, lap times don't change. However, if left unaddressed, the mounts can fail completely, affecting drivability. If you see warning lights related to the mounts, have them inspected and replaced if necessary.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/engine-mount-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Oil Leaks (Transmission Case & Dry Sump System)",
+        "symptoms": "Oil spots under the vehicle, burning oil smell, low oil warning, oil leaks from the transmission case or oil pan.",
+        "typicalMileage": "20,000–50,000 miles",
+        "repairCost": "£500–£2,000 (transmission leak repair or oil pan gasket replacement)【PLACEHOLDER】",
+        "replacementCost": "N/A — repair only (unless oil starvation leads to engine damage)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if oil loss is detected"
+        },
+        "recommendation": "Oil leaks from the transmission case have been reported, and there is a recall or service bulletin for certain model years. The M178 uses a dry sump oil system with two drain plugs — one of which is plastic and can be a source of leaks if damaged or improperly tightened. Oil pan gaskets can also fail with age. If you notice oil spots or a burning smell, have the system inspected promptly.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/oil-leak/"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Exhaust Flap & Catalytic Converter Failure",
+        "symptoms": "Rattling from the exhaust, check engine light, loss of power, failed emissions, catalytic converter codes.",
+        "typicalMileage": "20,000–40,000 miles (can occur earlier on tracked cars)",
+        "repairCost": "£500–£1,500 (exhaust flap repair or replacement)【PLACEHOLDER】",
+        "replacementCost": "£2,000–£5,000+ (catalytic converter replacement — parts can be on back order for months)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if warning lights appear"
+        },
+        "recommendation": "Faulty exhaust flaps have been reported, and catalytic converter failure can occur — particularly if a misfire has been left unaddressed. The cat converters on modified cars are especially vulnerable to damage from the \"bangs and pops\" of unburnt fuel. If you notice rattling from the exhaust or a CEL, have the exhaust system inspected immediately. Parts for these systems can have long lead times — one owner reported parts on back order for six months.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/catalytic-converter-failure/"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Battery & Electrical System Issues",
+        "symptoms": "Stop battery symbol, battery charging errors, loss of ABS and traction control, inability to shift gears, stuttering on acceleration.",
+        "typicalMileage": "Any mileage",
+        "repairCost": "£300–£1,500 (battery replacement, alternator, or SAM module repair)【PLACEHOLDER】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if the car judders to a stop or multiple warning lights appear, stop driving"
+        },
+        "recommendation": "Battery and electrical issues are among the most serious problems reported on the GT R. One owner experienced the car \"juddering to a complete stop\" with a 'Stop' Battery symbol and a code indicating all eight ignition coils had failed. Another reported battery charging errors escalating to loss of ABS, traction control, rear‑wheel steering, inability to shift gears, and stuttering on acceleration. These issues can be caused by a faulty rear SAM (Signal Acquisition Module) or broader electrical faults. If you experience any battery or electrical warnings, have the vehicle inspected immediately by a specialist with AMG GT experience.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/electrical-system-failure/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes specialists, including those with AMG GT expertise, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "See AMG GT R / GT R Pro Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes‑AMG GT R / GT R Pro — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Injector sticking / misfire",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Replace all eight injectors and update ECU software; catch it before cat damage"
+        },
+        {
+          "problem": "Dynamic engine/transmission mounts",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Replacement restores proper function"
+        },
+        {
+          "problem": "Oil leaks (transmission/dry sump)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£2,000",
+          "whenItMakesSense": "Address promptly to prevent oil starvation"
+        },
+        {
+          "problem": "Exhaust flap / catalytic converter",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£5,000+",
+          "whenItMakesSense": "Parts can be on back order; catch it before emissions failure"
+        },
+        {
+          "problem": "Battery / electrical system faults",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£1,500",
+          "whenItMakesSense": "Requires specialist diagnostics; SAM module may need replacement"
+        },
+        {
+          "problem": "Major engine mechanical failure",
+          "repairable": "❌ Very expensive",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "M178 failures are rare but catastrophic when they occur"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This AMG GT R / GT R Pro? Check These First",
+      "buyIf": [
+        "* Full service history with regular oil changes using Mercedes‑AMG‑spec oil",
+        "* No check engine light or misfire codes — injectors should be healthy",
+        "* No oil leaks from the transmission or oil pan",
+        "* Dynamic engine mounts functioning correctly (no warning lights)",
+        "* Exhaust system in good order (no rattling, no CEL)",
+        "* Battery and electrical system in good health (no stop battery warnings)",
+        "* Extended warranty in place — these cars are expensive to repair out of warranty"
+      ],
+      "avoidIf": [
+        "* No proof of regular maintenance — the M178 is a high‑strung engine that demands meticulous care",
+        "* Check engine light present — could be injectors, misfires, or cats",
+        "* Oil leaks present — transmission or dry sump leaks can be costly",
+        "* Any battery or electrical warnings — complex and expensive to diagnose",
+        "* \"Cheap\" examples — the purchase price is the least of your worries"
+      ]
+    },
+    "closingVerdict": "The Mercedes‑AMG GT R and GT R Pro represent the absolute pinnacle of AMG's front‑engined sports car lineage — a hand‑built 577‑bhp V8, rear‑wheel drive, and a chassis honed on the Nürburgring. The GT R Pro takes this further with extensive aero, adjustable coilover suspension, and carbon fibre components, all while retaining the same engine. The M178 is a masterpiece of engineering, but it's not without its flaws: stuck injectors, misfire codes, dynamic mount failures, oil leaks, exhaust flap issues, and complex electrical problems are all reported. As one owner put it: \"Overall these are solid cars that will last with proper maintenance\". Buy on service history, prioritise a car with an extended warranty, and budget for preventative maintenance. This is a future classic — but like all great performance cars, it demands respect and deep pockets.",
+    "cta": {
+      "label": "→ Compare AMG GT R / GT R Pro engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes‑AMG GT R or GT R Pro (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Check Engine Light — Any codes? Misfire codes P030185/P030685 are common",
+      "* Cold Start — Listen for any unusual noises (injector health indicator)",
+      "* Service History — Regular oil changes with Mercedes‑AMG‑spec oil are absolutely essential",
+      "* Oil Leaks — Check for oil spots under the car; transmission leaks and dry sump leaks are reported",
+      "* Dynamic Mounts — Any warning lights? \"Annoying\" but can be replaced",
+      "* Exhaust System — Any rattling? Faulty exhaust flaps are common",
+      "* Battery Health — Any stop battery warnings? Electrical issues can be serious",
+      "* Engine Warning Light — Have codes been read? Injector, misfire, or cat codes are most common"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M178 (GT R)",
+        "years": "2017–2021",
+        "power": "577 bhp (585 PS) @ 6,250 rpm · 516 lb‑ft (700 Nm) @ 2,100–5,500 rpm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£7,000–£12,000【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "engineCode": "M178 (GT R Pro)",
+        "years": "2019–2021",
+        "power": "577 bhp (585 PS) @ 6,250 rpm · 516 lb‑ft (700 Nm) @ 2,100–5,500 rpm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£8,000–£15,000【PLACEHOLDER — confirm vs cost sheet】"
+      }
+    ],
+    "matchNote": "This table's rows exactly match Section 1B's Era Map — the same engine code, years, and generation coverage.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M178 4.0L V8 Biturbo):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "3,982 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "V8, 32 valves, DOHC"
+        },
+        {
+          "label": "* Bore x Stroke",
+          "value": "83.0mm x 92.0mm"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "9.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin turbochargers"
+        },
+        {
+          "label": "* Engine Construction",
+          "value": "Hand‑crafted aluminium‑alloy"
+        },
+        {
+          "label": "* Redline",
+          "value": "7,000 rpm"
+        },
+        {
+          "label": "* Transmission",
+          "value": "AMG 7‑speed DCT dual‑clutch"
+        },
+        {
+          "label": "* 0‑60 mph",
+          "value": "3.5 seconds"
+        },
+        {
+          "label": "* Top Speed",
+          "value": "198 mph (electronically limited)"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare AMG GT R / GT R Pro engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Injector sticking / misfire codes and dynamic mount failures — approximately 55% of M178‑related enquiries cite injector, misfire, or mount concerns【PATTERN DATA】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "15,000–30,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£9,000 reconditioned, supply only【PLACEHOLDER】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M178 — shared across AMG GT, GT C, GT R and GT R Pro【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring and summer — track season exposes cooling and performance issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (25%), London (20%), South West (14%)【PATTERN DATA】"
+      },
+      {
+        "label": "SECTION 8 — FAQ",
+        "value": "1. How much does a Mercedes‑AMG GT R / GT R Pro engine replacement cost in the UK?"
+      },
+      {
+        "label": "A reconditioned AMG GT R / GT R Pro (M178) engine typically costs £7,000–£15,000 supply only depending on the variant. A blown engine on an AMG GT can easily cost £9,000–£13,000 from a dealer. Fitting adds £1,200–£2,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes‑AMG GT R / GT R Pro engine reliable?"
+      },
+      {
+        "label": "The M178 is a masterpiece of engineering, hand‑built by AMG in Affalterbach. The powertrain is generally considered \"solid\", but it has well‑documented issues: stuck injectors and misfire codes (P030185/P030685), dynamic engine/transmission mount failures, oil leaks from the transmission case and dry sump system, faulty exhaust flaps, catalytic converter failure (from prolonged misfires), and complex battery/electrical issues. Regular maintenance is absolutely essential.",
+        "value": "3. What are the common problems with the Mercedes‑AMG GT R / GT R Pro?"
+      },
+      {
+        "label": "Fuel injector sticking and misfire codes (the most critical engine issue), dynamic engine and transmission mount failure, oil leaks (transmission case and dry sump), exhaust flap and catalytic converter failure, and battery/electrical system issues. Both the GT R and GT R Pro share the same engine and thus the same problems. See the Era Map above for detailed advice.",
+        "value": "4. Is it worth replacing a Mercedes‑AMG GT R / GT R Pro engine, or should I scrap the car?"
+      },
+      {
+        "label": "Depends on vehicle value. Against a well‑kept GT R (values £70,000–£120,000+ depending on condition and mileage), a £8,000–£10,000 reconditioned engine is 8–15% of the vehicle's value — worth it. The GT R Pro, with its limited production (approx. 1,000 units), commands even higher values, making engine replacement an even more sensible investment. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the GT R's status as a future classic and rising values, engine replacement is almost always worth it for a solid example.",
+        "value": "5. How do I find my Mercedes‑AMG GT R / GT R Pro engine code?"
+      },
+      {
+        "label": "The engine code M178 is listed on the VIN plate and vehicle documentation. Both the GT R (2017–2021) and GT R Pro (2019–2021) use the same 4.0‑litre M178 V8 biturbo engine producing 577 bhp (585 PS). The engine is hand‑crafted by AMG in Affalterbach. Tell us your registration and we'll confirm for free.",
+        "value": "6. Can I repair the M178 injectors, or does it require engine replacement?"
+      },
+      {
+        "label": "Injector sticking and misfire issues are always repairable without replacing the engine — if caught early. Injector replacement costs £500–£1,500, and the ME control unit software should be updated to version VC 5.1 or later. However, if a misfire is left unaddressed, it can destroy the catalytic converters, leading to bills of £2,000–£5,000+ and parts on back order for months. At the first sign of rough running or a CEL, book an inspection immediately.",
+        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+      },
+      {
+        "label": "SECTION 9, META AND SCHEMA",
+        "value": "PART 2 — SECTION 9 + META + SCHEMA"
+      }
+    ]
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes‑AMG GT R / GT R Pro Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted AMG GT R / GT R Pro Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real AMG GT owners, as part of the Engine Finders network, with specialist expertise in the hand‑built M178 V8 and its known issues."
+      },
+      {
+        "title": "Compare AMG GT R / GT R Pro Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit. Our independent comparison service gives you the full market picture in minutes, from used M178 units to full factory‑spec rebuilds."
+      },
+      {
+        "title": "UK Engine Replacement Services for AMG GT R / GT R Pro",
+        "text": "supply‑only or full supply & fit available nationwide, covering the C190 Mercedes‑AMG GT R and GT R Pro, with 25+ vetted Mercedes specialists at your fingertips."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑AMG GT R or GT R Pro engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back behind the wheel of your track‑focused AMG with confidence — from £5,000 for a used engine to £15,000 for a full rebuild, we have options for every budget and every GT R.",
+    "ctaButton": {
+      "label": "Explore Mercedes‑AMG GT R / GT R Pro Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

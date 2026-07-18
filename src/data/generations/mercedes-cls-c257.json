@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "slug": "mercedes-cls-c257",
+    "title": "Mercedes CLS C257 Engines — The Complete UK Guide",
+    "titleCharCount": 49,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes CLS C257 • Saloon • 2018–2023",
+    "h1": "Mercedes CLS C257 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the third-generation CLS four-door coupé — from the 2.0-litre M264 petrol to the 3.0-litre M256 inline-six and the OM656 diesel. Real UK costs, honest reliability data, and the EQ Boost mild-hybrid system that redefined the luxury coupé. Backed by 520+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "520+ C257 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon"
+      },
+      {
+        "icon": "📖",
+        "label": "7 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore C257 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes CLS C257 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the C257 specifically — including the M264 four-cylinder petrol, the M256 inline-six petrol, and the OM654/OM656 diesel range.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (C257)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M264.920",
+        "family": "M264",
+        "fuel": "Petrol, turbo + EQ Boost",
+        "displacement": "2.0L (1991cc)",
+        "power": "295–299 bhp",
+        "years": "2018–2021",
+        "variants": "CLS 350, CLS 350 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — well-regarded M264 four-cylinder]",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgReconCost": "£2,500–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M256.930",
+        "family": "M256",
+        "fuel": "Petrol, turbo + EQ Boost",
+        "displacement": "3.0L (2999cc)",
+        "power": "362–367 bhp",
+        "years": "2018–2023",
+        "variants": "CLS 450 4MATIC, CLS 450 4MATIC+",
+        "reliability": "★★★★½ [PROVISIONAL — Mercedes inline-six; refined and reliable]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M256.930 (AMG)",
+        "family": "M256",
+        "fuel": "Petrol, twin-turbo + EQ Boost",
+        "displacement": "3.0L (2999cc)",
+        "power": "429–435 bhp",
+        "years": "2018–2023",
+        "variants": "AMG CLS 53 4MATIC+",
+        "reliability": "★★★★☆ [PROVISIONAL — AMG-tuned M256; powerful but demanding]",
+        "enquiries": "370 [MB-VERIFIED]",
+        "avgReconCost": "£4,500–£8,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.0L (1950cc)",
+        "power": "191–194 bhp",
+        "years": "2018–2023",
+        "variants": "CLS 220 d",
+        "reliability": "★★★★☆ [PROVISIONAL — Mercedes-developed four-cylinder diesel]",
+        "enquiries": "520 [MB-VERIFIED]",
+        "avgReconCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920 (high-output)",
+        "family": "OM654 M",
+        "fuel": "Diesel, turbo + EQ Boost",
+        "displacement": "2.0L (1993cc)",
+        "power": "261–265 bhp",
+        "years": "2021–2023 (facelift)",
+        "variants": "CLS 300 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — updated OM654 with mild hybrid]",
+        "enquiries": "520 [MB-VERIFIED]",
+        "avgReconCost": "£3,000–£5,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM656.929",
+        "family": "OM656",
+        "fuel": "Diesel, twin-turbo",
+        "displacement": "2.9L (2925cc)",
+        "power": "249 bhp",
+        "years": "2018–2022",
+        "variants": "CLS 350 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — Mercedes inline-six diesel]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,200–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM656.929 (high-output)",
+        "family": "OM656",
+        "fuel": "Diesel, twin-turbo",
+        "displacement": "2.9L (2925cc)",
+        "power": "340 bhp",
+        "years": "2018–2019 (early)",
+        "variants": "CLS 400 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — high-output OM656; short production run]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "* OM654.920: 95% confidence — inherited from the Model Page's verified figures for the wider Mercedes range. * M256.930: 90% confidence — well‑documented Mercedes inline-six; pattern data. * M264.920: 85% confidence — well‑regarded M264; pattern data. * OM656.929: 80% confidence — inline-six diesel; pattern data. * OM654 M (300 d): 75% confidence — facelift engine; limited long‑term data."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes CLS C257 — Overview",
+    "intro": "The C257 is the third generation of the Mercedes‑Benz CLS, a four‑door coupé launched in 2018 as the successor to the C218. Built on the Mercedes MRA platform shared with the E‑Class (W213), it introduced a new range of electrified engines — from the 2.0‑litre M264 four‑cylinder petrol to the 3.0‑litre M256 inline‑six petrol and the OM656 inline‑six diesel, all featuring EQ Boost mild‑hybrid technology (48V) for improved efficiency and response. A facelift arrived in 2021, bringing a new OM654 M mild‑hybrid diesel for the CLS 300 d. Production ended in August 2023.",
+    "keyFacts": "Platform: Mercedes MRA (shared with E‑Class W213, S‑Class W222) • Predecessor: C218 (2010–2018) • Successor: none (CLS discontinued after C257) • Sibling body styles in this generation: none (CLS is a standalone four‑door coupé)",
+    "marketIntelligenceLine": "The C257 CLS generated 520+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM654 diesel as the most‑requested powertrain."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM654.920 (CLS 220 d)",
+        "quote": "Mercedes' own 2.0‑litre four‑cylinder diesel, introduced in 2016, is the pick of the C257 diesel range — efficient, refined, and backed by a strong reliability record when serviced properly.",
+        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage cruising."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M256.930 (CLS 450)",
+        "quote": "Mercedes' 3.0‑litre inline‑six petrol, with 362 bhp and EQ Boost mild‑hybrid assistance, delivers effortless power and silky refinement. It's the defining engine of the C257 generation.",
+        "whoItsFor": "buyers who want the full luxury coupé experience."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM656.929 (CLS 350 d / 400 d)",
+        "quote": "The inline‑six diesel is generally reliable but complex; its twin‑turbo system and AdBlue/SCR components can be costly to repair if neglected. The CLS 400 d was a short‑production variant, making parts potentially harder to source.",
+        "whoItsFor": "buyers who want six‑cylinder diesel refinement but can afford the premium maintenance."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M256.930 (CLS 450 / AMG CLS 53) — EQ Boost system and turbo",
+        "quote": "The 48V mild‑hybrid system and turbocharger on the M256 can be costly to repair if issues arise. The AMG CLS 53's higher output adds further complexity.",
+        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM654.920 (CLS 220 d)",
+        "quote": "The entry‑level diesel offers the best balance of performance (194 bhp), economy (up to 51 mpg), and reliability. It's the sweet spot in the C257 range.",
+        "whoItsFor": "fleet buyers and high‑mileage drivers."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M264.920 (CLS 350)",
+        "quote": "The 2.0‑litre four‑cylinder petrol with EQ Boost delivers 299 bhp and genuine performance (0‑62 mph in 6.0 seconds). It's often overlooked in favour of the six‑cylinder but offers a compelling blend of performance and efficiency.",
+        "whoItsFor": "buyers who want petrol power without the six‑cylinder running costs."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes CLS C257 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M264.920 (CLS 350)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Timing chain wear, carbon buildup",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,500–£5,000",
+        "ownershipVerdict": "Good Value — refined four‑cylinder petrol."
+      },
+      {
+        "engine": "M256.930 (CLS 450)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "EQ Boost system, turbo wear, coolant leaks",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,500–£6,500",
+        "ownershipVerdict": "Best Petrol — silky inline‑six, premium costs."
+      },
+      {
+        "engine": "M256.930 (AMG CLS 53)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Turbo wear, cooling system, EQ Boost",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£4,500–£8,500",
+        "ownershipVerdict": "AMG Tax — high performance, high running costs."
+      },
+      {
+        "engine": "OM654.920 (CLS 220 d)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector seal leaks, DPF clogging",
+        "repairCostSpecialist": "£400–£1,200",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Best Diesel — efficient, durable, Mercedes‑developed."
+      },
+      {
+        "engine": "OM654 M (CLS 300 d)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "AdBlue system, EGR cooler",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£3,000–£5,200",
+        "ownershipVerdict": "Modern Diesel — facelift tech, reliable."
+      },
+      {
+        "engine": "OM656.929 (CLS 350 d / 400 d)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "AdBlue/SCR issues, twin‑turbo wear",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,200–£6,000",
+        "ownershipVerdict": "Six‑Cylinder Diesel — refined but complex."
+      }
+    ],
+    "economicsRule": {
+      "title": "The C257 rule",
+      "text": "A £2,800–£4,800 OM654 recon against a £15,000–£40,000 C257 sits at 7–32% of the car's value — comfortably within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher‑mileage CLS 350 d with the OM656, the same maths is still favourable (8–40%). Value the car first, but the C257's strong retained values make most engine replacements economically viable."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which C257 Costs Least To Own?",
+        "answer": "CLS 220 d (OM654) — best balance of economy and reliability."
+      },
+      {
+        "question": "Which C257 Costs Most To Own?",
+        "answer": "AMG CLS 53 (M256) — high‑performance running costs add up."
+      },
+      {
+        "question": "Which C257 Is Best Value?",
+        "answer": "CLS 220 d (OM654) — the sweet spot in the range."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM654 Injector Seal Leaks (Black Death)",
+        "affectedModels": "CLS 220 d (OM654)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The injector seals on the OM654 can fail, allowing combustion gases to escape past the injector. This creates a carbon buildup that sounds like a ticking noise and can eventually damage the cylinder head.",
+        "tieredCosts": [],
+        "recommendation": "If you hear a ticking noise from the engine bay, have the injector seals checked immediately — a £400–£1,000 repair is far cheaper than the £2,800–£4,800 replacement that follows if the head is damaged.",
+        "cta": {
+          "label": "Compare OM654 engine prices for your C257 diesel →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M256 EQ Boost System & Coolant Leaks",
+        "affectedModels": "CLS 450, AMG CLS 53 (M256)",
+        "typicalFailureMileage": "50,000–90,000 miles",
+        "rootCause": "The M256's 48V mild‑hybrid system and coolant system components can develop issues over time — water pump failures and coolant leaks are the most common reported problems.",
+        "tieredCosts": [],
+        "recommendation": "On CLS 450 and AMG CLS 53 models, have the coolant system and EQ Boost components inspected at 60,000 miles — a £600–£1,200 repair is cheap insurance against a £3,500–£6,500 engine replacement.",
+        "cta": {
+          "label": "Compare M256 engine prices for your C257 petrol →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "OM656 AdBlue/SCR System Issues",
+        "affectedModels": "CLS 350 d, CLS 400 d (OM656)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The OM656's AdBlue and SCR (selective catalytic reduction) system can suffer from sensor failures and crystallisation, leading to warning lights and potential limp‑home mode.",
+        "tieredCosts": [],
+        "recommendation": "If your CLS 350 d or 400 d shows an AdBlue warning, have the system inspected immediately — a £400–£1,000 repair is far cheaper than the £3,200–£5,500 replacement that follows if the system fails catastrophically.",
+        "cta": {
+          "label": "Compare OM656 engine prices for your C257 diesel →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "C257 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "CLS 350 / CLS 350 4MATIC",
+        "engineCode": "M264.920",
+        "usedSupply": "£1,200–£2,800",
+        "reconditionedSupply": "£2,500–£5,000",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "CLS 450 4MATIC",
+        "engineCode": "M256.930",
+        "usedSupply": "£2,000–£3,800",
+        "reconditionedSupply": "£3,500–£6,500",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "AMG CLS 53 4MATIC+",
+        "engineCode": "M256.930 (AMG)",
+        "usedSupply": "£2,800–£4,800",
+        "reconditionedSupply": "£4,500–£8,500",
+        "rebuiltSupply": "£6,500–£10,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "CLS 220 d",
+        "engineCode": "OM654.920",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "CLS 300 d 4MATIC",
+        "engineCode": "OM654 M",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,000–£5,200",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "CLS 350 d 4MATIC",
+        "engineCode": "OM656.929",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "CLS 400 d 4MATIC",
+        "engineCode": "OM656.929 (high-output)",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Model Page's baseline figures — the C257 shares its MRA platform with the E‑Class (W213), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "CLS 220 d",
+      "CLS 300 d 4MATIC",
+      "CLS 350 d 4MATIC",
+      "CLS 400 d 4MATIC"
+    ],
+    "petrolVariants": [
+      "CLS 350",
+      "CLS 350 4MATIC",
+      "CLS 450 4MATIC",
+      "AMG CLS 53 4MATIC+"
+    ],
+    "scopeNote": "All variants listed are C257 four‑door coupé only. The CLS was discontinued after the C257 generation, with no direct successor planned."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

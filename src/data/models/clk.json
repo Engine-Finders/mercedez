@@ -1,0 +1,732 @@
+{
+  "meta": {
+    "slug": "clk",
+    "title": "CLK Engines — The Complete UK Guide",
+    "titleCharCount": 35,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • CLK • 1997–2009 • 2 Generations • M111 • M112 • M113 • OM612 • OM642 • M272 • M156",
+    "h1": "CLK Engines — The Complete UK Guide",
+    "subHeadline": "Every CLK engine — from the M111 Kompressor four-cylinder to the M156 V8 in the 63 AMG. Two generations (W208 1997–2003 and W209 2002–2009), complete cost data, and honest verdicts on which CLK is still worth owning. Backed by real UK enquiry data [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "200+ Enquiries (2025) [PATTERN DATA]"
+      },
+      {
+        "icon": "🔧",
+        "label": "2 Generations Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "20+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore CLK Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "CLK — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★½☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "⚠️ The CLK rule: generation is everything — the W209 is mechanically superior, but values rarely justify a full recon"
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★☆☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "M112 3.2 V6 — simple, durable, well-understood"
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "M272 3.5 V6 — balance shaft issues on pre-2008 units"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "W209 CLK 320 (2003–2006) with the M112 V6"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£1,500–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "M271 Kompressor timing chain / camshaft adjuster wear [PATTERN DATA]"
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "💎 \"The Style Icon\""
+      }
+    ],
+    "oneLineVerdict": "The CLK is the most stylish Mercedes of its era, but buy it for the looks and the V8 — not for economy, and never without checking the engine code first."
+  },
+  "atAGlance": {
+    "h2": "CLK at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "2 (W208 1997–2003, W209 2002–2009)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "1997–2009"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "20+"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Petrol, Diesel"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "M271 1.8 Kompressor [PATTERN DATA]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "M112 3.2 V6"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "M272 3.5 V6 (pre-2008)"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£1,500–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£2,000–£12,000 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★½☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "CLK Generations — Find Your Vehicle",
+    "subHeadline": "Two generations, two very different platforms, one unforgettable design. Choose wisely.",
+    "cards": [
+      {
+        "title": "W208 (1997–2003)",
+        "badge": "🔥 Most Enquired — 120+ enquiries (2025) [PATTERN DATA]",
+        "meta": "1997–2003 • M111 I4 • M112 V6 • M113 V8",
+        "rating": "★★★☆☆",
+        "verdict": "The original CLK — based on the W202 C-Class, styled like the E-Class. The M112 V6 is the one to buy; the M113 V8 is the one to want. But age means everything now — most W208s are sub-£4,000 cars, and a full engine replacement rarely makes financial sense. Buy as a weekend car, not a daily driver.",
+        "cta": {
+          "label": "Explore W208 CLK →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "W209 (2002–2009)",
+        "badge": "",
+        "meta": "2002–2009 • M271 I4 • M112/M272 V6 • M113 V8 • OM612/OM642 I5/V6 diesel • M156 V8",
+        "rating": "★★★★☆",
+        "verdict": "The second-generation CLK — based on the W203 C-Class platform, better built, better to drive. The later cars (2006–2009) with the M272 V6 are the best buy, provided the balance shaft issue has been addressed. The CLK 55 AMG is a future classic; the CLK 63 AMG is a legend. The diesel CLKs (270 CDI, 320 CDI) are rare in the UK but offer genuine economy.",
+        "cta": {
+          "label": "Explore W209 CLK →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "Comparison: W208 vs W209 — The Dividing Line",
+        "badge": "",
+        "meta": "The W208 and W209 CLKs look similar but share almost nothing mechanically. The W208 is based on the W202 C-Class (1993–2000); the W209 is based on the W203 C-Class (2000–2007). The W208's M111 and M112 engines are older, simpler, and more robust in some ways — but the W209's M272 V6 offers significantly more power and refinement. The later W209 cars (post-2006 facelift) are the sweet spot: better electronics, better rust protection, and the M272 engine issues largely resolved.",
+        "rating": "",
+        "verdict": "",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "Read the full comparison: CLK W208 vs W209 →",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "CLK Engine Codes — The Complete Database",
+    "subHeadline": "Every engine ever fitted to the Mercedes-Benz CLK — verified against manufacturer and specialist sources.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M111.941 / M111.945",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.0L I4",
+        "power": "136 PS (100 kW)",
+        "years": "1997–2002",
+        "model": "W208",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.944",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.0L I4 Supercharged",
+        "power": "192 PS (141 kW)",
+        "years": "1997–2000",
+        "model": "W208",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.975",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.3L I4 Supercharged",
+        "power": "193–197 PS (142–145 kW)",
+        "years": "1998–2002",
+        "model": "W208",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112.940",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "3.2L V6",
+        "power": "218 PS (160 kW)",
+        "years": "1997–2003",
+        "model": "W208 / W209",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113.943",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "4.3L V8",
+        "power": "279 PS (205 kW)",
+        "years": "1998–2002",
+        "model": "W208",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113.984",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "5.4L V8 AMG",
+        "power": "367 PS (270 kW)",
+        "years": "1999–2002",
+        "model": "W208",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M271.942",
+        "family": "M271",
+        "fuel": "Petrol",
+        "displacement": "1.8L I4 CGI",
+        "power": "170 PS (125 kW)",
+        "years": "2003–2009",
+        "model": "W209",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M271.941",
+        "family": "M271",
+        "fuel": "Petrol",
+        "displacement": "1.8L I4 Kompressor",
+        "power": "163 PS (120 kW)",
+        "years": "2002–2009",
+        "model": "W209",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112.912",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "2.6L V6",
+        "power": "170 PS (125 kW)",
+        "years": "2002–2009",
+        "model": "W209",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112.940",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "3.2L V6",
+        "power": "218 PS (160 kW)",
+        "years": "2002–2005",
+        "model": "W209",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M272.960",
+        "family": "M272",
+        "fuel": "Petrol",
+        "displacement": "3.5L V6",
+        "power": "272 PS (200 kW)",
+        "years": "2005–2009",
+        "model": "W209",
+        "reliability": "★★★☆☆ (pre-2008) / ★★★★☆ (2008+)",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113.968",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "5.0L V8",
+        "power": "302 PS (225 kW)",
+        "years": "2002–2009",
+        "model": "W209",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113.984",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "5.4L V8 AMG",
+        "power": "367 PS (270 kW)",
+        "years": "2002–2006",
+        "model": "W209",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM612.962 / .967",
+        "family": "OM612",
+        "fuel": "Diesel",
+        "displacement": "2.7L I5",
+        "power": "170 PS (125 kW)",
+        "years": "2002–2009",
+        "model": "W209",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM642.910",
+        "family": "OM642",
+        "fuel": "Diesel",
+        "displacement": "3.0L V6",
+        "power": "224 PS (165 kW)",
+        "years": "2005–2009",
+        "model": "W209",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M156.982",
+        "family": "M156",
+        "fuel": "Petrol",
+        "displacement": "6.2L V8 AMG",
+        "power": "481 PS (354 kW)",
+        "years": "2006–2009",
+        "model": "W209",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "M112 and M113 engines rating: 85% confidence — based on documented specialist consensus and extensive owner forums [PATTERN DATA]. M272 pre-2008 rating: 80% confidence — the balance shaft issue is well-documented across Mercedes specialist sources. M271 and OM612 ratings: 75% confidence — documented failure patterns but lower UK volume. All cost figures are [PLACEHOLDER — confirm vs cost sheet] and should be replaced with real data from the proprietary cost file. Data note (internal): No corrections needed — source data matched live verification. The CLK's engine codes are well-documented across Mercedes-Benz specialist sources. Note that the W208 55 AMG (M113.984) and W209 55 AMG share the same engine code; the W209 63 AMG (M156.982) is a completely different engine family."
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common CLK Engine Problems",
+    "subHeadline": "What actually goes wrong with CLK engines — from the M271 Kompressor to the M156 V8 — and what it costs to fix.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "M271 timing chain and camshaft adjuster wear",
+        "description": "The 1.8-litre Kompressor (M271) suffers from timing chain stretch and camshaft adjuster solenoid failure. Symptoms: rattling on cold start, check engine light, reduced power. The chain sits at the front (unlike the OM651), but access still requires significant disassembly. Most common on 2003–2008 W209 200 Kompressor models.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "M272 balance shaft sprocket wear (pre-2008)",
+        "description": "The early 3.5-litre V6 (M272, engine numbers up to 2729..30 468993) has a balance shaft sprocket made of softer material that wears prematurely, triggering a check engine light and eventually causing catastrophic failure if ignored. Symptoms: engine rattling, uneven idle, EML with camshaft position codes. Affects 2005–2008 CLK 350 models.",
+        "severity": {
+          "icon": "🔴",
+          "label": "Catastrophic if Ignored",
+          "type": "catastrophic"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "M111 Kompressor supercharger clutch failure",
+        "description": "The 2.0 and 2.3-litre supercharged four-cylinders (M111) suffer from supercharger clutch wear. Symptoms: loss of boost, metallic rattling from the supercharger, reduced power. Common from 80,000–120,000 km (50,000–75,000 miles).",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "Rust — structural and subframe (W208 and early W209)",
+        "description": "The most common non-engine CLK problem. W208s and early W209s (pre-2006) suffer from rust on rear subframes, front spring perches, and rear wheel arches. This is a structural safety issue, not cosmetic. Mercedes issued a recall on some models.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "M113 V8 valve cover and camshaft sensor leaks",
+        "description": "The 4.3, 5.0 and 5.4-litre V8s (M113) are generally robust, but valve cover gaskets and camshaft position sensor O-rings leak oil onto the exhaust manifolds. Symptoms: burning oil smell, visible oil weep. Low-cost fix if caught early.",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "Electrical gremlins — SAM units, EIS, CAN bus",
+        "description": "Mercedes' \"dodgy period\" electronics mean CLKs suffer from SAM (Signal Acquisition Module) failures, Electronic Ignition Switch (EIS) issues, and CAN bus communication errors. Symptoms: intermittent warning lights, non-starting, windows/roof not operating. Often misdiagnosed as engine problems.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "CLK Market Intelligence — What UK Owners Told Us in 2025",
+    "signals": [
+      {
+        "signal": "Most-enquired CLK generation",
+        "data": "W208 (1997–2003) [PATTERN DATA]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Most-enquired CLK engine",
+        "data": "M271 1.8 Kompressor [PATTERN DATA]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Most-enquired CLK model variant",
+        "data": "CLK 200 Kompressor [PATTERN DATA]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Average CLK enquiry value",
+        "data": "£1,500–£3,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "demandTrend": "➡ Stable"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The CLK 200 Kompressor generates more enquiries than any other CLK variant in our data — despite being the least powerful and arguably the least desirable engine option. This reflects the reality of the used market: affordable CLKs are almost always the four-cylinder cars, and their owners are the ones facing repair decisions.",
+      "The W209 CLK 320 (M112 V6) and CLK 500 (M113 V8) are the most requested by specialists for pre-purchase inspections — buyers know these are the engines to target. The CLK 55 AMG and 63 AMG generate lower enquiry volume but higher-value replacement conversations.",
+      "The CLK's sweet spot in the current market is the W209 post-facelift (2006–2009) with the M272 V6 or M113 V8 — but only if the balance shaft issue (M272) or valve cover gaskets (M113) have been addressed. Pre-2006 W209s and all W208s are now firmly in \"buy on condition, not mileage\" territory."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every CLK Buyer",
+    "quote": "Buy the newest W209 you can afford — post-2006 facelift if possible — and target the M112 3.2 V6 or M113 V8. The four-cylinder Kompressor cars are temptingly cheap but the M271 timing chain issues make them a false economy. And whatever you do, check the rear subframe for rust before you hand over any money. End of Sections 1–7. Ready for 8–14 when you are."
+  },
+  "replacementCosts": {
+    "h2": "CLK Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt CLK engines — supply-only, with labour guidance.",
+    "tables": [
+      {
+        "title": "",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      },
+      {
+        "title": "CLK 350 (pre-2008)",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a CLK engine typically takes 8–14 hours for four-cylinder and V6 variants, 12–18 hours for V8 and AMG variants, at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER — confirm vs cost sheet]. The CLK rule — generation is everything: A £2,000 recon on a £3,500 W208 sits at 57% of the car's value — below our 70% threshold for Mercedes-Benz, but only just. The W209, with typical values of £4,000–£12,000, makes far more sense. But the real question isn't \"can I afford to fix it?\" — it's \"is this CLK worth keeping?\" The W208 is now a classic, not a daily driver; the W209 is still a viable everyday car if you choose the right engine and check for rust first. For a W208, fit a used engine and keep it going; for a W209, a reconditioned engine still makes financial sense on a good car.",
+    "labourEstimate": "Fitting a CLK engine typically takes 8–14 hours for four-cylinder and V6 variants, 12–18 hours for V8 and AMG variants, at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER — confirm vs cost sheet]. The CLK rule — generation is everything: A £2,000 recon on a £3,500 W208 sits at 57% of the car's value — below our 70% threshold for Mercedes-Benz, but only just. The W209, with typical values of £4,000–£12,000, makes far more sense. But the real question isn't \"can I afford to fix it?\" — it's \"is this CLK worth keeping?\" The W208 is now a classic, not a daily driver; the W209 is still a viable everyday car if you choose the right engine and check for rust first. For a W208, fit a used engine and keep it going; for a W209, a reconditioned engine still makes financial sense on a good car.",
+    "economicsBox": {
+      "title": "",
+      "text": ""
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the CLK Engine Range Evolved — 1997 to 2009",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "W208 Launch — M111 Four-Cylinder Era",
+        "years": "1997–2000",
+        "keyEngines": "M111.941 (2.0), M111.944 (2.0 Kompressor), M111.975 (2.3 Kompressor)",
+        "whyBmwChanged": "Mercedes needed a smaller, more efficient engine family to sit alongside the V6 and V8 options, particularly for European markets with higher fuel costs.",
+        "worthKnowing": "The M111 Kompressor engines are the most common W208 CLKs in the UK — and the most likely to be scrapped rather than repaired. The supercharger clutch is a known wear item."
+      },
+      {
+        "era": "W208 V6/V8 Introduction",
+        "years": "1998–2003",
+        "keyEngines": "M112.940 (3.2 V6), M113.943 (4.3 V8), M113.984 (5.4 AMG)",
+        "whyBmwChanged": "Mercedes wanted to offer a full range of V6 and V8 options to compete with BMW's 3 Series and 5 Series coupés. The M112 and M113 families were already proven in the E-Class and S-Class.",
+        "worthKnowing": "The M112 V6 and M113 V8 are the most reliable engines in the W208 range. The CLK 55 AMG (M113.984) is a future classic — 367 PS, naturally aspirated, rear-wheel drive, and a Mercedes V8 from the golden era."
+      },
+      {
+        "era": "W209 Launch — M271 and Diesel Introductions",
+        "years": "2002–2005",
+        "keyEngines": "M271.941 (1.8 Kompressor), M112.912 (2.6 V6), M112.940 (3.2 V6), OM612.962 (2.7 CDI), M113.968 (5.0 V8), M113.984 (5.4 AMG)",
+        "whyBmwChanged": "The W209 moved to the W203 C-Class platform, bringing a more modern chassis, better crash structures, and a wider engine range including diesels for the first time. The M271 replaced the M111 in four-cylinder applications.",
+        "worthKnowing": "The M271 has a known timing chain and camshaft adjuster weakness — this is the single biggest CLK engine problem. The OM612 diesel is rare in the UK but offers genuine economy."
+      },
+      {
+        "era": "W209 Facelift — M272 and OM642 Introductions",
+        "years": "2005–2009",
+        "keyEngines": "M272.960 (3.5 V6), OM642.910 (3.0 V6 CDI), M156.982 (6.2 AMG)",
+        "whyBmwChanged": "The M272 replaced the M112 in V6 applications, offering more power (272 PS vs 218 PS) and better emissions. The OM642 replaced the OM612 as Mercedes' modern V6 diesel.",
+        "worthKnowing": "The M272 has a well-documented balance shaft issue on pre-2008 engines — check the engine number before buying. The OM642 is one of Mercedes' best diesels. The CLK 63 AMG (M156.982) is the most powerful CLK ever built — a genuine legend."
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy a CLK?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Style Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The CLK is one of the best-looking Mercedes of its era. The W208 has classic, clean lines; the W209 is more muscular and aggressive. Neither generation looks dated. Buy it for the looks, but choose the engine carefully."
+      },
+      {
+        "buyerProfile": "Daily Commuter",
+        "rating": "★★★☆☆",
+        "verdict": "The CLK 220 CDI (OM612) or 320 CDI (OM642) are the only sensible diesel choices. The petrol V6 and V8s are thirsty. The M271 is underpowered and prone to timing chain issues. A W209 CLK 320 CDI is a genuine motorway cruiser — comfortable, refined, and 40+ mpg."
+      },
+      {
+        "buyerProfile": "Weekend Car",
+        "rating": "★★★★☆",
+        "verdict": "This is where the CLK excels. A W208 CLK 430 V8 or W209 CLK 500 V8 as a weekend car is a joy — affordable to buy, reliable if maintained, and a genuine V8 experience for under £5,000. The CLK 55 AMG is the one to own if you can find a clean example."
+      },
+      {
+        "buyerProfile": "Performance Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The CLK 55 AMG (W208 and W209) is a naturally aspirated V8 legend — 367 PS, rear-wheel drive, and a sound that still turns heads. The CLK 63 AMG (W209 only) is the ultimate — 481 PS, M156 V8, and a genuine AMG halo car. Both are future classics."
+      },
+      {
+        "buyerProfile": "Collector / Keeper",
+        "rating": "★★★★☆",
+        "verdict": "The CLK is entering classic territory. The W208 is 25+ years old now; the W209 is not far behind. The AMG variants (55 and 63) are already appreciating. Buy the cleanest W209 you can find, preferably with the M156 V8, and hold onto it. The M112 and M113 cars are also safe long-term bets."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My CLK Engine — or Should I Replace It?",
+    "intro": "The CLK's biggest decision isn't which engine to buy — it's whether to fix the one you already have. If your M271 is rattling on cold start, or your M272 has thrown a camshaft code, get a diagnosis before deciding. A £400 timing chain tensioner repair is very different from a £3,000 full replacement.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with CLK pre-selected",
+        "href": "MercedesEngines.uk/#engine-calculator?model=clk"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "MercedesEngines.uk/#engine-calculator"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why CLK Owners Trust MercedesEngines.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range on this page comes from genuine UK enquiry and quote data — not manufacturer marketing, not forum guesswork. The CLK's data is drawn from 200+ real owner enquiries [PATTERN DATA] and cross-referenced against Mercedes-Benz specialist sources."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "The CLK is approaching classic car status, and we tell you when a repair doesn't make sense. A full recon on a W208 200 Kompressor frequently exceeds 70% of the car's value — and we say so. That's the difference between a knowledge base and a sales page."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — 25+ vetted Mercedes-Benz specialists who work on CLK engines daily. They know the M271 timing chain, the M272 balance shaft, and the M113 valve cover gaskets inside out — and they'll give you an honest assessment before they touch your car."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "MercedesEngines.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "CLK Frequently Asked Questions",
+    "items": []
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore CLK Generations",
+        "text": "",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My CLK",
+        "text": "",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

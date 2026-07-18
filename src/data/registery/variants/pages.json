@@ -1,18 +1,562 @@
 [
   {
-    "slug": "bmw-320d",
-    "dataFile": "bmw-320d"
+    "slug": "a-class-160-170-cdi",
+    "dataFile": "a-class-160-170-cdi"
   },
   {
-    "slug": "defender-d250",
-    "dataFile": "defender-d250"
+    "slug": "a-class-a180-cdi",
+    "dataFile": "a-class-a180-cdi"
   },
   {
-    "slug": "defender-25-diesel",
-    "dataFile": "defender-25-diesel"
+    "slug": "a-class-a200-cdi",
+    "dataFile": "a-class-a200-cdi"
   },
   {
-    "slug": "discovery-sd4",
-    "dataFile": "discovery-sd4"
+    "slug": "a-class-a200-petrol",
+    "dataFile": "a-class-a200-petrol"
+  },
+  {
+    "slug": "a-class-a200d",
+    "dataFile": "a-class-a200d"
+  },
+  {
+    "slug": "a-class-a250",
+    "dataFile": "a-class-a250"
+  },
+  {
+    "slug": "a-class-a35-amg",
+    "dataFile": "a-class-a35-amg"
+  },
+  {
+    "slug": "a-class-a45-amg",
+    "dataFile": "a-class-a45-amg"
+  },
+  {
+    "slug": "amg-gt-gt-43",
+    "dataFile": "amg-gt-gt-43"
+  },
+  {
+    "slug": "amg-gt-gt-r-pro",
+    "dataFile": "amg-gt-gt-r-pro"
+  },
+  {
+    "slug": "amg-gt-gt-s-c",
+    "dataFile": "amg-gt-gt-s-c"
+  },
+  {
+    "slug": "b-class-b180-b200-petrol",
+    "dataFile": "b-class-b180-b200-petrol"
+  },
+  {
+    "slug": "b-class-b200-cdi-b200d",
+    "dataFile": "b-class-b200-cdi-b200d"
+  },
+  {
+    "slug": "c-class-270-280-300-cdi",
+    "dataFile": "c-class-270-280-300-cdi"
+  },
+  {
+    "slug": "c-class-c200-c220-diesel-older",
+    "dataFile": "c-class-c200-c220-diesel-older"
+  },
+  {
+    "slug": "c-class-c200-cdi",
+    "dataFile": "c-class-c200-cdi"
+  },
+  {
+    "slug": "c-class-c220-230-petrol",
+    "dataFile": "c-class-c220-230-petrol"
+  },
+  {
+    "slug": "c-class-c220-cdi-c220d",
+    "dataFile": "c-class-c220-cdi-c220d"
+  },
+  {
+    "slug": "c-class-c250-cdi",
+    "dataFile": "c-class-c250-cdi"
+  },
+  {
+    "slug": "c-class-c300-petrol",
+    "dataFile": "c-class-c300-petrol"
+  },
+  {
+    "slug": "c-class-c300d",
+    "dataFile": "c-class-c300d"
+  },
+  {
+    "slug": "c-class-c320-c350-cdi",
+    "dataFile": "c-class-c320-c350-cdi"
+  },
+  {
+    "slug": "c-class-c350-c400-petrol",
+    "dataFile": "c-class-c350-c400-petrol"
+  },
+  {
+    "slug": "c-class-c43-amg",
+    "dataFile": "c-class-c43-amg"
+  },
+  {
+    "slug": "c-class-c63-amg",
+    "dataFile": "c-class-c63-amg"
+  },
+  {
+    "slug": "c-class-c63-se-performance",
+    "dataFile": "c-class-c63-se-performance"
+  },
+  {
+    "slug": "citan-108-112-cdi",
+    "dataFile": "citan-108-112-cdi"
+  },
+  {
+    "slug": "citan-citan-petrol",
+    "dataFile": "citan-citan-petrol"
+  },
+  {
+    "slug": "cla-class-cla180d-200d",
+    "dataFile": "cla-class-cla180d-200d"
+  },
+  {
+    "slug": "cla-class-cla220d",
+    "dataFile": "cla-class-cla220d"
+  },
+  {
+    "slug": "cla-class-cla250",
+    "dataFile": "cla-class-cla250"
+  },
+  {
+    "slug": "cla-class-cla35-amg",
+    "dataFile": "cla-class-cla35-amg"
+  },
+  {
+    "slug": "cla-class-cla45-amg",
+    "dataFile": "cla-class-cla45-amg"
+  },
+  {
+    "slug": "clc-class-clc180-200-petrol",
+    "dataFile": "clc-class-clc180-200-petrol"
+  },
+  {
+    "slug": "clc-class-clc200-clc220-cdi",
+    "dataFile": "clc-class-clc200-clc220-cdi"
+  },
+  {
+    "slug": "clk-200-220-cdi",
+    "dataFile": "clk-200-220-cdi"
+  },
+  {
+    "slug": "clk-230-280-320",
+    "dataFile": "clk-230-280-320"
+  },
+  {
+    "slug": "clk-class-clk55-63-amg",
+    "dataFile": "clk-class-clk55-63-amg"
+  },
+  {
+    "slug": "clk-clk270-clk320-cdi",
+    "dataFile": "clk-clk270-clk320-cdi"
+  },
+  {
+    "slug": "clk-clk350",
+    "dataFile": "clk-clk350"
+  },
+  {
+    "slug": "cls-cls220-250-cdi-220d",
+    "dataFile": "cls-cls220-250-cdi-220d"
+  },
+  {
+    "slug": "cls-cls350-cls500-petrol",
+    "dataFile": "cls-cls350-cls500-petrol"
+  },
+  {
+    "slug": "cls-cls350d-400d",
+    "dataFile": "cls-cls350d-400d"
+  },
+  {
+    "slug": "cls-cls450-500",
+    "dataFile": "cls-cls450-500"
+  },
+  {
+    "slug": "cls-cls63-amg",
+    "dataFile": "cls-cls63-amg"
+  },
+  {
+    "slug": "e-class-e200-cdi-e200d",
+    "dataFile": "e-class-e200-cdi-e200d"
+  },
+  {
+    "slug": "e-class-e200-e220-diesel-older",
+    "dataFile": "e-class-e200-e220-diesel-older"
+  },
+  {
+    "slug": "e-class-e200-e230-petrol",
+    "dataFile": "e-class-e200-e230-petrol"
+  },
+  {
+    "slug": "e-class-e200-e250-petrol",
+    "dataFile": "e-class-e200-e250-petrol"
+  },
+  {
+    "slug": "e-class-e220-cdi-e220d",
+    "dataFile": "e-class-e220-cdi-e220d"
+  },
+  {
+    "slug": "e-class-e250-cdi-e250d",
+    "dataFile": "e-class-e250-cdi-e250d"
+  },
+  {
+    "slug": "e-class-e270-e280-e300-cdi",
+    "dataFile": "e-class-e270-e280-e300-cdi"
+  },
+  {
+    "slug": "e-class-e280-e320-e350-petrol",
+    "dataFile": "e-class-e280-e320-e350-petrol"
+  },
+  {
+    "slug": "e-class-e300-e450",
+    "dataFile": "e-class-e300-e450"
+  },
+  {
+    "slug": "e-class-e320-e350-cdi",
+    "dataFile": "e-class-e320-e350-cdi"
+  },
+  {
+    "slug": "e-class-e350d-e400d",
+    "dataFile": "e-class-e350d-e400d"
+  },
+  {
+    "slug": "e-class-e500-e550",
+    "dataFile": "e-class-e500-e550"
+  },
+  {
+    "slug": "e-class-e53-amg",
+    "dataFile": "e-class-e53-amg"
+  },
+  {
+    "slug": "e-class-e63-amg",
+    "dataFile": "e-class-e63-amg"
+  },
+  {
+    "slug": "g-class-g350-g500-petrol-older",
+    "dataFile": "g-class-g350-g500-petrol-older"
+  },
+  {
+    "slug": "g-class-g350d",
+    "dataFile": "g-class-g350d"
+  },
+  {
+    "slug": "g-class-g500-g550",
+    "dataFile": "g-class-g500-g550"
+  },
+  {
+    "slug": "g-class-g55-amg",
+    "dataFile": "g-class-g55-amg"
+  },
+  {
+    "slug": "g-class-g63-amg",
+    "dataFile": "g-class-g63-amg"
+  },
+  {
+    "slug": "g-class-g65-amg",
+    "dataFile": "g-class-g65-amg"
+  },
+  {
+    "slug": "gla-class-gla200-250-petrol",
+    "dataFile": "gla-class-gla200-250-petrol"
+  },
+  {
+    "slug": "gla-class-gla200d-220d",
+    "dataFile": "gla-class-gla200d-220d"
+  },
+  {
+    "slug": "gla-class-gla35-amg",
+    "dataFile": "gla-class-gla35-amg"
+  },
+  {
+    "slug": "glc-250-300-petrol",
+    "dataFile": "glc-250-300-petrol"
+  },
+  {
+    "slug": "glc-class-glc-300d",
+    "dataFile": "glc-class-glc-300d"
+  },
+  {
+    "slug": "glc-class-glc220d-250d",
+    "dataFile": "glc-class-glc220d-250d"
+  },
+  {
+    "slug": "glc-class-glc350d-400d",
+    "dataFile": "glc-class-glc350d-400d"
+  },
+  {
+    "slug": "glc-class-glc43-amg",
+    "dataFile": "glc-class-glc43-amg"
+  },
+  {
+    "slug": "glc-class-glc63-amg",
+    "dataFile": "glc-class-glc63-amg"
+  },
+  {
+    "slug": "gle-class-gle-63-amg",
+    "dataFile": "gle-class-gle-63-amg"
+  },
+  {
+    "slug": "gle-class-gle250d-300d",
+    "dataFile": "gle-class-gle250d-300d"
+  },
+  {
+    "slug": "gle-class-gle350-450-petrol",
+    "dataFile": "gle-class-gle350-450-petrol"
+  },
+  {
+    "slug": "gle-class-gle350d-400d",
+    "dataFile": "gle-class-gle350d-400d"
+  },
+  {
+    "slug": "gle-class-gle53-amg",
+    "dataFile": "gle-class-gle53-amg"
+  },
+  {
+    "slug": "glk-320-350-cdi",
+    "dataFile": "glk-320-350-cdi"
+  },
+  {
+    "slug": "glk-class-glk200-250-petrol",
+    "dataFile": "glk-class-glk200-250-petrol"
+  },
+  {
+    "slug": "glk-class-glk220-250-cdi",
+    "dataFile": "glk-class-glk220-250-cdi"
+  },
+  {
+    "slug": "gls-class-gls63-amg",
+    "dataFile": "gls-class-gls63-amg"
+  },
+  {
+    "slug": "gls-gls350d-400d",
+    "dataFile": "gls-gls350d-400d"
+  },
+  {
+    "slug": "gls-gls450-500-580",
+    "dataFile": "gls-gls450-500-580"
+  },
+  {
+    "slug": "m-class-ml-petrol",
+    "dataFile": "m-class-ml-petrol"
+  },
+  {
+    "slug": "m-class-ml270-320-cdi",
+    "dataFile": "m-class-ml270-320-cdi"
+  },
+  {
+    "slug": "m-class-ml500-ml550-ml63-amg",
+    "dataFile": "m-class-ml500-ml550-ml63-amg"
+  },
+  {
+    "slug": "mercedes-a-class-a180d",
+    "dataFile": "mercedes-a-class-a180d"
+  },
+  {
+    "slug": "mercedes-amg-gla45",
+    "dataFile": "mercedes-amg-gla45"
+  },
+  {
+    "slug": "mercedes-amg-gt-63",
+    "dataFile": "mercedes-amg-gt-63"
+  },
+  {
+    "slug": "mercedes-benz-a-class-a160-a180-petrol",
+    "dataFile": "mercedes-benz-a-class-a160-a180-petrol"
+  },
+  {
+    "slug": "mercedes-benz-c-class-c250-petrol",
+    "dataFile": "mercedes-benz-c-class-c250-petrol"
+  },
+  {
+    "slug": "mercedes-benz-cla180-cla200-petrol",
+    "dataFile": "mercedes-benz-cla180-cla200-petrol"
+  },
+  {
+    "slug": "mercedes-benz-cls320-cls350-cdi",
+    "dataFile": "mercedes-benz-cls320-cls350-cdi"
+  },
+  {
+    "slug": "mercedes-benz-e300d",
+    "dataFile": "mercedes-benz-e300d"
+  },
+  {
+    "slug": "mercedes-benz-g250-g300-diesel",
+    "dataFile": "mercedes-benz-g250-g300-diesel"
+  },
+  {
+    "slug": "mercedes-benz-gle500-gle580",
+    "dataFile": "mercedes-benz-gle500-gle580"
+  },
+  {
+    "slug": "mercedes-benz-ml250-bluetec-ml350-cdi",
+    "dataFile": "mercedes-benz-ml250-bluetec-ml350-cdi"
+  },
+  {
+    "slug": "mercedes-benz-s430-s500-s560-s580",
+    "dataFile": "mercedes-benz-s430-s500-s560-s580"
+  },
+  {
+    "slug": "mercedes-benz-slk200-cdi",
+    "dataFile": "mercedes-benz-slk200-cdi"
+  },
+  {
+    "slug": "mercedes-benz-sprinter-209-319-cdi",
+    "dataFile": "mercedes-benz-sprinter-209-319-cdi"
+  },
+  {
+    "slug": "mercedes-benz-viano-3-0-3-5-cdi",
+    "dataFile": "mercedes-benz-viano-3-0-3-5-cdi"
+  },
+  {
+    "slug": "mercedes-c-class-c180-c200-petrol",
+    "dataFile": "mercedes-c-class-c180-c200-petrol"
+  },
+  {
+    "slug": "r-class-r280-r320-cdi",
+    "dataFile": "r-class-r280-r320-cdi"
+  },
+  {
+    "slug": "r-class-r350-r500-petrol",
+    "dataFile": "r-class-r350-r500-petrol"
+  },
+  {
+    "slug": "s-class-s280-320-350-420-petrol",
+    "dataFile": "s-class-s280-320-350-420-petrol"
+  },
+  {
+    "slug": "s-class-s300-s320-diesel-older",
+    "dataFile": "s-class-s300-s320-diesel-older"
+  },
+  {
+    "slug": "s-class-s320-s350-cdi",
+    "dataFile": "s-class-s320-s350-cdi"
+  },
+  {
+    "slug": "s-class-s350-400-450-petrol",
+    "dataFile": "s-class-s350-400-450-petrol"
+  },
+  {
+    "slug": "s-class-s350d-s400d",
+    "dataFile": "s-class-s350d-s400d"
+  },
+  {
+    "slug": "s-class-s600-s65-v12",
+    "dataFile": "s-class-s600-s65-v12"
+  },
+  {
+    "slug": "s-class-s63-amg",
+    "dataFile": "s-class-s63-amg"
+  },
+  {
+    "slug": "sl-class-sl320-cdi",
+    "dataFile": "sl-class-sl320-cdi"
+  },
+  {
+    "slug": "sl-sl280-320-350-petrol",
+    "dataFile": "sl-sl280-320-350-petrol"
+  },
+  {
+    "slug": "sl-sl350-sl400-sl450",
+    "dataFile": "sl-sl350-sl400-sl450"
+  },
+  {
+    "slug": "sl-sl500-sl550-sl560",
+    "dataFile": "sl-sl500-sl550-sl560"
+  },
+  {
+    "slug": "sl-sl55-sl63-amg",
+    "dataFile": "sl-sl55-sl63-amg"
+  },
+  {
+    "slug": "sl-sl600-sl65-v12",
+    "dataFile": "sl-sl600-sl65-v12"
+  },
+  {
+    "slug": "slc-220d-250d",
+    "dataFile": "slc-220d-250d"
+  },
+  {
+    "slug": "slc-class-slc43-amg",
+    "dataFile": "slc-class-slc43-amg"
+  },
+  {
+    "slug": "slc-slc180-200",
+    "dataFile": "slc-slc180-200"
+  },
+  {
+    "slug": "slk-class-slk-55-amg",
+    "dataFile": "slk-class-slk-55-amg"
+  },
+  {
+    "slug": "slk-slk200-230-kompressor",
+    "dataFile": "slk-slk200-230-kompressor"
+  },
+  {
+    "slug": "slk-slk250-350",
+    "dataFile": "slk-slk250-350"
+  },
+  {
+    "slug": "sls-amg-62-v8",
+    "dataFile": "sls-amg-62-v8"
+  },
+  {
+    "slug": "sls-amg-black-series",
+    "dataFile": "sls-amg-black-series"
+  },
+  {
+    "slug": "sls-amg-sls-amg-gt",
+    "dataFile": "sls-amg-sls-amg-gt"
+  },
+  {
+    "slug": "sprinter-208-316-cdi",
+    "dataFile": "sprinter-208-316-cdi"
+  },
+  {
+    "slug": "sprinter-211-317-cdi",
+    "dataFile": "sprinter-211-317-cdi"
+  },
+  {
+    "slug": "v-class-v200-250-petrol",
+    "dataFile": "v-class-v200-250-petrol"
+  },
+  {
+    "slug": "v-class-v200d-v220d",
+    "dataFile": "v-class-v200d-v220d"
+  },
+  {
+    "slug": "v-class-v250d-v300d",
+    "dataFile": "v-class-v250d-v300d"
+  },
+  {
+    "slug": "vaneo-16-19-petrol",
+    "dataFile": "vaneo-16-19-petrol"
+  },
+  {
+    "slug": "vaneo-17-cdi",
+    "dataFile": "vaneo-17-cdi"
+  },
+  {
+    "slug": "viano-22-cdi",
+    "dataFile": "viano-22-cdi"
+  },
+  {
+    "slug": "viano-32-37-petrol",
+    "dataFile": "viano-32-37-petrol"
+  },
+  {
+    "slug": "vito-108-112-cdi-older",
+    "dataFile": "vito-108-112-cdi-older"
+  },
+  {
+    "slug": "vito-petrol",
+    "dataFile": "vito-petrol"
+  },
+  {
+    "slug": "vito-vito-109-119-cdi",
+    "dataFile": "vito-vito-109-119-cdi"
   }
 ]

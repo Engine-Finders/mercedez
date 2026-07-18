@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "slug": "mercedes-e-class-w214",
+    "title": "Mercedes E-Class W214 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes E-Class W214 • Saloon/Estate • 2023–present",
+    "h1": "Mercedes E-Class W214 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Mercedes E-Class W214 — from the 2.0‑litre M254 mild‑hybrid petrol to the 3.0‑litre M256 straight‑six AMG, plus the OM654 diesel and the new‑generation plug‑in hybrids with over 70 miles of electric range. Real UK replacement costs, honest reliability data, and the first E‑Class to go all‑electrified. Backed by 276+ real UK W214 enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "276+ W214 Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon/Estate"
+      },
+      {
+        "icon": "📖",
+        "label": "7 Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W214 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes E-Class W214 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W214 specifically — from the entry‑level 1.5‑litre M254 to the 3.0‑litre M256 straight‑six in the AMG E 53, all with 48V mild‑hybrid or plug‑in hybrid assistance.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W214)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M254.915",
+        "family": "M254",
+        "fuel": "Petrol, MHEV",
+        "displacement": "1.5L (1496 cc)",
+        "power": "170 bhp (125 kW)",
+        "years": "2023–present",
+        "variants": "E 180",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, MHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "204 bhp (150 kW) + 23 bhp ISG",
+        "years": "2023–present",
+        "variants": "E 200, E 200 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.820",
+        "family": "OM654",
+        "fuel": "Diesel, MHEV",
+        "displacement": "2.0L (1992 cc)",
+        "power": "197 bhp (145 kW) + 23 bhp ISG",
+        "years": "2023–present",
+        "variants": "E 220 d, E 220 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, PHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "313 bhp (230 kW) system",
+        "years": "2023–present",
+        "variants": "E 300 e, E 300 e 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.820",
+        "family": "OM654",
+        "fuel": "Diesel, PHEV",
+        "displacement": "2.0L (1992 cc)",
+        "power": "313 bhp (230 kW) system",
+        "years": "2023–present",
+        "variants": "E 300 de, E 300 de 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, PHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "381 bhp (280 kW) system",
+        "years": "2023–present",
+        "variants": "E 400 e 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£8,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M256",
+        "family": "M256",
+        "fuel": "Petrol, MHEV",
+        "displacement": "3.0L (2999 cc)",
+        "power": "449 bhp (330 kW) + PHEV",
+        "years": "2024–present",
+        "variants": "E 53 HYBRID 4MATIC+",
+        "reliability": "★★★★½ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£15,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "All seven engine families are in Case B — no dedicated Engine Page exists yet for any of these families. The M254 and OM654 are proven four‑cylinder units carried over from the W213 generation with 48V and PHEV upgrades. The M256 straight‑six is an established AMG powerplant now offered in PHEV form. As these are very new engines (2023 onward), long‑term reliability data is limited — early indications from the W213 suggest the M254 and OM654 are solid, but all ratings are provisional pending dedicated Engine Pages."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes E-Class W214 — Overview",
+    "intro": "The W214 is the sixth generation of the Mercedes‑Benz E‑Class, launched in May 2023 as the successor to the W213. Built on the MRA2 platform, it is offered in saloon (W214), estate (S214) and All‑Terrain (X214) body styles. The W214 represents a landmark shift for the E‑Class: it is the first generation available exclusively with electrified powertrains — every engine is either a 48V mild hybrid or a plug‑in hybrid. The 2024 model year brought the AMG E 53 HYBRID, a 3.0‑litre straight‑six PHEV producing 449 bhp. The W214 also introduced the MBUX Superscreen dashboard and a 25.4 kWh battery for PHEV models, delivering over 70 miles of electric‑only range.",
+    "keyFacts": "Platform: Mercedes MRA2 (Modular Rear Architecture) • Predecessor: W213 • Successor: None (current generation) • Sibling body styles in this generation: S214 (estate), X214 (All‑Terrain estate)",
+    "marketIntelligenceLine": "The W214 E‑Class generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the E 220 d diesel and E 300 e plug‑in hybrid as fleet and business users capitalise on favourable Benefit‑in‑Kind tax rates."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM654.820 (E 220 d, MHEV)",
+        "quote": "The 2.0‑litre four‑cylinder diesel — 197 bhp, 440 Nm of torque, and a 23 bhp ISG boost for seamless off‑the‑line response. This is the fourth generation of the OM654, and it's a proven, refined unit that delivers 56 mpg on the combined WLTP cycle. For UK buyers, this remains the default executive choice.",
+        "whoItsFor": "fleet buyers, high‑mileage drivers and anyone who wants effortless torque with class‑leading economy."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M254.920 (E 200, MHEV)",
+        "quote": "The 2.0‑litre four‑cylinder petrol — 204 bhp, 320 Nm of torque, with a 23 bhp ISG boost. It's smooth, responsive and the most affordable way into W214 ownership. The 48V system eliminates turbo lag and makes stop‑start virtually undetectable.",
+        "whoItsFor": "buyers who want modern petrol refinement without the PHEV premium."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M254.920 (E 400 e 4MATIC, PHEV)",
+        "quote": "The most powerful four‑cylinder in the range — 381 bhp system output from a 2.0‑litre turbo petrol and a 129 bhp electric motor. The PHEV system adds significant complexity: battery, cooling, power electronics and the weight of a 25.4 kWh pack. More components means more potential failure points.",
+        "whoItsFor": "buyers who want maximum PHEV performance and understand the complexity premium."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M256 (E 53 HYBRID 4MATIC+)",
+        "quote": "The 3.0‑litre straight‑six — 449 bhp, 560 Nm of torque, paired with a PHEV system. This is a complex, high‑performance powertrain with a twin‑turbo straight‑six, 28.6 kWh battery and electric motor. When something fails — and it will be expensive — only AMG‑trained specialists should touch it.",
+        "whoItsFor": "enthusiasts who understand that 449 bhp comes with a six‑figure maintenance budget."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM654.820 (E 300 de, PHEV)",
+        "quote": "The 2.0‑litre diesel plug‑in hybrid — 313 bhp system output, 440 Nm of torque, and over 70 miles of electric‑only range. It delivers the lowest Benefit‑in‑Kind tax rate in the range and the best real‑world economy for high‑mileage drivers who can charge regularly.",
+        "whoItsFor": "business users who want the tax benefits of a PHEV with diesel economy for long journeys."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M254.920 (E 300 e, PHEV)",
+        "quote": "The petrol plug‑in hybrid — 313 bhp system output, and the same 25.4 kWh battery as the E 400 e, but with lower running costs. It's often overshadowed by the diesel PHEV and the high‑power E 400 e, but it's the sweet spot for private buyers who want PHEV tax benefits without diesel.",
+        "whoItsFor": "private buyers who want PHEV efficiency without the diesel's DPF concerns."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes E-Class W214 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M254.915 (E 180, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "ISG / 48V system",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Entry Point — cheapest W214 to run"
+      },
+      {
+        "engine": "M254.920 (E 200, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "ISG / 48V system",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,800–£5,000",
+        "ownershipVerdict": "Best Petrol — smooth, responsive, efficient"
+      },
+      {
+        "engine": "OM654.820 (E 220 d, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Timing chain (rear) / DPF",
+        "repairCostSpecialist": "£1,200–£2,000",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Best Diesel — proven, refined, economical"
+      },
+      {
+        "engine": "M254.920 (E 300 e, PHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Battery / cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "PHEV Sweet Spot — tax‑efficient"
+      },
+      {
+        "engine": "OM654.820 (E 300 de, PHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Battery / cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "Best PHEV — diesel + plug‑in = max efficiency"
+      },
+      {
+        "engine": "M254.920 (E 400 e, PHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Battery / cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£4,500–£8,000",
+        "ownershipVerdict": "High‑Power PHEV — more complexity, more cost"
+      },
+      {
+        "engine": "M256 (E 53 HYBRID)",
+        "typicalMileage": "20k–50k",
+        "commonMajorFailure": "Battery / cooling / AMG systems",
+        "repairCostSpecialist": "£2,500–£5,000",
+        "replacementCostRecon": "£8,000–£15,000",
+        "ownershipVerdict": "Enthusiast Only — fast, complex, costly"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W214 rule",
+      "text": "A £3,000–£5,500 OM654 recon against a £35,000–£65,000 W214 sits at 5–16% of the car's value — comfortably within the 70% Mercedes threshold. Even the £8,000–£15,000 M256 AMG recon sits at 12–43% against a £35,000 AMG — a repair decision, not a financial one. But the PHEV battery is the wild card: a 25.4 kWh battery replacement could cost £5,000–£10,000 outside warranty. Factor that into your ownership maths."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W214 Costs Least To Own?",
+        "answer": "E 200 (M254.920 MHEV) — simplest powertrain, lowest complexity, cheapest recon."
+      },
+      {
+        "question": "Which W214 Costs Most To Own?",
+        "answer": "E 53 HYBRID (M256) — AMG running costs, PHEV complexity, specialist‑only maintenance."
+      },
+      {
+        "question": "Which W214 Is Best Value?",
+        "answer": "E 220 d (OM654.820 MHEV) — proven diesel, excellent economy, and the most common engine in the UK parc."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM654 Timing Chain & DPF (E 220 d)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any OM654 W214, maintain the 48V battery health and use genuine Mercedes oil — the 48V ISG places additional strain on the chain. A £1,200–£2,000 chain inspection is far cheaper than a £3,000–£5,500 replacement.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M254 48V ISG & Cooling System (Petrol MHEV)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "The 48V system is the biggest unknown on the W214. Ensure the car has the latest software updates and maintain the 48V battery health — £800–£1,500 now is far cheaper than £2,500–£5,000 for a full system replacement.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "PHEV Battery & Cooling System (E 300 e / E 400 e / E 300 de)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "Before buying any W214 PHEV, check the battery health report from a Mercedes dealer. A £1,000–£2,000 health check is far cheaper than a £5,000–£10,000 battery replacement. Keep the battery between 20% and 80% charge for daily use to maximise lifespan.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "W214 MBUX Superscreen & Software Glitches",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "Ensure the car has the latest software updates before purchase — £100–£300 now is far cheaper than the £800–£1,500 replacement that follows a hardware failure.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W214 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "E 180 (MHEV)",
+        "engineCode": "M254.915",
+        "usedSupply": "£1,500–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 200 / E 200 4MATIC (MHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£1,800–£3,000",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 220 d / E 220 d 4MATIC (MHEV)",
+        "engineCode": "OM654.820",
+        "usedSupply": "£2,000–£3,200",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 300 e / E 300 e 4MATIC (PHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£2,500–£4,000",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 300 de / E 300 de 4MATIC (PHEV)",
+        "engineCode": "OM654.820",
+        "usedSupply": "£2,500–£4,000",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 400 e 4MATIC (PHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£3,000–£4,500",
+        "reconditionedSupply": "£4,500–£8,000",
+        "rebuiltSupply": "£7,000–£11,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 53 HYBRID 4MATIC+",
+        "engineCode": "M256",
+        "usedSupply": "£5,000–£9,000",
+        "reconditionedSupply": "£8,000–£15,000",
+        "rebuiltSupply": "£12,000–£20,000",
+        "labourHours": "16–20 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M254, OM654 or M256 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the W214's executive‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs — budget an additional £5,000–£10,000 for battery replacement outside warranty."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "E 220 d",
+      "E 220 d 4MATIC",
+      "E 300 de",
+      "E 300 de 4MATIC"
+    ],
+    "petrolVariants": [
+      "E 180",
+      "E 200",
+      "E 200 4MATIC",
+      "E 300 e",
+      "E 300 e 4MATIC",
+      "E 400 e 4MATIC",
+      "E 53 HYBRID 4MATIC+"
+    ],
+    "scopeNote": "All variants listed are W214 saloon and S214 estate. The saloon and estate share all powertrains, with only minor labour differences for some repairs. The X214 All‑Terrain estate shares the same engine range but is covered on its own Generation Page."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

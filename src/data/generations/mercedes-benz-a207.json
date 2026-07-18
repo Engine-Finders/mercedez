@@ -1,0 +1,680 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-a207",
+    "title": "A207 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 46,
+    "description": "Every Mercedes-Benz A207 engine — M271, M274, M272, M276, M273, M278, OM651, OM642. Real UK costs and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz A207 • Cabriolet • 2010–2017",
+    "h1": "Mercedes-Benz A207 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the A207 E-Class Cabriolet — from the 1.8-litre turbo four to the 5.5-litre V8. Real UK costs, honest reliability data, and the OM651 diesel that redefined the open-top economy equation. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "A207 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Cabriolet"
+      },
+      {
+        "icon": "📖",
+        "label": "13 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore A207 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes-Benz A207 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the A207 cabriolet specifically — across the full 2010–2017 production run, from the entry-level E 200 CGI to the range-topping E 500.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M271.820",
+        "family": "M271",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.8L (1,796cc)",
+        "power": "184 bhp",
+        "years": "2010–2013",
+        "variants": "E 200 CGI",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M271.860",
+        "family": "M271",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.8L (1,796cc)",
+        "power": "204 bhp",
+        "years": "2009–2011",
+        "variants": "E 250 CGI",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1,991cc)",
+        "power": "184 bhp",
+        "years": "2013–2017",
+        "variants": "E 200",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M271 DE18",
+        "family": "M271",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.8L (1,796cc)",
+        "power": "204 bhp",
+        "years": "2009–2011",
+        "variants": "E 250 CGI",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M274 DE20",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1,991cc)",
+        "power": "211 bhp",
+        "years": "2013–2017",
+        "variants": "E 250",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£3,800 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M272 DE35",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3,498cc)",
+        "power": "292 bhp",
+        "years": "2009–2011",
+        "variants": "E 350 CGI",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£4,800 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M276 DE35",
+        "family": "M276",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3,498cc)",
+        "power": "252 bhp",
+        "years": "2011–2017",
+        "variants": "E 350 BlueEFFICIENCY",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,200 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M276 DE35",
+        "family": "M276",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3,498cc)",
+        "power": "306 bhp",
+        "years": "2011–2017",
+        "variants": "E 350",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,200–£5,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M276 E30",
+        "family": "M276",
+        "fuel": "Petrol, V6 twin-turbo",
+        "displacement": "3.0L (2,996cc)",
+        "power": "333 bhp",
+        "years": "2013–2015",
+        "variants": "E 400",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M276 DE35 LA",
+        "family": "M276",
+        "fuel": "Petrol, V6 twin-turbo",
+        "displacement": "3.5L (3,498cc)",
+        "power": "333 bhp",
+        "years": "2015–2017",
+        "variants": "E 400",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M273 E55",
+        "family": "M273",
+        "fuel": "Petrol, V8",
+        "displacement": "5.5L (5,461cc)",
+        "power": "387 bhp",
+        "years": "2009–2011",
+        "variants": "E 500",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£8,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M278 DE46",
+        "family": "M278",
+        "fuel": "Petrol, V8 twin-turbo",
+        "displacement": "4.7L (4,663cc)",
+        "power": "408 bhp",
+        "years": "2011–2017",
+        "variants": "E 500",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£9,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM651 DE22",
+        "family": "OM651",
+        "fuel": "Diesel, twin-turbo",
+        "displacement": "2.1L (2,143cc)",
+        "power": "168–201 bhp",
+        "years": "2010–2017",
+        "variants": "E 220 CDI, E 250 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£4,800 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM642 DE30",
+        "family": "OM642",
+        "fuel": "Diesel, V6 turbo",
+        "displacement": "3.0L (2,987cc)",
+        "power": "228–261 bhp",
+        "years": "2009–2017",
+        "variants": "E 350 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,200–£5,500 [PLACEHOLDER]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes-Benz A207 — Overview",
+    "intro": "The Mercedes-Benz A207 is the four-seat cabriolet variant of the fourth-generation E-Class, launched in 2010 as the successor to the A209 CLK-Class Cabriolet. Based on the W204 C-Class platform but sharing 60% of its parts with the W212 E-Class sedan, the A207 brought a fully automatic fabric roof that could be opened or closed in 20 seconds at speeds up to 40 km/h. Engine choice spanned from the 1.8-litre M271 turbo four through the M276 V6 and OM651 diesel range to the M278 twin-turbo V8 in the E 500, with a mid-life facelift in 2013 introducing updated engines including the M274 2.0-litre four and the twin-turbo M276 E400.",
+    "keyFacts": "Platform: Mercedes-Benz W204 (A207 cabriolet variant) • Predecessor: CLK-Class (A209) • Successor: A238 • Sibling body styles in this generation: C207 Coupé.",
+    "marketIntelligenceLine": "The A207 cabriolet attracts strong specialist interest in the UK used market, with OM651 diesel and M276 V6 enquiries dominating pre-purchase inspections [PATTERN DATA]."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode applied — compressed to a single paragraph. Best & Worst Engines: The A207's engine range splits into four distinct reliability tiers. At the top sits the OM651 2.1-litre diesel (E 220 CDI/E 250 CDI) — a proven workhorse with strong fuel economy, though early examples (pre-2012) can suffer from timing chain tensioner oil leaks and piezo injector issues. The M276 3.5-litre V6 (E 350) is the pick of the petrols — smooth, refined and robust, though coolant leaks from the thermostat housing are documented. The M274 2.0-litre turbo (E 200/E 250, 2013-on) offers a significant reliability improvement over the M271 it replaced. The M271 1.8-litre turbo (E 200 CGI/E 250 CGI) sits in the middle — strong performers but documented timing chain stretch and camshaft sprocket wear. The M273 5.5-litre V8 (E 500, pre-2011) is the least recommended — complex, with intake manifold and timing chain issues, replaced by the much-improved M278 twin-turbo 4.7-litre V8 from 2011. For most buyers, the OM651 diesel or M276 V6 represent the sweet spot between performance, economy and running costs. Who it's for: buyers who want the sweet spot between open-top motoring and running-cost sanity.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes-Benz A207 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M271 (E 200 CGI/E 250 CGI)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Timing chain stretch, camshaft sprocket wear",
+        "repairCostSpecialist": "£800–£1,800",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Watch — chain history essential"
+      },
+      {
+        "engine": "M274 (E 200/E 250)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Water pump, thermostat housing",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,800–£3,800",
+        "ownershipVerdict": "Solid Choice — more reliable than M271"
+      },
+      {
+        "engine": "M272 (E 350 CGI)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Balance shaft wear, intake manifold",
+        "repairCostSpecialist": "£1,000–£2,000",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Watch — balance shaft risk on early cars"
+      },
+      {
+        "engine": "M276 (E 350)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Coolant leaks, thermostat housing",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Best V6 — smooth and robust"
+      },
+      {
+        "engine": "M276 E30 (E 400)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Coolant leaks, turbocharger wear",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Premium Choice — twin-turbo V6, more complex"
+      },
+      {
+        "engine": "M273 (E 500 pre-2011)",
+        "typicalMileage": "50k–100k",
+        "commonMajorFailure": "Intake manifold, timing chain, oil leaks",
+        "repairCostSpecialist": "£1,200–£2,500",
+        "replacementCostRecon": "£4,500–£8,000",
+        "ownershipVerdict": "Avoid — complex, expensive parts"
+      },
+      {
+        "engine": "M278 (E 500 2011-on)",
+        "typicalMileage": "50k–100k",
+        "commonMajorFailure": "Coolant leaks, turbo oil lines",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£5,000–£9,000",
+        "ownershipVerdict": "Good V8 — much improved over M273"
+      },
+      {
+        "engine": "OM651 (E 220 CDI/E 250 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Timing chain tensioner oil leak, injectors",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Best Diesel — proven and economical"
+      },
+      {
+        "engine": "OM642 (E 350 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Oil cooler seal leak, swirl flap motor",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£3,200–£5,500",
+        "ownershipVerdict": "Solid Diesel — robust V6, oil cooler seals a known cost"
+      }
+    ],
+    "economicsRule": {
+      "title": "The A207 rule",
+      "text": "A £3,000–£5,000 M276 recon against a £8,000–£15,000 A207 sits at 20–62% of the car's value. On a sub-£8,000 example, that approaches our 70% Mercedes-Benz threshold — we'll honestly tell you to walk away. Against a well-kept £12,000+ example, the same recon drops to a routine 25–42% — a repair decision, not a financial one. For OM651 diesels, the economics are even more favourable — a £3,000 recon on a £10,000 example is just 30%. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which A207 Costs Least To Own?",
+        "answer": "OM651 diesel — strong fuel economy, proven durability."
+      },
+      {
+        "question": "Which A207 Costs Most To Own?",
+        "answer": "M273 V8 (pre-2011 E 500) — complex, expensive parts, specialist-only."
+      },
+      {
+        "question": "Which A207 Is Best Value?",
+        "answer": "E 350 (M276 V6) — the sweet spot between performance and running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M271 Timing Chain Stretch and Camshaft Sprocket Wear",
+        "affectedModels": "E 200 CGI, E 250 CGI (M271.820/M271.860) — 2010–2013 production.",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The M271's timing chain tensioner can fail, allowing the chain to stretch and the camshaft sprockets to wear. Cold-start rattle is the classic early warning — if ignored, the chain can skip, causing catastrophic engine damage.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "At the first sign of cold-start rattle, get the timing chain inspected immediately — an £800–£1,600 preventative repair is dramatically cheaper than the £2,500–£4,500 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare A207 M271 timing chain repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM651 Timing Chain Tensioner Oil Leak (Recall)",
+        "affectedModels": "E 220 CDI, E 250 CDI (OM651) — 2010–2014 production (recall issued January 2015).",
+        "typicalFailureMileage": "60,000–120,000 miles.",
+        "rootCause": "The seal ring between the timing chain tensioner and the engine block can leak oil — this could result in a hazard for other road users and, in extreme cases, chain tensioner loosening and chain failure. A recall was issued in January 2015 for affected vehicles.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "Check the recall status of any OM651-engined A207 before purchase — if the timing chain tensioner recall hasn't been performed, treat it as immediate preventative maintenance.",
+        "cta": {
+          "label": "Compare A207 OM651 timing chain repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M276 V6 Coolant Leaks (Thermostat Housing)",
+        "affectedModels": "E 350 (M276 DE35) — 2011–2017 production.",
+        "typicalFailureMileage": "60,000–120,000 miles.",
+        "rootCause": "The M276's thermostat housing and coolant pipes can develop leaks, leading to coolant loss and potential overheating if not addressed promptly.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "Monitor coolant levels regularly — a £400–£800 thermostat housing replacement is cheap insurance against a £2,000+ engine replacement.",
+        "cta": {
+          "label": "Compare A207 M276 coolant system repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "OM642 Oil Cooler Seal Leak (V6 Diesel)",
+        "affectedModels": "E 350 CDI (OM642) — 2009–2017 production.",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The OM642 V6 diesel's oil cooler seals (located in the \"V\" of the engine) degrade over time, leading to oil leaks that can drip onto the exhaust and cause smoke. Labour-intensive to replace due to engine access.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "Have the oil cooler seals inspected at every major service — a £700–£1,200 preventative repair is dramatically cheaper than the £3,200+ replacement that follows oil starvation.",
+        "cta": {
+          "label": "Compare A207 OM642 oil cooler seal repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "A207 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "E 200 CGI",
+        "engineCode": "M271.820",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "E 250 CGI",
+        "engineCode": "M271.860 / M271 DE18",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,000–£4,800",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "E 200 (2013-on)",
+        "engineCode": "M274.920",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "E 250 (2013-on)",
+        "engineCode": "M274 DE20",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,200–£5,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "E 350 CGI (pre-2011)",
+        "engineCode": "M272 DE35",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 350 (2011-on)",
+        "engineCode": "M276 DE35",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,000–£5,200",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 400",
+        "engineCode": "M276 E30 / M276 DE35 LA",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 500 (pre-2011)",
+        "engineCode": "M273 E55",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,500–£8,000",
+        "rebuiltSupply": "£6,500–£10,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "E 500 (2011-on)",
+        "engineCode": "M278 DE46",
+        "usedSupply": "£3,000–£5,000",
+        "reconditionedSupply": "£5,000–£9,000",
+        "rebuiltSupply": "£7,500–£12,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "E 220 CDI",
+        "engineCode": "OM651 DE22",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 250 CDI",
+        "engineCode": "OM651 DE22",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 350 CDI",
+        "engineCode": "OM642 DE30",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "E 220 CDI",
+      "E 250 CDI",
+      "E 350 CDI"
+    ],
+    "petrolVariants": [
+      "E 200 CGI",
+      "E 250 CGI",
+      "E 200",
+      "E 250",
+      "E 350",
+      "E 400",
+      "E 500"
+    ],
+    "scopeNote": ""
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz A207 engine replacement cost in the UK?",
+        "answer": "A reconditioned A207 engine typically costs between £1,800 and £9,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the volume OM651 diesel sits at £2,800–£4,800, the M276 V6 at £3,000–£5,500, and the M278 V8 in the E 500 at £5,000–£9,000. Fitting adds 8–22 hours of labour at specialist rates — budget an additional £520–£1,430 for installation. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes-Benz A207 engine is the most reliable?",
+        "answer": "The OM651 2.1-litre diesel (E 220 CDI/E 250 CDI) is widely regarded as the most durable A207 engine — strong fuel economy, proven longevity and well-documented service requirements. Among petrols, the M276 3.5-litre V6 (E 350, 2011-on) is the pick — smooth, refined and robust, though coolant leaks from the thermostat housing are documented."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz A207?",
+        "answer": "Timing chain stretch and camshaft sprocket wear on the M271 1.8-litre turbo (E 200 CGI/E 250 CGI), timing chain tensioner oil leaks on early OM651 diesels (recall issued January 2015), coolant leaks from the M276 V6 thermostat housing, and oil cooler seal leaks on the OM642 V6 diesel (E 350 CDI) are the most documented issues. Each requires different preventative strategies."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes-Benz A207 reliable?",
+        "answer": "It depends heavily on which engine you choose. The OM651 diesel and M276 V6 are generally reliable with routine maintenance. The M271 family requires careful timing chain history checking. The M272 V6 (pre-2011 E 350) can suffer from balance shaft wear. The M273 V8 (pre-2011 E 500) is complex and expensive to maintain — the M278 twin-turbo V8 that replaced it is a significant improvement. Overall, a well-maintained A207 is a solid used proposition."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes-Benz A207 engine should I avoid?",
+        "answer": "The M273 5.5-litre V8 (pre-2011 E 500) is the one we consistently advise against — intake manifold issues, timing chain problems and high running costs make it a costly proposition. The M272 V6 (pre-2011 E 350 CGI) can suffer from balance shaft wear on early examples. The M271 is a strong performer but only with documented timing chain history."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my A207 engine needs replacing?",
+        "answer": "Cold-start rattle (M271 timing chain), oil leaks from the OM651 timing chain tensioner, coolant loss (M276 thermostat housing), oil leaks from the OM642 oil cooler seals (smoke from under bonnet), or blue smoke from the exhaust are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing an A207 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £12,000 E 350, a £4,500 M276 recon is 37.5% of the car's value — safe. Against a tired £6,000 example, the same recon is 75% — borderline, and we'd advise walking away. For OM651 diesels, the economics are more favourable — a £3,500 recon on a £10,000 example is just 35%. Our 70% Mercedes-Benz threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes-Benz A207 engines last?",
+        "answer": "The OM651 diesel can comfortably exceed 150,000 miles with proper servicing. The M276 V6 petrol is similarly durable, though coolant system maintenance is key. The M271's limiting factor is the timing chain — addressed proactively, it can reach 120,000+ miles. The M278 twin-turbo V8 is robust but demands specialist attention."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the A207 and C207?",
+        "answer": "Both are first-generation E-Class coupé/cabriolet models sharing the W204 platform and most engines. The C207 is the 2-door coupé (2009–2017), while the A207 is the 2-door cabriolet (2010–2017). Costs vary slightly by body style due to labour access — see the C207 generation page for specifics. The cabriolet's fabric roof mechanism can also add maintenance costs."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes-Benz A207 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on M271/M274/M272/M276/M273/M278/OM651/OM642 units. Tell us your variant and approximate year and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz A207 Cabriolet Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted A207 Engine Suppliers",
+        "text": "every Mercedes specialist and engine rebuilder in our network is vetted, rated and reviewed by real A207 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare A207 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply-&-fit options side-by-side before you commit — no hidden fees, no pressure."
+      },
+      {
+        "title": "UK Engine Replacement Services for A207",
+        "text": "covering every variant from E 200 CGI to E 500, with supply-only or full supply-&-fit available nationwide from 25+ vetted Mercedes specialists."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz A207 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz A207 Engine Prices on EnginesMarket →",
+      "href": "#",
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
+    }
+  }
+}

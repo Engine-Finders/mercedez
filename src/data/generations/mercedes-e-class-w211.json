@@ -1,0 +1,645 @@
+{
+  "meta": {
+    "slug": "mercedes-e-class-w211",
+    "title": "Mercedes E-Class W211 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes E-Class W211 • Saloon/Estate • 2002–2009",
+    "h1": "Mercedes E-Class W211 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Mercedes E-Class W211 — from the 1.8‑litre M271 Kompressor four‑cylinder to the 6.2‑litre M156 AMG V8, plus the OM648 straight‑six and OM642 V6 diesels that made this generation a legend in the UK taxi and fleet trades. Real UK replacement costs, honest failure data, and the 2006 facelift that dropped the troublesome SBC brakes and brought new V6s. Backed by 276+ real UK W211 enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "276+ W211 Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon/Estate"
+      },
+      {
+        "icon": "📖",
+        "label": "10 Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W211 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes E-Class W211 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W211 specifically — from the pre‑facelift M112 V6 and OM648 straight‑six diesel to the facelift M272 V6 and OM642 V6 diesel.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W211)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M271.940",
+        "family": "M271",
+        "fuel": "Petrol, supercharged",
+        "displacement": "1.8L (1796 cc)",
+        "power": "163 bhp (120 kW)",
+        "years": "2002–2006",
+        "variants": "E 200 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M271.956",
+        "family": "M271 EVO",
+        "fuel": "Petrol, supercharged",
+        "displacement": "1.8L (1796 cc)",
+        "power": "184 bhp (135 kW)",
+        "years": "2006–2009",
+        "variants": "E 200 Kompressor",
+        "reliability": "★★★½☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M112.912",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "2.6L (2597 cc)",
+        "power": "177 bhp (130 kW)",
+        "years": "2002–2005",
+        "variants": "E 240",
+        "reliability": "★★★★½ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£3,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M112.921",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "3.2L (3199 cc)",
+        "power": "224 bhp (165 kW)",
+        "years": "2002–2005",
+        "variants": "E 320",
+        "reliability": "★★★★½ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272.940",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.0L (2996 cc)",
+        "power": "231 bhp (170 kW)",
+        "years": "2005–2009",
+        "variants": "E 280",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272.960",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3498 cc)",
+        "power": "272 bhp (200 kW)",
+        "years": "2005–2009",
+        "variants": "E 350",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113.967",
+        "family": "M113",
+        "fuel": "Petrol, V8",
+        "displacement": "5.0L (4966 cc)",
+        "power": "292 bhp (215 kW)",
+        "years": "2002–2005",
+        "variants": "E 500",
+        "reliability": "★★★★½ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113.990",
+        "family": "M113",
+        "fuel": "Petrol, V8, supercharged",
+        "displacement": "5.4L (5439 cc)",
+        "power": "476 bhp (350 kW)",
+        "years": "2003–2006",
+        "variants": "E 55 AMG",
+        "reliability": "★★★★½ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£9,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M156.983",
+        "family": "M156",
+        "fuel": "Petrol, V8, AMG",
+        "displacement": "6.2L (6208 cc)",
+        "power": "514 bhp (378 kW)",
+        "years": "2006–2009",
+        "variants": "E 63 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£15,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM646.951",
+        "family": "OM646",
+        "fuel": "Diesel, I4",
+        "displacement": "2.1L (2148 cc)",
+        "power": "100–122 bhp (75–90 kW)",
+        "years": "2002–2006",
+        "variants": "E 200 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM646.961",
+        "family": "OM646",
+        "fuel": "Diesel, I4",
+        "displacement": "2.1L (2148 cc)",
+        "power": "134–150 bhp (100–110 kW)",
+        "years": "2002–2009",
+        "variants": "E 220 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£3,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM647.961",
+        "family": "OM647",
+        "fuel": "Diesel, I5",
+        "displacement": "2.7L (2685 cc)",
+        "power": "163–177 bhp (120–130 kW)",
+        "years": "2002–2005",
+        "variants": "E 270 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM648.961",
+        "family": "OM648",
+        "fuel": "Diesel, I6",
+        "displacement": "3.2L (3222 cc)",
+        "power": "204 bhp (150 kW)",
+        "years": "2003–2005",
+        "variants": "E 320 CDI",
+        "reliability": "★★★★★ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.920",
+        "family": "OM642",
+        "fuel": "Diesel, V6",
+        "displacement": "3.0L (2987 cc)",
+        "power": "224–231 bhp (165–170 kW)",
+        "years": "2005–2009",
+        "variants": "E 280 CDI, E 320 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes E-Class W211 — Overview",
+    "intro": "The W211 is the third generation of the Mercedes‑Benz E‑Class, produced from 2001 to 2009 and offered in saloon (W211) and estate (S211) body styles. Launched as the successor to the W210, it introduced a more aerodynamic design, a longer wheelbase, and a range of new engines including the OM648 straight‑six diesel that would become a favourite of UK taxi fleets. A significant April 2006 facelift brought new powertrains (M272 V6, OM642 V6 diesel), the deletion of the troublesome SBC brake system, and updated styling. At the top of the range sat the E 55 AMG — a 476bhp supercharged V8 executive express — later replaced by the 514bhp E 63 AMG with the naturally aspirated M156 V8.",
+    "keyFacts": "Platform: Mercedes W211 (shared with S211 estate) • Predecessor: W210 • Successor: W212 • Sibling body styles in this generation: S211 (estate)",
+    "marketIntelligenceLine": "The W211 E‑Class generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the OM642 and OM648 diesel variants as these ageing executive cars enter high‑mileage third‑or‑fourth‑owner territory."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM648.961 (E 320 CDI, pre‑facelift)",
+        "quote": "The 3.2‑litre straight‑six diesel — 204 bhp, 500 Nm of torque, and the most reliable diesel ever fitted to a W211. The OM648/722.6 drivetrain combo is absolutely bulletproof — examples regularly exceed 400,000 miles on the original engine and gearbox. The OM648 is widely considered one of the best engines Mercedes ever built.",
+        "whoItsFor": "buyers who want bulletproof diesel reliability and effortless six‑cylinder torque — the one to buy."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M112.921 (E 320, pre‑facelift)",
+        "quote": "The 3.2‑litre V6 — 224 bhp, 315 Nm of torque, and the last of Mercedes' simple 3‑valve‑per‑cylinder V6s. No balance‑shaft issues, no SBC problems (on the engine itself), just smooth, reliable V6 power. The M112 is widely considered one of the best engines Mercedes ever built. If you can find one with a clean history, the powertrain itself is unlikely to give you grief.",
+        "whoItsFor": "buyers who want pre‑facelift V6 refinement without the M272's balance‑shaft concerns."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M272.940 / .960 (E 280 / E 350, facelift, 2005–2007)",
+        "quote": "The M272 V6 is a significant step forward in power and refinement, but early units (2005–2007, up to engine number 30 468 993) suffer from balance‑shaft sprocket wear — a £2,000‑£3,000 repair that requires engine removal. A worn sprocket can destroy the engine if ignored. The 3.5‑litre E 350 is the worst affected.",
+        "whoItsFor": "buyers who understand the M272's reputation and budget for balance‑shaft replacement — or buy a 2008‑2009 car where the issue was resolved."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M156.983 (E 63 AMG, facelift)",
+        "quote": "The 6.2‑litre naturally aspirated V8 is a masterpiece, but when it fails — cylinder head bolts (up to engine code 156983 60 060658), camshaft adjusters, or valve stem seals — the repair bills are in a different league. The M156 is definitely less reliable and higher maintenance than the M113K.",
+        "whoItsFor": "collectors and enthusiasts who understand that 514 bhp comes with a six‑figure maintenance budget."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM646.961 (E 220 CDI)",
+        "quote": "The 2.1‑litre four‑cylinder diesel — 134–150 bhp, 340 Nm of torque, and the most common diesel in the UK W211 parc. It's a reliable, albeit slow, lump, and the 5‑speed 722.6 gearbox will also go on forever. The cheapest W211 to run and insure.",
+        "whoItsFor": "buyers who want E‑Class prestige without the six‑cylinder running costs."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M112.912 (E 240, pre‑facelift)",
+        "quote": "The 2.6‑litre V6 is often overshadowed by the 3.2‑litre E 320, but it's the same durable M112 family with lower running costs. No balance‑shaft issues, no SBC problems — just honest V6 motoring. The M112 and M113 need some maintenance, being 14 or more years old, but they remain some of the most reliable Mercedes engines ever built.",
+        "whoItsFor": "buyers who want V6 refinement on a budget."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes E-Class W211 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M271.940 (E 200 Kompressor, pre‑facelift)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / camshaft adjuster",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Watch — M271 chain issues well‑documented"
+      },
+      {
+        "engine": "M271.956 (E 200 Kompressor, facelift)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / camshaft adjuster",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,000–£3,500",
+        "ownershipVerdict": "Best Value — more power, same costs"
+      },
+      {
+        "engine": "M112.912 (E 240)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Thermostat / valve cover gaskets",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£2,200–£3,800",
+        "ownershipVerdict": "Overlooked Gem — durable V6"
+      },
+      {
+        "engine": "M112.921 (E 320)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Thermostat / valve cover gaskets",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Best Petrol — smooth, bulletproof"
+      },
+      {
+        "engine": "M272.940 (E 280)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Balance shaft wear",
+        "repairCostSpecialist": "£2,000–£3,000",
+        "replacementCostRecon": "£2,800–£5,000",
+        "ownershipVerdict": "Watch — early M272 balance‑shaft risk"
+      },
+      {
+        "engine": "M272.960 (E 350)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Balance shaft wear",
+        "repairCostSpecialist": "£2,000–£3,000",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Watch — higher power = higher risk"
+      },
+      {
+        "engine": "M113.967 (E 500)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Valve stem seals / oil leaks",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "Solid V8 — robust but costly"
+      },
+      {
+        "engine": "M113.990 (E 55 AMG)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Intercooler pump / pulleys",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£5,000–£9,000",
+        "ownershipVerdict": "AMG Value — reliable V8, AMG costs"
+      },
+      {
+        "engine": "M156.983 (E 63 AMG)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Head bolts / camshaft adjusters",
+        "repairCostSpecialist": "£2,500–£5,000",
+        "replacementCostRecon": "£8,000–£15,000",
+        "ownershipVerdict": "Enthusiast Only — fast, costly"
+      },
+      {
+        "engine": "OM646.951 (E 200 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector wear / EGR",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£2,000–£3,500",
+        "ownershipVerdict": "Budget Diesel — slow but reliable"
+      },
+      {
+        "engine": "OM646.961 (E 220 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector wear / EGR",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£2,200–£3,800",
+        "ownershipVerdict": "Best Diesel — refined and common"
+      },
+      {
+        "engine": "OM647.961 (E 270 CDI)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Injector wear / turbo",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Old‑School Diesel — durable five‑cylinder"
+      },
+      {
+        "engine": "OM648.961 (E 320 CDI)",
+        "typicalMileage": "100k–250k+",
+        "commonMajorFailure": "Injector seals / turbo hoses",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,800–£5,000",
+        "ownershipVerdict": "Bulletproof — 400k+ mile legend"
+      },
+      {
+        "engine": "OM642.920 (E 280/320 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Oil cooler seals",
+        "repairCostSpecialist": "£900–£1,400",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "V6 Diesel — effortless torque"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W211 rule",
+      "text": "A £2,200–£3,800 OM646 recon against a £2,500–£8,000 W211 sits at 28–152% of the car's value. On a sub‑£3,000 W211, that brushes our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well‑kept £5,000+ example, the same recon drops to a routine 44–76% — a repair decision, not a financial one. Value the car first, and always budget for SBC brake system maintenance on pre‑facelift cars — the biggest non‑engine cost on this generation."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W211 Costs Least To Own?",
+        "answer": "OM646.961 (E 220 CDI) — cheap to run, reliable, common parts, 722.6 gearbox is bulletproof."
+      },
+      {
+        "question": "Which W211 Costs Most To Own?",
+        "answer": "M156.983 (E 63 AMG) — V8 running costs, AMG parts prices, head bolt and camshaft adjuster risks."
+      },
+      {
+        "question": "Which W211 Is Best Value?",
+        "answer": "OM648.961 (E 320 CDI) — bulletproof straight‑six diesel, 400,000+ mile proven, and the most desirable diesel engine in the W211 range."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M272 Balance Shaft Wear (Facelift V6)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any M272 W211, check the engine number against the affected range — early units (2005–2007) are at risk. £2,000–£3,000 now is far cheaper than the £2,800–£5,000 replacement that follows a failure. Post‑2008 cars are significantly improved.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM642 Oil Cooler Seal Leak (Facelift Diesel)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any OM642 W211 over 80,000 miles, inspect for oil leaks around the V of the engine — £800–£1,400 now is far cheaper than the £3,000–£5,500 replacement that follows if oil loss causes engine damage.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "SBC Brake System (Pre‑Facelift, 2002–2006)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any pre‑facelift W211, check SBC service history — £800–£1,500 now is far cheaper than the £1,500–£2,500 replacement that follows a complete failure. Facelift cars (2006–2009) dropped SBC entirely.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "W211 Rust & Subframe Corrosion",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "Inspect the rear wheel arches, sill undersides and subframe mounting points carefully before purchase — £400–£800 now is far cheaper than the £1,200–£2,500 repair that follows if corrosion spreads. This is the biggest non‑engine, non‑SBC issue on the W211.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W211 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "E 200 Kompressor (pre‑facelift)",
+        "engineCode": "M271.940",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 200 Kompressor (facelift)",
+        "engineCode": "M271.956",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 240",
+        "engineCode": "M112.912",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 320",
+        "engineCode": "M112.921",
+        "usedSupply": "£1,500–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 280",
+        "engineCode": "M272.940",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 350",
+        "engineCode": "M272.960",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 500",
+        "engineCode": "M113.967",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 55 AMG",
+        "engineCode": "M113.990",
+        "usedSupply": "£3,000–£5,500",
+        "reconditionedSupply": "£5,000–£9,000",
+        "rebuiltSupply": "£8,000–£13,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 63 AMG",
+        "engineCode": "M156.983",
+        "usedSupply": "£5,000–£9,000",
+        "reconditionedSupply": "£8,000–£15,000",
+        "rebuiltSupply": "£12,000–£20,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "E 200 CDI",
+        "engineCode": "OM646.951",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 220 CDI",
+        "engineCode": "OM646.961",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 270 CDI",
+        "engineCode": "OM647.961",
+        "usedSupply": "£1,500–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 320 CDI (pre‑facelift)",
+        "engineCode": "OM648.961",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 280/320 CDI (facelift)",
+        "engineCode": "OM642.920",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M271, M112, M272, M113, M156, OM646, OM647, OM648 or OM642 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W211's executive‑car labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "E 200 CDI",
+      "E 220 CDI",
+      "E 270 CDI",
+      "E 280 CDI",
+      "E 320 CDI"
+    ],
+    "petrolVariants": [
+      "E 200 Kompressor",
+      "E 240",
+      "E 280",
+      "E 320",
+      "E 350",
+      "E 500",
+      "E 55 AMG",
+      "E 63 AMG"
+    ],
+    "scopeNote": "All variants listed are W211 saloon and S211 estate. The saloon and estate share all engines, with only minor labour differences for some repairs. The estate's additional weight and rear suspension setup can affect fuel economy and running costs."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

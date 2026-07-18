@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-e-class-c238",
+    "title": "Mercedes‑Benz E‑Class C238 Engines — The Complete UK Guide",
+    "titleCharCount": 58,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz E‑Class C238 • Coupé • 2017–2023",
+    "h1": "Mercedes‑Benz E‑Class C238 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the C238 coupé — from the 2.0‑litre M274 petrol to the 3.0‑litre straight‑six M256 in the E 450 and AMG E 53. Real UK replacement costs, honest reliability data, and the coupe‑specific running costs that define this generation. Backed by real UK C238 enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "[X]+ C238 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Coupé"
+      },
+      {
+        "icon": "📖",
+        "label": "11 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore C238 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes‑Benz E‑Class C238 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the C238 coupé specifically — spanning pre‑facelift (2017–2020) and facelift (2020–2023) powertrains.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (C238)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1991cc)",
+        "power": "184 hp (135 kW)",
+        "years": "2017–2020",
+        "variants": "E 200, E 200 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1991cc)",
+        "power": "245 hp (180 kW)",
+        "years": "2017–2020",
+        "variants": "E 300",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M264.920",
+        "family": "M264",
+        "fuel": "Petrol, turbo mild‑hybrid",
+        "displacement": "2.0L (1991cc)",
+        "power": "258 hp (190 kW)",
+        "years": "2019–2023",
+        "variants": "E 300 EQ Boost",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M276.823",
+        "family": "M276",
+        "fuel": "Petrol, bi‑turbo",
+        "displacement": "3.0L (2996cc)",
+        "power": "333 hp (245 kW)",
+        "years": "2017–2018",
+        "variants": "E 400 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,800–£6,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M256.930",
+        "family": "M256",
+        "fuel": "Petrol, turbo mild‑hybrid",
+        "displacement": "3.0L (2999cc)",
+        "power": "367 hp (270 kW)",
+        "years": "2020–2023",
+        "variants": "E 450 EQ Boost 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£7,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M256.930",
+        "family": "M256",
+        "fuel": "Petrol, turbo mild‑hybrid",
+        "displacement": "3.0L (2999cc)",
+        "power": "435 hp (320 kW)",
+        "years": "2018–2023",
+        "variants": "AMG E 53 EQ Boost 4MATIC+",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£10,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.0L (1950cc)",
+        "power": "163 hp (120 kW)",
+        "years": "2017–2023",
+        "variants": "E 220 d",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "520 [MB‑VERIFIED]",
+        "avgReconCost": "£3,000–£5,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.0L (1950cc)",
+        "power": "194 hp (143 kW)",
+        "years": "2017–2023",
+        "variants": "E 220 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "520 [MB‑VERIFIED]",
+        "avgReconCost": "£3,000–£5,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.0L (1950cc)",
+        "power": "265 hp (195 kW)",
+        "years": "2020–2023",
+        "variants": "E 300 d",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "520 [MB‑VERIFIED]",
+        "avgReconCost": "£3,200–£5,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM656.929",
+        "family": "OM656",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.9L (2925cc)",
+        "power": "330 hp (243 kW)",
+        "years": "2018–2023",
+        "variants": "E 400 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£8,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM656.929",
+        "family": "OM656",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.9L (2925cc)",
+        "power": "340 hp (250 kW)",
+        "years": "2018–2023",
+        "variants": "E 400 d 4MATIC+",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£8,000 [MB‑QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M274, M264, M256, M276 and OM656: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. M256: Mercedes' new straight‑six with 48V mild‑hybrid technology — generally robust, with cooling system and 48V battery as primary watchpoints. OM654: proven modern diesel with AdBlue system issues as the main concern. OM656: the most powerful diesel six Mercedes has built — complex but well‑regarded."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes‑Benz E‑Class C238 — Overview",
+    "intro": "The C238 is the coupé bodystyle of the tenth‑generation Mercedes‑Benz E‑Class, launched in spring 2017 as the successor to the C207. It marked a significant shift: unlike its predecessor and the CLK before it, the C238 shared its proper executive‑sized platform with the W213 E‑Class saloon — making it substantially larger and more sophisticated. A major 2020 facelift brought mild‑hybrid technology to the petrol line‑up, replacing the V6 with the M256 straight‑six and introducing the OM654 M diesel with integrated starter‑generator. Every C238 is powered by a longitudinally‑mounted four or six‑cylinder engine, driving the rear wheels or 4MATIC all‑wheel drive.",
+    "keyFacts": "Platform: Mercedes‑Benz MRA (Modular Rear Architecture) • Predecessor: C207 • Successor: C236 (CLE) • Sibling body styles in this generation: W213 Saloon, S213 Estate, A238 Cabriolet.",
+    "marketIntelligenceLine": "The E‑Class range (W213/S213/C238/A238 combined) generated real UK engine enquiries in 2025 [MB‑VERIFIED], with the OM654 diesel and M256 petrol commanding the strongest specialist interest."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM656 2.9‑litre straight‑six diesel (E 400 d, 330–340hp)",
+        "quote": "The most powerful diesel six Mercedes has ever built — 340hp and 700Nm from a 2.9‑litre straight‑six. Smooth, effortless, and fundamentally robust, with none of the AdBlue system issues that plague the OM654. The OM656 is a genuine modern classic in the making.",
+        "whoItsFor": "buyers who want diesel refinement and effortless torque without the four‑cylinder's compromises."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M256 3.0‑litre straight‑six (E 450, 367hp)",
+        "quote": "Mercedes' return to the straight‑six — 367hp, 500Nm, and a 48V mild‑hybrid system that adds 22hp and 250Nm of electric boost. Smooth, responsive, and far more refined than the V6 it replaced. Cooling system maintenance is the only real demand.",
+        "whoItsFor": "buyers who want straight‑six refinement and genuine performance."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M274 2.0‑litre turbo (E 200, 184hp / E 300, 245hp)",
+        "quote": "The pre‑facelift four‑cylinder turbo is the most contentious engine in the range — timing chain stretch is a documented issue on higher‑mileage examples, and it lacks the refinement of the later M264 or the sixes. Avoid without documented chain history.",
+        "whoItsFor": "buyers on a tight budget who prioritise running costs over refinement."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M256.930 (AMG E 53, 435hp)",
+        "quote": "The highest‑strung M256 tune — 435hp from a 3.0‑litre straight‑six with 48V mild‑hybrid. Tight engine bay packaging makes even sensor replacement labour‑intensive, and cooling system integrity is critical on hard‑driven cars.",
+        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM654 2.0‑litre diesel (E 220 d, 163–194hp)",
+        "quote": "The volume diesel in the C238 range — 194hp and 400Nm deliver strong real‑world performance, and the OM654 is a proven modern diesel with AdBlue system maintenance as its only real cost. Lower running costs than the six‑cylinder diesel, with 90% of the torque.",
+        "whoItsFor": "buyers who want diesel economy without the six‑cylinder's purchase premium."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M264 2.0‑litre mild‑hybrid (E 300 EQ Boost, 258hp)",
+        "quote": "The facelift replacement for the M274 — 258hp, 48V mild‑hybrid, and none of the M274's timing chain concerns. It sits in a sweet spot between the four and the six, offering genuine performance without the M256's running costs. Often overlooked in favour of the sixes.",
+        "whoItsFor": "buyers who want modern petrol efficiency without the six‑cylinder's fuel consumption."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes‑Benz E‑Class C238 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M274.920 (184hp)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Entry Petrol — budget for chain inspection"
+      },
+      {
+        "engine": "M274.920 (245hp)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Higher Tune — same engine, same risks"
+      },
+      {
+        "engine": "M264.920 (258hp)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "48V system, cooling",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,000–£3,800",
+        "ownershipVerdict": "Modern Tech — improved over M274"
+      },
+      {
+        "engine": "M276.823 (333hp)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Timing chain, oil leaks",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£3,800–£6,500",
+        "ownershipVerdict": "V6 Classic — smooth but ageing"
+      },
+      {
+        "engine": "M256.930 (367hp)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Cooling system, 48V battery",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£4,500–£7,500",
+        "ownershipVerdict": "Straight‑Six — refined and robust"
+      },
+      {
+        "engine": "M256.930 (435hp)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Cooling system, sensor misfires",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£6,000–£10,000",
+        "ownershipVerdict": "AMG Performance — highest running costs"
+      },
+      {
+        "engine": "OM654.920 (163hp)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "AdBlue system, EGR cooler",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£3,000–£5,000",
+        "ownershipVerdict": "Entry Diesel — cheap to run"
+      },
+      {
+        "engine": "OM654.920 (194hp)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "AdBlue system, EGR cooler",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£3,000–£5,000",
+        "ownershipVerdict": "Best Diesel — strong torque, same costs"
+      },
+      {
+        "engine": "OM654.920 (265hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "AdBlue system, DPF",
+        "repairCostSpecialist": "£600–£1,800",
+        "replacementCostRecon": "£3,200–£5,500",
+        "ownershipVerdict": "High‑Output Four — more strain, more cost"
+      },
+      {
+        "engine": "OM656.929 (330hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Cooling, EGR cooler",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£5,000–£8,000",
+        "ownershipVerdict": "Six‑Cylinder Diesel — smooth and powerful"
+      },
+      {
+        "engine": "OM656.929 (340hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Cooling, EGR cooler",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£5,000–£8,000",
+        "ownershipVerdict": "Most Powerful Diesel — effortless torque"
+      }
+    ],
+    "economicsRule": {
+      "title": "The C238 rule",
+      "text": "A £3,000–£5,000 OM654 recon against a £15,000–£25,000 C238 sits at 12–33% of the car's value — well inside the 70% Mercedes‑Benz threshold. Against a £10,000 high‑mileage example, the same recon reaches 30–50% — still viable, but a significant proportion of the car's residual value. Value the car and its service history first."
+    },
+    "keyTakeaways": []
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M274 Timing Chain Stretch",
+        "affectedModels": "C238 E 200, E 300 (pre‑facelift, 2017–2020).",
+        "typicalFailureMileage": "50,000–90,000 miles.",
+        "rootCause": "The 2.0‑litre turbo's timing chain can stretch over time, particularly on engines with extended service intervals — a rattle on cold start is the classic early warning.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of cold‑start rattle, get the chain inspected immediately — an £800–£1,500 preventative repair is far cheaper than the £2,500–£4,000 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M274 engine prices for your C238 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM654 AdBlue System Failure",
+        "affectedModels": "C238 E 220 d, E 300 d (all OM654.920).",
+        "typicalFailureMileage": "80,000–120,000 miles.",
+        "rootCause": "The AdBlue system's NOx sensors, heater elements, and dosing valves can fail — leading to countdown warnings that prevent the car from restarting.",
+        "tieredCosts": [],
+        "recommendation": "A £500–£1,500 AdBlue system service is non‑negotiable on the OM654 — the countdown warnings give you limited mileage before the car won't restart.",
+        "cta": {
+          "label": "Compare OM654 engine prices for your C238 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M256 Cooling System & 48V Battery Issues",
+        "affectedModels": "C238 E 450, AMG E 53 (all M256.930).",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The M256's 48V mild‑hybrid system adds complexity — the 48V battery can degrade, and the cooling system (water pump, coolant lines) is under more strain than on conventional engines.",
+        "tieredCosts": [],
+        "recommendation": "On a £20,000–£40,000 C238, a £800–£2,000 cooling system service is cheap insurance — it protects the £5,000–£8,000 engine that sits at the heart of the car.",
+        "cta": {
+          "label": "Compare M256 engine prices for your C238 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "OM656 EGR Cooler & Cooling System",
+        "affectedModels": "C238 E 400 d (all OM656.929).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The 2.9‑litre straight‑six diesel's EGR cooler can fail, leading to coolant loss and potential overheating — the cooling system is complex and labour‑intensive to access.",
+        "tieredCosts": [],
+        "recommendation": "Monitor coolant levels regularly — a £1,000–£2,000 EGR cooler replacement is dramatically cheaper than the £5,000–£8,000 engine that follows an overheat.",
+        "cta": {
+          "label": "Compare OM656 engine prices for your C238 →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "C238 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "E 200 / E 300 (pre‑LCI)",
+        "engineCode": "M274.920",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "E 300 (LCI)",
+        "engineCode": "M264.920",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,000–£3,800",
+        "rebuiltSupply": "£3,200–£5,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "E 400 4MATIC",
+        "engineCode": "M276.823",
+        "usedSupply": "£2,200–£3,800",
+        "reconditionedSupply": "£3,800–£6,500",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 450 EQ Boost",
+        "engineCode": "M256.930",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,500–£7,500",
+        "rebuiltSupply": "£6,500–£10,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "AMG E 53",
+        "engineCode": "M256.930",
+        "usedSupply": "£3,500–£6,000",
+        "reconditionedSupply": "£6,000–£10,000",
+        "rebuiltSupply": "£8,500–£13,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 220 d (163hp)",
+        "engineCode": "OM654.920",
+        "usedSupply": "£1,800–£3,000",
+        "reconditionedSupply": "£3,000–£5,000",
+        "rebuiltSupply": "£4,200–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 220 d 4MATIC (194hp)",
+        "engineCode": "OM654.920",
+        "usedSupply": "£1,800–£3,000",
+        "reconditionedSupply": "£3,000–£5,000",
+        "rebuiltSupply": "£4,200–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 300 d",
+        "engineCode": "OM654.920",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 400 d (330hp)",
+        "engineCode": "OM656.929",
+        "usedSupply": "£3,000–£5,000",
+        "reconditionedSupply": "£5,000–£8,000",
+        "rebuiltSupply": "£7,000–£11,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 400 d (340hp)",
+        "engineCode": "OM656.929",
+        "usedSupply": "£3,000–£5,000",
+        "reconditionedSupply": "£5,000–£8,000",
+        "rebuiltSupply": "£7,000–£11,000",
+        "labourHours": "14–18 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "E 220 d",
+      "E 220 d 4MATIC",
+      "E 300 d",
+      "E 400 d 4MATIC",
+      "E 400 d 4MATIC+"
+    ],
+    "petrolVariants": [
+      "E 200",
+      "E 200 4MATIC",
+      "E 300",
+      "E 300 EQ Boost",
+      "E 400 4MATIC",
+      "E 450 EQ Boost 4MATIC",
+      "AMG E 53 EQ Boost 4MATIC+"
+    ],
+    "scopeNote": "All variants listed are C238 coupé only. W213 Saloon, S213 Estate and A238 Cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and production years vary by body style."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

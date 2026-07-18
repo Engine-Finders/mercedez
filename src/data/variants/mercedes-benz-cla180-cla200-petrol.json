@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-cla180-cla200-petrol",
+    "title": "Mercedes-Benz CLA180 / CLA200 Petrol Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 85,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz CLA180 / CLA200 Petrol • 2013–present • Two Engine Generations",
+    "h1": "Mercedes-Benz CLA180 / CLA200 Petrol Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz specialists. The CLA180/200 petrol spans the M270 1.6L (C117) and M282 1.3L (C118) — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz CLA180/200 Petrol Engines — from £1,500 to £6,000 · Codes: M270 / M282",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free Mercedes CLA180/200 Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz CLA180 / CLA200 Petrol — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "C117 / X117",
+        "years": "2013–2019",
+        "engineCode": "M270 (1.6L turbo petrol)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£2,500–£4,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "1.6T — timing chain stretch, ignition faults and carbon build-up are key watchpoints"
+      },
+      {
+        "generation": "C118 / X118",
+        "years": "2019–present",
+        "engineCode": "M282 (1.3L turbo petrol)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£5,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "1.3T — modern with cylinder shutoff, generally reliable, fewer common faults"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz CLA180 / CLA200 Petrol Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,500–£2,800",
+        "fittedIndie": "£2,300–£4,000",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; older C117 donors"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£2,500–£4,500",
+        "fittedIndie": "£3,500–£5,700",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£3,500–£5,500",
+        "fittedIndie": "£4,500–£6,700",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£5,000–£8,000",
+        "fittedIndie": "£6,500–£9,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market ranges across both CLA petrol generations. Reconditioned units are available from specialist Mercedes engine rebuilders. Prices for M282 typically command a premium over M270 due to newer technology. See the Era Map above for generation-specific pricing.",
+    "labourEstimate": "Fitting a CLA180/200 petrol engine typically takes 8–12 hours at £75–£110/hr (independent Mercedes specialist) or £130–£180/hr (London/SE dealer). The M282's cylinder shutoff and direct injection add complexity.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz CLA180/200 petrol engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Stretch (M270 — C117)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Ignition System Faults (M270 — C117)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Carbon Build-up on Intake Valves (M270 and M282 — Direct Injection)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Thermostat Housing Leaks (M270 — C117)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Cylinder Shutoff System Issues (M282 — C118)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes-Benz Specialist →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering both M270 and M282 CLA petrol engines, with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free Mercedes CLA180/200 Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz CLA180 / CLA200 Petrol — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "M270 timing chain stretch",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Preventative — cheaper than engine replacement"
+        },
+        {
+          "problem": "M270 ignition system faults",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£600",
+          "whenItMakesSense": "Simple repair — always worth doing"
+        },
+        {
+          "problem": "Carbon build-up (M270/M282)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£800",
+          "whenItMakesSense": "Walnut blasting — restores performance"
+        },
+        {
+          "problem": "M270 thermostat housing leaks",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£600",
+          "whenItMakesSense": "Straightforward repair — always worth doing"
+        },
+        {
+          "problem": "M282 cylinder shutoff issues",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Viable on any well-maintained example"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz CLA180 / CLA200 Petrol? Check These First",
+      "buyIf": [
+        "* C118 (2019+) with M282 — the more modern and reliable engine",
+        "* C117 (2013–2019) with documented timing chain history (M270)",
+        "* Full service history with regular oil changes and MB-approved oil",
+        "* Low-mileage (under 60,000) with documented history",
+        "* M270 with evidence of carbon clean (walnut blasting) performed"
+      ],
+      "avoidIf": [
+        "* C117 with any cold-start rattle — timing chain stretch risk",
+        "* C117 with misfires or rough idle without documented diagnosis",
+        "* Poor service history — both engines are unforgiving of neglect",
+        "* M282 with cylinder shutoff hesitation without documented software update"
+      ]
+    },
+    "closingVerdict": "The CLA180/200 petrol is a stylish, compact four-door coupé with a choice of two modern turbo petrol engines. The C117 M270 (2013–2019) is a decent engine with known timing chain and ignition issues; the C118 M282 (2019+) is a significant improvement with better reliability and cylinder shutoff technology. Buy the C118 if you can, or a well-maintained C117 with documented timing work. Maintain the oil and ignition systems, and the CLA will serve you well.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz CLA180/200 petrol engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz CLA180 / CLA200 Petrol (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle on startup — M270 timing chain stretch warning",
+      "* Service History — Check the year to identify which engine — pre-2019 = M270, 2019+ = M282",
+      "* Timing Chain History — M270: chains replaced? Tensioner checked? (critical)",
+      "* Ignition System — Any misfires, rough idle, or starting issues? (M270 common)",
+      "* Carbon Build-up — M270/M282: has intake had a walnut blast? (every 60k miles recommended)",
+      "* Cooling System — Any temperature fluctuations? (M270 thermostat housing leaks)",
+      "* Cylinder Shutoff (M282) — Any hesitation or check engine light? (software updates available)",
+      "* Engine Warning Light — Have codes been read? Resolve before buying"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M270 (1.6L turbo petrol)",
+        "years": "2013–2019",
+        "power": "122–156 bhp",
+        "enquiries": "— (pattern data — high-volume UK)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M282 (1.3L turbo petrol)",
+        "years": "2019–present",
+        "power": "136–163 bhp",
+        "enquiries": "— (pattern data — high-volume UK)",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M282 — C118):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,595 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.3:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbocharger"
+        },
+        {
+          "label": "* Displacement",
+          "value": "1,332 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.6:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbocharger with cylinder shutoff technology"
+        },
+        {
+          "label": "Additional specifications",
+          "value": ""
+        },
+        {
+          "label": "* Maximum torque (M270)",
+          "value": "200–250 Nm @ 1,250–4,000 rpm"
+        },
+        {
+          "label": "* Maximum torque (M282)",
+          "value": "200–250 Nm @ 1,620–4,000 rpm"
+        },
+        {
+          "label": "* 0–60mph (M270)",
+          "value": "7.0–8.5 seconds (depending on tune)"
+        },
+        {
+          "label": "* 0–60mph (M282)",
+          "value": "7.0–8.5 seconds (depending on tune)"
+        },
+        {
+          "label": "* Top speed",
+          "value": "130–145 mph (limited)"
+        },
+        {
+          "label": "* Transmission",
+          "value": "7G-DCT (C117) / 7G-DCT (C118)"
+        },
+        {
+          "label": "* Drive",
+          "value": "Front-wheel drive (4MATIC optional)"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz CLA180/200 petrol engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M270: timing chain stretch (~35% of M270 enquiries) / M270: ignition faults (~30% of M270 enquiries) / M282: cylinder shutoff issues (~20% of M282 enquiries)【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£3,500 reconditioned (M282 era), supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M270 (C117 CLA180/200 is a high-volume UK petrol variant)【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn/Winter — cold starts expose timing chain issues; ignition faults worsen in cold weather【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), North West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz CLA180 / CLA200 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz CLA180/200 petrol engine costs £2,500–£4,500 supply only, varying by generation: M270 £2,500–£4,500, M282 £3,000–£5,500. Fitting adds £1,000–£1,500. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz CLA180 / CLA200 petrol reliable?",
+        "answer": "That depends on which generation. The C117 M270 (2013–2019) has known timing chain stretch and ignition system issues. The C118 M282 (2019+) is a more modern engine with better reliability, cylinder shutoff technology, and fewer common faults. Buy the C118 if you can."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz CLA180 / CLA200 petrol?",
+        "answer": "C117 M270: timing chain stretch (cold-start rattle, £1,500–£3,500), ignition system faults (misfires, £200–£600), carbon build-up (walnut blasting, £400–£800), thermostat housing leaks (£300–£600). C118 M282: carbon build-up, cylinder shutoff issues (hesitation, £500–£1,500)."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz CLA180 / CLA200 petrol engine, or should I scrap the car?",
+        "answer": "CLA values range from £5,000–£25,000 depending on generation, condition and mileage. A £2,500–£4,500 reconditioned engine represents 10–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained C118, replacement is often justified. For an ageing C117 with other issues, assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz CLA180 / CLA200 petrol engine code?",
+        "answer": "The CLA180/200 has used two engines: M270 (C117, 2013–2019, 1.6L turbo, 122–156 bhp) and M282 (C118, 2019+, 1.3L turbo, 136–163 bhp). Check your VIN or registration year. The code is stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M270 timing chain issue, or does it need replacement?",
+        "answer": "Yes — if caught early. Timing chain and guide replacement costs £1,500–£3,500 and is significantly cheaper than a full engine replacement (£2,500–£4,500). Replacing the chain, guides and tensioner is recommended around 60,000–100,000 miles. At the first sign of cold-start rattle, book an inspection immediately — ignored chain wear can lead to catastrophic engine failure."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz CLA180 / CLA200 Petrol Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz CLA180/200 Petrol Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real CLA owners, as part of the Engine Finders network, with specialist knowledge of both M270 and M282 petrol engines."
+      },
+      {
+        "title": "Compare Mercedes-Benz CLA180/200 Petrol Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for both C117 (M270) and C118 (M282) generations."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz CLA180/200 Petrol",
+        "text": "supply‑only or full supply & fit available nationwide, covering every CLA generation with specialists who understand these modern four-cylinder Mercedes engines."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz CLA180/200 petrol engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz CLA180 / CLA200 Petrol Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

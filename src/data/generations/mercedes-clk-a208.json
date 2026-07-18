@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "slug": "mercedes-clk-a208",
+    "title": "Mercedes CLK A208 Engines — The Complete UK Guide",
+    "titleCharCount": 49,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes CLK A208 • Convertible • 1998–2003",
+    "h1": "Mercedes CLK A208 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the first-generation CLK Cabriolet — from the M111 four-cylinder Kompressor to the M112 V6 and the M113 V8 that powers the CLK 55 AMG. Real UK costs, honest reliability data, and the 2000 engine refresh explained. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "A208 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Convertible"
+      },
+      {
+        "icon": "📖",
+        "label": "7+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore A208 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes CLK A208 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the A208 cabriolet specifically — including the full M111 Kompressor range, the M112 V6, and the M113 V8 AMG.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (A208)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M111.941 / M111.945",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1998cc)",
+        "power": "136 PS / 100 kW",
+        "years": "1998–2000",
+        "variants": "CLK 200",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.944",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.0L (1998cc)",
+        "power": "192 PS / 141 kW",
+        "years": "1998–2000",
+        "variants": "CLK 200 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.956",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.0L (1998cc)",
+        "power": "163 PS / 120 kW",
+        "years": "2000–2002",
+        "variants": "CLK 200 Kompressor (post-facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.975",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.3L (2295cc)",
+        "power": "193 PS / 142 kW",
+        "years": "1998–2000",
+        "variants": "CLK 230 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.982",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.3L (2295cc)",
+        "power": "197 PS / 145 kW",
+        "years": "2000–2002",
+        "variants": "CLK 230 Kompressor (post-facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112.940",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "3.2L (3199cc)",
+        "power": "218 PS / 160 kW",
+        "years": "1998–2002",
+        "variants": "CLK 320",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113.943",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "4.3L (4266cc)",
+        "power": "279 PS / 205 kW",
+        "years": "1998–2003",
+        "variants": "CLK 430",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113.984",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "5.4L (5439cc)",
+        "power": "347 PS / 255 kW",
+        "years": "1999–2002",
+        "variants": "CLK 55 AMG",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£9,000 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes CLK A208 — Overview",
+    "intro": "The A208 is the cabriolet variant of the first-generation Mercedes-Benz CLK-Class, produced from 1998 to 2003. Based on the W202 C-Class platform, the CLK combined E-Class styling with C-Class underpinnings, creating a new grand touring niche for Mercedes. The engine range spanned M111 four-cylinder petrols — both naturally aspirated and supercharged — plus M112 V6 and M113 V8 units, with a 2000 refresh bringing revised M111 engines and the introduction of the CLK 55 AMG.",
+    "keyFacts": "Platform: Mercedes W202 (C-Class) • Predecessor: Mercedes-Benz E-Class Cabriolet (A124) • Successor: Mercedes-Benz CLK-Class (A209) • Sibling body styles in this generation: C208 coupé (1997–2002).",
+    "marketIntelligenceLine": "The A208 CLK Cabriolet generated UK engine enquiries in 2025 [PATTERN DATA], with the M111 Kompressor engines and M112 V6 remaining the most commonly discussed among specialists."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode — one paragraph: The A208's most dependable engine is the M112 3.2-litre V6 (CLK 320, 218 PS) — smooth, torquey, and widely considered the pick of the range for its refined power delivery and proven durability. The post-facelift M111.982 2.3-litre Kompressor (CLK 230, 197 PS) is the best four-cylinder option — the 2000 refresh addressed many of the earlier M111's issues with a reinforced block and improved cylinder head. The M113 V8 in the CLK 430 (279 PS) offers effortless performance but carries higher running costs, while the CLK 55 AMG (347 PS) is a genuine modern classic — epic V8 soundtrack but eye-watering maintenance bills. Avoid early M111.944 200 Kompressor (192 PS) cars without documented supercharger service history — the Eaton M62 unit can be expensive to rebuild. Also avoid any car with neglected cooling systems, as the M112 and M113 V8s are sensitive to overheating.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes CLK A208 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M111.941/945 (CLK 200)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Wiring harness, MAF sensor",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Budget Choice — simplest A208 to run"
+      },
+      {
+        "engine": "M111.944 (CLK 200 Kompressor pre-facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, wiring harness",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Early Kompressor — more power, more to maintain"
+      },
+      {
+        "engine": "M111.956 (CLK 200 Kompressor facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, ignition coils",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Improved Kompressor — 163 PS, better reliability"
+      },
+      {
+        "engine": "M111.975 (CLK 230 Kompressor pre-facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, wiring harness",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£2,000–£3,500",
+        "ownershipVerdict": "Strong Four — 193 PS but early M111 caveats"
+      },
+      {
+        "engine": "M111.982 (CLK 230 Kompressor facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, coil packs",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£2,000–£3,500",
+        "ownershipVerdict": "Best Four — 197 PS, reinforced block"
+      },
+      {
+        "engine": "M112.940 (CLK 320)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Cooling system, engine mounts",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Most Refined — the V6 sweet spot"
+      },
+      {
+        "engine": "M113.943 (CLK 430)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Cooling system, valve cover gaskets",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "V8 Power — effortless but costly to maintain"
+      },
+      {
+        "engine": "M113.984 (CLK 55 AMG)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Valve stem seals, cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£5,000–£9,000",
+        "ownershipVerdict": "AMG Icon — epic engine, epic bills"
+      }
+    ],
+    "economicsRule": {
+      "title": "The A208 rule",
+      "text": "A £2,500–£4,500 recon on a sub-£5,000 A208 sits at 50–90% of the car's value — a serious decision. Against a well-kept £8,000+ example, the same recon drops to 31–56% — viable. For a CLK 55 AMG, a £30,000 car justifies a £5,000–£9,000 recon; a £15,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — value the car first, then the engine."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which A208 Costs Least To Own?",
+        "answer": "CLK 200 (M111.941/945) — simplest engine, cheapest parts, no supercharger."
+      },
+      {
+        "question": "Which A208 Costs Most To Own?",
+        "answer": "CLK 55 AMG (M113.984) — V8 complexity, specialist-only work, eye-watering parts prices."
+      },
+      {
+        "question": "Which A208 Is Best Value?",
+        "answer": "CLK 320 (M112.940) — 218 PS V6, proven reliability, strong performance without AMG running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M111 Kompressor Supercharger Clutch Failure",
+        "affectedModels": "A208 CLK 200 Kompressor, CLK 230 Kompressor (all M111 supercharged variants).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The Eaton supercharger's electromagnetic clutch can fail, causing a loss of boost, reduced power, and a rattling noise from the front of the engine. The pre-facelift M62 unit is particularly prone to wear.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,200",
+            "specialist": "£500–£800",
+            "work": "Replace supercharger clutch and belt",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£2,500–£4,000",
+            "specialist": "£1,800–£3,200",
+            "work": "Full supercharger replacement if internal damage",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your Kompressor is down on power or making a rattling noise from the front of the engine, have the supercharger clutch inspected immediately — £500–£800 is far cheaper than the £1,800+ replacement that follows if the supercharger fails internally. Post-facelift M111.956/M111.982 cars have improved reliability.",
+        "cta": {
+          "label": "Compare M111 engine prices for your A208 CLK →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M112 & M113 V8 Cooling System Leaks",
+        "affectedModels": "A208 CLK 320 (M112), CLK 430 (M113), CLK 55 AMG (M113).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The M112 V6 and M113 V8's cooling systems — particularly the water pump, thermostat housing, and coolant crossover pipes — are prone to leaks. The V6 and V8 layouts make access tight, increasing labour costs.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,400",
+            "specialist": "£500–£900",
+            "work": "Replace water pump, thermostat, and coolant pipes",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£3,000–£5,000",
+            "specialist": "£2,000–£4,000",
+            "work": "Full cooling system overhaul + engine inspection if overheated",
+            "note": ""
+          }
+        ],
+        "recommendation": "Check coolant levels regularly and look for signs of leaks around the water pump and thermostat housing — £500–£900 in preventative work is cheap insurance against the £2,000+ bill that follows an overheat. This is the single most important job on any M112 or M113-powered A208.",
+        "cta": {
+          "label": "Compare M112/M113 engine prices for your A208 CLK →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M113 V8 Valve Stem Seal Wear (CLK 55 AMG)",
+        "affectedModels": "A208 CLK 55 AMG (M113.984).",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The M113 V8's valve stem seals can harden and fail over time, leading to oil consumption and blue smoke on startup. This is particularly common on high-performance AMG variants.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£3,000–£5,000",
+            "specialist": "£2,000–£3,500",
+            "work": "Replace valve stem seals",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£8,000–£12,000",
+            "specialist": "£5,000–£9,000",
+            "work": "Full engine rebuild if oil starvation has caused bottom-end damage",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your CLK 55 is smoking on startup or using oil between services, have the valve stem seals inspected immediately — a £2,000–£3,500 repair is far cheaper than the £5,000+ rebuild that follows. Budget for this as a preventative job at 50,000 miles if you plan to keep the car long-term.",
+        "cta": {
+          "label": "Compare M113 engine prices for your A208 CLK 55 AMG →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Pre-2000 M111 Wiring Harness Degradation",
+        "affectedModels": "A208 CLK 200, CLK 200 Kompressor, CLK 230 Kompressor (pre-facelift, 1998–2000).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "Early A208s used biodegradable wiring insulation that degrades with age and heat, causing short circuits, misfires, and erratic engine behaviour — the same issue that affects the W202 C-Class.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,200",
+            "specialist": "£400–£700",
+            "work": "Replace upper engine harness",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,500–£2,500",
+            "specialist": "£1,000–£1,800",
+            "work": "Replace upper and lower harnesses",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your pre-facelift A208 has no documented wiring harness replacement, budget for it immediately — £400–£700 is cheap insurance against the £1,000+ bill for chasing intermittent electrical faults. Post-facelift cars (2000–2002) are much improved.",
+        "cta": {
+          "label": "Compare M111 wiring harness replacement quotes for your A208 CLK →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "A208 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "CLK 200",
+        "engineCode": "M111.941/945",
+        "usedSupply": "£700–£1,400",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "CLK 200 Kompressor (pre-facelift)",
+        "engineCode": "M111.944",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "CLK 200 Kompressor (facelift)",
+        "engineCode": "M111.956",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "CLK 230 Kompressor (pre-facelift)",
+        "engineCode": "M111.975",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,200–£5,200",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "CLK 230 Kompressor (facelift)",
+        "engineCode": "M111.982",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,200–£5,200",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "CLK 320",
+        "engineCode": "M112.940",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "CLK 430",
+        "engineCode": "M113.943",
+        "usedSupply": "£1,800–£3,500",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "CLK 55 AMG",
+        "engineCode": "M113.984",
+        "usedSupply": "£2,500–£5,000",
+        "reconditionedSupply": "£5,000–£9,000",
+        "rebuiltSupply": "£7,500–£12,000",
+        "labourHours": "16–20 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [],
+    "petrolVariants": [
+      "CLK 200",
+      "CLK 200 Kompressor",
+      "CLK 230 Kompressor",
+      "CLK 320",
+      "CLK 430",
+      "CLK 55 AMG"
+    ],
+    "scopeNote": "All variants listed are A208 cabriolet only. C208 coupé shares most of these engines but is covered on its own Generation Page, since body style affects weight, aerodynamics, and to some extent, labour access. Production of the A208 cabriolet continued until March 2003, one year longer than the coupé."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

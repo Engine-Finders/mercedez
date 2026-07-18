@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "slug": "mercedes-slk-r170",
+    "title": "Mercedes SLK R170 Engines — The Complete UK Guide",
+    "titleCharCount": 49,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes SLK R170 • Roadster • 1996–2004",
+    "h1": "Mercedes SLK R170 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the first-generation SLK roadster — from the M111 four-cylinder Kompressor to the M112 V6 and the supercharged AMG V6 that turned this compact roadster into a genuine performance car. Real UK costs, honest reliability data, and the 2000 facelift's engine changes explained. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "R170 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Roadster"
+      },
+      {
+        "icon": "📖",
+        "label": "8 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore R170 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes SLK R170 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the R170 roadster specifically — including pre-facelift M111 units, the 2000 facelift updates, the V6-powered SLK 320, and the range-topping AMG.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (R170)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M111.946",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1998cc)",
+        "power": "136 PS / 100 kW",
+        "years": "1996–2000",
+        "variants": "SLK 200",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.943",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.0L (1998cc)",
+        "power": "192 PS / 141 kW",
+        "years": "1996–2000",
+        "variants": "SLK 200 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.973",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.3L (2295cc)",
+        "power": "193 PS / 142 kW",
+        "years": "1996–2000",
+        "variants": "SLK 230 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.978",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.0L (1998cc)",
+        "power": "163 PS / 120 kW",
+        "years": "2000–2004",
+        "variants": "SLK 200 Kompressor (facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.973 (updated)",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.3L (2295cc)",
+        "power": "197 PS / 145 kW",
+        "years": "2000–2004",
+        "variants": "SLK 230 Kompressor (facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112.947",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "3.2L (3199cc)",
+        "power": "218 PS / 160 kW",
+        "years": "2000–2004",
+        "variants": "SLK 320",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112.960",
+        "family": "M112",
+        "fuel": "Petrol, supercharged",
+        "displacement": "3.2L (3199cc)",
+        "power": "354 PS / 260 kW",
+        "years": "2001–2004",
+        "variants": "SLK 32 AMG",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes SLK R170 — Overview",
+    "intro": "The R170 is the first-generation Mercedes-Benz SLK-Class, the compact luxury roadster that pioneered the folding metal roof — the 'vario-roof' — in the modern era. Produced from 1995 to 2004 and based on a shortened W202 C-Class platform, the SLK combined open-top driving with year-round usability. The engine range spanned M111 four-cylinder petrols — both naturally aspirated and supercharged — plus the M112 V6 in the SLK 320 and the supercharged M112 V6 in the range-topping SLK 32 AMG. A 2000 facelift brought updated engines and styling, with over 300,000 examples produced before the R171 replaced it in 2004.",
+    "keyFacts": "Platform: Mercedes W202 (shortened) • Predecessor: None (first SLK) • Successor: Mercedes-Benz SLK-Class (R171) • Sibling body styles in this generation: None (SLK is a standalone model).",
+    "marketIntelligenceLine": "The R170 SLK generated UK engine enquiries in 2025 [PATTERN DATA], with the M111 Kompressor engines and M112 V6 remaining the most commonly discussed among specialists."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode — one paragraph: The R170's most dependable engine is the M112 3.2-litre V6 (SLK 320, 218 PS) — widely regarded as one of the best engines Mercedes ever produced, offering smooth power delivery, proven durability, and no major systemic failures. The post-facelift M111.978 2.0-litre Kompressor (SLK 200, 163 PS) is the best four-cylinder option — the 2000 facelift addressed many of the earlier M111's issues with improved engine management and reliability. The M111.973 2.3-litre Kompressor (SLK 230, 193–197 PS) is the most common engine and is generally robust, though timing chain and variable timing gear issues are documented. The SLK 32 AMG (354 PS) is a genuine modern classic — the supercharged V6 offers epic performance but carries higher running costs and supercharger clutch wear is common. Avoid any pre-facelift M111 without documented timing chain or variable timing gear history, and be cautious of oil migration from the cam magnet into the ECU wiring loom — a well-known M111 weakness.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes SLK R170 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M111.946 (SLK 200)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Timing chain wear, MAF sensor",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Entry Choice — simplest R170 to run"
+      },
+      {
+        "engine": "M111.943 (SLK 200 Kompressor pre-facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, timing chain, cam magnet oil leak",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Early Kompressor — more power, more to maintain"
+      },
+      {
+        "engine": "M111.973 (SLK 230 Kompressor pre-facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, variable timing gear, oil in loom",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£2,000–£3,500",
+        "ownershipVerdict": "Strong Four — 193 PS, common but known issues"
+      },
+      {
+        "engine": "M111.978 (SLK 200 Kompressor facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, MAF sensor",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Improved Kompressor — 163 PS, better reliability"
+      },
+      {
+        "engine": "M111.973 (SLK 230 Kompressor facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, variable timing gear",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£2,000–£3,500",
+        "ownershipVerdict": "Best Four — 197 PS, facelift improvements"
+      },
+      {
+        "engine": "M112.947 (SLK 320)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Valve cover gaskets, crank position sensor",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Most Reliable — the V6 sweet spot"
+      },
+      {
+        "engine": "M112.960 (SLK 32 AMG)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Supercharger clutch, crank position sensor",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "AMG Icon — epic V6, epic bills"
+      }
+    ],
+    "economicsRule": {
+      "title": "The R170 rule",
+      "text": "A £2,000–£3,500 recon on a sub-£4,000 R170 sits at 50–88% of the car's value — a serious decision. Against a well-kept £7,000+ example, the same recon drops to 29–50% — viable. For an SLK 32 AMG, a £12,000+ car justifies a £4,000–£7,000 recon. Our 70% Mercedes-Benz threshold is the line — value the car first, then the engine."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which R170 Costs Least To Own?",
+        "answer": "SLK 200 (M111.946) — simplest engine, cheapest parts, no supercharger."
+      },
+      {
+        "question": "Which R170 Costs Most To Own?",
+        "answer": "SLK 32 AMG (M112.960) — supercharged V6 complexity, specialist-only work."
+      },
+      {
+        "question": "Which R170 Is Best Value?",
+        "answer": "SLK 320 (M112.947) — 218 PS V6, proven reliability, strong performance without AMG running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M111 Kompressor Supercharger Clutch & Timing Chain Issues",
+        "affectedModels": "R170 SLK 200 Kompressor, SLK 230 Kompressor (all M111 supercharged variants).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The Eaton supercharger's electromagnetic clutch can fail, causing a loss of boost and a rattling noise. Timing chain issues are also reported on the M111 — tensioners can fail or drive sprocket lobes can wear down, causing chain slip. The variable timing gear is also prone to issues, with a rattle when revved indicating a failing magnet or complete timing adjuster mechanism failure. Oil from the cam magnet can also migrate into the wiring loom and ECU.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,200",
+            "specialist": "£500–£800",
+            "work": "Replace supercharger clutch, timing chain tensioner, cam magnet seal",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£2,500–£4,000",
+            "specialist": "£1,800–£3,200",
+            "work": "Full timing chain and supercharger overhaul",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your Kompressor is down on power, rattling, or has an engine warning light for timing faults, have the supercharger clutch and timing system inspected immediately — £500–£800 is far cheaper than the £1,800+ replacement that follows if the chain slips or the supercharger fails internally. Install the modified piggyback loom from Mercedes (£20) to prevent oil migration into the ECU.",
+        "cta": {
+          "label": "Compare M111 engine prices for your R170 SLK →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M112 V6 Valve Cover Gaskets & Crank Position Sensor",
+        "affectedModels": "R170 SLK 320 (M112.947 V6), SLK 32 AMG (M112.960 supercharged V6).",
+        "typicalFailureMileage": "80,000–130,000 miles.",
+        "rootCause": "The M112 V6 is considered one of the most reliable Mercedes engines, but two common issues are valve cover gasket leaks (which can be DIY-repaired) and crank position sensor failure. The engine management relay can also fail, causing rough idle, engine stumbling, or stalling.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£500–£800",
+            "specialist": "£300–£500",
+            "work": "Replace valve cover gaskets, crank position sensor",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£2,500–£4,000",
+            "specialist": "£2,000–£3,500",
+            "work": "Full engine management diagnosis and repair",
+            "note": ""
+          }
+        ],
+        "recommendation": "Have the valve cover gaskets inspected at every service — £300–£500 in preventative work is cheap insurance against oil leaks damaging other components. If the engine stumbles or stalls, have the crank position sensor and engine management relay checked immediately.",
+        "cta": {
+          "label": "Compare M112 engine prices for your R170 SLK 320 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M112.960 AMG Supercharger Clutch Wear",
+        "affectedModels": "R170 SLK 32 AMG (M112.960 supercharged V6).",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The SLK 32 AMG's supercharger uses an electromagnetic clutch that engages under load. A squeak from the supercharger is normal — it's the clutch engaging and disengaging. However, excessive wear can lead to clutch failure, loss of boost, and reduced performance. Replacing the entire supercharger unit is expensive and should only be done if there is a genuine problem.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,200",
+            "specialist": "£500–£800",
+            "work": "Replace supercharger clutch and belt",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£3,500–£5,500",
+            "specialist": "£3,000–£5,000",
+            "work": "Full supercharger replacement if internal damage",
+            "note": ""
+          }
+        ],
+        "recommendation": "A squeak from the supercharger is normal and not necessarily a cause for concern. However, if the car is down on power or the supercharger is making excessive noise, have the clutch inspected — a £500–£800 repair is far cheaper than the £3,000+ replacement that follows if the supercharger fails internally.",
+        "cta": {
+          "label": "Compare M112 AMG engine prices for your R170 SLK 32 AMG →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "R170 Vario-Roof Hydraulic System Failure",
+        "affectedModels": "All R170 SLK variants (vario-roof system).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The R170's electro-hydraulic folding roof is the car's defining feature, but it's also a common failure point. Failed micro-switches, tired hydraulic rams, leaks in the system, or issues with the Combined Control Module (CCM) can all prevent the roof from operating correctly. A roof in good condition should raise and lower in 25–30 seconds.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,200",
+            "specialist": "£500–£800",
+            "work": "Replace hydraulic fluid, micro-switches, CCM diagnosis",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£2,500–£4,000",
+            "specialist": "£1,800–£3,000",
+            "work": "Full hydraulic system overhaul including rams and pump",
+            "note": ""
+          }
+        ],
+        "recommendation": "Preventative maintenance is key — change the hydraulic fluid if it appears dark rather than golden. Have the roof mechanism inspected at every service — £500–£800 in preventative work is a fraction of the £1,800+ bill if the pump or rams fail completely. Don't despair if the roof isn't functioning correctly; there's plenty of specialist expertise available.",
+        "cta": {
+          "label": "Compare R170 vario-roof repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "R170 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "SLK 200",
+        "engineCode": "M111.946",
+        "usedSupply": "£700–£1,400",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "SLK 200 Kompressor (pre-facelift)",
+        "engineCode": "M111.943",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SLK 230 Kompressor (pre-facelift)",
+        "engineCode": "M111.973",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,200–£5,200",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SLK 200 Kompressor (facelift)",
+        "engineCode": "M111.978",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SLK 230 Kompressor (facelift)",
+        "engineCode": "M111.973",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,200–£5,200",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SLK 320",
+        "engineCode": "M112.947",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "SLK 32 AMG",
+        "engineCode": "M112.960",
+        "usedSupply": "£2,000–£3,800",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£9,000",
+        "labourHours": "14–18 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [],
+    "petrolVariants": [
+      "SLK 200",
+      "SLK 200 Kompressor",
+      "SLK 230 Kompressor",
+      "SLK 320",
+      "SLK 32 AMG"
+    ],
+    "scopeNote": "All variants listed are R170 roadster only. The R170 was produced from October 1995 to April 2004, with a facelift in 2000 bringing updated engines and styling. The SLK 32 AMG was introduced in 2001 as the range-topping model."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

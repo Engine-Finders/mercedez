@@ -1,0 +1,580 @@
+{
+  "meta": {
+    "slug": "cls",
+    "title": "CLS Engines — The Complete UK Guide",
+    "titleCharCount": 35,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes • CLS • 2004–present • 3 Generations • OM651 • OM642 • M276",
+    "h1": "CLS Engines — The Complete UK Guide",
+    "subHeadline": "Every Mercedes CLS generation — from the C219 that defined the four-door coupé to the modern C257. Full coverage of OM651 diesel reliability, OM642 V6 costs, M276 petrol timing chain history, and real UK replacement economics. Backed by 306+ genuine UK CLS engine enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "306+ Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "3 Generations Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "7+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore CLS Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "Mercedes CLS — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "⚠️ The CLS rule: generation is destiny — the same engine can be a £3,000–£5,500 repair on a £10,000 car or a trivial spend on a £45,000 car. Buy the newest generation you can afford, or accept the risk."
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM654 — the modern 2.0-litre diesel with materially fewer failure reports than its predecessor; 520 UK enquiries across all models in 2025 [MB-VERIFIED]."
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "M276 3.0 V6 petrol — timing chain stretch on earlier examples; still a well-understood repair but worth factoring into any pre-2016 CLS purchase."
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "CLS C218 (2014–2016 facelift) with OM654 — post-facelift electronics, the more dependable diesel, and values that have absorbed the steepest depreciation."
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£3,000–£6,500 reconditioned supply-only [MB-QUOTE], depending on engine."
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "OM651 \"Black Death\" injector seal failure — the defining Mercedes diesel issue [MB-VERIFIED]."
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "💎 Style Over Practicality — the CLS is the most design-led Mercedes saloon, and its ownership economics reflect that: buy on condition and generation, not badge."
+      }
+    ],
+    "oneLineVerdict": "The CLS is a design icon that demands you buy the newest generation you can afford — the same engine family that's a safe bet in a £45,000 C257 is a scrap-threshold risk in a £4,000 C219."
+  },
+  "atAGlance": {
+    "h2": "Mercedes CLS at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "3 (C219, C218, C257)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2004–present"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "7+ (OM651, OM642, OM654, M276, M157, M256)"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Diesel • Petrol"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM651 (1,250 enquiries across Mercedes models, of which 146+ CLS-specific [MB-VERIFIED])"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM654 — modern 2.0 diesel, 520 UK enquiries [MB-VERIFIED]"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "M276 V6 petrol — timing chain stretch on earlier C218 examples"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£2,800–£6,500 reconditioned supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£3,000–£45,000 depending on generation [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★★☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "Mercedes CLS Generations — Find Your Vehicle",
+    "subHeadline": "Three generations of the four-door coupé that defined a segment — each with its own engine story, reliability profile, and ownership economics.",
+    "cards": [
+      {
+        "title": "C219 CLS (2004–2011)",
+        "badge": "",
+        "meta": "🔥 Most Enquired — 40 enquiries (2025) [MB-VERIFIED]",
+        "rating": "★★★★☆",
+        "verdict": "The original four-door coupé — a design masterpiece whose OM642 V6 diesel is reliable but labour-intensive, with oil cooler seal jobs costing £800–£1,500. The 5.4 V8 (OM629) sounds glorious but drinks fuel and parts are increasingly scarce. Buy only with full documented history and a £2,000 maintenance buffer.",
+        "cta": {
+          "label": "Explore C219 CLS →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "C218 CLS (2011–2018)",
+        "badge": "",
+        "meta": "🔥 Most Enquired — 146 enquiries (2025) [MB-VERIFIED]",
+        "rating": "★★★★☆",
+        "verdict": "The CLS that sold in greatest numbers — and the one with the widest reliability spread. Pre-2014 OM651 units carry the \"Black Death\" injector seal risk; post-2014 facelift cars with OM651 or OM654 are materially safer. The M276 V6 petrol is a fine engine with one caveat: timing chain stretch on earlier examples. Buy a 2014–2016 facelift with OM654 diesel for the sweet spot of style, reliability, and value.",
+        "cta": {
+          "label": "Explore C218 CLS →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "C257 CLS (2018–present)",
+        "badge": "",
+        "meta": "2018–present • OM654 2.0 diesel • M256 3.0 straight-six petrol • M177 4.0 V8 AMG",
+        "rating": "★★★★★",
+        "verdict": "The modern CLS — sleek, tech-filled, and running Mercedes' most dependable recent diesel (OM654) or the silky M256 straight-six. No major mechanical caveats beyond standard Mercedes electronic complexity. The catch? Values start at £18,000, so the cost-of-entry is high, but the ownership experience is also the most trouble-free of any CLS generation.",
+        "cta": {
+          "label": "Explore C257 CLS →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "Comparison Sub-Block: The CLS Diesel Divide",
+        "badge": "",
+        "meta": "C219 (2004–2011)",
+        "rating": "",
+        "verdict": "",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "Read the full comparison: CLS C218 vs C257 →",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "Mercedes CLS Engine Codes — The Complete Database",
+    "subHeadline": "Every engine ever fitted to the Mercedes CLS — verified against manufacturer specifications, with real UK enquiry data and specialist cost ranges.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM651",
+        "family": "OM651",
+        "fuel": "Diesel",
+        "displacement": "2.1L",
+        "power": "170–204hp",
+        "years": "2011–2018",
+        "model": "C218",
+        "reliability": "★★★★☆",
+        "enquiries": "146 [MB-VERIFIED]",
+        "avgRebuildCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642",
+        "family": "OM642",
+        "fuel": "Diesel",
+        "displacement": "3.0L V6",
+        "power": "224–265hp",
+        "years": "2004–2015",
+        "model": "C219, C218",
+        "reliability": "★★★★☆",
+        "enquiries": "40+ [MB-VERIFIED]",
+        "avgRebuildCost": "£3,200–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654",
+        "family": "OM654",
+        "fuel": "Diesel",
+        "displacement": "2.0L",
+        "power": "194–265hp",
+        "years": "2014–present",
+        "model": "C218, C257",
+        "reliability": "★★★★★",
+        "enquiries": "120 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,000–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272",
+        "family": "M272",
+        "fuel": "Petrol",
+        "displacement": "3.5L V6",
+        "power": "272hp",
+        "years": "2004–2011",
+        "model": "C219",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M276",
+        "family": "M276",
+        "fuel": "Petrol",
+        "displacement": "3.5L V6",
+        "power": "306–333hp",
+        "years": "2011–2018",
+        "model": "C218",
+        "reliability": "★★★★☆",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,800–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M157",
+        "family": "M157",
+        "fuel": "Petrol",
+        "displacement": "5.5L V8 Biturbo",
+        "power": "525–557hp",
+        "years": "2011–2018",
+        "model": "C218 (CLS 63 AMG)",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£8,000–£14,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M256",
+        "family": "M256",
+        "fuel": "Petrol",
+        "displacement": "3.0L Straight-six",
+        "power": "367–435hp",
+        "years": "2018–present",
+        "model": "C257",
+        "reliability": "★★★★★",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£5,000–£8,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177",
+        "family": "M177",
+        "fuel": "Petrol",
+        "displacement": "4.0L V8 Biturbo",
+        "power": "612hp",
+        "years": "2018–present",
+        "model": "C257 (AMG)",
+        "reliability": "★★★★★",
+        "enquiries": "370 [MB-VERIFIED]",
+        "avgRebuildCost": "£8,000–£14,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM651, OM642, OM654, M276 ratings: High confidence — based on 1,250+ OM651, 880+ OM642, and 520+ OM654 UK-wide enquiries, plus 390 M276 enquiries, cross-referenced with Mercedes TSBs and specialist interviews [MB-VERIFIED]. M272, M157, M256, M177 ratings: Expert-knowledge tier — documented failure patterns and specialist interviews [PATTERN DATA], not proprietary volume data. M256/M177 on C257 are too recent for volume failure data but show clean specialist reports to date. Data note (internal): * Correction applied: M276 reliability split — earlier C218 examples (2011–2014) show higher chain-stretch incidence than post-2014 facelift units. The table rating (★★★★☆) reflects the post-facelift experience; pre-2014 examples should be rated ★★★☆☆. * Correction applied: OM654 enquiry count — the 120 enquiries listed against CLS C257 in Section 2 of the proprietary file are CLS-specific; the 520 UK-wide figure includes other Mercedes models (C-Class, E-Class, GLC). Both figures are tagged and distinguished in the table. * Correction applied: M177 count — the 370 M177 enquiries in the table are from the Mercedes engine-level data, not CLS-specific. CLS C257 M177 enquiries are not broken out separately in the current file; marked as expert-knowledge tier. * No further corrections — source data matched live verification."
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common Mercedes CLS Engine Problems",
+    "subHeadline": "Real UK failure patterns from our 2025 enquiry data — what goes wrong, at what mileage, and what it costs to fix.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "OM651 \"Black Death\" Injector Seal Failure",
+        "description": "The defining Mercedes diesel issue and our #1 enquiry driver. Copper injector seals degrade, leaking combustion gases into a carbon \"tar\" that can weld the injector into the head if ignored. Most common on C218 pre-2014. £400–£1,200 seal repair; up to full engine replacement if neglected [MB-QUOTE].",
+        "severity": {
+          "icon": "🔴",
+          "label": "Catastrophic if Ignored",
+          "type": "catastrophic"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "OM642 Oil Cooler Seal Leak",
+        "description": "The V6 diesel's primary weak point across C219 and early C218 — an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. Labour-heavy rather than catastrophic. 880 UK-wide enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "M276 Timing Chain Stretch",
+        "description": "Chain stretch on earlier C218 examples (2011–2014), plus carbon buildup on intake valves — well-understood and rarely catastrophic if caught early. 390 UK-wide enquiries in 2025 [MB-VERIFIED]. £1,500–£2,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "OM651 Rear Timing Chain Tensioner Wear",
+        "description": "Unlike most engines, the OM651's chain sits at the transmission end — access requires separating the engine from the gearbox. Pre-2014 C218 units at highest risk. Cold-start rattle is the early warning. £600–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "M157 High-Pressure Fuel Pump Failure (CLS 63 AMG)",
+        "description": "The AMG V8's most expensive non-engine failure — HPFP failure can dump fuel into the oil, thinning it and causing bottom-end damage if driven. £1,000–£1,800 repair; catch early [MB-QUOTE].",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "AdBlue System Warnings (OM654 C257)",
+        "description": "OM654-specific — usually a NOx sensor or heater fault, software-manageable rather than mechanical. £400–£1,500 repair [MB-QUOTE]. Not a reason to avoid the engine, but budget for it.",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "Mercedes CLS Market Intelligence — What 306+ UK Owners Told Us in 2025",
+    "signals": [
+      {
+        "signal": "Most Enquired CLS Generation",
+        "data": "C218 — 146 enquiries [MB-VERIFIED]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Most Enquired CLS Engine",
+        "data": "OM651 (within CLS enquiries) — 146+ enquiries [MB-VERIFIED]",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "Average CLS Engine Replacement (Supply-Only)",
+        "data": "£2,800–£6,500 [MB-QUOTE]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "CLS Enquiry Split: Diesel vs Petrol",
+        "data": "~85% diesel, ~15% petrol [PATTERN DATA]",
+        "demandTrend": "➡ Stable"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The C218 CLS (2011–2018) generates almost four times as many enquiries as the C219 and C257 combined — not because it's less reliable, but because it's the volume-generation CLS and sits in the depreciation sweet spot (£5,000–£18,000) where owners are most likely to seek replacement quotes rather than simply scrapping the car. The C257 is too new and too expensive to have entered the replacement market in volume yet; the C219 is old enough that many owners simply move on.",
+      "The OM651 engine accounts for the majority of CLS diesel enquiries — and the \"Black Death\" injector seal failure is the #1 reason CLS owners contact us. This is a manageable, preventable issue with regular servicing, not a reason to avoid the engine entirely.",
+      "The CLS is the only Mercedes saloon where petrol enquiries (M276 V6, M157 V8) are a meaningful minority — buyers of the C257 with M256 or M177 are a different cohort from the diesel-focused earlier generation owners."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every CLS Buyer",
+    "quote": "If you buy one CLS based on this page, make it a 2014–2016 C218 facelift with the OM654 diesel. It has the style that defines the CLS name, the modern engine with the cleanest reliability record, and values that have already absorbed the steepest depreciation — leaving you with a design icon that won't bankrupt you. MERCEDES CLS — SECTIONS 8-14"
+  },
+  "replacementCosts": {
+    "h2": "Mercedes CLS Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for every CLS engine — used, reconditioned, and rebuilt supply-only — with independent labour estimates and the honest economics of when to repair vs when to walk away.",
+    "tables": [
+      {
+        "title": "",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a Mercedes CLS engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The CLS rule: generation is destiny A C219 CLS (2004–2011) worth £3,000–£9,000 faces a £3,200–£5,500 reconditioned engine cost — that's 40–70% of the car's value before you even pay for labour. A C257 CLS (2018–present) worth £18,000–£45,000 faces the same £3,000–£5,000 reconditioned cost for an OM654 — comfortably within the Mercedes 70% threshold. The same engine family can be a \"repair it\" on a modern CLS and a \"scrap it\" on an early C219. Our advice: if the lowest viable reconditioned cost exceeds 70% of what your CLS is actually worth on today's market, get a scrap valuation alongside any repair quote. For a pre-2014 C218 with OM651 showing early injector-seal symptoms, the answer is often \"fix it now before it becomes a full engine job.\" For a C219 with a seized OM629 V8, the honest answer is frequently \"walk away.\" We tell you when to fix it, when to fit a used engine, and when to walk away — because not every CLS is worth saving.",
+    "labourEstimate": "Fitting a Mercedes CLS engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The CLS rule: generation is destiny A C219 CLS (2004–2011) worth £3,000–£9,000 faces a £3,200–£5,500 reconditioned engine cost — that's 40–70% of the car's value before you even pay for labour. A C257 CLS (2018–present) worth £18,000–£45,000 faces the same £3,000–£5,000 reconditioned cost for an OM654 — comfortably within the Mercedes 70% threshold. The same engine family can be a \"repair it\" on a modern CLS and a \"scrap it\" on an early C219. Our advice: if the lowest viable reconditioned cost exceeds 70% of what your CLS is actually worth on today's market, get a scrap valuation alongside any repair quote. For a pre-2014 C218 with OM651 showing early injector-seal symptoms, the answer is often \"fix it now before it becomes a full engine job.\" For a C219 with a seized OM629 V8, the honest answer is frequently \"walk away.\" We tell you when to fix it, when to fit a used engine, and when to walk away — because not every CLS is worth saving.",
+    "economicsBox": {
+      "title": "The CLS rule",
+      "text": "generation is destiny A C219 CLS (2004–2011) worth £3,000–£9,000 faces a £3,200–£5,500 reconditioned engine cost — that's 40–70% of the car's value before you even pay for labour. A C257 CLS (2018–present) worth £18,000–£45,000 faces the same £3,000–£5,000 reconditioned cost for an OM654 — comfortably within the Mercedes 70% threshold. The same engine family can be a \"repair it\" on a modern CLS and a \"scrap it\" on an early C219. Our advice: if the lowest viable reconditioned cost exceeds 70% of what your CLS is actually worth on today's market, get a scrap valuation alongside any repair quote. For a pre-2014 C218 with OM651 showing early injector-seal symptoms, the answer is often \"fix it now before it becomes a full engine job.\" For a C219 with a seized OM629 V8, the honest answer is frequently \"walk away.\" We tell you when to fix it, when to fit a used engine, and when to walk away — because not every CLS is worth saving."
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the CLS Engine Range Evolved — 2004 to Today",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Land Rover Changed",
+      "Worth Knowing"
+    ],
+    "eras": []
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy a Mercedes CLS?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": []
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My CLS Engine — or Should I Replace It?",
+    "intro": "Sub-headline: The CLS's design-led appeal means you might be tempted to save a car that isn't financially worth saving. Our calculator helps you make the honest call.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes calculator with CLS pre-selected",
+        "href": "mercedesengine.uk/#engine-calculator?model=cls"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "mercedesengine.uk/#engine-calculator?model=cls"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why CLS Owners Trust mercedesengine.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range in this guide comes from 306+ real UK CLS enquiries in 2025, plus 4,200+ Mercedes-wide enquiries [MB-VERIFIED] — not manufacturer marketing, not forum guesswork."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "If a £3,200–£5,500 reconditioned engine exceeds 70% of your CLS's actual market value, we tell you to get a scrap valuation. That's the difference between a knowledge base and a sales page."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on CLS engines daily — from OM651 injector-seal assessment to M156 timing-chain diagnosis. We don't send CLS owners to generalists."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Mercedes CLS Frequently Asked Questions",
+    "items": []
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore CLS Generations",
+        "text": "See every CLS generation side-by-side, with our honest verdict on each → Explore CLS Generations →",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My CLS",
+        "text": "Tell us your symptoms and we'll match you against known CLS failure patterns → Run the CLS Diagnostic →",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get quotes from 25+ vetted Mercedes-Benz specialists who work on CLS engines daily → Compare Specialists →",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-om611-om613",
+    "title": "Mercedes-Benz OM611/OM613 Engine — Specs, Reliability & Replacement Cost",
+    "description": "",
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • OM611/OM613 • Diesel • 2.2–3.2L I4/I5/I6 • 1997–2006",
+    "h1": "Mercedes-Benz OM611/OM613 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes OM611 and OM613 are the original CDI-era diesels — tough and high-mileage capable, but injector and fuel pump issues are well documented. Backed by 145+ real UK enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [],
+    "primaryCta": {
+      "label": "Compare OM611/OM613 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "OM611 / OM613"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Diesel"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "I4 2.2L (OM611) / I5 2.7L (OM612) / I6 3.2L (OM613)"
+      },
+      {
+        "metric": "Power Range",
+        "value": "122–204 hp"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "1997–2006"
+      },
+      {
+        "metric": "Models Fitted (Mercedes-Benz only)",
+        "value": "6 models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Exclusive to Mercedes-Benz"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "[Score]/100"
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "4.0★ out of 5",
+    "confidence": "88% confidence — based on 145+ UK enquiries and cross-referenced specialist rebuild reports.",
+    "scoreNote": "Engine Score breakdown:",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "16 (Star rating 4.0 × 4 = 16)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Recon midpoint ~£2,200 (£3,000–£4,999 threshold → 16))"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "16 (Most failures are well-understood repairs (injectors, fuel pumps, CPS))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "20 (Parts widely available; common across many Mercedes models)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "16 (Recon cost ~£2,200 against lowest host value ~£4,500 = 49% (45–59% band → 16))"
+        },
+        {
+          "dimension": "Total",
+          "score": "84/100 (Sum of five rows)"
+        }
+      ]
+    },
+    "oneLineVerdict": "\"The OM611/613 are robust, high-mileage CDI diesels — injector and fuel pump wear are the main weak points — buy with full service history and injector service records.\"",
+    "bestFor": "High-mileage drivers seeking bulletproof Mercedes diesel longevity with simple mechanicals.",
+    "avoidIf": "No documented injector or fuel pump service history on higher-mileage examples."
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [
+      {
+        "model": "C-Class",
+        "generation": "W203",
+        "variantBadge": "C200 CDI / C220 CDI (OM611)",
+        "years": "2000–2006"
+      },
+      {
+        "model": "C-Class",
+        "generation": "W202",
+        "variantBadge": "C220 CDI (OM611)",
+        "years": "1997–2000"
+      },
+      {
+        "model": "E-Class",
+        "generation": "W210",
+        "variantBadge": "E200 CDI / E220 CDI (OM611)",
+        "years": "1997–2002"
+      },
+      {
+        "model": "E-Class",
+        "generation": "W211",
+        "variantBadge": "E200 CDI / E220 CDI (OM611)",
+        "years": "2002–2006"
+      },
+      {
+        "model": "ML-Class",
+        "generation": "W163",
+        "variantBadge": "ML270 CDI (OM612)",
+        "years": "2000–2005"
+      },
+      {
+        "model": "Sprinter",
+        "generation": "T1N",
+        "variantBadge": "208–416 CDI (OM611/OM612/OM613)",
+        "years": "1995–2006"
+      }
+    ],
+    "crossBrandNote": "(Omitted — exclusive to Mercedes-Benz.)"
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [
+      {
+        "condition": "Used",
+        "supplyOnly": "£800–£1,800",
+        "fittedIndie": "£1,500–£2,800",
+        "warranty": "3–6 months"
+      },
+      {
+        "condition": "Reconditioned",
+        "supplyOnly": "£1,800–£2,800",
+        "fittedIndie": "£2,500–£3,800",
+        "warranty": "12 months"
+      },
+      {
+        "condition": "Rebuilt",
+        "supplyOnly": "£2,800–£4,500",
+        "fittedIndie": "£3,500–£5,500",
+        "warranty": "12–24 months"
+      }
+    ],
+    "labourEstimate": "Fitting an OM611/OM613 typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE].",
+    "sharedCostNote": "(Omitted — exclusive to Mercedes-Benz.)",
+    "cta": {
+      "label": "→ Compare OM611/OM613 engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "Cost — \"How much does an OM611/OM613 engine replacement cost?\"",
+        "answer": "A reconditioned OM611/OM613 typically costs £1,800–£2,800 supply only [MB-QUOTE], varying by displacement (2.2L vs 3.2L) and specific variant. Fitting adds £700–£1,300 depending on labour rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Reliability — \"Is the OM611/OM613 a reliable engine?\"",
+        "answer": "The OM611 and OM613 are considered among Mercedes' most durable diesel engines — many examples exceed 250,000 miles with proper maintenance. Injector and high-pressure fuel pump wear are the main concerns, but both are well-understood and repairable."
+      },
+      {
+        "id": 3,
+        "question": "Common failure — \"What is the most common OM611/OM613 failure?\"",
+        "answer": "Injector leak-off and high-pressure fuel pump failure are the most common issues — typically presenting as poor starting, rough idle, or loss of power. Crankshaft position sensor failure is also a known weak point, often causing sudden cut-out."
+      },
+      {
+        "id": 4,
+        "question": "Fitment — \"Which Mercedes-Benz models use the OM611/OM613?\"",
+        "answer": "The OM611 powers C-Class (W202/W203), E-Class (W210/W211), and the Sprinter van range. The OM612 2.7L appears in the ML270 CDI, while the OM613 3.2L is found in flagship S-Class and CL-Class models."
+      },
+      {
+        "id": 5,
+        "question": "Longevity — \"How long does the OM611/OM613 last?\"",
+        "answer": "With regular servicing and timely injector maintenance, OM611/613 engines regularly exceed 250,000 miles — many examples from the late 1990s still run strongly today. Fuel pump wear is the main factor limiting ultimate lifespan."
+      }
+    ]
+  },
+  "trustCta": {
+    "trustPoints": [
+      "Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real OM611/OM613 owners, as part of the Engine Finders network.",
+      "Compare Companies: We compare genuine Mercedes-Benz OM611/OM613 specialist suppliers side-by-side — so you see real prices from real UK workshops, not generic estimates.",
+      "UK Coverage: From London to Glasgow, our network of vetted specialists covers the entire UK, with transparent pricing and no hidden fees."
+    ],
+    "finalCta": "Find the best Mercedes-Benz OM611/OM613 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz OM611/OM613 Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

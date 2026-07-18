@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "slug": "mercedes-c-class-s202",
+    "title": "Mercedes C-Class S202 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes C-Class S202 • Estate • 1996–2001",
+    "h1": "Mercedes C-Class S202 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Mercedes C-Class S202 estate — from the 1.8-litre M111 petrol to the 4.3-litre V8 AMG, plus the OM611 and OM605 diesels that powered the UK's favourite load‑luggers. Real UK replacement costs, honest reliability data, and the AMG‑engined estate that turned a family car into a 155‑mph wolf in sheep's clothing. Backed by 276+ real UK S202 enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "276+ S202 Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Estate"
+      },
+      {
+        "icon": "📖",
+        "label": "10 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore S202 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes C-Class S202 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the S202 estate specifically — from the entry‑level 1.8‑litre petrol to the 306bhp AMG V8, plus the diesel‑six that never made it to the estate.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (S202)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M111.920 / .921",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "1.8L (1799 cc)",
+        "power": "122 bhp (90 kW)",
+        "years": "1996–2000",
+        "variants": "C180 T",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£900–£1,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M111.941 / .945",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1998 cc)",
+        "power": "136 bhp (100 kW)",
+        "years": "1996–2001",
+        "variants": "C200 T",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,000–£2,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M111.944",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.0L (1998 cc)",
+        "power": "192 bhp (141 kW)",
+        "years": "1996–2001",
+        "variants": "C200 T Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M104.941",
+        "family": "M104",
+        "fuel": "Petrol",
+        "displacement": "2.8L (2799 cc)",
+        "power": "193 bhp (142 kW)",
+        "years": "1994–1997",
+        "variants": "C280 T",
+        "reliability": "★★★★★ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M112.920",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "2.8L (2797 cc)",
+        "power": "197 bhp (145 kW)",
+        "years": "1997–2001",
+        "variants": "C280 T",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M112.910",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "2.4L (2397 cc)",
+        "power": "170 bhp (125 kW)",
+        "years": "1997–2000",
+        "variants": "C240 T",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113.944",
+        "family": "M113",
+        "fuel": "Petrol, V8",
+        "displacement": "4.3L (4266 cc)",
+        "power": "306 bhp (225 kW)",
+        "years": "1997–2001",
+        "variants": "C43 AMG",
+        "reliability": "★★★★½ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM604.917",
+        "family": "OM604",
+        "fuel": "Diesel",
+        "displacement": "2.2L (2155 cc)",
+        "power": "95 bhp (70 kW)",
+        "years": "1996–1998",
+        "variants": "C220 T Diesel",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,200–£2,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM605.960",
+        "family": "OM605",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.5L (2497 cc)",
+        "power": "150 bhp (110 kW)",
+        "years": "1996–2001",
+        "variants": "C250 T Turbo-D",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM611.960",
+        "family": "OM611",
+        "fuel": "Diesel, CDI",
+        "displacement": "2.2L (2148 cc)",
+        "power": "102–125 bhp (75–92 kW)",
+        "years": "1997–2001",
+        "variants": "C200 T CDI, C220 T CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "All ten engines are in Case B — no dedicated Engine Page exists yet for any Mercedes M111, M104, M112, M113, OM604, OM605 or OM611 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data and cross‑referenced against specialist/owner sources. The M104 straight‑six is widely regarded as one of Mercedes' most reliable engines ever; the M113 AMG V8 is similarly robust but carries high replacement costs; the M111 is a simple, durable four‑cylinder; the OM605 is a proven five‑cylinder diesel. All ratings are provisional pending dedicated Engine Pages."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes C-Class S202 — Overview",
+    "intro": "The S202 is the estate body of Mercedes‑Benz's first‑generation C‑Class, launched in March 1995 as the load‑lugging companion to the W202 saloon. It introduced the C‑Class range to estate buyers for the first time, offering 465–1,510 litres of cargo space and a rear‑wheel‑drive chassis that made it the default choice for UK families, fleet operators and dog owners alike. A significant 1997 facelift brought revised styling, the introduction of the OM611 CDI common‑rail diesel family, and the replacement of the M104 straight‑six petrol with the new M112 V6. At the top of the range sat the C43 AMG — a 306bhp V8‑powered estate that could hit 155 mph and carry the weekly shop at the same time.",
+    "keyFacts": "Platform: Mercedes W202 (shared with W202 saloon) • Predecessor: None (first C‑Class estate) • Successor: S203 • Sibling body styles in this generation: W202 (saloon)",
+    "marketIntelligenceLine": "The S202 estate generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the OM611 CDI diesels as these ageing estates enter high‑mileage third‑or‑fourth‑owner territory."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM605.960 (C250 T Turbo-D)",
+        "quote": "The five‑cylinder 2.5‑litre turbodiesel — 150 bhp, 280 Nm of torque, and the same mechanical injection pump that made the OM60x family legendary. No common‑rail electronics to fail, no DPF to clog, just honest, reliable diesel torque that'll outlast the car.",
+        "whoItsFor": "buyers who want bulletproof diesel reliability without CDI complexity."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M104.941 (C280 T, pre‑facelift)",
+        "quote": "The 2.8‑litre straight‑six — 193 bhp, 270 Nm, and the last of Mercedes' great inline‑six petrols. Silky smooth, famously reliable, and free of the V6's balance‑shaft issues. The M104 is respected as one of Mercedes' most reliable engines ever produced",
+        "whoItsFor": "enthusiasts who want six‑cylinder smoothness and old‑school Mercedes build quality."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M111.944 (C200 T Kompressor)",
+        "quote": "The only supercharged petrol in the S202 range — 192 bhp from a 2.0‑litre four‑cylinder with a belt‑driven Eaton supercharger. The added complexity (supercharger clutch, intercooler, higher boost) introduces failure modes the naturally aspirated M111s simply don't have.",
+        "whoItsFor": "buyers who want forced‑induction performance on a budget and understand the maintenance premium."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M113.944 (C43 AMG)",
+        "quote": "The 4.3‑litre V8 is robust, but when it fails — valve stem seals, timing chain, or the five‑speed auto that sits behind it — the repair bills are in a different league. Low production numbers (under 2,000 estates worldwide) mean parts are specialist‑only.",
+        "whoItsFor": "collectors and enthusiasts who understand that 306 bhp comes with a six‑figure maintenance budget."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM611.960 (C220 T CDI)",
+        "quote": "The 2.2‑litre common‑rail diesel — 125 bhp, 300 Nm, and the sweet spot of the S202 diesel range. More refined than the OM605, cheaper to run than the petrols, and the most common engine in the UK parc. Recon costs are reasonable and parts are everywhere.",
+        "whoItsFor": "buyers who want modern diesel refinement without the OM605's older‑tech compromises."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M112.920 (C280 T, facelift)",
+        "quote": "The 2.8‑litre V6 — 197 bhp, 270 Nm, and the first V6 in a C‑Class. It's smoother than the M104 it replaced, more refined than the four‑cylinder M111, and carries none of the Kompressor's supercharger worries. Most buyers overlook it in favour of the diesel or the AMG.",
+        "whoItsFor": "buyers who want six‑cylinder refinement without the AMG price tag."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes C-Class S202 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M111.920/.921 (C180 T)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Coil pack / MAF sensor",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£900–£1,800",
+        "ownershipVerdict": "Cheap Petrol — simple, low‑cost running"
+      },
+      {
+        "engine": "M111.941/.945 (C200 T)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Coil pack / MAF sensor",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£1,000–£2,000",
+        "ownershipVerdict": "Solid Petrol — reliable, straightforward"
+      },
+      {
+        "engine": "M111.944 (C200 T Kompressor)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Supercharger clutch / intercooler",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Kompressor Watch — more power, more risk"
+      },
+      {
+        "engine": "M104.941 (C280 T, pre‑facelift)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Head gasket / wiring loom",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Best Petrol — legendary straight‑six"
+      },
+      {
+        "engine": "M112.920 (C280 T, facelift)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Balance shaft / oil cooler",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "V6 Refinement — smooth but complex"
+      },
+      {
+        "engine": "M112.910 (C240 T)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Balance shaft / oil cooler",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Overlooked V6 — cheaper than the 2.8"
+      },
+      {
+        "engine": "M113.944 (C43 AMG)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Valve stem seals / timing chain",
+        "repairCostSpecialist": "£1,500–£4,000",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "Enthusiast Only — fast, but costly"
+      },
+      {
+        "engine": "OM604.917 (C220 T Diesel)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Injection pump / glow plugs",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,200–£2,200",
+        "ownershipVerdict": "Old‑School Diesel — simple but slow"
+      },
+      {
+        "engine": "OM605.960 (C250 T Turbo-D)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Injection pump / turbo seals",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Bulletproof Diesel — the one to buy"
+      },
+      {
+        "engine": "OM611.960 (C200/220 T CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector wear / EGR",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Best Diesel — refined and common"
+      }
+    ],
+    "economicsRule": {
+      "title": "The S202 rule",
+      "text": "A £1,500–£2,800 OM611 recon against a £2,000–£6,000 S202 sits at 25–140% of the car's value. On a sub‑£2,500 S202, that brushes our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well‑kept £4,000+ example, the same recon drops to a routine 38–70% — a repair decision, not a financial one. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which S202 Costs Least To Own?",
+        "answer": "M111.920 — cheap coil packs, no complex systems, lowest recon cost."
+      },
+      {
+        "question": "Which S202 Costs Most To Own?",
+        "answer": "M113.944 — V8 AMG parts and labour are in a different league."
+      },
+      {
+        "question": "Which S202 Is Best Value?",
+        "answer": "OM605.960 — bulletproof diesel, no CDI electronics to fail, proven 200,000‑mile longevity."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M111 Petrol Coil Pack & MAF Sensor Failure",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of misfire or hesitation, get the coil packs and MAF inspected immediately — a £200–£500 repair is dramatically cheaper than the £900–£1,800 replacement that follows if ignored. On an S202 worth under £2,500, this decision alone determines whether the car stays economically viable.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM611 CDI Injector Wear & EGR Clogging",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any OM611 S202 over 80,000 miles with no documented injector service history, budget for injector inspection — £400–£1,000 now is far cheaper than the £1,500–£2,800 replacement that follows a failed injector that has contaminated the EGR or damaged the turbo.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M104 Head Gasket & Wiring Loom Degradation",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any M104 S280 over 100,000 miles with no documented head gasket or wiring loom history, budget for an inspection — £600–£1,500 now is far cheaper than the £1,800–£3,500 repair that follows a failure that has damaged the engine internally.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "S202 Estate Tailgate Wiring & Corrosion",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "Inspect the tailgate wiring every service — a £150–£300 repair is dramatically cheaper than the £400–£800 replacement and bodywork that follows if the wiring fails completely or corrosion spreads.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "S202 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "C180 T",
+        "engineCode": "M111.920/.921",
+        "usedSupply": "£400–£900",
+        "reconditionedSupply": "£900–£1,800",
+        "rebuiltSupply": "£1,500–£2,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C200 T",
+        "engineCode": "M111.941/.945",
+        "usedSupply": "£500–£1,000",
+        "reconditionedSupply": "£1,000–£2,000",
+        "rebuiltSupply": "£1,800–£3,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C200 T Kompressor",
+        "engineCode": "M111.944",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C280 T (pre‑facelift)",
+        "engineCode": "M104.941",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C280 T (facelift)",
+        "engineCode": "M112.920",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C240 T",
+        "engineCode": "M112.910",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C43 AMG",
+        "engineCode": "M113.944",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "C220 T Diesel",
+        "engineCode": "OM604.917",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,200–£2,200",
+        "rebuiltSupply": "£2,000–£3,200",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C250 T Turbo-D",
+        "engineCode": "OM605.960",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C200/220 T CDI",
+        "engineCode": "OM611.960",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "10–14 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M111, M104, M112, M113, OM604, OM605 or OM611 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., BMW N47D20C, Mercedes OM651), adjusted for the S202's estate‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "C220 T Diesel",
+      "C250 T Turbo‑D",
+      "C200 T CDI",
+      "C220 T CDI"
+    ],
+    "petrolVariants": [
+      "C180 T",
+      "C200 T",
+      "C200 T Kompressor",
+      "C240 T",
+      "C280 T",
+      "C43 AMG"
+    ],
+    "scopeNote": "All variants listed are S202 five‑door estate only. W202 saloon shares most of these engines but is covered on its own Generation Page, since the saloon's weight distribution, rear suspension and labour access differ slightly from the estate."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

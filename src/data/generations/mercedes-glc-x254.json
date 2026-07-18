@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "slug": "mercedes-glc-x254",
+    "title": "Mercedes GLC X254 Engines — The Complete UK Guide",
+    "titleCharCount": 49,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes GLC X254 • SUV • 2022–present",
+    "h1": "Mercedes GLC X254 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Mercedes GLC X254 SUV — from the 1.5‑litre M254 mild‑hybrid entry point to the 680bhp AMG 63 S E Performance plug‑in hybrid. Real UK replacement costs, honest reliability data, and the first GLC generation to go all‑electrified. Backed by 276+ real UK X254 enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "276+ X254 Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "SUV"
+      },
+      {
+        "icon": "📖",
+        "label": "11 Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore X254 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes GLC X254 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the X254 SUV specifically — from the entry‑level 1.5‑litre M254 to the 2.0‑litre M139 AMG, all with 48V mild‑hybrid or plug‑in hybrid assistance.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (X254)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M254.915",
+        "family": "M254",
+        "fuel": "Petrol, MHEV",
+        "displacement": "1.5L (1496 cc)",
+        "power": "170 bhp (125 kW)",
+        "years": "2022–present",
+        "variants": "GLC 180",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, MHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "204 bhp (150 kW) + 23 bhp ISG",
+        "years": "2022–present",
+        "variants": "GLC 200 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, MHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "258 bhp (190 kW) + 23 bhp ISG",
+        "years": "2022–present",
+        "variants": "GLC 300, GLC 300 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, PHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "313 bhp (230 kW) system",
+        "years": "2022–present",
+        "variants": "GLC 300 e 4MATIC, GLC 350 e 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, PHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "381 bhp (280 kW) system",
+        "years": "2022–present",
+        "variants": "GLC 400 e 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£8,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.820",
+        "family": "OM654",
+        "fuel": "Diesel, MHEV",
+        "displacement": "2.0L (1992 cc)",
+        "power": "197 bhp (145 kW) + 23 bhp ISG",
+        "years": "2022–present",
+        "variants": "GLC 220 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.820",
+        "family": "OM654",
+        "fuel": "Diesel, MHEV",
+        "displacement": "2.0L (1992 cc)",
+        "power": "269 bhp (198 kW) + 23 bhp ISG",
+        "years": "2022–present",
+        "variants": "GLC 300 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,200–£6,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.820",
+        "family": "OM654",
+        "fuel": "Diesel, PHEV",
+        "displacement": "2.0L (1992 cc)",
+        "power": "333 bhp (245 kW) system",
+        "years": "2022–present",
+        "variants": "GLC 300 de 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M139.580",
+        "family": "M139",
+        "fuel": "Petrol, MHEV",
+        "displacement": "2.0L (1991 cc)",
+        "power": "421 bhp (310 kW)",
+        "years": "2023–present",
+        "variants": "GLC 43 AMG 4MATIC",
+        "reliability": "★★★★½ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£10,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M139.580",
+        "family": "M139",
+        "fuel": "Petrol, PHEV",
+        "displacement": "2.0L (1991 cc)",
+        "power": "680 bhp (500 kW) system",
+        "years": "2023–present",
+        "variants": "GLC 63 S E Performance 4MATIC+",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£10,000–£18,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "All engine families are in Case B — no dedicated Engine Page exists yet for these families. The M254 and OM654 are proven four‑cylinder units carried over and developed from the W206/W213 generations; the M139 is a well‑established AMG four‑cylinder now offered in longitudinal form with electrification. As these are relatively new engines (2022 onward), long‑term reliability data is limited — but early indications suggest the M254 and OM654 are solid, while the M139 in longitudinal form is still establishing its reputation. All ratings are provisional pending dedicated Engine Pages."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes GLC X254 — Overview",
+    "intro": "The X254 is the second generation of the Mercedes‑Benz GLC, launched in June 2022 as the successor to the X253. Built on the MRA2 platform, it is offered in SUV (X254) and Coupé (C254) body styles. The X254 represents a landmark shift for the GLC: it is the first generation available exclusively with electrified powertrains — every engine is either a 48V mild hybrid or a plug‑in hybrid. The 2023 model year brought the AMG variants — the GLC 43 with 421 bhp and the GLC 63 S E Performance with 680 bhp. The X254 also introduced a 25.4 kWh battery for PHEV models, delivering over 70 miles of electric‑only range.",
+    "keyFacts": "Platform: Mercedes MRA2 (Modular Rear Architecture) • Predecessor: X253 • Successor: None (current generation) • Sibling body styles in this generation: C254 (Coupé)",
+    "marketIntelligenceLine": "The GLC X254 generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the GLC 220 d diesel and GLC 300 e plug‑in hybrid as fleet and business users capitalise on favourable Benefit‑in‑Kind tax rates."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM654.820 (GLC 220 d 4MATIC, MHEV)",
+        "quote": "The 2.0‑litre four‑cylinder diesel — 197 bhp, 440 Nm of torque, and a 23 bhp ISG boost for seamless off‑the‑line response. This is the fourth generation of the OM654, and it's a proven, refined unit that delivers excellent real‑world economy. For UK buyers, this remains the default choice.",
+        "whoItsFor": "fleet buyers, high‑mileage drivers and anyone who wants effortless torque with class‑leading economy."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M254.920 (GLC 300, MHEV)",
+        "quote": "The 2.0‑litre four‑cylinder petrol — 258 bhp, 400 Nm of torque, with a 23 bhp ISG boost. It's smooth, responsive and the sweet spot of the non‑AMG petrol range. The 48V system eliminates turbo lag and makes stop‑start virtually undetectable.",
+        "whoItsFor": "buyers who want modern petrol refinement without the PHEV premium."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M139.580 (GLC 63 S E Performance)",
+        "quote": "The 2.0‑litre four‑cylinder with an electrically assisted turbocharger — 680 bhp system output. This is the most complex powertrain ever fitted to a GLC: a longitudinally mounted M139, a 150 kW electric motor on the rear axle, and a 6.1 kWh battery. More components means more potential failure points — and when something fails, only AMG‑trained specialists should touch it.",
+        "whoItsFor": "enthusiasts who understand that 680 bhp comes with a six‑figure maintenance budget."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M139.580 (GLC 63 S E Performance)",
+        "quote": "The 2.0‑litre four‑cylinder with an electrically assisted turbocharger and PHEV system — 680 bhp system output. The combination of a high‑boost four‑cylinder, electric motor and battery means the most expensive single‑component failure in the range. The 6.1 kWh battery alone is a £5,000+ replacement outside warranty.",
+        "whoItsFor": "collectors and enthusiasts who understand that 680 bhp comes with a six‑figure maintenance budget."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM654.820 (GLC 300 de 4MATIC, PHEV)",
+        "quote": "The 2.0‑litre diesel plug‑in hybrid — 333 bhp system output, 440 Nm of torque, and over 70 miles of electric‑only range. It delivers the lowest Benefit‑in‑Kind tax rate in the range and the best real‑world economy for high‑mileage drivers who can charge regularly.",
+        "whoItsFor": "business users who want the tax benefits of a PHEV with diesel economy for long journeys."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M254.920 (GLC 300 e 4MATIC, PHEV)",
+        "quote": "The petrol plug‑in hybrid — 313 bhp system output, and the same 25.4 kWh battery as the GLC 400 e, but with lower running costs. It's often overshadowed by the diesel PHEV and the high‑power GLC 400 e, but it's the sweet spot for private buyers who want PHEV tax benefits without diesel.",
+        "whoItsFor": "private buyers who want PHEV efficiency without the diesel's DPF concerns."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes GLC X254 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M254.915 (GLC 180, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "ISG / 48V system",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Entry Point — cheapest X254 to run"
+      },
+      {
+        "engine": "M254.920 (GLC 200, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "ISG / 48V system",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,800–£5,000",
+        "ownershipVerdict": "Solid Petrol — smooth, efficient"
+      },
+      {
+        "engine": "M254.920 (GLC 300, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "ISG / 48V system",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Best Petrol — responsive, refined"
+      },
+      {
+        "engine": "M254.920 (GLC 300 e, PHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Battery / cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "PHEV Sweet Spot — tax‑efficient"
+      },
+      {
+        "engine": "M254.920 (GLC 400 e, PHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Battery / cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£4,500–£8,000",
+        "ownershipVerdict": "High‑Power PHEV — more complexity"
+      },
+      {
+        "engine": "OM654.820 (GLC 220 d, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Timing chain (rear) / DPF",
+        "repairCostSpecialist": "£1,200–£2,000",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Best Diesel — proven, economical"
+      },
+      {
+        "engine": "OM654.820 (GLC 300 d, MHEV)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Timing chain (rear) / DPF",
+        "repairCostSpecialist": "£1,200–£2,000",
+        "replacementCostRecon": "£3,200–£6,000",
+        "ownershipVerdict": "High‑Power Diesel — more boost, more risk"
+      },
+      {
+        "engine": "OM654.820 (GLC 300 de, PHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Battery / cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "Best PHEV — diesel + plug‑in = max efficiency"
+      },
+      {
+        "engine": "M139.580 (GLC 43 AMG, MHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Turbo / 48V system",
+        "repairCostSpecialist": "£2,000–£4,000",
+        "replacementCostRecon": "£6,000–£10,000",
+        "ownershipVerdict": "Entry AMG — fast, but costly"
+      },
+      {
+        "engine": "M139.580 (GLC 63 S E Performance)",
+        "typicalMileage": "20k–50k",
+        "commonMajorFailure": "Battery / turbo / electric motor",
+        "repairCostSpecialist": "£3,000–£6,000",
+        "replacementCostRecon": "£10,000–£18,000",
+        "ownershipVerdict": "Enthusiast Only — 680 bhp, six‑figure upkeep"
+      }
+    ],
+    "economicsRule": {
+      "title": "The X254 rule",
+      "text": "A £3,000–£5,500 OM654 recon against a £45,000–£70,000 X254 sits at 4–12% of the car's value — comfortably within the 70% Mercedes threshold. Even the £10,000–£18,000 M139 AMG recon sits at 14–40% against a £45,000 AMG — a repair decision, not a financial one. But the PHEV battery is the wild card: a 25.4 kWh battery replacement could cost £5,000–£10,000 outside warranty. Factor that into your ownership maths."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which X254 Costs Least To Own?",
+        "answer": "GLC 200 (M254.920 MHEV) — simplest powertrain, lowest complexity, cheapest recon."
+      },
+      {
+        "question": "Which X254 Costs Most To Own?",
+        "answer": "GLC 63 S E Performance (M139.580) — AMG running costs, PHEV complexity, specialist‑only maintenance."
+      },
+      {
+        "question": "Which X254 Is Best Value?",
+        "answer": "GLC 220 d (OM654.820 MHEV) — proven diesel, excellent economy, and the most common engine in the UK parc."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM654 Rear Timing Chain & DPF (Diesel MHEV)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any OM654 X254, maintain the 48V battery health and use genuine Mercedes oil — the 48V ISG places additional strain on the chain. A £1,200–£2,000 chain inspection is far cheaper than a £3,000–£5,500 replacement.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M254 48V ISG & Cooling System (Petrol MHEV)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "The 48V system is the biggest unknown on the X254. Ensure the car has the latest software updates and maintain the 48V battery health — £800–£1,500 now is far cheaper than £2,500–£5,000 for a full system replacement.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "PHEV Battery & Cooling System (All PHEV Variants)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "Before buying any X254 PHEV, check the battery health report from a Mercedes dealer. A £1,000–£2,000 health check is far cheaper than a £5,000–£10,000 battery replacement. Keep the battery between 20% and 80% charge for daily use to maximise lifespan.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "M139 Electrically Assisted Turbocharger (AMG Variants)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any M139 X254, ensure the oil change interval is strictly adhered to — the electrically assisted turbocharger places additional demands on the oil system. A £2,000–£4,000 turbo inspection is far cheaper than a £5,000–£10,000 replacement.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "X254 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "GLC 180 (MHEV)",
+        "engineCode": "M254.915",
+        "usedSupply": "£1,500–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "GLC 200 4MATIC (MHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£1,800–£3,000",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "GLC 300 / 300 4MATIC (MHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£2,000–£3,200",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "GLC 300 e 4MATIC (PHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£2,500–£4,000",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GLC 400 e 4MATIC (PHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£3,000–£4,500",
+        "reconditionedSupply": "£4,500–£8,000",
+        "rebuiltSupply": "£7,000–£11,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GLC 220 d 4MATIC (MHEV)",
+        "engineCode": "OM654.820",
+        "usedSupply": "£2,000–£3,200",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GLC 300 d 4MATIC (MHEV)",
+        "engineCode": "OM654.820",
+        "usedSupply": "£2,200–£3,500",
+        "reconditionedSupply": "£3,200–£6,000",
+        "rebuiltSupply": "£5,500–£9,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GLC 300 de 4MATIC (PHEV)",
+        "engineCode": "OM654.820",
+        "usedSupply": "£2,500–£4,000",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GLC 43 AMG 4MATIC (MHEV)",
+        "engineCode": "M139.580",
+        "usedSupply": "£4,000–£6,500",
+        "reconditionedSupply": "£6,000–£10,000",
+        "rebuiltSupply": "£9,000–£14,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "GLC 63 S E Performance (PHEV)",
+        "engineCode": "M139.580",
+        "usedSupply": "£6,000–£10,000",
+        "reconditionedSupply": "£10,000–£18,000",
+        "rebuiltSupply": "£15,000–£25,000",
+        "labourHours": "16–20 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M254, OM654 or M139 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the X254's SUV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs — budget an additional £5,000–£10,000 for battery replacement outside warranty."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "GLC 220 d",
+      "GLC 300 d",
+      "GLC 300 de"
+    ],
+    "petrolVariants": [
+      "GLC 180",
+      "GLC 200",
+      "GLC 300",
+      "GLC 300 e",
+      "GLC 400 e",
+      "GLC 43 AMG",
+      "GLC 63 S E Performance"
+    ],
+    "scopeNote": "All variants listed are X254 five‑door SUV only. C254 Coupé shares all powertrains but is covered on its own Generation Page, since the coupé's lower roofline and different rear suspension affect handling and some labour access."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

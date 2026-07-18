@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "slug": "a-class-a180-cdi",
+    "title": "A180 CDI Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 59,
+    "description": "Every Mercedes-Benz A180 CDI engine — OM640, OM607 and OM651 turbo-diesels, 2004–2018. Real UK costs, timing chain advice, and honest reliability data. Get free quotes from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 160,
+    "canonical": "https://mercedesengine.uk/a-class/a180-cdi/",
+    "openGraph": {
+      "title": "A180 CDI Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes-Benz A180 CDI engine — OM640, OM607 and OM651 turbo-diesels, 2004–2018. Real UK costs, timing chain advice, and honest reliability data. Get free quotes from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/a-class/a180-cdi/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a-class-a180-cdi.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "A180 CDI Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes-Benz A180 CDI engine — OM640, OM607 and OM651 turbo-diesels, 2004–2018. Real UK costs, timing chain advice, and honest reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a-class-a180-cdi.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class",
+              "item": "https://mercedesengine.uk/a-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W169/W176 A-Class",
+              "item": "https://mercedesengine.uk/a-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "A180 CDI",
+              "item": "https://mercedesengine.uk/a-class/a180-cdi/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz A180 CDI Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W169 A180 CDI OM640.940 (2004-2012)",
+              "url": "https://mercedesengine.uk/a-class/w169/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W176 A180 CDI OM607/OM651 (2012-2018)",
+              "url": "https://mercedesengine.uk/a-class/w176/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz A180 CDI Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM640.940",
+              "url": "https://mercedesengine.uk/engines/om640/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM607/OM651",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-Benz A180 CDI engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned A180 CDI engine typically costs £3,000–£5,000 supply only, with the OM651 variant at the higher end. Fitting adds £800–£1,300 depending on the specialist. A used OM640.940 engine is available from approximately £617. A new OEM replacement engine can cost £2,500–£4,000+, with labour pushing the total above £5,000. Use our calculator for a figure specific to your A-Class."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-Benz A180 CDI engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on which engine era your A180 CDI has. The OM640 (W169, 2004–2012) is generally more straightforward and reliable. The OM651 (W176, 2012–2018) has well-documented timing chain tensioner issues — the simplex roller chain can stretch, and replacement is labour-intensive and costly. The OM607 (Renault K9K) suffers from turbocharger and injector issues. With proper maintenance, all can be reliable — but the OM651 requires proactive timing chain attention."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-Benz A180 CDI?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most common issues are timing chain tensioner wear on the OM651 (rattling on cold start — can destroy the engine if ignored), injector failure on both OM651 and OM607 (rough idle, lumpy cold start), turbocharger failure on the OM607 (power loss, smoke, unusual noise), DPF clogging (short journeys accelerate wear), and EGR valve clogging."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an A180 CDI engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the vehicle value and engine era. Against a well-kept W176 worth £6,000–£12,000, a £4,000–£5,000 recon is 30–50% of the car's value — borderline but often worth it for a cherished example. Against a tired W169 worth £2,000–£4,000, the same recon may exceed our 70% Mercedes-Benz threshold — get a scrap valuation first. OM640-engined cars are generally simpler and cheaper to maintain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-Benz A180 CDI engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W169 (2004–2012): OM640.940 or OM640.941. W176 (2012–2018): OM607 (Renault-sourced 1.5 dCi) or OM651 (Mercedes 2.1-litre). Check the VIN plate or vehicle documentation. The engine code is also stamped on the engine block."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the OM651 timing chain, or does the engine need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The timing chain and tensioner must be replaced if worn. A preventative replacement costs £800–£2,000. A snapped chain almost always destroys the engine, requiring a £3,500–£6,500+ replacement. At the first sign of cold-start rattle, book an inspection immediately. Regular oil changes are the key to preventing timing chain issues."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz A180 CDI Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "800",
+            "highPrice": "6500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz A180 CDI UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz A180 CDI engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "A180 CDI Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/a-class/a180-cdi/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz A-Class A180 CDI • 2004–2018 • 2 Engine Generations",
+    "h1": "Mercedes-Benz A-Class A180 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz A180 CDI specialists. Compare reconditioned, rebuilt and used 2.0-litre turbo-diesel engines — OM640 and OM651 variants across the W169 and W176 generations — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz A180 CDI Engines — from £800 to £6,500 · Common codes: OM640.940, OM651",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free A180 CDI Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The A180 CDI THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "A-Class W169",
+        "years": "2004–2012",
+        "engineCode": "OM640.940 / OM640.941",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£5,000 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "2.0L common-rail diesel — 109 bhp, 250 Nm; timing chain tensioner and injector issues are the primary concerns"
+      },
+      {
+        "generation": "A-Class W176",
+        "years": "2012–2018",
+        "engineCode": "OM607 / OM651",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "1.5L (OM607) / 2.1L (OM651) diesel — up to 109 bhp, 250 Nm; OM651 timing chain and injector issues; OM607 is Renault-sourced"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz A-Class A180 CDI Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£800–£1,800",
+        "fittedIndie": "£1,400–£3,000",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; vehicle under £4,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,000–£5,000",
+        "fittedIndie": "£3,800–£6,200",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,500–£6,500",
+        "fittedIndie": "£5,300–£7,700",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£8,000–£12,000",
+        "fittedIndie": "£9,500–£14,000",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current A180 CDI replacement costs. The OM651 variant typically sits at the higher end of the range. See the Era Map above for generation-specific pricing.",
+    "labourEstimate": "Fitting an A180 CDI engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer).",
+    "cta": {
+      "label": "→ Compare A180 CDI engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Tensioner Failure (OM651 — W176 — Critical)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Injector Failure (OM651 & OM607 — All Models)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Turbocharger Failure (OM607 — W176 — Known Issue)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes-Benz Specialist →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, every A180 CDI variant covered, with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free A180 CDI Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "A-Class A180 CDI — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Timing chain tensioner wear (OM651 — preventative)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Essential maintenance — catch it before catastrophic failure"
+        },
+        {
+          "problem": "Snapped timing chain (OM651)",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Piston-valve contact means little is left to repair"
+        },
+        {
+          "problem": "Injector failure (OM651 & OM607)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Straightforward replacement — catch it early"
+        },
+        {
+          "problem": "Turbocharger failure (OM607)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Viable repair — catch it before it damages the engine"
+        },
+        {
+          "problem": "DPF clogging (all models)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Standard maintenance on any modern diesel"
+        },
+        {
+          "problem": "EGR valve clogging",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800",
+          "whenItMakesSense": "Regular cleaning or replacement"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This A180 CDI? Check These First",
+      "buyIf": [
+        "* OM640-engined W169 (2004–2012) with documented maintenance history",
+        "* OM651-engined W176 with timing chain tensioner replaced or inspected",
+        "* OM607-engined W176 with turbocharger history (and still under warranty)",
+        "* Full service history with regular oil changes (critical for chain longevity)",
+        "* Evidence of regular longer runs (DPF health)"
+      ],
+      "avoidIf": [
+        "* OM651 with cold-start rattle and no chain history — assume it's overdue",
+        "* OM607 with turbocharger issues or no history — turbo failure is common",
+        "* No service history — all A180 CDI engines are sensitive to oil quality",
+        "* Short-journey ownership history — DPF and EGR issues likely",
+        "* Engine warning light with no diagnosis — may indicate timing, injector or turbo problems"
+      ]
+    },
+    "closingVerdict": "The A180 CDI is Mercedes-Benz's entry-level diesel hatchback — a 2.0-litre (W169) or 1.5/2.1-litre (W176) turbo-diesel that offers excellent fuel economy and a premium driving experience. The OM640 in the W169 is generally more straightforward, while the OM651 in the W176 has timing chain vulnerabilities that are expensive to address. The OM607 (Renault K9K) has turbocharger and injector issues. With typical A-Class values ranging from £3,000 (W169) to £12,000+ (W176), an engine replacement is a significant investment — a well-maintained W169 OM640 or a W176 with documented timing chain work is the safest choice.",
+    "cta": {
+      "label": "→ Compare A180 CDI engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz A-Class A180 CDI (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattling (timing chain tensioner warning — OM651) — see the map above",
+      "* Service History — Including which engine era (OM640, OM607 or OM651) and oil-change discipline",
+      "* Timing Chain — For OM651 (W176): check for any chain work or cold-start rattle",
+      "* Injector Health — Check for smooth idle; any lumpiness may indicate injector issues",
+      "* Turbo Health — Test acceleration; any lag, whistling, or hesitation? (OM607 particularly)",
+      "* DPF Regeneration — Check history; short journeys accelerate wear on all diesel eras",
+      "* Engine Warning Light — Have codes read; unresolved issues may indicate timing, injector or turbo problems",
+      "* MOT History — Check for emissions-related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM640.940 / OM640.941",
+        "years": "2004–2012 (W169)",
+        "power": "109 bhp @ 4,200rpm",
+        "enquiries": "— (within OM640 family volume)",
+        "avgReconCost": "£3,000–£5,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM607 / OM651",
+        "years": "2012–2018 (W176)",
+        "power": "107–109 bhp @ 4,000–4,400rpm",
+        "enquiries": "— (within OM607/651 family volume)",
+        "avgReconCost": "£3,500–£6,500 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM640.940 — W169 generation):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,991cc (2.0L)"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Bore × Stroke",
+          "value": "83.0mm × 92.0mm"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "18.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection"
+        },
+        {
+          "label": "* Valves",
+          "value": "16 valves, DOHC"
+        },
+        {
+          "label": "* Torque",
+          "value": "250 Nm @ 1,600–2,600 rpm"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare A180 CDI engine prices for your A-Class",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Timing chain tensioner wear (OM651) and injector issues (OM651 & OM607) — the most frequent A180 CDI enquiries"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "60,000–90,000 miles [PATTERN DATA]"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,000–£4,500 reconditioned, supply only [PLACEHOLDER]"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM651 / OM640 [PATTERN DATA]"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose timing chain wear [PATTERN DATA]"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (18%), North West (16%), Midlands (14%) [PATTERN DATA]"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz A180 CDI engine replacement cost in the UK?",
+        "answer": "A reconditioned A180 CDI engine typically costs £3,000–£5,000 supply only, with the OM651 variant at the higher end. Fitting adds £800–£1,300 depending on the specialist. A used OM640.940 engine is available from approximately £617. A new OEM replacement engine can cost £2,500–£4,000+, with labour pushing the total above £5,000. Use our calculator for a figure specific to your A-Class."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz A180 CDI engine reliable?",
+        "answer": "It depends on which engine era your A180 CDI has. The OM640 (W169, 2004–2012) is generally more straightforward and reliable. The OM651 (W176, 2012–2018) has well-documented timing chain tensioner issues — the simplex roller chain can stretch, and replacement is labour-intensive and costly. The OM607 (Renault K9K) suffers from turbocharger and injector issues. With proper maintenance, all can be reliable — but the OM651 requires proactive timing chain attention."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz A180 CDI?",
+        "answer": "The most common issues are timing chain tensioner wear on the OM651 (rattling on cold start — can destroy the engine if ignored), injector failure on both OM651 and OM607 (rough idle, lumpy cold start), turbocharger failure on the OM607 (power loss, smoke, unusual noise), DPF clogging (short journeys accelerate wear), and EGR valve clogging."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing an A180 CDI engine, or should I scrap the car?",
+        "answer": "Depends on the vehicle value and engine era. Against a well-kept W176 worth £6,000–£12,000, a £4,000–£5,000 recon is 30–50% of the car's value — borderline but often worth it for a cherished example. Against a tired W169 worth £2,000–£4,000, the same recon may exceed our 70% Mercedes-Benz threshold — get a scrap valuation first. OM640-engined cars are generally simpler and cheaper to maintain."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz A180 CDI engine code?",
+        "answer": "W169 (2004–2012): OM640.940 or OM640.941. W176 (2012–2018): OM607 (Renault-sourced 1.5 dCi) or OM651 (Mercedes 2.1-litre). Check the VIN plate or vehicle documentation. The engine code is also stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM651 timing chain, or does the engine need replacement?",
+        "answer": "The timing chain and tensioner must be replaced if worn. A preventative replacement costs £800–£2,000. A snapped chain almost always destroys the engine, requiring a £3,500–£6,500+ replacement. At the first sign of cold-start rattle, book an inspection immediately. Regular oil changes are the key to preventing timing chain issues."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine condition, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz A180 CDI Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted A180 CDI Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real A180 CDI owners, as part of the Engine Finders network, across every generation — OM640, OM607 and OM651 — covering the W169 and W176 chassis."
+      },
+      {
+        "title": "Compare A180 CDI Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit. We cover the 2.0-litre and 1.5/2.1-litre turbo-diesels specifically, with specialists who understand the OM651 timing chain vulnerabilities, injector issues, and the unique requirements of the A-Class."
+      },
+      {
+        "title": "UK Engine Replacement Services for A180 CDI",
+        "text": "supply-only or full supply & fit available nationwide, covering every generation of this badge since 2004, with a 12-month warranty as standard across our network."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz A180 CDI engine replacement UK owners rely on. Compare prices from trusted specialists on EnginesMarket today and get your A-Class back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz A180 CDI Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

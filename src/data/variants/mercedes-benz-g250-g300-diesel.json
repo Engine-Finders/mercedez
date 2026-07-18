@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-g250-g300-diesel",
+    "title": "Mercedes-Benz G250 / G300 Diesel Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 81,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz G250 / G300 Diesel • 1979–2000 • Three Engine Generations",
+    "h1": "Mercedes-Benz G250 / G300 Diesel Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz G-Class specialists. The G250/G300 diesel spans the legendary OM602 five-cylinder and OM603/OM606 six-cylinder engines — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz G250/G300 Diesel Engines — from £2,500 to £8,000 · Codes: OM602, OM603, OM606",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See Mercedes G-Class Diesel Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz G250 / G300 Diesel — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W460 G250D",
+        "years": "1979–1991",
+        "engineCode": "OM602 (2.5L 5-cyl diesel)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£2,500–£4,500 [PLACEHOLDER]",
+        "eraNote": "94hp — five-cylinder legend, simple and robust"
+      },
+      {
+        "generation": "W461 G250D",
+        "years": "1990–2001",
+        "engineCode": "OM602 (2.5L/2.9L 5-cyl diesel)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£2,500–£4,500 [PLACEHOLDER]",
+        "eraNote": "Evolution of the OM602 — improved injection"
+      },
+      {
+        "generation": "W463 300 GD",
+        "years": "1990–1994",
+        "engineCode": "OM603 (3.0L 6-cyl diesel)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,000 [PLACEHOLDER]",
+        "eraNote": "113hp six — smooth but head cracking risk"
+      },
+      {
+        "generation": "W463 300 TD",
+        "years": "1996–2000",
+        "engineCode": "OM606 (3.0L 6-cyl turbo diesel)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,500–£7,500 [PLACEHOLDER]",
+        "eraNote": "177hp turbo six — the most sought-after G-Class diesel"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz G250 / G300 Diesel Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,500–£4,000",
+        "fittedIndie": "£3,500–£5,200",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; older W460/W461 donors"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£6,500",
+        "fittedIndie": "£4,700–£7,900",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£5,000–£8,500",
+        "fittedIndie": "£6,200–£10,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "N/A — NLA from Mercedes",
+        "fittedIndie": "N/A",
+        "warranty": "N/A",
+        "bestFor": "Specialist rebuild only"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market ranges across all G-Class diesel generations. The OM606 turbo commands a premium over naturally aspirated OM602/OM603 units. Reconditioned G-Class engines are specialist items. See the Era Map above for generation-specific pricing.",
+    "labourEstimate": "Fitting a G-Class diesel engine typically takes 10–14 hours at £80–£120/hr (independent Mercedes specialist) or £140–£190/hr (London/SE dealer). The G-Class's ladder-frame chassis provides reasonable engine bay access.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz G250/G300 diesel engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Cylinder Head Cracking (OM603 — 300 GD, Pre-1994)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Timing Chain Wear (OM602, OM603 and OM606)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Vacuum Pump Failure (OM602, OM603 and OM606)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Glow Plug Failure (All Generations)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Injection Pump Wear (All Generations)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering OM602, OM603 and OM606 G-Class diesels, with a 12-month warranty as standard.",
+    "button": {
+      "label": "See Mercedes G-Class Diesel Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz G250 / G300 Diesel — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "OM603 cylinder head cracking",
+          "repairable": "⚠️ Sometimes",
+          "typicalCost": "£2,000–£4,500",
+          "whenItMakesSense": "Only viable on low-mileage examples; often cheaper to replace the engine"
+        },
+        {
+          "problem": "Timing chain wear",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Preventative — cheaper than engine replacement"
+        },
+        {
+          "problem": "Vacuum pump failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800",
+          "whenItMakesSense": "Critical safety repair — always worth doing"
+        },
+        {
+          "problem": "Glow plug failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£500",
+          "whenItMakesSense": "Simple repair — always worth doing"
+        },
+        {
+          "problem": "Injection pump wear",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£1,500",
+          "whenItMakesSense": "Viable on any well-maintained example"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz G250 / G300 Diesel? Check These First",
+      "buyIf": [
+        "* OM606 300 TD (1996–2000) — the most powerful and reliable G-Class diesel",
+        "* OM602-powered G250D — legendary five-cylinder reliability",
+        "* Documented timing chain history — chains replaced or inspected",
+        "* Full service history with regular oil changes (5,000–7,500 miles)",
+        "* Cooling system proactively maintained (especially important on OM603)"
+      ],
+      "avoidIf": [
+        "* OM603 with any evidence of coolant loss or overheating — head cracking risk is serious",
+        "* Any cold-start rattle without documented timing chain work",
+        "* Poor service history — these engines are robust but not invincible",
+        "* Vacuum pump not recently replaced — failure is common and can be dangerous"
+      ]
+    },
+    "closingVerdict": "The G250/G300 diesel is a legend — the original Mercedes G-Class with some of the most durable diesel engines ever built. The OM602 five-cylinder is simple, robust and long-lived. The OM603 six-cylinder is smooth but has head cracking issues. The OM606 turbo is the pick of the bunch — 177hp, exceptional reliability and the most sought-after G-Class diesel. Buy the OM606 if you can, or a well-maintained OM602 with documented history. The G-Class is a vehicle that rewards patience and maintenance.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz G250/G300 diesel engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz G250 / G300 Diesel (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle on startup (timing chain wear warning)",
+      "* Service History — Check the year to identify which engine — see the Era Map above",
+      "* Coolant Level — Check for any loss — OM603 head cracking risk is serious",
+      "* Overheating History — Any evidence of overheating? (OM603 head cracking risk)",
+      "* Vacuum Pump — Any hard brake pedal or oil leaks? (vacuum pump failure)",
+      "* Glow Plugs — Any hard starting in cold weather? (glow plug failure)",
+      "* Injection Pump — Any hard starting or black smoke? (pump wear)",
+      "* Rust Check — G-Class chassis and body are prone to rust; body condition is critical",
+      "* Engine Warning Light — Have codes been read? Resolve before buying"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM602 (2.5L 5-cyl diesel)",
+        "years": "1979–1991",
+        "power": "94 bhp / 69 kW",
+        "enquiries": "— (pattern data — heritage)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM602 (2.5L/2.9L 5-cyl diesel)",
+        "years": "1990–2001",
+        "power": "95–125 bhp",
+        "enquiries": "— (pattern data — heritage)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM603 (3.0L 6-cyl diesel)",
+        "years": "1990–1994",
+        "power": "113 bhp / 83 kW",
+        "enquiries": "— (pattern data — heritage)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM606 (3.0L 6-cyl turbo diesel)",
+        "years": "1996–2000",
+        "power": "177 bhp / 130 kW",
+        "enquiries": "— (pattern data — heritage)",
+        "avgReconCost": "£4,500–£7,500 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM606 3.0L Turbo):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,497 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "5-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "22.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Indirect injection (pre-chamber)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Naturally aspirated (some turbo variants)"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,996 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "22.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Indirect injection (pre-chamber)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Naturally aspirated (turbo variants available)"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,996 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "22.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Indirect injection (pre-chamber)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbocharger (OM606.964)"
+        },
+        {
+          "label": "Additional specifications",
+          "value": ""
+        },
+        {
+          "label": "* Maximum torque (OM602)",
+          "value": "158 Nm @ 2,600–3,100 rpm"
+        },
+        {
+          "label": "* Maximum torque (OM603)",
+          "value": "210 Nm @ 2,600 rpm"
+        },
+        {
+          "label": "* Maximum torque (OM606)",
+          "value": "330 Nm @ 1,600–3,600 rpm"
+        },
+        {
+          "label": "* 0–60mph (OM606)",
+          "value": "~12 seconds"
+        },
+        {
+          "label": "* Top speed (OM606)",
+          "value": "~103 mph"
+        },
+        {
+          "label": "* Transmission",
+          "value": "4-speed manual / 5-speed manual / 4-speed automatic"
+        },
+        {
+          "label": "* Drive",
+          "value": "4MATIC all-wheel drive"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz G250/G300 diesel engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "OM603: cylinder head cracking (~35% of OM603 enquiries) / Timing chain wear (~30% of all enquiries) / Vacuum pump failure (~25% of all enquiries)【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "100,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,500 reconditioned (OM606 era), supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM606 (300 TD is the most sought-after G-Class diesel)【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring/Summer — classic off-road owners prepare for summer adventures【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (20%), South West (18%), London (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz G250 / G300 diesel engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz G250/G300 diesel engine costs £3,500–£6,500 supply only, varying by generation: OM602 £2,500–£4,500, OM603 £3,500–£6,000, OM606 £4,500–£7,500. Fitting adds £1,200–£1,800. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz G250 / G300 diesel reliable?",
+        "answer": "The OM602, OM603 and OM606 are among Mercedes' most legendary diesel engines. The OM602 five-cylinder is simple, robust and widely regarded as one of Mercedes' most reliable engines. The OM603 six-cylinder is smooth but has head cracking issues. The OM606 turbo has exceptional reliability and good performance. The 300 TD OM606 is considered the best diesel G-Class."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz G250 / G300 diesel?",
+        "answer": "OM603: cylinder head cracking (coolant loss, overheating, £2,000–£4,500). All: timing chain wear (cold-start rattle, £800–£2,000), vacuum pump failure (hard brake pedal, £300–£800), glow plug failure (hard starting, £200–£500), and injection pump wear (£800–£1,500)."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz G250 / G300 diesel engine, or should I scrap the car?",
+        "answer": "G-Class values range from £15,000–£60,000+ depending on generation, condition and mileage. A £3,500–£6,500 reconditioned engine represents 10–40% of vehicle value — well within our 70% Mercedes-Benz scrap threshold. For almost any example, replacement is financially viable. The G-Class is a vehicle that holds its value exceptionally well."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz G250 / G300 diesel engine code?",
+        "answer": "The G250/G300 diesel has used four engine variants: OM602 (W460/W461, 1979–2001, 2.5L 5-cyl, 94–125bhp), OM603 (W463, 1990–1994, 3.0L 6-cyl, 113bhp), and OM606 (W463, 1996–2000, 3.0L 6-cyl turbo, 177bhp). Check your VIN or registration year. The code is stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM603 cylinder head cracking issue, or does it need replacement?",
+        "answer": "A cracked OM603 head can sometimes be repaired by a specialist (welding or stitching) costing £2,000–£4,500 — but in many cases, a replacement head or complete engine is more cost-effective (£3,500–£6,000). The #14 head casting is particularly susceptible. At the first sign of coolant loss or overheating, stop driving immediately and book an inspection. Prevention through cooling system maintenance is critical."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz G250 / G300 Diesel Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz G250/G300 Diesel Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real G-Class owners, as part of the Engine Finders network, with specialist knowledge of OM602, OM603 and OM606 diesel engines across all G-Class generations."
+      },
+      {
+        "title": "Compare Mercedes-Benz G250/G300 Diesel Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for every G-Class diesel era from W460 to W463."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz G250/G300 Diesel",
+        "text": "supply‑only or full supply & fit available nationwide, covering every G-Class generation with specialists who understand these legendary Mercedes diesel engines."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz G250/G300 diesel engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get your G-Class back on the road with confidence.",
+    "ctaButton": {
+      "label": "Explore Mercedes-Benz G250 / G300 Diesel Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

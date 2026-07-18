@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "slug": "mercedes-e-class-a238",
+    "title": "Mercedes E-Class A238 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes E-Class A238 • Convertible • 2017–2023",
+    "h1": "Mercedes E-Class A238 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the second-generation E-Class Cabriolet — from the M274 four-cylinder petrol to the M276 V6, the M256 straight-six that powered the E 53 AMG, and the M177 V8 in the E 63 S. Real UK costs, honest reliability data, and the 2020 facelift's engine updates explained. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "A238 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Convertible"
+      },
+      {
+        "icon": "📖",
+        "label": "8+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore A238 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes E-Class A238 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the A238 cabriolet specifically — including pre-facelift M274/M276 units, post-facelift M264/M256 replacements, and the range-topping AMG V8.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (A238)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1991cc)",
+        "power": "184 PS / 135 kW",
+        "years": "2017–2019",
+        "variants": "E 200",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1991cc)",
+        "power": "245 PS / 180 kW",
+        "years": "2017–2019",
+        "variants": "E 300",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M264.920",
+        "family": "M264",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1991cc)",
+        "power": "197 PS / 145 kW + EQ Boost",
+        "years": "2020–2023",
+        "variants": "E 200 (facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M264.920",
+        "family": "M264",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1991cc)",
+        "power": "258 PS / 190 kW + EQ Boost",
+        "years": "2020–2023",
+        "variants": "E 300 (facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,400–£4,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M276.823",
+        "family": "M276",
+        "fuel": "Petrol",
+        "displacement": "3.0L (2996cc)",
+        "power": "333 PS / 245 kW",
+        "years": "2017–2018",
+        "variants": "E 400 4MATIC",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M276.823",
+        "family": "M276",
+        "fuel": "Petrol",
+        "displacement": "3.0L (2996cc)",
+        "power": "367 PS / 270 kW",
+        "years": "2018–2023",
+        "variants": "E 450 4MATIC",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,800–£6,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M256.930",
+        "family": "M256",
+        "fuel": "Petrol",
+        "displacement": "3.0L (2999cc)",
+        "power": "435 PS / 320 kW + EQ Boost",
+        "years": "2018–2023",
+        "variants": "AMG E 53 4MATIC+",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£10,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M177.980",
+        "family": "M177",
+        "fuel": "Petrol",
+        "displacement": "4.0L (3982cc)",
+        "power": "571–612 PS",
+        "years": "2017–2023",
+        "variants": "AMG E 63 / E 63 S",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£10,000–£18,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel",
+        "displacement": "2.0L (1950cc)",
+        "power": "194 PS / 143 kW",
+        "years": "2017–2023",
+        "variants": "E 220 d",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£3,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM656.929",
+        "family": "OM656",
+        "fuel": "Diesel",
+        "displacement": "2.9L (2925cc)",
+        "power": "340 PS / 250 kW",
+        "years": "2018–2023",
+        "variants": "E 400 d 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM642.873",
+        "family": "OM642",
+        "fuel": "Diesel",
+        "displacement": "3.0L (2987cc)",
+        "power": "258 PS / 190 kW",
+        "years": "2017–2020",
+        "variants": "E 350 d",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes E-Class A238 — Overview",
+    "intro": "The A238 is the cabriolet variant of the second-generation Mercedes-Benz E-Class, produced from 2017 to 2023 as the successor to the A207. Built on the MRA platform shared with the W213 saloon, it combines E-Class luxury with open-top driving. The engine range spanned M274 four-cylinder petrols, M276 V6 petrols, the M256 straight-six in AMG E 53 guise, the M177 V8 in AMG E 63 variants, plus OM654, OM656 and OM642 diesel units. A 2020 facelift brought M264 engines with EQ Boost mild-hybrid technology.",
+    "keyFacts": "Platform: Mercedes MRA (Modular Rear Architecture) • Predecessor: Mercedes-Benz E-Class Cabriolet (A207) • Successor: Mercedes-Benz CLE Cabriolet (A236) • Sibling body styles in this generation: W213 saloon, S213 estate, C238 coupé.",
+    "marketIntelligenceLine": "The A238 E-Class Cabriolet generated UK engine enquiries in 2025 [PATTERN DATA], with the M274 petrol fours and OM654 diesel remaining the most commonly discussed among specialists."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode — one paragraph: The A238's most dependable engine is the OM654 2.0-litre four-cylinder diesel (E 220 d, 194 PS) — proven, economical, and widely considered the most sensible choice for the cabriolet. The M274 2.0-litre petrol (E 300, 245 PS) is the best pre-facelift petrol option — strong performance, proven durability, and no major systemic failures when properly maintained. The M256 straight-six in the E 53 AMG (435 PS) is a masterpiece of engineering — smooth, responsive, and with EQ Boost adding 16 kW of assistance, but it carries higher running costs. The M177 V8 in the E 63 S (612 PS) is an icon — epic performance but eye-watering maintenance bills. Avoid any pre-facelift car without documented service history, and be cautious of the M276 V6's cooling system — a known weakness on the E 400 and E 450.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes E-Class A238 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M274.920 (E 200)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Camshaft adjuster wear, thermostat",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Entry Choice — affordable A238 entry point"
+      },
+      {
+        "engine": "M274.920 (E 300)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Camshaft adjusters, HPFP",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£2,200–£4,000",
+        "ownershipVerdict": "Best Petrol — the sweet spot of the range"
+      },
+      {
+        "engine": "M264.920 (E 200 facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "48V system, water pump",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Modern Petrol — EQ Boost refinement"
+      },
+      {
+        "engine": "M264.920 (E 300 facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "48V system, water pump",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£2,400–£4,200",
+        "ownershipVerdict": "Improved Power — 258 PS with EQ Boost"
+      },
+      {
+        "engine": "M276.823 (E 400)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Cooling system, engine mounts",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "V6 Smoothness — but costly to maintain"
+      },
+      {
+        "engine": "M276.823 (E 450)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Cooling system, turbo seals",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£3,800–£6,500",
+        "ownershipVerdict": "Facelift V6 — more power, same caveats"
+      },
+      {
+        "engine": "M256.930 (E 53 AMG)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Cooling system, 48V battery",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£6,000–£10,000",
+        "ownershipVerdict": "AMG Entry — straight-six brilliance, higher costs"
+      },
+      {
+        "engine": "M177.980 (E 63 / E 63 S)",
+        "typicalMileage": "30k–70k",
+        "commonMajorFailure": "Valve stem seals, coolant pipes, engine mounts",
+        "repairCostSpecialist": "£1,500–£3,500",
+        "replacementCostRecon": "£10,000–£18,000",
+        "ownershipVerdict": "V8 Icon — epic engine, epic bills"
+      },
+      {
+        "engine": "OM654.920 (E 220 d)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "AdBlue system, EGR cooler",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£2,200–£3,800",
+        "ownershipVerdict": "Best Diesel — economical and proven"
+      },
+      {
+        "engine": "OM656.929 (E 400 d)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "AdBlue system, injector wear",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Six-Cylinder Diesel — effortless torque"
+      },
+      {
+        "engine": "OM642.873 (E 350 d)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Injector seals, EGR, turbo",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Proven V6 Diesel — older but robust"
+      }
+    ],
+    "economicsRule": {
+      "title": "The A238 rule",
+      "text": "A £2,200–£4,200 recon on a sub-£15,000 A238 sits at 15–28% of the car's value — viable on most examples. Against a £6,000 engine bill on an E 53, the car's value determines the decision — a £35,000 E 53 justifies a £6,000–£10,000 recon; a £20,000 example makes it a much harder call. For an E 63 S, a £50,000+ car justifies a £10,000–£18,000 recon. Our 70% Mercedes-Benz threshold is the line — most A238s sit comfortably above it."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which A238 Costs Least To Own?",
+        "answer": "E 220 d (OM654) — proven diesel, excellent economy, cheap parts."
+      },
+      {
+        "question": "Which A238 Costs Most To Own?",
+        "answer": "AMG E 63 S (M177) — V8 complexity, specialist-only work, eye-watering parts prices."
+      },
+      {
+        "question": "Which A238 Is Best Value?",
+        "answer": "E 300 (M274.920) — 245 PS, reliable four-pot, strong performance without V6 running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M274/M264 Petrol Camshaft Adjuster Wear",
+        "affectedModels": "A238 E 200, E 300 (M274 and M264 petrol variants).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The M274 and M264's camshaft adjusters can wear prematurely, causing a rattle on cold start and, in severe cases, timing chain stretch. This is particularly common on cars with extended oil change intervals.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£1,200–£2,000",
+            "specialist": "£700–£1,200",
+            "work": "Replace camshaft adjusters and timing chain tensioner",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£3,500–£5,500",
+            "specialist": "£2,200–£4,000",
+            "work": "Full timing chain and adjuster replacement",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your A238 petrol has a rattle on cold start, have the camshaft adjusters inspected immediately — £700–£1,200 is far cheaper than the £2,200+ bill that follows if the timing chain stretches or jumps. Use the correct oil spec and avoid extended service intervals.",
+        "cta": {
+          "label": "Compare M274/M264 engine prices for your A238 E-Class →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M276 V6 & M256 Straight-Six Cooling System Leaks",
+        "affectedModels": "A238 E 400, E 450 (M276 V6), E 53 AMG (M256 straight-six).",
+        "typicalFailureMileage": "50,000–90,000 miles.",
+        "rootCause": "The M276 V6 and M256 straight-six's cooling systems — particularly the water pump, thermostat housing, and coolant crossover pipes — are prone to leaks. The V6 and inline-six layouts make access tight, increasing labour costs.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,400",
+            "specialist": "£500–£900",
+            "work": "Replace water pump, thermostat, and coolant pipes",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£3,000–£5,000",
+            "specialist": "£2,000–£4,000",
+            "work": "Full cooling system overhaul + engine inspection if overheated",
+            "note": ""
+          }
+        ],
+        "recommendation": "Check coolant levels regularly and look for signs of leaks around the water pump and thermostat housing — £500–£900 in preventative work is cheap insurance against the £2,000+ bill that follows an overheat. This is the single most important job on any M276 or M256-powered A238.",
+        "cta": {
+          "label": "Compare M276/M256 engine prices for your A238 E-Class →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "OM654 Diesel AdBlue & EGR System Issues",
+        "affectedModels": "A238 E 220 d (OM654.920 diesel).",
+        "typicalFailureMileage": "80,000–130,000 miles.",
+        "rootCause": "The OM654's AdBlue system — including NOx sensors, heaters, and the EGR cooler — can fail, triggering warning lights and reduced performance. This is common on cars used for short urban journeys where the AdBlue system doesn't complete its regeneration cycles.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£600–£1,000",
+            "specialist": "£400–£700",
+            "work": "NOx sensor replacement, AdBlue system flush",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£2,500–£4,500",
+            "specialist": "£1,800–£3,200",
+            "work": "Full AdBlue system overhaul including EGR cooler",
+            "note": ""
+          }
+        ],
+        "recommendation": "Use the car regularly and give it a good motorway run to keep the AdBlue and EGR systems clear — £400–£700 in preventative work is cheap insurance against the £1,800+ bill that follows if the system fails completely.",
+        "cta": {
+          "label": "Compare OM654 engine prices for your A238 E 220 d →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "M177 V8 Valve Stem Seal Wear (E 63 / E 63 S)",
+        "affectedModels": "A238 AMG E 63, AMG E 63 S (all M177 V8 variants).",
+        "typicalFailureMileage": "30,000–70,000 miles.",
+        "rootCause": "The M177's hot-vee design — turbos located in the V of the engine — generates significant heat, which can cause valve stem seals to harden and fail. This leads to oil consumption, blue smoke on startup, and eventually, more serious engine damage if ignored.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£3,000–£5,000",
+            "specialist": "£2,000–£3,500",
+            "work": "Replace valve stem seals",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£12,000–£18,000",
+            "specialist": "£10,000–£16,000",
+            "work": "Full engine rebuild if oil starvation has caused bottom-end damage",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your E 63 is smoking on startup or using oil between services, have the valve stem seals inspected immediately — a £2,000–£3,500 repair is far cheaper than the £10,000+ rebuild that follows. Budget for this as a preventative job at 50,000 miles if you plan to keep the car long-term.",
+        "cta": {
+          "label": "Compare M177 engine prices for your A238 E 63 →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "A238 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "E 200 (pre-facelift)",
+        "engineCode": "M274.920",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 300 (pre-facelift)",
+        "engineCode": "M274.920",
+        "usedSupply": "£1,100–£2,000",
+        "reconditionedSupply": "£2,200–£4,000",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 200 (facelift)",
+        "engineCode": "M264.920",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 300 (facelift)",
+        "engineCode": "M264.920",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,400–£4,200",
+        "rebuiltSupply": "£3,800–£6,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 400 4MATIC",
+        "engineCode": "M276.823",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 450 4MATIC",
+        "engineCode": "M276.823",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,800–£6,500",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "AMG E 53 4MATIC+",
+        "engineCode": "M256.930",
+        "usedSupply": "£3,000–£5,500",
+        "reconditionedSupply": "£6,000–£10,000",
+        "rebuiltSupply": "£8,000–£13,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "AMG E 63",
+        "engineCode": "M177.980",
+        "usedSupply": "£5,000–£9,000",
+        "reconditionedSupply": "£10,000–£16,000",
+        "rebuiltSupply": "£14,000–£20,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "AMG E 63 S",
+        "engineCode": "M177.980",
+        "usedSupply": "£6,000–£10,000",
+        "reconditionedSupply": "£12,000–£18,000",
+        "rebuiltSupply": "£16,000–£22,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "E 220 d",
+        "engineCode": "OM654.920",
+        "usedSupply": "£1,100–£2,000",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 350 d",
+        "engineCode": "OM642.873",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 400 d 4MATIC",
+        "engineCode": "OM656.929",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "E 220 d",
+      "E 350 d",
+      "E 400 d 4MATIC"
+    ],
+    "petrolVariants": [
+      "E 200",
+      "E 300",
+      "E 400 4MATIC",
+      "E 450 4MATIC",
+      "AMG E 53 4MATIC+",
+      "AMG E 63",
+      "AMG E 63 S"
+    ],
+    "scopeNote": "All variants listed are A238 cabriolet only. W213 saloon, S213 estate, and C238 coupé share most of these engines but are covered on their own Generation Pages, since body style affects weight, aerodynamics, and to some extent, labour access. The A238 was produced from June 2017 to 2023, with a facelift in 2020."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

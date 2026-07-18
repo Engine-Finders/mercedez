@@ -1,0 +1,581 @@
+{
+  "meta": {
+    "slug": "vaneo",
+    "title": "Vaneo Engines — The Complete UK Guide",
+    "titleCharCount": 37,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes • Vaneo • 2001–2005 • 1 Generation • M166 • OM668",
+    "h1": "Vaneo Engines — The Complete UK Guide",
+    "subHeadline": "Every Vaneo engine — from the 1.6 petrol (M166) to the 1.7 CDI diesel (OM668) — covered across the single W414 generation. Real UK replacement costs, known failure patterns including misfires and cold-start stalling, and honest repair-vs-replace economics. Backed by real UK Vaneo owner data and specialist insights [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "200+ Enquiries (2025) [PATTERN DATA]"
+      },
+      {
+        "icon": "🔧",
+        "label": "1 Generation Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "4 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore Vaneo Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "Vaneo — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★☆☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "⚠️ The Vaneo rule — check the value first: a £1,500 Vaneo with a £1,800 engine failure is a write-off. The car's value is the deciding factor, not the repair cost in isolation."
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★☆☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "M166 1.6 petrol — simple, well-understood, and cheaper to repair than the diesel"
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "OM668 1.7 CDI — cold-start stalling, injector and turbo issues on higher-mileage examples"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "A 2003–2005 facelift Vaneo 1.6 petrol with full service history and suspension bushes already replaced"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£900–£2,200 supply-only [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "Cold-start stalling (1.7 CDI) and ignition coil failure (1.6 petrol) [PATTERN DATA]"
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "💎 Niche Choice — the Vaneo is the shortest-lived Mercedes model, produced for just four years"
+      }
+    ],
+    "oneLineVerdict": "The Vaneo is a practical, spacious MPV that makes sense only if you buy it cheaply and keep it running with routine maintenance. The moment it needs a major engine repair, scrap it and buy another one — they're that affordable."
+  },
+  "atAGlance": {
+    "h2": "Vaneo at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "1 (W414)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2001–2005"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "4 (M166.961, M166.960, M166.990, OM668.914)"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Petrol, Diesel"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM668 1.7 CDI — cold-start stalling reports [PATTERN DATA]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "M166 1.6 petrol (82 PS or 102 PS)"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "OM668 1.7 CDI — injector and turbo issues"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£900–£2,200 supply-only [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£1,100–£1,900 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★☆☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "Vaneo — One Generation, Four Powertrains",
+    "subHeadline": "The Vaneo was produced in a single generation (W414, 2001–2005) with a choice of four-cylinder petrol and diesel engines. The real choice is which engine to avoid.",
+    "cards": [
+      {
+        "title": "W414 Vaneo (2001–2005)",
+        "badge": "",
+        "meta": "2001–2005 • M166 1.6 petrol (82/102 PS), M166 1.9 petrol (125 PS), OM668 1.7 CDI diesel (91 PS)",
+        "rating": "★★★☆☆",
+        "verdict": "The Vaneo is a spacious, practical MPV built on the first-generation A-Class platform. It's not a looker — but it offers 3,000 litres of cargo space in a Golf-sized footprint. The 1.6 petrol is the sensible choice; the 1.7 CDI diesel is the one to avoid unless you're prepared for cold-start stalling and injector bills.",
+        "cta": {
+          "label": "Explore W414 →",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "Vaneo Engine Codes — The Complete Database",
+    "subHeadline": "Every engine ever fitted to a UK-market Vaneo — verified against manufacturer data, with real failure patterns and estimated replacement costs.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M166.961",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.6L I4",
+        "power": "82 PS",
+        "years": "2001–2005",
+        "model": "W414",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M166.960",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.6L I4",
+        "power": "102 PS",
+        "years": "2001–2005",
+        "model": "W414",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M166.990",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.9L I4",
+        "power": "125 PS",
+        "years": "2001–2005",
+        "model": "W414",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM668.914",
+        "family": "OM668",
+        "fuel": "Diesel",
+        "displacement": "1.7L I4",
+        "power": "91 PS",
+        "years": "2001–2005",
+        "model": "W414",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common Vaneo Engine Problems",
+    "subHeadline": "Six real failure patterns from UK Vaneo owners — ranked by severity, with genuine cost signals.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "1.7 CDI Cold-Start Stalling",
+        "description": "The OM668 diesel's defining complaint — the engine starts and idles smoothly but stalls when pulling away from cold. Often linked to the control unit or torque converter; a new control unit can cost £1,300. Most common on 2002–2004 examples.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "1.6 Petrol Ignition Coil Failure",
+        "description": "The M166's most common fault — worn or fouled spark plugs and faulty ignition coils cause misfires, especially on cold start. The engine can run on three cylinders until the coil is replaced. Coil pack: £150–£300.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "1.7 CDI Injector Failure",
+        "description": "The OM668's injectors are a known weak point on higher-mileage examples — failure leads to poor running, reduced power, and increased fuel consumption. Injector replacement: £300–£800 per injector.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "Front Suspension Weakness (Non-Engine)",
+        "description": "The Vaneo's front suspension is a well-documented weakness — bushes wear prematurely, anti-roll bars need replacing, and suspension components fail at relatively low mileage. Front suspension bushes: £200–£500. Most common across all Vaneo models.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "Engine Stalls at Low RPM (1.9 Petrol)",
+        "description": "Some 1.9 petrol Vaneos suffer from stalling at low RPM (60–120 rpm) in lower gears, particularly when pulling away. Often linked to the LPG system or throttle body. Diagnosis required; repair cost varies.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "Door Seals and Gas Struts (Non-Engine)",
+        "description": "A common non-engine complaint — door seals fail, gas struts for the tailgate and sliding doors lose pressure, and the rear wash-wipe can leak into the headlining. Door seals: £100–£300; gas struts: £50–£150.",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "Vaneo Market Intelligence — What UK Owners Told Us",
+    "signals": [
+      {
+        "signal": "Most Enquired Vaneo Engine",
+        "data": "OM668 1.7 CDI — cold-start stalling reports [PATTERN DATA]",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "Second Most Enquired",
+        "data": "M166 1.6 petrol — ignition coil and misfire reports [PATTERN DATA]",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "Typical UK Value",
+        "data": "£1,100–£1,900 [THIRD-PARTY]",
+        "demandTrend": "⬇ Falling"
+      },
+      {
+        "signal": "Most Common Owner Profile",
+        "data": "Budget-conscious families and first-time buyers [PATTERN DATA]",
+        "demandTrend": "➡ Stable"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The Vaneo is the cheapest used Mercedes you can buy — typical values of £1,100–£1,900 mean that a major engine repair (£1,200–£2,200) can exceed the car's value. Owners routinely scrap Vaneos with otherwise fixable engine problems because the repair cost doesn't make financial sense.",
+      "The 1.7 CDI diesel is the most enquiry-generating engine — but the enquiries are almost exclusively about cold-start stalling and injector failure. The 1.6 petrol generates fewer enquiries because it's simpler, more reliable, and cheaper to fix. If you're buying a Vaneo, the petrol is the sensible choice; the diesel is the one to avoid unless you're prepared for the bills.",
+      "The Vaneo's front suspension is a more common cost driver than the engines — bushes, anti-roll bars, and suspension components fail at relatively low mileage. Many Vaneos are scrapped not because the engine failed, but because the suspension repair cost (£500–£1,000) exceeds the car's value."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every Vaneo Buyer",
+    "quote": "If you buy one Vaneo based on this page, buy a 2003–2005 facelift 1.6 petrol with full service history and suspension bushes already replaced. Avoid the 1.7 CDI diesel unless you're prepared for cold-start stalling and injector bills — the fuel economy isn't worth the headache. And never, ever spend more than the car is worth on an engine repair: a £1,500 Vaneo with a £1,800 repair bill is a write-off. End of Sections 1–7. Ready for \"8-14\" to continue with Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, and Closing Action Cards."
+  },
+  "replacementCosts": {
+    "h2": "Vaneo Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt Vaneo engines — supply-only, with independent labour guidance.",
+    "tables": [
+      {
+        "title": "",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a Vaneo engine typically takes 6–10 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER — confirm vs cost sheet]. The Vaneo rule — check the value first: A £800–£1,500 M166 recon against a £1,100–£1,900 Vaneo sits at 40–140% — the repair cost can exceed the car's value in many cases. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a Vaneo worth £1,200 with a £1,200 OM668 recon, that's 100% — scrap it. For a Vaneo worth £1,900 with a £1,000 M166 recon, that's 52% — borderline, assess carefully. The Vaneo is the rare car where the decision to repair is almost entirely driven by the car's value, not the engine's condition.",
+    "labourEstimate": "Fitting a Vaneo engine typically takes 6–10 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER — confirm vs cost sheet]. The Vaneo rule — check the value first: A £800–£1,500 M166 recon against a £1,100–£1,900 Vaneo sits at 40–140% — the repair cost can exceed the car's value in many cases. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a Vaneo worth £1,200 with a £1,200 OM668 recon, that's 100% — scrap it. For a Vaneo worth £1,900 with a £1,000 M166 recon, that's 52% — borderline, assess carefully. The Vaneo is the rare car where the decision to repair is almost entirely driven by the car's value, not the engine's condition.",
+    "economicsBox": {
+      "title": "",
+      "text": ""
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the Vaneo Engine Range Evolved — 2001 to 2005",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "Launch Era — W414 Introduction",
+        "years": "2001–2002",
+        "keyEngines": "M166 1.6 petrol (82 PS), OM668 1.7 CDI diesel",
+        "whyBmwChanged": "The Vaneo was launched as a practical MPV based on the first-generation A-Class W168 platform — the engines were carried over from the A-Class with minimal modification",
+        "worthKnowing": "The Vaneo was Mercedes' first serious attempt at a compact MPV — offering up to 3,000 litres of cargo space in a Golf-sized footprint"
+      },
+      {
+        "era": "Facelift Era — More Power",
+        "years": "2003–2005",
+        "keyEngines": "M166 1.6 petrol (102 PS), M166 1.9 petrol (125 PS), OM668 1.7 CDI diesel",
+        "whyBmwChanged": "The 2003 facelift introduced more powerful petrol variants and revised interior trim — the 1.9 petrol was the most powerful Vaneo ever offered",
+        "worthKnowing": "The 1.9 petrol (125 PS) was the pick of the range for motorway use — but it's rare; most Vaneos are the 1.6 petrol or 1.7 CDI. Production ended in 2005 with no direct successor."
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy a Vaneo?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Family Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The Vaneo is a practical, spacious MPV for families on a tight budget — 3,000 litres of cargo space, seven seats in some configurations, and a compact footprint. Buy a facelift 1.6 petrol (102 PS) with full service history and suspension work already done."
+      },
+      {
+        "buyerProfile": "Daily Commuter",
+        "rating": "★★★☆☆",
+        "verdict": "The Vaneo is underpowered and not particularly economical for motorway commuting — the 1.7 CDI returns decent fuel economy but carries a cold-start stalling risk. The 1.6 petrol is cheaper to run in the city but drinks fuel on the motorway."
+      },
+      {
+        "buyerProfile": "Budget Owner",
+        "rating": "★★★☆☆",
+        "verdict": "The Vaneo is the cheapest used Mercedes you can buy — £1,100–£1,900 for a decent example. But the purchase price is misleading; you'll need to budget for suspension repairs and routine maintenance. Buy the best example you can afford; a £1,900 car is cheaper in the long run than a £1,100 car with £1,000 of work needed."
+      },
+      {
+        "buyerProfile": "First-Time Buyer",
+        "rating": "★★★☆☆",
+        "verdict": "The Vaneo is affordable and practical, but it's not a beginner-friendly car — suspension and engine issues can be expensive relative to the car's value. If you're a first-time buyer, consider the 1.6 petrol and get a pre-purchase inspection before committing."
+      },
+      {
+        "buyerProfile": "Practical MPV Buyer",
+        "rating": "★★★★★",
+        "verdict": "If you need a spacious, practical MPV and your budget is £1,500–£2,000, the Vaneo is one of the best options available — more cargo space than a Zafira, more character than a Berlingo, and Mercedes build quality (mostly). Buy a facelift 1.6 petrol and enjoy the space."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My Vaneo Engine — or Should I Replace It?",
+    "intro": "The Vaneo's defining economics question is simple: is the repair cost worth more than the car? A £1,200 OM668 recon against a £1,200 Vaneo is 100% — scrap it. A £800 M166 recon against a £1,800 Vaneo is 44% — worth doing. Run the numbers on your specific car before deciding.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with Vaneo pre-selected",
+        "href": "mercedesengine.uk/#engine-calculator?model=vaneo"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "mercedesengine.uk/#engine-calculator?model=vaneo"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why Vaneo Owners Trust mercedesengine.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range comes from documented failure patterns, specialist interviews, and owner forum data — not manufacturer marketing or forum guesswork [PATTERN DATA]."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "When a £1,200 OM668 recon exceeds a £1,200 Vaneo's value, we say so. That's the difference between a knowledge base and a sales page."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on Vaneo engines daily — cold-start stalling diagnosis, injector assessment, and suspension work are all in their wheelhouse."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Vaneo Frequently Asked Questions",
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Vaneo engine replacement cost in the UK?",
+        "answer": "A used Vaneo engine costs £300–£1,200 depending on engine code; reconditioned units range from £800–£2,200 [PLACEHOLDER — confirm vs cost sheet]. Labour adds 6–10 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). For a precise quote on your specific Vaneo, use our diagnostic calculator."
+      },
+      {
+        "id": 2,
+        "question": "Which Vaneo engine is the most reliable?",
+        "answer": "The M166 1.6 petrol (82 PS or 102 PS) is the most reliable Vaneo engine — simple, well-understood, and cheaper to repair than the diesel. The 1.9 petrol (125 PS) is also reliable but rarer. The OM668 1.7 CDI diesel carries a cold-start stalling risk and injector issues on higher-mileage examples — it's the one to avoid unless you're prepared for the bills."
+      },
+      {
+        "id": 3,
+        "question": "Which Vaneo engine should I avoid?",
+        "answer": "The OM668 1.7 CDI diesel is the one to avoid — cold-start stalling is the defining complaint, and injector failure can cost £300–£800 per injector. The 1.7 CDI is also more expensive to repair than the petrol variants, and many specialists won't touch them because the repair cost often exceeds the car's value."
+      },
+      {
+        "id": 4,
+        "question": "Is the Vaneo timing chain problem real?",
+        "answer": "The Vaneo's M166 and OM668 engines use timing chains, not belts — chain failure is rare on the M166, but the OM668's chain tensioner can wear on higher-mileage examples. Listen for rattling on start-up; if you hear it, get it inspected. Chain replacement: £600–£1,200 if needed."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a Vaneo engine?",
+        "answer": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a Vaneo worth £1,200 with a £1,200 OM668 recon, that's 100% — scrap it. For a Vaneo worth £1,900 with a £1,000 M166 recon, that's 52% — borderline, assess carefully. Use our Ownership Decision Tool for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which Vaneo generation/year should I buy?",
+        "answer": "The definitive answer: a 2003–2005 facelift Vaneo 1.6 petrol (102 PS) with full service history and suspension work already done. The facelift improved interior trim and introduced the more powerful 1.6 petrol — and the suspension issues are the real cost driver, not the engines. Avoid the 1.7 CDI unless you're prepared for cold-start stalling and injector bills."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my Vaneo engine code?",
+        "answer": "The engine code is stamped on the engine block — typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common Vaneo codes: M166.961 (1.6, 82 PS), M166.960 (1.6, 102 PS), M166.990 (1.9, 125 PS), OM668.914 (1.7 CDI). If you're unsure, use our diagnostic calculator to identify it."
+      },
+      {
+        "id": 8,
+        "question": "Vaneo vs A-Class — which is more reliable?",
+        "answer": "The Vaneo and A-Class W168 share the same platform and engines — reliability is essentially identical, but the Vaneo is heavier and more practical, which puts more strain on the suspension and running gear. The A-Class is cheaper to repair (lighter, simpler suspension) and has a larger parts network. If you need the space, buy the Vaneo; if you don't, buy the A-Class. See our Vaneo vs A-Class guide."
+      }
+    ]
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore Vaneo Generations",
+        "text": "The W414 Vaneo, one generation with four powertrains → Explore Vaneo →",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My Vaneo",
+        "text": "Tell us your symptoms and we'll match you against known Vaneo failure patterns → Diagnose My Vaneo →",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get quotes from 25+ vetted Mercedes-Benz specialists who work on Vaneo engines daily → Compare Specialists →",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

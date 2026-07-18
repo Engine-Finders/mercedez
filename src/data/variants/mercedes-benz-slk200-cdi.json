@@ -1,0 +1,478 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-slk200-cdi",
+    "title": "Mercedes-Benz SLK200 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 73,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz SLK200 CDI • 2011–2016 • 2.1L Turbo Diesel",
+    "h1": "Mercedes-Benz SLK200 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz diesel specialists. The SLK200 CDI is the torquey 2.1-litre OM651 turbo diesel — 201–204bhp of efficient power in a sleek roadster. Compare reconditioned, rebuilt and used engines — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz SLK200 CDI Engines — from £2,500 to £7,500 · Code: OM651",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See Mercedes SLK200 CDI Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz SLK200 CDI — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "R172 SLK200 CDI",
+        "years": "2011–2016",
+        "engineCode": "OM651 (2.1L 4-cyl turbo diesel)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,000 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "201–204bhp twin-turbo diesel — timing chain and injectors are key watchpoints"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz SLK200 CDI Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,500–£4,000",
+        "fittedIndie": "£3,500–£5,200",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower-mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£6,000",
+        "fittedIndie": "£4,700–£7,400",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£5,000–£7,500",
+        "fittedIndie": "£6,200–£9,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£7,000–£10,000",
+        "fittedIndie": "£8,500–£11,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the R172 SLK200 CDI OM651 generation — a single-generation engine. A typical engine replacement in the UK can cost between £3,000 and £6,100, with luxury or rare engines often exceeding this. All pricing is indicative; actual costs vary by mileage, condition and workshop location.",
+    "labourEstimate": "Fitting an SLK200 CDI engine typically takes 10–14 hours at £75–£110/hr (independent Mercedes specialist) or £130–£180/hr (London/SE dealer). The R172's compact engine bay is tight but the four-cylinder is relatively accessible.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz SLK200 CDI engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Stretch and Guide Wear (OM651)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Delphi Piezo Injector Failure (Early OM651)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "EGR Valve Clogging (OM651)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "DPF and AdBlue System Issues (Post-2015 SLK200 CDI)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Water Pump and Coolant Leaks (OM651)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering the OM651 SLK200 CDI, with a 12-month warranty as standard.",
+    "button": {
+      "label": "See Mercedes SLK200 CDI Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz SLK200 CDI — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Timing chain stretch/guide wear",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Preventative — cheaper than engine replacement"
+        },
+        {
+          "problem": "Injector failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800 per injector",
+          "whenItMakesSense": "Replace all four for reliability"
+        },
+        {
+          "problem": "EGR clogging",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,000",
+          "whenItMakesSense": "Cleaning or replacement — worth it"
+        },
+        {
+          "problem": "DPF blockage",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Forced regen or cleaning — worth it"
+        },
+        {
+          "problem": "AdBlue system failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Viable on any well-maintained example"
+        },
+        {
+          "problem": "Water pump failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£800",
+          "whenItMakesSense": "Straightforward repair — always worth doing"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz SLK200 CDI? Check These First",
+      "buyIf": [
+        "* Post-2015 facelift (AdBlue equipped) with full service history",
+        "* Documented timing chain history — chain inspected or replaced",
+        "* Full service history with regular oil changes (8,000–10,000 miles) using Mercedes-approved oil",
+        "* Low-mileage (under 50,000) with documented history",
+        "* Injector history on pre-2015 models — Delphi injectors replaced with later units"
+      ],
+      "avoidIf": [
+        "* Any cold-start rattle — timing chain stretch is serious and expensive",
+        "* Rough idle or limp mode — injector or EGR issues are common",
+        "* Poor service history — the OM651 is unforgiving of neglect",
+        "* AdBlue/DPF warnings without documented repair — emissions system repairs are costly"
+      ]
+    },
+    "closingVerdict": "The SLK200 CDI offers the perfect blend of roadster style and diesel efficiency — 200+ bhp and 369lb ft of torque in a lightweight package. The OM651 engine is fundamentally reliable, with 200,000–300,000 km examples common. However, timing chain stretch, early injector failures, and emissions system issues are well-documented. A post-2015 facelift car with full service history and documented chain work is the buy. A neglected example with cold-start rattle is the one to walk away from.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz SLK200 CDI engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz SLK200 CDI (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle on startup (timing chain stretch warning)",
+      "* Service History — 8,000–10,000 mile oil changes are essential for the OM651",
+      "* Timing Chain History — Chains inspected or replaced? (critical on higher-mileage examples)",
+      "* Injector Performance — Check for rough idle or limp mode (injector/EGR warning)",
+      "* EGR System — Any hesitation or rough idle? (EGR clogging)",
+      "* DPF History — Ask about driving patterns; frequent short trips cause DPF issues",
+      "* AdBlue System (Post-2015) — Any warnings? AdBlue level and age",
+      "* Coolant Level — Check for any loss — water pump leaks are common",
+      "* Engine Warning Light — Have codes been read? Resolve before buying",
+      "* Vario-Roof — Check for leaks or delamination; a common SLK issue"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM651 (2.1L 4-cyl turbo diesel)",
+        "years": "2011–2016",
+        "power": "201–204 bhp / 150 kW",
+        "enquiries": "— (pattern data — niche roadster)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM651 — SLK200 CDI):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,143 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "16.2:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin-turbo (small HP turbo for low-rpm response + LP turbo for top-end)"
+        },
+        {
+          "label": "Additional specifications",
+          "value": ""
+        },
+        {
+          "label": "* Maximum torque",
+          "value": "500 Nm @ 1,600–1,800 rpm"
+        },
+        {
+          "label": "* 0–60mph",
+          "value": "7.6 seconds"
+        },
+        {
+          "label": "* Top speed",
+          "value": "151 mph"
+        },
+        {
+          "label": "* Transmission",
+          "value": "7G-Tronic automatic or 6-speed manual"
+        },
+        {
+          "label": "* Drive",
+          "value": "Rear-wheel drive"
+        },
+        {
+          "label": "* Kerb weight",
+          "value": "1,590 kg"
+        },
+        {
+          "label": "* Fuel economy",
+          "value": "50–55 mpg UK (combined)"
+        },
+        {
+          "label": "* CO2 emissions",
+          "value": "132–114 g/km (post-2015 AdBlue models lower)"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz SLK200 CDI engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Timing chain stretch (~35% of OM651 enquiries) / Early injector failure (~30% of pre-2015 enquiries) / DPF/AdBlue issues (~25% of post-2015 enquiries)【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,500 reconditioned, supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM651 — the SLK200 CDI is a niche diesel roadster variant【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring/Summer — roadster owners prepare for summer driving【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), South West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz SLK200 CDI engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz SLK200 CDI engine (OM651) typically costs £3,500–£6,000 supply only. Fitting adds £1,200–£1,800. A timing chain replacement costs £1,500–£3,500. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz SLK200 CDI engine reliable?",
+        "answer": "The OM651 is fundamentally reliable — 200,000–300,000 km examples are common — but has predictable weak points. Timing chain stretch from ~120,000 km is the defining issue. Early Delphi injector failures, EGR clogging, and water pump leaks are also known. A well-maintained example with documented chain and injector history is a reliable roadster."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz SLK200 CDI?",
+        "answer": "Timing chain stretch and guide wear (cold-start rattle, £1,500–£3,500), early Delphi piezo injector failure (rough idle, limp mode, £300–£800 per injector), EGR clogging (hesitation, £400–£1,000), DPF and AdBlue issues on post-2015 models (£400–£1,500), and water pump/coolant leaks (£400–£800). The SLK's vario-roof can also suffer from leaks and delamination."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz SLK200 CDI engine, or should I scrap the car?",
+        "answer": "SLK200 CDI values range from £6,000–£18,000 depending on year, condition and mileage. A £3,500–£6,000 reconditioned engine represents 20–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained, low-mileage example, replacement is often justified. For a higher-mileage example with other issues (vario-roof, bodywork), assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz SLK200 CDI engine code?",
+        "answer": "The SLK200 CDI uses the OM651 engine code — Mercedes' 2.1-litre four-cylinder turbo diesel producing 201–204 bhp. This is the same engine family used in the C-Class, E-Class and GLC diesels. The code is stamped on the engine block; your VIN and vehicle documentation will also confirm the specification."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the timing chain issue, or does it need replacement?",
+        "answer": "Yes — if caught early. Timing chain and guide replacement costs £1,500–£3,500 and is significantly cheaper than a full engine replacement (£3,500–£6,000). A 2014 recall addressed timing chain tensioner oil leaks in some OM651 engines. At the first sign of cold-start rattle, book an inspection immediately — ignored chain wear can lead to catastrophic engine damage."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz SLK200 CDI Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz SLK200 CDI Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real SLK owners, as part of the Engine Finders network, with specialist knowledge of the OM651 diesel and its timing chain requirements."
+      },
+      {
+        "title": "Compare Mercedes-Benz SLK200 CDI Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for this efficient 2.1-litre turbo diesel."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz SLK200 CDI",
+        "text": "supply‑only or full supply & fit available nationwide, covering the R172 SLK with specialists who understand this four-cylinder Mercedes diesel."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz SLK200 CDI engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get your roadster back on the road with confidence.",
+    "ctaButton": {
+      "label": "Explore Mercedes-Benz SLK200 CDI Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

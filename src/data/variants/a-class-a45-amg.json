@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "slug": "a-class-a45-amg",
+    "title": "A45 AMG Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 58,
+    "description": "Mercedes-AMG A45 – M133 and M139 engines. Real UK costs, timing chain and HPFP facts, and specialist quotes. Get free prices from 25+ vetted specialists today.",
+    "descriptionCharCount": 158,
+    "canonical": "https://mercedesengine.uk/a-class/a45-amg/",
+    "openGraph": {
+      "title": "A45 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes-AMG A45 – M133 and M139 engines. Real UK costs, timing chain and HPFP facts, and specialist quotes. Get free prices from 25+ vetted specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/a-class/a45-amg/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a45-amg.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "A45 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes-AMG A45 – M133 and M139 engines. Real UK costs, timing chain and HPFP facts, and specialist quotes.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a45-amg.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class",
+              "item": "https://mercedesengine.uk/a-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "A45 AMG",
+              "item": "https://mercedesengine.uk/a-class/a45-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-AMG A45 Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W176 A45 AMG (M133, 2013-2018)",
+              "url": "https://mercedesengine.uk/a-class/w176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W177 A45 AMG (M139, 2019-present)",
+              "url": "https://mercedesengine.uk/a-class/w177/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-AMG A45 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M133",
+              "url": "https://mercedesengine.uk/engines/m133/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M139",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-AMG A45 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M133 engine typically costs £3,500–£7,500 supply only; a reconditioned M139 costs £5,000–£12,000. Used units are available from £2,000–£4,500. Fitting adds £1,500–£2,500. W176 A45 engine replacement costs are 'into five figures'. Use our calculator for a figure specific to your A45."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-AMG A45 engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The A45's engines are highly-strung performance units — they produce over 190 hp per litre. Reliability depends entirely on maintenance history. Known issues include timing chain stretch, HPFP failure, turbo oil feed problems (early 2014 cars), and carbon build-up (M139). With 10,000-mile service intervals and 98/99 RON fuel, they can be reliable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-AMG A45?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing chain stretch and guide wear (the most critical issue), high-pressure fuel pump failure (power loss under load), turbocharger oil feed issues (early 2014 cars — subject to recall), carbon build-up on intake valves (M139), cooling system leaks (water pump and thermostat housing), and 7-speed DCT gearbox issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-AMG A45 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A45 values remain strong — a well-kept W176 is often worth £12,000–£25,000, while W177 cars fetch £25,000–£45,000+. A £3,500–£12,000 reconditioned engine is 15–40% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example, replacement is often worthwhile."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-AMG A45 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. W176 A45 (2013–2018) uses M133; W177 A45 (2019+) uses M139. Tell us your registration date and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the M133/M139 timing chain, or does the engine need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The timing chain and tensioner can be replaced preventatively — they are wear items. Replacement costs £1,500–£3,500. If the chain fails and jumps timing, the engine is typically destroyed. A preventative tensioner replacement is far cheaper than a full engine replacement (£3,500+). At the first sign of rattling from the front of the engine, book an inspection immediately."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-AMG A45 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2000",
+            "highPrice": "12000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-AMG A45 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-AMG A45 engines (M133, M139), sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "A45 AMG Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/a-class/a45-amg/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-AMG A45 • 2013–present • 2 Engine Generations",
+    "h1": "Mercedes-AMG A45 Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "The A45 AMG is powered by the world's most powerful production four-cylinder engines — the M133 in the original and the hand-built M139 in the current car. Both deliver astonishing performance, but timing chain stretch, turbo oil feed issues and high-pressure fuel pump failures are well-documented. Get quotes from UK specialists for reconditioned, rebuilt and used units today.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-AMG A45 Engines — from £2,000 to £12,000 · Common codes: M133, M139",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free A45 AMG Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The A45 AMG THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [],
+    "sourceNote": "",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-AMG A45 Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,000–£4,500",
+        "fittedIndie": "£4,000–£6,500",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower‑mileage examples"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£7,500",
+        "fittedIndie": "£5,500–£9,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£6,000–£12,000",
+        "fittedIndie": "£8,000–£14,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£10,000–£15,000+",
+        "fittedIndie": "£12,000–£18,000+",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the current A45 AMG market. W176 M133 engines sit at the lower end of the range; W177 M139 engines command a premium. W176 A45 engine replacement costs are \"into five figures\". Reconditioned M139 units are significantly more expensive due to their complexity and hand-built nature.",
+    "labourEstimate": "Fitting an A45 AMG engine typically takes 12–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). The transverse layout and complex turbo/ancillary packaging make it a specialist job.",
+    "cta": {
+      "label": "→ Compare A45 AMG engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Stretch and Guide Wear (M133 and M139)",
+        "symptoms": "Rattling noise on cold start, metallic ticking from the front of the engine, delayed starting, engine warning light, cam timing errors, \"check engine\" light",
+        "typicalMileage": "60,000–100,000 miles",
+        "repairCost": "£1,500–£3,500 (timing chain, tensioner and guide replacement)",
+        "replacementCost": "£3,500–£7,500 (if chain jumps and causes valve interference)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if the timing chain fails, the engine is typically destroyed"
+        },
+        "recommendation": "The M133 and M139 engines are highly strung, producing over 190 hp per litre. This puts immense strain on the timing chain and tensioner system. One W176 A45 owner reported a timing chain that had \"stretched and guides worn, cams misalignment and high pressure petrol pump faulty\" — the whole cost was \"equating to replacement engine\". If you hear rattling on cold start, book an inspection immediately. Preventative timing chain replacement is far cheaper than a full engine replacement. Regular oil changes (every 10,000 miles) are essential.",
+        "failureLink": {
+          "label": "Read the full timing chain failure guide",
+          "href": "/failures/timing-chain-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "High-Pressure Fuel Pump (HPFP) Failure (M133 and M139)",
+        "symptoms": "Sudden loss of power under load (uphill or overtaking), check engine light, normal operation after restart, rough idle, over-fuelling",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£800–£2,000 (HPFP replacement)",
+        "replacementCost": "£3,500–£7,500 (if pump failure causes engine damage)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently"
+        },
+        "recommendation": "High-pressure fuel pump failure is a well-documented issue on both M133 and M139 engines. One owner had their dealership replace both low-pressure and high-pressure pumps, only for the new high-pressure pump to fail again. Symptoms include sudden power loss under load and a check engine light that clears after a restart. If you experience any hesitation or power loss, have the fuel system inspected. Using high-quality fuel (98/99 RON) is essential — the A45 \"runs like a pig on 95\".",
+        "failureLink": {
+          "label": "Read the full fuel pump failure guide",
+          "href": "/failures/high-pressure-fuel-pump-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Turbocharger Oil Feed Issues (Early M133 — 2014)",
+        "symptoms": "Whistling or grinding noise from the turbo, loss of power, excessive smoke, turbo wear",
+        "typicalMileage": "30,000–60,000 miles",
+        "repairCost": "£1,500–£3,500 (turbocharger replacement)",
+        "replacementCost": "£3,500–£7,500 (if turbo failure causes engine damage)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "early 2014 A45s suffered from oil feed issues to the turbocharger"
+        },
+        "recommendation": "Early 2014 A45s suffered from a design flaw where the turbocharger lacked an anti-surge valve. Pressure could only escape through the turbo impeller, causing it to wear. Mercedes issued a recall to address this, so check if the work has been done. If you notice any whistling, grinding or loss of power from the turbo, have it inspected immediately. A failing turbo can send debris through the engine, destroying it.",
+        "failureLink": {
+          "label": "Read the full turbocharger failure guide",
+          "href": "/failures/turbocharger-failure/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every A-Class AMG engine era covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free A45 AMG Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "A45 AMG — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Timing chain tensioner (preventative)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Labour-intensive but far cheaper than a full engine replacement"
+        },
+        {
+          "problem": "Timing chain failure (engine damage)",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "If chain jumps and valves hit pistons, replacement is the only option"
+        },
+        {
+          "problem": "HPFP failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Replacement — catch before engine damage"
+        },
+        {
+          "problem": "Turbo oil feed issue (2014 recall)",
+          "repairable": "✅ Yes",
+          "typicalCost": "Free (under recall)",
+          "whenItMakesSense": "Check if recall has been completed"
+        },
+        {
+          "problem": "Carbon build-up (M139)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Walnut blasting — well-understood by AMG specialists"
+        },
+        {
+          "problem": "Cooling system leaks",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Water pump and thermostat housing are known failure points"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This A45 AMG? Check These First",
+      "buyIf": [
+        "* 2016+ facelift W176 — later cars have improved turbo components and revised gearbox ratios",
+        "* W177 with comprehensive warranty — M139 engines are complex and expensive to repair",
+        "* Evidence of 10,000-mile service intervals — essential for these highly-strung engines",
+        "* Turbo recall work completed on early 2014 cars — check the service history",
+        "* Full service history with correct 98/99 RON fuel used"
+      ],
+      "avoidIf": [
+        "* Any rattling from the front of the engine — timing chain wear is likely",
+        "* Early 2014 car with no proof of turbo recall work — oil feed issues are a known risk",
+        "* Evidence of repeated HPFP failures — suggests a deeper fuel system issue",
+        "* Poor service history — these engines are unforgiving of long oil change intervals",
+        "* Any \"check engine\" light without a clear diagnosis"
+      ]
+    },
+    "closingVerdict": "The A45 AMG is a genuine performance icon — the world's most powerful production four-cylinder in its day, and still one of the most exciting hot hatches ever built. But these are highly-strung engines that demand meticulous maintenance. Timing chain wear, HPFP failures, and turbo oil feed issues (on early cars) are well-documented. Buy on history, maintain religiously with 10,000-mile service intervals, and use 98/99 RON fuel. Skip the maintenance and it will punish you.",
+    "cta": {
+      "label": "→ Compare A45 AMG engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-AMG A45 (or before you commit to an engine replacement), check these:",
+    "items": [
+      "1. Cold Start — Listen for rattles from the front of the engine (timing chain tensioner warning)",
+      "2. Service History — including which generation (W176 or W177) and evidence of 10,000-mile service intervals",
+      "3. Turbo Recall (2014) — Has the turbo oil feed recall been completed?",
+      "4. Fuel System — Any history of power loss under load or HPFP replacement?",
+      "5. Coolant Level — Any unexplained loss? (water pump or thermostat housing warning)",
+      "6. Gearbox — Any crunching in reverse or jerky downshifts? (7-speed DCT can be problematic)",
+      "7. Engine Warning Light — Have codes been read? Any unresolved issues?",
+      "8. Fuel Type — Has the car been run on 98/99 RON? (95 RON causes poor running)"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M133",
+        "years": "2013–2018",
+        "power": "355–381 PS",
+        "enquiries": "[PATTERN DATA]",
+        "avgReconCost": "£3,500–£7,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M139",
+        "years": "2019–present",
+        "power": "382–421 PS",
+        "enquiries": "[PATTERN DATA]",
+        "avgReconCost": "£5,000–£12,000 [MB-QUOTE]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly — two engine families across the A45 AMG's history.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M139 — current generation):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,991cc (2.0‑litre)"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "9.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single twin-scroll turbocharger (reverse-mounted)"
+        },
+        {
+          "label": "* Valvetrain",
+          "value": "DOHC, 4 valves per cylinder, timing chain"
+        },
+        {
+          "label": "* Construction",
+          "value": "Hand-built \"one man, one engine\""
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare A45 AMG engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": []
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [
+      {
+        "title": "Trusted A45 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real A45 AMG owners, as part of the Engine Finders network, across both the M133 and M139 generations — no matter which A45 era you drive."
+      },
+      {
+        "title": "Compare A45 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with specialists who genuinely understand the M133/M139's timing chain, HPFP, and turbo nuances."
+      },
+      {
+        "title": "UK Engine Replacement Services for A45 AMG",
+        "text": "supply‑only or full supply & fit available nationwide, covering Mercedes-AMG's most powerful four-cylinders with a 12‑month warranty as standard."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-AMG A45 engine replacement UK drivers rely on. Compare prices from trusted specialists on MercedesEngine.uk today and keep your AMG performing at its best.",
+    "ctaButton": {
+      "label": "Compare Mercedes-AMG A45 Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

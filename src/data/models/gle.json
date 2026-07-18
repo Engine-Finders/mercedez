@@ -1,0 +1,734 @@
+{
+  "meta": {
+    "slug": "gle",
+    "title": "GLE Engines — The Complete UK Guide",
+    "titleCharCount": 35,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz • GLE • 1997–present • 4 Generations • M276 • OM642 • OM654 • OM656 • M177",
+    "h1": "GLE Engines — The Complete UK Guide",
+    "subHeadline": "Every GLE engine — from the original M-Class W163 to the latest V167 — across four generations of Mercedes-Benz’s mid-size luxury SUV. Real UK costs, reliability data and ownership verdicts for the W163 (1997–2005), W164 (2005–2011), W166 (2012–2019) and V167 (2020–present). Backed by real UK enquiry data from Mercedes-Benz owners in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Real UK Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "4 Generations Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "10+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore GLE Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "GLE — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "✅ The GLE rule: generation and engine are everything — a V167 host comfortably justifies replacement; a W163 or early W164 often doesn't. The OM642 V6 diesel is the workhorse to buy; the M276 V6 petrol has a timing chain caveat"
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM642 — the 3.0L V6 diesel workhorse; 880 UK enquiries in 2025, well‑understood oil cooler seal weakness but fundamentally robust [MB-VERIFIED]"
+      },
+      {
+        "metric": "Highest‑Risk Engine",
+        "ourCall": "M276 — 3.0L/3.5L V6 petrol with timing chain stretch on earlier examples; 390 UK enquiries in 2025 [MB-VERIFIED]"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "W166 (2015–2019) GLE 350d with OM642 — the facelifted M‑Class renamed GLE, with the proven V6 diesel and values that have absorbed steep depreciation"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£1,800–£8,000 supply‑only [MB-QUOTE]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "OM642 oil cooler seal leak — 880 UK enquiries in 2025 [MB-VERIFIED]"
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "🥇 The mid‑size SUV benchmark — the GLE is Mercedes’ best‑selling large SUV, offering the space and capability that made the M‑Class a legend, now with modern refinement"
+      }
+    ],
+    "oneLineVerdict": ""
+  },
+  "atAGlance": {
+    "h2": "GLE at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "4 (W163 1997–2005, W164 2005–2011, W166 2012–2019, V167 2020–present)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "1997–present"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "10+"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Petrol, Diesel, Petrol Hybrid, Diesel Hybrid"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM642 — 880 enquiries across GLE/C‑Class/E‑Class/GLC/Sprinter [MB-VERIFIED]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM642 — 3.0L V6 diesel with proven long‑term durability"
+      },
+      {
+        "metric": "Highest‑Risk",
+        "value": "M276 — timing chain stretch on earlier examples"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£1,800–£8,000 supply‑only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "W163: £1,500–£5,000 • W164: £3,000–£10,000 • W166: £6,000–£22,000 • V167: £18,000–£80,000+ [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★★☆"
+      },
+      {
+        "metric": "SECTION 4 — GENERATIONS — <GenerationsGrid>",
+        "value": "H2: GLE Generations — Find Your Vehicle"
+      },
+      {
+        "metric": "Sub-headline: Four generations, four very different ownership stories — from the body‑on‑frame original to the latest high‑tech luxury SUV.",
+        "value": "First Generation — W163 M‑Class (1997–2005)"
+      },
+      {
+        "metric": "[1997–2005] • M112 3.2 V6 petrol • M113 4.3/5.0 V8 petrol • OM612/OM647 2.7/3.2 diesel",
+        "value": "★★★☆☆"
+      },
+      {
+        "metric": "Our Verdict: The original M‑Class — body‑on‑frame, genuinely capable off‑road, and built in Alabama. Parts are cheap and widely available, but values are low; a £2,000–£5,000 engine replacement can easily exceed the car's value. Buy only as a keeper or project, not as a daily driver where a major failure would be terminal.",
+        "value": "Explore W163 →"
+      },
+      {
+        "metric": "Second Generation — W164 M‑Class (2005–2011)",
+        "value": "[2005–2011] • M272 3.5 V6 petrol • M273 5.5 V8 petrol • OM642 3.0 V6 diesel"
+      },
+      {
+        "metric": "★★★☆☆",
+        "value": "Our Verdict: The unibody W164 moved the M‑Class firmly into the luxury SUV segment. The OM642 V6 diesel is the engine to seek — robust and well‑understood. The M272/M273 petrol V6/V8 engines have balance‑shaft and timing chain issues that can be costly. Values are low enough that a full recon often fails the 70% threshold."
+      },
+      {
+        "metric": "Explore W164 →",
+        "value": "Third Generation — W166 GLE (2012–2019) 🔥 Most Enquired — data aggregated from shared engines [MB-VERIFIED]"
+      },
+      {
+        "metric": "[2012–2019] • M276 3.0 V6 petrol • OM642 3.0 V6 diesel • OM651 2.1 diesel • M157/M156 AMG V8s",
+        "value": "★★★★☆"
+      },
+      {
+        "metric": "Our Verdict: The W166 is the GLE sweet spot — renamed from M‑Class in 2015, it offers the proven OM642 diesel, the refined M276 petrol (post‑2016 facelift is safer), and values that have absorbed the steepest depreciation. The OM651 diesel is cheaper but carries the “Black Death” injector‑seal caveat. This is the best used GLE you can buy.",
+        "value": "Explore W166 →"
+      },
+      {
+        "metric": "Fourth Generation — V167 GLE (2020–present)",
+        "value": "[2020–present] • OM654 2.0 diesel • OM656 3.0 diesel • M256 3.0 petrol • M177 AMG V8 • EQ hybrids"
+      },
+      {
+        "metric": "★★★★☆",
+        "value": "Our Verdict: The modern V167 is larger, more luxurious, and packed with technology — but the complexity is real. The OM654 diesel is reliable; the OM656 six‑cylinder diesel and M256 petrol are impressive but untested long‑term. The 48‑volt mild‑hybrid systems add a layer of potential expense. Buy new or nearly‑new with warranty; used examples need a thorough specialist inspection."
+      },
+      {
+        "metric": "Explore V167 →",
+        "value": "Comparison: W166 vs V167 — which generation should you buy?"
+      },
+      {
+        "metric": "W166 (2012–2019)",
+        "value": "V167 (2020–present)"
+      },
+      {
+        "metric": "Best diesel",
+        "value": "OM642 3.0 V6 — proven, robust, 880 enquiries"
+      },
+      {
+        "metric": "OM654 2.0 — clean, modern, lower maintenance",
+        "value": "Best petrol"
+      },
+      {
+        "metric": "M276 (post‑2016) — refined, known issues",
+        "value": "M256 3.0 — advanced, complex"
+      },
+      {
+        "metric": "Avoid",
+        "value": "Pre‑2016 M276 without chain history"
+      },
+      {
+        "metric": "Early OM656 without full service history",
+        "value": "Verdict"
+      },
+      {
+        "metric": "✅ Best value — the smart used buy",
+        "value": "⚠️ Modern choice — budget for warranty"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "",
+    "subHeadline": "",
+    "cards": [],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "GLE Engine Codes — The Complete Database",
+    "subHeadline": "Every verified GLE engine code — generation, fuel, power, reliability rating and real UK enquiry data.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M112",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "3.2L",
+        "power": "215–218 hp",
+        "years": "1997–2005",
+        "model": "W163",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "4.3/5.0L",
+        "power": "272–347 hp",
+        "years": "1997–2005",
+        "model": "W163",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,000–£4,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM612/OM647",
+        "family": "OM612",
+        "fuel": "Diesel",
+        "displacement": "2.7/3.2L",
+        "power": "156–204 hp",
+        "years": "1997–2005",
+        "model": "W163",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,800–£3,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272",
+        "family": "M272",
+        "fuel": "Petrol",
+        "displacement": "3.5L",
+        "power": "268 hp",
+        "years": "2005–2011",
+        "model": "W164",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,800–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M273",
+        "family": "M273",
+        "fuel": "Petrol",
+        "displacement": "5.5L",
+        "power": "382–388 hp",
+        "years": "2005–2011",
+        "model": "W164",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642",
+        "family": "OM642",
+        "fuel": "Diesel",
+        "displacement": "3.0L V6",
+        "power": "190–258 hp",
+        "years": "2005–2019",
+        "model": "W164/W166",
+        "reliability": "★★★★★",
+        "enquiries": "880 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,200–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651",
+        "family": "OM651",
+        "fuel": "Diesel",
+        "displacement": "2.1L",
+        "power": "204 hp",
+        "years": "2012–2019",
+        "model": "W166",
+        "reliability": "★★★☆☆",
+        "enquiries": "1,250 [MB-VERIFIED]",
+        "avgRebuildCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M276",
+        "family": "M276",
+        "fuel": "Petrol",
+        "displacement": "3.0/3.5L",
+        "power": "333–367 hp",
+        "years": "2012–2019",
+        "model": "W166",
+        "reliability": "★★★★☆",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,800–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M157",
+        "family": "M157",
+        "fuel": "Petrol",
+        "displacement": "5.5L V8",
+        "power": "525–557 hp",
+        "years": "2012–2019",
+        "model": "W166 (AMG)",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£5,000–£8,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M156",
+        "family": "M156",
+        "fuel": "Petrol",
+        "displacement": "6.2L V8",
+        "power": "510 hp",
+        "years": "2012–2019",
+        "model": "W166 (AMG)",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£5,500–£9,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654",
+        "family": "OM654",
+        "fuel": "Diesel",
+        "displacement": "2.0L",
+        "power": "197–269 hp",
+        "years": "2020–present",
+        "model": "V167",
+        "reliability": "★★★★★",
+        "enquiries": "520 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,000–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM656",
+        "family": "OM656",
+        "fuel": "Diesel",
+        "displacement": "3.0L I6",
+        "power": "286–330 hp",
+        "years": "2020–present",
+        "model": "V167",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£4,500–£7,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M256",
+        "family": "M256",
+        "fuel": "Petrol",
+        "displacement": "3.0L I6",
+        "power": "362–435 hp",
+        "years": "2020–present",
+        "model": "V167",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177",
+        "family": "M177",
+        "fuel": "Petrol",
+        "displacement": "4.0L V8",
+        "power": "550–603 hp",
+        "years": "2020–present",
+        "model": "V167 (AMG)",
+        "reliability": "★★★★☆",
+        "enquiries": "370 [MB-VERIFIED]",
+        "avgRebuildCost": "£8,000–£14,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM642, OM651, M276 and M177 ratings: 95% confidence — based on 880, 1,250, 390 and 370 [MB-VERIFIED] enquiries respectively, cross‑referenced with Mercedes TSBs and specialist interviews. OM654 rating: 90% confidence — based on 520 [MB-VERIFIED] enquiries. OM656, M256 and heritage engine ratings: Expert‑knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: OM642 was listed in some sources as a 3.0L V6 diesel for the W164 only — verified as spanning W164, W166 and Sprinter, with 880 UK enquiries in 2025 [MB-VERIFIED]. [Fix at source: update generation coverage.] Correction applied: M276 is the correct V6 petrol for the W166 GLE 400/450 — not M278 (which is the 4.7L V8 fitted to the GLE 500). M276 generated 390 UK enquiries in 2025 [MB-VERIFIED]. [Fix at source: update engine code attribution.] No further corrections needed — source data matched live verification for all other engine codes."
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common GLE Engine Problems",
+    "subHeadline": "The six most common GLE failure patterns — from OM642 oil cooler seals to M276 timing chain stretch — ranked by severity.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "OM642 oil cooler seal leak",
+        "description": "The V6 diesel's primary weak point — an O‑ring fails in the “V” of the engine, requiring significant disassembly to access. W164 and W166 GLE 350d/250d affected. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "M276 timing chain stretch",
+        "description": "Chain stretch on earlier W166 examples (pre‑2016) — well‑understood and rarely catastrophic if caught early. GLE 400/450 affected. £1,500–£2,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "OM651 “Black Death” injector seal failure",
+        "description": "Copper injector seals degrade, leaking combustion gases into a carbon “tar” that can weld the injector into the head. W166 GLE 250d affected. £400–£1,200 seal repair; up to full engine replacement if neglected [MB-QUOTE].",
+        "severity": {
+          "icon": "🔴",
+          "label": "Catastrophic if Ignored",
+          "type": "catastrophic"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "M272/M273 balance shaft failure",
+        "description": "The balance shaft sprocket wears prematurely, causing timing issues and potential catastrophic failure. W164 petrol M‑Class affected (pre‑2008). £2,000–£4,000 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "OM654 rocker arm wear (V167)",
+        "description": "The 2.0‑litre diesel can suffer from rocker arm and camshaft wear, causing irregular idle and a “plop” noise from the air intake system. V167 GLE 300d affected. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "48V mild‑hybrid system failures (V167)",
+        "description": "The EQ Boost 48V system can experience battery, starter‑generator or cooling pump issues — expensive and specialist‑only. V167 GLE 450/53 affected. £1,000–£3,000+ repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "GLE Market Intelligence — What UK Owners Told Us in 2025",
+    "signals": [
+      {
+        "signal": "OM642 diesel enquiries (GLE + C‑Class/E‑Class/GLC/Sprinter)",
+        "data": "880 [MB-VERIFIED]",
+        "demandTrend": "➡️ Stable"
+      },
+      {
+        "signal": "OM651 diesel enquiries",
+        "data": "1,250 [MB-VERIFIED]",
+        "demandTrend": "⬇️ Falling"
+      },
+      {
+        "signal": "OM654 diesel enquiries (V167 GLE 300d)",
+        "data": "520 [MB-VERIFIED]",
+        "demandTrend": "⬆️ Rising"
+      },
+      {
+        "signal": "M276 petrol enquiries",
+        "data": "390 [MB-VERIFIED]",
+        "demandTrend": "➡️ Stable"
+      }
+    ],
+    "insights": [
+      "“Interesting insight:” The OM642 V6 diesel — fitted to the W164 and W166 GLE 350d/250d — generated 880 UK enquiries in 2025, making it the second most‑enquired Mercedes diesel after the OM651 [MB-VERIFIED]. The vast majority relate to the oil cooler seal leak — a labour‑intensive but well‑understood repair. Unlike the OM651’s “Black Death” injector seal failure, the OM642’s weakness is rarely catastrophic if caught early. This makes the W166 GLE 350d the smartest used buy in the range.",
+      "The W166 generation (2012–2019) accounts for the majority of GLE‑specific buyer interest, driven by values that have absorbed steep depreciation while still offering modern luxury and the proven OM642 diesel. The post‑2015 facelift (which renamed M‑Class to GLE) is the sweet spot — updated electronics, improved interior, and the M276 petrol’s timing chain issues largely resolved.",
+      "The V167 generation (2020–present) is increasingly popular but carries more complex and expensive powertrains — the OM656 six‑cylinder diesel, the M256 petrol with 48V hybrid, and the M177 AMG V8. Early examples are beginning to appear on the used market, but buyers should budget for a thorough specialist inspection and consider extended warranty. The OM654 four‑cylinder diesel is the safest V167 engine choice for reliability and running costs."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We’d Tell Every GLE Buyer",
+    "quote": "Buy a 2015–2019 W166 GLE 350d with the OM642 V6 diesel — it’s the most reliable, best‑value GLE you can own. The oil cooler seal is a known, manageable £800–£1,500 repair, not a reason to avoid the car. If your budget stretches to a V167, choose the OM654 diesel and insist on full service history — the more complex OM656 and M256 engines are impressive but untested long‑term."
+  },
+  "replacementCosts": {
+    "h2": "GLE Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for every GLE engine — used, reconditioned and rebuilt supply-only costs, with independent labour guidance.",
+    "tables": [
+      {
+        "title": "",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a GLE engine typically takes 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The GLE rule — generation and engine are everything: A £3,200–£5,500 OM642 recon against a £6,000–£22,000 W166 GLE sits at 25–50% of the car's value — well below our 70% threshold for Mercedes-Benz. That's why the W166 350d is our top used recommendation. By contrast, a £3,200–£5,500 OM642 recon against a £3,000–£6,000 W164 M‑Class sits at 50–90% of the car's value — borderline to terminal on lower-value examples. An OM651 recon against a £4,000–£8,000 W166 GLE 250d sits at 60–80% — watch the numbers. The V167's £8,000–£14,000 M177 AMG recon against a £30,000–£80,000+ car is comfortably safe. In short: fix a W166 350d, evaluate a W164 diesel carefully, and walk away from a W163 with a major failure unless it's a keeper or project.",
+    "labourEstimate": "Fitting a GLE engine typically takes 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The GLE rule — generation and engine are everything: A £3,200–£5,500 OM642 recon against a £6,000–£22,000 W166 GLE sits at 25–50% of the car's value — well below our 70% threshold for Mercedes-Benz. That's why the W166 350d is our top used recommendation. By contrast, a £3,200–£5,500 OM642 recon against a £3,000–£6,000 W164 M‑Class sits at 50–90% of the car's value — borderline to terminal on lower-value examples. An OM651 recon against a £4,000–£8,000 W166 GLE 250d sits at 60–80% — watch the numbers. The V167's £8,000–£14,000 M177 AMG recon against a £30,000–£80,000+ car is comfortably safe. In short: fix a W166 350d, evaluate a W164 diesel carefully, and walk away from a W163 with a major failure unless it's a keeper or project.",
+    "economicsBox": {
+      "title": "",
+      "text": ""
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the GLE Engine Range Evolved — 1997 to Today",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "First Generation — Body‑on‑Frame Off‑Roader",
+        "years": "1997–2005",
+        "keyEngines": "M112 3.2 V6, M113 4.3/5.0 V8, OM612/OM647 2.7/3.2 diesel",
+        "whyBmwChanged": "Mercedes launched the M‑Class as its first SUV, built in Alabama with body‑on‑frame construction — engines were carried over from the E‑Class and S‑Class of the era, tuned for off‑road torque rather than on‑road performance",
+        "worthKnowing": "The OM612 2.7 CDI is the engine to seek in a W163 — it's the most fuel‑efficient and has the fewest major failure reports. The V8s are thirsty and expensive to fix if they go wrong"
+      },
+      {
+        "era": "Second Generation — Unibody Luxury SUV",
+        "years": "2005–2011",
+        "keyEngines": "M272 3.5 V6, M273 5.5 V8, OM642 3.0 V6",
+        "whyBmwChanged": "The W164 moved to unibody construction and became a genuine luxury SUV. The OM642 V6 diesel was introduced — it would become the defining engine of the M‑Class/GLE range. Petrol V6/V8 carried over but with updated electronics",
+        "worthKnowing": "The OM642 made its debut in the W164 — it's the most reliable engine in this generation. The M272 V6 has a known balance‑shaft issue on pre‑2008 examples; avoid them unless it's been replaced"
+      },
+      {
+        "era": "Third Generation — The GLE Renaming",
+        "years": "2012–2019",
+        "keyEngines": "M276 3.0 V6, OM651 2.1, OM642 3.0 V6, M157/M156 AMG",
+        "whyBmwChanged": "The W166 was facelifted and renamed from M‑Class to GLE in 2015 — a marketing change rather than an engineering one. The OM651 four‑cylinder diesel was added for economy, while the OM642 remained the V6 workhorse. The M276 replaced the M272 in petrol models",
+        "worthKnowing": "The 2015 facelift is the dividing line — pre‑facelift W166 (2012–2014) carries more M276 timing chain risk; post‑facelift (2015–2019) is the sweet spot. The OM651 diesel is cheaper but carries the “Black Death” caveat"
+      },
+      {
+        "era": "Fourth Generation — Complex Modern Luxury",
+        "years": "2020–present",
+        "keyEngines": "OM654 2.0, OM656 3.0 I6, M256 3.0 I6, M177 4.0 V8, EQ Hybrids",
+        "whyBmwChanged": "The V167 is an all‑new platform with electrification baked in — 48V mild hybrid across the range, plus plug‑in hybrids. The OM656 inline‑six diesel and M256 inline‑six petrol are new, replacing the V6s. Complexity has increased significantly",
+        "worthKnowing": "The OM654 four‑cylinder diesel is the safest V167 engine choice — simpler, proven, and with lower running costs. The OM656 and M256 are impressive but specialist‑only territory. 48V system issues are increasingly common and expensive"
+      },
+      {
+        "era": "SECTION 10 — WHO SHOULD BUY A GLE? — <WhoShouldBuy>",
+        "years": "H2: Who Should Buy a GLE?",
+        "keyEngines": "Buyer Profile",
+        "whyBmwChanged": "Rating",
+        "worthKnowing": "Our Verdict"
+      },
+      {
+        "era": "Family Buyer",
+        "years": "★★★★☆",
+        "keyEngines": "The GLE is one of the best family SUVs Mercedes makes — 5‑seat standard, optional 7‑seat on the W166 and V167, massive boot, and excellent towing capability. Buy a W166 350d (OM642) for the sweet spot of space, safety and value. The V167 is more luxurious but more expensive to maintain.",
+        "whyBmwChanged": "Daily Commuter",
+        "worthKnowing": "★★★★☆"
+      },
+      {
+        "era": "The GLE is a large, comfortable cruiser — not a city car. If your commute is motorway miles, the OM642 diesel (W166) or OM654 diesel (V167) will return 35–45 mpg and eat the miles in silence. For urban commutes, consider a GLC instead — the GLE is too big for tight city streets.",
+        "years": "Budget Owner",
+        "keyEngines": "⚠️ ★★★☆☆",
+        "whyBmwChanged": "A W163 or W164 M‑Class is the most affordable way into a luxury SUV — but a £2,000–£4,000 W164 with an OM642 can be a genuine bargain if it's been well‑maintained. Buy on condition and service history, not mileage. Avoid W163 V8s unless you can afford the fuel and repair bills.",
+        "worthKnowing": "Towing & Working Use"
+      },
+      {
+        "era": "★★★★★",
+        "years": "The GLE is a towing champion — the OM642 diesel and OM656 diesel produce 500–700Nm of torque, and the W166/V167 have 3,500kg towing capacity. If you're towing a caravan, horsebox or trailer, the GLE 350d is one of the best SUVs on the market. Keep the servicing strict and it will tow for decades.",
+        "keyEngines": "Collector / Keeper",
+        "whyBmwChanged": "★★★★☆",
+        "worthKnowing": "If you're keeping a GLE long‑term, buy a 2015–2019 W166 350d with the OM642 V6 diesel — it's the last of the simple, proven, non‑hybrid V6 diesels. The electronic complexity of the V167 is a long‑term risk; the W164 is too old for daily use. The W166 350d is the Goldilocks GLE."
+      },
+      {
+        "era": "SECTION 11 — REPAIR OR REPLACE? — <CalculatorCTA>",
+        "years": "H2: Can I Repair My GLE Engine — or Should I Replace It?",
+        "keyEngines": "If you've got a W164 M‑Class with an OM642 V6 diesel, the numbers can be tight — a £3,200–£5,500 recon against a £3,000–£6,000 car means replacement cost can exceed 70% of the car's value. For a W166 GLE 350d, replacement is comfortably within the car's value. Use our diagnostic calculator to get a personalised verdict.",
+        "whyBmwChanged": "Path 1 — Know your engine? Launch the Mercedes calculator with GLE pre-selected → /fault-diagnostic-calculator?model=gle",
+        "worthKnowing": "Path 2 — Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)"
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "",
+    "columns": [],
+    "profiles": []
+  },
+  "calculatorCta": {
+    "h2": "",
+    "intro": "",
+    "paths": []
+  },
+  "trustBlock": {
+    "h2": "Why GLE Owners Trust mercedesengine.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range on this page comes from genuine UK quote and enquiry data — not manufacturer marketing, not forum guesswork. The OM642, OM651, M276 and OM654 figures are [MB-VERIFIED] from real 2025 UK enquiries."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "If replacement cost exceeds 70% of what your GLE is worth, we say so. That's why the W164 M‑Class with OM642 carries a warning — not every site tells you when repair doesn't make financial sense."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on GLE engines daily — from OM642 oil cooler seal repairs to OM656 six‑cylinder diagnostics. Every specialist is vetted specifically for Mercedes-Benz work, not generalists who happen to take on Mercedes jobs."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "GLE Frequently Asked Questions",
+    "items": []
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore GLE Generations",
+        "text": "Compare the W163, W164, W166 and V167 side‑by-side.",
+        "href": "/gle/generations/"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My GLE",
+        "text": "Answer a few questions about your symptoms and get a personalised repair‑vs‑replace verdict.",
+        "href": "/fault-diagnostic-calculator?model=gle"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get quotes from 25+ vetted Mercedes‑Benz specialists who work on GLE engines daily.",
+        "href": "/quotes/?model=gle"
+      }
+    ],
+    "footerNote": ""
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "meta": {
+    "slug": "slk-slk250-350",
+    "title": "SLK250/350 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "Mercedes SLK250 & SLK350 engines — M271 and M272. Real UK costs, timing chain & balance shaft insight, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "canonical": "https://mercedesengine.uk/slk/slk250-350/",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLK",
+              "item": "https://mercedesengine.uk/slk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "SLK250 / SLK350",
+              "item": "https://mercedesengine.uk/slk/slk250-350/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes SLK250/SLK350 Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "R172 SLK250 (M271, 2011–2016)",
+              "url": "https://mercedesengine.uk/slk/r172/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "R171/R172 SLK350 (M272, 2004–2016)",
+              "url": "https://mercedesengine.uk/slk/r171/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes SLK250/SLK350 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M271 DE18 AL (1.8L 4-cyl Turbo)",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M272 (3.0-3.5L V6)",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes SLK250 or SLK350 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned SLK engine typically costs £3,000–£6,000 supply only depending on which engine you have. Used M271 engines are available from approximately £1,500–£3,500. A full engine replacement can run anywhere between £1,500 and £5,000 on average. Fitting adds £1,000–£1,600 depending on your location and workshop. Main dealer new engines are no longer available."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes SLK250 or SLK350 engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on which engine you have. The M271 (SLK250) is notorious for timing chain elongation and camshaft adjuster oil leaks that can damage the ECU. The M272 V6 (SLK350) is a smooth, refined engine, but early models (pre-2008) are prone to balance shaft gear failure that can lead to terminal timing chain failure. Later M272 engines (post-2008) and R172 generation SLK350s are significantly more reliable. With proper maintenance, these engines can be very durable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes SLK250 and SLK350?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "SLK250 (M271): Timing chain elongation and tensioner failure (rattling on cold start), camshaft adjuster failure, oil leaks from camshaft adjuster solenoids that can damage the ECU, blue smoke on startup, HPFP issues, and ignition coil failures. SLK350 (M272): Balance shaft gear failure on early models (pre-2008) — check engine light, rough running, rattle, intake manifold tumble flap failure, and oil leaks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes SLK engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value and condition. Against a well-kept £15,000 SLK350, a £5,000 recon is 33% — worth it. Against a tired £5,000 example, the same recon approaches our 70% Mercedes threshold — get a scrap valuation first. Well-maintained SLKs are appreciating — a proper restoration is often justified for a clean example."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes SLK250 or SLK350 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. SLK250 (2011–2016): M271 DE18 AL. SLK350 (2004–2016): M272. The badge on the tailgate and the generation (R171 or R172) are the easiest tells — 'SLK 250' for the four-cylinder turbo, 'SLK 350' for the V6."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the timing chain on the M271, or does it need full engine replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — if caught early. A preventative timing chain and tensioner replacement costs £800–£2,000. The M271 is notorious for timing chain elongation, often caused by a failing tensioner. If the chain stretches beyond tolerance or the tensioner fails, the consequences range from misfires and cam/crank correlation codes to catastrophic engine damage if the chain jumps a tooth or snaps. At the first sign of cold-start rattle, book an inspection immediately. Regular oil changes using MB 229.5 spec oil are the single most effective preventative measure. For the early M272, balance shaft replacement is a more complex repair costing £1,500–£4,000."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes SLK250/SLK350 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "7500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes SLK250/SLK350 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes SLK250 and SLK350 engines — M271 and M272 — sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "SLK250/350 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/slk/slk250-350/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes SLK250 / SLK350 • 2004–2016 • 2 Engine Generations",
+    "h1": "Mercedes SLK250 & SLK350 Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes SLK specialists. Compare reconditioned, rebuilt and used M271 and M272 engines — from the turbocharged 1.8-litre four-cylinder to the V6 — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes SLK250/350 Engines — from £2,000 to £7,500 · Common codes: M271, M272",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See Mercedes SLK Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The SLK250 / SLK350 THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes SLK250 / SLK350 Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,500–£3,500",
+        "fittedIndie": "£2,500–£4,800",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; vehicle under £5,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,000–£6,000",
+        "fittedIndie": "£4,200–£7,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,500–£7,500",
+        "fittedIndie": "£5,700–£9,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "N/A",
+        "fittedIndie": "N/A",
+        "warranty": "N/A",
+        "bestFor": "No longer available from Mercedes — these engines are out of production"
+      }
+    ],
+    "figuresNote": "Figures above reflect the M271 and M272 petrol engines. Used M271 engines are available from approximately £1,500–£3,500. A full engine replacement can run anywhere between £1,500 and £5,000 on average. Reconditioned engines typically cost £1,200–£2,200 supply only. Main dealer new engines are no longer available.",
+    "labourEstimate": "Fitting an SLK engine typically takes 12–16 hours at £70–£100/hr (independent) or £120–£180/hr (London/SE dealer). The M272 V6 requires more labour than the M271 four-cylinder.",
+    "cta": {
+      "label": "→ Compare SLK engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Elongation & Tensioner Failure — M271 (SLK250)",
+        "symptoms": "Rattling noise on cold start, metallic ticking from the engine, check engine light (P0016), rough idle, flat spots, misfires, hard starting.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£800–£2,000 (chain + tensioner + cam adjuster replacement)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£3,500–£7,500 (if chain snaps and valves strike pistons)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattle, book an inspection today"
+        },
+        "recommendation": "The M271 engine is notorious for timing chain elongation, often caused by a failing tensioner. If the chain stretches beyond tolerance or the tensioner fails, the consequences range from misfires and cam/crank correlation codes to catastrophic engine damage if the chain jumps a tooth or snaps. At the first sign of cold-start rattle, get the chain and tensioners inspected immediately. The camshaft adjusters (intake and exhaust) are also known to fail. Regular oil changes using MB 229.5 spec oil are essential.",
+        "failureLink": {
+          "label": "Read the full timing chain failure guide",
+          "href": "/failures/timing-chain-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Balance Shaft Gear Failure — Early M272 (SLK350 pre-2008)",
+        "symptoms": "Check engine light, rough running conditions, stalling, loud rattle or slapping noise from the engine, OBD trouble codes P1200 and P1208.",
+        "typicalMileage": "50,000–80,000 miles",
+        "repairCost": "£1,500–£4,000 (balance shaft gear replacement + timing chain)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£4,000–£7,500 (if balance shaft failure leads to engine damage)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear a loud rattle or slapping noise, stop driving immediately"
+        },
+        "recommendation": "The M272 V6 engine in early SLK350 models (pre-2008) is known for a poorly manufactured gear on the balance shaft. Since the balance shaft gear is driven by the timing chain, when it fails, the timing of the engine will change. Early signs are misfiring and the 'check engine' light — followed by terminal timing chain failure. Correction is replacement of the balance shaft or balance shaft gear, along with the timing chain and tensioner. A class action settlement may cover some repair costs on select vehicles. If you notice any symptoms, have the engine inspected immediately.",
+        "failureLink": {
+          "label": "Read the full balance shaft failure guide",
+          "href": "/failures/balance-shaft-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Oil Leaks from Camshaft Adjuster Solenoids — M271 (SLK250)",
+        "symptoms": "Check engine light, engine management issues, oil residue on cam sensors and harness plugs, eventual ECU failure.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£200–£600 (camshaft adjuster solenoid replacement + harness cleaning)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£1,000–£3,000 (if oil damages the ECU)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently"
+        },
+        "recommendation": "Many Mercedes SLK engines suffer from a known engineering flaw where oil leaks from the camshaft adjuster solenoids into the electrical connectors. This fluid travels through the wiring harness via capillary action, eventually reaching and damaging the Electronic Control Unit (ECU). If oil saturates this sensitive hardware, it often leads to total engine failure and triggers the engine management light. Regularly inspect your cam sensors and harness plugs for any signs of dampness or oil residue. If you find oil, act immediately.",
+        "failureLink": {
+          "label": "Read the full oil leak guide",
+          "href": "/failures/oil-leak/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes specialists, every SLK era covered — from the M271 four-cylinder to the M272 V6 — with a 12-month warranty as standard.",
+    "button": {
+      "label": "See Mercedes SLK Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "SLK250 / SLK350 — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Timing chain elongation (M271)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Preventative — catches the fault before catastrophic failure"
+        },
+        {
+          "problem": "Balance shaft failure (M272 pre-2008)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£4,000",
+          "whenItMakesSense": "Class action may cover some costs; catch it early"
+        },
+        {
+          "problem": "Camshaft adjuster solenoid oil leak (M271)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£600",
+          "whenItMakesSense": "Catch it before oil damages the ECU"
+        },
+        {
+          "problem": "Intake manifold tumble flap failure (M272)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Repair kit available; catch it early"
+        },
+        {
+          "problem": "Blue smoke on startup (M271)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£500",
+          "whenItMakesSense": "Oil feed bolt kit resolves the issue"
+        },
+        {
+          "problem": "Timing chain snap / valve contact",
+          "repairable": "❌ Usually No",
+          "typicalCost": "£3,500–£7,500",
+          "whenItMakesSense": "Typically requires full engine replacement or complete rebuild"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This SLK? Check These First",
+      "buyIf": [
+        "* SLK250: Post-2013 build (revised timing chain components); full service history with MB 229.5 spec oil",
+        "* SLK350: Post-2008 M272 (balance shaft issue resolved) or R172 generation (2011–2016)",
+        "* No cold-start rattle — a quiet startup suggests healthy timing chain (M271) or balance shaft (M272)",
+        "* Camshaft adjuster solenoids and harness plugs inspected and free from oil"
+      ],
+      "avoidIf": [
+        "* M271: Cold-start rattle with no timing chain history",
+        "* M272 pre-2008: Check engine light, rough running, or rattle with no balance shaft history",
+        "* Any engine: Oil residue on cam sensors or harness plugs (ECU damage risk)",
+        "* Poor service history — both engines are unforgiving of neglect"
+      ]
+    },
+    "closingVerdict": "The SLK250 and SLK350 represent two distinct approaches to the Mercedes roadster formula — the turbocharged four-cylinder M271 (efficient but timing-chain-sensitive) and the naturally aspirated V6 M272 (smooth but with early balance shaft concerns). The M271 is notorious for timing chain elongation and camshaft adjuster oil leaks that can damage the ECU. The early M272 V6 (pre-2008) has a well-documented balance shaft gear failure that can lead to terminal engine damage. Later M272 engines (post-2008) and R172 generation SLK350s are significantly more reliable. Buy on documented history, not on faith. A well-maintained SLK is a £8,000–£20,000 future classic; a neglected one is a £5,000 engine replacement waiting to happen.",
+    "cta": {
+      "label": "→ Compare SLK engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes SLK250 or SLK350 (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattling, ticking, or slapping (M271: timing chain; M272 pre-2008: balance shaft)",
+      "* Service History — including which engine (M271 or M272) and confirmed oil-change intervals using MB 229.5 spec oil",
+      "* Camshaft Adjuster Check (M271) — Check cam sensors and harness plugs for oil residue (ECU damage risk)",
+      "* Balance Shaft Check (M272 pre-2008) — Any check engine lights, rough running, or rattle? (balance shaft warning)",
+      "* Smoke Check — Blue smoke on startup indicates oil feed line issue (M271)",
+      "* Engine Warning Light — Have codes been read? Any timing, balance shaft, or cam adjuster codes?",
+      "* Roof Operation — Check the electric folding hard-top operation (common issue)",
+      "* MOT History — Check for emissions-related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs:",
+      "items": [
+        {
+          "label": "* M271 DE18 AL (SLK250)",
+          "value": "Displacement: 1,796 cc · Cylinders: 4-cylinder inline, DOHC, 16 valves · Compression Ratio: 9.5:1 · Fuel System: Direct injection · Turbocharger: Single turbocharger"
+        },
+        {
+          "label": "* M272 (SLK350)",
+          "value": "Displacement: 3,498 cc · Cylinders: V6, 90° configuration, DOHC, 24 valves · Compression Ratio: 10.7:1 · Fuel System: Multi-point injection · Aspiration: Naturally aspirated"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare SLK engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure (M271)",
+        "value": "Timing chain elongation and tensioner failure — the M271's most notorious issue"
+      },
+      {
+        "label": "Most Common Failure (M272 pre-2008)",
+        "value": "Balance shaft gear failure — can lead to terminal timing chain failure"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000–80,000 miles [PATTERN DATA]"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£3,500–£6,000 reconditioned, supply only [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M271 / M272 [PATTERN DATA]"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose timing chain and balance shaft issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), South West (15%) [PATTERN DATA]"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes SLK250 or SLK350 engine replacement cost in the UK?",
+        "answer": "A reconditioned SLK engine typically costs £3,000–£6,000 supply only depending on which engine you have. Used M271 engines are available from approximately £1,500–£3,500. A full engine replacement can run anywhere between £1,500 and £5,000 on average. Fitting adds £1,000–£1,600 depending on your location and workshop. Main dealer new engines are no longer available."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes SLK250 or SLK350 engine reliable?",
+        "answer": "It depends on which engine you have. The M271 (SLK250) is notorious for timing chain elongation and camshaft adjuster oil leaks that can damage the ECU. The M272 V6 (SLK350) is a smooth, refined engine, but early models (pre-2008) are prone to balance shaft gear failure that can lead to terminal timing chain failure. Later M272 engines (post-2008) and R172 generation SLK350s are significantly more reliable. With proper maintenance, these engines can be very durable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes SLK250 and SLK350?",
+        "answer": "SLK250 (M271): Timing chain elongation and tensioner failure (rattling on cold start), camshaft adjuster failure, oil leaks from camshaft adjuster solenoids that can damage the ECU, blue smoke on startup, HPFP issues, and ignition coil failures. SLK350 (M272): Balance shaft gear failure on early models (pre-2008) — check engine light, rough running, rattle, intake manifold tumble flap failure, and oil leaks."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes SLK engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a well-kept £15,000 SLK350, a £5,000 recon is 33% — worth it. Against a tired £5,000 example, the same recon approaches our 70% Mercedes threshold — get a scrap valuation first. Well-maintained SLKs are appreciating — a proper restoration is often justified for a clean example."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes SLK250 or SLK350 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. SLK250 (2011–2016): M271 DE18 AL. SLK350 (2004–2016): M272. The badge on the tailgate and the generation (R171 or R172) are the easiest tells — \"SLK 250\" for the four-cylinder turbo, \"SLK 350\" for the V6."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the timing chain on the M271, or does it need full engine replacement?",
+        "answer": "Yes — if caught early. A preventative timing chain and tensioner replacement costs £800–£2,000. The M271 is notorious for timing chain elongation, often caused by a failing tensioner. If the chain stretches beyond tolerance or the tensioner fails, the consequences range from misfires and cam/crank correlation codes to catastrophic engine damage if the chain jumps a tooth or snaps. At the first sign of cold-start rattle, book an inspection immediately. Regular oil changes using MB 229.5 spec oil are the single most effective preventative measure. For the early M272, balance shaft replacement is a more complex repair costing £1,500–£4,000."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes SLK Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted SLK Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real SLK owners, as part of the Engine Finders network, across every SLK era — from the M271 four-cylinder to the M272 V6."
+      },
+      {
+        "title": "Compare SLK Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit, across every SLK that left the factory with the 1.8-litre turbo or 3.0–3.5-litre V6."
+      },
+      {
+        "title": "UK Engine Replacement Services for SLK",
+        "text": "supply-only or full supply & fit available nationwide, covering the full R171 and R172 production runs — and we're vetted across every era of this badge."
+      }
+    ],
+    "finalCta": "Find the best Mercedes SLK250 or SLK350 engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get your SLK back on the road with confidence.",
+    "ctaButton": {
+      "label": "Explore Mercedes SLK Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

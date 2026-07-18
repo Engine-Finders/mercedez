@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-e300d",
+    "title": "Mercedes-Benz E300d Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 68,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz E300d • 2016–2023 • 2.0L Turbo Diesel",
+    "h1": "Mercedes-Benz E300d Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz diesel specialists. The E300d is the 261bhp 2.0-litre OM654 turbo diesel — smooth, efficient and refined. Compare reconditioned, rebuilt and used engines — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz E300d Engines — from £2,000 to £8,000 · Code: OM654",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free Mercedes E300d Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz E300d — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W213 (pre-facelift)",
+        "years": "2016–2020",
+        "engineCode": "OM654 (2.0L 4-cyl diesel)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,000 [PLACEHOLDER]",
+        "eraNote": "261bhp 2.0T — camshaft/follower wear is the defining risk"
+      },
+      {
+        "generation": "W213 (facelift)",
+        "years": "2020–2023",
+        "engineCode": "OM654 (2.0L 4-cyl diesel, revised)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,000–£7,000 [PLACEHOLDER]",
+        "eraNote": "Revised internal parts — improved reliability"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz E300d Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,000–£3,500",
+        "fittedIndie": "£3,000–£4,700",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower-mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£6,000",
+        "fittedIndie": "£4,700–£7,400",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£5,000–£7,500",
+        "fittedIndie": "£6,200–£8,900",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£7,000–£11,000",
+        "fittedIndie": "£8,500–£12,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market ranges across both E300d generations. Reconditioned units for the facelift (2020+) typically command a premium due to revised internal parts. Reconditioned engine costs typically range from £1,200 to £2,200 supply only, with premium marques commanding higher costs.",
+    "labourEstimate": "Fitting an E300d engine typically takes 10–14 hours at £75–£110/hr (independent Mercedes specialist) or £130–£180/hr (London/SE dealer). The OM654's compact four-cylinder layout makes it relatively accessible.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz E300d engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Camshaft and Cam-Follower Wear (OM654 — All Generations)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Injector Seal Leaks (OM654)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "DPF and EGR Issues (OM654)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "AdBlue System Failure",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "9G-Tronic Gearbox Issues",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes-Benz Specialist →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering the OM654 E300d, with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free Mercedes E300d Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz E300d — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Camshaft/cam-follower wear",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£4,500",
+          "whenItMakesSense": "Preventative — if caught before catastrophic failure"
+        },
+        {
+          "problem": "Injector seal leaks",
+          "repairable": "✅ Yes",
+          "typicalCost": "£600–£1,200",
+          "whenItMakesSense": "Straightforward fix — always worth doing"
+        },
+        {
+          "problem": "DPF blockage",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Forced regen or cleaning — worth it"
+        },
+        {
+          "problem": "EGR clogging",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Cleaning or replacement — worth it"
+        },
+        {
+          "problem": "AdBlue system failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Viable on any well-maintained example"
+        },
+        {
+          "problem": "9G-Tronic gearbox issues",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,500",
+          "whenItMakesSense": "Viable — valve body or TCU repair often possible"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz E300d? Check These First",
+      "buyIf": [
+        "* Post-2020 facelift model — revised internal parts improve reliability",
+        "* Full Mercedes service history with regular oil changes (more frequent than the standard schedule is better)",
+        "* Documented camshaft inspection history on higher-mileage examples",
+        "* Low-mileage (under 60,000) with documented history",
+        "* A post-2020 facelift E220d or E300d with full Mercedes history is the buy"
+      ],
+      "avoidIf": [
+        "* Any top-end rattle on cold start — camshaft/cam-follower wear risk",
+        "* AdBlue warning light without a documented repair",
+        "* Poor service history — the OM654 is unforgiving of neglect",
+        "* Evidence of DPF issues without documented diagnosis"
+      ]
+    },
+    "closingVerdict": "The E300d is the refined diesel executive saloon that sets the benchmark. The OM654 engine is generally reliable when properly maintained, but the one fault worth knowing in detail is camshaft and cam-follower wear reported by some owners at higher mileages. A post-2020 facelift car with full Mercedes history is the buy; a tired diesel with no paperwork is the one to leave on the forecourt. Buy on history, maintain the valvetrain and emissions systems, and the E300d will reward you.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz E300d engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz E300d (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any top-end rattle on startup (camshaft/cam-follower wear warning)",
+      "* Service History — Check the year to identify which generation — pre-2020 vs post-2020 facelift",
+      "* Camshaft History — Any top-end work done? Camshaft/follower inspection or replacement?",
+      "* Oil Change History — More frequent oil changes (every 8,000–10,000 miles) are better",
+      "* AdBlue System — Any warnings? Check AdBlue level and age; tank replacement is expensive",
+      "* DPF History — Ask about driving patterns; frequent short trips cause DPF issues",
+      "* EGR System — Any coolant loss or rough idle? EGR clogging is common",
+      "* Gearbox Behaviour — Check for smooth shifts; 9G-Tronic issues are known",
+      "* Engine Warning Light — Have codes been read? Resolve before buying"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM654 (2.0L 4-cyl diesel)",
+        "years": "2016–2020",
+        "power": "261 bhp / 195 kW",
+        "enquiries": "520 [EM-VERIFIED]",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM654 (2.0L 4-cyl diesel, revised)",
+        "years": "2020–2023",
+        "power": "261 bhp / 195 kW",
+        "enquiries": "520 [EM-VERIFIED]",
+        "avgReconCost": "£4,000–£7,000 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM654):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,950 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Valves",
+          "value": "4 valves per cylinder, DOHC"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "15.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        },
+        {
+          "label": "Additional specifications",
+          "value": ""
+        },
+        {
+          "label": "* Maximum torque",
+          "value": "550 Nm @ 1,600–2,400 rpm"
+        },
+        {
+          "label": "* 0–60mph",
+          "value": "6.1 seconds (4MATIC)"
+        },
+        {
+          "label": "* Top speed",
+          "value": "155 mph (limited)"
+        },
+        {
+          "label": "* Transmission",
+          "value": "9G-Tronic automatic"
+        },
+        {
+          "label": "* Drive",
+          "value": "Rear-wheel drive / 4MATIC all-wheel drive"
+        },
+        {
+          "label": "* Fuel economy",
+          "value": "44–49 mpg UK"
+        },
+        {
+          "label": "* AdBlue tank capacity",
+          "value": "25 litres"
+        },
+        {
+          "label": "* Fuel tank capacity",
+          "value": "66 litres"
+        },
+        {
+          "label": "* Emissions",
+          "value": "Euro 6d"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz E300d engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Camshaft/cam-follower wear — approximately 35% of OM654 enquiries cite top-end rattle【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "55,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,500 reconditioned, supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM654 — the E300d is a high-volume UK premium diesel variant【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn/Winter — cold starts expose camshaft wear issues; DPF issues worsen in winter【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), North West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz E300d engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz E300d engine (OM654) typically costs £3,500–£6,000 supply only, varying by generation: pre-facelift £3,500–£6,000, facelift £4,000–£7,000. Fitting adds £1,200–£1,800. A camshaft/follower replacement costs £1,500–£4,500. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz E300d reliable?",
+        "answer": "The OM654 engine's reliability is very much dependent on how well it has been maintained. Some owners have reported issues with wear to the valvetrain including camshafts and tappets, while others have passed 150,000–200,000 miles without problems. Mercedes changed the specification of some internal parts on later models, so post-2020 cars are more robust. A post-2020 facelift car with full Mercedes history is the buy."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz E300d?",
+        "answer": "Camshaft and cam-follower wear (top-end rattle on cold start, £1,500–£4,500), injector seal leaks (\"black death\", £600–£1,200), DPF/EGR issues (£400–£1,200), AdBlue system failure (£500–£1,500), and 9G-Tronic gearbox issues (£800–£2,500)."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz E300d engine, or should I scrap the car?",
+        "answer": "E-Class values range from £8,000–£35,000 depending on generation, condition and mileage. A £3,500–£6,000 reconditioned engine represents 10–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained facelift (2020+) example, replacement is often justified. For an ageing pre-facelift with other issues, assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz E300d engine code?",
+        "answer": "The E300d uses the OM654 engine code — Mercedes' 2.0-litre four-cylinder diesel producing 261 bhp. The pre-facelift (2016–2020) and facelift (2020–2023) share the same engine code but with internal revisions. Check your VIN or registration year. The code is stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the camshaft wear issue, or does it need replacement?",
+        "answer": "Yes — if caught early. Camshaft and cam-follower replacement costs £1,500–£4,500 and is significantly cheaper than a full engine replacement (£3,500–£6,000). The one fault worth knowing in detail is camshaft and cam-follower wear on the OM654 diesel, reported by some owners at higher mileages. At the first sign of top-end rattle on cold start, book an inspection immediately. More frequent oil changes will help keep the engine in good health."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz E300d Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz E300d Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real E-Class owners, as part of the Engine Finders network, with specialist knowledge of the OM654 diesel and its camshaft wear requirements."
+      },
+      {
+        "title": "Compare Mercedes-Benz E300d Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for both pre-facelift and facelift E300d generations."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz E300d",
+        "text": "supply‑only or full supply & fit available nationwide, covering the W213 E-Class with specialists who understand this refined 2.0-litre diesel."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz E300d engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz E300d Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

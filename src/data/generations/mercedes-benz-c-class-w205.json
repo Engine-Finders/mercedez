@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-c-class-w205",
+    "title": "Mercedes‑Benz C‑Class W205 Engines — The Complete UK Guide",
+    "titleCharCount": 58,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz C‑Class W205 • Saloon • 2014–2021",
+    "h1": "Mercedes‑Benz C‑Class W205 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the W205 saloon — from the 1.6‑litre M274 to the 4.0‑litre M177 V8. Real UK replacement costs, honest reliability data, and the OM651‑to‑OM654 diesel switch that defines this generation. Backed by 368+ real UK W205 enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "368+ W205 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon"
+      },
+      {
+        "icon": "📖",
+        "label": "9 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W205 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes‑Benz C‑Class W205 Engine Codes — The Complete Database",
+    "subHeadline": "",
+    "columns": [],
+    "engines": [],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM651 and OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M274, M264, M276 and M177: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. OM651 reliability: known for timing chain tensioner wear and injector seal failure (\"Black Death\"). OM654: generally reliable, with AdBlue system issues the main concern. M177: known for occasional sensor‑derived misfire issues; tight engine bay packaging means sensor replacement can lead to costly labour."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes‑Benz C‑Class W205 — Overview",
+    "intro": "The W205 is the fourth generation of the Mercedes‑Benz C‑Class, launched in 2014 as the successor to the W204. It introduced a significantly lighter body structure using aluminium and high‑strength steel, resulting in a 100kg weight saving. A major September 2018 facelift brought more than cosmetic changes: it replaced the ageing OM651 diesel four with the all‑new OM654, and introduced the M264 mild‑hybrid petrol engine — splitting this generation's ownership story into two genuinely different mechanical eras under one body code.",
+    "keyFacts": "Platform: Mercedes‑Benz MRA (Modular Rear Architecture) • Predecessor: W204 • Successor: W206 • Sibling body styles in this generation: S205 Estate, C205 Coupé, A205 Cabriolet.",
+    "marketIntelligenceLine": "The W205 saloon generated 368 real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM651 diesel as the parc exits warranty age."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM654 (post‑facelift, 2018–2021)",
+        "quote": "The modern 2.0‑litre diesel that replaced the OM651. Significantly improved timing chain design, better fuel economy, and none of the 'Black Death' injector seal issues that plagued its predecessor. AdBlue system niggles are its only real demand.",
+        "whoItsFor": "buyers who want modern diesel efficiency without the OM651's caveats."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M274 2.0‑litre turbo (184–245hp)",
+        "quote": "Mercedes' workhorse four‑cylinder turbo — smooth, responsive, and fundamentally robust. Chain stretch is the main watchpoint, but it's far less common than the N47 problems BMW owners face.",
+        "whoItsFor": "buyers who want everyday usability with genuine performance."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM651 2.1‑litre diesel (pre‑facelift, 2014–2018)",
+        "quote": "Injector seal failure ('Black Death') and timing chain tensioner wear are this generation's defining diesel risks — both are well‑documented and expensive to address if ignored.",
+        "whoItsFor": "only buyers with full service history and documented injector work."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M177 4.0‑litre V8 (AMG C 63/S)",
+        "quote": "The hot‑vee twin‑turbo V8 shares the M178's cooling demands. Sensor‑derived misfire issues are the main electrical headache, and tight engine bay packaging makes even sensor replacement labour‑intensive.",
+        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M274 2.0‑litre turbo (C 200, 184hp)",
+        "quote": "The volume petrol engine in the W205 range — parts are widely available, the tuning is proven, and it delivers 184hp with genuine everyday usability. Chain stretch is the only real watchpoint.",
+        "whoItsFor": "buyers who want the W205 experience without the diesel's complications or the V6's running costs."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M276 3.0‑litre V6 bi‑turbo (C 400 / C 450 AMG)",
+        "quote": "The 3.0‑litre V6 bi‑turbo sits in a sweet spot between the four‑cylinder and the full‑fat AMG V8 — 333–367hp, smooth power delivery, and without the M177's hot‑vee cooling demands.",
+        "whoItsFor": "buyers who want V6 refinement without the AMG V8's maintenance premium."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes‑Benz C‑Class W205 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M274 1.6/2.0T",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Solid Choice — proven four‑cylinder turbo"
+      },
+      {
+        "engine": "M264 2.0T (mild‑hybrid)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "48V system issues",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Modern Tech — complex but well‑supported"
+      },
+      {
+        "engine": "M276 3.0 V6 bi‑turbo",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Timing chain / oil leaks",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£3,800–£6,500",
+        "ownershipVerdict": "V6 Smooth — more complex, more costly"
+      },
+      {
+        "engine": "OM651 2.1 d",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector seals (\"Black Death\"), timing chain",
+        "repairCostSpecialist": "£400–£1,500",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Best Diesel (pre‑LCI) — proven but ageing"
+      },
+      {
+        "engine": "OM654 2.0 d",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "AdBlue system, EGR cooler",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£3,000–£5,000",
+        "ownershipVerdict": "Modern Diesel — improved over OM651"
+      },
+      {
+        "engine": "M177 4.0 V8 bi‑turbo",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Sensor misfires, cooling system",
+        "repairCostSpecialist": "£1,000–£3,000",
+        "replacementCostRecon": "£8,000–£14,000",
+        "ownershipVerdict": "AMG Performance — highest running costs"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W205 rule",
+      "text": "A £3,000–£5,000 OM654 recon against a £10,000–£15,000 W205 sits at 20–50% of the car's value — well inside the 70% Mercedes‑Benz threshold. Against a £30,000+ facelift example, the same recon drops to 10–17% — a routine repair decision, not a financial one. Value the car and its service history first."
+    },
+    "keyTakeaways": []
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM651 Injector Seal Failure (\"Black Death\")",
+        "affectedModels": "W205 C 220 d, C 250 d (pre‑facelift, 2014–2018).",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The injector seal fails, allowing combustion gases to leak past and carbon to build up around the injector — the \"black death\" nickname comes from the tar‑like carbon residue that forms.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of rough idle or diesel smell in the cabin, get injector seals inspected immediately — a £400–£1,200 seal replacement is dramatically cheaper than the £2,800–£4,800 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare OM651 engine prices for your W205 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM654 AdBlue System Failure",
+        "affectedModels": "W205 C 220 d (post‑facelift, 2018–2021).",
+        "typicalFailureMileage": "80,000–120,000 miles.",
+        "rootCause": "The AdBlue system's NOx sensors, heater elements, and dosing valves can fail — leading to countdown warnings that prevent the car from restarting.",
+        "tieredCosts": [],
+        "recommendation": "A £500–£1,500 AdBlue system service is non‑negotiable on the OM654 — the countdown warnings give you limited mileage before the car won't restart.",
+        "cta": {
+          "label": "Compare OM654 engine prices for your W205 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M274 Timing Chain Stretch",
+        "affectedModels": "W205 C 180, C 200, C 250, C 300 (all M274 petrols).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The timing chain stretches over time, particularly on engines with extended service intervals — a rattle on cold start is the classic early warning.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of cold‑start rattle, get the chain inspected immediately — an £800–£1,500 preventative repair is far cheaper than the £2,500–£4,000 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M274 engine prices for your W205 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "M177 Sensor‑Derived Misfire Issues",
+        "affectedModels": "W205 AMG C 63, C 63 S (all M177 V8s).",
+        "typicalFailureMileage": "30,000–60,000 miles.",
+        "rootCause": "The hot‑vee V8 is known for occasional sensor‑derived misfire issues — tight packaging in the engine bay means sensor replacement can lead to a costly labour bill.",
+        "tieredCosts": [],
+        "recommendation": "On a £25,000–£40,000 AMG C 63, a £1,000–£2,000 sensor diagnosis is cheap insurance — it protects the £10,000–£15,000 engine that sits at the heart of the car.",
+        "cta": {
+          "label": "Compare M177 engine prices for your AMG C 63 →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W205 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "C 180 (1.6T)",
+        "engineCode": "M274.910",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C 200 (2.0T)",
+        "engineCode": "M274.920",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C 250 (2.0T)",
+        "engineCode": "M274.920",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C 300 (2.0T)",
+        "engineCode": "M274.920 / M264.920",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C 300 (facelift)",
+        "engineCode": "M264.920",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C 400 4MATIC (3.0 V6)",
+        "engineCode": "M276.823",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,800–£6,500",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C 450 AMG (3.0 V6)",
+        "engineCode": "M276.823",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,800–£6,500",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C 220 d / C 250 d (pre‑LCI)",
+        "engineCode": "OM651",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C 220 d (post‑LCI)",
+        "engineCode": "OM654.920",
+        "usedSupply": "£1,800–£3,000",
+        "reconditionedSupply": "£3,000–£5,000",
+        "rebuiltSupply": "£4,200–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "AMG C 63",
+        "engineCode": "M177.980",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "AMG C 63 S",
+        "engineCode": "M177.980",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–22 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "C 220 d",
+      "C 250 d"
+    ],
+    "petrolVariants": [
+      "C 180",
+      "C 200",
+      "C 250",
+      "C 300",
+      "C 400",
+      "C 450 AMG",
+      "AMG C 63",
+      "AMG C 63 S"
+    ],
+    "scopeNote": "All variants listed are W205 saloon only. S205 Estate, C205 Coupé and A205 Cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and production years vary by body style."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

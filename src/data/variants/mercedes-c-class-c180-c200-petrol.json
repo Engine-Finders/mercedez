@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "slug": "mercedes-c-class-c180-c200-petrol",
+    "title": "Mercedes C‑Class C180 / C200 Petrol Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 84,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes C‑Class C180 / C200 Petrol • 2000–present • M271 / M274 / M264 / M254",
+    "h1": "Mercedes C‑Class C180 / C200 Petrol Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes C180 and C200 petrol specialists. Compare reconditioned, rebuilt and used M271, M274, M264 and M254 engines — supply & fit available nationwide for Mercedes‑Benz's premium executive saloon.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12‑Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes C180 / C200 Petrol Engines — from £1,800 to £8,500 · Common codes: M271, M274, M264, M254",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free C180 / C200 Petrol Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK‑Wide Network"
+  },
+  "eraMap": {
+    "title": "The C180 / C200 PETROL THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "C‑Class W203 (C180 Kompressor / C200 Kompressor)",
+        "years": "2000–2007",
+        "engineCode": "M271 (1.8L 4‑cyl supercharged, 143–163 bhp)",
+        "reliability": "★★½☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£5,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "Early M271 — supercharged 1.8; timing chain stretch and camshaft adjuster failure are defining weaknesses"
+      },
+      {
+        "generation": "C‑Class W204 (C180 CGI / C200 CGI)",
+        "years": "2007–2014",
+        "engineCode": "M271 (1.8L 4‑cyl turbo, 156–184 bhp)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "CGI direct‑injection M271 — revised but timing chain and tensioner issues persist; post‑2010 cars are improved"
+      },
+      {
+        "generation": "C‑Class W205 (C180 / C200)",
+        "years": "2014–2018",
+        "engineCode": "M274 (1.6L / 2.0L 4‑cyl turbo, 156–184 bhp)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,000–£7,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "M274 turbo four — early timing chain sensitivity; post‑2017 cars are more reliable; thermostat failures common"
+      },
+      {
+        "generation": "C‑Class W205 Facelift",
+        "years": "2018–2021",
+        "engineCode": "M274 (1.6L / 2.0L 4‑cyl turbo, 156–184 bhp)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,000–£7,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "Revised M274 — improved timing chain durability; ignition coils and MAP sensors remain weak points"
+      },
+      {
+        "generation": "C‑Class W206",
+        "years": "2021–present",
+        "engineCode": "M264 / M254 (1.5L 4‑cyl turbo + 48V MHEV, 170–204 bhp)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,500–£8,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "Latest‑gen mild‑hybrid — 1.5‑litre with 48V; proven M264 architecture with added electrical complexity"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes C180 / C200 Petrol Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,800–£3,500",
+        "fittedIndie": "£2,600–£4,800",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; vehicle under £5,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£7,000",
+        "fittedIndie": "£4,500–£8,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£5,000–£8,500",
+        "fittedIndie": "£6,200–£10,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£8,000–£12,000",
+        "fittedIndie": "£9,500–£14,000",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the current C180 / C200 petrol range. A timing chain replacement on the M271/M274 typically costs £1,500–£2,500. A full engine replacement on a W204 M274 can cost £4,000–£6,500.",
+    "labourEstimate": "Fitting a C‑Class petrol engine typically takes 10–14 hours at £75–£110/hr (independent) or £130–£180/hr (London/SE dealer). The M271 timing chain is a one‑day job; the M274 timing chain is similarly labour‑intensive. [PLACEHOLDER — confirm vs cost sheet]",
+    "cta": {
+      "label": "→ Compare C180 / C200 petrol engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M271 Timing Chain Stretch & Camshaft Adjuster Failure (W203, W204 pre‑2010)",
+        "symptoms": "Rattling noise on cold start lasting 1–3 seconds, rough idle, flat spots, increased fuel consumption, engine warning light (cam timing performance codes), metallic debris in oil.",
+        "typicalMileage": "80,000–120,000 miles (can occur as early as 60,000 miles on neglected cars)",
+        "repairCost": "£1,500–£2,500 (timing chain, tensioner and camshaft adjuster replacement)【PLACEHOLDER】",
+        "replacementCost": "£3,500–£6,500 (if chain snaps and valves meet pistons)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattle, book an inspection today"
+        },
+        "recommendation": "The M271 timing chain is the defining weakness of this engine generation. The camshaft adjusters (phasers) are prone to failure, causing timing chain stretch and eventual catastrophic failure. The chain in the M271 (I4 engine) uses a single‑row chain that has been known to break or stretch. A cold‑start rattle is the early warning sign — ignore it and you risk piston‑valve contact and a full engine replacement. Check service history for timing chain and camshaft adjuster replacement — if missing, walk away. Post‑2010 M271 engines have improved reliability.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/timing-chain-stretch/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M274 Timing Chain Wear & Tensioner Failure (W205, pre‑2017)",
+        "symptoms": "Rattling noise on cold start, clunk or click in the first 1‑3 seconds, metallic clattering from the front of the engine, engine warning light, rough idle.",
+        "typicalMileage": "80,000–100,000 km (50,000–62,000 miles)",
+        "repairCost": "£1,500–£2,500 (timing chain, guides and tensioner replacement)【PLACEHOLDER】",
+        "replacementCost": "£4,000–£7,500 (if chain snaps)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattle, book an inspection today"
+        },
+        "recommendation": "The M274 engine's timing chain is sensitive, particularly on early W205 models. The chain's lifespan is approximately 80,000 miles (plus or minus 20,000). If you hear a cold‑start rattle, have the timing system inspected immediately — catastrophic failure can occur without warning. Favor models after 2017 or those mentioning significant timing chain maintenance. The M274 engine in the C200 (lower output version) has proven durable in some cases, with one owner reporting 255,000 km on the original chain.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/timing-chain-stretch/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Ignition Coil & MAP Sensor Failure (M274 — W205)",
+        "symptoms": "Rough idle, hesitation on acceleration, loss of power, check engine light (P0300–P030X codes), poor fuel economy, misfires.",
+        "typicalMileage": "60,000–100,000 km (37,000–62,000 miles)",
+        "repairCost": "£200–£600 (ignition coil replacement — all four recommended)【PLACEHOLDER】",
+        "replacementCost": "N/A — repair only (unless prolonged misfire damages catalytic converter)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if misfires occur"
+        },
+        "recommendation": "Ignition coil failures are common on M274 engines, with symptoms appearing between 60,000–100,000 km. MAP (Manifold Absolute Pressure) sensors are also sometimes fragile. If you experience rough idle or hesitation, have the ignition system inspected. Replace all four coils preventatively to avoid catalytic converter damage from prolonged misfires. Faulty ignition coils are often due to age, heat, or poor‑quality replacements.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/ignition-coil-failure/"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Thermostat Failure (M274 — W205)",
+        "symptoms": "Engine taking too long to reach operating temperature, temperature gauge fluctuations, reduced fuel economy, check engine light.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£400–£1,200 (thermostat replacement — awkward access)【PLACEHOLDER】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon; can affect fuel economy and engine wear"
+        },
+        "recommendation": "A known issue with the M274 engine is that the thermostat can fail, and it's an expensive repair both due to the price of the new thermostat and the awkward access to it. If you notice the engine taking longer than usual to warm up, have the thermostat inspected. Proactive replacement is recommended at 60,000‑mile intervals.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/thermostat-failure/"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Oil Leaks & Excessive Oil Consumption (M271 & M274)",
+        "symptoms": "Low oil warning light, needing to top up oil frequently (1L per 1,000 miles or more), oil spots under the vehicle, burning oil smell, blue smoke from exhaust.",
+        "typicalMileage": "60,000–100,000 miles",
+        "repairCost": "£150–£300 (regular oil top‑ups and monitoring) — £500–£1,500 (gasket or seal replacement)【PLACEHOLDER】",
+        "replacementCost": "£3,500–£7,500 (if oil starvation leads to engine damage)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon; monitor oil levels weekly"
+        },
+        "recommendation": "Excessive oil consumption and oil leakage are fairly common in turbocharged Mercedes C‑Class engines, particularly C180, C200 models with 1.6L or 2.0L turbo engines. Older M271 and M274 engines are known for camshaft cover and turbo oil seal leaks. Check your oil level regularly — this engine is not one you can neglect. Use the correct grade of fully synthetic Mercedes‑approved oil (MB 229.51 or similar).",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/oil-consumption/"
+        }
+      },
+      {
+        "id": 6,
+        "title": "48V Mild‑Hybrid System Issues (W206 — M264 / M254)",
+        "symptoms": "Battery errors, poor start‑stop function, weak boost, reduced power, warning lights.",
+        "typicalMileage": "20,000–50,000 miles",
+        "repairCost": "£500–£2,000 (battery, starter‑generator, or software diagnosis)【PLACEHOLDER】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if warnings appear"
+        },
+        "recommendation": "The 48V mild‑hybrid system on the W206 C180/C200 adds complexity. Faults can include battery errors, poor start‑stop function, or weak boost. Mercedes‑Benz issued a recall for certain W205 C200 models for engine control unit software issues. If you experience any battery or electrical warnings, have the vehicle inspected by a specialist with Mercedes MHEV experience.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/mhev-system-failure/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every C‑Class engine variant covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free C180 / C200 Petrol Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes C180 / C200 Petrol — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "M271 timing chain stretch (preventative)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£2,500",
+          "whenItMakesSense": "Catch it early — far cheaper than engine replacement"
+        },
+        {
+          "problem": "M274 timing chain wear (preventative)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£2,500",
+          "whenItMakesSense": "Catch it early; post‑2017 cars are lower risk"
+        },
+        {
+          "problem": "Ignition coil / MAP sensor failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£600",
+          "whenItMakesSense": "Replace all four coils preventatively"
+        },
+        {
+          "problem": "Thermostat failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Proactive replacement prevents fuel economy loss"
+        },
+        {
+          "problem": "Oil leaks / oil consumption",
+          "repairable": "⚠️ Sometimes",
+          "typicalCost": "£500–£1,500+",
+          "whenItMakesSense": "Viable if caught early; piston ring wear may require rebuild"
+        },
+        {
+          "problem": "48V MHEV system issues",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£2,000",
+          "whenItMakesSense": "Requires specialist diagnostics; repairable without engine replacement"
+        },
+        {
+          "problem": "Snapped timing chain",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Piston‑valve contact means little is left to repair"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This C180 / C200 Petrol? Check These First",
+      "buyIf": [
+        "* Full service history with regular oil changes using Mercedes‑approved oil",
+        "* M271 (W203/W204 pre‑2010): timing chain and camshaft adjusters replaced",
+        "* M274 (W205): post‑2017 model year (improved timing chain durability)",
+        "* M274: thermostat replaced or functioning correctly",
+        "* M264/M254 (W206): 48V system functioning correctly (check start‑stop)",
+        "* No cold‑start rattle on any generation"
+      ],
+      "avoidIf": [
+        "* No proof of regular maintenance — these engines are unforgiving of neglect",
+        "* M271 with cold‑start rattle — timing chain work is imminent",
+        "* M274 with cold‑start rattle — timing chain work is imminent",
+        "* Any check engine light without diagnosis — these engines can hide expensive faults",
+        "* \"Cheap\" examples — the purchase price is the least of your worries"
+      ]
+    },
+    "closingVerdict": "The Mercedes C180 and C200 petrol are the entry points into Mercedes‑Benz's executive saloon range, offering premium refinement, strong efficiency and a comfortable ride. However, the engine choice matters significantly. The W203 and early W204 M271 is a high‑risk engine, notorious for timing chain stretch and camshaft adjuster failure. The W205 M274 is improved but still has timing chain sensitivity on early cars, ignition coil failures and thermostat issues. The W206 M264/M254 is the most advanced, with mild‑hybrid technology and improved reliability, but adds electrical complexity. Across all generations, regular maintenance is absolutely essential. As one specialist put it: \"Check service history for timing chain replacement — if missing, walk away\".",
+    "cta": {
+      "label": "→ Compare C180 / C200 petrol engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes C180 or C200 petrol (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattle from the engine (timing chain warning — critical on M271 and M274)",
+      "* Service History — Including which engine era (M271/M274/M264) and confirmed oil‑change discipline",
+      "* Timing Chain Work — Any history of chain/tensioner replacement? (critical for higher‑mileage cars)",
+      "* Ignition System — Any misfires or rough idle? Coils may be failing (M274)",
+      "* Thermostat — Does the engine warm up quickly? Thermostat failure is common (M274)",
+      "* Oil Level — Check dipstick; excessive consumption indicates potential piston ring or seal wear",
+      "* MHEV System (W206) — Check start‑stop function; any battery warnings?",
+      "* Engine Warning Light — Have codes been read? Timing, coil, or thermostat codes are most common"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M271 (W203 C180/C200 Kompressor)",
+        "years": "2000–2007",
+        "power": "143–163 bhp (105–120 kW) · 210–240 Nm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£3,000–£5,500【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "engineCode": "M271 (W204 C180/C200 CGI)",
+        "years": "2007–2014",
+        "power": "156–184 bhp (115–135 kW) · 230–270 Nm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£3,500–£6,500【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "engineCode": "M274 (W205 C180/C200)",
+        "years": "2014–2021",
+        "power": "156–184 bhp (115–135 kW) · 250–300 Nm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£4,000–£7,500【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "engineCode": "M264 / M254 (W206 C180/C200)",
+        "years": "2021–present",
+        "power": "170–204 bhp (125–150 kW) · 250–300 Nm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£4,500–£8,500【PLACEHOLDER — confirm vs cost sheet】"
+      }
+    ],
+    "matchNote": "This table's rows exactly match Section 1B's Era Map — the same engine codes, years, and generation coverage.",
+    "technicalSpecs": {
+      "title": "Technical Specs (Current M264 / M254 — W206):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,497 cc (1.5L)"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4‑cylinder inline, 16 valves, DOHC"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbocharger"
+        },
+        {
+          "label": "* Mild Hybrid",
+          "value": "48V system with starter‑generator (MHEV)"
+        },
+        {
+          "label": "* Transmission",
+          "value": "9G‑Tronic automatic"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare C180 / C200 petrol engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M271 timing chain stretch and M274 timing chain wear — approximately 55% of C180/C200 petrol‑related enquiries cite chain or timing concerns【PATTERN DATA】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000–80,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£5,000 reconditioned, supply only【PLACEHOLDER】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M274 — W205‑era C180/C200 is the most common C‑Class petrol on UK roads【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose timing chain issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), North West (13%)【PATTERN DATA】"
+      },
+      {
+        "label": "SECTION 8 — FAQ",
+        "value": "1. How much does a Mercedes C180 / C200 petrol engine replacement cost in the UK?"
+      },
+      {
+        "label": "A reconditioned C180/C200 petrol engine typically costs £3,000–£8,500 supply only depending on generation. A timing chain replacement alone costs £1,500–£2,500. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes C180 / C200 petrol engine reliable?"
+      },
+      {
+        "label": "It depends on which generation you're asking about. The M271 (W203, early W204) is a high‑risk engine — timing chain stretch and camshaft adjuster failure are well‑documented. The M274 (W205) is improved but early cars have timing chain sensitivity, ignition coil failures and thermostat issues. The M264/M254 (W206) is the most advanced, with 48V MHEV technology adding complexity. Regular maintenance is essential.",
+        "value": "3. What are the common problems with the Mercedes C180 / C200 petrol?"
+      },
+      {
+        "label": "M271 timing chain stretch and camshaft adjuster failure (W203, early W204), M274 timing chain wear (early W205), ignition coil and MAP sensor failure (M274), thermostat failure (M274), oil leaks and oil consumption (M271 & M274), and 48V MHEV system issues (W206). See the Era Map above for generation‑specific advice.",
+        "value": "4. Is it worth replacing a Mercedes C180 / C200 petrol engine, or should I scrap the car?"
+      },
+      {
+        "label": "Depends on vehicle value. Against a well‑kept W205 C200 (values £10,000–£20,000+), a £4,500–£5,500 reconditioned engine is 20–50% of the vehicle's value — often worth it for a solid example. Against an older W204 (£3,000–£8,000), a £4,000–£5,000 recon is 50–100% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing.",
+        "value": "5. How do I find my Mercedes C180 / C200 petrol engine code?"
+      },
+      {
+        "label": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W203 (2000–2007) = M271 Kompressor; W204 (2007–2014) = M271 CGI (1.8L, 156–184 bhp); W205 (2014–2021) = M274 (1.6L C180 / 2.0L C200); W206 (2021–present) = M264/M254 (1.5L MHEV). Tell us your registration date and we'll confirm it for free.",
+        "value": "6. Can I repair the M271 or M274 timing chain, or does it require engine replacement?"
+      },
+      {
+        "label": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,500–£2,500. The M271 chain is a one‑day job. However, if the chain snaps, a full engine replacement (£3,500–£8,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately. Favor models after 2010 (M271) or 2017 (M274) for improved reliability.",
+        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+      },
+      {
+        "label": "SECTION 9, META AND SCHEMA",
+        "value": "Tab 26"
+      }
+    ]
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#"
+    }
+  }
+}

@@ -1,0 +1,653 @@
+{
+  "meta": {
+    "slug": "cla",
+    "title": "CLA Engines — The Complete UK Guide",
+    "titleCharCount": 35,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz • CLA • 2013–present • 2 Generations • M270 • M282 • OM651 • OM654 • M139",
+    "h1": "CLA Engines — The Complete UK Guide",
+    "subHeadline": "Every CLA engine — M270 petrol, OM651 diesel, M282 petrol, OM654 diesel, and the AMG M139 — across two generations of Mercedes’ four-door coupé. Real UK costs, reliability data and ownership verdicts for the C117 (2013–2019) and C118 (2019–2025). Backed by real UK enquiry data from Mercedes-Benz owners in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Real UK Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "2 Generations Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "10+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore CLA Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "CLA — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "✅ The CLA rule: generation is everything — C118 hosts comfortably justify replacement; C117 values mean the OM651 diesel needs careful evaluation before committing"
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM654 — the modern 2.0‑litre diesel; 520 UK enquiries in 2025 and materially fewer failure reports than the OM651 it replaced [MB-VERIFIED]"
+      },
+      {
+        "metric": "Highest‑Risk Engine",
+        "ourCall": "OM651 — “Black Death” injector seal risk plus rear‑chain complexity; 1,250 UK enquiries in 2025, the highest of any Mercedes diesel [MB-VERIFIED]"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "C118 (2019+) CLA 200 with M282 1.3 petrol — modern, reliable, and the facelift (2023+) electronics are the safest bet"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£1,800–£4,800 supply‑only [MB-QUOTE]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "OM651 injector seal failure (“Black Death”) — 1,250 UK enquiries in 2025 [MB-VERIFIED]"
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "🥇 Best‑value entry to Mercedes‑Benz ownership — the CLA offers coupé styling at a C‑Class‑competitive price, with running costs that undercut the larger saloons"
+      }
+    ],
+    "oneLineVerdict": ""
+  },
+  "atAGlance": {
+    "h2": "CLA at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "2 (C117 2013–2019, C118 2019–2025)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2013–present"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "10+"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Petrol, Diesel, Petrol Hybrid (2025+)"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM651 — 1,250 enquiries across CLA/C‑Class/E‑Class/GLA [MB-VERIFIED]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM654 — modern 2.0‑litre diesel with clean failure record"
+      },
+      {
+        "metric": "Highest‑Risk",
+        "value": "OM651 — “Black Death” injector seal failure"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£1,800–£4,800 supply‑only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "C117: £3,000–£10,000 • C118: £8,000–£25,000 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★★☆"
+      },
+      {
+        "metric": "SECTION 4 — GENERATIONS — <GenerationsGrid>",
+        "value": "H2: CLA Generations — Find Your Vehicle"
+      },
+      {
+        "metric": "Sub-headline: Two generations, two very different ownership stories — the first‑generation C117 is the value‑with‑risk proposition; the second‑generation C118 is the safe, modern choice.",
+        "value": "First Generation — C117 (2013–2019)"
+      },
+      {
+        "metric": "[2013–2019] • M270 1.6/2.0 petrol • OM651 2.1 diesel",
+        "value": "★★★★☆"
+      },
+      {
+        "metric": "Our Verdict: The CLA that started it all — four‑door coupé styling on the A‑Class platform. The M270 petrols are robust; the OM651 diesel carries the “Black Death” injector‑seal caveat and rear‑chain complexity. Buy on condition and documented history, not mileage.",
+        "value": "Explore C117 →"
+      },
+      {
+        "metric": "Second Generation — C118 (2019–2025) 🔥 Most Enquired — data aggregated from shared engines [MB-VERIFIED]",
+        "value": "[2019–2025] • M282 1.3 petrol • OM654 2.0 diesel • M139 2.0 AMG"
+      },
+      {
+        "metric": "★★★★☆",
+        "value": "Our Verdict: Longer, wider, and based on the W177 A‑Class platform — the C118 is the CLA to buy. The M282 petrol is reliable and cheap to run; the OM654 diesel is the cleanest modern Mercedes oil‑burner; the M139 AMG is a fire‑breathing specialist’s toy. Post‑facelift (2023+) electronics are the sweet spot."
+      },
+      {
+        "metric": "Explore C118 →",
+        "value": "Third Generation — C178/C174 (2025–present)"
+      },
+      {
+        "metric": "[2025–present] • Petrol hybrid • Full EV",
+        "value": "★★★☆☆"
+      },
+      {
+        "metric": "Our Verdict: Too early for reliability data — the third‑generation CLA introduces 48‑volt hybrid and full‑electric variants. We’re watching the data. For now, the C118 remains the safer used buy.",
+        "value": "Explore C178 →"
+      },
+      {
+        "metric": "Comparison: C117 vs C118 — which generation should you buy?",
+        "value": "C117 (2013–2019)"
+      },
+      {
+        "metric": "C118 (2019–2025)",
+        "value": "Platform"
+      },
+      {
+        "metric": "W176 A‑Class",
+        "value": "W177 A‑Class"
+      },
+      {
+        "metric": "Best petrol",
+        "value": "M270 2.0 (CLA 250) — robust, 211hp"
+      },
+      {
+        "metric": "M282 1.3 (CLA 200) — reliable, 163hp",
+        "value": "Best diesel"
+      },
+      {
+        "metric": "OM651 — but check injector seals",
+        "value": "OM654 — clean, modern, 150–190hp"
+      },
+      {
+        "metric": "Avoid",
+        "value": "OM651 without full injector‑seal history"
+      },
+      {
+        "metric": "Early M282 with unresolved software updates",
+        "value": "Verdict"
+      },
+      {
+        "metric": "⚠️ Value buy with caveats",
+        "value": "✅ The safe, modern choice"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "",
+    "subHeadline": "",
+    "cards": [],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "CLA Engine Codes — The Complete Database",
+    "subHeadline": "Every verified CLA engine code — generation, fuel, power, reliability rating and real UK enquiry data.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M270 DE16",
+        "family": "M270",
+        "fuel": "Petrol",
+        "displacement": "1.6L",
+        "power": "122–156 hp",
+        "years": "2013–2019",
+        "model": "C117",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M270 DE20",
+        "family": "M270",
+        "fuel": "Petrol",
+        "displacement": "2.0L",
+        "power": "184–211 hp",
+        "years": "2013–2019",
+        "model": "C117",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,800–£3,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651",
+        "family": "OM651",
+        "fuel": "Diesel",
+        "displacement": "2.1L",
+        "power": "109–177 hp",
+        "years": "2013–2019",
+        "model": "C117",
+        "reliability": "★★★☆☆",
+        "enquiries": "1,250 [MB-VERIFIED]",
+        "avgRebuildCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M282",
+        "family": "M282",
+        "fuel": "Petrol",
+        "displacement": "1.3L",
+        "power": "136–163 hp",
+        "years": "2019–2025",
+        "model": "C118",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,800–£3,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M260",
+        "family": "M260",
+        "fuel": "Petrol",
+        "displacement": "2.0L",
+        "power": "224 hp",
+        "years": "2019–2025",
+        "model": "C118",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,000–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654",
+        "family": "OM654",
+        "fuel": "Diesel",
+        "displacement": "2.0L",
+        "power": "116–190 hp",
+        "years": "2019–2025",
+        "model": "C118",
+        "reliability": "★★★★★",
+        "enquiries": "520 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,000–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M139",
+        "family": "M139",
+        "fuel": "Petrol",
+        "displacement": "2.0L",
+        "power": "382–421 hp",
+        "years": "2019–2025",
+        "model": "C118 (AMG)",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£5,000–£8,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM608",
+        "family": "OM608",
+        "fuel": "Diesel",
+        "displacement": "1.5L",
+        "power": "116 hp",
+        "years": "2019–2025",
+        "model": "C118",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,200–£3,500 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM651 and OM654 ratings: 95% confidence — based on 1,250 and 520 [MB-VERIFIED] enquiries respectively, cross‑referenced with Mercedes TSBs and specialist interviews. M270, M282, M260, M139 and OM608 ratings: Expert‑knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: OM654 was incorrectly listed in some sources as a 1.5‑litre unit for the CLA — verified as 2.0‑litre (1,950cc) for the CLA 200d/220d, with OM608 as the 1.5‑litre diesel. [Fix at source: update engine displacement fields.] Correction applied: M139 is the correct AMG engine code for the CLA 45 — not M133 (which belongs to the previous‑generation A45/CLA45). [Fix at source: update AMG engine code references.] No further corrections needed — source data matched live verification for all other engine codes."
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common CLA Engine Problems",
+    "subHeadline": "The six most common CLA failure patterns — from “Black Death” injector seals to M282 coolant leaks — ranked by severity.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "OM651 “Black Death” injector seal failure",
+        "description": "The defining Mercedes diesel issue — copper injector seals degrade, leaking combustion gases into a carbon “tar” that can weld the injector into the head. Most common on C117 CLA 200d/220d. £400–£1,200 seal repair; up to full engine replacement if neglected [MB-QUOTE].",
+        "severity": {
+          "icon": "🔴",
+          "label": "Catastrophic if Ignored",
+          "type": "catastrophic"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "OM651 rear timing chain tensioner wear",
+        "description": "Unlike most engines, the OM651’s chain sits at the transmission end — access requires separating engine from gearbox. C117 CLA diesels affected. £600–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "M282 1.3 petrol coolant leaks",
+        "description": "Coolant loss from water pump or thermostat housing — well‑documented on early C118 M282 units. £400–£800 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "M270 1.6 timing chain stretch",
+        "description": "Chain stretch on higher‑mileage C117 M270 petrols — less common than the diesel chain issues but still a known weak point. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "M139 AMG high‑pressure fuel pump failure",
+        "description": "The 382–421hp AMG engine’s HPFP can fail on higher‑mileage examples — specialist‑only repair. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "AdBlue system issues (OM654/OM608)",
+        "description": "NOx sensor and heater failures on C118 diesel CLA models — software‑manageable rather than mechanical. £400–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "CLA Market Intelligence — What UK Owners Told Us in 2025",
+    "signals": [
+      {
+        "signal": "OM651 diesel enquiries (CLA + C‑Class + E‑Class + GLA)",
+        "data": "1,250 [MB-VERIFIED]",
+        "demandTrend": "⬇️ Falling"
+      },
+      {
+        "signal": "OM654 diesel enquiries",
+        "data": "520 [MB-VERIFIED]",
+        "demandTrend": "⬆️ Rising"
+      },
+      {
+        "signal": "C118 CLA (2019+) share of CLA‑related enquiries",
+        "data": "Estimated 60%+ of CLA‑specific interest",
+        "demandTrend": "⬆️ Rising"
+      }
+    ],
+    "insights": [
+      "“Interesting insight:” The OM651 diesel — the engine fitted to the first‑generation CLA 200d/220d — generated 1,250 UK enquiries in 2025, making it the most‑enquired Mercedes diesel of the year [MB-VERIFIED]. The vast majority relate to injector seal (“Black Death”) and timing chain failures. If you’re buying a C117 CLA diesel, factor a £400–£1,200 injector‑seal inspection into your purchase budget — or walk away from any car without documented seal history.",
+      "The OM654 diesel — fitted to the second‑generation CLA 200d/220d — generated just 520 enquiries in 2025, with materially fewer failure reports. The modern engine is the safe diesel choice; the C118 generation is the CLA to buy if you want diesel refinement without the “Black Death” caveat.",
+      "The C118 CLA (2019–2025) accounts for the majority of current CLA‑specific buyer interest, driven by the more reliable M282 petrol and OM654 diesel engines, plus the facelift (2023+) electronics update that addressed early software gremlins. Pre‑facelift C118 examples (2019–2022) are the value sweet spot; post‑facelift (2023+) is the safest bet."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We’d Tell Every CLA Buyer",
+    "quote": "Buy a 2023+ C118 CLA 200 with the M282 1.3 petrol — it’s the most reliable, cheapest‑to‑run CLA you can own. If you must have a diesel, choose the OM654 in a post‑2020 C118 and insist on full service history. Avoid any C117 OM651 diesel without documented injector‑seal replacement — the “Black Death” repair bill can exceed the car’s value."
+  },
+  "replacementCosts": {
+    "h2": "CLA Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for every CLA engine — used, reconditioned and rebuilt supply-only costs, with independent labour guidance.",
+    "tables": [
+      {
+        "title": "",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a CLA engine typically takes 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The CLA rule — generation is everything: A £2,800–£4,800 OM651 recon against a £3,000–£6,000 C117 CLA diesel sits at 80–95% of the car's value — above our 70% threshold for Mercedes-Benz. If you're facing an OM651 failure in a C117, get a scrap valuation before you authorise any repair. By contrast, a £3,000–£5,000 OM654 recon against an £8,000–£25,000 C118 CLA sits comfortably at 20–60% of the car's value — well within safe territory. For C117 M270 petrols, the £1,500–£3,200 recon against a £4,000–£8,000 car sits at 38–80% — borderline on lower-value examples, safe on better cars. In short: repair a C118, evaluate a C117 petrol carefully, and walk away from a C117 diesel without full history.",
+    "labourEstimate": "Fitting a CLA engine typically takes 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The CLA rule — generation is everything: A £2,800–£4,800 OM651 recon against a £3,000–£6,000 C117 CLA diesel sits at 80–95% of the car's value — above our 70% threshold for Mercedes-Benz. If you're facing an OM651 failure in a C117, get a scrap valuation before you authorise any repair. By contrast, a £3,000–£5,000 OM654 recon against an £8,000–£25,000 C118 CLA sits comfortably at 20–60% of the car's value — well within safe territory. For C117 M270 petrols, the £1,500–£3,200 recon against a £4,000–£8,000 car sits at 38–80% — borderline on lower-value examples, safe on better cars. In short: repair a C118, evaluate a C117 petrol carefully, and walk away from a C117 diesel without full history.",
+    "economicsBox": {
+      "title": "",
+      "text": ""
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the CLA Engine Range Evolved — 2013 to Today",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "First Generation — A‑Class Platform",
+        "years": "2013–2019",
+        "keyEngines": "M270 1.6/2.0 petrol, OM651 2.1 diesel",
+        "whyBmwChanged": "Mercedes launched the CLA as a four‑door coupé based on the W176 A‑Class platform — the engines were carried over directly from the A‑Class range, with the OM651 diesel already carrying its “Black Death” reputation from the C‑Class and E‑Class",
+        "worthKnowing": "The C117 shares its platform and most engines with the W176 A‑Class — if you're researching CLA reliability, the A‑Class data is directly relevant"
+      },
+      {
+        "era": "Second Generation — W177 Platform",
+        "years": "2019–2025",
+        "keyEngines": "M282 1.3 petrol, M260 2.0 petrol, OM654 2.0 diesel, OM608 1.5 diesel, M139 2.0 AMG",
+        "whyBmwChanged": "The C118 moved to the new W177 A‑Class platform — the OM651 was replaced by the cleaner OM654 diesel (materially fewer failure reports), and the M270 was replaced by the Renault‑sourced M282 1.3 (more efficient but with its own coolant‑leak caveats)",
+        "worthKnowing": "The Renault‑Nissan‑Mercedes M282 engine is shared with the Renault Mégane and Nissan Qashqai — parts are cheap and widely available, but early units had software and coolant issues that were largely resolved by 2021"
+      },
+      {
+        "era": "Second Generation Facelift",
+        "years": "2023–2025",
+        "keyEngines": "M282 1.3 (updated), OM654 (updated), M139 (updated)",
+        "whyBmwChanged": "The 2023 facelift brought updated electronics, improved M282 cooling system design, and software refinements for the OM654’s AdBlue system — the facelift is the safest C118 buy",
+        "worthKnowing": "The facelift addressed most of the early C118 gremlins — if you're buying a C118, prioritise 2023+ examples"
+      },
+      {
+        "era": "Third Generation — New Platforms",
+        "years": "2025–present",
+        "keyEngines": "M252 1.5 petrol hybrid, electric (EQ)",
+        "whyBmwChanged": "The third‑generation CLA (C178/C174) introduces 48‑volt mild hybrid and full‑electric variants on new MMA platform — too early for reliability data",
+        "worthKnowing": "The new generation splits into two architectures: the C178 is the combustion/hybrid version; the C174 is the full‑electric CLA — they share a platform but have completely different powertrains"
+      },
+      {
+        "era": "SECTION 10 — WHO SHOULD BUY A CLA? — <WhoShouldBuy>",
+        "years": "H2: Who Should Buy a CLA?",
+        "keyEngines": "Buyer Profile",
+        "whyBmwChanged": "Rating",
+        "worthKnowing": "Our Verdict"
+      },
+      {
+        "era": "Family Buyer",
+        "years": "★★★☆☆",
+        "keyEngines": "The CLA is a four‑door coupé — not a family car. The sloping roofline compromises rear headroom, and the boot is smaller than a C‑Class Estate. If you need family space, buy a C‑Class or GLC instead. If you want coupé styling and don't regularly carry rear passengers, the CLA works.",
+        "whyBmwChanged": "Daily Commuter",
+        "worthKnowing": "★★★★☆"
+      },
+      {
+        "era": "The C118 CLA 200 with the M282 1.3 petrol is an excellent commuter — 50+ mpg, cheap tax, and the facelift (2023+) electronics are sorted. The C117 diesel is less recommendable due to the OM651's injector‑seal risk — if you must have a diesel, choose a C118 with the OM654.",
+        "years": "Budget Owner",
+        "keyEngines": "⚠️ ★★★☆☆",
+        "whyBmwChanged": "The C117 CLA is the most affordable way into Mercedes‑Benz ownership — but the OM651 diesel is a genuine caveat. A sub‑£5k C117 diesel without documented injector‑seal history is a gamble; a C117 petrol (M270) is the safer budget bet. Budget another £400–£1,200 for a pre‑purchase injector‑seal inspection if you're looking at a diesel.",
+        "worthKnowing": "Performance Buyer"
+      },
+      {
+        "era": "★★★★☆",
+        "years": "The CLA 45 AMG (C118, M139 engine) is a genuine fire‑breather — 382–421hp from a 2.0‑litre four‑cylinder, with the world's most powerful production four‑pot. It's specialist‑only territory: full service history is non‑negotiable, and running costs are high. Buy it for the experience, not for economy.",
+        "keyEngines": "Long‑Term Keeper",
+        "whyBmwChanged": "★★★★☆",
+        "worthKnowing": "If you're keeping a CLA long‑term, buy a 2023+ C118 CLA 200 with the M282 1.3 petrol — the facelift electronics are sorted, the engine is robust, and the C118 platform is well‑understood. The OM654 diesel is also a keeper if you do regular motorway miles. Avoid any C117 as a long‑term keeper — the platform is ageing and the OM651's reputation is well‑earned."
+      },
+      {
+        "era": "SECTION 11 — REPAIR OR REPLACE? — <CalculatorCTA>",
+        "years": "H2: Can I Repair My CLA Engine — or Should I Replace It?",
+        "keyEngines": "If you've got an OM651 diesel in a C117 CLA, the numbers are brutal — a £2,800–£4,800 recon against a £3,000–£6,000 car means replacement cost can exceed 70% of the car's value. For a C118 CLA with the OM654 or M282, replacement is comfortably within the car's value. Use our diagnostic calculator to get a personalised verdict.",
+        "whyBmwChanged": "Path 1 — Know your engine? Launch the Mercedes calculator with CLA pre-selected → /fault-diagnostic-calculator?model=cla",
+        "worthKnowing": "Path 2 — Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)"
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "",
+    "columns": [],
+    "profiles": []
+  },
+  "calculatorCta": {
+    "h2": "",
+    "intro": "",
+    "paths": []
+  },
+  "trustBlock": {
+    "h2": "Why CLA Owners Trust mercedesengine.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range on this page comes from genuine UK quote and enquiry data — not manufacturer marketing, not forum guesswork. The OM651 and OM654 figures are [MB-VERIFIED] from real 2025 UK enquiries."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "If replacement cost exceeds 70% of what your CLA is worth, we say so. That's why the C117 OM651 diesel carries a \"scrap threshold\" warning — not every site tells you when repair doesn't make financial sense."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on CLA engines daily — from OM651 \"Black Death\" injector seal repairs to M139 AMG turbo diagnostics. Every specialist is vetted specifically for Mercedes-Benz work, not generalists who happen to take on Mercedes jobs."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "CLA Frequently Asked Questions",
+    "items": []
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore CLA Generations",
+        "text": "Compare the C117 and C118 side‑by-side, including the 2025+ third generation.",
+        "href": "/cla/generations/"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My CLA",
+        "text": "Answer a few questions about your symptoms and get a personalised repair‑vs‑replace verdict.",
+        "href": "/fault-diagnostic-calculator?model=cla"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get quotes from 25+ vetted Mercedes‑Benz specialists who work on CLA engines daily.",
+        "href": "/quotes/?model=cla"
+      }
+    ],
+    "footerNote": ""
+  }
+}

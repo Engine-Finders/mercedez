@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "slug": "mercedes-sprinter-w907",
+    "title": "Mercedes Sprinter W907 Engines — The Complete UK Guide",
+    "titleCharCount": 54,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes Sprinter W907 • Van • 2018–present",
+    "h1": "Mercedes Sprinter W907 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the third-generation Sprinter (VS30) — from the 2.1-litre OM651 four-cylinder to the 2.0-litre OM654 and the V6 OM642. Real UK costs, honest reliability data, and the engine range that powers Britain's commercial fleets. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "1,250+ W907 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Van"
+      },
+      {
+        "icon": "📖",
+        "label": "6 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W907 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes Sprinter W907 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W907 specifically — including the transition from the 2.1-litre OM651 to the 2.0-litre OM654 and the V6 OM642 option.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W907)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM651.958",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L (2143cc)",
+        "power": "114–163 bhp",
+        "years": "2018–2020",
+        "variants": "311 CDI, 314 CDI, 316 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — well-known OM651; injector seal and EGR issues]",
+        "enquiries": "1,250 [MB-VERIFIED]",
+        "avgReconCost": "£2,200–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.0L (1950cc)",
+        "power": "150–190 bhp",
+        "years": "2020–present",
+        "variants": "315 CDI, 317 CDI, 319 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — Mercedes-developed four-cylinder diesel; efficient and refined]",
+        "enquiries": "520 [MB-VERIFIED]",
+        "avgReconCost": "£2,800–£5,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.899",
+        "family": "OM642",
+        "fuel": "Diesel, V6 turbo",
+        "displacement": "3.0L (2987cc)",
+        "power": "190 bhp",
+        "years": "2018–2021",
+        "variants": "319 CDI, 419 CDI, 519 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — V6 diesel; oil cooler seal and swirl flap issues]",
+        "enquiries": "880 [MB-VERIFIED]",
+        "avgReconCost": "£3,200–£6,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "* OM651.958: 90% confidence — well‑documented OM651; pattern data. * OM654.920: 85% confidence — modern OM654; pattern data. * OM642.899: 85% confidence — well‑known OM642 V6; pattern data."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes Sprinter W907 — Overview",
+    "intro": "The W907 is the third generation of the Mercedes‑Benz Sprinter, a light commercial vehicle launched in 2018 as the successor to the W906. Known internally as VS30, it introduced a new front-wheel-drive option alongside the traditional rear‑wheel‑drive layout, along with a range of advanced safety and connectivity features. The engine range spans from the 2.1‑litre OM651 four‑cylinder diesel to the 2.0‑litre OM654 and the 3.0‑litre OM642 V6 diesel. A significant engine update in 2020 saw the OM654 replace the OM651 across most of the range. Production continues to the present day.",
+    "keyFacts": "Platform: Mercedes VS30 (W907/W910) • Predecessor: W906 (2006–2018) • Successor: currently in production • Sibling body styles in this generation: W910 (front‑wheel‑drive variant)",
+    "marketIntelligenceLine": "The W907 Sprinter generated 1,250+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM651 diesel as the most‑requested powertrain."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM654.920 (315/317/319 CDI)",
+        "quote": "Mercedes' 2.0‑litre four‑cylinder diesel, introduced in 2020, replaced the ageing OM651 with a lighter, more efficient design. It delivers 150–190 bhp with strong low‑end torque and significantly improved refinement.",
+        "whoItsFor": "fleet buyers and commercial operators who want the latest Mercedes diesel technology."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM642.899 (319/419/519 CDI, 2018–2021)",
+        "quote": "The V6 diesel is smooth and powerful but carries the same oil cooler seal and swirl flap issues that affect the OM642 across the Mercedes range. Repairs are labour‑intensive and costly. The OM642 was phased out after 2021 for good reason.",
+        "whoItsFor": "buyers who need V6 torque and can afford the premium maintenance."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM651.958 (311/314/316 CDI, 2018–2020)",
+        "quote": "The 2.1‑litre four‑cylinder diesel offers proven durability and widespread parts availability. It's the backbone of the Sprinter range and remains a solid choice for high‑mileage operations.",
+        "whoItsFor": "buyers on a budget who prioritise parts availability and established reliability."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "OM654.920 (315 CDI)",
+        "quote": "The 150 bhp version of the 2.0‑litre diesel offers the best balance of performance and economy. It's often overlooked in favour of the higher‑output variants but delivers genuine real‑world efficiency.",
+        "whoItsFor": "operators who want modern engine technology without the premium of the top‑spec variant."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes Sprinter W907 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "OM651.958 (311/314/316 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector seal leaks, EGR clogging, DPF issues",
+        "repairCostSpecialist": "£400–£1,200",
+        "replacementCostRecon": "£2,200–£4,500",
+        "ownershipVerdict": "Proven Workhorse — durable but watch for injector seals."
+      },
+      {
+        "engine": "OM654.920 (315/317/319 CDI)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "AdBlue/SCR issues, EGR cooler",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£2,800–£5,200",
+        "ownershipVerdict": "Modern Diesel — efficient and refined."
+      },
+      {
+        "engine": "OM642.899 (319/419/519 CDI)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Oil cooler seal leak, swirl flap motor",
+        "repairCostSpecialist": "£800–£1,800",
+        "replacementCostRecon": "£3,200–£6,000",
+        "ownershipVerdict": "V6 Tax — smooth but costly to maintain."
+      }
+    ],
+    "economicsRule": {
+      "title": "The W907 rule",
+      "text": "A £2,200–£5,200 recon against a £15,000–£45,000 W907 sits at 5–35% of the vehicle's value — comfortably within our 70% Mercedes threshold, making replacement a sensible decision for most commercial operators. For higher‑mileage vans approaching the end of their service life, the economics may shift — we always advise running the numbers based on your specific vehicle's value and remaining useful life."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W907 Costs Least To Own?",
+        "answer": "315 CDI (OM654) — best balance of economy and reliability."
+      },
+      {
+        "question": "Which W907 Costs Most To Own?",
+        "answer": "519 CDI (OM642) — V6 running costs add up."
+      },
+      {
+        "question": "Which W907 Is Best Value?",
+        "answer": "314 CDI (OM651) — proven workhorse with cheap parts."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM651 Injector Seal Leaks (Black Death)",
+        "affectedModels": "311 CDI, 314 CDI, 316 CDI (OM651.958, 2018–2020)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The injector seals on the OM651 can fail, allowing combustion gases to escape past the injector. This creates a carbon buildup that sounds like a ticking noise and can eventually damage the cylinder head.",
+        "tieredCosts": [],
+        "recommendation": "If you hear a ticking noise from the engine bay, have the injector seals checked immediately — a £400–£1,000 repair is far cheaper than the £2,200–£4,500 replacement that follows if the head is damaged.",
+        "cta": {
+          "label": "Compare OM651 engine prices for your W907 Sprinter →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM642 Oil Cooler Seal Leak (V6 diesel)",
+        "affectedModels": "319 CDI, 419 CDI, 519 CDI (OM642.899, 2018–2021)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The OM642's oil cooler seals (located in the V of the engine) can degrade and leak, allowing oil to mix with coolant or leak onto the engine. Repair requires significant disassembly.",
+        "tieredCosts": [],
+        "recommendation": "If you notice oil in the coolant or a burning oil smell on a V6‑powered W907, have the oil cooler seals inspected immediately — an £800–£1,500 repair is far cheaper than the £3,200–£6,000 replacement that follows if the engine overheats.",
+        "cta": {
+          "label": "Compare OM642 engine prices for your W907 Sprinter →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "OM654 AdBlue/SCR System Issues",
+        "affectedModels": "315 CDI, 317 CDI, 319 CDI (OM654.920, 2020–present)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The OM654's AdBlue and SCR (selective catalytic reduction) system can suffer from sensor failures and crystallisation, leading to warning lights and potential limp‑home mode.",
+        "tieredCosts": [],
+        "recommendation": "If your OM654‑powered W907 shows an AdBlue warning, have the system inspected immediately — a £400–£1,000 repair is far cheaper than the £2,800–£5,200 replacement that follows if the system fails catastrophically.",
+        "cta": {
+          "label": "Compare OM654 engine prices for your W907 Sprinter →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W907 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "311/314/316 CDI",
+        "engineCode": "OM651.958",
+        "usedSupply": "£1,000–£2,200",
+        "reconditionedSupply": "£2,200–£4,500",
+        "rebuiltSupply": "£3,500–£6,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "315/317/319 CDI",
+        "engineCode": "OM654.920",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£5,200",
+        "rebuiltSupply": "£4,000–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "319/419/519 CDI",
+        "engineCode": "OM642.899",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,200–£6,000",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Model Page's baseline figures — the W907 is a standalone commercial vehicle platform with specific engine‑bay access considerations. Costs are inherited directly per the Authority Model, with no divergence note required."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "311 CDI",
+      "314 CDI",
+      "315 CDI",
+      "316 CDI",
+      "317 CDI",
+      "319 CDI",
+      "419 CDI",
+      "519 CDI"
+    ],
+    "petrolVariants": [],
+    "scopeNote": "All variants listed are W907 third‑generation Sprinter only. The W910 front‑wheel‑drive variant shares most of these engines but is covered on its own Generation Page, since drivetrain configuration affects labour access and costs."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

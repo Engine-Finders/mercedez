@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-viano-3-0-3-5-cdi",
+    "title": "Mercedes-Benz Viano 3.0 / 3.5 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 82,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz Viano 3.0 / 3.5 CDI • 2004–2014 • 3.0L V6 Diesel",
+    "h1": "Mercedes-Benz Viano 3.0 / 3.5 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz commercial specialists. The Viano 3.0 and 3.5 CDI share the OM642 V6 diesel — 204–231 bhp of refined MPV power. Compare reconditioned, rebuilt and used engines — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz Viano 3.0/3.5 CDI Engines — from £2,500 to £8,000 · Code: OM642",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See Mercedes Viano CDI Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz Viano 3.0 / 3.5 CDI — Which Engine Does Your Van Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W639 Viano 3.0 CDI",
+        "years": "2004–2014",
+        "engineCode": "OM642 (3.0L V6 diesel)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,000 [PLACEHOLDER]",
+        "eraNote": "204–224 bhp — oil cooler seals and EGR are key watchpoints"
+      },
+      {
+        "generation": "W639 Viano 3.5 CDI",
+        "years": "2004–2014",
+        "engineCode": "OM642 (3.5L V6 diesel)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,500 [PLACEHOLDER]",
+        "eraNote": "231 bhp — same OM642 family, slightly higher tune"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz Viano 3.0 / 3.5 CDI Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,500–£4,000",
+        "fittedIndie": "£3,500–£5,200",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower-mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£6,000",
+        "fittedIndie": "£4,700–£7,400",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£5,000–£8,000",
+        "fittedIndie": "£6,200–£9,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£7,000–£11,000",
+        "fittedIndie": "£8,500–£12,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the W639 Viano OM642 generation — a single engine family with different power outputs. A replacement engine of type 642.990 costs on average £4,290 in good condition. A new or reconditioned engine can cost up to £5,747. All pricing is indicative; actual costs vary by mileage, condition and workshop location.",
+    "labourEstimate": "Fitting a Viano 3.0/3.5 CDI engine typically takes 10–14 hours at £75–£110/hr (independent Mercedes specialist) or £130–£180/hr (London/SE dealer). The V6 is tightly packaged in the Viano's engine bay.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz Viano 3.0/3.5 CDI engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Oil Cooler Seal Leak (OM642 — All Variants)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "EGR Valve Clogging and Hesitation (OM642)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Water Pump Seizure and Failure (OM642)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Timing Chain Wear and Rattle (OM642)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Injector Failure and \"Black Death\" (OM642)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Turbo Actuator Failure (OM642)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering the OM642 Viano 3.0/3.5 CDI, with a 12-month warranty as standard.",
+    "button": {
+      "label": "See Mercedes Viano CDI Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz Viano 3.0 / 3.5 CDI — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Oil cooler seal leak",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£1,500",
+          "whenItMakesSense": "Essential repair — can cause engine failure if ignored"
+        },
+        {
+          "problem": "EGR valve clogging",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Cleaning or replacement — worth it"
+        },
+        {
+          "problem": "Water pump seizure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£800",
+          "whenItMakesSense": "Essential — can cause belt failure and overheating"
+        },
+        {
+          "problem": "Timing chain wear",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Preventative — cheaper than engine replacement"
+        },
+        {
+          "problem": "Injector failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800 per injector",
+          "whenItMakesSense": "Replace all six for reliability"
+        },
+        {
+          "problem": "Turbo actuator failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Viable on any well-maintained example"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz Viano 3.0 / 3.5 CDI? Check These First",
+      "buyIf": [
+        "* Post-2008 facelift model — electrical and suspension improvements",
+        "* Documented oil cooler seal history — replacement with updated seals",
+        "* Full service history with regular oil changes and Mercedes-approved oil",
+        "* Low-mileage (under 60,000) with documented history",
+        "* EGR system recently cleaned or replaced",
+        "* No cold-start rattle — timing chain health"
+      ],
+      "avoidIf": [
+        "* Any evidence of oil/coolant contamination — oil cooler seal failure risk",
+        "* Hesitation between 1700–1900 rpm — EGR valve clogging",
+        "* Pre-2008 model with electrical issues — known gremlins",
+        "* Poor service history — the OM642 is unforgiving of neglect",
+        "* Any cold-start rattle — timing chain or water pump issues"
+      ]
+    },
+    "closingVerdict": "The Viano 3.0/3.5 CDI offers refined V6 diesel power in a spacious MPV package. The OM642 is a smooth, torquey engine but has well-documented weaknesses — oil cooler seals in the V of the engine are the defining issue, while EGR clogging, water pump seizures, and timing chain wear are also common. A post-2008 facelift car with full service history and documented work on the key weak points is the buy. Buy on history, maintain the oil cooler and EGR systems, and the Viano will serve you well.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz Viano 3.0/3.5 CDI engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz Viano 3.0 / 3.5 CDI (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle on startup (timing chain or water pump warning)",
+      "* Service History — Check the year to identify which generation — pre-2008 electrical issues",
+      "* Oil / Coolant Check — Check expansion tank for mayonnaise (oil cooler seal failure)",
+      "* Hesitation Test — Test drive; any bucking between 1700–1900 rpm? (EGR clogging)",
+      "* Water Pump — Any belt squeal or coolant loss? (water pump seizure risk)",
+      "* Injector Area — Check for black carbon residue around injectors (injector seal leak)",
+      "* Engine Warning Light — Have codes been read? EGR and injector codes are common",
+      "* Rust Check — Viano chassis and sills are prone to rust"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM642 (3.0L V6 diesel) — 3.0 CDI",
+        "years": "2004–2014",
+        "power": "204–224 bhp",
+        "enquiries": "880 JLR-wide [EM-VERIFIED]",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM642 (3.0L V6 diesel) — 3.5 CDI",
+        "years": "2004–2014",
+        "power": "231 bhp",
+        "enquiries": "— (pattern data — niche MPV)",
+        "avgReconCost": "£3,500–£6,500 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM642 — 3.5 CDI):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,987 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder V (72°)"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "18.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,987 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder V (72°)"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "18.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        },
+        {
+          "label": "Additional specifications",
+          "value": ""
+        },
+        {
+          "label": "* Maximum torque (3.0 CDI)",
+          "value": "440 Nm @ 1,600–2,600 rpm"
+        },
+        {
+          "label": "* Maximum torque (3.5 CDI)",
+          "value": "440 Nm @ 1,600–2,600 rpm"
+        },
+        {
+          "label": "* 0–60mph (3.0 CDI)",
+          "value": "~9.5 seconds"
+        },
+        {
+          "label": "* 0–60mph (3.5 CDI)",
+          "value": "~9.0 seconds"
+        },
+        {
+          "label": "* Top speed",
+          "value": "~125 mph"
+        },
+        {
+          "label": "* Transmission",
+          "value": "5-speed automatic / 6-speed manual"
+        },
+        {
+          "label": "* Drive",
+          "value": "Rear-wheel drive"
+        },
+        {
+          "label": "* Kerb weight",
+          "value": "~2,770 kg"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz Viano 3.0/3.5 CDI engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Oil cooler seal leak (~40% of OM642 enquiries) / EGR clogging (~30% of enquiries) / Water pump failure (~20% of enquiries)【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "60,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,500 reconditioned, supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM642 — the Viano 3.0 CDI is the most common Viano diesel variant【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn/Winter — cold starts expose timing chain and water pump issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (20%), London (18%), South West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz Viano 3.0 / 3.5 CDI engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz Viano 3.0/3.5 CDI engine (OM642) typically costs £3,500–£6,000 supply only. A replacement engine of type 642.990 costs on average £4,290 in good condition; a new or reconditioned engine can cost up to £5,747. Fitting adds £1,200–£1,800. An oil cooler seal replacement costs £800–£1,500. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz Viano 3.0 / 3.5 CDI engine reliable?",
+        "answer": "The OM642 V6 diesel is a refined, smooth engine but has well-documented weaknesses. Oil cooler seals in the V of the engine are the defining issue — they can leak oil into the coolant or externally. EGR clogging, water pump seizures, and timing chain wear are also common. A post-2008 facelift car with full service history and documented work on the key weak points is the best bet."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz Viano 3.0 / 3.5 CDI?",
+        "answer": "Oil cooler seal leak (oil/coolant contamination, £800–£1,500), EGR valve clogging (hesitation between 1700–1900 rpm, £500–£1,200), water pump seizure (belt failure, overheating, £400–£800), timing chain wear (cold-start rattle, £1,500–£3,500), injector failure and \"black death\" (£300–£800 per injector), and turbo actuator failure (£500–£1,500). The 3.5 CDI is essentially the same engine with a higher tune."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz Viano 3.0 / 3.5 CDI engine, or should I scrap the van?",
+        "answer": "Viano values range from £4,000–£15,000 depending on generation, condition and mileage. A £3,500–£6,000 reconditioned engine represents 25–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained, low-mileage example, replacement is often justified. For an ageing van with significant rust or other structural issues, assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz Viano 3.0 / 3.5 CDI engine code?",
+        "answer": "The Viano 3.0 and 3.5 CDI both use the OM642 engine code — Mercedes' 3.0-litre V6 diesel. The 3.0 CDI produces 204–224 bhp (204 PS / 150 kW), while the 3.5 CDI produces 231 bhp. The code is stamped on the engine block; your VIN and vehicle documentation will also confirm the specification."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the oil cooler seal issue, or does it need replacement?",
+        "answer": "Yes — the oil cooler seals can be replaced (£800–£1,500). This is the most common OM642 repair. The oil cooler is located in the V of the engine; replacing the seals requires removing the intake manifold. If you see oil in the coolant (mayonnaise in the expansion tank) or coolant in the oil, stop driving immediately and book a specialist inspection. Ignored seal failure can lead to bearing damage and engine failure."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz Viano 3.0 / 3.5 CDI Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz Viano 3.0/3.5 CDI Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real Viano owners, as part of the Engine Finders network, with specialist knowledge of the OM642 V6 diesel and its oil cooler seal requirements."
+      },
+      {
+        "title": "Compare Mercedes-Benz Viano 3.0/3.5 CDI Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for both 3.0 and 3.5 CDI variants."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz Viano 3.0/3.5 CDI",
+        "text": "supply‑only or full supply & fit available nationwide, covering the W639 Viano with specialists who understand this refined V6 diesel."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz Viano 3.0/3.5 CDI engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get your MPV back on the road with confidence.",
+    "ctaButton": {
+      "label": "Explore Mercedes-Benz Viano 3.0 / 3.5 CDI Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

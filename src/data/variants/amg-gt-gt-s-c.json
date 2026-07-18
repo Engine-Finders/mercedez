@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "slug": "amg-gt-gt-s-c",
+    "title": "Mercedes‑AMG GT Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 56,
+    "description": "Every Mercedes‑AMG GT engine — M178 4.0 V8 biturbo. GT, GT S and GT C variants, real UK costs and reliability. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 162,
+    "canonical": "https://mercedesengine.uk/amg-gt/gt-s-c/",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "AMG GT",
+              "item": "https://mercedesengine.uk/amg-gt/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GT / GT S / GT C",
+              "item": "https://mercedesengine.uk/amg-gt/gt-s-c/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑AMG GT / GT S / GT C Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C190/R190 AMG GT (M178, 2015-2020)",
+              "url": "https://mercedesengine.uk/amg-gt/c190/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C190/R190 AMG GT S (M178, 2015-2020)",
+              "url": "https://mercedesengine.uk/amg-gt/c190/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "C190/R190 AMG GT C (M178, 2017-2022)",
+              "url": "https://mercedesengine.uk/amg-gt/c190/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑AMG GT / GT S / GT C Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M178 (GT)",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M178 (GT S)",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M178 (GT C)",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑AMG GT / GT S / GT C engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M178 engine typically costs £5,000–£10,000 supply only depending on variant, with the GT C sitting at £7,000–£15,000. Fitting adds £1,100–£1,800. Main dealer new engines can exceed £25,000. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑AMG GT / GT S / GT C engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M178 is rated ★★★½☆ — it's considered a robust and remarkably durable engine. Owners have logged tens of thousands of miles with tuned engines producing over 700 bhp without significant issues. However, known issues include wastegate actuator/boost problems, stuck injectors, dynamic engine mount failures, and transmission oil leaks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑AMG GT / GT S / GT C?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wastegate actuator/boost issues, dynamic engine and transmission mount failures (particularly GT C/GT S), stuck injectors, faulty exhaust flaps, and transmission oil leaks. The engine is generally robust with proper maintenance — 200,000–300,000 km examples are not uncommon."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑AMG GT engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value. Against a well‑kept AMG GT worth £25,000–£60,000, a £7,500 recon is a manageable 12–30% of the vehicle's value — worth it for a well‑maintained example. Given the AMG GT's status and strong retained values, replacement is usually viable for vehicles in good condition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑AMG GT engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. The AMG GT / GT S / GT C uses the M178 4.0‑litre twin‑turbo V8. Tell us your registration date and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the M178's wastegate actuator, or does it need a new engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the wastegate actuator and boost control issues are repairable, typically costing £500–£1,500. If caught early, it does not require engine replacement. At the first sign of power loss or whistling, book an inspection immediately."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑AMG GT / GT S / GT C Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "4000",
+            "highPrice": "15000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes‑AMG GT UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes‑AMG GT engines (M178), sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes‑AMG GT Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/amg-gt/gt-s-c/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-AMG GT / GT S / GT C • 2015–2022 • M178 4.0 V8 Biturbo",
+    "h1": "Mercedes-AMG GT / GT S / GT C Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes‑AMG GT specialists. Compare reconditioned, rebuilt and used M178 engines for the C190/R190 — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12‑Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes‑AMG GT V8 Engines — from £4,000 to £15,000 · Code: M178",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free AMG GT Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK‑Wide Network"
+  },
+  "eraMap": {
+    "title": "The AMG GT / GT S / GT C THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "C190/R190 (GT)",
+        "years": "2015–2020",
+        "engineCode": "M178 (456–469 bhp)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£5,000–£9,000 [MB‑QUOTE]",
+        "eraNote": "Entry‑level M178 — robust and tunable; wastegate and cooling system are the main watchpoints."
+      },
+      {
+        "generation": "C190/R190 (GT S)",
+        "years": "2015–2020",
+        "engineCode": "M178 (503–522 bhp)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£6,000–£11,000 [MB‑QUOTE]",
+        "eraNote": "Mid‑range M178 — the sweet spot; dynamic engine mounts can fail."
+      },
+      {
+        "generation": "C190/R190 (GT C)",
+        "years": "2017–2022",
+        "engineCode": "M178 (550 bhp)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£7,000–£15,000 [MB‑QUOTE]",
+        "eraNote": "Top‑spec M178 — 550 bhp, rear‑wheel steering; stuck injectors and transmission leaks are the main watchpoints."
+      }
+    ],
+    "sourceNote": "",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes‑AMG GT / GT S / GT C Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£4,000–£7,000",
+        "fittedIndie": "£5,000–£8,300",
+        "warranty": "3–6 months",
+        "bestFor": "Budget priority; vehicle under £20,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£5,000–£10,000",
+        "fittedIndie": "£6,100–£11,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£7,000–£15,000",
+        "fittedIndie": "£8,200–£16,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£18,000–£25,000",
+        "fittedIndie": "£20,000–£28,000",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims; dealer costs can exceed £25,000"
+      }
+    ],
+    "figuresNote": "",
+    "labourEstimate": "Fitting an AMG GT engine typically takes 14–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). The M178's hot‑vee layout requires significant disassembly.",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": []
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes‑AMG Specialist →",
+    "supportingLine": "25+ vetted Mercedes‑AMG specialists, every AMG GT variant covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free AMG GT Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes‑AMG GT / GT S / GT C — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Wastegate actuator / boost issues (M178)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Specialist repair; catch it before turbo damage"
+        },
+        {
+          "problem": "Dynamic engine/transmission mounts (M178)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Replace with updated parts; common on GT C/GT S"
+        },
+        {
+          "problem": "Stuck injectors (M178)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Replace failed injectors; catch it before cat damage"
+        },
+        {
+          "problem": "Exhaust flap failure (M178)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800",
+          "whenItMakesSense": "Replace exhaust flap actuators; common issue"
+        },
+        {
+          "problem": "Transmission oil leak (M178)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Some model years have recalls; check before buying"
+        },
+        {
+          "problem": "Timing chain stretch (M178)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£2,000–£5,000",
+          "whenItMakesSense": "Rare but possible; regular oil changes prevent"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This AMG GT / GT S / GT C? Check These First",
+      "buyIf": [
+        "* Full Mercedes service history with documented oil changes (every 5,000–7,000 miles)",
+        "* Evidence of dynamic mount replacement on GT C/GT S",
+        "* Post‑2017 build (many early recalls resolved)",
+        "* Good service history — the M178 is robust but demands care"
+      ],
+      "avoidIf": [
+        "* Loss of power or boost issues with no diagnosis",
+        "* Vibration or clunking — potential dynamic mount failure",
+        "* Rough idle or misfire codes — injector issues",
+        "* Transmission oil leaks — some model years have recalls",
+        "* Poor service history — the AMG GT is unforgiving of neglect"
+      ]
+    },
+    "closingVerdict": "The Mercedes‑AMG GT is a masterpiece — a hand‑built V8 sports car that delivers phenomenal performance. The M178 engine is robust and remarkably tunable, with owners reporting over 700 bhp on stock internals without issues. However, it has known weaknesses: wastegate actuators, dynamic engine mounts, stuck injectors, and transmission leaks. Buy on service history and proof of preventative maintenance. If you're replacing, a reconditioned unit with a 12‑month warranty is the sweet spot.",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes‑AMG GT / GT S / GT C (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle on startup (timing chain issues are rare but possible)",
+      "* Service History — Including which engine variant (GT, GT S, or GT C) — see the Era Map above",
+      "* Boost Health — Test acceleration; any loss of power or whistling? Wastegate actuator risk",
+      "* Vibrations — Any vibration through the cabin? Dynamic engine/transmission mount failure indicator",
+      "* Idle Quality — Any rough idle or misfire? Stuck injector risk",
+      "* Exhaust Flaps — Do the exhaust flaps work correctly? Faulty actuators are common",
+      "* Transmission Leaks — Any oil leaks from the transmission case? Some model years have recalls",
+      "* Engine Warning Light — Have codes been read? Any unresolved boost, injector, or mount issues?"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M178 (GT)",
+        "years": "2015–2020",
+        "power": "456–476 bhp / 600–630 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£9,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M178 (GT S)",
+        "years": "2015–2020",
+        "power": "503–522 bhp / 650–670 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£11,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M178 (GT C)",
+        "years": "2017–2022",
+        "power": "550 bhp / 680 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£7,000–£15,000 [MB‑QUOTE]"
+      }
+    ],
+    "matchNote": "",
+    "technicalSpecs": {
+      "title": "Technical Specs (M178):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "3,982cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "8‑cylinder V (90°)"
+        },
+        {
+          "label": "* Bore × Stroke",
+          "value": "83 mm × 92 mm"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin‑turbo, BorgWarner, hot‑vee layout"
+        },
+        {
+          "label": "* Valvetrain",
+          "value": "DOHC, 4 valves per cylinder"
+        }
+      ]
+    },
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Wastegate actuator / boost issues and dynamic engine mounts — approximately 50% of M178 enquiries [PATTERN DATA]"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "35,000 miles [PATTERN DATA]"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£7,500 reconditioned, supply only [MB‑QUOTE]"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M178 [MB‑VERIFIED]"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Summer — performance car season exposes boost and cooling issues [PATTERN DATA]"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (25%), South East (22%), South West (15%) [PATTERN DATA]"
+      },
+      {
+        "label": "SECTION 8 — FAQ",
+        "value": "1. How much does a Mercedes‑AMG GT / GT S / GT C engine replacement cost in the UK?"
+      },
+      {
+        "label": "A reconditioned M178 engine typically costs £5,000–£10,000 supply only depending on variant, with the GT C sitting at £7,000–£15,000. Fitting adds £1,100–£1,800. Main dealer new engines can exceed £25,000. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes‑AMG GT / GT S / GT C engine reliable?"
+      },
+      {
+        "label": "The M178 is rated ★★★½☆ — it's considered a robust and remarkably durable engine. Owners have logged tens of thousands of miles with tuned engines producing over 700 bhp without significant issues. However, known issues include wastegate actuator/boost problems, stuck injectors, dynamic engine mount failures, and transmission oil leaks.",
+        "value": "3. What are the common problems with the Mercedes‑AMG GT / GT S / GT C?"
+      },
+      {
+        "label": "Wastegate actuator/boost issues, dynamic engine and transmission mount failures (particularly GT C/GT S), stuck injectors, faulty exhaust flaps, and transmission oil leaks. The engine is generally robust with proper maintenance — 200,000–300,000 km examples are not uncommon.",
+        "value": "4. Is it worth replacing a Mercedes‑AMG GT engine, or should I scrap the car?"
+      },
+      {
+        "label": "Depends on vehicle value. Against a well‑kept AMG GT worth £25,000–£60,000, a £7,500 recon is a manageable 12–30% of the vehicle's value — worth it for a well‑maintained example. Given the AMG GT's status and strong retained values, replacement is usually viable for vehicles in good condition.",
+        "value": "5. How do I find my Mercedes‑AMG GT engine code?"
+      },
+      {
+        "label": "Listed on the VIN plate and vehicle documentation. The AMG GT / GT S / GT C uses the M178 4.0‑litre twin‑turbo V8. Tell us your registration date and we'll confirm it for free.",
+        "value": "6. Can I repair the M178's wastegate actuator, or does it need a new engine?"
+      },
+      {
+        "label": "Yes — the wastegate actuator and boost control issues are repairable, typically costing £500–£1,500. If caught early, it does not require engine replacement. At the first sign of power loss or whistling, book an inspection immediately.",
+        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+      }
+    ]
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "Find the best Mercedes‑AMG GT engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and keep your AMG V8 on the road.",
+    "ctaButton": {
+      "label": "Compare Mercedes‑AMG GT Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

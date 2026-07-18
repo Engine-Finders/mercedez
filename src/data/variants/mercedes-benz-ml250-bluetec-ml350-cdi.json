@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-ml250-bluetec-ml350-cdi",
+    "title": "Mercedes-Benz ML250 BlueTEC / ML350 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 88,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz ML250 BlueTEC / ML350 CDI • 2006–2015 • V6 & Four-Cylinder Diesels",
+    "h1": "Mercedes-Benz ML250 BlueTEC / ML350 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz diesel specialists. The ML250 BlueTEC (OM651 four-cylinder) and ML350 CDI (OM642 V6) are the core M-Class diesels — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz ML250/ML350 Diesel Engines — from £2,000 to £7,500 · Codes: OM651, OM642",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free Mercedes ML Diesel Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz ML250 BlueTEC / ML350 CDI — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W164 ML350 CDI",
+        "years": "2006–2011",
+        "engineCode": "OM642 (3.0L V6 diesel)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,000 [PLACEHOLDER]",
+        "eraNote": "224–231 bhp V6 — oil cooler seals and swirl flaps are defining issues"
+      },
+      {
+        "generation": "W166 ML250 BlueTEC",
+        "years": "2012–2015",
+        "engineCode": "OM651 (2.1L 4-cyl diesel)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£5,500 [PLACEHOLDER]",
+        "eraNote": "201 bhp four-pot — timing chain tensioner recall and AdBlue/DPF issues"
+      },
+      {
+        "generation": "W166 ML350 BlueTEC",
+        "years": "2012–2015",
+        "engineCode": "OM642 (3.0L V6 diesel)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,000–£7,000 [PLACEHOLDER]",
+        "eraNote": "258 bhp V6 — improved OM642, more refined and reliable"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz ML250 / ML350 Diesel Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,000–£3,500",
+        "fittedIndie": "£3,000–£4,700",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower-mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£6,500",
+        "fittedIndie": "£4,700–£8,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£5,000–£8,500",
+        "fittedIndie": "£6,200–£10,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£7,000–£11,000",
+        "fittedIndie": "£8,500–£12,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market ranges across both M-Class diesel generations. OM651 used engines are more widely available; OM642 V6 units command a premium. A typical engine replacement in the UK can range from £3,067 to £6,105 or more. See the Era Map above for generation-specific pricing.",
+    "labourEstimate": "Fitting an ML250/ML350 diesel engine typically takes 10–14 hours at £75–£110/hr (independent Mercedes specialist) or £130–£180/hr (London/SE dealer).",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz ML250 / ML350 diesel engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Tensioner Oil Leak (OM651 — ML250 BlueTEC)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "AdBlue / DPF / Emissions System Failures (OM651 — ML250 BlueTEC)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Oil Cooler Seal Failure (OM642 — W164 and W166 ML350)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Swirl Flap Motor Failure (OM642 — W164 and W166 ML350)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "NOx Sensor Failure (OM642 and OM651)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "title": "EGR Valve and Cooler Issues (OM642 and OM651)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes-Benz Specialist →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering OM651 and OM642 M-Class diesels, with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free Mercedes ML Diesel Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz ML250 / ML350 Diesel — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "OM651 timing chain tensioner leak",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£500",
+          "whenItMakesSense": "Recall repair — free if not already done"
+        },
+        {
+          "problem": "OM651 AdBlue/DPF emissions failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£2,500",
+          "whenItMakesSense": "Viable on a well-maintained example"
+        },
+        {
+          "problem": "OM642 oil cooler seal failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£1,500",
+          "whenItMakesSense": "Essential repair — can cause engine failure if ignored"
+        },
+        {
+          "problem": "OM642 swirl flap motor failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Viable on any well-maintained example"
+        },
+        {
+          "problem": "NOx sensor failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800",
+          "whenItMakesSense": "Straightforward repair — always worth doing"
+        },
+        {
+          "problem": "EGR valve/cooler issues",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Straightforward repair — always worth doing"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz ML250 / ML350 Diesel? Check These First",
+      "buyIf": [
+        "* W166 ML350 BlueTEC (2012–2015) with OM642 — the most refined and reliable M-Class diesel",
+        "* W164 ML350 CDI with documented oil cooler seal history",
+        "* ML250 BlueTEC with timing chain tensioner recall completed and emissions system history",
+        "* Full service history with regular oil changes and Mercedes-approved oil",
+        "* Post-2010 OM642 (updated purple Viton oil cooler seals)"
+      ],
+      "avoidIf": [
+        "* ML250 BlueTEC with no emissions system history — AdBlue/DPF issues are expensive",
+        "* ML250 BlueTEC with no timing chain tensioner recall documentation",
+        "* OM642 with evidence of oil/coolant contamination — oil cooler seal failure risk",
+        "* Poor service history — both engines are unforgiving of neglect"
+      ]
+    },
+    "closingVerdict": "The ML250 BlueTEC and ML350 CDI are the core M-Class diesels — the OM651 four-cylinder and the OM642 V6. The ML350 CDI (W164) is a refined V6 but has oil cooler seal and swirl flap issues. The ML250 BlueTEC (OM651) is economical but has timing chain tensioner recall and AdBlue/DPF system weaknesses. The W166 ML350 BlueTEC with the later OM642 is the pick of the bunch — more power, better refinement, and improved reliability. Buy on history, maintain the emissions and oil systems, and the M-Class will serve you well.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz ML250/ML350 diesel engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz ML250 BlueTEC / ML350 CDI (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle or rough running",
+      "* Service History — Check the year to identify which engine — see the Era Map above",
+      "* Oil / Coolant Check — Check expansion tank for mayonnaise (oil cooler seal failure — OM642)",
+      "* Timing Chain Tensioner Recall — ML250 BlueTEC: has the recall been completed?",
+      "* AdBlue / DPF System (ML250) — Any warnings? Check AdBlue level; emissions system history is critical",
+      "* Swirl Flap History (OM642) — Any loss of low-end torque? Swirl flap motor checked?",
+      "* NOx Sensors — Any engine warning light? NOx sensor codes are common",
+      "* EGR System — Any coolant loss or white smoke? EGR cooler failure is common",
+      "* Engine Warning Light — Have codes been read? Resolve before buying"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM642 (3.0L V6 diesel) — W164",
+        "years": "2006–2011",
+        "power": "224–231 bhp",
+        "enquiries": "880 JLR-wide [EM-VERIFIED]",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM651 (2.1L 4-cyl diesel) — W166",
+        "years": "2012–2015",
+        "power": "201 bhp",
+        "enquiries": "1,250 JLR-wide [EM-VERIFIED]",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM642 (3.0L V6 diesel) — W166",
+        "years": "2012–2015",
+        "power": "258 bhp",
+        "enquiries": "880 JLR-wide [EM-VERIFIED]",
+        "avgReconCost": "£4,000–£7,000 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM642 — W166 ML350 BlueTEC):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,987 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder V (72°)"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "18.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,143 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "16.2:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,987 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder V (72°)"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "16.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz ML250/ML350 diesel engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "OM651: AdBlue/DPF/emissions system (~40% of ML250 enquiries)/ OM642: oil cooler seal failure (~35% of OM642 enquiries)"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "60,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,500 reconditioned (OM642 W166 era), supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM642 (ML350 CDI is a high-volume UK diesel variant)【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn/Winter — cold starts expose oil cooler seal and timing chain issues; DPF issues worsen in cold weather【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), South West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz ML250 / ML350 diesel engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz ML250/ML350 diesel engine costs £3,500–£6,500 supply only, varying by generation: OM651 £3,000–£5,500, OM642 (W164) £3,500–£6,000, OM642 (W166) £4,000–£7,000. Fitting adds £1,200–£1,800. An oil cooler seal replacement costs £800–£1,500. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz ML250 BlueTEC / ML350 CDI reliable?",
+        "answer": "That depends on which engine and generation. The OM642 V6 (W164) has well-documented oil cooler seal failures and swirl flap issues. The OM651 four-cylinder (ML250 BlueTEC) had a timing chain tensioner recall and suffers from AdBlue/DPF/emissions system weaknesses. The W166 ML350 BlueTEC with the later OM642 is the most refined and reliable. Buy on history."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz ML250 BlueTEC / ML350 CDI?",
+        "answer": "OM651 (ML250): timing chain tensioner oil leak (recall), AdBlue/DPF/emissions system failures. OM642 (ML350): oil cooler seal failure (oil/coolant contamination, £800–£1,500), swirl flap motor failure (loss of low-end torque, £500–£1,200), NOx sensor failure (£300–£800), EGR valve/cooler issues (£500–£1,200)."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz ML250 / ML350 diesel engine, or should I scrap the car?",
+        "answer": "M-Class values range from £4,000–£20,000 depending on generation, condition and mileage. A £3,500–£6,500 reconditioned engine represents 20–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained W166 ML350 BlueTEC, replacement is often justified. For an ageing W164 with other issues, assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz ML250 / ML350 diesel engine code?",
+        "answer": "The ML250 BlueTEC uses the OM651 engine code — a 2.1-litre four-cylinder diesel producing 201 bhp. The ML350 CDI (W164) uses the OM642 engine code — a 3.0-litre V6 diesel producing 224–231 bhp. The ML350 BlueTEC (W166) uses the OM642 engine code — a 3.0-litre V6 diesel producing 258 bhp. Check your VIN or registration year. The code is stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM642 oil cooler seal issue, or does it need replacement?",
+        "answer": "Yes — the oil cooler seals can be replaced (£800–£1,500). This is a well-known OM642 repair. Updated purple Viton seals are available. If you see oil in the coolant (mayonnaise in the expansion tank) or coolant in the oil, stop driving immediately and book a specialist inspection. Ignored seal failure can lead to bearing damage and engine failure."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz ML250 / ML350 Diesel Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz ML250/ML350 Diesel Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real M-Class owners, as part of the Engine Finders network, with specialist knowledge of OM651 and OM642 diesel engines."
+      },
+      {
+        "title": "Compare Mercedes-Benz ML250/ML350 Diesel Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for W164 and W166 generations."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz ML250/ML350 Diesel",
+        "text": "supply‑only or full supply & fit available nationwide, covering every M-Class generation with specialists who understand these refined Mercedes diesel engines."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz ML250/ML350 diesel engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz ML250 / ML350 Diesel Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

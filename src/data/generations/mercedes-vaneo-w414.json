@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "slug": "mercedes-vaneo-w414",
+    "title": "Mercedes Vaneo W414 Engines — The Complete UK Guide",
+    "titleCharCount": 51,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes Vaneo W414 • MPV • 2001–2005",
+    "h1": "Mercedes Vaneo W414 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Mercedes Vaneo compact MPV — from the M166 1.6-litre petrol to the 1.9-litre petrol and the OM668 1.7 CDI turbodiesel that powered Mercedes' most versatile family carrier. Real UK costs, honest reliability data, and the sandwich-floor layout that defined this A-Class-based people-mover. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "W414 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "MPV"
+      },
+      {
+        "icon": "📖",
+        "label": "6 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W414 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes Vaneo W414 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W414 MPV specifically — including the full M166 petrol range and the OM668 turbodiesel line.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W414)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M166.960",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.6L (1598cc)",
+        "power": "102 PS / 75 kW",
+        "years": "2001–2005",
+        "variants": "Vaneo 1.6",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,200–£2,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M166.961",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.6L (1598cc)",
+        "power": "82 PS / 60 kW",
+        "years": "2002–2005",
+        "variants": "Vaneo 1.6",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,100–£2,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M166.991",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.9L (1898cc)",
+        "power": "125 PS / 92 kW",
+        "years": "2002–2005",
+        "variants": "Vaneo 1.9",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,400–£2,600 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM668.914",
+        "family": "OM668",
+        "fuel": "Diesel",
+        "displacement": "1.7L (1689cc)",
+        "power": "75 PS / 55 kW",
+        "years": "2002–2005",
+        "variants": "Vaneo 1.7 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM668.914",
+        "family": "OM668",
+        "fuel": "Diesel",
+        "displacement": "1.7L (1689cc)",
+        "power": "91 PS / 67 kW",
+        "years": "2002–2005",
+        "variants": "Vaneo 1.7 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,600–£3,000 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes Vaneo W414 — Overview",
+    "intro": "The W414 is the Mercedes-Benz Vaneo, a compact MPV produced from 2001 to 2005 as the brand's first purpose-built people-mover. Based on the first-generation A-Class (W168) platform with its signature 'sandwich floor' construction, the Vaneo offered seating for up to seven passengers in a van-like driving position with a high roofline. The engine range was limited to four-cylinder units — M166 petrols in 1.6-litre and 1.9-litre displacements, plus the OM668 1.7-litre CDI turbodiesel. Front-wheel drive was standard across the range, with manual and automatic transmissions available.",
+    "keyFacts": "Platform: Mercedes W168 (first-generation A-Class) • Predecessor: None (first Vaneo) • Successor: Mercedes-Benz B-Class, Citan • Sibling body styles in this generation: Mercedes-Benz A-Class (W168).",
+    "marketIntelligenceLine": "The W414 Vaneo generated UK engine enquiries in 2025 [PATTERN DATA], with the M166 petrol and OM668 diesel remaining the most commonly discussed among specialists."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode — one paragraph: The W414's most dependable engine is the M166.991 1.9-litre petrol (125 PS) — the most powerful option in the range, offering strong performance for the Vaneo's 1.3-tonne kerb weight. The M166.960 1.6-litre petrol (102 PS) is the best value option — simple, robust, and free of turbocharger complexity. The OM668 1.7 CDI diesel offers excellent fuel economy (as low as 5.6 l/100km extra-urban) but suffers from typical common-rail injector and EGR issues as mileage climbs. The M166.961 82 PS petrol is the entry-level engine — underpowered for a seven-seater MPV and best avoided unless you prioritise purchase price over performance. For most buyers, the 1.9-litre petrol represents the sweet spot — enough power for fully loaded family trips without the diesel's DPF and injector complications.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes Vaneo W414 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M166.960 (1.6 102 PS)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Ignition coil failure, MAF sensor",
+        "repairCostSpecialist": "£150–£350",
+        "replacementCostRecon": "£1,200–£2,200",
+        "ownershipVerdict": "Best Value — the sensible petrol choice"
+      },
+      {
+        "engine": "M166.961 (1.6 82 PS)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Ignition coil failure, thermostat",
+        "repairCostSpecialist": "£150–£350",
+        "replacementCostRecon": "£1,100–£2,000",
+        "ownershipVerdict": "Entry Choice — underpowered but cheap to run"
+      },
+      {
+        "engine": "M166.991 (1.9 125 PS)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Thermostat housing, ignition coils",
+        "repairCostSpecialist": "£200–£400",
+        "replacementCostRecon": "£1,400–£2,600",
+        "ownershipVerdict": "Most Reliable — the pick of the range"
+      },
+      {
+        "engine": "OM668.914 (1.7 CDI 75 PS)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Injector wear, EGR clogging",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Economy Diesel — excellent MPG, higher maintenance"
+      },
+      {
+        "engine": "OM668.914 (1.7 CDI 91 PS)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Injector wear, turbo actuator",
+        "repairCostSpecialist": "£300–£700",
+        "replacementCostRecon": "£1,600–£3,000",
+        "ownershipVerdict": "Best Diesel — more power, same reliability"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W414 rule",
+      "text": "A £1,200–£3,000 recon on a sub-£2,000 W414 sits at 60–150% of the car's value — at that point, scrap value usually wins. Against a well-kept £3,500+ example, the same recon drops to 34–86% — still a serious decision. Our 70% Mercedes-Benz threshold is the line — value the car first, then the engine. Given the Vaneo's low residual values, engine replacement is rarely economically viable unless the car is in exceptional condition."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W414 Costs Least To Own?",
+        "answer": "1.6 82 PS (M166.961) — simplest engine, cheapest parts, no turbo."
+      },
+      {
+        "question": "Which W414 Costs Most To Own?",
+        "answer": "1.7 CDI (OM668.914) — diesel injector and EGR maintenance adds up."
+      },
+      {
+        "question": "Which W414 Is Best Value?",
+        "answer": "1.9 125 PS (M166.991) — best power-to-weight, proven reliability, no diesel complications."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M166 Petrol Ignition Coil Failure",
+        "affectedModels": "W414 Vaneo 1.6, 1.9 (all M166 petrol variants).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The M166's coil-on-plug ignition system is prone to coil pack failure, leading to misfires, rough idle, and reduced power. The issue is exacerbated by age and heat cycling in the compact engine bay.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£300–£500",
+            "specialist": "£150–£300",
+            "work": "Replace faulty coil pack(s) and spark plugs",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,500–£2,500",
+            "specialist": "£1,200–£2,200",
+            "work": "Full engine strip and rebuild if misfire has caused bore damage",
+            "note": ""
+          }
+        ],
+        "recommendation": "At the first sign of a misfire or rough idle, have the coil packs and spark plugs replaced — £150–£300 is cheap insurance against the £1,200+ replacement that follows if a persistent misfire damages the cylinder bore.",
+        "cta": {
+          "label": "Compare M166 engine prices for your W414 Vaneo →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM668 Diesel Injector Wear & EGR Clogging",
+        "affectedModels": "W414 Vaneo 1.7 CDI (all OM668 diesel variants).",
+        "typicalFailureMileage": "80,000–130,000 miles.",
+        "rootCause": "The OM668's common-rail injectors wear over time, causing poor cold starting, increased smoke, and reduced fuel economy. The EGR valve clogs with soot, particularly on cars used for short urban journeys.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£500–£900",
+            "specialist": "£300–£600",
+            "work": "Injector refurbishment, EGR cleaning",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£2,500–£4,000",
+            "specialist": "£1,800–£3,200",
+            "work": "Full replacement of injectors, EGR, and turbo if damaged",
+            "note": ""
+          }
+        ],
+        "recommendation": "Use premium diesel and give the car a regular motorway run to keep the EGR and DPF clear — a £300 injector service every 80,000 miles is far cheaper than the £1,800+ replacement that follows if injector wear leads to bore wash or turbo damage.",
+        "cta": {
+          "label": "Compare OM668 engine prices for your W414 Vaneo →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Sandwich Floor Engine Mount Wear",
+        "affectedModels": "All W414 Vaneo variants.",
+        "typicalFailureMileage": "70,000–120,000 miles.",
+        "rootCause": "The Vaneo shares the W168's 'sandwich floor' design, which mounts the engine at an angle behind the front axle. The engine mounts and subframe bushes wear over time, causing clunking, vibration, and misalignment that can accelerate drivetrain wear.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£500–£800",
+            "specialist": "£300–£500",
+            "work": "Replace engine mounts and subframe bushes",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,200–£1,800",
+            "specialist": "£900–£1,400",
+            "work": "Full subframe removal and reinforcement if mounts have failed completely",
+            "note": ""
+          }
+        ],
+        "recommendation": "Have the engine mounts inspected at every service after 70,000 miles — £300–£500 in preventative work is a fraction of the £900+ cost if worn mounts cause subframe damage or drivetrain misalignment.",
+        "cta": {
+          "label": "Compare W414 engine mount replacement quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W414 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "1.6 (102 PS)",
+        "engineCode": "M166.960",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,200–£2,200",
+        "rebuiltSupply": "£1,800–£3,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "1.6 (82 PS)",
+        "engineCode": "M166.961",
+        "usedSupply": "£550–£1,100",
+        "reconditionedSupply": "£1,100–£2,000",
+        "rebuiltSupply": "£1,700–£2,800",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "1.9 (125 PS)",
+        "engineCode": "M166.991",
+        "usedSupply": "£700–£1,400",
+        "reconditionedSupply": "£1,400–£2,600",
+        "rebuiltSupply": "£2,200–£3,800",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "1.7 CDI (75 PS)",
+        "engineCode": "OM668.914",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "1.7 CDI (91 PS)",
+        "engineCode": "OM668.914",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,600–£3,000",
+        "rebuiltSupply": "£2,800–£4,200",
+        "labourHours": "10–14 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "1.7 CDI (75 PS)",
+      "1.7 CDI (91 PS)"
+    ],
+    "petrolVariants": [
+      "1.6 (102 PS)",
+      "1.6 (82 PS)",
+      "1.9 (125 PS)"
+    ],
+    "scopeNote": "All variants listed are W414 five-door MPV only. The Vaneo shares its platform and engines with the W168 A-Class but is a standalone model. Production ran from 2001 to 2005, with the Vaneo replaced by the B-Class and later the Citan."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

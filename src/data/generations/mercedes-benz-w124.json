@@ -1,0 +1,763 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-w124",
+    "title": "W124 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 44,
+    "description": "Every Mercedes-Benz W124 engine — M102, M103, M104, M111, M119, OM601, OM602, OM603, OM605, OM606. Real UK costs and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 157,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz W124 • Saloon/Estate/Coupé • 1985–1995",
+    "h1": "Mercedes-Benz W124 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the W124 E-Class — from the 2.0-litre four-cylinder to the 6.0-litre AMG V8. Real UK costs, honest reliability data, and the M104 six that defined a generation. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "W124 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon/Estate/Coupé"
+      },
+      {
+        "icon": "📖",
+        "label": "10+ Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W124 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes-Benz W124 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W124 saloon specifically — across the full 1985–1995 production run, from the entry-level 200 D to the range-topping 500 E.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M102.922",
+        "family": "M102",
+        "fuel": "Petrol, carb",
+        "displacement": "2.0L (1,997cc)",
+        "power": "109 bhp",
+        "years": "1985–1992",
+        "variants": "200",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,200–£2,200 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M102.963",
+        "family": "M102",
+        "fuel": "Petrol, injection",
+        "displacement": "2.0L (1,997cc)",
+        "power": "118–122 bhp",
+        "years": "1985–1993",
+        "variants": "200 E",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,200–£2,200 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M102.982",
+        "family": "M102",
+        "fuel": "Petrol, injection",
+        "displacement": "2.3L (2,299cc)",
+        "power": "132–136 bhp",
+        "years": "1985–1993",
+        "variants": "230 E",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M103.940",
+        "family": "M103",
+        "fuel": "Petrol, injection",
+        "displacement": "2.6L (2,599cc)",
+        "power": "158–166 bhp",
+        "years": "1985–1992",
+        "variants": "260 E",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M103.980",
+        "family": "M103",
+        "fuel": "Petrol, injection",
+        "displacement": "3.0L (2,960cc)",
+        "power": "177–188 bhp",
+        "years": "1985–1992",
+        "variants": "300 E",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M104.942",
+        "family": "M104",
+        "fuel": "Petrol, injection",
+        "displacement": "2.8L (2,799cc)",
+        "power": "193 bhp",
+        "years": "1992–1995",
+        "variants": "280 E",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M104.980",
+        "family": "M104",
+        "fuel": "Petrol, injection",
+        "displacement": "3.0L (2,960cc)",
+        "power": "217 bhp",
+        "years": "1989–1993",
+        "variants": "300 E-24",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M104.992",
+        "family": "M104",
+        "fuel": "Petrol, injection",
+        "displacement": "3.2L (3,199cc)",
+        "power": "217–220 bhp",
+        "years": "1993–1995",
+        "variants": "E 320",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M111.940",
+        "family": "M111",
+        "fuel": "Petrol, injection",
+        "displacement": "2.0L (1,998cc)",
+        "power": "134–136 bhp",
+        "years": "1993–1995",
+        "variants": "E 200",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M111.960",
+        "family": "M111",
+        "fuel": "Petrol, injection",
+        "displacement": "2.2L (2,199cc)",
+        "power": "150 bhp",
+        "years": "1993–1995",
+        "variants": "E 220",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M119.974",
+        "family": "M119",
+        "fuel": "Petrol, V8",
+        "displacement": "5.0L (4,973cc)",
+        "power": "322–326 bhp",
+        "years": "1990–1995",
+        "variants": "500 E / E 500",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£9,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M119.974 (AMG)",
+        "family": "M119",
+        "fuel": "Petrol, V8",
+        "displacement": "6.0L (5,956cc)",
+        "power": "381 bhp",
+        "years": "1994–1995",
+        "variants": "E 60 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£14,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM601.912",
+        "family": "OM601",
+        "fuel": "Diesel",
+        "displacement": "2.0L (1,997cc)",
+        "power": "72–75 bhp",
+        "years": "1985–1995",
+        "variants": "200 D, E 200 D",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM602.912",
+        "family": "OM602",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.5L (2,497cc)",
+        "power": "90–94 bhp",
+        "years": "1985–1993",
+        "variants": "250 D",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM602.962",
+        "family": "OM602",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.5L (2,497cc)",
+        "power": "122–129 bhp",
+        "years": "1988–1993",
+        "variants": "300 D Turbo",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM603.960",
+        "family": "OM603",
+        "fuel": "Diesel, turbo",
+        "displacement": "3.0L (2,996cc)",
+        "power": "143–148 bhp",
+        "years": "1986–1988",
+        "variants": "300 D Turbo",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM605.911",
+        "family": "OM605",
+        "fuel": "Diesel",
+        "displacement": "2.5L (2,497cc)",
+        "power": "113 bhp",
+        "years": "1993–1995",
+        "variants": "E 250 D",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM606.910",
+        "family": "OM606",
+        "fuel": "Diesel",
+        "displacement": "3.0L (2,996cc)",
+        "power": "134 bhp",
+        "years": "1993–1995",
+        "variants": "E 300 D",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,200 [PLACEHOLDER]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes-Benz W124 — Overview",
+    "intro": "The Mercedes-Benz W124 is the executive saloon that defined a generation, produced from January 1985 to August 1995. The successor to the legendary W123, the W124 brought a lower drag coefficient (0.30), multi-link rear suspension and a level of build quality that cemented its reputation as one of the best-engineered cars of its era. The engine range spanned from the 2.0-litre OM601 diesel (72 bhp) through the silky M103 and M104 straight-six petrols to the fearsome M119 V8 in the 500 E — a car engineered in partnership with Porsche. From 1993, the range was officially rebadged as the E-Class, adopting the E-prefix nomenclature (E 200, E 220, E 320, E 500) that continues to this day.",
+    "keyFacts": "Platform: Mercedes-Benz W124 (saloon) • Predecessor: W123 • Successor: W210 • Sibling body styles in this generation: S124 Estate, C124 Coupé, A124 Cabriolet.",
+    "marketIntelligenceLine": "The W124 saloon attracts strong specialist interest in the UK classic car market, with M103 and M104 six-cylinder enquiries dominating pre-purchase inspections and restoration planning [PATTERN DATA]."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode applied — compressed to a single paragraph. Best & Worst Engines: The W124's engine range is one of the most diverse in Mercedes history, spanning three decades of engineering evolution. At the top sits the OM602 and OM603 diesel sixes — legendary for their longevity, with many exceeding 300,000 miles on original internals. The M104 3.2-litre straight-six (E 320) is the pick of the petrols — silky, powerful and robust, though the head gasket can fail on high-mileage examples. The M103 3.0-litre (300 E) offers similar character with slightly less complexity. The M102 four-cylinders (200/230 E) are workhorses — reliable but underpowered by modern standards. The M119 V8 (500 E/E 500) is a masterpiece — 326 bhp, Porsche-engineered chassis and a genuine modern classic, but running costs are significant. The OM601 2.0-litre diesel (200 D) is the slowest — 0-60 mph in over 18 seconds — but also one of the most durable engines ever built. For most buyers, the M104 six (E 280/E 320) or OM602/OM603 diesel represent the sweet spot between character, performance and running costs. Who it's for: buyers who want the sweet spot between classic Mercedes character and usable performance.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes-Benz W124 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M102 (200/230 E)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Timing chain (single-row), head gasket",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£1,200–£2,800",
+        "ownershipVerdict": "Solid Choice — reliable but underpowered"
+      },
+      {
+        "engine": "M103 (260 E/300 E)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Head gasket (oil in coolant), timing cover leaks",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£2,000–£4,000",
+        "ownershipVerdict": "Best Six — characterful and robust"
+      },
+      {
+        "engine": "M104 (280 E/320 E)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Head gasket, wiring harness degradation",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,500–£5,500",
+        "ownershipVerdict": "Silky Six — the pick of the petrols"
+      },
+      {
+        "engine": "M111 (E 200/E 220)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Head gasket, coil pack failure",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Modern Four — reliable, efficient"
+      },
+      {
+        "engine": "M119 (500 E/E 500)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Wiring harness, throttle actuator, suspension wear",
+        "repairCostSpecialist": "£1,000–£3,000",
+        "replacementCostRecon": "£5,000–£9,000",
+        "ownershipVerdict": "Legend — spectacular but costly"
+      },
+      {
+        "engine": "OM601 (200 D)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Glow plugs, injector wear",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Indestructible — slow but unburstable"
+      },
+      {
+        "engine": "OM602/603 (250/300 D)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Glow plugs, injector wear, turbo (OM602.962)",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£2,000–£5,000",
+        "ownershipVerdict": "Legendary Diesel — 300k+ mile potential"
+      },
+      {
+        "engine": "OM605/606 (E 250 D/E 300 D)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Glow plugs, injector wear, turbo (where fitted)",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£2,200–£5,200",
+        "ownershipVerdict": "Modern Diesel — refined and durable"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W124 rule",
+      "text": "A £3,000–£5,000 M104 recon against a £5,000–£15,000 W124 sits at 20–100% of the car's value. On a sub-£5,000 example, that brushes our 70% Mercedes-Benz threshold — we'll honestly tell you to walk away. Against a well-kept £10,000+ example, the same recon drops to a routine 30–50% — a repair decision, not a financial one. For diesels, the economics are even more favourable — a £2,000–£3,500 OM602 recon on a £8,000 example is just 25–44%. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W124 Costs Least To Own?",
+        "answer": "OM602 diesel — legendary durability, simple mechanics."
+      },
+      {
+        "question": "Which W124 Costs Most To Own?",
+        "answer": "M119 V8 (500 E) — complex, parts expensive, specialist-only."
+      },
+      {
+        "question": "Which W124 Is Best Value?",
+        "answer": "M104 six (E 280/E 320) — the sweet spot between performance and running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M103/M104 Head Gasket Failure (Oil in Coolant)",
+        "affectedModels": "260 E, 300 E, 280 E, 320 E (M103 and M104 six-cylinder petrols) — 1985–1995 production.",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The head gasket on the M103 and M104 can fail between the oil and coolant passages, allowing engine oil to enter the cooling system. This typically does not affect compression — the engine continues to run — but oil floating in the coolant reservoir is the classic warning sign. External oil leaks from the head gasket at the rear, exhaust side of the engine often precede the appearance of oil in the coolant.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "Check the coolant reservoir regularly — if you see oil floating on top, have the head gasket inspected immediately. An £800–£1,500 head gasket replacement is dramatically cheaper than the £2,500+ rebuild that follows if ignored.",
+        "cta": {
+          "label": "Compare W124 M103/M104 head gasket repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Biodegradable Wiring Harness Failure (1993–1995)",
+        "affectedModels": "All 1993–1995 W124 models — particularly M104, M111 and OM605/606 equipped cars.",
+        "typicalFailureMileage": "60,000–120,000 miles (age-related, not mileage).",
+        "rootCause": "Mercedes used biodegradable insulation for engine wiring harnesses in the early 1990s — the insulation becomes brittle, cracks and exposes copper wiring, causing intermittent faults, engine management issues and, in extreme cases, engine fires.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If you're buying a 1993–1995 W124, check whether the engine wiring harness has been replaced — a £400–£900 preventative replacement is cheap insurance against a £1,500+ electrical failure.",
+        "cta": {
+          "label": "Compare W124 wiring harness replacement quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M102 Single-Row Timing Chain Failure",
+        "affectedModels": "Early 200/230 E (M102) — pre-1989 production.",
+        "typicalFailureMileage": "80,000–120,000 miles.",
+        "rootCause": "Early M102 engines used a single-row timing chain which requires periodic replacement — failure results in severe engine damage. Later M102s changed to a double-row chain which offers a much longer life.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If you own an early M102-engined W124 with no documented timing chain replacement, treat it as preventative maintenance — a £500–£1,000 chain replacement is dramatically cheaper than the £1,800+ rebuild that follows a failure.",
+        "cta": {
+          "label": "Compare W124 M102 timing chain repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "OM602/603 Diesel Glow Plug and Injector Wear",
+        "affectedModels": "250 D, 300 D (OM602, OM603) — 1985–1993 production.",
+        "typicalFailureMileage": "100,000–200,000 miles.",
+        "rootCause": "The pre-chamber diesel design is inherently durable, but glow plugs can fail over time, causing cold-start difficulties. Injectors can also wear, leading to rough running and reduced economy — both are routine maintenance items on high-mileage diesels.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your OM602/603 diesel is difficult to start from cold, have glow plugs and injectors checked — a £200–£400 preventative repair is dramatically cheaper than the £1,000+ cylinder head repair that follows a seized injector.",
+        "cta": {
+          "label": "Compare W124 diesel glow plug and injector repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W124 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "200 / 200 E",
+        "engineCode": "M102.922 / M102.963",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,200–£2,200",
+        "rebuiltSupply": "£2,000–£3,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "230 E",
+        "engineCode": "M102.982",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "260 E",
+        "engineCode": "M103.940",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "300 E",
+        "engineCode": "M103.980",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£4,000",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "280 E",
+        "engineCode": "M104.942",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "300 E-24",
+        "engineCode": "M104.980",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 320",
+        "engineCode": "M104.992",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 200 / E 220",
+        "engineCode": "M111.940 / M111.960",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£2,800–£4,800",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "500 E / E 500",
+        "engineCode": "M119.974",
+        "usedSupply": "£3,000–£5,500",
+        "reconditionedSupply": "£5,000–£9,000",
+        "rebuiltSupply": "£7,500–£12,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "E 60 AMG",
+        "engineCode": "M119.974 (6.0L)",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "200 D / E 200 D",
+        "engineCode": "OM601.912",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "250 D",
+        "engineCode": "OM602.912",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "300 D Turbo",
+        "engineCode": "OM602.962",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "300 D Turbo",
+        "engineCode": "OM603.960",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 250 D",
+        "engineCode": "OM605.911",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£4,000",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 300 D",
+        "engineCode": "OM606.910",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£5,200",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "200 D",
+      "250 D",
+      "300 D",
+      "300 D Turbo",
+      "E 200 D",
+      "E 250 D",
+      "E 300 D"
+    ],
+    "petrolVariants": [
+      "200",
+      "200 E",
+      "230 E",
+      "260 E",
+      "280 E",
+      "300 E",
+      "300 E-24",
+      "E 200",
+      "E 220",
+      "E 280",
+      "E 320",
+      "500 E",
+      "E 500",
+      "E 60 AMG"
+    ],
+    "scopeNote": ""
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz W124 engine replacement cost in the UK?",
+        "answer": "A reconditioned W124 engine typically costs between £1,200 and £14,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the volume M102 four sits at £1,200–£2,200, the M104 six at £2,500–£5,500, and the M119 V8 in the 500 E at £5,000–£14,000. Fitting adds 8–24 hours of labour at specialist rates — budget an additional £520–£1,560 for installation. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes-Benz W124 engine is the most reliable?",
+        "answer": "The OM602 and OM603 diesel sixes (250 D, 300 D) are legendary for their longevity — many exceed 300,000 miles on original internals. The OM601 2.0-litre diesel (200 D) is also nearly indestructible, though extremely slow. Among petrols, the M104 3.2-litre straight-six (E 320) offers excellent reliability when maintained, though head gasket replacement is common at higher mileages."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz W124?",
+        "answer": "Head gasket failure on the M103/M104 six-cylinder petrols (oil in coolant), biodegradable wiring harness failure on 1993–1995 models, single-row timing chain failure on early M102 four-cylinders, and glow plug/injector wear on the OM602/603 diesels are the most documented issues. The 500 E's M119 V8 can suffer from wiring harness degradation and throttle actuator issues."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes-Benz W124 reliable?",
+        "answer": "Yes — the W124 is widely regarded as one of the most durable Mercedes ever built. The diesels are legendary for their longevity, and the six-cylinder petrols are robust when properly maintained. The key is preventative maintenance — head gaskets, wiring harnesses and timing chains all have known service intervals. A well-maintained W124 will outlast most modern cars."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes-Benz W124 engine should I avoid?",
+        "answer": "No engine outright — the W124's engine range is one of the most robust of any Mercedes. However, the 500 E (M119 V8) is a specialist proposition — running costs are high and parts are expensive. The OM601 2.0-litre diesel (200 D) is painfully slow (0-60 mph in over 18 seconds) and not suitable for modern traffic. The M102 four-cylinder petrols are reliable but underpowered."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W124 engine needs replacing?",
+        "answer": "Oil in the coolant (M103/M104 head gasket), wiring faults or intermittent engine management (biodegradable wiring harness), cold-start rattle (M102 timing chain), difficult cold starting (OM602/603 glow plugs), or blue smoke from the exhaust are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a W124 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £10,000 E 320, a £4,000 M104 recon is 40% of the car's value — safe. Against a tired £4,000 example, the same recon is 100% — walk away. For diesels, the economics are more favourable — a £3,000 OM602 recon on an £8,000 example is just 37.5%. Our 70% Mercedes-Benz threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes-Benz W124 engines last?",
+        "answer": "The OM602 and OM603 diesel sixes regularly exceed 300,000 miles with proper maintenance. The OM601 2.0-litre diesel is similarly durable. The M104 six-cylinder petrol can comfortably exceed 200,000 miles with regular servicing — head gasket replacement at 80,000–150,000 miles is the main service item. The M119 V8 is robust but demands specialist attention."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W124, S124, C124 and A124?",
+        "answer": "All four share the W124 platform and most engines. The W124 is the 4-door saloon (1985–1995, this page), the S124 is the 5-door estate (1985–1996), the C124 is the 2-door coupé (1987–1996), and the A124 is the 2-door cabriolet (1992–1997). Costs vary slightly by body style due to labour access — see each generation's own page for specifics."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes-Benz W124 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on M102/M103/M104/M111/M119/OM601/OM602/OM603/OM605/OM606 units. Tell us your variant and approximate year and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz W124 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W124 Engine Suppliers",
+        "text": "every Mercedes specialist and engine rebuilder in our network is vetted, rated and reviewed by real W124 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W124 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply-&-fit options side-by-side before you commit — no hidden fees, no pressure."
+      },
+      {
+        "title": "UK Engine Replacement Services for W124",
+        "text": "covering every variant from 200 D to E 500, with supply-only or full supply-&-fit available nationwide from 25+ vetted Mercedes specialists."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz W124 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz W124 Engine Prices on EnginesMarket →",
+      "href": "#",
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
+    }
+  }
+}

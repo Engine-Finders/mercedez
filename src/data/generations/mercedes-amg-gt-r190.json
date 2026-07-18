@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "slug": "mercedes-amg-gt-r190",
+    "title": "Mercedes‑AMG GT R190 Engines — The Complete UK Guide",
+    "titleCharCount": 52,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes‑AMG GT R190 • Roadster • 2017–2021",
+    "h1": "Mercedes‑AMG GT R190 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the AMG GT R190 roadster — the 4.0‑litre M178 twin‑turbo V8 in its 476‑585hp guises. Real UK costs, performance‑car running realities, and the hot‑vee cooling demands that define this generation. Backed by real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "[X]+ R190 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Roadster"
+      },
+      {
+        "icon": "📖",
+        "label": "3 Engine Tunes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore R190 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes‑AMG GT R190 Engine Codes — The Complete Database",
+    "subHeadline": "The M178 twin‑turbo 4.0‑litre V8 across all R190 roadster power outputs — from entry‑level GT to range‑topping GT R.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M178.980",
+        "family": "M178",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "4.0L (3982cc)",
+        "power": "476hp (350kW)",
+        "years": "2017–2021",
+        "variants": "GT (190.477)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£12,000–£16,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M178.980",
+        "family": "M178",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "4.0L (3982cc)",
+        "power": "522hp (385kW)",
+        "years": "2017–2021",
+        "variants": "GT S (190.478)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£12,000–£16,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M178.980",
+        "family": "M178",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "4.0L (3982cc)",
+        "power": "585hp (430kW)",
+        "years": "2017–2021",
+        "variants": "GT R (190.479)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£14,000–£18,000 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "All ratings are PROVISIONAL — no dedicated M178 Engine Page exists yet. The ★★★★☆ rating is derived from specialist consensus (Evo, What Car?) that the M178 is fundamentally robust, with hot‑vee cooling demands as its primary maintenance consideration rather than catastrophic failure. Confirm against the Engine Page once built."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes‑AMG GT R190 — Overview",
+    "intro": "The R190 is the roadster bodystyle of Mercedes‑AMG's first‑generation GT, launched in 2017 as the open‑top counterpart to the C190 coupé. It shares the same aluminium spaceframe chassis and front‑mid‑engine transaxle layout as the coupé, but with a fabric roof that adds character — and weight — to AMG's Porsche 911 fighter. Every R190 is powered by the M178 4.0‑litre twin‑turbo V8 in one of three power outputs.",
+    "keyFacts": "Platform: Mercedes‑AMG C190/R190 aluminium spaceframe • Predecessor: SLS AMG Roadster (spiritual) • Successor: AMG SL R232 (roadster) • Sibling body styles in this generation: C190 Coupé.",
+    "marketIntelligenceLine": "The first‑generation AMG GT (C190/R190 combined) generated real UK engine enquiries in 2025 [MB‑VERIFIED], with the GT R 585hp tune commanding the strongest specialist interest."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M178.980 (GT S, 522hp)",
+        "quote": "The sweet spot of the M178 range: 522hp delivers genuine supercar performance without the GT R's track‑focused suspension compromise, and the same hot‑vee V8 architecture that underpins AMG's most celebrated modern engines.",
+        "whoItsFor": "buyers who want the full AMG V8 experience without the GT R's premium."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M178.980 (GT R, 585hp)",
+        "quote": "The highest‑strung factory tune of the M178 in the R190 line‑up. More power means more heat, and the hot‑vee design already runs cooling systems hard — intercooler and oil cooler integrity are critical on track‑used cars.",
+        "whoItsFor": "track‑day enthusiasts with a maintenance budget to match."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M178.980 (GT, 476hp)",
+        "quote": "Entry‑level power in a £100k+ car sounds modest, but 476hp from a twin‑turbo V8 is still more than enough to exploit the R190's chassis. Lower tune means marginally less strain on the hot‑vee cooling system.",
+        "whoItsFor": "buyers who want AMG V8 character without the highest running costs."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes‑AMG GT R190 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M178.980 (476hp)",
+        "typicalMileage": "20k–40k",
+        "commonMajorFailure": "Intercooler/coolant leaks",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£12,000–£16,000",
+        "ownershipVerdict": "High‑End GT — budget for preventative cooling work"
+      },
+      {
+        "engine": "M178.980 (522hp)",
+        "typicalMileage": "20k–40k",
+        "commonMajorFailure": "Intercooler/coolant leaks, oil separator failure",
+        "repairCostSpecialist": "£1,500–£3,500",
+        "replacementCostRecon": "£12,000–£16,000",
+        "ownershipVerdict": "Sweet Spot — more power, same basic costs"
+      },
+      {
+        "engine": "M178.980 (585hp)",
+        "typicalMileage": "15k–30k",
+        "commonMajorFailure": "Intercooler/coolant, turbo heat stress",
+        "repairCostSpecialist": "£2,000–£5,000",
+        "replacementCostRecon": "£14,000–£18,000",
+        "ownershipVerdict": "Track Special — highest running costs"
+      }
+    ],
+    "economicsRule": {
+      "title": "The R190 rule",
+      "text": "A £14,000–£18,000 M178 recon against a £60,000–£80,000 R190 sits at 18–30% of the car's value — well inside the 70% Mercedes‑Benz threshold. But against a £50,000 high‑mileage example, that same recon reaches 28–36% — still viable, but a significant proportion of the car's residual value. Value the car and its service history first."
+    },
+    "keyTakeaways": []
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M178 Hot‑Vee Cooling System Stress",
+        "affectedModels": "R190 GT, GT S, GT R (all M178.980).",
+        "typicalFailureMileage": "20,000–40,000 miles.",
+        "rootCause": "The M178's hot‑vee design places turbos inside the V of the engine, concentrating heat around critical components. Intercooler and oil cooler seals degrade faster than in conventionally laid‑out V8s, and coolant leaks from plastic crossover pipes are a documented pattern.",
+        "tieredCosts": [],
+        "recommendation": "On a £60,000–£80,000 R190, a £1,500–£3,000 preventative cooling system service is cheap insurance — it protects the £12,000–£18,000 engine that sits at the heart of the car.",
+        "cta": {
+          "label": "Compare M178 engine prices for your R190 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M178 Oil Separator / Rear Main Seal Failure",
+        "affectedModels": "R190 GT, GT S, GT R (higher‑mileage examples).",
+        "typicalFailureMileage": "25,000–45,000 miles.",
+        "rootCause": "The oil vapor separator can fail, leading to increased crankcase pressure — this in turn can push oil past the rear main seal, causing a leak that is labour‑intensive to fix.",
+        "tieredCosts": [],
+        "recommendation": "Monitor oil consumption closely — a sudden increase is the early warning. An £800–£1,500 separator replacement is far cheaper than the £12,000+ engine that follows oil starvation.",
+        "cta": {
+          "label": "Compare M178 engine prices for your R190 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "7‑Speed DCT Transmission Wear",
+        "affectedModels": "All R190 variants.",
+        "typicalFailureMileage": "30,000–50,000 miles.",
+        "rootCause": "The AMG Speedshift DCT 7‑speed transmission can develop jerky shifts, leaks, and premature clutch wear — particularly on cars that have seen track use.",
+        "tieredCosts": [],
+        "recommendation": "A £1,200–£2,500 DCT service is non‑negotiable on the R190 — the gearbox is as costly to replace as many cars are to buy outright.",
+        "cta": {
+          "label": "Compare R190 transmission prices →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "R190 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "GT (476hp)",
+        "engineCode": "M178.980",
+        "usedSupply": "£8,000–£12,000",
+        "reconditionedSupply": "£12,000–£16,000",
+        "rebuiltSupply": "£16,000–£20,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "GT S (522hp)",
+        "engineCode": "M178.980",
+        "usedSupply": "£8,000–£12,000",
+        "reconditionedSupply": "£12,000–£16,000",
+        "rebuiltSupply": "£16,000–£20,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "GT R (585hp)",
+        "engineCode": "M178.980",
+        "usedSupply": "£10,000–£14,000",
+        "reconditionedSupply": "£14,000–£18,000",
+        "rebuiltSupply": "£18,000–£22,000",
+        "labourHours": "18–24 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [],
+    "petrolVariants": [
+      "GT",
+      "GT S",
+      "GT R"
+    ],
+    "scopeNote": "All variants listed are R190 roadster only. C190 coupé shares the same M178 engine line‑up but is covered on its own Generation Page, as fitment and production years vary by body style."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

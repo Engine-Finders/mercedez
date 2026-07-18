@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "slug": "mercedes-sl-r232",
+    "title": "Mercedes SL R232 Engines — The Complete UK Guide",
+    "titleCharCount": 48,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes SL R232 • Roadster • 2022–present",
+    "h1": "Mercedes SL R232 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the seventh-generation SL roadster — from the F1-derived M139 four-cylinder to the thunderous M177 V8 and the 816bhp plug-in hybrid flagship. Real UK replacement costs, honest reliability data, and the first SL developed entirely by AMG. Backed by 880+ real UK Mercedes V8 enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "880+ M177 Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Roadster"
+      },
+      {
+        "icon": "📖",
+        "label": "7 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore R232 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes SL R232 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the R232 roadster — from the electric-turbo four-cylinder to the V8 plug-in hybrid that redefines the SL.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (R232)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M139.580",
+        "family": "M139",
+        "fuel": "Petrol, mild hybrid (48V EQ Boost)",
+        "displacement": "2.0L",
+        "power": "375 bhp",
+        "years": "2023–present",
+        "variants": "SL 43",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177.980",
+        "family": "M177",
+        "fuel": "Petrol, twin-turbo V8",
+        "displacement": "4.0L",
+        "power": "469 bhp",
+        "years": "2022–present",
+        "variants": "SL 55 4MATIC+",
+        "reliability": "★★★★☆ [PROVISIONAL — inherited from Known Failure Patterns]",
+        "enquiries": "880 [MB-VERIFIED]",
+        "avgReconCost": "£6,000–£10,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177.980",
+        "family": "M177",
+        "fuel": "Petrol, twin-turbo V8",
+        "displacement": "4.0L",
+        "power": "577 bhp",
+        "years": "2022–present",
+        "variants": "SL 63 4MATIC+",
+        "reliability": "★★★★☆ [PROVISIONAL — inherited from Known Failure Patterns]",
+        "enquiries": "880 [MB-VERIFIED]",
+        "avgReconCost": "£8,000–£14,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177.880",
+        "family": "M177",
+        "fuel": "Petrol/Plug-in Hybrid",
+        "displacement": "4.0L + electric motor",
+        "power": "805 bhp",
+        "years": "2024–present",
+        "variants": "SL 63 S E Performance 4MATIC+",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£9,000–£16,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "M177: 90% confidence — well-understood V8 with established failure patterns; 880 [MB-VERIFIED] enquiries in 2025. M139: 70% confidence — newer engine with F1-derived electric turbo technology; limited long-term data. M177 PHEV: 70% confidence — pattern-data tier; hybrid system adds complexity."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes SL R232 — Overview",
+    "intro": "The R232 is the seventh generation of the Mercedes-Benz SL-Class, presented on 28 October 2021 as the successor to the R231. For the first time, the SL was developed entirely by Mercedes-AMG, sharing its new MSA platform with the second-generation AMG GT. The R232 abandons the retractable hardtop of its predecessor in favour of a fabric roof and returns to a 2+2 seating layout. The range spans from the F1-derived M139 four-cylinder to the 805bhp plug-in hybrid V8.",
+    "keyFacts": "Platform: Mercedes-AMG MSA (Modular Sports Architecture) • Predecessor: Mercedes-Benz SL R231 / Mercedes-AMG GT Roadster (R190) • Successor: — (in production) • Sibling body styles in this generation: None (R232 is a standalone roadster; shares platform with second-generation AMG GT).",
+    "marketIntelligenceLine": "The M177 V8 engine family remains one of the most-requested Mercedes engines in our data, with enquiries concentrated on the SL 55 and SL 63 as these high-performance roadsters enter the used market."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "Omitted",
+        "quote": "no diesel engine fitted to the R232.",
+        "whoItsFor": ""
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M177.980 (SL 63 4MATIC+, 577 bhp)",
+        "quote": "The twin-turbo 4.0-litre V8 is the heart of the AMG SL — 577 bhp, 800 Nm of torque, and a soundtrack that justifies the premium. Valve cover oil leaks and cooling system issues are its known weak points, but the underlying engine is proven across the Mercedes range.",
+        "whoItsFor": "buyers who want the pure V8 SL experience without hybrid complexity."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M139.580 (SL 43, 2.0L four-cylinder)",
+        "quote": "The F1-derived electric turbo four-cylinder is a technological marvel — but it's also the first four-cylinder SL since the 190 SL of the 1950s. The electric turbocharger and 48V system add complexity beyond a conventional engine.",
+        "whoItsFor": "buyers who prioritise efficiency and accept the four-cylinder's character."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M177.880 (SL 63 S E Performance)",
+        "quote": "The plug-in hybrid V8 combines the M177's complexity with a 150 kW electric motor and 6.1 kWh battery. Two powertrains mean two sets of failure points — and the highest replacement cost in the range.",
+        "whoItsFor": "buyers who want the ultimate SL and have the budget to maintain it."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M177.980 (SL 55 4MATIC+, 469 bhp)",
+        "quote": "The entry-level V8 offers the same core engine as the SL 63, with slightly less power but the same character — and significantly lower acquisition and maintenance costs.",
+        "whoItsFor": "buyers who want V8 performance without the flagship premium."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M177.980 (SL 63 4MATIC+, 577 bhp)",
+        "quote": "Often overshadowed by the plug-in hybrid, the pure V8 SL 63 offers genuine supercar performance (3.6s to 60mph) with none of the hybrid system's weight or complexity — and a cleaner engine bay for maintenance.",
+        "whoItsFor": "buyers who want the purest AMG SL experience."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes SL R232 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M139.580 (SL 43)",
+        "typicalMileage": "20k–50k",
+        "commonMajorFailure": "Electric turbo, 48V system",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,500–£5,500",
+        "ownershipVerdict": "Tech Marvel — innovative but complex."
+      },
+      {
+        "engine": "M177.980 (SL 55)",
+        "typicalMileage": "20k–50k",
+        "commonMajorFailure": "Valve cover oil leaks, coolant system",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£6,000–£10,000",
+        "ownershipVerdict": "Best V8 Value — robust, well-understood."
+      },
+      {
+        "engine": "M177.980 (SL 63)",
+        "typicalMileage": "20k–50k",
+        "commonMajorFailure": "Valve cover oil leaks, coolant system",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£8,000–£14,000",
+        "ownershipVerdict": "Flagship V8 — more power, similar risk."
+      },
+      {
+        "engine": "M177.880 (SL 63 S E Perf.)",
+        "typicalMileage": "15k–40k",
+        "commonMajorFailure": "Hybrid battery, V8 + electric complexity",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£9,000–£16,000",
+        "ownershipVerdict": "Most Complex — two powertrains, two risks."
+      }
+    ],
+    "economicsRule": {
+      "title": "The R232 rule",
+      "text": "A £6,000–£14,000 M177 recon against a £100,000–£150,000 R232 sits at 5–15% of the car's value — comfortably within our 70% Mercedes-Benz threshold. Even the £9,000–£16,000 plug-in hybrid recon is only 8–16% against a £100,000+ example. These are premium cars; replacement economics are rarely the deciding factor — but the complexity of the hybrid powertrain demands careful consideration."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which R232 Costs Least To Own?",
+        "answer": "SL 43 (M139) — cheaper engine replacement, better fuel economy."
+      },
+      {
+        "question": "Which R232 Costs Most To Own?",
+        "answer": "SL 63 S E Performance — hybrid V8 complexity and battery replacement risk."
+      },
+      {
+        "question": "Which R232 Is Best Value?",
+        "answer": "SL 55 (M177.980) — V8 character without the hybrid premium."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M177 V8 Valve Cover Oil Leaks",
+        "affectedModels": "R232 SL 55, SL 63 (all M177.980 variants).",
+        "typicalFailureMileage": "20,000–50,000 miles.",
+        "rootCause": "The hot-vee layout concentrates heat between the cylinder banks, accelerating gasket and seal degradation — valve cover oil leaks are the most common complaint, with oil seeping onto exhaust manifolds.",
+        "tieredCosts": [
+          {
+            "tier": "Dealer",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Specialist",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "At the first sign of oil smell or visible seepage around the valve covers, have the gaskets replaced immediately — an £800–£1,500 specialist repair is far cheaper than the £8,000+ replacement that follows if oil loss leads to bearing failure.",
+        "cta": {
+          "label": "Compare M177 engine prices for your R232 SL 63 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M139 Electric Turbocharger & 48V System Failures",
+        "affectedModels": "R232 SL 43 (M139.580 variants).",
+        "typicalFailureMileage": "20,000–50,000 miles.",
+        "rootCause": "The electric exhaust gas turbocharger is a world-first in production vehicles — but the 48V system that powers it and the integrated starter-generator (ISG) can fail, leading to warning lights, reduced power, and in some cases, complete system shutdown.",
+        "tieredCosts": [
+          {
+            "tier": "Dealer",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Specialist",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "The electric turbo system is the defining risk of the M139 — regular inspection of the 48V system is essential, and a £800–£1,500 preventative battery replacement at 30k miles is cheap insurance against a £3,500+ full engine replacement.",
+        "cta": {
+          "label": "Compare M139 engine prices for your R232 SL 43 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M177.880 Plug-in Hybrid System Complexity",
+        "affectedModels": "R232 SL 63 S E Performance.",
+        "typicalFailureMileage": "15,000–40,000 miles.",
+        "rootCause": "Two powertrains — a 4.0-litre V8 at the front and a 150 kW electric motor at the rear — mean twice the systems to fail. The 6.1 kWh battery (4.8 kWh usable) is the single most expensive component; cooling system integration between combustion and electric drivetrains adds further failure points.",
+        "tieredCosts": [
+          {
+            "tier": "Dealer",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Specialist",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "The SL 63 S E Performance is the most complex SL ever built — if you buy one, budget for specialist inspection of both powertrains before purchase, and accept that a full replacement could exceed the value of lesser cars entirely.",
+        "cta": {
+          "label": "Compare R232 hybrid engine prices →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "R232 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "SL 43",
+        "engineCode": "M139.580",
+        "usedSupply": "£2,000–£3,200",
+        "reconditionedSupply": "£3,500–£5,500",
+        "rebuiltSupply": "£5,000–£7,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 55 4MATIC+",
+        "engineCode": "M177.980",
+        "usedSupply": "£3,500–£6,000",
+        "reconditionedSupply": "£6,000–£10,000",
+        "rebuiltSupply": "£8,000–£14,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "SL 63 4MATIC+",
+        "engineCode": "M177.980",
+        "usedSupply": "£4,000–£7,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£10,000–£16,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "SL 63 S E Performance",
+        "engineCode": "M177.880",
+        "usedSupply": "£5,000–£9,000",
+        "reconditionedSupply": "£9,000–£16,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–20 hrs"
+      }
+    ],
+    "note": "No Generation variance from the baseline figures — the R232 shares its MSA platform with the second-generation AMG GT, and engine-bay access is consistent across the range."
+  },
+  "coreVariants": {
+    "dieselVariants": [],
+    "petrolVariants": [
+      "SL 43",
+      "SL 55 4MATIC+",
+      "SL 63 4MATIC+",
+      "SL 63 S E Performance 4MATIC+"
+    ],
+    "scopeNote": "All variants listed are R232 SL roadster only (2022–present). The previous-generation R231 SL (2012–2021) is covered on its own Generation Page. The Mercedes-Maybach SL (introduced August 2024) is a separate variant not covered here."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

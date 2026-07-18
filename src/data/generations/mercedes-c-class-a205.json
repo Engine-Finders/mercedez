@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "slug": "mercedes-c-class-a205",
+    "title": "Mercedes C-Class A205 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes C-Class A205 • Cabriolet • 2016–2023",
+    "h1": "Mercedes C-Class A205 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Mercedes C-Class A205 cabriolet — from the 1.6-litre M274 turbo petrol to the 510bhp AMG V8, plus the OM651 and OM654 diesels that power the UK's favourite open-top executive. Real UK replacement costs, honest reliability data, and the 2018 facelift that brought 48V mild-hybrid tech to the range. Backed by 276+ real UK A205 enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "276+ A205 Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Cabriolet"
+      },
+      {
+        "icon": "📖",
+        "label": "8 Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore A205 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes C-Class A205 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the A205 cabriolet specifically — from the pre‑facelift M274 and OM651 units to the facelift M264 and OM654 families, plus the M177 V8 that powers the C63 AMG.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (A205)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M274.910",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.6L (1595 cc)",
+        "power": "156 bhp (115 kW)",
+        "years": "2016–2018",
+        "variants": "C180",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£3,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1991 cc)",
+        "power": "184 bhp (135 kW)",
+        "years": "2016–2018",
+        "variants": "C200",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1991 cc)",
+        "power": "211 bhp (155 kW)",
+        "years": "2016–2018",
+        "variants": "C250",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1991 cc)",
+        "power": "245 bhp (180 kW)",
+        "years": "2016–2018",
+        "variants": "C300",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651.921",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L (2143 cc)",
+        "power": "170 bhp (125 kW)",
+        "years": "2016–2018",
+        "variants": "C220d",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651.921",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L (2143 cc)",
+        "power": "204 bhp (150 kW)",
+        "years": "2016–2018",
+        "variants": "C250d",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,200–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M264 E15 DEH LA",
+        "family": "M264",
+        "fuel": "Petrol, turbo + 48V MHEV",
+        "displacement": "1.5L (1497 cc)",
+        "power": "184 bhp (135 kW) + 14 bhp (10 kW) EQ Boost",
+        "years": "2018–2023",
+        "variants": "C200",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M264 E20 DEH LA",
+        "family": "M264",
+        "fuel": "Petrol, turbo + 48V MHEV",
+        "displacement": "2.0L (1991 cc)",
+        "power": "258 bhp (190 kW) + 14 bhp (10 kW) EQ Boost",
+        "years": "2018–2023",
+        "variants": "C300",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.0L (1950 cc)",
+        "power": "194 bhp (143 kW)",
+        "years": "2018–2023",
+        "variants": "C220d",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177 DE40 LA",
+        "family": "M177",
+        "fuel": "Petrol, twin-turbo V8",
+        "displacement": "4.0L (3982 cc)",
+        "power": "469–510 bhp (350–380 kW)",
+        "years": "2016–2023",
+        "variants": "C63 / C63 S",
+        "reliability": "★★★★½ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£15,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "All ten engine families are in Case B — no dedicated Engine Page exists yet for any Mercedes M274, M264, OM651, OM654 or M177 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data and cross‑referenced against specialist/owner sources. The M264 and OM654 are considered more reliable than their predecessors; the M177 V8 is robust but carries high running costs. All ratings are provisional pending dedicated Engine Pages."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes C-Class A205 — Overview",
+    "intro": "The A205 is the cabriolet body of Mercedes‑Benz's fourth‑generation C‑Class, launched at the 2016 Geneva Motor Show as the open‑top companion to the W205 saloon and C205 coupé. Built on the lightweight MRA platform, it offered a fully electric fabric roof that could be opened or closed in under 20 seconds at speeds up to 30 mph. A significant 2018 facelift brought new powertrains: the M274 petrol and OM651 diesel were replaced by the more efficient M264 (with 48V mild‑hybrid EQ Boost) and OM654 families. At the top of the range sat the AMG C63 — a 510bhp V8‑powered cabriolet that could hit 62 mph in 4.1 seconds with the roof down.",
+    "keyFacts": "Platform: Mercedes MRA (Modular Rear Architecture) • Predecessor: A204 (C‑Class cabriolet) • Successor: A236 (CLE Cabriolet) • Sibling body styles in this generation: W205 (saloon), S205 (estate), C205 (coupé)",
+    "marketIntelligenceLine": "The A205 cabriolet generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the C220d diesel as these premium cabriolets enter affordable second‑hand ownership."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM654.920 (C220d, facelift)",
+        "quote": "The 2.0‑litre four‑cylinder diesel — 194 bhp, 400 Nm of torque, and a significant step forward from the OM651 it replaced. Quieter, smoother, and more efficient, with a timing chain that's more durable than the OM651's notorious rear‑mounted unit.",
+        "whoItsFor": "buyers who want modern diesel refinement without the OM651's chain concerns."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M264 E20 DEH LA (C300, facelift)",
+        "quote": "The 2.0‑litre turbo petrol with 48V mild‑hybrid assistance — 258 bhp plus 14 bhp EQ Boost, 370 Nm of torque, and the seamless stop‑start that only a 48V system can deliver. It's the sweet spot of the petrol range: more powerful than the C200, but without the AMG's running costs.",
+        "whoItsFor": "buyers who want six‑cylinder performance from a four‑cylinder package with modern hybrid efficiency."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM651.921 (C220d / C250d, pre‑facelift)",
+        "quote": "The 2.1‑litre twin‑turbo diesel — timing chain at the rear of the engine, a £2,500+ job when it fails, and a design that was already ageing by the time the A205 launched in 2016. Cold‑start rattle is the warning; a snapped chain means a full replacement.",
+        "whoItsFor": "buyers who understand the OM651's reputation and budget for chain replacement — or buy the facelift OM654 instead."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M177 DE40 LA (C63 / C63 S)",
+        "quote": "The 4.0‑litre twin‑turbo V8 is a masterpiece, but when it fails — hot‑vee design, valve stem seals, timing chain, or the rear‑main seal leak that affects many M177 units — the repair bills are in a different league. Low production numbers (cabriolet AMG is rare) mean parts are specialist‑only.",
+        "whoItsFor": "collectors and enthusiasts who understand that 510 bhp comes with a six‑figure maintenance budget."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M264 E15 DEH LA (C200, facelift)",
+        "quote": "The 1.5‑litre turbo with 48V mild hybrid — 184 bhp plus 14 bhp EQ Boost, 280 Nm of torque, and the most efficient petrol in the range. It's the entry‑point to the A205 range, but the 48V system makes it feel more refined than its displacement suggests.",
+        "whoItsFor": "buyers who want modern petrol efficiency without the C300's higher running costs."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M264 E20 DEH LA (C300, facelift)",
+        "quote": "The facelift C300 is often overshadowed by the AMG models and the diesel C220d, but it's the quiet achiever of the range — 258 bhp, 48V mild hybrid, and none of the OM651's chain concerns or the M177's running costs.",
+        "whoItsFor": "buyers who want near‑AMG performance with four‑cylinder running costs."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes C-Class A205 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M274.910 (C180, pre‑facelift)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / fuel pump",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,200–£3,800",
+        "ownershipVerdict": "Watch — pre‑facelift M274 has known issues"
+      },
+      {
+        "engine": "M274.920 (C200/C250/C300, pre‑facelift)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / fuel pump",
+        "repairCostSpecialist": "£800–£1,800",
+        "replacementCostRecon": "£2,500–£5,500",
+        "ownershipVerdict": "Watch — higher power = higher risk"
+      },
+      {
+        "engine": "OM651.921 (C220d/C250d, pre‑facelift)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Timing chain (rear)",
+        "repairCostSpecialist": "£1,500–£2,500",
+        "replacementCostRecon": "£2,800–£5,500",
+        "ownershipVerdict": "Highest Risk — rear chain replacement is a big job"
+      },
+      {
+        "engine": "M264 E15 DEH LA (C200, facelift)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Valve / cooling system",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Best Petrol — 48V mild hybrid adds efficiency"
+      },
+      {
+        "engine": "M264 E20 DEH LA (C300, facelift)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Valve / cooling system",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Overlooked Gem — near‑AMG performance"
+      },
+      {
+        "engine": "OM654.920 (C220d, facelift)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Timing chain (rear)",
+        "repairCostSpecialist": "£1,200–£2,000",
+        "replacementCostRecon": "£3,000–£5,000",
+        "ownershipVerdict": "Best Diesel — improved over OM651"
+      },
+      {
+        "engine": "M177 DE40 LA (C63/C63 S)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Valve stem seals / rear‑main seal",
+        "repairCostSpecialist": "£2,000–£5,000",
+        "replacementCostRecon": "£8,000–£15,000",
+        "ownershipVerdict": "Enthusiast Only — fast, but costly"
+      }
+    ],
+    "economicsRule": {
+      "title": "The A205 rule",
+      "text": "A £3,000–£5,000 OM654 recon against a £15,000–£35,000 A205 sits at 8–33% of the car's value — a repair decision, not a financial one. Even the £8,000–£15,000 M177 AMG recon sits at 23–100% against a £15,000 AMG — on a sub‑£20,000 AMG cabriolet, that brushes our 70% Mercedes threshold. Value the car first, and always budget for the cabriolet roof mechanism's maintenance too."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which A205 Costs Least To Own?",
+        "answer": "M264 E15 DEH LA (C200 facelift) — efficient, 48V mild hybrid, low running costs."
+      },
+      {
+        "question": "Which A205 Costs Most To Own?",
+        "answer": "M177 DE40 LA (C63 S) — V8 running costs, AMG parts prices, and cabriolet-specific maintenance."
+      },
+      {
+        "question": "Which A205 Is Best Value?",
+        "answer": "OM654.920 (C220d facelift) — modern diesel efficiency, reliable, and the most common engine in the UK parc."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM651 Rear Timing Chain (Pre‑Facelift Diesel)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any pre‑facelift OM651 A205 over 80,000 miles with no documented chain history, budget for a chain inspection — £1,500–£2,500 now is far cheaper than the £2,800–£5,500 replacement that follows if the chain snaps. The facelift OM654 is a significant improvement.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M274 Timing Chain & Fuel Pump (Pre‑Facelift Petrol)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any pre‑facelift M274 A205, check for documented timing chain and fuel pump history — £800–£1,800 now is far cheaper than the £2,200–£5,500 replacement that follows a failure.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M264 Valve & Cooling System (Facelift Petrol)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "The M264 is generally more reliable than the M274, but valve and cooling system issues are emerging. Regular cooling system checks are recommended on facelift A205s over 60,000 miles.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "A205 Cabriolet Roof Mechanism & Rear‑Window Seal",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "Test the roof mechanism thoroughly before buying any A205 — a £400–£800 repair is far cheaper than the £1,500–£3,000 replacement that follows a complete mechanism failure. Check the rear window seal for signs of delamination.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "A205 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "C180 (pre‑facelift)",
+        "engineCode": "M274.910",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C200 (pre‑facelift)",
+        "engineCode": "M274.920",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C250 (pre‑facelift)",
+        "engineCode": "M274.920",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C300 (pre‑facelift)",
+        "engineCode": "M274.920",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C220d (pre‑facelift)",
+        "engineCode": "OM651.921",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C250d (pre‑facelift)",
+        "engineCode": "OM651.921",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C200 (facelift)",
+        "engineCode": "M264 E15 DEH LA",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C300 (facelift)",
+        "engineCode": "M264 E20 DEH LA",
+        "usedSupply": "£1,800–£3,500",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C220d (facelift)",
+        "engineCode": "OM654.920",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,000–£5,000",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C63 / C63 S",
+        "engineCode": "M177 DE40 LA",
+        "usedSupply": "£4,500–£8,000",
+        "reconditionedSupply": "£8,000–£15,000",
+        "rebuiltSupply": "£12,000–£20,000",
+        "labourHours": "16–20 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M274, M264, OM651, OM654 or M177 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., BMW B58B30, Mercedes OM642), adjusted for the A205's cabriolet‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "C220d",
+      "C250d (pre‑facelift)",
+      "C220d (facelift)"
+    ],
+    "petrolVariants": [
+      "C180",
+      "C200",
+      "C250",
+      "C300 (pre‑facelift)",
+      "C200",
+      "C300 (facelift)",
+      "C63",
+      "C63 S"
+    ],
+    "scopeNote": "All variants listed are A205 two‑door cabriolet only. W205 saloon, S205 estate and C205 coupé share most of these engines but are covered on their own Generation Pages, since the cabriolet's additional structural bracing and roof mechanism affect weight, performance and labour access."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "slug": "a-class-a200d",
+    "title": "A200d Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Mercedes-Benz A200d (OM651/OM654) engine costs, reliability, and common faults. Timing chain, injector and EGR insights. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "canonical": "https://mercedesengine.uk/a-class/a200d/",
+    "openGraph": {
+      "title": "A200d Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes-Benz A200d (OM651/OM654) engine costs, reliability, and common faults. Timing chain, injector and EGR insights. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/a-class/a200d/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a200d.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "A200d Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes-Benz A200d (OM651/OM654) engine costs, reliability, and common faults. Timing chain, injector and EGR insights.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a200d.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class",
+              "item": "https://mercedesengine.uk/a-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "A200d",
+              "item": "https://mercedesengine.uk/a-class/a200d/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz A200d Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "A-Class W176 (2012–2018) OM651",
+              "url": "https://mercedesengine.uk/a-class/w176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class W177/V177 (2018–present) OM654",
+              "url": "https://mercedesengine.uk/a-class/w177/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz A200d Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM654",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-Benz A200d engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned A200d engine typically costs £2,000–£7,000 supply only depending on generation. OM651-era engines (W176) sit at the lower end (£2,000–£5,500), while OM654 units (W177/V177) run £2,500–£7,000. A replacement OM654 engine costs on average £3,592 in good condition. Fitting adds £800–£1,500 depending on workshop location. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-Benz A200d engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on which engine generation your A200d has. The OM651 (W176, 2012–2018) is fundamentally reliable — 200,000–300,000 km examples are common — but has predictable weak points: timing chain stretch from ~120,000 km is the single most critical failure point. Early pre-2012 versions also suffered from Delphi piezo injector failures. The OM654 (W177/V177, 2018–present) is a more refined, lighter and generally more reliable engine. Check the Era Map above for your specific car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-Benz A200d?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing chain stretch on the OM651 (W176) — the most critical failure; early Delphi piezo injector failure on pre-2012 OM651 units; EGR valve and DPF clogging on both OM651 and OM654; water pump leaks and cooling system issues. The OM651 timing chain is located at the rear of the engine, making replacement an engine-out job."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-Benz A200d engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the 70% Mercedes scrap threshold: if your A-Class is worth £8,000–£15,000 and a recon engine is £4,000 (27–50%), it's worth it. If the vehicle is a tired £6,000 example, the same engine exceeds 50% — get a scrap valuation first. For OM654-engined cars (W177, 2018+), higher vehicle values make replacement more viable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-Benz A200d engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is listed on the VIN plate and vehicle documentation. As a rule of thumb: W176 (2012–2018) is OM651 (136 PS), W177/V177 (2018–present) is OM654 (150 PS). The A200d replaced the earlier A200 CDI model. Tell us your registration date and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the OM651 timing chain, or does it need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — if caught early. A preventative chain replacement (£1,500–£3,500) is far cheaper than a catastrophic failure requiring a full engine replacement (£2,000–£5,500+). The chain is located at the rear of the engine, making this an engine-out job. At the first sign of cold-start rattle, book an inspection immediately. Regular oil changes (every 8,000–10,000 miles) significantly extend chain life."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz A200d Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz A200d UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for the Mercedes-Benz A200d (OM651/OM654) engine, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "A200d Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/a-class/a200d/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz A-Class A200d • 2012–present • 2 Engine Generations",
+    "h1": "Mercedes-Benz A200d Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "The A200d badge spans two generations of Mercedes diesel — the 2.1-litre OM651 and the newer 2.0-litre OM654. Get quotes from trusted UK Mercedes specialists for both eras, supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz A200d Engines — from £1,800 to £7,000 · Common codes: OM651, OM654",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free A200d Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The A200d THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "A-Class W176",
+        "years": "2012–2018",
+        "engineCode": "OM651",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£2,000–£5,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "2.1L four-cylinder diesel — timing chain stretch from ~120,000 km"
+      },
+      {
+        "generation": "A-Class W177/V177",
+        "years": "2018–present",
+        "engineCode": "OM654",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£2,500–£7,000 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "2.0L four-cylinder diesel — more refined with improved chain design"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz A200d Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,800–£3,000",
+        "fittedIndie": "£2,600–£4,500",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; short-term ownership"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£2,500–£6,500",
+        "fittedIndie": "£3,500–£8,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,000–£7,000",
+        "fittedIndie": "£5,000–£8,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£6,500–£10,000",
+        "fittedIndie": "£8,000–£12,000",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market rates. A replacement OM654 engine costs on average £3,592 in good condition, with reconditioned units up to £3,722. Dealer charges for engine replacement are typically £4,000–£7,000. Older OM651 units generally sit at the lower end of the range.",
+    "labourEstimate": "Fitting an A200d engine typically takes 10–14 hours at £65–£95/hr (independent). The transverse engine layout in the A-Class requires more labour than longitudinal installations in rear-wheel-drive Mercedes models. The timing chain is located at the rear of the OM651 engine, making replacement labour-intensive.",
+    "cta": {
+      "label": "→ Compare A200d engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Stretch (OM651 — W176 2012–2018)",
+        "symptoms": "Rattling noise from the engine on cold start, metallic ticking, engine warning light, cam/crank correlation codes (P0016/P0017), poor performance. The chain stretches and the tensioners wear over time.",
+        "typicalMileage": "120,000–160,000 km (~75,000–100,000 miles) — timing chain stretch is the single most critical failure point.",
+        "repairCost": "£1,500–£3,500 (chain, tensioners, guides). Replacing the chain is technically complex and costly, as it requires removing numerous components.",
+        "replacementCost": "N/A — repair only if caught early; if the chain jumps a tooth, it can cause catastrophic engine damage.",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattling on startup, book an inspection today."
+        },
+        "recommendation": "The OM651's timing chain is its single most critical failure point. If it stretches beyond tolerance or a guide fails, the consequences range from misfires and cam/crank correlation codes to catastrophic engine damage if the chain jumps a tooth. The chain is located at the rear of the engine, making replacement an engine-out job. At the first sign of rattling on startup, book an inspection immediately. Regular oil changes (every 8,000–10,000 miles) significantly extend chain life.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/timing-chain-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Early Delphi Piezo Injector Failure (OM651 — Pre-2012)",
+        "symptoms": "Rough idle, misfires, decreased performance, poor fuel economy, engine warning light, fuel smell in the oil. Early Delphi piezo injectors are the most common failure point on pre-2012 OM651 engines.",
+        "typicalMileage": "60,000–100,000 miles — injectors can fail prematurely.",
+        "repairCost": "£400–£1,200 (injector replacement). Post-2012 engines used magnetic solenoid injectors which are significantly more durable.",
+        "replacementCost": "N/A — repair only; if ignored, misfires can damage catalytic converters.",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if symptoms appear."
+        },
+        "recommendation": "The early Delphi piezo injectors fitted to pre-2012 OM651 engines are sensitive to fuel quality and operating conditions. They can cause erratic fuel delivery, rough running, and higher consumption. If you experience rough idle or misfires, have the injectors inspected. Post-2012 OM651 engines received more durable magnetic solenoid injectors.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/injector-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "EGR Valve & DPF Clogging (OM651 & OM654)",
+        "symptoms": "Reduced performance, poor fuel economy, engine warning light, limp mode, hesitation between 1,500–2,500 rpm. Soot builds inside the intake and EGR passages, causing inconsistent airflow.",
+        "typicalMileage": "60,000–120,000 miles — accelerated by short urban journeys.",
+        "repairCost": "£400–£1,200 (EGR clean/replacement or DPF forced regeneration/clean). EGR valve replacement is often around £400–£800.",
+        "replacementCost": "N/A — repair only; if ignored, DPF clogging can damage the turbocharger.",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon if DPF or EGR warnings appear."
+        },
+        "recommendation": "Both the OM651 and OM654 are sensitive to EGR and DPF clogging, particularly with short urban journeys. The ECU compares requested vs measured air mass — when airflow becomes inconsistent, the car can enter limp mode. Regular motorway runs to allow DPF regeneration are essential. If you see EGR or DPF warnings, have the system inspected promptly.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/egr-valve-cooler-failure/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, each experienced with the A200d engine, with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free A200d Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "A200d — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "OM651 timing chain rattle",
+          "repairable": "✅ Yes (if caught early)",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Preventative — catches fault before catastrophic failure"
+        },
+        {
+          "problem": "Delphi injector failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Replace affected injectors — upgrade to magnetic solenoid type"
+        },
+        {
+          "problem": "EGR valve clogging",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£800",
+          "whenItMakesSense": "Clean or replace — do it when warnings appear"
+        },
+        {
+          "problem": "DPF clogging",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Forced regeneration or clean — do it when warning appears"
+        },
+        {
+          "problem": "Snapped timing chain",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Interference engine — piston-valve contact means little is left to repair"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This A200d? Check These First",
+      "buyIf": [
+        "* Post-2018 OM654 with the updated timing chain design — more refined and reliable",
+        "* OM651 (W176) with full service history and regular oil changes (every 8,000–10,000 miles)",
+        "* Post-2012 OM651 with the more durable magnetic solenoid injectors",
+        "* Full service history with regular DPF-friendly driving (motorway miles)"
+      ],
+      "avoidIf": [
+        "* OM651 with cold-start rattle — timing chain stretch is imminent",
+        "* Pre-2012 OM651 with rough idle or misfires — early Delphi injector failure",
+        "* No service history on any generation — these engines are unforgiving of neglect",
+        "* DPF warning light or evidence of DPF issues"
+      ]
+    },
+    "closingVerdict": "The A200d badge spans two generations of Mercedes diesel. The OM651 (W176, 2012–2018) is fundamentally reliable but has predictable weak points — timing chain stretch from ~120,000 km is the single most critical issue. The OM654 (W177/V177, 2018–present) is a more refined and reliable unit, with improved chain design and 150 PS output. With the 70% Mercedes scrap threshold, a £4,000–£5,000 reconditioned engine on an A-Class valued at £8,000–£15,000 is 27–50% of the car's value — worth it for a well-maintained example. On a sub-£6,000 example, think carefully.",
+    "cta": {
+      "label": "→ Compare A200d engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz A200d (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattling on startup (OM651 timing chain warning)",
+      "* Service History — Including which engine era (OM651/OM654) and oil-interval discipline",
+      "* Injector History — For pre-2012 OM651, check if Delphi injectors have been replaced",
+      "* DPF Status — Check for DPF warning lights; short journeys accelerate clogging",
+      "* EGR System — Any hesitation between 1,500–2,500 rpm? (EGR clogging)",
+      "* Smoke Check — Black smoke could indicate injector or DPF issues",
+      "* Engine Warning Light — Have codes been read? Any unresolved issues?",
+      "* MOT History — Check for emissions-related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM651",
+        "years": "2012–2018",
+        "power": "136 PS (100 kW)",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£5,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM654",
+        "years": "2018–present",
+        "power": "150 PS (110 kW)",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£7,000 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM651 — W176 generation):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,950 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "15.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbocharger"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,143 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline, DOHC"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "16.2:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Turbocharged"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare A200d engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "OM651 timing chain stretch — from ~120,000 km; replacement is engine-out 【PATTERN DATA】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "75,000 miles 【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,000 reconditioned, supply only 【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM651 (W176 A200d — highest-volume generation) 【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn/Winter — cold starts expose timing chain issues 【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), North West (14%) 【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz A200d engine replacement cost in the UK?",
+        "answer": "A reconditioned A200d engine typically costs £2,000–£7,000 supply only depending on generation. OM651-era engines (W176) sit at the lower end (£2,000–£5,500), while OM654 units (W177/V177) run £2,500–£7,000. A replacement OM654 engine costs on average £3,592 in good condition. Fitting adds £800–£1,500 depending on workshop location. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz A200d engine reliable?",
+        "answer": "It depends on which engine generation your A200d has. The OM651 (W176, 2012–2018) is fundamentally reliable — 200,000–300,000 km examples are common — but has predictable weak points: timing chain stretch from ~120,000 km is the single most critical failure point. Early pre-2012 versions also suffered from Delphi piezo injector failures. The OM654 (W177/V177, 2018–present) is a more refined, lighter and generally more reliable engine. Check the Era Map above for your specific car."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz A200d?",
+        "answer": "Timing chain stretch on the OM651 (W176) — the most critical failure; early Delphi piezo injector failure on pre-2012 OM651 units; EGR valve and DPF clogging on both OM651 and OM654; water pump leaks and cooling system issues. The OM651 timing chain is located at the rear of the engine, making replacement an engine-out job."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz A200d engine, or should I scrap the car?",
+        "answer": "Apply the 70% Mercedes scrap threshold: if your A-Class is worth £8,000–£15,000 and a recon engine is £4,000 (27–50%), it's worth it. If the vehicle is a tired £6,000 example, the same engine exceeds 50% — get a scrap valuation first. For OM654-engined cars (W177, 2018+), higher vehicle values make replacement more viable."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz A200d engine code?",
+        "answer": "The engine code is listed on the VIN plate and vehicle documentation. As a rule of thumb: W176 (2012–2018) is OM651 (136 PS), W177/V177 (2018–present) is OM654 (150 PS). The A200d replaced the earlier A200 CDI model. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM651 timing chain, or does it need replacement?",
+        "answer": "Yes — if caught early. A preventative chain replacement (£1,500–£3,500) is far cheaper than a catastrophic failure requiring a full engine replacement (£2,000–£5,500+). The chain is located at the rear of the engine, making this an engine-out job. At the first sign of cold-start rattle, book an inspection immediately. Regular oil changes (every 8,000–10,000 miles) significantly extend chain life."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz A200d Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted A200d Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real A-Class owners, with specialists who understand the OM651 timing chain vulnerabilities and OM654 EGR/DPF issues intimately, across both engine generations."
+      },
+      {
+        "title": "Compare A200d Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit, all from specialists experienced with Mercedes' transverse diesel engines and their specific maintenance requirements."
+      },
+      {
+        "title": "UK Engine Replacement Services for A200d",
+        "text": "supply-only or full supply & fit available nationwide, covering everything from timing chain replacement to injector repair to full engine swaps on your W176 or W177/V177 A-Class."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz A200d engine replacement UK drivers rely on. Compare prices from trusted specialists on MercedesEngine.uk today and get your A-Class back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz A200d Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

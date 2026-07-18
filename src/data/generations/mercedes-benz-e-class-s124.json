@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-e-class-s124",
+    "title": "Mercedes‑Benz E‑Class S124 Engines — The Complete UK Guide",
+    "titleCharCount": 58,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz E‑Class S124 • Estate • 1985–1996",
+    "h1": "Mercedes‑Benz E‑Class S124 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the S124 estate — from the 72hp OM601 diesel to the 220hp M104 six‑cylinder and the rare AMG 3.6. Real UK costs, classic‑car running realities, and the bulletproof diesel‑six legend that defines this generation. Backed by real UK S124 enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "[X]+ S124 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Estate"
+      },
+      {
+        "icon": "📖",
+        "label": "14 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore S124 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes‑Benz E‑Class S124 Engine Codes — The Complete Database",
+    "subHeadline": "",
+    "columns": [],
+    "engines": [],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM60x diesel series: 95% confidence — these are widely regarded as among the most durable diesel engines ever built. M102/M103/M104 petrol: 85% confidence — robust but with known head gasket and oil leak issues on early examples. M111: 85% confidence — one of Mercedes' most durable modern four‑cylinders. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes‑Benz E‑Class S124 — Overview",
+    "intro": "The S124 is the estate bodystyle of the Mercedes‑Benz W124 range, launched in October 1985 as the load‑lugging counterpart to the executive saloon. It shared the W124's advanced engineering — including one of the lowest drag coefficients of its era, multi‑link rear suspension, and a modular engine family spanning four, five and six‑cylinder configurations. A major 1993 model‑year update brought the E‑Class naming convention and the M111 and M104 engine families, making this generation a genuine two‑era classic under one body code. The S124 remains one of the most cherished estate cars ever built, prized for its legendary build quality and the bulletproof diesel engines that routinely exceed 300,000 miles.",
+    "keyFacts": "Platform: Mercedes‑Benz W124 • Predecessor: S123 • Successor: S210 • Sibling body styles in this generation: W124 Saloon, C124 Coupé, A124 Cabriolet.",
+    "marketIntelligenceLine": "The W124 range (saloon and estate combined) generated real UK engine enquiries in 2025 [MB‑VERIFIED], with the OM603 diesel and M104 petrol commanding the strongest specialist interest among classic Mercedes enthusiasts."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM603 3.0‑litre six‑cylinder diesel (300 TD, 110hp / 300 TD Turbo, 143–147hp)",
+        "quote": "The cast‑iron block, pre‑combustion chamber diesel six that built Mercedes' reputation. No turbo on early cars, no DPF, no EGR — just mechanical fuel injection and a documented 500,000‑mile lifespan. Head gasket issues are virtually unheard of with proper coolant maintenance.",
+        "whoItsFor": "buyers who want the most durable diesel engine Mercedes ever built."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M104 3.0‑litre 24‑valve six (300 TE‑24, 220hp)",
+        "quote": "The multi‑valve evolution of the M103 — smoother, more powerful, and with a genuine 220hp that transforms the S124 into a rapid estate. The M104 is a stout motor that benefits from a well‑documented maintenance regime.",
+        "whoItsFor": "enthusiasts who want six‑cylinder refinement and genuine performance."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M102 2.0‑litre carburettor four (early 200 TE)",
+        "quote": "The carburettor is the weak link — early cars suffer from cold‑start and idle issues as the Stromberg unit ages. The later KE‑Jetronic injected versions are more reliable but still not as durable as the M111 that replaced them.",
+        "whoItsFor": "buyers on a tight budget who are comfortable with classic‑car carburettor maintenance."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M104.992 AMG 3.6 (E 36 T AMG, 272hp)",
+        "quote": "The rarest S124 engine — a 3.6‑litre hand‑built AMG unit with 272hp. Parts are scarce, specialist knowledge is limited, and a full rebuild is a five‑figure bill.",
+        "whoItsFor": "collectors and AMG enthusiasts with deep pockets."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM602 2.5‑litre five‑cylinder diesel (250 TD, 90hp / 250 TD Turbo, 126hp)",
+        "quote": "The five‑cylinder diesel is the Goldilocks engine — more refined than the four, more economical than the six, and the turbo version delivers 126hp with genuine usability. The OM602 is bulletproof and parts remain widely available.",
+        "whoItsFor": "buyers who want diesel durability without the six‑cylinder's running costs."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M111 2.2‑litre four (E 220 T, 150hp)",
+        "quote": "The post‑1993 M111 is one of Mercedes' most durable modern four‑cylinders — 16 valves, 150hp, and none of the carburettor or early KE‑Jetronic complications. It's the sensible choice in the petrol range, often overlooked in favour of the sixes.",
+        "whoItsFor": "buyers who want modern petrol reliability without the six‑cylinder's fuel consumption."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes‑Benz E‑Class S124 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "OM601 2.0 D (72hp)",
+        "typicalMileage": "100k–200k+",
+        "commonMajorFailure": "Glow plugs, injector seals",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£1,200–£2,200",
+        "ownershipVerdict": "Slow but Sturdy — the entry‑level diesel"
+      },
+      {
+        "engine": "OM602 2.5 D (90hp)",
+        "typicalMileage": "100k–250k+",
+        "commonMajorFailure": "Glow plugs, injector seals",
+        "repairCostSpecialist": "£200–£600",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Bulletproof Five — the sensible diesel"
+      },
+      {
+        "engine": "OM602 2.5 TD (126hp)",
+        "typicalMileage": "100k–250k+",
+        "commonMajorFailure": "Turbo wear, injector seals",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Best Diesel — turbo adds usability"
+      },
+      {
+        "engine": "OM603 3.0 D (110hp)",
+        "typicalMileage": "100k–300k+",
+        "commonMajorFailure": "Glow plugs, injector seals",
+        "repairCostSpecialist": "£300–£700",
+        "replacementCostRecon": "£2,000–£3,500",
+        "ownershipVerdict": "Six‑Cylinder Legend — the durable choice"
+      },
+      {
+        "engine": "OM603 3.0 TD (143–147hp)",
+        "typicalMileage": "100k–300k+",
+        "commonMajorFailure": "Turbo wear, injector seals",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,200–£4,000",
+        "ownershipVerdict": "Turbo Six — the best diesel estate"
+      },
+      {
+        "engine": "OM605 2.5 D (113hp)",
+        "typicalMileage": "80k–200k",
+        "commonMajorFailure": "Injector seals, EGR (later)",
+        "repairCostSpecialist": "£300–£700",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Modern Five — improved injection"
+      },
+      {
+        "engine": "M102 2.0 (118–122hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Carburettor, head gasket",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Early Petrol — carburettor is the weak link"
+      },
+      {
+        "engine": "M102 2.3 (132–136hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Head gasket, valve cover",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Solid Four — proven 2.3‑litre"
+      },
+      {
+        "engine": "M103 3.0 (177–180hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Head gasket, oil leaks",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Classic Six — smooth but leak‑prone"
+      },
+      {
+        "engine": "M104 3.0 24v (220hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Head gasket, wiring harness",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,000–£5,000",
+        "ownershipVerdict": "Best Petrol — 24‑valve power"
+      },
+      {
+        "engine": "M111 2.0 (136hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Timing chain, coil packs",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Modern Four — reliable 16‑valve"
+      },
+      {
+        "engine": "M111 2.2 (150hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Timing chain, coil packs",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Best Four — 150hp and reliable"
+      },
+      {
+        "engine": "M104 2.8 (193–197hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Head gasket, wiring harness",
+        "repairCostSpecialist": "£700–£1,800",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "V6‑Style Six — 2.8‑litre refinement"
+      },
+      {
+        "engine": "M104 3.6 AMG (272hp)",
+        "typicalMileage": "50k–100k",
+        "commonMajorFailure": "Everything — rare and complex",
+        "repairCostSpecialist": "£2,000–£5,000",
+        "replacementCostRecon": "£8,000–£14,000",
+        "ownershipVerdict": "Collector's Item — five‑figure rebuilds"
+      }
+    ],
+    "economicsRule": {
+      "title": "The S124 rule",
+      "text": "A £2,000–£4,000 OM603 recon against a £3,000–£8,000 S124 sits at 25–133% of the car's value — on a high‑mileage £3,000 example, that brushes the 70% Mercedes‑Benz threshold. Against a well‑kept £8,000+ example, the same recon drops to 25–50% — a routine repair decision, not a financial one. Value the car and its body condition first."
+    },
+    "keyTakeaways": []
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM60x Diesel Injector Seal & Glow Plug Failure",
+        "affectedModels": "All OM601, OM602, OM603 diesel S124s.",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The pre‑combustion chamber injector seals can fail, causing compression loss and hard starting — glow plugs are also a consumable item on these indirect‑injection diesels.",
+        "tieredCosts": [],
+        "recommendation": "On a £3,000–£8,000 S124, a £200–£500 injector seal service is cheap insurance — it protects the £1,500–£4,000 engine that sits at the heart of the car.",
+        "cta": {
+          "label": "Compare OM60x engine prices for your S124 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M103/M104 Head Gasket & Oil Leak Failures",
+        "affectedModels": "M103 300 TE, M104 300 TE‑24, M104 E 280 T.",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The M103 is known for head gasket and oil leak problems as mileage accumulates. The M104 suffers from the same issues, plus biodegradable wiring harness degradation on early examples.",
+        "tieredCosts": [],
+        "recommendation": "Monitor coolant levels regularly — a £600–£1,500 head gasket replacement is dramatically cheaper than the £2,500–£5,000 engine that follows an overheat.",
+        "cta": {
+          "label": "Compare M103/M104 engine prices for your S124 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M102 Carburettor & KE‑Jetronic Issues",
+        "affectedModels": "Early M102 200 TE (carburettor), late M102 200 TE (KE‑Jetronic).",
+        "typicalFailureMileage": "60,000–120,000 miles.",
+        "rootCause": "The Stromberg carburettor on early cars suffers from cold‑start and idle issues as it ages. The KE‑Jetronic system on later cars is more reliable but complex to diagnose.",
+        "tieredCosts": [],
+        "recommendation": "A £300–£700 carburettor rebuild or KE‑Jetronic service is far cheaper than the £1,500–£3,500 engine that follows a lean‑running failure.",
+        "cta": {
+          "label": "Compare M102 engine prices for your S124 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "S124 Load‑Bearing Rear Suspension Wear",
+        "affectedModels": "All S124 estates, particularly high‑mileage examples.",
+        "typicalFailureMileage": "100,000+ miles.",
+        "rootCause": "The S124's self‑levelling rear suspension (hydropneumatic) can develop leaks and accumulator failure — the estate's load‑bearing role puts extra stress on the system.",
+        "tieredCosts": [],
+        "recommendation": "This is the single most common non‑engine S124 failure — have the self‑levelling suspension checked on any example over 100,000 miles.",
+        "cta": {
+          "label": "Compare S124 suspension repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "S124 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "200 T D / E 200 D",
+        "engineCode": "OM601.912",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,200–£2,200",
+        "rebuiltSupply": "£2,000–£3,200",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "250 T D / E 250 D",
+        "engineCode": "OM602.912 / OM605.911",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "250 TD Turbo",
+        "engineCode": "OM602.962",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "300 T D / E 300 D",
+        "engineCode": "OM603.912",
+        "usedSupply": "£1,200–£2,000",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,200–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "300 TD Turbo / E 300 TD",
+        "engineCode": "OM603.960 / OM603.970",
+        "usedSupply": "£1,500–£2,500",
+        "reconditionedSupply": "£2,200–£4,000",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "200 TE (carb)",
+        "engineCode": "M102 (early)",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "200 TE (inj) / E 200 T",
+        "engineCode": "M102.963 / M111.940",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "230 TE",
+        "engineCode": "M102.982",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "300 TE",
+        "engineCode": "M103.983 / M103.985",
+        "usedSupply": "£1,500–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£3,800–£6,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "300 TE‑24",
+        "engineCode": "M104.980",
+        "usedSupply": "£1,800–£3,000",
+        "reconditionedSupply": "£3,000–£5,000",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 220 T",
+        "engineCode": "M111.960",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "E 280 T",
+        "engineCode": "M104.942",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 36 T AMG",
+        "engineCode": "M104.992",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–22 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "200 T D",
+      "250 T D",
+      "250 TD Turbo",
+      "300 T D",
+      "300 TD Turbo",
+      "E 250 D",
+      "E 250 TD",
+      "E 300 TD"
+    ],
+    "petrolVariants": [
+      "200 TE",
+      "230 TE",
+      "300 TE",
+      "300 TE‑24",
+      "E 200 T",
+      "E 220 T",
+      "E 280 T",
+      "E 36 T AMG"
+    ],
+    "scopeNote": "All variants listed are S124 estate only. W124 Saloon, C124 Coupé and A124 Cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and production years vary by body style."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

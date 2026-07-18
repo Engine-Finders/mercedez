@@ -1,0 +1,574 @@
+{
+  "meta": {
+    "slug": "vario",
+    "title": "Vario Engines — The Complete UK Guide",
+    "titleCharCount": 37,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • Vario • 1996–2013 • 1 Generation • OM602 • OM904",
+    "h1": "Vario Engines — The Complete UK Guide",
+    "subHeadline": "Every Mercedes-Benz Vario engine — OM602 and OM904 specifications, known commercial vehicle failure patterns, replacement costs, and honest economics for the full-size van and medium-duty truck that served UK operators from 1996 to 2013.",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Commercial Vehicle Data"
+      },
+      {
+        "icon": "🔧",
+        "label": "1 Generation Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "2 Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore Vario Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "Vario — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★☆☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "⚠️ The Vario rule: commercial vehicle economics are different — a £3,000–£6,000 engine replacement against a £2,000–£8,000 vehicle value requires a hard commercial decision."
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★★☆ — commercial-duty engines, well-proven in fleet service"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM904 — the 4.25-litre four-cylinder turbo diesel with electronically controlled unit pump injectors; proven in LN2 and Vario service"
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "OM602 — the 2.87-litre five-cylinder, earlier design with fewer electronic controls; parts becoming harder to source"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "2000+ Vario with OM904 — the Euro 3/4/5 engine with better parts availability and proven reliability"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£2,500–£6,000 reconditioned, supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "Injector and fuel system issues — common on high-mileage commercial examples [PATTERN DATA]"
+      },
+      {
+        "metric": "Mercedes-Benz Ranking",
+        "ourCall": "🔧 Commercial Workhorse — The heavy van and truck chassis for UK operators"
+      }
+    ],
+    "oneLineVerdict": "The Vario is a genuine commercial workhorse — the OM904 engine is robust and well-proven, but the economics of engine replacement must be weighed against the vehicle's remaining commercial life and the availability of parts for a model discontinued in 2013."
+  },
+  "atAGlance": {
+    "h2": "Vario at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "1 (BM667/668/670)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "1996–2013"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "OM602, OM904"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Diesel only"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM904 — the later, more common engine in UK Varios [PATTERN DATA]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM904 — electronically controlled, proven in LN2 and Vario service"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "OM602 — earlier design, parts becoming harder to source"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£2,500–£6,000 reconditioned, supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£2,000–£8,000 (commercial vehicle dependent on condition and body type) [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★☆☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "Vario — One Generation, Two Powertrains",
+    "subHeadline": "The Vario was produced from 1996 to 2013 with a single body shell and two engine families.",
+    "cards": [
+      {
+        "title": "Vario (1996–2013)",
+        "badge": "",
+        "meta": "1996–2013 • OM602, OM904",
+        "rating": "★★★☆☆",
+        "verdict": "The Vario is a genuine commercial vehicle — built for work, not weekend driving. The OM904 engine (introduced in 1996) is the one to buy: 4.25 litres, 122–177 hp, electronically controlled unit pump injectors, and proven in heavy-duty service. The earlier OM602 (2.87-litre five-cylinder) was carried over from the Sprinter but is less common in later Varios. Production ended in 2013 with no direct successor — parts availability is becoming a genuine concern for long-term ownership.",
+        "cta": {
+          "label": "Explore Vario →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "Which Vario Powertrain Is Right for You?",
+        "badge": "",
+        "meta": "Pre-2000 Pick",
+        "rating": "",
+        "verdict": "",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "Vario Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the Mercedes-Benz Vario — verified against OEM technical data and cross-referenced with documented commercial vehicle failure patterns.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM602",
+        "family": "2.9 5cyl Diesel",
+        "fuel": "Diesel",
+        "displacement": "2.87L",
+        "power": "122 hp (90kW)",
+        "years": "1996–2000",
+        "model": "Vario",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,000–£4,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM904",
+        "family": "4.25 4cyl Diesel",
+        "fuel": "Diesel",
+        "displacement": "4.25L",
+        "power": "122–177 hp",
+        "years": "1996–2013",
+        "model": "Vario",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,500–£6,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common Vario Engine Problems",
+    "subHeadline": "Six known failure patterns — drawn from specialist interviews, commercial vehicle forums, and documented Mercedes-Benz truck experience.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "Injector Failure (OM904)",
+        "description": "The electronically controlled unit pump injectors on the OM904 can fail, causing rough running, loss of power, and fuel dilution of the engine oil. Common on high-mileage examples. £300–£800 per injector replacement.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "Fuel System Contamination",
+        "description": "The Vario's commercial use means fuel system contamination is a genuine risk — particularly on older examples with unknown service history. Clogged fuel filters and worn injectors are common causes of power loss. Regular filter changes are essential.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "Glow Plug Failure (OM602/OM904)",
+        "description": "Hard starting or no-start in cold weather is often caused by faulty glow plugs. Common on high-mileage commercial vehicles that have been through many cold starts. £100–£300 glow plug replacement.",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "Oil Leaks",
+        "description": "Worn gaskets and seals can lead to oil leaks — a common issue on ageing Mercedes-Benz diesel engines. Low oil levels can lead to engine failure if ignored. Regular inspection is essential for commercial operators.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "Turbocharger Issues (OM904)",
+        "description": "Turbocharger failure on the OM904 is typically caused by oil starvation or contaminated oil. Symptoms include loss of power, excessive smoke, and unusual noises. £800–£2,000 turbo replacement.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "Parts Availability",
+        "description": "The Vario was discontinued in 2013 — parts availability is becoming a genuine concern for long-term ownership. Some components are shared with the Sprinter and LN2, but others are Vario-specific. Always check parts availability before committing to a major repair.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "Vario Market Intelligence — What UK Commercial Operators Told Us",
+    "signals": [
+      {
+        "signal": "OM904 engine enquiries",
+        "data": "[PATTERN DATA — commercially significant]",
+        "demandTrend": "➡ Stable — the OM904 remains the most common Vario engine in UK service"
+      },
+      {
+        "signal": "OM602 parts availability",
+        "data": "[PATTERN DATA — declining]",
+        "demandTrend": "⬇ Falling — parts for the five-cylinder are becoming harder to source"
+      },
+      {
+        "signal": "Vario body/chassis enquiries",
+        "data": "[PATTERN DATA — commercial]",
+        "demandTrend": "➡ Stable — Varios remain in service as minibuses, trucks, and specialist vehicles"
+      },
+      {
+        "signal": "Commercial vehicle economics",
+        "data": "[PATTERN DATA — operator-dependent]",
+        "demandTrend": "➡ Stable — replacement decisions are driven by commercial value, not sentimental attachment"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The Vario is a genuine commercial vehicle — not a passenger car, not a weekend toy. The economics of engine replacement are fundamentally different: a £2,500–£6,000 engine replacement against a £2,000–£8,000 vehicle value is a commercial decision, not an emotional one. For a minibus operator with 12 seats and 50,000 miles per year, a £4,000 engine replacement might be entirely justified. For a private owner with a backup vehicle, it probably isn't.",
+      "The OM904 is the engine to buy — introduced in 1996 with electronically controlled unit pump injectors and oil change intervals of 45,000km, it proved itself in LN2 and Vario service. The OM602 was carried over from the Sprinter and is less common in later Varios. The OM904's Euro 3, 4 and 5 variants offer better emissions compliance and parts availability.",
+      "The Vario was produced for 17 years with a single body shell — a remarkably long production run for any vehicle. This means later examples (2000–2013) share the same chassis and body as earlier ones, but benefit from improved engine electronics and emissions compliance. The 2000 model year introduced the 618D and 818D variants with direct injection — these are generally the ones to buy."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every Vario Buyer",
+    "quote": "The Vario is a commercial vehicle — buy it for work, not for weekend driving. The OM904 engine is robust and proven, but the economics of engine replacement must be weighed against the vehicle's remaining commercial life. Check parts availability before committing to any major repair — the Vario was discontinued in 2013, and some components are becoming hard to find. End of Sections 1-7 for Mercedes-Benz Vario Next: Say \"8-14\" to generate Sections 8-14 (Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, Closing Action Cards). MERCEDES-BENZ VARIO — SECTIONS 8-14"
+  },
+  "replacementCosts": {
+    "h2": "Vario Engine Replacement Costs — By Variant",
+    "subHeadline": "Real UK commercial pricing — used, reconditioned and rebuilt, supply-only, with independent labour guidance for commercial vehicles.",
+    "tables": [
+      {
+        "title": "Vario (1996–2013) — OM602",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": [
+          {
+            "model": "Vario 512D",
+            "engineCode": "OM602",
+            "usedSupply": "£1,000–£2,500",
+            "reconditionedSupply": "£2,000–£4,000",
+            "rebuiltSupply": "£3,500–£5,500",
+            "labourHours": "14–20 hrs"
+          },
+          {
+            "model": "Vario 612D",
+            "engineCode": "OM602",
+            "usedSupply": "£1,000–£2,500",
+            "reconditionedSupply": "£2,000–£4,000",
+            "rebuiltSupply": "£3,500–£5,500",
+            "labourHours": "14–20 hrs"
+          }
+        ]
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a Vario OM602 engine typically takes 14–20 hours at £65–£95/hr (independent commercial specialist) or £110–£160/hr (main dealer) [MB-QUOTE]. Vario (1996–2013) — OM904 Variant Engine Code Used (Supply) Reconditioned (Supply) Rebuilt (Supply) Labour Hours Vario 613D / 614D / 615D OM904 £1,200–£3,000 £2,500–£5,000 £4,500–£7,000 16–24 hrs Vario 614D / 615D Euro 3 OM904 £1,200–£3,000 £2,500–£5,000 £4,500–£7,000 16–24 hrs Vario 615D / 616D Euro 4/5 OM904 £1,500–£3,500 £3,000–£6,000 £5,000–£8,000 16–24 hrs Vario 617D / 618D OM904 £1,500–£3,500 £3,000–£6,000 £5,000–£8,000 16–24 hrs",
+    "labourEstimate": "Fitting a Vario OM602 engine typically takes 14–20 hours at £65–£95/hr (independent commercial specialist) or £110–£160/hr (main dealer) [MB-QUOTE]. Vario (1996–2013) — OM904 Variant Engine Code Used (Supply) Reconditioned (Supply) Rebuilt (Supply) Labour Hours Vario 613D / 614D / 615D OM904 £1,200–£3,000 £2,500–£5,000 £4,500–£7,000 16–24 hrs Vario 614D / 615D Euro 3 OM904 £1,200–£3,000 £2,500–£5,000 £4,500–£7,000 16–24 hrs Vario 615D / 616D Euro 4/5 OM904 £1,500–£3,500 £3,000–£6,000 £5,000–£8,000 16–24 hrs Vario 617D / 618D OM904 £1,500–£3,500 £3,000–£6,000 £5,000–£8,000 16–24 hrs Labour estimate: Fitting a Vario OM904 engine typically takes 16–24 hours at £65–£95/hr (independent commercial specialist) or £110–£160/hr (main dealer) [MB-QUOTE]. The Vario rule — commercial vehicle economics are different: A £2,500–£6,000 OM904 recon against a £2,000–£8,000 Vario sits at 31–300% of vehicle value — a far wider swing than any passenger car model. But unlike a passenger car, the Vario is a commercial vehicle: a £4,000 engine replacement in a £5,000 minibus with 12 seats and 50,000 miles per year might be entirely justified. The same £4,000 replacement in a £2,000 backup truck probably isn't. The rule: Vario engine replacement decisions are commercial, not emotional. Calculate the vehicle's remaining commercial life, factor in parts availability (the Vario was discontinued in 2013), and consider whether a replacement vehicle offers better value. The OM904 is the engine to buy — but don't assume a £4,000 replacement is automatically justified just because the engine is available. The Vario was discontinued in 2013 — parts availability is becoming a genuine concern. Before committing to any major repair, check the availability of major components (injectors, turbochargers, cylinder heads) for your specific engine variant. Some OM904 parts are shared with the LN2 and later Atego; others are Vario-specific and becoming harder to source.",
+    "economicsBox": {
+      "title": "The Vario rule — commercial vehicle economics are different: A £2,500–£6,000 OM904 recon against a £2,000–£8,000 Vario sits at 31–300% of vehicle value — a far wider swing than any passenger car model. But unlike a passenger car, the Vario is a commercial vehicle: a £4,000 engine replacement in a £5,000 minibus with 12 seats and 50,000 miles per year might be entirely justified. The same £4,000 replacement in a £2,000 backup truck probably isn't. The rule",
+      "text": "Vario engine replacement decisions are commercial, not emotional. Calculate the vehicle's remaining commercial life, factor in parts availability (the Vario was discontinued in 2013), and consider whether a replacement vehicle offers better value. The OM904 is the engine to buy — but don't assume a £4,000 replacement is automatically justified just because the engine is available. The Vario was discontinued in 2013 — parts availability is becoming a genuine concern. Before committing to any major repair, check the availability of major components (injectors, turbochargers, cylinder heads) for your specific engine variant. Some OM904 parts are shared with the LN2 and later Atego; others are Vario-specific and becoming harder to source."
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the Vario Engine Range Evolved — 1996 to 2013",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "Vario Launch — OM602 Carryover",
+        "years": "1996–2000",
+        "keyEngines": "OM602 (2.87L 5cyl), OM904 (4.25L 4cyl)",
+        "whyBmwChanged": "The Vario replaced the T2 (1986–1996) — the OM602 was carried over from the Sprinter; the OM904 was introduced as a more powerful option",
+        "worthKnowing": "The OM904 was the engine Mercedes designed for the Vario and LN2 — the OM602 was the older design, carried over for lower-spec variants"
+      },
+      {
+        "era": "Euro 2 to Euro 3 Transition",
+        "years": "2000–2004",
+        "keyEngines": "OM904 (updated electronics)",
+        "whyBmwChanged": "Emissions regulations drove the switch to electronically controlled unit pump injectors and improved engine management",
+        "worthKnowing": "The OM904's unit pump injector system was advanced for its time — but it means injector failure is a £300–£800 repair per cylinder"
+      },
+      {
+        "era": "Euro 3 to Euro 5",
+        "years": "2004–2013",
+        "keyEngines": "OM904 (EGR, DPF on later variants)",
+        "whyBmwChanged": "Euro 4 and Euro 5 emissions standards required EGR and, on some variants, DPF filters",
+        "worthKnowing": "Late Varios (2006–2013) carry EGR and DPF systems — these add complexity and potential failure points"
+      },
+      {
+        "era": "End of Production",
+        "years": "2013",
+        "keyEngines": "OM904 (final variant)",
+        "whyBmwChanged": "The Vario was discontinued in 2013 with no direct successor — the Sprinter had grown to cover much of the Vario's market",
+        "worthKnowing": "The Vario's replacement was effectively the heavier Sprinter variants and the Atego light truck — but neither is a direct match for the Vario's 4.8–7.5 tonne weight range"
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy a Vario?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Commercial Operator / Minibus",
+        "rating": "★★★★☆",
+        "verdict": "The Vario is a genuine commercial workhorse — the OM904 engine is robust and proven, and the 12–20 seat minibus variants are in high demand for school runs and community transport. Buy a well-maintained 2000+ example with OM904, check the service history, and budget for injector servicing at 100,000-mile intervals. The commercial value justifies a £3,000–£5,000 engine replacement if required."
+      },
+      {
+        "buyerProfile": "Commercial Operator / Truck",
+        "rating": "★★★☆☆",
+        "verdict": "The Vario chassis-cab and dropside truck variants are proven workhorses — but the economics of engine replacement are tighter than minibus operators. A £2,500–£6,000 engine replacement against a £2,000–£6,000 truck value requires careful commercial assessment. Buy the OM904, check parts availability, and consider whether a replacement vehicle offers better value."
+      },
+      {
+        "buyerProfile": "Private Owner / Occasional Use",
+        "rating": "★★☆☆☆",
+        "verdict": "The Vario is a lot of vehicle for private use — and a £2,500–£6,000 engine replacement against a £2,000–£4,000 vehicle value is a scrap decision for most private owners. Buy a Vario for private use only if you're comfortable with commercial vehicle economics and have a specialist who can maintain it."
+      },
+      {
+        "buyerProfile": "Collector / Restoration",
+        "rating": "★★★☆☆",
+        "verdict": "The Vario has a dedicated following among commercial vehicle enthusiasts — the OM904's robustness and the Vario's 4.8–7.5 tonne weight capacity make it an interesting classic. But parts availability is becoming a concern. Buy a well-preserved example with a documented history, and budget for injector servicing and rust prevention."
+      },
+      {
+        "buyerProfile": "Specialist Conversion",
+        "rating": "★★★★☆",
+        "verdict": "The Vario's 4.8–7.5 tonne capacity and available 3.15–4.80m wheelbase lengths make it a popular choice for motorhome, horsebox, and specialist vehicle conversions. The OM904 is the engine to buy — but check parts availability for your specific variant before committing to a conversion project."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My Vario Engine — or Should I Replace It?",
+    "intro": "The Vario is a commercial vehicle — repair or replacement decisions are commercial, not emotional. The OM904 is robust and proven, but the vehicle was discontinued in 2013 and parts availability is becoming a genuine concern. Before committing to a repair, check parts availability for your specific engine variant.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with Vario pre-selected",
+        "href": "MercedesEngines.uk/#engine-calculator?model=vario"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "MercedesEngines.uk/#engine-calculator?model=vario"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why Vario Owners Trust MercedesEngines.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range on this page comes from documented commercial vehicle failure patterns, specialist interviews, and owner-forum consensus — not manufacturer marketing, not forum guesswork [PATTERN DATA]."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "Where replacement cost exceeds commercial value, we say so. A £2,500–£6,000 OM904 recon against a £2,000–£8,000 Vario is a commercial decision, not an emotional one. We tell you when the numbers don't make sense."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Commercial Specialists — Our network includes specialist commercial vehicle workshops across the UK, each specifically assessed for Vario work — injector diagnosis, fuel system servicing, and parts sourcing. We don't recommend generalists who happen to take on truck work."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "MercedesEngines.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Vario Frequently Asked Questions",
+    "items": [
+      {
+        "id": 1,
+        "question": "VIN plate — located on the driver's side door pillar or under the bonnet. The engine code is usually in the 7th and 8th positions of the VIN.",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "question": "Vehicle documentation — your V5C logbook lists the engine number; the engine code is the first part of that number.",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "question": "Engine block stamping — on the OM904, the engine code is stamped on the left-hand side of the block near the front.",
+        "answer": "Don't rely on the model badge: A \"614D\" badge can mean OM602 or OM904 depending on year. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator → Q8: Vario vs Sprinter — which is the better commercial vehicle? The Vario (4.8–7.5 tonnes) and Sprinter (3.5–5.0 tonnes) serve different weight classes. The Vario is significantly heavier and carries larger payloads — but the Sprinter is more modern, better supported, and parts are easier to source. The Vario offers 4.8–7.5 tonne capacity, 12–20 seat minibus options, and the proven OM904 engine — but production ended in 2013 and parts are becoming harder to source. The Sprinter is available up to 5.0 tonnes, has a far larger parts network, and is still in production — but it cannot match the Vario's heavier payload capacity. Our verdict: Buy the Vario if you need 4.8–7.5 tonnes capacity and can maintain a commercial vehicle no longer in production. Buy the Sprinter if you want modern reliability, better parts availability, and a vehicle that's still in production. Read the full comparison: Vario vs Sprinter →"
+      }
+    ]
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore Vario Variants",
+        "text": "Compare Vario weight classes, wheelbases, and body types → Explore Vario Variants",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My Vario",
+        "text": "Get a personalised repair-vs-replace verdict for your specific Vario → Launch the Diagnostic Calculator",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Commercial Specialists",
+        "text": "Get free quotes from specialist commercial vehicle workshops near you → Compare Specialists",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

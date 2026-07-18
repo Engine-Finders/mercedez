@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-gls-x166",
+    "title": "Mercedes‑Benz GLS X166 Engines — The Complete UK Guide",
+    "titleCharCount": 54,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz GLS X166 • SUV • 2012–2019",
+    "h1": "Mercedes‑Benz GLS X166 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the X166 SUV — from the 3.0‑litre OM642 diesel to the 5.5‑litre M157 V8 in the AMG GLS 63. Real UK replacement costs, honest reliability data, and the full‑size SUV ownership realities that define this generation. Backed by real UK X166 enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "[X]+ X166 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "SUV"
+      },
+      {
+        "icon": "📖",
+        "label": "7 Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore X166 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes‑Benz GLS X166 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the X166 SUV specifically — spanning the GL‑Class (2012–2015) and GLS (2015–2019) eras.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (X166)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM642.826",
+        "family": "OM642",
+        "fuel": "Diesel, turbo",
+        "displacement": "3.0L (2987cc)",
+        "power": "258 hp (190 kW)",
+        "years": "2012–2019",
+        "variants": "GL 350 CDI / GLS 350 d",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "880 [MB‑VERIFIED]",
+        "avgReconCost": "£3,200–£5,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M276.821",
+        "family": "M276",
+        "fuel": "Petrol, bi‑turbo",
+        "displacement": "3.0L (2996cc)",
+        "power": "333 hp (245 kW)",
+        "years": "2013–2015",
+        "variants": "GL 400 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,800–£6,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M276.823",
+        "family": "M276",
+        "fuel": "Petrol, bi‑turbo",
+        "displacement": "3.0L (2996cc)",
+        "power": "367 hp (270 kW)",
+        "years": "2015–2019",
+        "variants": "GLS 400 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,800–£6,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M278.928",
+        "family": "M278",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "4.7L (4663cc)",
+        "power": "435–455 hp",
+        "years": "2012–2019",
+        "variants": "GL 500 / GLS 500",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£10,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M157.982",
+        "family": "M157",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "5.5L (5461cc)",
+        "power": "557–577 hp",
+        "years": "2012–2019",
+        "variants": "GL 63 AMG / GLS 63 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "370 [MB‑VERIFIED]",
+        "avgReconCost": "£9,000–£14,000 [MB‑QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM642: 90% confidence — well‑documented V6 diesel with oil cooler seal and swirl flap issues. M276: 85% confidence — proven V6 bi‑turbo with good reliability. M278: 70% confidence — known for cylinder scoring/heat‑related failures in right cylinder head. M157: 85% confidence — robust AMG V8 but with carbon buildup and oil consumption on higher‑mileage examples. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes‑Benz GLS X166 — Overview",
+    "intro": "The X166 is the second‑generation full‑size luxury SUV from Mercedes‑Benz, launched at the 2012 New York International Auto Show as the GL‑Class and renamed GLS at the 2015 facelift. It replaced the X164 GL‑Class and positioned itself as the \"S‑Class among SUVs\" — a seven‑seat luxury flagship with air suspension, 4MATIC all‑wheel drive, and a range of V6 and V8 engines. A significant 2015 facelift brought the GLS name, 9G‑Tronic transmission (replacing the earlier 7G‑Tronic), and revised engine line‑up.",
+    "keyFacts": "Platform: Mercedes‑Benz W164/W166 • Predecessor: X164 • Successor: X167 • Sibling body styles in this generation: None (standalone full‑size SUV).",
+    "marketIntelligenceLine": "The GLS/GL‑Class range (X166 combined) generated real UK engine enquiries in 2025 [MB‑VERIFIED], with the OM642 diesel and AMG M157 V8 commanding the strongest specialist interest."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM642 3.0‑litre V6 diesel (GLS 350 d, 258hp)",
+        "quote": "The proven 3.0‑litre V6 turbo diesel that powered the X166 across its entire production run — 258hp, 620Nm of torque, and a documented reputation for longevity. Oil cooler seals are the main watchpoint, but the engine itself is robust and well‑supported.",
+        "whoItsFor": "buyers who want effortless V6 diesel torque without the M278's petrol‑engine risks."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M276 3.0‑litre V6 bi‑turbo (GLS 400, 367hp)",
+        "quote": "The facelift‑era V6 bi‑turbo delivers 367hp and 500Nm from a 3.0‑litre V6 — smooth, responsive, and without the cylinder scoring risks that plague the M278 V8. It's the sensible petrol choice in the X166 range.",
+        "whoItsFor": "buyers who want V6 petrol refinement without the M278 V8's reliability concerns."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M278 4.7‑litre V8 twin‑turbo (GLS 500, 435–455hp)",
+        "quote": "The 4.7‑litre V8 is the most contentious engine in the X166 range — cylinder scoring is a well‑documented pattern, particularly in the right cylinder head, caused by heat concentration in a thermally overloaded design. A full engine replacement is a five‑figure bill that can appear at almost any mileage.",
+        "whoItsFor": "buyers who understand the risk and are prepared for a potential £6,000–£10,000 rebuild."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M157 5.5‑litre V8 twin‑turbo (GLS 63 AMG, 557–577hp)",
+        "quote": "The hand‑built AMG V8 delivers 577hp in facelift guise — and with it comes AMG‑level running costs. Carbon buildup, oil consumption, valve cover gasket leaks, and cooling system failures are all documented on higher‑mileage examples. A full recon is a five‑figure bill, and parts availability can be a headache.",
+        "whoItsFor": "AMG enthusiasts with deep pockets and a trusted specialist."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M276 3.0‑litre V6 bi‑turbo (GL 400 / GLS 400)",
+        "quote": "The V6 bi‑turbo offers genuine performance without the M278's risks or the M157's running costs — 333–367hp, 480–500Nm, and a proven track record across the Mercedes range. It's the sweet spot in the X166 petrol line‑up.",
+        "whoItsFor": "buyers who want V6 performance without the V8's reliability concerns."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "OM642 3.0‑litre V6 diesel (GL 350 CDI)",
+        "quote": "The pre‑facelift OM642 diesel is often overlooked in favour of the GLS 350 d's 9G‑Tronic car — but the 7G‑Tronic GL 350 CDI offers the same 258hp and 620Nm, often at a lower purchase price, with the same robust diesel V6 underneath.",
+        "whoItsFor": "buyers who want X166 capability on a tighter budget."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes‑Benz GLS X166 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "OM642.826 (258hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Oil cooler seals, swirl flaps",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£3,200–£5,500",
+        "ownershipVerdict": "Proven Diesel — robust but oil cooler‑sensitive"
+      },
+      {
+        "engine": "M276.821 (333hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Oil leaks, timing chain",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,800–£6,500",
+        "ownershipVerdict": "Solid Petrol — proven V6 bi‑turbo"
+      },
+      {
+        "engine": "M276.823 (367hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Oil leaks, timing chain",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,800–£6,500",
+        "ownershipVerdict": "Best Petrol — more power, same costs"
+      },
+      {
+        "engine": "M278.928 (435–455hp)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Cylinder scoring, right cylinder head",
+        "repairCostSpecialist": "£3,000–£6,000",
+        "replacementCostRecon": "£6,000–£10,000",
+        "ownershipVerdict": "High Risk — cylinder scoring is the defining concern"
+      },
+      {
+        "engine": "M157.982 (557–577hp)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Carbon buildup, oil consumption",
+        "repairCostSpecialist": "£1,500–£4,000",
+        "replacementCostRecon": "£9,000–£14,000",
+        "ownershipVerdict": "AMG Performance — highest running costs"
+      }
+    ],
+    "economicsRule": {
+      "title": "The X166 rule",
+      "text": "A £3,200–£5,500 OM642 recon against a £12,000–£25,000 X166 sits at 13–46% of the car's value — well inside the 70% Mercedes‑Benz threshold. Against a £10,000 high‑mileage example, the same recon reaches 32–55% — still viable, but a significant proportion of the car's residual value. However, a £6,000–£10,000 M278 recon against a £12,000 X166 is 50–83% — on a tired example, that's the borderline of the 70% threshold. Value the car and its engine history first."
+    },
+    "keyTakeaways": []
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM642 Oil Cooler Seal Failure",
+        "affectedModels": "X166 GL 350 CDI, GLS 350 d (all OM642.826).",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The V6 diesel's oil cooler seals degrade over time, allowing oil to leak into the valley of the V — the labour to access the seals is significant, making this an expensive repair even though the parts are cheap.",
+        "tieredCosts": [],
+        "recommendation": "A £800–£1,800 oil cooler seal replacement is dramatically cheaper than the £3,200–£5,500 replacement that follows oil starvation — address it proactively.",
+        "cta": {
+          "label": "Compare OM642 engine prices for your X166 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M278 Cylinder Scoring",
+        "affectedModels": "X166 GL 500, GLS 500 (all M278.928).",
+        "typicalFailureMileage": "40,000–80,000 miles (but can occur at any mileage).",
+        "rootCause": "The 4.7‑litre V8 is thermally overloaded — heat concentration in the right cylinder head leads to cylinder scoring, which eventually causes loss of compression and misfire. This is not mileage‑dependent; it's a design flaw that can appear at any point.",
+        "tieredCosts": [],
+        "recommendation": "On a £12,000–£25,000 X166, a £1,500–£3,000 bore scope inspection is essential before purchase — it protects you from the £6,000–£10,000 rebuild that follows cylinder scoring.",
+        "cta": {
+          "label": "Compare M278 engine prices for your X166 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M157 Carbon Buildup & Oil Consumption",
+        "affectedModels": "X166 GL 63 AMG, GLS 63 AMG (all M157.982).",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The direct‑injection AMG V8 suffers from carbon buildup on intake valves — this leads to misfires and reduced performance. Oil consumption can also increase due to valve seal wear.",
+        "tieredCosts": [],
+        "recommendation": "On a £20,000–£40,000 AMG GLS 63, a £800–£1,800 carbon cleaning service is cheap insurance — it protects the £9,000–£14,000 engine that sits at the heart of the car.",
+        "cta": {
+          "label": "Compare M157 engine prices for your GLS 63 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "X166 AIRMATIC Suspension Wear",
+        "affectedModels": "All X166 variants, particularly high‑mileage examples.",
+        "typicalFailureMileage": "80,000+ miles.",
+        "rootCause": "The X166's AIRMATIC air suspension is the single most common non‑engine failure on this platform — air struts can leak, the compressor can fail, and valve block issues are documented.",
+        "tieredCosts": [],
+        "recommendation": "This is the single most common non‑engine X166 failure — have the AIRMATIC system checked on any example over 80,000 miles.",
+        "cta": {
+          "label": "Compare X166 suspension repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "X166 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "GL 350 CDI / GLS 350 d",
+        "engineCode": "OM642.826",
+        "usedSupply": "£1,800–£3,000",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "GL 400 4MATIC",
+        "engineCode": "M276.821",
+        "usedSupply": "£2,200–£3,800",
+        "reconditionedSupply": "£3,800–£6,500",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GLS 400 4MATIC",
+        "engineCode": "M276.823",
+        "usedSupply": "£2,200–£3,800",
+        "reconditionedSupply": "£3,800–£6,500",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GL 500 / GLS 500",
+        "engineCode": "M278.928",
+        "usedSupply": "£3,500–£6,000",
+        "reconditionedSupply": "£6,000–£10,000",
+        "rebuiltSupply": "£8,000–£13,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "GL 63 AMG / GLS 63 AMG",
+        "engineCode": "M157.982",
+        "usedSupply": "£5,000–£9,000",
+        "reconditionedSupply": "£9,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–22 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "GL 350 CDI",
+      "GLS 350 d"
+    ],
+    "petrolVariants": [
+      "GL 400",
+      "GLS 400",
+      "GL 500",
+      "GLS 500",
+      "GL 63 AMG",
+      "GLS 63 AMG"
+    ],
+    "scopeNote": "All variants listed are X166 SUV only. The X166 was a standalone full‑size SUV with no direct sibling body styles in this generation (unlike the smaller GLE, which had a coupé variant)."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

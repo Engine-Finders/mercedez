@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "slug": "mercedes-sl-r231",
+    "title": "Mercedes SL R231 Engines — The Complete UK Guide",
+    "titleCharCount": 48,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes SL R231 • Roadster • 2012–2020",
+    "h1": "Mercedes SL R231 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the sixth-generation SL roadster — from the 3.0-litre M276 V6 to the 4.7-litre M278 V8 and the fire-breathing M157 and M279 AMG V8s. Real UK costs, honest reliability data, and the aluminium-bodied grand tourer that redefined the SL for the modern era. Backed by 880+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "880+ R231 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Roadster"
+      },
+      {
+        "icon": "📖",
+        "label": "8+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore R231 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes SL R231 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the R231 specifically — including the pre- and post-facelift changes that introduced the SL 400 and updated power outputs.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (R231)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M276.954",
+        "family": "M276",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3498cc)",
+        "power": "306 bhp",
+        "years": "2012–2014",
+        "variants": "SL 350",
+        "reliability": "★★★★☆ [PROVISIONAL — well-regarded M276 V6; some pre-2014 tensioner issues]",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgReconCost": "£2,500–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M276.825",
+        "family": "M276",
+        "fuel": "Petrol, twin-turbo V6",
+        "displacement": "3.0L (2996cc)",
+        "power": "333 bhp",
+        "years": "2014–2016",
+        "variants": "SL 400",
+        "reliability": "★★★★☆ [PROVISIONAL — bi-turbo M276; strong and reliable]",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgReconCost": "£2,800–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M276.825 (facelift)",
+        "family": "M276",
+        "fuel": "Petrol, twin-turbo V6",
+        "displacement": "3.0L (2996cc)",
+        "power": "367 bhp",
+        "years": "2016–2020",
+        "variants": "SL 400 (facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — upgraded bi-turbo; 35 hp gain]",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgReconCost": "£3,000–£6,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M278.927",
+        "family": "M278",
+        "fuel": "Petrol, twin-turbo V8",
+        "displacement": "4.7L (4663cc)",
+        "power": "435 bhp",
+        "years": "2012–2014",
+        "variants": "SL 500",
+        "reliability": "★★★☆☆ [PROVISIONAL — known for cylinder scoring and oil leaks]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M278.927 (facelift)",
+        "family": "M278",
+        "fuel": "Petrol, twin-turbo V8",
+        "displacement": "4.7L (4663cc)",
+        "power": "455 bhp",
+        "years": "2015–2020",
+        "variants": "SL 500 (facelift)",
+        "reliability": "★★★☆☆ [PROVISIONAL — updated M278; same cylinder scoring concerns]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,800–£7,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M157.983",
+        "family": "M157",
+        "fuel": "Petrol, twin-turbo V8",
+        "displacement": "5.5L (5461cc)",
+        "power": "537–585 bhp",
+        "years": "2012–2020",
+        "variants": "SL 63 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL — robust AMG V8; watch for oil intrusion in wiring harness]",
+        "enquiries": "370 [MB-VERIFIED]",
+        "avgReconCost": "£5,000–£9,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M279.981",
+        "family": "M279",
+        "fuel": "Petrol, twin-turbo V12",
+        "displacement": "6.0L (5980cc)",
+        "power": "630 bhp",
+        "years": "2012–2020",
+        "variants": "SL 65 AMG",
+        "reliability": "★★★☆☆ [PROVISIONAL — AMG V12; complex and costly to maintain]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£14,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "* M276.954/825: 90% confidence — well‑documented M276 V6; pattern data. * M278.927: 80% confidence — known M278 issues; provisional. * M157.983: 85% confidence — well‑documented AMG V8; pattern data. * M279.981: 75% confidence — rare V12; limited long‑term data."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes SL R231 — Overview",
+    "intro": "The R231 is the sixth generation of the Mercedes‑Benz SL‑Class, a two‑seat grand tourer roadster launched in March 2012 as the successor to the R230. Built on an all‑aluminium space‑frame bodyshell, it was 140 kg lighter than its predecessor and offered a 20 per cent increase in torsional rigidity. The engine range spanned from the 3.5‑litre M276 V6 to the 4.7‑litre M278 V8, with AMG variants delivering up to 630 bhp from the M279 V12. A significant facelift arrived in 2016, bringing power upgrades and refreshed styling. Production ended in 2020, succeeded by the Mercedes‑AMG R232.",
+    "keyFacts": "Platform: Mercedes R231 (all‑aluminium space‑frame) • Predecessor: R230 (2001–2012) • Successor: R232 (2021–present) • Sibling body styles in this generation: none (SL is standalone roadster)",
+    "marketIntelligenceLine": "The R231 SL generated 880+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the M276 V6 and M157 AMG V8 as the most‑requested powertrains."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M276.825 (SL 400, facelift)",
+        "quote": "Mercedes' 3.0‑litre bi‑turbo V6, upgraded to 367 bhp in the 2016 facelift, delivers effortless performance with 500 Nm of torque. It's the sweet spot in the R231 range — refined, responsive, and considerably more reliable than the V8 alternatives.",
+        "whoItsFor": "buyers who want grand touring performance without the V8's running costs or reliability concerns."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M278.927 (SL 500)",
+        "quote": "The 4.7‑litre bi‑turbo V8 is known for cylinder scoring and coolant/oil leaks. While it delivers effortless power, these issues can be costly to address. The M278 is widely considered the most problematic engine in the R231 range.",
+        "whoItsFor": "buyers who prioritise V8 presence and are prepared for potentially expensive maintenance."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M279.981 (SL 65 AMG) — V12 complexity",
+        "quote": "The 6.0‑litre twin‑turbo V12 is a masterpiece of engineering but exceptionally complex and costly to maintain. Parts are expensive, labour is intensive, and specialist knowledge is required.",
+        "whoItsFor": "collectors and enthusiasts who want flagship V12 status and can afford the premium running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M276.954 (SL 350)",
+        "quote": "The 3.5‑litre naturally aspirated V6 offers the best balance of performance (306 bhp), characterful engine note, and reliability. It's the most affordable entry point into R231 ownership.",
+        "whoItsFor": "buyers who want the SL experience without the turbocharged complexity."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M157.983 (SL 63 AMG)",
+        "quote": "The 5.5‑litre twin‑turbo V8 delivers 537–585 bhp with genuine AMG character. It's often overlooked in favour of the V12 but offers a more engaging and reliable driving experience — watch for oil intrusion in the wiring harness.",
+        "whoItsFor": "buyers who want AMG performance without the V12's reliability headaches."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes SL R231 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M276.954 (SL 350)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Pre‑2014 tensioner issues, chain rattle",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,500–£5,000",
+        "ownershipVerdict": "Best Value — reliable, characterful V6."
+      },
+      {
+        "engine": "M276.825 (SL 400)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Chain rattle (early cars), coolant leaks",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,800–£6,000",
+        "ownershipVerdict": "Best Petrol — turbocharged refinement."
+      },
+      {
+        "engine": "M278.927 (SL 500)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Cylinder scoring, oil/coolant leaks",
+        "repairCostSpecialist": "£1,000–£3,000",
+        "replacementCostRecon": "£3,500–£7,500",
+        "ownershipVerdict": "Risk vs Reward — powerful but potentially expensive."
+      },
+      {
+        "engine": "M157.983 (SL 63 AMG)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Oil intrusion in wiring harness, engine mounts",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£5,000–£9,000",
+        "ownershipVerdict": "AMG Sweet Spot — reliable V8 with manageable issues."
+      },
+      {
+        "engine": "M279.981 (SL 65 AMG)",
+        "typicalMileage": "20k–40k",
+        "commonMajorFailure": "V12 complexity, cooling system, ignition coils",
+        "repairCostSpecialist": "£2,000–£5,000",
+        "replacementCostRecon": "£8,000–£14,000",
+        "ownershipVerdict": "Flagship Tax — exceptional but expensive to maintain."
+      }
+    ],
+    "economicsRule": {
+      "title": "The R231 rule",
+      "text": "A £2,800–£6,000 M276 recon against a £15,000–£45,000 R231 sits at 6–40% of the car's value — comfortably within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher‑mileage SL 500 with the M278, the same maths is still favourable (8–50%). The R231's strong retained values make most engine replacements economically viable. V12 cars are a different proposition — their replacement costs often approach or exceed the vehicle's value."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which R231 Costs Least To Own?",
+        "answer": "SL 350 (M276.954) — best balance of performance and reliability."
+      },
+      {
+        "question": "Which R231 Costs Most To Own?",
+        "answer": "SL 65 AMG (M279) — V12 running costs are astronomical."
+      },
+      {
+        "question": "Which R231 Is Best Value?",
+        "answer": "SL 400 (M276.825) — the sweet spot in the range."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M278 V8 Cylinder Scoring & Oil Leaks (SL 500)",
+        "affectedModels": "SL 500 (M278.927, 2012–2020)",
+        "typicalFailureMileage": "30,000–60,000 miles",
+        "rootCause": "The M278 V8 is known for cylinder scoring (bore wear) and oil/coolant leaks. Regular oil changes using Mercedes‑spec 229.5 oil are critical to mitigate these issues. Camshaft position sensors can also leak oil into the wiring harness.",
+        "tieredCosts": [],
+        "recommendation": "On SL 500 models, adhere strictly to 5,000‑mile oil change intervals and use only Mercedes‑spec 229.5 oil — an £800–£1,500 preventative repair is far cheaper than the £3,500–£7,500 replacement that follows if cylinder scoring progresses.",
+        "cta": {
+          "label": "Compare M278 engine prices for your R231 SL 500 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M276 Timing Chain Tensioner Issues (early cars)",
+        "affectedModels": "SL 350, SL 400 (M276, pre‑2014)",
+        "typicalFailureMileage": "40,000–80,000 miles",
+        "rootCause": "Some pre‑2014 M276 engines suffered from timing chain tensioner issues, causing rattling on cold start, check engine lights, and fault codes. Mercedes introduced improved parts after this date.",
+        "tieredCosts": [],
+        "recommendation": "If you hear a rattling noise on cold start from a pre‑2014 SL 350 or SL 400, have the timing chain tensioner inspected immediately — a £600–£1,200 repair is far cheaper than the £2,500–£5,000 replacement that follows if the chain fails.",
+        "cta": {
+          "label": "Compare M276 engine prices for your R231 V6 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M157 AMG Wiring Harness Oil Intrusion (SL 63 AMG)",
+        "affectedModels": "SL 63 AMG (M157.983)",
+        "typicalFailureMileage": "30,000–60,000 miles",
+        "rootCause": "The M157 V8 can suffer from oil intrusion into the engine wiring harness, particularly from camshaft position sensors. This can lead to electrical faults, check engine lights, and potential engine damage if not addressed.",
+        "tieredCosts": [],
+        "recommendation": "On SL 63 AMG models, have the wiring harness and cam sensors inspected at every service — a £600–£1,200 repair is far cheaper than the £4,000–£7,000 replacement that follows if oil contamination causes a major electrical failure.",
+        "cta": {
+          "label": "Compare M157 engine prices for your R231 SL 63 AMG →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Engine & Transmission Mount Failure",
+        "affectedModels": "All R231 variants",
+        "typicalFailureMileage": "20,000–40,000 miles",
+        "rootCause": "The R231's engine and transmission mounts can fail prematurely, leading to excessive movement and vibration. This is particularly noticeable when shifting between drive and reverse.",
+        "tieredCosts": [],
+        "recommendation": "Have the engine and transmission mounts inspected at every service — a £300–£600 repair is a minor expense compared to the cost of more serious drivetrain issues.",
+        "cta": {
+          "label": "Compare R231 engine mount replacement prices →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "R231 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "SL 350",
+        "engineCode": "M276.954",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,500–£5,000",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 400 (pre‑facelift)",
+        "engineCode": "M276.825",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£5,500",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 400 (facelift)",
+        "engineCode": "M276.825",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,000–£6,000",
+        "rebuiltSupply": "£4,800–£7,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 500 (pre‑facelift)",
+        "engineCode": "M278.927",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,500–£7,000",
+        "rebuiltSupply": "£5,500–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "SL 500 (facelift)",
+        "engineCode": "M278.927",
+        "usedSupply": "£2,200–£3,800",
+        "reconditionedSupply": "£3,800–£7,500",
+        "rebuiltSupply": "£6,000–£9,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "SL 63 AMG",
+        "engineCode": "M157.983",
+        "usedSupply": "£3,000–£5,000",
+        "reconditionedSupply": "£5,000–£9,000",
+        "rebuiltSupply": "£7,000–£11,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "SL 65 AMG",
+        "engineCode": "M279.981",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£10,000–£16,000",
+        "labourHours": "18–24 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Model Page's baseline figures — the R231 is a standalone model with no direct platform‑sharing for engine bay access, so labour times are specific to this generation. Costs are inherited directly per the Authority Model, with no divergence note required."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "none (R231 was petrol‑only)"
+    ],
+    "petrolVariants": [
+      "SL 350",
+      "SL 400",
+      "SL 500",
+      "SL 63 AMG",
+      "SL 65 AMG"
+    ],
+    "scopeNote": "All variants listed are R231 sixth‑generation SL only. The R231 was not available with a non‑AMG V12 — the SL 600 was discontinued. The SL 400 replaced the SL 350 from November 2014, and the facelift in 2016 brought power upgrades to both the SL 400 (367 bhp) and SL 500 (455 bhp)."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

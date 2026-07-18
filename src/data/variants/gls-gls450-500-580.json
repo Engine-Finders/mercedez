@@ -1,0 +1,556 @@
+{
+  "meta": {
+    "slug": "gls-gls450-500-580",
+    "title": "Mercedes GLS450 GLS500 GLS580 Engine Replacement Cost UK",
+    "titleCharCount": 55,
+    "description": "Every Mercedes‑Benz GLS450 / GLS500 / GLS580 engine — M256, M278 and M176. X166 and X167 generations, real UK costs and reliability. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 165,
+    "canonical": "https://mercedesengine.uk/gls/gls450-500-580/",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLS‑Class",
+              "item": "https://mercedesengine.uk/gls/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GLS450 / GLS500 / GLS580",
+              "item": "https://mercedesengine.uk/gls/gls450-500-580/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz GLS450 / GLS500 / GLS580 Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "X166 GLS500 (M278, 2015-2019)",
+              "url": "https://mercedesengine.uk/gls/x166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "X167 GLS450 (M256, 2019-present)",
+              "url": "https://mercedesengine.uk/gls/x167/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "X167 GLS580 (M176, 2019-present)",
+              "url": "https://mercedesengine.uk/gls/x167/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz GLS450 / GLS500 / GLS580 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M278",
+              "url": "https://mercedesengine.uk/engines/m278/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M256",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M176",
+              "url": "https://mercedesengine.uk/engines/m176/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz GLS450 / GLS500 / GLS580 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned engine typically costs £3,000–£12,000 supply only depending on generation: M278 (£3,000–£6,500), M256 (£3,500–£7,500), M176 (£5,000–£12,000). Fitting adds £1,000–£1,800. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz GLS450 / GLS500 / GLS580 engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the engine. The M256 (GLS450) is widely considered the most reliable — owners report 0% engine issues at nearly 100,000 miles. The M176 (GLS580) has known exhaust clamp and oil leak issues but low complaint rates. The M278 (GLS500) has timing chain tensioner and oil leak issues. The M256 is the recommended choice for reliability."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz GLS450 / GLS500 / GLS580?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "M176 exhaust clamp leaks (check engine light, rough running), M176 oil leaks, M278 timing chain tensioner rattle, M278 cam magnet / cam sensor oil leaks, and M256 engine harness issues. All are repairable if caught early."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz GLS450 / GLS500 / GLS580 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value and generation. Against a well‑kept X167 GLS580 worth £30,000–£60,000, a £5,000–£12,000 recon is a manageable 8–40% of the vehicle's value — worth it for a well‑maintained example. For an X166 GLS500 worth £10,000–£20,000, a £4,500 recon is more marginal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz GLS engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. The GLS450 uses M256 (X167 2019–present); the GLS500 uses M278 (X166 2015–2019); the GLS580 uses M176 (X167 2019–present). Tell us your registration date and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the M176's exhaust clamp leaks, or does it need a new engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — exhaust clamp replacement is a straightforward repair costing £200–£600. Mercedes TSB LI07.61-P-073583 addresses this issue. One‑piece clamps must be replaced with two‑piece clamps. This does not typically require engine replacement."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz GLS450 / GLS500 / GLS580 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "12000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes‑Benz GLS Petrol UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes‑Benz GLS450 / GLS500 / GLS580 engines (M256, M278, M176), sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes GLS450 GLS500 GLS580 Engine Replacement Cost UK",
+          "url": "https://mercedesengine.uk/gls/gls450-500-580/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz GLS450 / GLS500 / GLS580 • 2015–present • 3 Engine Generations • M256 / M278 / M176",
+    "h1": "Mercedes-Benz GLS450 / GLS500 / GLS580 Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz GLS V8 and straight-six specialists. Compare reconditioned, rebuilt and used M256, M278 and M176 engines — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12‑Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes GLS Petrol Engines — from £2,500 to £12,000 · Common codes: M256, M278, M176",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free GLS Petrol Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK‑Wide Network"
+  },
+  "eraMap": {
+    "title": "The GLS450 / GLS500 / GLS580 THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "X166 (GLS500)",
+        "years": "2015–2019",
+        "engineCode": "M278 (4.7 BiTurbo V8)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£6,500 [MB‑QUOTE]",
+        "eraNote": "The 4.7 V8 in the first-generation GLS — timing chain rattle, cam magnet oil leaks and coolant pipe failures are the main watchpoints."
+      },
+      {
+        "generation": "X167 (GLS450)",
+        "years": "2019–present",
+        "engineCode": "M256 (3.0 I6 Turbo + EQ Boost)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£7,500 [MB‑QUOTE]",
+        "eraNote": "The modern 3.0 straight-six with 48V mild hybrid — refined and generally reliable; engine harness and starter issues are the main watchpoints."
+      },
+      {
+        "generation": "X167 (GLS580)",
+        "years": "2019–present",
+        "engineCode": "M176 (4.0 V8 BiTurbo)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£5,000–£12,000 [MB‑QUOTE]",
+        "eraNote": "The twin-turbo 4.0 V8 — smooth and potent; exhaust clamp leaks, oil leaks and misfire issues are the main watchpoints."
+      }
+    ],
+    "sourceNote": "",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz GLS450 / GLS500 / GLS580 Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,500–£5,000",
+        "fittedIndie": "£3,300–£6,300",
+        "warranty": "3–6 months",
+        "bestFor": "Budget priority; vehicle under £10,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£4,000–£8,000",
+        "fittedIndie": "£5,000–£9,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£6,000–£12,000",
+        "fittedIndie": "£7,100–£13,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£15,000–£25,000",
+        "fittedIndie": "£17,000–£28,000",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "",
+    "labourEstimate": "Fitting a GLS petrol engine typically takes 14–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). The hot‑vee layout of the M176 and M278 requires significant disassembly.",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": []
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes‑Benz Specialist →",
+    "supportingLine": "25+ vetted Mercedes‑Benz specialists, every GLS petrol variant covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free GLS Petrol Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz GLS450 / GLS500 / GLS580 — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "M176 exhaust clamp leaks (GLS580)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£600",
+          "whenItMakesSense": "Replace with two‑piece clamps; TSB LI07.61-P-073583 covers this"
+        },
+        {
+          "problem": "M176 oil leaks (GLS580)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£2,000",
+          "whenItMakesSense": "Valve cover, oil cooler or oil pan gaskets; catch it before low oil damage"
+        },
+        {
+          "problem": "M278 timing chain tensioner rattle (GLS500)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,000–£2,500",
+          "whenItMakesSense": "TSB LI05.1o-P-056435 covers this; catch it before chain jumps"
+        },
+        {
+          "problem": "M278 cam magnet / sensor oil leaks (GLS500)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800",
+          "whenItMakesSense": "Preventative — catch it before oil reaches the ECU"
+        },
+        {
+          "problem": "M278 turbo coolant line failure (GLS500)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Replace coolant lines and hoses — common failure"
+        },
+        {
+          "problem": "M256 engine harness issues (GLS450)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£800",
+          "whenItMakesSense": "Wiring harness inspection and repair; less common than other issues"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This GLS Petrol? Check These First",
+      "buyIf": [
+        "* X167 GLS450 with the M256 inline‑six — considered one of Mercedes' most reliable modern engines",
+        "* M176 GLS580 with documented exhaust clamp and oil leak repairs",
+        "* M278 GLS500 with documented timing chain tensioner work (TSB completed)",
+        "* Full Mercedes service history — all GLS engines are sensitive to oil quality"
+      ],
+      "avoidIf": [
+        "* M176 with check engine light and no diagnosis — potential exhaust clamp or misfire issue",
+        "* M278 with cold‑start rattle and no timing chain tensioner history",
+        "* Oil in camshaft sensor connectors — potential ECU damage risk (M278)",
+        "* Poor service history on any generation — V8s and modern turbo engines are unforgiving of neglect"
+      ]
+    },
+    "closingVerdict": "The GLS450 / GLS500 / GLS580 badge spans three very different engine families. The M256 (GLS450) is widely considered the most reliable choice — a modern straight‑six with 48V mild‑hybrid that owners report as bulletproof. The M176 (GLS580) is a potent V8 with known exhaust clamp and oil leak issues but relatively low complaint rates. The M278 (GLS500) is the oldest of the three, with well‑documented timing chain tensioner and oil leak issues. Buy the M256 if you want the most reliable option; buy the V8s if you want the power but demand documented service history.",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes‑Benz GLS450 / GLS500 / GLS580 (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Engine Type — Confirm which engine the car has (M256 for GLS450, M176 for GLS580, M278 for GLS500) — see the Era Map above",
+      "* Cold Start — Listen for rattling noise on startup (M278 timing chain tensioner warning)",
+      "* Check Engine Light — Any CEL? Could be exhaust clamp leaks on M176 or other issues",
+      "* Oil Leaks — Check for oil spots under the car or burning oil smell (M176/M278)",
+      "* Cam Sensor Connectors — Disconnect and check for oil — oil in the plug could mean a new ECU (M278)",
+      "* Misfire History — Any rough running or misfire codes? Early M176 production had misfire issues",
+      "* Engine Harness — Any electrical issues? GLS450 engine harness problems have been reported",
+      "* Service History — Full Mercedes history with documented oil changes"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M278 (278.9xx)",
+        "years": "2015–2019",
+        "power": "455 bhp / 700 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£6,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M256 (256.9xx)",
+        "years": "2019–present",
+        "power": "362–375 bhp / 500 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£7,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M176 (176.9xx)",
+        "years": "2019–present",
+        "power": "483 bhp / 700 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£12,000 [MB‑QUOTE]"
+      }
+    ],
+    "matchNote": "",
+    "technicalSpecs": {
+      "title": "Technical Specs (M256 — representative):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "3,982cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "8‑cylinder V (90°)"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin‑turbo, hot‑vee layout"
+        },
+        {
+          "label": "* Valvetrain",
+          "value": "DOHC, 32‑valve, with variable valve timing"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,999cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6‑cylinder inline"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbo with 48V EQ Boost mild‑hybrid"
+        }
+      ]
+    },
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M176 exhaust clamp leaks (TSB LI07.61-P-073583), M278 timing chain tensioner rattle (TSB LI05.1o-P-056435), and oil leaks — approximately 50% of GLS petrol enquiries"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "45,000 miles [PATTERN DATA]"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£5,500 reconditioned, supply only [MB‑QUOTE]"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M176 [MB‑VERIFIED]"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose timing chain and exhaust leak issues"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (24%), South East (22%), South West (14%) [PATTERN DATA]"
+      },
+      {
+        "label": "SECTION 8 — FAQ",
+        "value": "1. How much does a Mercedes‑Benz GLS450 / GLS500 / GLS580 engine replacement cost in the UK?"
+      },
+      {
+        "label": "A reconditioned engine typically costs £3,000–£12,000 supply only depending on generation: M278 (£3,000–£6,500), M256 (£3,500–£7,500), M176 (£5,000–£12,000). Fitting adds £1,000–£1,800. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes‑Benz GLS450 / GLS500 / GLS580 engine reliable?"
+      },
+      {
+        "label": "It depends on the engine. The M256 (GLS450) is widely considered the most reliable — owners report 0% engine issues at nearly 100,000 miles. The M176 (GLS580) has known exhaust clamp and oil leak issues but low complaint rates. The M278 (GLS500) has timing chain tensioner and oil leak issues. The M256 is the recommended choice for reliability.",
+        "value": "3. What are the common problems with the Mercedes‑Benz GLS450 / GLS500 / GLS580?"
+      },
+      {
+        "label": "M176 exhaust clamp leaks (check engine light, rough running), M176 oil leaks, M278 timing chain tensioner rattle, M278 cam magnet / cam sensor oil leaks, and M256 engine harness issues. All are repairable if caught early.",
+        "value": "4. Is it worth replacing a Mercedes‑Benz GLS450 / GLS500 / GLS580 engine, or should I scrap the car?"
+      },
+      {
+        "label": "Depends on vehicle value and generation. Against a well‑kept X167 GLS580 worth £30,000–£60,000, a £5,000–£12,000 recon is a manageable 8–40% of the vehicle's value — worth it for a well‑maintained example. For an X166 GLS500 worth £10,000–£20,000, a £4,500 recon is more marginal. However, well‑maintained examples with documented service history are worth saving.",
+        "value": "5. How do I find my Mercedes‑Benz GLS engine code?"
+      },
+      {
+        "label": "Listed on the VIN plate and vehicle documentation. The GLS450 uses M256 (X167 2019–present); the GLS500 uses M278 (X166 2015–2019); the GLS580 uses M176 (X167 2019–present). Tell us your registration date and we'll confirm it for free.",
+        "value": "6. Can I repair the M176's exhaust clamp leaks, or does it need a new engine?"
+      },
+      {
+        "label": "Yes — exhaust clamp replacement is a straightforward repair costing £200–£600. Mercedes TSB LI07.61-P-073583 addresses this issue. One‑piece clamps must be replaced with two‑piece clamps. This does not typically require engine replacement.",
+        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+      }
+    ]
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "Find the best Mercedes‑Benz GLS450 / GLS500 / GLS580 engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes‑Benz GLS Petrol Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "slug": "mercedes-s-class-w220",
+    "title": "Mercedes S-Class W220 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes S-Class W220 • Saloon • 1998–2005",
+    "h1": "Mercedes S-Class W220 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the fourth-generation S-Class flagship — from the V6 M112 and V8 M113 to the V12 M137 and the OM648 straight-six diesel. Real UK costs, honest reliability data, and the engine range that defined Mercedes' luxury saloon at the turn of the millennium. Backed by 880+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "880+ W220 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon"
+      },
+      {
+        "icon": "📖",
+        "label": "12 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W220 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes S-Class W220 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W220 specifically — including the pre- and post-facelift changes, AMG variants, and the short-lived M137 V12.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W220)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M112.922",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "2.8L (2799cc)",
+        "power": "204 bhp",
+        "years": "1998–2005",
+        "variants": "S 280",
+        "reliability": "★★★☆☆ [PROVISIONAL — generally reliable V6; watch for oil leaks]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M112.944",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "3.2L (3199cc)",
+        "power": "224 bhp",
+        "years": "1998–2005",
+        "variants": "S 320",
+        "reliability": "★★★☆☆ [PROVISIONAL — M112 V6; reliable but aging]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M112.972",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "3.7L (3724cc)",
+        "power": "245 bhp",
+        "years": "2002–2005",
+        "variants": "S 350",
+        "reliability": "★★★☆☆ [PROVISIONAL — larger M112; timing chain and oil leak concerns]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£4,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113.941",
+        "family": "M113",
+        "fuel": "Petrol, V8",
+        "displacement": "4.3L (4266cc)",
+        "power": "279 bhp",
+        "years": "1998–2005",
+        "variants": "S 430",
+        "reliability": "★★★★☆ [PROVISIONAL — robust M113 V8; well-regarded]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113.960",
+        "family": "M113",
+        "fuel": "Petrol, V8",
+        "displacement": "5.0L (4966cc)",
+        "power": "299–306 bhp",
+        "years": "1998–2005",
+        "variants": "S 500",
+        "reliability": "★★★★☆ [PROVISIONAL — M113 V8; strong reliability when maintained]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113.966",
+        "family": "M113",
+        "fuel": "Petrol, V8",
+        "displacement": "5.0L (4966cc)",
+        "power": "306 bhp",
+        "years": "1999–2005",
+        "variants": "S 500 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — M113 V8 with 4MATIC; same reliability profile]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M113.986",
+        "family": "M113",
+        "fuel": "Petrol, V8",
+        "displacement": "5.4L (5439cc)",
+        "power": "360 bhp",
+        "years": "1999–2005",
+        "variants": "S 55 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL — supercharged M113; powerful but watch for supercharger wear]",
+        "enquiries": "370 [MB-VERIFIED]",
+        "avgReconCost": "£3,500–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M137.970",
+        "family": "M137",
+        "fuel": "Petrol, V12",
+        "displacement": "5.8L (5786cc)",
+        "power": "367 bhp",
+        "years": "2000–2002",
+        "variants": "S 600",
+        "reliability": "★★☆☆☆ [PROVISIONAL — unreliable V12; cylinder wall deformation issues]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£10,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M137.980",
+        "family": "M137",
+        "fuel": "Petrol, V12",
+        "displacement": "6.3L (6258cc)",
+        "power": "444 bhp",
+        "years": "2001–2005",
+        "variants": "S 63 AMG",
+        "reliability": "★★☆☆☆ [PROVISIONAL — high-output M137; very unreliable]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£12,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M275.950",
+        "family": "M275",
+        "fuel": "Petrol, V12 biturbo",
+        "displacement": "5.5L (5513cc)",
+        "power": "500 bhp",
+        "years": "2002–2005",
+        "variants": "S 600 (facelift)",
+        "reliability": "★★★☆☆ [PROVISIONAL — twin-turbo V12; complex and costly to maintain]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£12,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM613.960",
+        "family": "OM613",
+        "fuel": "Diesel, straight-6",
+        "displacement": "3.2L (3222cc)",
+        "power": "197 bhp",
+        "years": "1999–2002",
+        "variants": "S 320 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — early CDI; injector and EGR issues]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£4,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM648.960",
+        "family": "OM648",
+        "fuel": "Diesel, straight-6",
+        "displacement": "3.2L (3222cc)",
+        "power": "204 bhp",
+        "years": "2002–2005",
+        "variants": "S 320 CDI (facelift)",
+        "reliability": "★★★★☆ [PROVISIONAL — improved CDI; more reliable than OM613]",
+        "enquiries": "880 [MB-VERIFIED]",
+        "avgReconCost": "£2,200–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM628.960",
+        "family": "OM628",
+        "fuel": "Diesel, V8",
+        "displacement": "4.0L (3996cc)",
+        "power": "250–260 bhp",
+        "years": "2000–2005",
+        "variants": "S 400 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — rare V8 diesel; complex and parts are hard to source]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "* M112/M113 families: 85% confidence — well‑documented Mercedes V6/V8 engines; pattern data. * M137 family: 70% confidence — short production run; known reliability issues; pattern data. * M275: 75% confidence — complex twin-turbo V12; pattern data. * OM613/OM648: 80% confidence — well‑documented CDI engines; pattern data. * OM628: 70% confidence — rare V8 diesel; limited data."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes S-Class W220 — Overview",
+    "intro": "The W220 is the fourth generation of the Mercedes‑Benz S‑Class, launched in 1998 as the successor to the W140. Built on a new platform that was slightly smaller externally than its predecessor but offered greater interior volume, it introduced a range of advanced technologies including the COMAND infotainment system and Keyless-Go. The engine range spanned from the 2.8‑litre M112 V6 to the 6.3‑litre M137 V12, with AMG variants delivering up to 444 bhp. A significant facelift arrived in 2002, bringing new engines including the M275 biturbo V12 and the improved OM648 straight-six diesel. Production ended in July 2005, succeeded by the W221.",
+    "keyFacts": "Platform: Mercedes W220 (shared with C215 CL-Class) • Predecessor: W140 (1991–1998) • Successor: W221 (2005–2013) • Sibling body styles in this generation: C215 (CL-Class coupé)",
+    "marketIntelligenceLine": "The W220 S‑Class generated 880+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM648 diesel and M113 V8 as the most‑requested powertrains."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM648.960 (S 320 CDI, facelift)",
+        "quote": "Mercedes' improved 3.2‑litre straight‑six diesel, introduced with the 2002 facelift, replaced the problematic OM613 with a more refined and reliable unit. It delivers 204 bhp with strong low‑end torque and better fuel economy than its predecessor.",
+        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage luxury motoring."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M113.966 (S 500 4MATIC)",
+        "quote": "Mercedes' 5.0‑litre V8, mated to the 4MATIC all‑wheel drive system, delivers 306 bhp with a silky, effortless character. The M113 is one of Mercedes' most robust V8 engines, with fewer of the issues that plague the M137 V12.",
+        "whoItsFor": "buyers who want V8 power and all‑weather capability."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M137.970/980 (S 600 / S 63 AMG)",
+        "quote": "The M137 V12 has gone on to be regarded as one of Mercedes‑Benz's least reliable engines ever made. Along with a host of other issues, one of the main concerns is cylinder wall deformation, allowing oil to pass into the combustion chamber. The 6.3‑litre S 63 AMG variant is even more problematic.",
+        "whoItsFor": "collectors with deep pockets and a specialist mechanic on speed dial."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M275.950 (S 600, facelift) — twin‑turbo and cooling system",
+        "quote": "The biturbo V12 is complex and costly to maintain. Turbocharger failure, cooling system leaks, and ignition coil issues are all common — and all expensive to repair.",
+        "whoItsFor": "buyers who want V12 flagship status and can afford the premium running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM648.960 (S 320 CDI)",
+        "quote": "The facelift diesel offers the best balance of performance, economy (up to 34 mpg), and reliability. It's the sweet spot in the W220 range.",
+        "whoItsFor": "high‑mileage drivers and those who want S‑Class luxury without V12 running costs."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M113.986 (S 55 AMG)",
+        "quote": "The supercharged 5.4‑litre V8 delivers 360 bhp with genuine AMG performance. It's often overlooked in favour of the V12 models but offers a more reliable and engaging driving experience.",
+        "whoItsFor": "buyers who want AMG performance without the V12's reliability headaches."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes S-Class W220 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M112.922/944/972 (S 280/320/350)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Oil leaks, timing chain wear, MAF sensor failure",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£1,800–£4,200",
+        "ownershipVerdict": "Solid V6 — reliable but aging."
+      },
+      {
+        "engine": "M113.941/960/966 (S 430/500)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Valve cover gasket leaks, oil pan leaks",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,500–£5,500",
+        "ownershipVerdict": "Best V8 — robust and dependable."
+      },
+      {
+        "engine": "M113.986 (S 55 AMG)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Supercharger wear, intercooler issues",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,500–£6,500",
+        "ownershipVerdict": "AMG Sweet Spot — powerful and reliable."
+      },
+      {
+        "engine": "M137.970 (S 600)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Cylinder wall deformation, oil consumption",
+        "repairCostSpecialist": "£2,000–£5,000",
+        "replacementCostRecon": "£5,000–£10,000",
+        "ownershipVerdict": "Avoid — one of Mercedes' least reliable engines."
+      },
+      {
+        "engine": "M137.980 (S 63 AMG)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Cylinder wall deformation, oil consumption",
+        "repairCostSpecialist": "£3,000–£6,000",
+        "replacementCostRecon": "£6,000–£12,000",
+        "ownershipVerdict": "Collector Only — very unreliable."
+      },
+      {
+        "engine": "M275.950 (S 600 facelift)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Turbocharger failure, cooling system leaks",
+        "repairCostSpecialist": "£1,500–£4,000",
+        "replacementCostRecon": "£6,000–£12,000",
+        "ownershipVerdict": "Flagship Tax — complex and costly."
+      },
+      {
+        "engine": "OM613.960 (S 320 CDI pre‑facelift)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector failure, EGR clogging, turbo issues",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£2,000–£4,000",
+        "ownershipVerdict": "Early Diesel — improved with facelift."
+      },
+      {
+        "engine": "OM648.960 (S 320 CDI facelift)",
+        "typicalMileage": "100k–200k",
+        "commonMajorFailure": "Injector seal leaks, EGR issues",
+        "repairCostSpecialist": "£400–£1,200",
+        "replacementCostRecon": "£2,200–£4,500",
+        "ownershipVerdict": "Best Diesel — refined and durable."
+      },
+      {
+        "engine": "OM628.960 (S 400 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector issues, parts scarcity",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Rare Choice — hard to source parts."
+      }
+    ],
+    "economicsRule": {
+      "title": "The W220 rule",
+      "text": "A £2,200–£4,500 OM648 recon against a £3,000–£10,000 W220 sits at 22–150% of the car's value. On a sub‑£4,000 W220, that approaches or exceeds our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well‑kept £8,000+ example, the same recon drops to a routine 28–56% — a repair decision, not a financial one. The V12 cars are a different proposition entirely — their replacement costs often exceed the vehicle's value."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W220 Costs Least To Own?",
+        "answer": "S 320 CDI (OM648) — best balance of economy and reliability."
+      },
+      {
+        "question": "Which W220 Costs Most To Own?",
+        "answer": "S 600 (M137/M275) — V12 running costs are astronomical."
+      },
+      {
+        "question": "Which W220 Is Best Value?",
+        "answer": "S 320 CDI (OM648) — the sweet spot in the range."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M137 V12 Cylinder Wall Deformation (S 600 / S 63 AMG)",
+        "affectedModels": "S 600 (M137.970, 2000–2002), S 63 AMG (M137.980, 2001–2005)",
+        "typicalFailureMileage": "30,000–80,000 miles",
+        "rootCause": "The M137 V12 suffers from cylinder wall deformation, allowing oil to pass into the combustion chamber. This leads to excessive oil consumption, blue smoke, and eventually catastrophic engine failure. Along with a host of other issues, it has gone on to be regarded as one of Mercedes‑Benz's least reliable engines ever made.",
+        "tieredCosts": [],
+        "recommendation": "On any M137‑powered W220, have a compression test and oil consumption check performed at every service. If oil consumption exceeds 1 litre per 1,000 miles, consider the car uneconomical to repair.",
+        "cta": {
+          "label": "Compare M137 engine prices for your W220 V12 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM613 Injector & EGR Issues (pre‑facelift S 320 CDI)",
+        "affectedModels": "S 320 CDI (OM613.960, 1999–2002)",
+        "typicalFailureMileage": "80,000–120,000 miles",
+        "rootCause": "The early OM613 CDI engine suffers from injector failure and EGR valve clogging, leading to rough running, poor economy, and potential engine damage.",
+        "tieredCosts": [],
+        "recommendation": "On pre‑facelift S 320 CDI models, have the injectors tested at 80,000 miles — a £500–£1,200 repair is far cheaper than the £2,000–£4,000 replacement that follows if an injector fails catastrophically.",
+        "cta": {
+          "label": "Compare OM613 engine prices for your W220 diesel →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M113 V8 Oil Leaks (S 430 / S 500)",
+        "affectedModels": "S 430, S 500 (M113.941/960/966)",
+        "typicalFailureMileage": "80,000–150,000 miles",
+        "rootCause": "The M113 V8 is generally robust, but valve cover gaskets and oil pan gaskets can degrade over time, leading to oil leaks.",
+        "tieredCosts": [],
+        "recommendation": "If you notice oil spots on your driveway or a burning oil smell, have the gaskets inspected immediately — a £400–£800 repair is cheap insurance against a £2,500–£5,500 engine replacement.",
+        "cta": {
+          "label": "Compare M113 engine prices for your W220 V8 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "M275 Biturbo V12 Turbocharger Failure (facelift S 600)",
+        "affectedModels": "S 600 (M275.950, 2002–2005)",
+        "typicalFailureMileage": "40,000–80,000 miles",
+        "rootCause": "The twin‑turbo V12's turbochargers can suffer from oil feed line contamination and bearing wear, leading to premature failure. Cooling system leaks and ignition coil failures are also common.",
+        "tieredCosts": [],
+        "recommendation": "On facelift S 600 models, stick to strict service intervals and use the correct high‑grade oil — a £1,500–£2,500 turbo rebuild is far cheaper than the £6,000–£12,000 replacement that follows a catastrophic failure.",
+        "cta": {
+          "label": "Compare M275 engine prices for your W220 V12 →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W220 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "S 280",
+        "engineCode": "M112.922",
+        "usedSupply": "£800–£1,600",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 320",
+        "engineCode": "M112.944",
+        "usedSupply": "£800–£1,800",
+        "reconditionedSupply": "£1,800–£3,800",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 350",
+        "engineCode": "M112.972",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£2,000–£4,200",
+        "rebuiltSupply": "£3,200–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 430",
+        "engineCode": "M113.941",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,500–£5,000",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "S 500",
+        "engineCode": "M113.960/966",
+        "usedSupply": "£1,500–£3,000",
+        "reconditionedSupply": "£2,800–£5,500",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "S 55 AMG",
+        "engineCode": "M113.986",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,500–£6,500",
+        "rebuiltSupply": "£5,000–£8,500",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "S 600 (pre‑facelift)",
+        "engineCode": "M137.970",
+        "usedSupply": "£2,500–£5,000",
+        "reconditionedSupply": "£5,000–£10,000",
+        "rebuiltSupply": "£7,000–£14,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "S 63 AMG",
+        "engineCode": "M137.980",
+        "usedSupply": "£3,000–£6,000",
+        "reconditionedSupply": "£6,000–£12,000",
+        "rebuiltSupply": "£8,000–£16,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "S 600 (facelift)",
+        "engineCode": "M275.950",
+        "usedSupply": "£3,000–£6,000",
+        "reconditionedSupply": "£6,000–£12,000",
+        "rebuiltSupply": "£8,000–£14,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "S 320 CDI (pre‑facelift)",
+        "engineCode": "OM613.960",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£2,000–£4,000",
+        "rebuiltSupply": "£3,200–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 320 CDI (facelift)",
+        "engineCode": "OM648.960",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£4,500",
+        "rebuiltSupply": "£3,500–£6,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 400 CDI",
+        "engineCode": "OM628.960",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "14–18 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Model Page's baseline figures — the W220 shares its platform with the C215 CL‑Class, so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "S 320 CDI",
+      "S 400 CDI"
+    ],
+    "petrolVariants": [
+      "S 280",
+      "S 320",
+      "S 350",
+      "S 430",
+      "S 500",
+      "S 500 4MATIC",
+      "S 55 AMG",
+      "S 600",
+      "S 63 AMG"
+    ],
+    "scopeNote": "All variants listed are W220 saloon only. The C215 CL‑Class shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "slug": "c-class-c43-amg",
+    "title": "Mercedes C43 AMG Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 62,
+    "description": "Every Mercedes C43 AMG engine — the 3.0-litre M276 twin-turbo V6. Real UK costs, timing chain rattle and misfire advice, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "canonical": "https://mercedesengine.uk/c-class/c43-amg/",
+    "openGraph": {
+      "title": "Mercedes C43 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes C43 AMG engine — the 3.0-litre M276 twin-turbo V6. Real UK costs, timing chain rattle and misfire advice, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/c-class/c43-amg/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/c43-amg.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mercedes C43 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes C43 AMG engine — the 3.0-litre M276 twin-turbo V6. Real UK costs, timing chain rattle and misfire advice, and honest reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/c43-amg.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class",
+              "item": "https://mercedesengine.uk/c-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W205",
+              "item": "https://mercedesengine.uk/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "C43 AMG",
+              "item": "https://mercedesengine.uk/c-class/c43-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes C43 AMG Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W205 C43 AMG (M276.823, 367 hp, 2016–2018)",
+              "url": "https://mercedesengine.uk/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W205 Facelift C43 AMG (M276.823, 385–390 hp, 2018–2021)",
+              "url": "https://mercedesengine.uk/c-class/w205-facelift/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes C43 AMG Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M276.823",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes C43 AMG engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned C43 AMG (M276.823) engine typically costs £4,500–£7,500 supply only. Fitting adds £2,000–£3,500 depending on location and workshop rates. The cost of a C43 AMG engine rebuild can vary widely, but typically ranges from £5,000 to £10,000 or more. Main dealer new engines start from £9,000–£15,000+ supply only. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes C43 AMG engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M276 has a mixed reputation. It's a strong, smooth engine with impressive performance, but it has well-documented weaknesses: the timing chain tensioner oil feed issue causing cold-start rattle is the most common complaint. Misfire and cylinder head problems, HPFP failures, and oil leaks are also documented. With proper maintenance, these engines can be reliable, but the cold-start rattle is a genuine concern."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes C43 AMG?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The main known issues are: (1) Cold-start timing chain rattle — caused by secondary tensioner oil feed issues; a TSB (LI05.10-P-056435) exists for check valve and tensioner installation, (2) Misfire and cylinder head problems — causing severe shaking and loss of power under load, (3) High-pressure fuel pump failure — causing power loss and jerky running, and (4) Oil leaks from camshaft position sensors and timing cover."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes C43 AMG engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value and condition. Against a well-kept £15,000–£30,000 C43 AMG, a £5,000–£7,500 recon is 20–50% of the car's value. For a clean example with full service history, replacement is often worth it given the C43's strong retained values and enthusiast following. However, if the car has other issues (transmission, electrical faults, accident damage), evaluate total repair costs before committing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes C43 AMG engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The C43 AMG uses the M276.823 engine code — a 3.0-litre twin-turbo V6 producing 367–390 hp and 520 Nm of torque. The engine code is stamped on the cylinder block. Tell us your registration and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I fix the cold-start timing chain rattle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the rattle is caused by secondary tensioner oil feed issues. Mercedes TSB LI05.10-P-056435 recommends installing check valves and chain tensioners. The cost is typically £700–£1,500. However, some dealers may not want to perform the work. The bulletin states no damage can be caused and it's just a noise, but many owners prefer to fix it for peace of mind."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes C43 AMG Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "9000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes C43 AMG UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes C43 AMG engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes C43 AMG Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/c-class/c43-amg/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes C43 AMG • 2016–2021 • 1 Engine Generation",
+    "h1": "Mercedes C43 AMG Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes C43 AMG specialists. The 3.0-litre M276 twin-turbo V6 is a performance icon — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes C43 AMG Engines — from £2,500 to £9,000 · Engine code: M276.823",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See C43 AMG Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes C43 AMG — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W205 (C43)",
+        "years": "2016–2018",
+        "engineCode": "M276.823",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,500–£7,500 [MB-QUOTE]",
+        "eraNote": "3.0L twin-turbo V6 — 367 hp, 520 Nm. Timing chain tensioner and cold-start rattle are key concerns"
+      },
+      {
+        "generation": "W205 facelift (C43)",
+        "years": "2018–2021",
+        "engineCode": "M276.823",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,500–£7,500 [MB-QUOTE]",
+        "eraNote": "3.0L twin-turbo V6 — 385–390 hp. Revised tune, same M276 architecture"
+      }
+    ],
+    "sourceNote": "",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes C43 AMG Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,500–£5,000",
+        "fittedIndie": "£3,500–£6,500",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower-mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£4,500–£7,500",
+        "fittedIndie": "£6,500–£9,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£5,500–£9,000",
+        "fittedIndie": "£7,500–£11,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£9,000–£15,000+",
+        "fittedIndie": "£11,000–£17,000+",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "",
+    "labourEstimate": "Fitting a C43 AMG engine typically takes 14–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). The twin-turbo V6's complexity and the need for correct ECU calibration add labour time.",
+    "cta": {
+      "label": "→ Compare C43 AMG engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Cold-Start Timing Chain Rattle (M276 Achilles Heel)",
+        "symptoms": "Rattling or ticking noise from the engine lasting 2–5 seconds on cold start, especially after the car has been sitting overnight; metallic noise that subsides as oil pressure builds",
+        "typicalMileage": "30,000–120,000 miles — can occur at low mileage",
+        "repairCost": "£700–£1,500 (check valve and tensioner replacement) / £2,000–£4,000 (full timing chain kit)",
+        "replacementCost": "£5,500–£11,000 (if chain jumps — full engine replacement)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattling on cold start, book an inspection today"
+        },
+        "recommendation": "The M276 has a well-documented issue with secondary timing chain tensioner oil feed problems. When parked, oil drains back, causing a rattle for a few seconds until oil pressure returns. Mercedes has issued a Technical Service Bulletin (LI05.10-P-056435) recommending the installation of check valves and chain tensioners. Some dealers may not want to perform the work, and MB won't fix it for free either. The bulletin states no damage can be caused and it's just a noise — but many owners remain concerned. At the first sign of cold-start rattle, have the tensioners and check valves inspected. A £700–£1,500 preventative repair is dramatically cheaper than a £5,500–£11,000 engine replacement.",
+        "failureLink": {
+          "label": "Read the full timing chain tensioner guide → /failures/m276-timing-chain-rattle/ [NEW FAILURE PAGE NEEDED]",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Misfire & Cylinder Head Issues",
+        "symptoms": "Engine shaking violently under acceleration, check engine light flashing, loss of power, multiple cylinder misfires (especially under load)",
+        "typicalMileage": "4,000–40,000 miles — can occur on very low-mileage cars",
+        "repairCost": "£1,500–£4,000 (cylinder head inspection and repair) / £4,500–£7,500 (cylinder head replacement)",
+        "replacementCost": "£5,500–£11,000 (if ignored — full engine replacement)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you experience severe shaking or misfires, stop driving and book an inspection"
+        },
+        "recommendation": "Multiple C43 AMG owners have reported severe engine misfires, particularly under hard acceleration. One owner reported that at just 4,160 miles, the car suffered from cylinders 2, 3, 4 and 6 misfiring after hard acceleration. The dealer had no solution, and the problem recurred repeatedly. Some owners have reported pistons going through the engine block, necessitating full engine replacement. If you experience rough running or misfires, have the cylinder head and fuel system inspected immediately. This is a serious issue that can lead to catastrophic engine failure.",
+        "failureLink": {
+          "label": "Read the full misfire & cylinder head guide → /failures/m276-misfire-cylinder-head/ [NEW FAILURE PAGE NEEDED]",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "High-Pressure Fuel Pump (HPFP) & Fuel System Issues",
+        "symptoms": "Loss of power under acceleration, jerky running when building boost, engine warning light, poor throttle response",
+        "typicalMileage": "30,000–60,000 miles — can occur on tuned and stock cars",
+        "repairCost": "£800–£2,000 (HPFP replacement, common rail cleaning, injectors)",
+        "replacementCost": "£5,500–£11,000 (if ignored — full engine replacement)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if you experience power loss or jerky running"
+        },
+        "recommendation": "The M276's high-pressure fuel pump and common rail system can suffer from corrosion and failure. One owner reported a severely corroded common rail, a broken LPFP, and a failing HPFP, with the car jerking when trying to build boost. If you experience power loss or jerky running under acceleration, have the fuel system inspected immediately. A £800–£2,000 repair is far cheaper than the engine damage that can follow if ignored.",
+        "failureLink": {
+          "label": "Read the full HPFP failure guide → /failures/hpfp-failure/ [NEW FAILURE PAGE NEEDED]",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Oil Leaks (Camshaft Position Sensors & Timing Cover)",
+        "symptoms": "Oil spots under the car, burning oil smell, visible oil residue around the camshaft position sensors or timing cover",
+        "typicalMileage": "40,000–100,000 miles",
+        "repairCost": "£300–£800 (camshaft sensor seal replacement) / £800–£1,500 (timing cover reseal)",
+        "replacementCost": "N/A — repair only (does not progress to engine replacement if addressed)",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection if you notice oil spots or burning smell"
+        },
+        "recommendation": "Oil leaks are a common issue on the M276 engine. Camshaft position sensors can leak oil into the wiring harness, causing electrical issues. Timing case cover and oil pan leaks are also documented. One MB shop foreman described a small leak near the cam magnet as \"normal\" but recommended replacing the gasket when time allows. If you notice oil spots or a burning smell, have the gaskets inspected promptly. Catching leaks early prevents oil contamination of other components and more serious engine damage.",
+        "failureLink": {
+          "label": "Read the full oil leak guide → /failures/m276-oil-leaks/ [NEW FAILURE PAGE NEEDED]",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes specialists, every C43 AMG engine covered, with a 12-month warranty as standard.",
+    "button": {
+      "label": "See C43 AMG Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "C43 AMG — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Cold-start timing chain rattle",
+          "repairable": "✅ Yes",
+          "typicalCost": "£700–£1,500",
+          "whenItMakesSense": "Check valve and tensioner replacement — bulletin fix available"
+        },
+        {
+          "problem": "Timing chain jumped",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Full engine replacement is the only reliable fix"
+        },
+        {
+          "problem": "Misfire / cylinder head issues",
+          "repairable": "⚠️ Sometimes",
+          "typicalCost": "£1,500–£7,500",
+          "whenItMakesSense": "Diagnosis required — may require head replacement"
+        },
+        {
+          "problem": "HPFP / fuel system failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Catch early to prevent engine damage"
+        },
+        {
+          "problem": "Oil leaks (cam sensors / timing cover)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£1,500",
+          "whenItMakesSense": "Catch early to prevent electrical and engine damage"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This C43 AMG? Check These First",
+      "buyIf": [
+        "* Post-2018 facelift model with revised ECU calibration",
+        "* Full service history with regular oil changes using correct 5W-30 MB-spec oil",
+        "* No cold-start rattling — this is a critical warning sign",
+        "* Remainder of manufacturer warranty or extended warranty in place"
+      ],
+      "avoidIf": [
+        "* Cold-start rattle with no documented tensioner/check valve work",
+        "* Check engine light with misfire codes — cylinder head issues may be present",
+        "* Oil leaks from camshaft position sensors or timing cover",
+        "* Poor service history — the M276 is a performance engine that needs proper maintenance"
+      ]
+    },
+    "closingVerdict": "The Mercedes C43 AMG is a genuine performance saloon — 367–390 hp, 520 Nm, and 0-60 in 4.7 seconds. The M276 twin-turbo V6 is a strong, smooth engine with impressive performance, but it has well-documented weaknesses: timing chain tensioner oil feed issues causing cold-start rattle, cylinder head and misfire problems, HPFP failures, and oil leaks. The cold-start rattle is the most common complaint — a TSB exists but dealers may not want the work. Buy a well-maintained example with full service history and no rattling. Without history? Proceed with caution — the repair bills can be substantial.",
+    "cta": {
+      "label": "→ Compare C43 AMG engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes C43 AMG (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattling or ticking for the first 2–5 seconds (timing chain tensioner warning — this is critical)",
+      "* Engine Warning Light — Have codes been read? Look for misfire or timing-related codes",
+      "* Service History — Including the M276.823 engine and confirmed oil change intervals (5W-30 MB-spec)",
+      "* Fuel System Health — Any power loss or jerky running under acceleration? (HPFP issues)",
+      "* Oil Leaks — Look for oil residue around the camshaft position sensors and timing cover",
+      "* Turbo Health — Listen for whistling; check for power loss (turbocharger wear)",
+      "* MOT History — Check for emissions-related failures",
+      "* Warranty Status — Extended warranty is highly recommended for these complex performance vehicles"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M276.823",
+        "years": "2016–2018",
+        "power": "367 hp (270 kW) / 520 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£7,500【MB-QUOTE】"
+      },
+      {
+        "engineCode": "M276.823",
+        "years": "2018–2021",
+        "power": "385–390 hp (283–287 kW) / 520 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£7,500【MB-QUOTE】"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M276.823):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,996 cc (3.0L)"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder V"
+        },
+        {
+          "label": "* Bore",
+          "value": "88.0 mm / Stroke: 82.1 mm"
+        },
+        {
+          "label": "* Cylinder Block",
+          "value": "Aluminium"
+        },
+        {
+          "label": "* Cylinder Head",
+          "value": "Aluminium 24-valve DOHC"
+        },
+        {
+          "label": "* Valvetrain",
+          "value": "DOHC, 4 valves per cylinder, chain-driven"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin-turbo (Biturbo)"
+        },
+        {
+          "label": "* Power (early)",
+          "value": "367 hp (270 kW) @ 5,500–6,000 rpm"
+        },
+        {
+          "label": "* Power (late)",
+          "value": "385–390 hp (283–287 kW)"
+        },
+        {
+          "label": "* Torque",
+          "value": "520 Nm @ 2,500–4,500 rpm"
+        },
+        {
+          "label": "* 0-62 mph",
+          "value": "4.7 seconds"
+        },
+        {
+          "label": "* Top Speed",
+          "value": "155 mph (limited)"
+        },
+        {
+          "label": "* Transmission",
+          "value": "9G-Tronic automatic"
+        },
+        {
+          "label": "* Drivetrain",
+          "value": "4MATIC all-wheel drive"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare C43 AMG engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes C43 AMG engine replacement cost in the UK?",
+        "answer": "A reconditioned C43 AMG (M276.823) engine typically costs £4,500–£7,500 supply only. Fitting adds £2,000–£3,500 depending on location and workshop rates. The cost of a C43 AMG engine rebuild can vary widely, but typically ranges from £5,000 to £10,000 or more. Main dealer new engines start from £9,000–£15,000+ supply only. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes C43 AMG engine reliable?",
+        "answer": "The M276 has a mixed reputation. It's a strong, smooth engine with impressive performance, but it has well-documented weaknesses: the timing chain tensioner oil feed issue causing cold-start rattle is the most common complaint. Misfire and cylinder head problems, HPFP failures, and oil leaks are also documented. With proper maintenance, these engines can be reliable, but the cold-start rattle is a genuine concern."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes C43 AMG?",
+        "answer": "The main known issues are: (1) Cold-start timing chain rattle — caused by secondary tensioner oil feed issues; a TSB (LI05.10-P-056435) exists for check valve and tensioner installation, (2) Misfire and cylinder head problems — causing severe shaking and loss of power under load, (3) High-pressure fuel pump failure — causing power loss and jerky running, and (4) Oil leaks from camshaft position sensors and timing cover."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes C43 AMG engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a well-kept £15,000–£30,000 C43 AMG, a £5,000–£7,500 recon is 20–50% of the car's value. For a clean example with full service history, replacement is often worth it given the C43's strong retained values and enthusiast following. However, if the car has other issues (transmission, electrical faults, accident damage), evaluate total repair costs before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes C43 AMG engine code?",
+        "answer": "The C43 AMG uses the M276.823 engine code — a 3.0-litre twin-turbo V6 producing 367–390 hp and 520 Nm of torque. The engine code is stamped on the cylinder block. Tell us your registration and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I fix the cold-start timing chain rattle?",
+        "answer": "Yes — the rattle is caused by secondary tensioner oil feed issues. Mercedes TSB LI05.10-P-056435 recommends installing check valves and chain tensioners. The cost is typically £700–£1,500. However, some dealers may not want to perform the work. The bulletin states no damage can be caused and it's just a noise, but many owners prefer to fix it for peace of mind."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes C43 AMG Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted C43 AMG Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real C43 AMG owners, across the M276.823 twin-turbo V6, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare C43 AMG Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for C43 AMG",
+        "text": "supply-only or full supply & fit available nationwide, covering every W205 C43 AMG since 2016."
+      }
+    ],
+    "finalCta": "Find the best Mercedes C43 AMG engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Explore Mercedes C43 AMG Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

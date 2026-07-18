@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "slug": "a-class-a200-petrol",
+    "title": "A200 Petrol Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "Mercedes A200 Petrol engines — M270 and M282. Real UK costs, turbo oil leak & timing chain insight, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "canonical": "https://mercedesengine.uk/a-class/a200-petrol/",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class",
+              "item": "https://mercedesengine.uk/a-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "A200 Petrol",
+              "item": "https://mercedesengine.uk/a-class/a200-petrol/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes A200 Petrol Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W176 A200 (M270, 2013–2018)",
+              "url": "https://mercedesengine.uk/a-class/w176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W177 A200 (M282, 2018–present)",
+              "url": "https://mercedesengine.uk/a-class/w177/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes A200 Petrol Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M270DE20LA (2.0L 4-cyl Turbo)",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M282DE14AL (1.3L 4-cyl Turbo)",
+              "url": "https://mercedesengine.uk/engines/m282/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes A200 Petrol engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned A200 petrol engine costs £3,000–£5,500 supply only depending on which generation you have. The W176 M270 2.0-litre starts around £3,500; the W177 M282 1.3-litre starts around £3,000. Reconditioned OM133.980 (M282) engines are available from approximately £2,390. Dealer engine replacements typically cost £4,000–£7,000. Fitting adds £1,000–£1,600 depending on your location and workshop."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes A200 Petrol engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on which generation you have. The W176's M270 2.0-litre is a proven, reliable engine that's well-regarded by owners. The W177's M282 1.3-litre is a modern, efficient engine but has known issues: turbocharger oil feed line leaks (recall), ticking noises, and carbon buildup on intake valves. Both are good engines when properly maintained."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes A200 Petrol?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W176 M270: Timing chain wear, high-pressure fuel pump issues, water pump failure, carbon buildup. W177 M282: Turbocharger oil feed line leaks (recall), ticking/rattling noises at idle, carbon buildup on intake valves, injector issues, and occasional timing chain wear. The specific issues depend on which generation you have."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes A200 Petrol engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value and which generation. Against a well-kept £18,000 W177 A200, a £4,000 recon is 22% — worth it. Against a tired £6,000 W176 example, the same recon approaches our 70% Mercedes threshold — get a scrap valuation first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes A200 Petrol engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. W176 (2013–2018): M270DE20LA. W177 (2018–present): M282DE14AL. The chassis code is the easiest tell — W176 is the 3rd generation A-Class, W177 is the 4th generation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the turbo oil leak on the M282, or does it need full engine replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the turbocharger oil feed line leak is a well-understood repair that may be covered by a recall. Replacement of the oil feed line costs £300–£700. If you notice oil spots or a burning smell, have it inspected immediately — oil leaks can lead to fire risk in some cases. This is a repair, not an engine replacement issue."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes A200 Petrol Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes A200 Petrol UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes A200 Petrol engines — M270 and M282 — sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "A200 Petrol Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/a-class/a200-petrol/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes A200 Petrol • 2013–present • 2 Engine Generations",
+    "h1": "Mercedes A200 Petrol Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes A-Class specialists. Compare reconditioned, rebuilt and used M270 and M282 petrol engines — from the 2.0-litre to the 1.3-litre — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes A200 Petrol Engines — from £2,500 to £7,500 · Common codes: M270DE20LA, M282DE14AL",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free A200 Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The A200 PETROL THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W176 (3rd Gen A-Class)",
+        "years": "2013–2018",
+        "engineCode": "M270DE20LA (2.0L 4-cyl Turbo)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,000 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "The original A200 — a proven 2.0-litre turbo. Timing chain and high-pressure fuel pump are the main concerns."
+      },
+      {
+        "generation": "W177 (4th Gen A-Class)",
+        "years": "2018–present",
+        "engineCode": "M282DE14AL (1.3L 4-cyl Turbo)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£5,500 [PLACEHOLDER]",
+        "eraNote": "Renault-Nissan co-developed 1.3-litre. Oil leaks, injector issues, and ticking noises are known patterns."
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes A200 Petrol Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,800–£3,500",
+        "fittedIndie": "£2,700–£4,800",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; vehicle under £6,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,000–£5,500",
+        "fittedIndie": "£4,200–£7,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,500–£7,500",
+        "fittedIndie": "£5,700–£9,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£6,500–£10,000+",
+        "fittedIndie": "£8,000–£12,000+",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the M270 and M282 petrol engines. Reconditioned OM133.980 (M282) engines are available from approximately £2,390. Dealer engine replacements typically cost £4,000–£7,000. Main dealer new engines can exceed £10,000.",
+    "labourEstimate": "Fitting an A200 engine typically takes 10–14 hours at £70–£100/hr (independent) or £120–£180/hr (London/SE dealer).",
+    "cta": {
+      "label": "→ Compare A200 petrol engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Turbocharger Oil Feed Line Leak — M282 (W177)",
+        "symptoms": "Oil spots under the car, burning oil smell from the engine bay, low oil level warning, visible oil residue around the turbocharger area.",
+        "typicalMileage": "Any mileage — recall affected multiple model years",
+        "repairCost": "£300–£700 (oil feed line replacement — recall may cover it)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently"
+        },
+        "recommendation": "The M282 engine has a known issue with the turbocharger oil feed line. Mercedes-Benz issued a recall (2020) for A180, A200, B180, and CLA200 models. Engine oil may escape from the line, leak onto the underfloor panelling and from there onto the road. In some cases, oil leaks can lead to fire risk. If you notice oil spots or a burning smell, have the turbocharger oil feed line inspected immediately. Check if the recall has been completed on your vehicle.",
+        "failureLink": {
+          "label": "Read the full oil leak guide",
+          "href": "/failures/oil-leak/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Engine Ticking / Rattling Noises — M282 (W177)",
+        "symptoms": "Ticking noise at idle, metallic ticking that gets faster with engine speed, squeaking noise on startup, rough idle.",
+        "typicalMileage": "40,000–80,000 km (25,000–50,000 miles)",
+        "repairCost": "£200–£800 (diagnosis; potential injector or timing chain work)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£3,000–£7,500 (if timing chain failure leads to engine damage)",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon"
+        },
+        "recommendation": "Many owners report ticking or rattling noises from the M282 engine. Some garages dismiss this as normal for these engines, but persistent ticking can indicate injector issues or timing chain wear. If you notice unusual noises, have the engine inspected. The 1.3-litre M282 uses a timing chain (not a belt).",
+        "failureLink": {
+          "label": "Read the full timing chain failure guide",
+          "href": "/failures/timing-chain-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Carbon Buildup on Intake Valves — M282 (W177)",
+        "symptoms": "Rough idle, hesitation on acceleration, loss of power, increased fuel consumption, engine warning light.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£300–£800 (walnut blasting / intake valve cleaning)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon"
+        },
+        "recommendation": "Direct injection engines like the M282 are prone to carbon buildup on intake valves. This can cause rough running and loss of performance. Regular use of high-quality fuel and occasional Italian tune-ups can help reduce buildup. If symptoms persist, walnut blasting of the intake valves is the recommended solution.",
+        "failureLink": {
+          "label": "Read the full carbon buildup guide",
+          "href": "/failures/carbon-buildup/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every A200 petrol era covered — from the M270 to the M282 — with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free A200 Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "A200 Petrol — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Turbo oil feed line leak (M282)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£700",
+          "whenItMakesSense": "Recall may cover it; straightforward replacement"
+        },
+        {
+          "problem": "Ticking/rattling noises (M282)",
+          "repairable": "⚠️ Sometimes",
+          "typicalCost": "£200–£800",
+          "whenItMakesSense": "Diagnosis is key — could be minor or serious"
+        },
+        {
+          "problem": "Carbon buildup (M282)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800",
+          "whenItMakesSense": "Walnut blasting — effective and relatively affordable"
+        },
+        {
+          "problem": "Timing chain wear (M270/M282)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Preventative — catches the fault before catastrophic failure"
+        },
+        {
+          "problem": "High-pressure fuel pump (M270)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Well-understood repair; cheaper than engine replacement"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This A200 Petrol? Check These First",
+      "buyIf": [
+        "* W176 (M270): Full Mercedes service history with evidence of regular oil changes — a proven, reliable engine",
+        "* W177 (M282): Turbocharger oil feed line recall completed",
+        "* W177 (M282): No unusual ticking or rattling noises at idle",
+        "* Any generation: Full service history with regular oil changes using MB-spec oil"
+      ],
+      "avoidIf": [
+        "* W177 (M282): Oil leaks with no documented recall work",
+        "* W177 (M282): Persistent ticking or rattling with no diagnosis",
+        "* Any generation: Poor service history — these engines are reliable but need good maintenance",
+        "* Engine warning light with no diagnosis"
+      ]
+    },
+    "closingVerdict": "The A200 Petrol badge spans two very different engines. The W176's M270 2.0-litre is a proven, reliable unit that's well-regarded by owners. The W177's M282 1.3-litre is a modern, efficient engine co-developed with Renault-Nissan, but it has known issues: oil leaks, ticking noises, and carbon buildup. Both are good engines when properly maintained, but the M270 has the edge on long-term reliability. Buy on documented history, not on faith. A well-maintained A200 is a £15,000–£30,000 premium hatchback; a neglected one is a £5,000 engine replacement waiting to happen.",
+    "cta": {
+      "label": "→ Compare A200 petrol engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes A200 Petrol (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for ticking, rattling, or hesitation (M282: timing chain or injector warning)",
+      "* Service History — including which engine era (M270 or M282) and confirmed oil-change intervals using MB-spec oil",
+      "* Oil Leak Check (M282) — Check for any evidence of oil leaks around the turbocharger area (recall issue)",
+      "* Turbo Recall (M282) — Has the turbocharger oil feed line recall been completed?",
+      "* Smoke Check — Blue smoke on startup can indicate turbo or valve seal issues",
+      "* Carbon Buildup Check (M282) — Any history of rough idle, hesitation, or loss of power? (intake valve carbon warning)",
+      "* Engine Warning Light — Have codes been read? Any unresolved timing, fuel, or turbo issues?",
+      "* MOT History — Check for emissions-related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Generation",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M270DE20LA (2.0L 4-cyl Turbo)",
+        "years": "2013–2018",
+        "power": "153–156 bhp (114–115 kW) @ 5,500 rpm · 250 Nm @ 1,250–4,000 rpm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M282DE14AL (1.3L 4-cyl Turbo)",
+        "years": "2018–present",
+        "power": "160–163 bhp (118–120 kW) @ 5,500 rpm · 250 Nm @ 1,620–4,000 rpm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs:",
+      "items": [
+        {
+          "label": "* M270DE20LA (W176)",
+          "value": "Displacement: 1,991 cc · Cylinders: 4-cylinder inline, 4 valves per cylinder · Compression Ratio: 9.8:1 · Fuel System: Direct injection · Turbocharger: Single twin-scroll turbocharger · Valvetrain: DOHC with variable valve timing"
+        },
+        {
+          "label": "* M282DE14AL (W177)",
+          "value": "Displacement: 1,332 cc · Cylinders: 4-cylinder inline, 4 valves per cylinder · Compression Ratio: 10.6:1 · Fuel System: Direct injection · Turbocharger: Single turbocharger · Valvetrain: DOHC with variable valve timing · Chain-driven timing (not a belt)"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare A200 petrol engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure (M270)",
+        "value": "Timing chain wear and high-pressure fuel pump issues"
+      },
+      {
+        "label": "Most Common Failure (M282)",
+        "value": "Turbocharger oil feed line leaks (recall); ticking noises; carbon buildup on intake valves"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "40,000–70,000 miles [PATTERN DATA]"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£3,000–£5,500 reconditioned, supply only [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M282DE14AL / M270DE20LA [PATTERN DATA]"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose timing chain and turbo issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), North West (12%) [PATTERN DATA]"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes A200 Petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned A200 petrol engine costs £3,000–£5,500 supply only depending on which generation you have. The W176 M270 2.0-litre starts around £3,500; the W177 M282 1.3-litre starts around £3,000. Reconditioned OM133.980 (M282) engines are available from approximately £2,390. Dealer engine replacements typically cost £4,000–£7,000. Fitting adds £1,000–£1,600 depending on your location and workshop."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes A200 Petrol engine reliable?",
+        "answer": "It depends on which generation you have. The W176's M270 2.0-litre is a proven, reliable engine that's well-regarded by owners. The W177's M282 1.3-litre is a modern, efficient engine but has known issues: turbocharger oil feed line leaks (recall), ticking noises, and carbon buildup on intake valves. Both are good engines when properly maintained."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes A200 Petrol?",
+        "answer": "W176 M270: Timing chain wear, high-pressure fuel pump issues, water pump failure, carbon buildup. W177 M282: Turbocharger oil feed line leaks (recall), ticking/rattling noises at idle, carbon buildup on intake valves, injector issues, and occasional timing chain wear. The specific issues depend on which generation you have."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes A200 Petrol engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and which generation. Against a well-kept £18,000 W177 A200, a £4,000 recon is 22% — worth it. Against a tired £6,000 W176 example, the same recon approaches our 70% Mercedes threshold — get a scrap valuation first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes A200 Petrol engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. W176 (2013–2018): M270DE20LA. W177 (2018–present): M282DE14AL. The chassis code is the easiest tell — W176 is the 3rd generation A-Class, W177 is the 4th generation."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the turbo oil leak on the M282, or does it need full engine replacement?",
+        "answer": "Yes — the turbocharger oil feed line leak is a well-understood repair that may be covered by a recall. Replacement of the oil feed line costs £300–£700. If you notice oil spots or a burning smell, have it inspected immediately — oil leaks can lead to fire risk in some cases. This is a repair, not an engine replacement issue."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes A200 Petrol Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted A200 Petrol Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real A-Class owners, as part of the Engine Finders network, across both the M270 and M282 engine eras — from the W176 to the W177."
+      },
+      {
+        "title": "Compare A200 Petrol Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit, across every A-Class that left the factory with the 1.3 or 2.0-litre petrol."
+      },
+      {
+        "title": "UK Engine Replacement Services for A200 Petrol",
+        "text": "supply-only or full supply & fit available nationwide, covering the full W176 and W177 production runs — and we're vetted across every era of this badge."
+      }
+    ],
+    "finalCta": "Find the best Mercedes A200 Petrol engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get your A-Class back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes A200 Petrol Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

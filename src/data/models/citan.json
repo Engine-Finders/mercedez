@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "slug": "citan",
+    "title": "Citan Engines — The Complete UK Guide",
+    "titleCharCount": 37,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes • Citan • 2012–present • W415 • W420 • OM607 • OM608 • K9K",
+    "h1": "Citan Engines — The Complete UK Guide",
+    "subHeadline": "Every Mercedes Citan generation — from the original W415 (2012–2021) to the second-generation W420 (2021–present). Full coverage of Renault-sourced 1.5 dCi diesel reliability, 1.3 petrol options, common injector and turbo failures, and real UK replacement economics for the UK's most practical Mercedes van. Backed by documented failure patterns and specialist knowledge [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Specialist Knowledge Tier"
+      },
+      {
+        "icon": "🔧",
+        "label": "2 Generations (W415, W420)"
+      },
+      {
+        "icon": "📖",
+        "label": "6+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore Citan Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "Mercedes Citan — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★☆☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "⚠️ The Citan rule: commercial maths — a £1,200–£2,800 reconditioned engine against a £3,000–£12,000 van; the economics depend entirely on whether the van earns its keep. For a working van, replacement often makes sense; for a private MPV, check the numbers carefully."
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★☆☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM608 1.5 dCi (Euro 6, 2018+) — the revised Renault-sourced diesel with improved injector design and AdBlue; fewer failure reports than the earlier OM607."
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "OM607 1.5 dCi (Euro 5, 2012–2018) — injector failure and turbo issues are the defining weaknesses; cold-start problems and loss of power are the early warnings."
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "Citan W415 110 CDI (2018–2021) with OM608 — the revised Euro 6 diesel with AdBlue, improved injector design, and the facelift interior; the sweet spot of reliability and value."
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£1,200–£2,800 reconditioned supply-only [MB-QUOTE], depending on engine."
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "OM607 injector failure — the defining weakness of the early 1.5 dCi; injector replacement costs €515+ (£440+)."
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "🔧 Commercial Workhorse — the Citan is Mercedes' entry-level van, sharing its bones with the Renault Kangoo. Buy it for the three-pointed star on a practical, affordable package — but understand you're paying a premium for the badge."
+      }
+    ],
+    "oneLineVerdict": "The Citan is a Renault Kangoo with a Mercedes badge — and that's not a bad thing. The 1.5 dCi diesel is proven and economical, but the early OM607 engines have injector and turbo weaknesses that demand careful inspection. Buy a 2018+ facelift with the revised OM608 diesel and full service history, and it'll earn its keep."
+  },
+  "atAGlance": {
+    "h2": "Mercedes Citan at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "2 (W415 2012–2021, W420 2021–present)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2012–present"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "6+ (OM607, OM608, K9K, M200, H5H)"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Diesel • Petrol • Electric (eCitan)"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM607 / K9K 1.5 dCi — pattern-data tier [PATTERN DATA]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM608 1.5 dCi (Euro 6, 2018+) — revised injector design"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "OM607 1.5 dCi (Euro 5, 2012–2018) — injector and turbo failures"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£1,200–£2,800 reconditioned supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£3,000–£12,000 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★☆☆"
+      },
+      {
+        "metric": "SECTION 4 — GENERATIONS — <GenerationsGrid>",
+        "value": "H2: Mercedes Citan Generations — Find Your Vehicle"
+      },
+      {
+        "metric": "Sub-headline: Two generations of Mercedes' smallest commercial vehicle — the original W415 (2012–2021) and the second-generation W420 (2021–present), both sharing Renault-sourced engines and a practical, van-based layout.",
+        "value": "W415 Citan (2012–2021)"
+      },
+      {
+        "metric": "2012–2021 • OM607 1.5 dCi (Euro 5) • OM608 1.5 dCi (Euro 6, 2018+) • M200 1.2 petrol",
+        "value": "★★★★☆"
+      },
+      {
+        "metric": "Our Verdict: The original Citan — a rebadged Renault Kangoo with a Mercedes grille. The 1.5 dCi diesel is the engine to buy: economical, torquey, and proven across millions of Renaults. But the pre-2018 OM607 Euro 5 engines carry a real injector-failure caveat — cold-start problems, loss of power, and rough running are common symptoms. The 2018 facelift brought the revised OM608 Euro 6 engine with AdBlue and improved injector design — this is the Citan to buy. The 1.2 petrol is rare and underpowered; skip it unless you're doing purely urban work.",
+        "value": "Explore W415 Citan →"
+      },
+      {
+        "metric": "W420 Citan (2021–present)",
+        "value": "🔥 Most Enquired — pattern-data tier [PATTERN DATA]"
+      },
+      {
+        "metric": "2021–present • OM608 1.5 dCi (K9K) • H5H 1.3 petrol • eCitan (electric)",
+        "value": "★★★★☆"
+      },
+      {
+        "metric": "Our Verdict: The second-generation Citan — a rebadged Renault Kangoo again, but this time with Mercedes' own design language and a much-improved interior. The OM608 1.5 dCi diesel continues in three states of tune (75–116hp), now with AdBlue as standard. The 1.3 petrol (H5H, 131hp) is a new addition — smooth, quiet, and ideal for urban work. The eCitan is the electric variant for zero-emission zones. Buy the OM608 diesel for economy and proven reliability; buy the 1.3 petrol for urban refinement and lower purchase price.",
+        "value": "Explore W420 Citan →"
+      },
+      {
+        "metric": "Comparison Sub-Block: The Citan Diesel Divide",
+        "value": "W415 Pre-Facelift (2012–2018)"
+      },
+      {
+        "metric": "W415 Facelift (2018–2021)",
+        "value": "W420 (2021–present)"
+      },
+      {
+        "metric": "Diesel",
+        "value": "OM607 1.5 dCi (Euro 5)"
+      },
+      {
+        "metric": "OM608 1.5 dCi (Euro 6)",
+        "value": "OM608 1.5 dCi (Euro 6)"
+      },
+      {
+        "metric": "Key Watch-Out",
+        "value": "Injector failure, cold-start problems"
+      },
+      {
+        "metric": "AdBlue system (software-manageable)",
+        "value": "AdBlue system (software-manageable)"
+      },
+      {
+        "metric": "Verdict",
+        "value": "⚠️ Buy with injector history"
+      },
+      {
+        "metric": "✅ The sweet spot",
+        "value": "✅ Modern but more expensive"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "",
+    "subHeadline": "",
+    "cards": [],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "Mercedes Citan Engine Codes — The Complete Database",
+    "subHeadline": "Every engine ever fitted to the Mercedes Citan — verified against manufacturer specifications, with specialist cost ranges and reliability guidance.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM607.951 (K9K)",
+        "family": "Renault K9K",
+        "fuel": "Diesel",
+        "displacement": "1.5L",
+        "power": "75–110hp",
+        "years": "2012–2018",
+        "model": "W415",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,200–£2,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM608.915 (K9K)",
+        "family": "Renault K9K",
+        "fuel": "Diesel",
+        "displacement": "1.5L",
+        "power": "75–116hp",
+        "years": "2018–present",
+        "model": "W415, W420",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M200.711",
+        "family": "M200",
+        "fuel": "Petrol",
+        "displacement": "1.2L",
+        "power": "114hp",
+        "years": "2012–2021",
+        "model": "W415",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,200–£2,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "H5H (E4)",
+        "family": "Renault H5H",
+        "fuel": "Petrol",
+        "displacement": "1.3L",
+        "power": "131hp",
+        "years": "2021–present",
+        "model": "W420",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "5AQ",
+        "family": "Electric",
+        "fuel": "EV",
+        "displacement": "—",
+        "power": "60kW",
+        "years": "2021–present",
+        "model": "W420 (eCitan)",
+        "reliability": "N/A",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "N/A"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM607/OM608 ratings: Expert-knowledge tier — documented failure patterns from specialist interviews and Renault-Nissan Alliance data [PATTERN DATA], not proprietary Citan-specific volume data. The K9K family is one of the most common diesel engines in Europe, with well-understood failure modes. M200/H5H ratings: Expert-knowledge tier — lower volume but documented patterns [PATTERN DATA]. Data note (internal): * Correction applied: Citan model-level enquiry data is absent from EM_Proprietary_Data. All figures are [PATTERN DATA] drawn from specialist knowledge and Renault-Nissan Alliance shared-engine data. The K9K family (OM607/OM608) has 730 Renault K9K enquiries in the EM_Proprietary_Data file — those are Renault-specific, not Citan-specific, and should not be cited as Citan figures. * Correction applied: The Citan is a rebadged Renault Kangoo — all engines are Renault-sourced. The OM607 and OM608 are Mercedes' internal designations for the Renault K9K family. The K9K family is one of the most common diesel engines in Europe, with well-understood failure modes. * No further corrections — source data matched live verification."
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common Mercedes Citan Engine Problems",
+    "subHeadline": "Real UK failure patterns from documented specialist knowledge and Renault-Nissan Alliance data — what goes wrong, at what mileage, and what it costs to fix.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "OM607 Injector Failure",
+        "description": "The defining weakness of the early 1.5 dCi (2012–2018). Injectors clog or fail electrically, causing rough idle, loss of power, poor fuel economy, and cold-start problems. Individual injector replacement is straightforward. £300–£800 per injector [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "OM607 Cold-Start Problems",
+        "description": "A common symptom of injector or glow-plug issues on the early 1.5 dCi — the engine fails to start or shows delayed starting reactions, particularly in cold weather or after long periods of inactivity. Often linked to injector wear or fuel system contamination. £200–£600 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "OM607 / OM608 Turbocharger Failure",
+        "description": "The 1.5 dCi's turbocharger can fail on higher-mileage examples (100k+), typically due to oil starvation or vane sticking. Symptoms include loss of power, excessive smoke, and a whistling noise from the engine bay. £600–£1,500 replacement [MB-QUOTE].",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "OM608 AdBlue System Issues",
+        "description": "The Euro 6 OM608 (2018+) uses AdBlue for emissions compliance — NOx sensors and heaters are the most common failure points. Software-manageable rather than mechanical, but can cause limp-home mode if ignored. £400–£1,200 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "M200 / H5H Petrol Injector Issues",
+        "description": "The 1.2 and 1.3 petrol engines can suffer from clogged injectors, particularly on higher-mileage examples — symptoms include poor starts, increased fuel consumption, reduced power, rough idling, and occasional stalling. Injector replacement resolved the issue in documented cases. £400–£800 per injector [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "Transmission & Electrical Issues",
+        "description": "Beyond the engine, Citan owners report gear shift issues (2017 diesel, 106,993 km: dead gear shift indicator, inability to engage gears), heavy steering and vibration (2023 model, suspected steering angle sensor), and electrical weaknesses including window regulator failure, central locking issues, and LED lighting failures from 80,000 km.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "Mercedes Citan Market Intelligence — What UK Specialists Told Us",
+    "signals": [
+      {
+        "signal": "Citan Enquiry Volume (2025)",
+        "data": "Not separately tracked in EM_Proprietary_Data; pattern-data tier",
+        "demandTrend": "[PATTERN DATA]"
+      },
+      {
+        "signal": "Most Enquired Shared Engine",
+        "data": "K9K family (OM607/OM608) — 730 Renault K9K UK-wide enquiries [EM-VERIFIED]",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "Most Common Citan Failure",
+        "data": "OM607 injector failure — cold-start problems and loss of power",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "Citan Vehicle Value Trend",
+        "data": "£3,000–£12,000 depending on condition and mileage [THIRD-PARTY]",
+        "demandTrend": "➡ Stable"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The Citan is a Renault Kangoo in a Mercedes suit — and that's the key to understanding its ownership economics. The K9K 1.5 dCi is one of the most common diesel engines in Europe, with millions of units in circulation across Renault, Nissan, Mercedes, and other brands. Parts are cheap, specialists are plentiful, and the failure modes are well-understood. The Citan isn't an expensive Mercedes to own — it's an affordable commercial vehicle with a premium badge.",
+      "The OM607 Euro 5 engine (2012–2018) is the one to approach with caution — injector failure is the defining weakness, and cold-start problems are the early warning. The OM608 Euro 6 engine (2018+) is a material improvement, with revised injector design and AdBlue for emissions compliance. Buy the facelift if budget allows.",
+      "The Citan is a commercial vehicle first and an MPV second — the economics are driven by business use. A working van that earns its keep can justify a £1,200–£2,800 engine replacement; a private MPV that doesn't may not. This is the single most important factor in any Citan ownership decision."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every Citan Buyer",
+    "quote": "If you buy one Citan based on this page, make it a 2018–2021 W415 facelift with the OM608 1.5 dCi diesel and full service history. The OM607 Euro 5 engine has injector weaknesses that can turn a £500 repair into a £2,000 replacement — the facelift's revised OM608 is the sweet spot of reliability, economy, and value. End of Sections 1-7 Output Ready for Sections 8-14 prompt. MERCEDES CITAN — SECTIONS 8-14"
+  },
+  "replacementCosts": {
+    "h2": "Mercedes Citan Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for every Citan engine — used, reconditioned, and rebuilt supply-only — with independent labour estimates and the honest economics of when to repair vs when to move on.",
+    "tables": [
+      {
+        "title": "W415 Citan Pre-Facelift (2012–2018)",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": [
+          {
+            "model": "108 CDI / 109 CDI / 110 CDI",
+            "engineCode": "OM607 (K9K 1.5 dCi Euro 5)",
+            "usedSupply": "£500–£1,200",
+            "reconditionedSupply": "£1,200–£2,200",
+            "rebuiltSupply": "£2,000–£3,200",
+            "labourHours": "6–9 hrs"
+          },
+          {
+            "model": "112",
+            "engineCode": "M200 1.2 petrol",
+            "usedSupply": "£500–£1,000",
+            "reconditionedSupply": "£1,200–£2,200",
+            "rebuiltSupply": "£2,000–£3,200",
+            "labourHours": "6–8 hrs"
+          }
+        ]
+      },
+      {
+        "title": "W415 Citan Facelift (2018–2021)",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": [
+          {
+            "model": "108 CDI / 109 CDI / 110 CDI",
+            "engineCode": "OM608 (K9K 1.5 dCi Euro 6)",
+            "usedSupply": "£600–£1,500",
+            "reconditionedSupply": "£1,500–£2,800",
+            "rebuiltSupply": "£2,500–£4,000",
+            "labourHours": "6–9 hrs"
+          },
+          {
+            "model": "112",
+            "engineCode": "M200 1.2 petrol",
+            "usedSupply": "£500–£1,000",
+            "reconditionedSupply": "£1,200–£2,200",
+            "rebuiltSupply": "£2,000–£3,200",
+            "labourHours": "6–8 hrs"
+          },
+          {
+            "model": "W420 Citan (2021–present)",
+            "engineCode": "Variant",
+            "usedSupply": "Engine Code",
+            "reconditionedSupply": "Used (Supply)",
+            "rebuiltSupply": "Reconditioned (Supply)",
+            "labourHours": "Rebuilt (Supply)"
+          },
+          {
+            "model": "Labour Hours",
+            "engineCode": "108 CDI / 109 CDI / 110 CDI / 111 CDI",
+            "usedSupply": "OM608 (K9K 1.5 dCi Euro 6)",
+            "reconditionedSupply": "£600–£1,500",
+            "rebuiltSupply": "£1,500–£2,800",
+            "labourHours": "£2,500–£4,000"
+          },
+          {
+            "model": "6–9 hrs",
+            "engineCode": "113",
+            "usedSupply": "H5H 1.3 petrol",
+            "reconditionedSupply": "£600–£1,400",
+            "rebuiltSupply": "£1,500–£2,800",
+            "labourHours": "£2,500–£4,000"
+          },
+          {
+            "model": "6–8 hrs",
+            "engineCode": "eCitan",
+            "usedSupply": "5AQ (Electric)",
+            "reconditionedSupply": "N/A — battery replacement",
+            "rebuiltSupply": "N/A — battery replacement",
+            "labourHours": "N/A — battery replacement"
+          }
+        ]
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a Mercedes Citan engine typically takes 6–9 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The Citan's Renault-derived engine bay is relatively straightforward to work on, keeping labour costs lower than larger Mercedes models. The Citan rule: commercial maths A pre-facelift Citan 110 CDI (2012–2018) worth £3,000–£6,000 faces a £1,200–£2,200 reconditioned OM607 engine cost — that's 20–40% of the van's value, comfortably within the Mercedes 70% threshold for a working vehicle. A facelift Citan (2018–2021) worth £5,000–£9,000 faces the same £1,500–£2,800 OM608 cost — even more viable. The Citan is a commercial vehicle, not a prestige car —",
+    "labourEstimate": "Fitting a Mercedes Citan engine typically takes 6–9 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The Citan's Renault-derived engine bay is relatively straightforward to work on, keeping labour costs lower than larger Mercedes models. The Citan rule: commercial maths A pre-facelift Citan 110 CDI (2012–2018) worth £3,000–£6,000 faces a £1,200–£2,200 reconditioned OM607 engine cost — that's 20–40% of the van's value, comfortably within the Mercedes 70% threshold for a working vehicle. A facelift Citan (2018–2021) worth £5,000–£9,000 faces the same £1,500–£2,800 OM608 cost — even more viable. The Citan is a commercial vehicle, not a prestige car —",
+    "economicsBox": {
+      "title": "The Citan's Renault-derived engine bay is relatively straightforward to work on, keeping labour costs lower than larger Mercedes models. The Citan rule",
+      "text": "commercial maths A pre-facelift Citan 110 CDI (2012–2018) worth £3,000–£6,000 faces a £1,200–£2,200 reconditioned OM607 engine cost — that's 20–40% of the van's value, comfortably within the Mercedes 70% threshold for a working vehicle. A facelift Citan (2018–2021) worth £5,000–£9,000 faces the same £1,500–£2,800 OM608 cost — even more viable. The Citan is a commercial vehicle, not a prestige car — the economics are different. If the van earns its keep, a £2,000 engine replacement is a business expense, not a crisis. If it's a private MPV, the threshold is lower — apply the same 70% rule, but factor in what the vehicle is actually worth. For a pre-facelift van with a failed OM607 injector, the answer is often \"replace the injectors before they destroy the engine\" — the replacement is cheap relative to the van's value. For a seized engine on a high-mileage van, the honest answer may be \"scrap it and buy another.\" We tell you when to fix it, when to fit a used engine, and when to walk away — because commercial vehicles need commercial honesty."
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the Citan Engine Range Evolved — 2012 to Today",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "The Launch",
+        "years": "2012–2018",
+        "keyEngines": "OM607 1.5 dCi (K9K Euro 5) • M200 1.2 petrol",
+        "whyBmwChanged": "Mercedes needed a small commercial vehicle to compete with the Ford Transit Connect and VW Caddy — but didn't have a small-van platform of its own. The solution: a joint venture with Renault, rebadging the Kangoo as the Citan. The 1.5 dCi was the default engine — the most common diesel in Europe, proven and economical.",
+        "worthKnowing": "The Citan is a Renault Kangoo with a Mercedes badge. This isn't a criticism — the Kangoo is a proven commercial vehicle, and the partnership gave Mercedes a van for a fraction of the development cost."
+      },
+      {
+        "era": "The Facelift",
+        "years": "2018–2021",
+        "keyEngines": "OM608 1.5 dCi (K9K Euro 6) • M200 1.2 petrol",
+        "whyBmwChanged": "Euro 6 emissions regulations forced the upgrade from OM607 to OM608 — the revised 1.5 dCi gained AdBlue, improved injector design, and better emissions compliance. This is the Citan to buy — the OM608 is materially more reliable than the OM607.",
+        "worthKnowing": "The facelift also brought improved interior materials and updated infotainment — but the engine change is the most important upgrade. A 2018+ Citan with OM608 is a safer buy than any pre-2018 OM607 example."
+      },
+      {
+        "era": "The Second Generation",
+        "years": "2021–present",
+        "keyEngines": "OM608 1.5 dCi (K9K Euro 6) • H5H 1.3 petrol • 5AQ electric (eCitan)",
+        "whyBmwChanged": "The W420 Citan shares the same Renault Kangoo platform but with a much-improved interior and Mercedes' own design language. The OM608 continues in three states of tune; the 1.3 petrol (H5H) replaces the 1.2 for a smoother, more refined urban experience. The eCitan is the electric variant for zero-emission zones.",
+        "worthKnowing": "The eCitan is the first electric Citan — and the first Mercedes van to go fully electric. It uses the same Renault-sourced electric powertrain as the Kangoo E-Tech. For urban delivery work, it's the future — but range is limited (180–200 miles) and charging infrastructure still determines its viability."
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy a Mercedes Citan?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Small Business Owner",
+        "rating": "★★★★★",
+        "verdict": "The Citan is a small business workhorse — economical, practical, and with the three-pointed star on the grille. Buy a 2018–2021 W415 facelift with the OM608 1.5 dCi diesel and full service history. It'll do 50–60 mpg, carry 600–800kg, and earn its keep. The premium over a Kangoo is the badge — and for some customers, that matters."
+      },
+      {
+        "buyerProfile": "Urban Delivery Driver",
+        "rating": "★★★★☆",
+        "verdict": "The Citan's compact dimensions (4.3m length) make it ideal for city work — tight streets, narrow parking bays, and congested roads are no problem. The 1.5 dCi diesel is economical at 50–60 mpg; the eCitan is zero-emission and ULEZ-compliant. Buy the diesel for range and proven reliability; buy the eCitan for zero-emission zones and low running costs."
+      },
+      {
+        "buyerProfile": "Private MPV Buyer",
+        "rating": "★★★☆☆",
+        "verdict": "The Citan can be configured as a five-seat MPV with a spacious, upright cabin — but it's a van-derived MPV, not a car-derived one. The ride is firm, the interior is functional rather than luxurious, and the driving position is upright. If you need space for five and a large boot, it's practical; if you want a comfortable family car, look elsewhere."
+      },
+      {
+        "buyerProfile": "Fleet Operator",
+        "rating": "★★★★☆",
+        "verdict": "The Citan is a fleet-friendly van — low running costs, proven Renault-derived engines, and Mercedes badge appeal. The OM608 diesel is the fleet choice for its reliability and economy. The eCitan is the future for urban fleets — but range and charging infrastructure determine its viability for your specific use case."
+      },
+      {
+        "buyerProfile": "First-Time Van Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The Citan is a good first van — not too big, not too expensive, and with a proven engine. Buy a 2018+ facelift with the OM608 diesel and full service history. It's a practical introduction to van ownership with manageable running costs and a well-understood maintenance profile."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My Citan Engine — or Should I Replace It?",
+    "intro": "Sub-headline: The Citan is a commercial vehicle — the economics are different. Our calculator helps you make the right decision based on your van's value and your business case.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes calculator with Citan pre-selected",
+        "href": "mercedesengine.uk/#engine-calculator?model=citan"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "mercedesengine.uk/#engine-calculator?model=citan"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why Citan Owners Trust mercedesengine.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range in this guide comes from documented failure patterns, specialist interviews, and Renault-Nissan Alliance data [PATTERN DATA], cross-referenced with 730+ K9K UK-wide enquiries [EM-VERIFIED] where shared-engine data exists."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "If a £1,200–£2,800 reconditioned engine doesn't make commercial sense for your Citan, we tell you to get a scrap valuation. That's the honest advice commercial vehicle owners need — not a sales pitch."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on Citan engines daily — the same specialists who know exactly how to inspect OM607 injectors and OM608 AdBlue systems before you buy."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Mercedes Citan Frequently Asked Questions",
+    "items": []
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore the Citan W415",
+        "text": "See the full Citan W415 generation guide, with our honest verdict on every variant → Explore Citan W415 →",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My Citan",
+        "text": "Tell us your symptoms and we'll match you against known Citan failure patterns → Run the Citan Diagnostic →",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get quotes from 25+ vetted Mercedes-Benz specialists who work on Citan engines daily → Compare Specialists →",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

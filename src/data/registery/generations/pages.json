@@ -1,18 +1,422 @@
 [
   {
-    "slug": "bmw-3-series-e90",
-    "dataFile": "bmw-3-series-e90"
+    "slug": "bmw-a-class-w176",
+    "dataFile": "bmw-a-class-w176"
   },
   {
-    "slug": "bmw-1-series-e87",
-    "dataFile": "bmw-1-series-e87"
+    "slug": "bmw-amg-gt-x290",
+    "dataFile": "bmw-amg-gt-x290"
   },
   {
-    "slug": "bmw-2-series-active-tourer-f45",
-    "dataFile": "bmw-2-series-active-tourer-f45"
+    "slug": "bmw-b-class-w245",
+    "dataFile": "bmw-b-class-w245"
   },
   {
-    "slug": "bmw-1-series-f70",
-    "dataFile": "bmw-1-series-f70"
+    "slug": "bmw-b-class-w246",
+    "dataFile": "bmw-b-class-w246"
+  },
+  {
+    "slug": "bmw-b-class-w247",
+    "dataFile": "bmw-b-class-w247"
+  },
+  {
+    "slug": "bmw-c-class-cl203",
+    "dataFile": "bmw-c-class-cl203"
+  },
+  {
+    "slug": "bmw-c-class-s205",
+    "dataFile": "bmw-c-class-s205"
+  },
+  {
+    "slug": "bmw-c-class-w203",
+    "dataFile": "bmw-c-class-w203"
+  },
+  {
+    "slug": "bmw-c-class-w204",
+    "dataFile": "bmw-c-class-w204"
+  },
+  {
+    "slug": "bmw-c-class-w206",
+    "dataFile": "bmw-c-class-w206"
+  },
+  {
+    "slug": "bmw-citan-w415",
+    "dataFile": "bmw-citan-w415"
+  },
+  {
+    "slug": "bmw-cla-class-c117",
+    "dataFile": "bmw-cla-class-c117"
+  },
+  {
+    "slug": "bmw-clc-class-cl203",
+    "dataFile": "bmw-clc-class-cl203"
+  },
+  {
+    "slug": "bmw-clk-class-a209",
+    "dataFile": "bmw-clk-class-a209"
+  },
+  {
+    "slug": "bmw-clk-class-c208",
+    "dataFile": "bmw-clk-class-c208"
+  },
+  {
+    "slug": "bmw-cls-class-c218",
+    "dataFile": "bmw-cls-class-c218"
+  },
+  {
+    "slug": "bmw-cls-class-c219",
+    "dataFile": "bmw-cls-class-c219"
+  },
+  {
+    "slug": "bmw-cls-class-x218",
+    "dataFile": "bmw-cls-class-x218"
+  },
+  {
+    "slug": "bmw-e-class-s210",
+    "dataFile": "bmw-e-class-s210"
+  },
+  {
+    "slug": "bmw-e-class-s211",
+    "dataFile": "bmw-e-class-s211"
+  },
+  {
+    "slug": "bmw-e-class-s212",
+    "dataFile": "bmw-e-class-s212"
+  },
+  {
+    "slug": "bmw-e-class-s213",
+    "dataFile": "bmw-e-class-s213"
+  },
+  {
+    "slug": "bmw-e-class-s214",
+    "dataFile": "bmw-e-class-s214"
+  },
+  {
+    "slug": "bmw-e-class-w210",
+    "dataFile": "bmw-e-class-w210"
+  },
+  {
+    "slug": "bmw-g-class-w460",
+    "dataFile": "bmw-g-class-w460"
+  },
+  {
+    "slug": "bmw-g-class-w461",
+    "dataFile": "bmw-g-class-w461"
+  },
+  {
+    "slug": "bmw-g-class-w463",
+    "dataFile": "bmw-g-class-w463"
+  },
+  {
+    "slug": "bmw-gl-class-x164",
+    "dataFile": "bmw-gl-class-x164"
+  },
+  {
+    "slug": "bmw-gla-class-h247",
+    "dataFile": "bmw-gla-class-h247"
+  },
+  {
+    "slug": "bmw-glc-class-c254",
+    "dataFile": "bmw-glc-class-c254"
+  },
+  {
+    "slug": "bmw-gle-class-c292",
+    "dataFile": "bmw-gle-class-c292"
+  },
+  {
+    "slug": "bmw-gle-class-v167",
+    "dataFile": "bmw-gle-class-v167"
+  },
+  {
+    "slug": "bmw-gle-class-w166",
+    "dataFile": "bmw-gle-class-w166"
+  },
+  {
+    "slug": "bmw-m-class-w164",
+    "dataFile": "bmw-m-class-w164"
+  },
+  {
+    "slug": "bmw-m-class-w166",
+    "dataFile": "bmw-m-class-w166"
+  },
+  {
+    "slug": "bmw-r-class-w251",
+    "dataFile": "bmw-r-class-w251"
+  },
+  {
+    "slug": "bmw-s-class-a217",
+    "dataFile": "bmw-s-class-a217"
+  },
+  {
+    "slug": "bmw-s-class-c215",
+    "dataFile": "bmw-s-class-c215"
+  },
+  {
+    "slug": "bmw-s-class-c217",
+    "dataFile": "bmw-s-class-c217"
+  },
+  {
+    "slug": "bmw-s-class-w140",
+    "dataFile": "bmw-s-class-w140"
+  },
+  {
+    "slug": "bmw-s-class-w223",
+    "dataFile": "bmw-s-class-w223"
+  },
+  {
+    "slug": "bmw-sl-class-r129",
+    "dataFile": "bmw-sl-class-r129"
+  },
+  {
+    "slug": "bmw-slk-class-r172",
+    "dataFile": "bmw-slk-class-r172"
+  },
+  {
+    "slug": "bmw-sls-amg-c197",
+    "dataFile": "bmw-sls-amg-c197"
+  },
+  {
+    "slug": "bmw-sls-amg-r197",
+    "dataFile": "bmw-sls-amg-r197"
+  },
+  {
+    "slug": "bmw-sprinter-w901-905",
+    "dataFile": "bmw-sprinter-w901-905"
+  },
+  {
+    "slug": "bmw-viano-w639",
+    "dataFile": "bmw-viano-w639"
+  },
+  {
+    "slug": "bmw-vito-w447",
+    "dataFile": "bmw-vito-w447"
+  },
+  {
+    "slug": "bmw-vito-w638",
+    "dataFile": "bmw-vito-w638"
+  },
+  {
+    "slug": "bmw-vito-w639",
+    "dataFile": "bmw-vito-w639"
+  },
+  {
+    "slug": "mercedes-a-class-w168",
+    "dataFile": "mercedes-a-class-w168"
+  },
+  {
+    "slug": "mercedes-a-class-w169",
+    "dataFile": "mercedes-a-class-w169"
+  },
+  {
+    "slug": "mercedes-a-class-w177",
+    "dataFile": "mercedes-a-class-w177"
+  },
+  {
+    "slug": "mercedes-amg-gt-c190",
+    "dataFile": "mercedes-amg-gt-c190"
+  },
+  {
+    "slug": "mercedes-amg-gt-r190",
+    "dataFile": "mercedes-amg-gt-r190"
+  },
+  {
+    "slug": "mercedes-benz-a207",
+    "dataFile": "mercedes-benz-a207"
+  },
+  {
+    "slug": "mercedes-benz-c-class-w205",
+    "dataFile": "mercedes-benz-c-class-w205"
+  },
+  {
+    "slug": "mercedes-benz-c140",
+    "dataFile": "mercedes-benz-c140"
+  },
+  {
+    "slug": "mercedes-benz-c204-coup",
+    "dataFile": "mercedes-benz-c204-coup"
+  },
+  {
+    "slug": "mercedes-benz-citan-w420",
+    "dataFile": "mercedes-benz-citan-w420"
+  },
+  {
+    "slug": "mercedes-benz-cla-c118",
+    "dataFile": "mercedes-benz-cla-c118"
+  },
+  {
+    "slug": "mercedes-benz-cla-class-x118",
+    "dataFile": "mercedes-benz-cla-class-x118"
+  },
+  {
+    "slug": "mercedes-benz-e-class-c238-2",
+    "dataFile": "mercedes-benz-e-class-c238-2"
+  },
+  {
+    "slug": "mercedes-benz-e-class-c238",
+    "dataFile": "mercedes-benz-e-class-c238"
+  },
+  {
+    "slug": "mercedes-benz-e-class-s124",
+    "dataFile": "mercedes-benz-e-class-s124"
+  },
+  {
+    "slug": "mercedes-benz-g-class-w463-ii",
+    "dataFile": "mercedes-benz-g-class-w463-ii"
+  },
+  {
+    "slug": "mercedes-benz-gle-c167",
+    "dataFile": "mercedes-benz-gle-c167"
+  },
+  {
+    "slug": "mercedes-benz-gls-x166",
+    "dataFile": "mercedes-benz-gls-x166"
+  },
+  {
+    "slug": "mercedes-benz-s-class-w221",
+    "dataFile": "mercedes-benz-s-class-w221"
+  },
+  {
+    "slug": "mercedes-benz-sl-r230",
+    "dataFile": "mercedes-benz-sl-r230"
+  },
+  {
+    "slug": "mercedes-benz-slc-r172",
+    "dataFile": "mercedes-benz-slc-r172"
+  },
+  {
+    "slug": "mercedes-benz-sprinter-w906",
+    "dataFile": "mercedes-benz-sprinter-w906"
+  },
+  {
+    "slug": "mercedes-benz-w124",
+    "dataFile": "mercedes-benz-w124"
+  },
+  {
+    "slug": "mercedes-c-class-a205",
+    "dataFile": "mercedes-c-class-a205"
+  },
+  {
+    "slug": "mercedes-c-class-c205",
+    "dataFile": "mercedes-c-class-c205"
+  },
+  {
+    "slug": "mercedes-c-class-s202",
+    "dataFile": "mercedes-c-class-s202"
+  },
+  {
+    "slug": "mercedes-c-class-s203",
+    "dataFile": "mercedes-c-class-s203"
+  },
+  {
+    "slug": "mercedes-c-class-s204",
+    "dataFile": "mercedes-c-class-s204"
+  },
+  {
+    "slug": "mercedes-c-class-s206",
+    "dataFile": "mercedes-c-class-s206"
+  },
+  {
+    "slug": "mercedes-c-class-w202",
+    "dataFile": "mercedes-c-class-w202"
+  },
+  {
+    "slug": "mercedes-cl-c216",
+    "dataFile": "mercedes-cl-c216"
+  },
+  {
+    "slug": "mercedes-cla-x117",
+    "dataFile": "mercedes-cla-x117"
+  },
+  {
+    "slug": "mercedes-clk-a208",
+    "dataFile": "mercedes-clk-a208"
+  },
+  {
+    "slug": "mercedes-clk-c209",
+    "dataFile": "mercedes-clk-c209"
+  },
+  {
+    "slug": "mercedes-cls-c257",
+    "dataFile": "mercedes-cls-c257"
+  },
+  {
+    "slug": "mercedes-e-class-a238",
+    "dataFile": "mercedes-e-class-a238"
+  },
+  {
+    "slug": "mercedes-e-class-w211",
+    "dataFile": "mercedes-e-class-w211"
+  },
+  {
+    "slug": "mercedes-e-class-w212",
+    "dataFile": "mercedes-e-class-w212"
+  },
+  {
+    "slug": "mercedes-e-class-w213",
+    "dataFile": "mercedes-e-class-w213"
+  },
+  {
+    "slug": "mercedes-e-class-w214",
+    "dataFile": "mercedes-e-class-w214"
+  },
+  {
+    "slug": "mercedes-gla-x156",
+    "dataFile": "mercedes-gla-x156"
+  },
+  {
+    "slug": "mercedes-glc-class-c253",
+    "dataFile": "mercedes-glc-class-c253"
+  },
+  {
+    "slug": "mercedes-glc-x254",
+    "dataFile": "mercedes-glc-x254"
+  },
+  {
+    "slug": "mercedes-glk-x204",
+    "dataFile": "mercedes-glk-x204"
+  },
+  {
+    "slug": "mercedes-gls-x167",
+    "dataFile": "mercedes-gls-x167"
+  },
+  {
+    "slug": "mercedes-m-class-w163",
+    "dataFile": "mercedes-m-class-w163"
+  },
+  {
+    "slug": "mercedes-s-class-w220",
+    "dataFile": "mercedes-s-class-w220"
+  },
+  {
+    "slug": "mercedes-s-class-w222",
+    "dataFile": "mercedes-s-class-w222"
+  },
+  {
+    "slug": "mercedes-sl-r231",
+    "dataFile": "mercedes-sl-r231"
+  },
+  {
+    "slug": "mercedes-sl-r232",
+    "dataFile": "mercedes-sl-r232"
+  },
+  {
+    "slug": "mercedes-slk-r170",
+    "dataFile": "mercedes-slk-r170"
+  },
+  {
+    "slug": "mercedes-slk-r171",
+    "dataFile": "mercedes-slk-r171"
+  },
+  {
+    "slug": "mercedes-sprinter-w907",
+    "dataFile": "mercedes-sprinter-w907"
+  },
+  {
+    "slug": "mercedes-v-class-w447",
+    "dataFile": "mercedes-v-class-w447"
+  },
+  {
+    "slug": "mercedes-vaneo-w414",
+    "dataFile": "mercedes-vaneo-w414"
   }
 ]

@@ -1,0 +1,668 @@
+{
+  "meta": {
+    "slug": "mercedes-c-class-w202",
+    "title": "Mercedes C-Class W202 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes C-Class W202 • Saloon/Estate • 1993–2000",
+    "h1": "Mercedes C-Class W202 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the first-generation C-Class — from the M111 four-cylinder petrol to the M104 straight-six and the OM605 five-cylinder diesel that defined Mercedes' compact executive class. Real UK costs, honest reliability data, and the engine-harness issues that plague early cars. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "W202 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon/Estate"
+      },
+      {
+        "icon": "📖",
+        "label": "12+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W202 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes C-Class W202 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W202 saloon and S202 estate — including the full M111 petrol range, the M104 straight-six, and the OM60x diesel family.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W202)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M111.920 / M111.921",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "1.8L (1799cc)",
+        "power": "122 PS / 90 kW",
+        "years": "1993–2000",
+        "variants": "C180",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,200–£2,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.941 / M111.945",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.0L (1998cc)",
+        "power": "136 PS / 100 kW",
+        "years": "1994–2000",
+        "variants": "C200",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,400–£2,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.960",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.2L (2199cc)",
+        "power": "150 PS / 110 kW",
+        "years": "1993–1996",
+        "variants": "C220",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£3,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.973",
+        "family": "M111",
+        "fuel": "Petrol",
+        "displacement": "2.3L (2295cc)",
+        "power": "150 PS / 110 kW",
+        "years": "1996–2000",
+        "variants": "C230",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,600–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M111.975",
+        "family": "M111",
+        "fuel": "Petrol, supercharged",
+        "displacement": "2.3L (2295cc)",
+        "power": "193 PS / 142 kW",
+        "years": "1996–2000",
+        "variants": "C230 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M104.941",
+        "family": "M104",
+        "fuel": "Petrol",
+        "displacement": "2.8L (2799cc)",
+        "power": "193 PS / 142 kW",
+        "years": "1993–1997",
+        "variants": "C280",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£4,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112.922",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "2.4L (2398cc)",
+        "power": "170 PS / 125 kW",
+        "years": "1997–2000",
+        "variants": "C240",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M104.941 (AMG)",
+        "family": "M104",
+        "fuel": "Petrol",
+        "displacement": "3.6L (3606cc)",
+        "power": "280 PS / 206 kW",
+        "years": "1994–1997",
+        "variants": "C36 AMG",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113.944",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "4.3L (4266cc)",
+        "power": "306 PS / 225 kW",
+        "years": "1997–2000",
+        "variants": "C43 AMG",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM604.910",
+        "family": "OM604",
+        "fuel": "Diesel",
+        "displacement": "2.0L (1997cc)",
+        "power": "88 PS / 65 kW",
+        "years": "1993–1998",
+        "variants": "C200 Diesel",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,300–£2,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM604.915",
+        "family": "OM604",
+        "fuel": "Diesel",
+        "displacement": "2.2L (2155cc)",
+        "power": "95 PS / 70 kW",
+        "years": "1993–1998",
+        "variants": "C220 Diesel",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,400–£2,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM605.910",
+        "family": "OM605",
+        "fuel": "Diesel",
+        "displacement": "2.5L (2497cc)",
+        "power": "113 PS / 83 kW",
+        "years": "1994–1999",
+        "variants": "C250 Diesel",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,600–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM605.912",
+        "family": "OM605",
+        "fuel": "Diesel",
+        "displacement": "2.5L (2497cc)",
+        "power": "150 PS / 110 kW",
+        "years": "1996–2000",
+        "variants": "C250 Turbodiesel",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM611.960",
+        "family": "OM611",
+        "fuel": "Diesel",
+        "displacement": "2.2L (2151cc)",
+        "power": "125 PS / 92 kW",
+        "years": "1999–2000",
+        "variants": "C220 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes C-Class W202 — Overview",
+    "intro": "The W202 is the first-generation Mercedes-Benz C-Class, produced from 1992 to 2000 as the successor to the 190E (W201). It established the C-Class as Mercedes' compact executive offering, available as a four-door saloon and, from 1995, a five-door estate (S202). The engine range spanned M111 four-cylinder petrol units from 1.8 to 2.3 litres, M104 and M112 six-cylinder petrols, the M113 V8 in AMG guise, plus OM604, OM605 and OM611 diesel units. A mild facelift in 1997 brought revised styling and mechanical updates.",
+    "keyFacts": "Platform: Mercedes W202 (first generation) • Predecessor: Mercedes-Benz 190E (W201) • Successor: Mercedes-Benz C-Class (W203) • Sibling body styles in this generation: S202 estate (1995–2001).",
+    "marketIntelligenceLine": "The W202 C-Class generated UK engine enquiries in 2025 [PATTERN DATA], with the M111 petrol fours and OM605 diesel five-cylinders remaining the most commonly discussed among specialists."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode — one paragraph: The W202's most dependable engine is the M104 2.8-litre straight-six (C280) — the 193 PS six-cylinder is widely considered the pick of the range for its smooth power delivery and proven durability, though early cars (pre-1997) suffer from biodegradable wiring harness failure. The M111 four-cylinder range is generally robust — the 1.8L C180 and 2.0L C200 are simple, reliable units with minimal electronic complexity. The OM605 five-cylinder diesel (C250 Turbodiesel) is the best diesel option, offering 150 PS with the legendary Mercedes over-engineered build quality. The OM611 CDI (C220 CDI) introduced common-rail technology in 1999 and is a significant step forward in refinement and economy. Avoid early OM604 diesels — they are underpowered and suffer from indirect-injection drawbacks, and avoid any pre-1997 car without documented wiring harness replacement, as the biodegradable looms are a known failure point.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes C-Class W202 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M111.920/921 (C180)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Wiring harness, ignition leads",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£1,200–£2,500",
+        "ownershipVerdict": "Best Value — simple, reliable, cheap to run"
+      },
+      {
+        "engine": "M111.941/945 (C200)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Wiring harness, MAF sensor",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£1,400–£2,800",
+        "ownershipVerdict": "Solid Choice — more power, same reliability"
+      },
+      {
+        "engine": "M111.960 (C220)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Wiring harness, ignition leads",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£1,500–£3,000",
+        "ownershipVerdict": "Good Petrol — the original four-cylinder"
+      },
+      {
+        "engine": "M111.973 (C230)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Wiring harness, MAF sensor",
+        "repairCostSpecialist": "£200–£500",
+        "replacementCostRecon": "£1,600–£3,200",
+        "ownershipVerdict": "Upgrade Pick — 2.3L torque without Kompressor complexity"
+      },
+      {
+        "engine": "M111.975 (C230 Kompressor)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Supercharger clutch, wiring harness",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Fun Choice — supercharged but more to maintain"
+      },
+      {
+        "engine": "M104.941 (C280)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Wiring harness (pre-97), head gasket",
+        "repairCostSpecialist": "£300–£800",
+        "replacementCostRecon": "£2,000–£4,000",
+        "ownershipVerdict": "Most Refined — smooth six, but harness watch"
+      },
+      {
+        "engine": "M112.922 (C240)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Wiring harness, cooling system",
+        "repairCostSpecialist": "£300–£700",
+        "replacementCostRecon": "£2,200–£4,200",
+        "ownershipVerdict": "Modern Six — V6 refinement, post-harness issues"
+      },
+      {
+        "engine": "M104.941 (C36 AMG)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Wiring harness, head gasket, cooling",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Collector's Item — rare, costly to maintain"
+      },
+      {
+        "engine": "M113.944 (C43 AMG)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Engine mounts, cooling system",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "V8 Icon — the first V8 C-Class, specialist only"
+      },
+      {
+        "engine": "OM604.910/915 (C200/C220 Diesel)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Glow plugs, injector seals, fuel system",
+        "repairCostSpecialist": "£200–£600",
+        "replacementCostRecon": "£1,300–£2,800",
+        "ownershipVerdict": "Budget Diesel — underpowered but economical"
+      },
+      {
+        "engine": "OM605.910 (C250 Diesel)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Glow plugs, injector seals, turbo (on TD)",
+        "repairCostSpecialist": "£200–£600",
+        "replacementCostRecon": "£1,600–£3,200",
+        "ownershipVerdict": "Best Diesel — five-cylinder legend"
+      },
+      {
+        "engine": "OM605.912 (C250 Turbodiesel)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Turbo actuator, injector seals",
+        "repairCostSpecialist": "£300–£700",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Top Diesel — 150 PS and bulletproof"
+      },
+      {
+        "engine": "OM611.960 (C220 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector wear, EGR clogging",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Modern Diesel — common-rail refinement"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W202 rule",
+      "text": "A £2,000–£4,000 recon on a sub-£2,500 W202 sits at 80–160% of the car's value — at that point, scrap value usually wins. Against a well-kept £4,000+ example, the same recon drops to 50–100% — still a serious decision, but one that can make sense if the car is otherwise sound. Value the car first, then the engine. Note that C36 and C43 AMG values are significantly higher and may justify engine replacement where a standard C-Class would not."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W202 Costs Least To Own?",
+        "answer": "C180 (M111.920) — simplest engine, cheapest parts, no turbo or supercharger complexity."
+      },
+      {
+        "question": "Which W202 Costs Most To Own?",
+        "answer": "C43 AMG (M113.944) — V8 parts premium, specialist labour required."
+      },
+      {
+        "question": "Which W202 Is Best Value?",
+        "answer": "C250 Turbodiesel (OM605.912) — 150 PS, bulletproof five-cylinder, excellent economy."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M111 Petrol Wiring Harness Degradation",
+        "affectedModels": "W202 C180, C200, C220, C230 (all M111 petrol variants, pre-1997 particularly).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "Early W202s used biodegradable wiring insulation that degrades with age and heat, causing short circuits, misfires, and erratic engine behaviour. The upper engine harness is the primary culprit, but lower harnesses can also fail.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,200",
+            "specialist": "£400–£700",
+            "work": "Replace upper engine harness",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,500–£2,500",
+            "specialist": "£1,000–£1,800",
+            "work": "Replace upper and lower harnesses",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your W202 has no documented wiring harness replacement, budget for it immediately — £400–£700 is cheap insurance against the £1,000+ bill for chasing intermittent electrical faults. This is the single most important preventative job on any early W202.",
+        "cta": {
+          "label": "Compare M111 engine prices for your W202 C-Class →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M104 Straight-Six Head Gasket Failure",
+        "affectedModels": "W202 C280 (M104.941), particularly pre-1997.",
+        "typicalFailureMileage": "80,000–130,000 miles.",
+        "rootCause": "The M104's head gasket can fail, allowing oil and coolant to mix — visible as oil foam in the coolant expansion tank. This is often caused by cooling system neglect or the biodegradable wiring harness causing the engine to run incorrectly.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£1,200–£1,800",
+            "specialist": "£700–£1,200",
+            "work": "Head gasket replacement",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£3,000–£5,000",
+            "specialist": "£2,000–£4,000",
+            "work": "Full engine rebuild if warped or cracked",
+            "note": ""
+          }
+        ],
+        "recommendation": "Check the coolant expansion tank regularly for oil foam — if spotted, have the head gasket inspected immediately. A £700–£1,200 repair is far cheaper than the £2,000+ replacement that follows if the engine overheats and warps.",
+        "cta": {
+          "label": "Compare M104 engine prices for your W202 C280 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "OM605/OM604 Diesel Glow Plug & Injector Issues",
+        "affectedModels": "W202 C200 Diesel, C220 Diesel, C250 Diesel, C250 Turbodiesel (all OM60x diesel variants).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The OM60x series uses indirect injection with pre-combustion chambers. Glow plugs wear out over time, causing poor cold starting and increased smoke. Injector seals can leak, causing fuel contamination of the engine oil.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£400–£700",
+            "specialist": "£200–£400",
+            "work": "Replace glow plugs and inspect injectors",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,500–£2,500",
+            "specialist": "£1,000–£1,800",
+            "work": "Full injector replacement and fuel system flush",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your W202 diesel is hard to start when cold, have the glow plugs tested immediately — £200–£400 is cheap insurance against the £1,000+ bill that follows if failed glow plugs cause injector damage or hydraulic lock.",
+        "cta": {
+          "label": "Compare OM605 engine prices for your W202 diesel →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Early W202 Steering Play & Suspension Wear",
+        "affectedModels": "All early W202 variants (pre-1997 particularly).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "Early W202s suffer from premature wear of the steering gear and steering rods, leading to vague steering and play in the wheel. This is not an engine failure but is one of the most common W202 enquiries.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£500–£800",
+            "specialist": "£300–£500",
+            "work": "Replace steering rods and track rod ends",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,200–£1,800",
+            "specialist": "£800–£1,400",
+            "work": "Full steering gear replacement",
+            "note": ""
+          }
+        ],
+        "recommendation": "Have the steering and suspension checked at every service — £300–£500 in preventative work is a fraction of the £800+ cost if worn components cause MOT failure or accident damage.",
+        "cta": {
+          "label": "Compare W202 steering and suspension repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W202 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "C180",
+        "engineCode": "M111.920/921",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,200–£2,500",
+        "rebuiltSupply": "£2,000–£3,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C200",
+        "engineCode": "M111.941/945",
+        "usedSupply": "£700–£1,400",
+        "reconditionedSupply": "£1,400–£2,800",
+        "rebuiltSupply": "£2,200–£4,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C220 (M111)",
+        "engineCode": "M111.960",
+        "usedSupply": "£800–£1,500",
+        "reconditionedSupply": "£1,500–£3,000",
+        "rebuiltSupply": "£2,500–£4,200",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "C230",
+        "engineCode": "M111.973",
+        "usedSupply": "£800–£1,600",
+        "reconditionedSupply": "£1,600–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C230 Kompressor",
+        "engineCode": "M111.975",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C280",
+        "engineCode": "M104.941",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£2,000–£4,000",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C240",
+        "engineCode": "M112.922",
+        "usedSupply": "£1,100–£2,200",
+        "reconditionedSupply": "£2,200–£4,200",
+        "rebuiltSupply": "£3,800–£6,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C36 AMG",
+        "engineCode": "M104.941 (AMG)",
+        "usedSupply": "£1,800–£3,500",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,500",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "C43 AMG",
+        "engineCode": "M113.944",
+        "usedSupply": "£2,000–£4,000",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "C200 Diesel",
+        "engineCode": "OM604.910",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,300–£2,500",
+        "rebuiltSupply": "£2,000–£3,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C220 Diesel",
+        "engineCode": "OM604.915",
+        "usedSupply": "£700–£1,400",
+        "reconditionedSupply": "£1,400–£2,800",
+        "rebuiltSupply": "£2,200–£4,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C250 Diesel",
+        "engineCode": "OM605.910",
+        "usedSupply": "£800–£1,600",
+        "reconditionedSupply": "£1,600–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C250 Turbodiesel",
+        "engineCode": "OM605.912",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C220 CDI",
+        "engineCode": "OM611.960",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£4,800",
+        "labourHours": "10–14 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "C200 Diesel",
+      "C220 Diesel",
+      "C250 Diesel",
+      "C250 Turbodiesel",
+      "C220 CDI"
+    ],
+    "petrolVariants": [
+      "C180",
+      "C200",
+      "C220",
+      "C230",
+      "C230 Kompressor",
+      "C240",
+      "C280",
+      "C36 AMG",
+      "C43 AMG"
+    ],
+    "scopeNote": "All variants listed are W202 saloon and S202 estate. The C36 AMG (1994–1997) and C43 AMG (1997–2000) are the high-performance models. The C220 CDI (OM611) was introduced in 1999 as the first common-rail diesel in the C-Class."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

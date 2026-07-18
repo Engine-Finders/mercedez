@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "slug": "a-class-a250",
+    "title": "A250 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 56,
+    "description": "Mercedes A-Class A250 — M270 & M260. 2 generations, real UK costs & reliability. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "canonical": "https://mercedesengine.uk/a-class/a250/",
+    "openGraph": {
+      "title": "A250 Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes A-Class A250 — M270 & M260. 2 generations, real UK costs & reliability. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/a-class/a250/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a-class-a250.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "A250 Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes A-Class A250 — M270 & M260. 2 generations, real UK costs & reliability.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/a-class-a250.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class",
+              "item": "https://mercedesengine.uk/a-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "A-Class W176",
+              "item": "https://mercedesengine.uk/a-class/w176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "A250",
+              "item": "https://mercedesengine.uk/a-class/a250/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes A-Class A250 Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W176 A250 (M270DE20LA, 2013–2018)",
+              "url": "https://mercedesengine.uk/a-class/w176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W177 A250 (M260, 2018–2025)",
+              "url": "https://mercedesengine.uk/a-class/w177/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes A-Class A250 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M270DE20LA (2.0 turbo)",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M260 (2.0 turbo)",
+              "url": "https://mercedesengine.uk/engines/m260/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes A‑Class A250 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned A250 engine typically costs £3,000–£6,500 supply only, with the W176 M270 running lower and the W177 M260 higher. Fitting adds £1,000–£1,600. A replacement M260 engine costs on average £5,834, with new or reconditioned units up to £7,779. A cylinder head replacement on a W177 can cost up to £4,000. Use our calculator for a figure specific to your A250."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes A‑Class A250 engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends which generation your A250 is. The W176's M270 (2013–2018) is generally reliable but has a well‑documented timing chain weakness — many specialists recommend replacing the chain at 70,000+ miles. The W177's M260 (2018–2025) is more powerful but has proven less reliable, with cylinder head failures and cracked exhaust valves reported. Check the Era Map above for your specific car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes A‑Class A250 engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W176 (M270): timing chain stretch, Camtronic system failures, carbon buildup on intake valves, thermostat housing leaks, and MAP sensor failures. W177 (M260): cylinder head failures, cracked exhaust valves, misfires, and low compression. The 2.0‑litre M260 has proven less reliable than the 1.3‑litre M282."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an A250 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value and generation. A W176 A250 is a £5,000–£12,000 vehicle — a £3,500–£4,500 recon is 29–90% of the car's value. A W177 A250 is a £12,000–£25,000 vehicle — a £4,500–£5,500 recon is 18–46% of the car's value. For lower‑value W176 examples (sub‑£6,000), replacement may approach or exceed our 70% Mercedes scrap threshold. Evaluate carefully based on your car's generation and condition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes A‑Class A250 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. The A250 covers M270DE20LA (W176, 2013–2018) and M260 (W177, 2018–2025). Tell us your registration date and we'll confirm which one you have for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I prevent the common failures on an A250?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On W176 M270: timing chain replacement at 70,000+ miles is strongly recommended. Regular oil changes with MB 229.5 spec oil every 10,000–15,000 km are essential. On W177 M260: if you experience misfires, have the cylinder head inspected immediately — catching a cracked valve early can save you from a £4,000+ repair bill. Both engines benefit from periodic walnut blasting (carbon cleaning) every 60,000 miles. At the first sign of cold‑start rattle, misfire or rough idle, book an inspection immediately."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes A-Class A250 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "7800",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes A-Class A250 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes A-Class A250 engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "A250 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/a-class/a250/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes A‑Class A250 • 2013–2025 • M270 / M260",
+    "h1": "Mercedes A‑Class A250 Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "The A250 badge spans two generations of Mercedes' premium hatchback — the W176 with the M270 2.0 turbo and the W177 with the M260 2.0 turbo. Get quotes from trusted UK specialists today.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes A250 Engines — from £1,500 to £7,800 · M270 / M260",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free A250 Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The A250 THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes A‑Class A250 Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,500–£3,500",
+        "fittedIndie": "£2,500–£4,800",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; vehicle under £8,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,000–£6,500",
+        "fittedIndie": "£4,200–£8,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,500–£7,800",
+        "fittedIndie": "£5,700–£9,400",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£6,500–£10,000",
+        "fittedIndie": "£7,700–£11,800",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the range across both generations; specific costs vary by era — see the Era Map above. A replacement M260 engine costs on average £5,834, with new or reconditioned units up to £7,779. A cylinder head replacement on a W177 A250 can cost up to £4,000.",
+    "labourEstimate": "Fitting an A250 engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer).",
+    "cta": {
+      "label": "→ Compare A250 engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Stretch / Tensioner Wear (M270 — W176, 2013–2018)",
+        "symptoms": "Rattling noise on cold start (often from 70,000+ miles), metallic ticking, rough idle, loss of power, camshaft timing fault codes (P001685/P001785).",
+        "typicalMileage": "70,000–100,000 miles",
+        "repairCost": "£1,200–£2,800 (chain, guides and tensioner replacement)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£3,000–£6,500 (full engine replacement if chain snaps)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattle, book an inspection today"
+        },
+        "recommendation": "Timing chain stretch is the most common issue on the M270 engine. If you hear a rattling noise on cold start, have the chain inspected immediately — ignoring it can lead to catastrophic engine failure. Regular oil changes every 10,000–15,000 km with 100% synthetic oil (MB 229.5 spec) are essential. Some M270 engines also suffer from camshaft actuator wear, which can be addressed with an updated part (A2700501147).",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/timing-chain-stretch/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Cylinder Head / Cracked Exhaust Valve (M260 — W177, 2018–2025)",
+        "symptoms": "Misfire, engine management light, car entering limp mode, loss of power, rough idle.",
+        "typicalMileage": "30,000–60,000 miles",
+        "repairCost": "£2,000–£4,000 (cylinder head replacement)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£4,000–£7,800 (full engine replacement if damage is extensive)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you experience misfires or limp mode, book an inspection today"
+        },
+        "recommendation": "The M260 engine in the W177 has proven less reliable than the 1.3‑litre M282. Cylinder head failures (cracked exhaust valves, low compression in cylinders) have been reported at as little as 45,000 miles. A cylinder head replacement can cost up to £4,000. If you experience misfires or the engine management light comes on, have the engine diagnosed immediately. Some owners have reported needing new cylinder heads after multiple misfire events.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/cylinder-head-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Carbon Buildup on Intake Valves (M270 & M260)",
+        "symptoms": "Rough idle, hesitation on acceleration, misfires, loss of power, increased fuel consumption.",
+        "typicalMileage": "50,000–80,000 miles",
+        "repairCost": "£300–£600 (walnut blasting / carbon cleaning)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon"
+        },
+        "recommendation": "Both the M270 and M260 are direct‑injection engines, which means carbon can build up on the intake valves over time. Periodic intake cleaning (walnut blasting) every 60,000 miles can restore performance. If you notice hesitation or poor throttle response, a carbon clean is often the solution. This is particularly important if the car is frequently driven in the city.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/carbon-buildup/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every A250 engine generation covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free A250 Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "A250 — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Timing chain stretch (M270)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,200–£2,800",
+          "whenItMakesSense": "Catch it early — before chain snaps"
+        },
+        {
+          "problem": "Cylinder head failure (M260)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£2,000–£4,000",
+          "whenItMakesSense": "Catch it early — before damage becomes catastrophic"
+        },
+        {
+          "problem": "Carbon buildup (both engines)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£600",
+          "whenItMakesSense": "Routine maintenance — improves performance and MPG"
+        },
+        {
+          "problem": "Camshaft actuator wear (M270)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Replace with updated part — permanent fix"
+        },
+        {
+          "problem": "Severe engine damage (chain snap / valve failure)",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Little left to salvage — replacement is the only option"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This A250? Check These First",
+      "buyIf": [
+        "* W176 (2013–2018): timing chain replaced or inspected (or budget for it at 70,000+ miles)",
+        "* W177 (2018–2025): no misfire history — cylinder head in good condition",
+        "* Full Mercedes service history with correct MB 229.5 oil spec",
+        "* DCT7 gearbox fluid changed every 60,000 km"
+      ],
+      "avoidIf": [
+        "* Cold‑start rattle on W176 — timing chain may be failing — walk away",
+        "* Misfire or limp mode on W177 — cylinder head may be failing — walk away",
+        "* Poor service history — M270 and M260 engines are sensitive to neglect",
+        "* Reprogrammed / modified engine — increased risks"
+      ]
+    },
+    "closingVerdict": "The A250 is the performance flagship of the regular A‑Class range — a 2.0‑litre turbo that delivers 211–225 bhp and genuine hot‑hatch credentials. The W176's M270 is the more proven engine, but timing chain stretch is a non‑negotiable watchpoint from 70,000 miles. The W177's M260 delivers more power but has a worrying track record of cylinder head failures and cracked valves at relatively low mileage. Buy on full service history, prioritise post‑2014 W176 cars (which had strengthened timing components), and never ignore a cold‑start rattle or misfire.",
+    "cta": {
+      "label": "→ Compare A250 engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes A‑Class A250 (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattling; timing chain indicator (M270, W176)",
+      "* Misfire / Limp Mode — Check for engine management light; cylinder head indicator (M260, W177)",
+      "* Service History — including which generation (W176 or W177) and confirmed oil‑change intervals (10,000–15,000 km)",
+      "* Carbon Build-up — Check for rough idle or hesitation; may need walnut blasting",
+      "* DCT7 Gearbox — Check for jerking or slippage; fluid should be changed every 60,000 km",
+      "* Turbo Health — Listen for whistling or whining; turbo actuator issues possible",
+      "* Oil Leaks — Check under the car and around the engine; valve cover gasket leaks are common",
+      "* MOT History — Check for emissions‑related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M270DE20LA (2.0 turbo)",
+        "years": "2013–2018",
+        "power": "211 bhp (155 kW) @ 5,500 rpm; 350 Nm @ 1,200–4,000 rpm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500【PLACEHOLDER】"
+      },
+      {
+        "engineCode": "M260 (2.0 turbo)",
+        "years": "2018–2025",
+        "power": "221–225 bhp (165 kW) @ 5,500 rpm; 350 Nm @ 1,800–4,000 rpm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000【PLACEHOLDER】"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M270DE20LA 2.0 turbo, W176):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,991 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4‑cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "9.8:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin‑scroll turbocharger"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare A250 engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes A‑Class A250 engine replacement cost in the UK?",
+        "answer": "A reconditioned A250 engine typically costs £3,000–£6,500 supply only, with the W176 M270 running lower and the W177 M260 higher. Fitting adds £1,000–£1,600. A replacement M260 engine costs on average £5,834. A cylinder head replacement on a W177 can cost up to £4,000. Use our calculator for a figure specific to your A250."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes A‑Class A250 engine reliable?",
+        "answer": "It depends which generation your A250 is. The W176's M270 (2013–2018) is generally reliable but has a well‑documented timing chain weakness — many specialists recommend replacing the chain at 70,000+ miles. The W177's M260 (2018–2025) is more powerful but has proven less reliable, with cylinder head failures and cracked exhaust valves reported. Check the Era Map above for your specific car."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes A‑Class A250 engine?",
+        "answer": "W176 (M270): timing chain stretch, Camtronic system failures, carbon buildup on intake valves, thermostat housing leaks, and MAP sensor failures. W177 (M260): cylinder head failures, cracked exhaust valves, misfires, and low compression. The 2.0‑litre M260 has proven less reliable than the 1.3‑litre M282."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing an A250 engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and generation. A W176 A250 is a £5,000–£12,000 vehicle — a £3,500–£4,500 recon is 29–90% of the car's value. A W177 A250 is a £12,000–£25,000 vehicle — a £4,500–£5,500 recon is 18–46% of the car's value. For lower‑value W176 examples (sub‑£6,000), replacement may approach or exceed our 70% Mercedes scrap threshold. Evaluate carefully based on your car's generation and condition."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes A‑Class A250 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The A250 covers M270DE20LA (W176, 2013–2018) and M260 (W177, 2018–2025). Tell us your registration date and we'll confirm which one you have for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I prevent the common failures on an A250?",
+        "answer": "On W176 M270: timing chain replacement at 70,000+ miles is strongly recommended. Regular oil changes with MB 229.5 spec oil every 10,000–15,000 km are essential. On W177 M260: if you experience misfires, have the cylinder head inspected immediately — catching a cracked valve early can save you from a £4,000+ repair bill. Both engines benefit from periodic walnut blasting (carbon cleaning) every 60,000 miles. At the first sign of cold‑start rattle, misfire or rough idle, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "Find the best Mercedes A‑Class A250 engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence — from £1,500 for a used unit to £7,800 for a fully rebuilt 2.0‑litre turbo engine.",
+    "ctaButton": {
+      "label": "Compare Mercedes A‑Class A250 Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

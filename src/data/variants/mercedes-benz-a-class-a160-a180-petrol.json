@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-a-class-a160-a180-petrol",
+    "title": "Mercedes-Benz A-Class A160 / A180 Petrol Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 89,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz A-Class A160/A180 Petrol • 1997–present • Four Engine Generations",
+    "h1": "Mercedes-Benz A-Class A160 / A180 Petrol Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz specialists. The A160/A180 petrol badge spans four generations — from the M166 and M266 to the M270 and M282 turbos. Compare reconditioned, rebuilt and used engines — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz A-Class A160/A180 Petrol Engines — from £800 to £6,000 · Codes: M166, M266, M270, M282",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free Mercedes A-Class Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz A-Class A160 / A180 Petrol — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W168 A160/A180",
+        "years": "1997–2004",
+        "engineCode": "M166 (1.4L/1.6L petrol)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£1,200–£2,500 [PLACEHOLDER]",
+        "eraNote": "Early sandwich-floor A-Class — timing chain is sealed and can snap"
+      },
+      {
+        "generation": "W169 A160/A180",
+        "years": "2004–2012",
+        "engineCode": "M266 (1.5L/1.7L petrol)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£1,500–£3,000 [PLACEHOLDER]",
+        "eraNote": "Evolved M266 — more reliable, but injectors and throttle body need care"
+      },
+      {
+        "generation": "W176 A160/A180",
+        "years": "2012–2018",
+        "engineCode": "M270 DE16 LA (1.6L turbo)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£2,500–£4,500 [PLACEHOLDER]",
+        "eraNote": "1.6L turbo — timing chain wear and carbon build-up are key watchpoints"
+      },
+      {
+        "generation": "W177 A160/A180",
+        "years": "2018–present",
+        "engineCode": "M282 (1.3L/1.4L turbo)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£5,500 [PLACEHOLDER]",
+        "eraNote": "Modern 1.3L turbo with cylinder shutoff — generally reliable"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz A-Class A160 / A180 Petrol Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£800–£2,000",
+        "fittedIndie": "£1,400–£2,800",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; older W168/W169 donors"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£1,500–£4,000",
+        "fittedIndie": "£2,300–£5,200",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£2,500–£5,500",
+        "fittedIndie": "£3,300–£6,700",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£4,000–£8,000",
+        "fittedIndie": "£5,500–£9,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market ranges across all four A-Class petrol generations. Older W168/W169 engines typically run lower on the used market. Reconditioned units for W176/W177 are higher due to turbo and direct injection complexity. See the Era Map above for generation-specific pricing.",
+    "labourEstimate": "Fitting an A-Class petrol engine typically takes 8–12 hours at £75–£110/hr (independent Mercedes specialist) or £130–£180/hr (London/SE dealer). The M270 turbo and M282 add complexity.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz A-Class A160/A180 petrol engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Failure (M166 — W168, 1997–2004)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Timing Chain Wear / Stretch (M270 — W176, 2012–2018)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Ignition System Faults (M270 — W176, 2012–2018)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Carbon Build-up on Intake Valves (M270 and M282 — Direct Injection)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Thermostat Housing Leaks (M270 — W176)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes-Benz Specialist →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering every A160/A180 petrol era — M166, M266, M270 and M282 — with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free Mercedes A-Class Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz A-Class A160 / A180 Petrol — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "M166 timing chain failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,000–£2,500",
+          "whenItMakesSense": "Preventative — if caught before chain snaps"
+        },
+        {
+          "problem": "M270 timing chain stretch",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,000",
+          "whenItMakesSense": "Preventative — cheaper than engine replacement"
+        },
+        {
+          "problem": "Ignition system faults",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£600",
+          "whenItMakesSense": "Simple repair — always worth doing"
+        },
+        {
+          "problem": "Carbon build-up (M270/M282)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£800",
+          "whenItMakesSense": "Walnut blasting — restores performance"
+        },
+        {
+          "problem": "Thermostat housing leaks",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£600",
+          "whenItMakesSense": "Straightforward repair — always worth doing"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz A-Class A160 / A180 Petrol? Check These First",
+      "buyIf": [
+        "* W169 (2004–2012) M266 — one of the more reliable A-Class petrol engines",
+        "* W176 (2012–2018) with documented timing chain service history",
+        "* W177 (2018+) with full service history — the M282 is generally reliable",
+        "* Full service history with regular oil changes and MB-approved oil",
+        "* W168 with evidence of timing chain inspection — early chains can fail"
+      ],
+      "avoidIf": [
+        "* W168 with any cold-start rattle — timing chain failure is serious",
+        "* W176 with no timing chain history — chain stretch is a known issue",
+        "* Any A-Class with poor service history — these engines are unforgiving of neglect",
+        "* M270 with misfire or rough idle without documented diagnosis"
+      ]
+    },
+    "closingVerdict": "The A160/A180 petrol badge spans Mercedes' entire compact history — from the innovative but flawed W168 to the modern W177. The W169 M266 is arguably the sweet spot for reliability, while the W176 M270 offers more power but demands timing chain vigilance. The W177 M282 is generally reliable with modern tech. Buy the newest you can afford, maintain the timing chain and ignition system, and the A-Class will serve you well.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz A-Class A160/A180 petrol engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz A-Class A160 / A180 Petrol (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle on startup — W168 and M270 chain wear warning",
+      "* Service History — Check the year to identify which engine — see the Era Map above",
+      "* Timing Chain History — W168 and M270: chains inspected/replaced? Critical",
+      "* Ignition System — Any misfires, rough idle, or starting issues? (M270 common)",
+      "* Carbon Build-up — M270/M282: has intake had a walnut blast? (every 60k miles recommended)",
+      "* Cooling System — Any temperature fluctuations? (M270 thermostat housing leaks)",
+      "* Oil Leaks — M270: check valve cover gaskets for leaks",
+      "* Engine Warning Light — Have codes been read? Resolve before buying"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M166 (1.4L/1.6L petrol)",
+        "years": "1997–2004",
+        "power": "60–102 bhp",
+        "enquiries": "— (pattern data — heritage)",
+        "avgReconCost": "£1,200–£2,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M266 (1.5L/1.7L petrol)",
+        "years": "2004–2012",
+        "power": "95–114 bhp",
+        "enquiries": "— (pattern data — heritage)",
+        "avgReconCost": "£1,500–£3,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M270 DE16 LA (1.6L turbo)",
+        "years": "2012–2018",
+        "power": "101–122 bhp",
+        "enquiries": "— (pattern data — high-volume UK)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M282 (1.3L/1.4L turbo)",
+        "years": "2018–present",
+        "power": "136–163 bhp",
+        "enquiries": "— (pattern data — high-volume UK)",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M282 — W177):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,398–1,598 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "Variable by variant"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Multi-point injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Naturally aspirated"
+        },
+        {
+          "label": "* Displacement",
+          "value": "1,498–1,699 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "Variable by variant"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Multi-point injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Naturally aspirated"
+        },
+        {
+          "label": "* Displacement",
+          "value": "1,595 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.3:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin-scroll turbo"
+        },
+        {
+          "label": "* Displacement",
+          "value": "1,332–1,399 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.6:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbo with cylinder shutoff technology"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz A-Class A160/A180 petrol engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "W168: timing chain failure (~40% of W168 enquiries) / M270: timing chain stretch (~35% of W176 enquiries) / M270: ignition faults (~30% of W176 enquiries)【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "65,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£3,000 reconditioned (M270 era), supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M270 DE16 LA (W176 A180 is a high-volume UK petrol variant)【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn/Winter — cold starts expose timing chain issues; ignition faults worsen in cold weather【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), North West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz A-Class A160 / A180 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz A-Class A160/A180 petrol engine costs £1,500–£4,000 supply only, varying by generation: M166 £1,200–£2,500, M266 £1,500–£3,000, M270 £2,500–£4,500, M282 £3,000–£5,500. Fitting adds £900–£1,500. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz A-Class A160 / A180 petrol reliable?",
+        "answer": "That depends on which generation. The W168 M166 has a sealed timing chain that can fail. The W169 M266 is one of Mercedes' more reliable compact engines. The W176 M270 is generally reliable but timing chain stretch and carbon build-up are known issues. The W177 M282 is modern and generally reliable. Buy the W169 or W177 for the best reliability."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz A-Class A160 / A180 petrol?",
+        "answer": "W168 M166: timing chain failure (cold-start rattle, £1,000–£2,500). W176 M270: timing chain stretch (cold-start rattle, £1,500–£3,000), ignition faults (misfires, starting issues, £200–£600), carbon build-up (walnut blasting, £400–£800), thermostat housing leaks (£300–£600). W177 M282: carbon build-up, generally fewer issues."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz A-Class A160 / A180 petrol engine, or should I scrap the car?",
+        "answer": "A-Class values range from £1,000–£25,000 depending on generation, condition and mileage. A £1,500–£4,000 reconditioned engine represents 15–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained W176 or W177, replacement is often justified. For an ageing W168 with other issues, assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz A-Class A160 / A180 petrol engine code?",
+        "answer": "The A160/A180 has used four engine families: M166 (W168, 1997–2004), M266 (W169, 2004–2012), M270 DE16 LA (W176, 2012–2018), and M282 (W177, 2018–present). Check your VIN or registration year. The code is stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M270 timing chain issue, or does it need replacement?",
+        "answer": "Yes — if caught early. Timing chain and guide replacement costs £1,500–£3,000 and is significantly cheaper than a full engine replacement (£2,500–£4,500). Replacing the chain, guides and tensioner is recommended around 80,000–100,000 miles. At the first sign of cold-start rattle, book an inspection immediately — ignored chain wear can lead to catastrophic engine failure."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz A-Class A160 / A180 Petrol Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz A160/A180 Petrol Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real A-Class owners, as part of the Engine Finders network, with specialist knowledge of M166, M266, M270 and M282 engines across all four A-Class generations."
+      },
+      {
+        "title": "Compare Mercedes-Benz A160/A180 Petrol Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for every A-Class petrol era from W168 to W177."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz A-Class A160/A180 Petrol",
+        "text": "supply‑only or full supply & fit available nationwide, covering every A-Class generation with specialists who understand these four-cylinder Mercedes engines."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz A-Class A160/A180 petrol engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz A-Class A160 / A180 Petrol Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

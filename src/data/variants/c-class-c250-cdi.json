@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "slug": "c-class-c250-cdi",
+    "title": "C250 CDI / C250d Engine Cost UK — Compare Quotes",
+    "titleCharCount": 58,
+    "description": "Mercedes-Benz C250 CDI and C250d – OM651 and OM654 diesel engines. Real UK costs, timing chain and injector facts, and specialist quotes. Get free prices from 25+ vetted specialists today.",
+    "descriptionCharCount": 158,
+    "canonical": "https://mercedesengine.uk/c-class/c250-cdi/",
+    "openGraph": {
+      "title": "C250 CDI / C250d Engine Cost UK — Compare Quotes",
+      "description": "Mercedes-Benz C250 CDI and C250d – OM651 and OM654 diesel engines. Real UK costs, timing chain and injector facts, and specialist quotes. Get free prices from 25+ vetted specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/c-class/c250-cdi/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/c250-cdi.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "C250 CDI / C250d Engine Cost UK — Compare Quotes",
+      "description": "Mercedes-Benz C250 CDI and C250d – OM651 and OM654 diesel engines. Real UK costs, timing chain and injector facts, and specialist quotes.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/c250-cdi.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class",
+              "item": "https://mercedesengine.uk/c-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "C250 CDI / C250d",
+              "item": "https://mercedesengine.uk/c-class/c250-cdi/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz C250 CDI / C250d Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W204 C250 CDI (OM651, 2008-2014)",
+              "url": "https://mercedesengine.uk/c-class/w204/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W205 C250 CDI (OM651, 2014-2018)",
+              "url": "https://mercedesengine.uk/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W205 C250d Facelift (OM654, 2018-2021)",
+              "url": "https://mercedesengine.uk/c-class/w205-facelift/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz C250 CDI / C250d Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM654",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-Benz C250 CDI or C250d engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned OM651 engine typically costs £2,500–£5,000 supply only; a reconditioned OM654 costs £3,500–£7,500. Used units are available from £1,500–£3,500. Fitting adds £1,500–£2,500 depending on the workshop. Use our calculator for a figure specific to your C-Class."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-Benz C250 CDI / C250d engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 is a proven and torquey engine, but it has well-documented weaknesses: timing chain stretch, injector seal leaks, and intake manifold bolt failure. The OM654 is more modern and efficient but suffers from rocker arm bearing wear and timing chain issues. Both engines demand diligent maintenance with correct MB 229.51 spec oil."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-Benz C250 CDI and C250d?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "OM651: timing chain stretch (rattling on cold start), injector seal failure (diesel smell), intake manifold bolt failure (boost leaks, limp mode), DPF pressure sensor failure. OM654: rocker arm bearing wear (tapping noises, potential camshaft damage), timing chain wear, high-pressure fuel pump failure. The OM651's timing chain is the most critical concern."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-Benz C250 CDI / C250d engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "C-Class values remain strong — a well-kept W205 is often worth £10,000–£20,000+. A £2,500–£7,500 reconditioned engine is 15–40% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example with good bodywork and interior, replacement is often worthwhile."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-Benz C250 CDI or C250d engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. W204 (2008–2014) uses OM651.911/912; W205 (2014–2018) uses OM651.911; W205 facelift (2018–2021) uses OM654. Tell us your registration date and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the OM651 timing chain, or does the engine need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The timing chain and tensioner can be replaced preventatively — they are wear items. Replacement costs £1,200–£2,500. If the chain fails and jumps timing, the engine is typically destroyed. A preventative chain replacement is far cheaper than a full engine replacement (£2,500+). At the first sign of rattling from the front of the engine on an OM651, book an inspection immediately."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz C250 CDI / C250d Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "7500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz C250 CDI / C250d UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz C250 CDI and C250d engines (OM651, OM654), sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "C250 CDI / C250d Engine Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/c-class/c250-cdi/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz C250 CDI / C250d • 2008–2021 • 2 Engine Generations",
+    "h1": "Mercedes-Benz C250 CDI / C250d Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "The C250 CDI and C250d are powered by Mercedes' finest 2.0-litre diesels — the OM651 in earlier cars and the OM654 in later models. Both deliver effortless torque and refinement, but timing chain stretch, injector failures, and valvetrain wear are well-documented. Get quotes from UK specialists for reconditioned, rebuilt and used units today.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz C250 CDI / C250d Engines — from £1,500 to £7,500 · Common codes: OM651, OM654",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free C250 Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The C250 THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [],
+    "sourceNote": "",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz C250 CDI / C250d Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,500–£3,500",
+        "fittedIndie": "£3,500–£5,500",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; older OM651 examples"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£2,500–£5,000",
+        "fittedIndie": "£4,500–£7,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,000–£7,500",
+        "fittedIndie": "£6,000–£9,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£6,000–£10,000+",
+        "fittedIndie": "£8,000–£12,000+",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the current C250 market. OM651-engined cars sit at the lower end of the range; OM654 engines command a premium. The OM651 is a well-understood engine with good parts availability, while the OM654 is more complex and expensive to rebuild.",
+    "labourEstimate": "Fitting a C250 engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). The OM651's transverse (W204) or longitudinal (W205) layout affects labour times.",
+    "cta": {
+      "label": "→ Compare C250 engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Stretch and Guide Wear (OM651)",
+        "symptoms": "Rattling noise on cold start, metallic ticking from the front of the engine, delayed starting, engine warning light, cam timing errors",
+        "typicalMileage": "80,000–120,000 miles",
+        "repairCost": "£1,200–£2,500 (timing chain, tensioner and guide replacement)",
+        "replacementCost": "£2,500–£5,000 (if chain jumps and causes valve interference)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if the timing chain fails on the OM651, piston-valve contact is likely"
+        },
+        "recommendation": "The OM651 is chain-driven, which is an advantage over belt-driven rivals. However, timing chain stretch is a known issue. If you hear rattling from the front of the engine on cold start, have the timing chain inspected immediately. A preventative chain and tensioner replacement is far cheaper than a full engine replacement. Regular oil changes with the correct MB 229.51 spec oil are essential — one owner reported timing chain stretch after just 78,000 miles.",
+        "failureLink": {
+          "label": "Read the full timing chain failure guide",
+          "href": "/failures/timing-chain-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Injector Seal and Fuel Injector Failure (OM651)",
+        "symptoms": "Diesel smell inside or around the car, rough idle, knocking noise when cold, hard starting, loss of power, engine warning light",
+        "typicalMileage": "60,000–120,000 miles",
+        "repairCost": "£300–£1,200 (injector seal replacement or full injector replacement)",
+        "replacementCost": "£2,500–£5,000 (if injector failure causes engine damage)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently"
+        },
+        "recommendation": "Early OM651 engines can suffer from injector failure due to worn copper seals. Leaking injector seals allow combustion gases to escape, causing a knocking noise when cold and a diesel smell inside the car. If you notice a diesel smell or rough running, have the injector seals checked promptly. Catching seal leaks early prevents more serious damage. One owner reported injector failure at just 3,000 miles.",
+        "failureLink": {
+          "label": "Read the full injector seal failure guide",
+          "href": "/failures/injector-seal-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Intake Manifold Bolt Failure and Boost Leaks (OM651)",
+        "symptoms": "Loss of power, low boost, engine warning light (P0299, P2279), DPF soot accumulation, limp mode, whooshing sound under acceleration",
+        "typicalMileage": "60,000–120,000 miles",
+        "repairCost": "£200–£800 (intake manifold repair or replacement)",
+        "replacementCost": "£2,500–£5,000 (if boost leak causes turbo damage)",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon"
+        },
+        "recommendation": "The OM651 has a well-documented issue with sheared bolts on the intake manifold. A broken bolt can cause a boost leak, leading to low boost codes (P0299), air intake leak codes (P2279), and DPF soot accumulation because the car won't regenerate while the check engine light is on. If you experience loss of power or hear a whooshing sound under acceleration, have the intake manifold inspected. Some owners report that replacing the manifold and fixing the bolt shearing issue resolves the problem.",
+        "failureLink": {
+          "label": "Read the full intake manifold failure guide",
+          "href": "/failures/intake-manifold-failure/"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Rocker Arm Bearing Wear (OM654)",
+        "symptoms": "Tapping or ticking noise from the top of the engine, reduced power, odd noises, excess exhaust smoke, engine warning light",
+        "typicalMileage": "50,000–100,000 miles",
+        "repairCost": "£1,500–£3,500 (rocker arm and camshaft replacement)",
+        "replacementCost": "£3,500–£7,500 (if failure causes camshaft damage)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "worn rocker arm bearings can lead to catastrophic camshaft damage"
+        },
+        "recommendation": "The OM654 has a known issue with failing rocker arm bearings. Symptoms include odd noises and excess exhaust smoke. If left unchecked, rocker arm bearing failure can lead to camshaft damage, requiring extensive and expensive repairs. If you hear tapping or ticking from the top of the engine, have the valvetrain inspected immediately. A preventative rocker arm replacement is far cheaper than a camshaft replacement.",
+        "failureLink": {
+          "label": "Read the full valvetrain failure guide",
+          "href": "/failures/valvetrain-failure/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every C-Class engine era covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free C250 Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "C250 CDI / C250d — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Timing chain tensioner (OM651)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,200–£2,500",
+          "whenItMakesSense": "Labour-intensive but far cheaper than a full engine replacement"
+        },
+        {
+          "problem": "Timing chain failure (engine damage)",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "If chain jumps and valves hit pistons, replacement is the only option"
+        },
+        {
+          "problem": "Injector seal failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£1,200",
+          "whenItMakesSense": "Well-understood repair — catch before further damage"
+        },
+        {
+          "problem": "Intake manifold bolt failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£800",
+          "whenItMakesSense": "Replace manifold — restore boost and performance"
+        },
+        {
+          "problem": "Rocker arm bearing wear (OM654)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Labour-intensive but cheaper than a camshaft replacement"
+        },
+        {
+          "problem": "DPF pressure sensor failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£150–£400",
+          "whenItMakesSense": "Simple sensor replacement — restore DPF function"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This C250 CDI / C250d? Check These First",
+      "buyIf": [
+        "* Post-2018 OM654 with comprehensive warranty — the newer engine is more refined but complex",
+        "* OM651 with documented timing chain work — the single most important check on the 2.1-litre",
+        "* Evidence of injector service or replacement — a common wear item",
+        "* Full service history with correct MB 229.51 spec oil — both engines are unforgiving of neglect",
+        "* Evidence of DPF maintenance and regular motorway driving"
+      ],
+      "avoidIf": [
+        "* Any rattling from the front of the engine — timing chain wear on OM651 is likely",
+        "* Diesel smell inside the car — injector seal leaks are expensive to fix",
+        "* OM654 with tapping from the top of the engine — rocker arm bearing wear is likely",
+        "* Poor service history — both engines are sensitive to oil quality",
+        "* Any \"check engine\" light without a clear diagnosis"
+      ]
+    },
+    "closingVerdict": "The C250 CDI and C250d are powered by two of Mercedes' finest four-cylinder diesels. The OM651 (2008–2018) is a proven workhorse — torquey, refined and capable of high mileage — but timing chain stretch, injector seal failure and intake manifold bolt issues are well-documented. The OM654 (2018–2021) is a more modern all-aluminium engine — efficient and smooth — but rocker arm bearing wear and timing chain issues are emerging concerns. Buy on history, maintain on schedule, and both engines will reward you with effortless performance.",
+    "cta": {
+      "label": "→ Compare C250 engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz C250 CDI or C250d (or before you commit to an engine replacement), check these:",
+    "items": [
+      "1. Cold Start — Listen for rattles from the front of the engine (timing chain wear on OM651 — the most critical check)",
+      "2. Service History — including which generation (W204 or W205) and evidence of timing chain work",
+      "3. Diesel Smell — Any smell inside the car? (injector seal leak warning)",
+      "4. Boost Performance — Any loss of power or whooshing sound? (intake manifold bolt failure)",
+      "5. Top-End Ticking (OM654) — Any tapping from the top of the engine? (rocker arm bearing wear)",
+      "6. DPF Health — Any warning lights or reduced power? (DPF pressure sensor failure)",
+      "7. Engine Warning Light — Have codes been read? Any unresolved issues?",
+      "8. MOT History — Check for emissions-related failures (DPF, EGR, NOx sensors)"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM651.911 / OM651.912",
+        "years": "2008–2018",
+        "power": "204 hp",
+        "enquiries": "[PATTERN DATA]",
+        "avgReconCost": "£2,500–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654",
+        "years": "2018–2021",
+        "power": "204 hp",
+        "enquiries": "[PATTERN DATA]",
+        "avgReconCost": "£3,500–£7,500 [MB-QUOTE]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly — two engine families across the C250's history.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM654 — 2.0d):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,143cc (2.1‑litre)"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Bore x Stroke",
+          "value": "83.0 mm x 99.0 mm"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "16.2:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Two-stage turbocharger with intercooler"
+        },
+        {
+          "label": "* Valvetrain",
+          "value": "DOHC, 4 valves per cylinder, single roller chain"
+        },
+        {
+          "label": "* Displacement",
+          "value": "1,950cc (2.0‑litre)"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4-cylinder inline"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "4th-generation common-rail direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin-turbo"
+        },
+        {
+          "label": "* Block Material",
+          "value": "Aluminium"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare C250 engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": []
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [
+      {
+        "title": "Trusted C250 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real C250 CDI and C250d owners, as part of the Engine Finders network, across both the OM651 and OM654 generations — no matter which C-Class era you drive."
+      },
+      {
+        "title": "Compare C250 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with specialists who genuinely understand the OM651's timing chain, injector seal and intake manifold nuances, and the OM654's rocker arm bearing and valvetrain complexity."
+      },
+      {
+        "title": "UK Engine Replacement Services for C250 CDI / C250d",
+        "text": "supply‑only or full supply & fit available nationwide, covering Mercedes' most popular diesel C-Class with a 12‑month warranty as standard."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz C250 CDI or C250d engine replacement UK drivers rely on. Compare prices from trusted specialists on MercedesEngine.uk today and keep your C-Class performing at its best.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz C250 CDI / C250d Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

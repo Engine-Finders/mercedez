@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "slug": "r-class",
+    "title": "R-Class Engines — The Complete UK Guide",
+    "titleCharCount": 39,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes • R-Class • 2006–2013 • W251 • OM642 • M272",
+    "h1": "R-Class Engines — The Complete UK Guide",
+    "subHeadline": "The Mercedes R-Class W251 — a spacious, seven-seat MPV that never quite found its market. Full coverage of OM642 V6 diesel reliability, M272 V6 petrol timing chain history, and the honest economics of replacing an engine on a car worth less than the repair. Backed by documented failure patterns and specialist knowledge [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Specialist Knowledge Tier"
+      },
+      {
+        "icon": "🔧",
+        "label": "1 Generation (W251, 2006–2013)"
+      },
+      {
+        "icon": "📖",
+        "label": "5+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore R-Class Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "Mercedes R-Class — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★☆☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "🔴 The R-Class rule: check the scrap value first — a £3,200–£5,500 reconditioned engine against a £1,500–£5,000 car means the honest answer is often \"don't repair it.\""
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM642 V6 diesel — the well-understood Mercedes V6 with 880 UK-wide enquiries in 2025 [MB-VERIFIED]; proven and durable if the oil cooler seals have been addressed."
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "M272 V6 petrol — timing chain stretch on earlier examples (pre-2008) and intake manifold swirl flap issues; well-documented and costly to fix."
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "R320 CDI (2009–2013 facelift) with OM642 — the facelift addressed the OM642's oil cooler seal design, and diesel torque suits the R-Class's 2.2-tonne kerb weight perfectly."
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£3,200–£5,500 reconditioned supply-only [MB-QUOTE], depending on engine."
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "OM642 oil cooler seal leak — the V6 diesel's defining weak point; 880 UK-wide enquiries across all Mercedes models in 2025 [MB-VERIFIED]."
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "⚠️ Niche, Check Value — the R-Class is the Mercedes no one remembers, and its ownership economics reflect that: a specialist car for specialist buyers who know exactly what they're getting into."
+      }
+    ],
+    "oneLineVerdict": "The R-Class is a spacious, capable seven-seater that's now cheap to buy — but the engine replacement cost will frequently exceed the car's value. Buy it for the interior space, not the investment case, and budget for maintenance that might not be financially recoverable."
+  },
+  "atAGlance": {
+    "h2": "Mercedes R-Class at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "1 (W251, 2006–2013)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2006–2013"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "5+ (OM642, M272, M273, M156)"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Diesel • Petrol"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM642 (880 UK-wide enquiries [MB-VERIFIED]; R-Class share is pattern-data tier)"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM642 V6 diesel — proven and durable with documented maintenance"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "M272 V6 petrol — timing chain stretch on pre-2008 examples"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£2,500–£5,500 reconditioned supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£1,500–£7,000 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★☆☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "Mercedes R-Class — One Generation, Multiple Powertrains",
+    "subHeadline": "The W251 R-Class ran from 2006 to 2013 with a single chassis but a split life: pre-facelift (2006–2009) and facelift (2010–2013). The engines remained largely the same — the difference is in the electrical architecture and the OM642's oil cooler seal design.",
+    "cards": [
+      {
+        "title": "W251 R-Class (2006–2013)",
+        "badge": "",
+        "meta": "2006–2013 • OM642 3.0 V6 diesel • M272 3.5 V6 petrol • M273 5.5 V8 petrol • M156 6.2 AMG V8",
+        "rating": "★★★★☆",
+        "verdict": "The R-Class is a seven-seat, 2.2-tonne MPV that drives like an E-Class — spacious, comfortable, and practical. The OM642 diesel is the engine to buy: torquey, reliable, and with the facelift's improved oil cooler seal design, less prone to the V6's signature leak. The M272 petrol is smooth but thirstier and carries the timing-chain caveat on pre-2008 cars. The R63 AMG (M156 V8) is a 510hp curiosity — only 200 built, and maintenance costs are S-Class AMG levels. Buy a 2010–2013 facelift R320 CDI with full service history and budget £800–£1,500 for an oil cooler seal replacement if it hasn't been done.",
+        "cta": {
+          "label": "Explore R-Class W251 →",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "Mercedes R-Class Engine Codes — The Complete Database",
+    "subHeadline": "Every engine ever fitted to the Mercedes R-Class W251 — verified against manufacturer specifications, with specialist cost ranges and reliability guidance.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM642",
+        "family": "OM642",
+        "fuel": "Diesel",
+        "displacement": "3.0L V6",
+        "power": "224–265hp",
+        "years": "2006–2013",
+        "model": "W251",
+        "reliability": "★★★★☆",
+        "enquiries": "880 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,200–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272",
+        "family": "M272",
+        "fuel": "Petrol",
+        "displacement": "3.5L V6",
+        "power": "272hp",
+        "years": "2006–2011",
+        "model": "W251",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M273",
+        "family": "M273",
+        "fuel": "Petrol",
+        "displacement": "5.5L V8",
+        "power": "388hp",
+        "years": "2006–2011",
+        "model": "W251",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£4,500–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M156",
+        "family": "M156",
+        "fuel": "Petrol",
+        "displacement": "6.2L V8",
+        "power": "510hp",
+        "years": "2006–2009",
+        "model": "W251 (R63 AMG)",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "£6,000–£12,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM642 rating: High confidence — based on 880 UK-wide enquiries across all Mercedes models in 2025 [MB-VERIFIED], cross-referenced with Mercedes TSBs and specialist interviews. The oil cooler seal weakness is well-documented and well-understood. M272, M273, M156 ratings: Expert-knowledge tier — documented failure patterns and specialist interviews [PATTERN DATA], not proprietary R-Class-specific volume data. Data note (internal): * Correction applied: R-Class model-level enquiry data is absent from EM_Proprietary_Data. All figures for OM642, M272, M273, M156 are UK-wide Mercedes figures, not R-Class-specific. This page uses [PATTERN DATA] for all R-Class-specific claims and [MB-VERIFIED] only when citing shared-engine UK-wide data. * Correction applied: The R-Class never received the OM654 diesel — it was discontinued in 2013, before the OM654 launched. Any mention of OM654 in an R-Class context is incorrect and should be removed. * No further corrections — source data matched live verification."
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common Mercedes R-Class Engine Problems",
+    "subHeadline": "Real UK failure patterns from our 2025 enquiry data and documented specialist knowledge — what goes wrong, at what mileage, and what it costs to fix.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "OM642 Oil Cooler Seal Leak",
+        "description": "The defining OM642 weakness across the R-Class range. An O-ring fails in the \"V\" of the engine, causing oil to pool under the intake manifold — labour-intensive to access but rarely catastrophic if caught early. 880 UK-wide enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "M272 Timing Chain Stretch",
+        "description": "Pre-2008 R-Class M272 engines (R350, R280) are known for timing chain stretch — cold-start rattle is the early warning. The repair requires significant disassembly. £1,500–£2,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "OM642 Swirl Flap Motor Failure",
+        "description": "The swirl flap motor on the OM642 intake manifold fails, triggering an engine management light and reduced power. The repair involves replacing the motor or, on earlier cars, removing the flaps entirely (a common specialist modification). £500–£1,200 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "M272 Intake Manifold Swirl Flap Failure",
+        "description": "The M272 petrol V6 has its own swirl flap weakness — the plastic linkage fails, causing the flaps to stick. Left unrepaired, it can cause a vacuum leak and rough running. £600–£1,200 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "OM642 Injector Failure (High Mileage)",
+        "description": "The OM642's injectors can fail at higher mileages (120k–150k), causing rough idle, black smoke, and poor economy. Individual injector replacement is straightforward. £300–£800 per injector [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "M273 / M156 Camshaft Adjuster Wear",
+        "description": "On the V8 petrol engines (R500, R63 AMG), the camshaft adjusters can wear, causing a rattle on start-up and, in extreme cases, timing issues. A specialist-only repair. £1,500–£3,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "Mercedes R-Class Market Intelligence — What UK Specialists Told Us",
+    "signals": [
+      {
+        "signal": "R-Class Enquiry Volume (2025)",
+        "data": "Not separately tracked in EM_Proprietary_Data; pattern-data tier",
+        "demandTrend": "[PATTERN DATA]"
+      },
+      {
+        "signal": "Most Enquired Shared Engine",
+        "data": "OM642 — 880 UK-wide enquiries [MB-VERIFIED]",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "Most Common R-Class Failure",
+        "data": "OM642 oil cooler seal leak — well-documented across all W251s",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "R-Class Vehicle Value Trend",
+        "data": "£1,500–£7,000 depending on condition and mileage [THIRD-PARTY]",
+        "demandTrend": "⬇ Falling"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The R-Class is the only Mercedes model where the vehicle value (typically £1,500–£5,000 for a pre-facelift car) routinely falls below the cost of a reconditioned OM642 engine (£3,200–£5,500) — making it the Mercedes where \"check the scrap value first\" is the most common specialist advice. The R-Class shares the OM642 with the E-Class W212 and GLC X253, cars that comfortably justify replacement costs — the R-Class often doesn't.",
+      "The R320 CDI with OM642 is the engine to buy — it's the most common, the most proven, and the facelift (2010–2013) addressed the oil cooler seal design. The M272 petrol is thirsty and underpowered for the R-Class's 2.2-tonne weight; the M156 R63 AMG is a collector's curiosity with eye-watering running costs.",
+      "The R-Class never achieved the sales volume of the E-Class or GLC, and its niche status means the specialist network that works on them is smaller — but the engines are all shared with other Mercedes models, so parts availability is excellent and any Mercedes diesel specialist can work on one."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every R-Class Buyer",
+    "quote": "If you buy one R-Class based on this page, make it a 2010–2013 R320 CDI facelift with the OM642 diesel and a documented oil cooler seal replacement already done. The R-Class is a wonderful MPV — but it's a car you buy with your head, not your heart, and the economics only work if you buy one that's already had its major maintenance addressed. MERCEDES R-CLASS — SECTIONS 8-14"
+  },
+  "replacementCosts": {
+    "h2": "Mercedes R-Class Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for every R-Class engine — used, reconditioned, and rebuilt supply-only — with independent labour estimates and the honest economics of when to repair vs when to scrap.",
+    "tables": [
+      {
+        "title": "W251 R-Class Pre-Facelift (2006–2009)",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": [
+          {
+            "model": "R320 CDI",
+            "engineCode": "OM642",
+            "usedSupply": "£1,800–£3,200",
+            "reconditionedSupply": "£3,200–£5,500",
+            "rebuiltSupply": "£4,500–£7,000",
+            "labourHours": "10–14 hrs"
+          },
+          {
+            "model": "R280 / R350",
+            "engineCode": "M272",
+            "usedSupply": "£1,500–£2,800",
+            "reconditionedSupply": "£2,500–£4,500",
+            "rebuiltSupply": "£3,800–£5,800",
+            "labourHours": "10–12 hrs"
+          },
+          {
+            "model": "R500",
+            "engineCode": "M273",
+            "usedSupply": "£2,500–£4,500",
+            "reconditionedSupply": "£4,500–£7,000",
+            "rebuiltSupply": "£6,000–£9,000",
+            "labourHours": "14–18 hrs"
+          },
+          {
+            "model": "R63 AMG",
+            "engineCode": "M156",
+            "usedSupply": "£4,000–£8,000",
+            "reconditionedSupply": "£6,000–£12,000",
+            "rebuiltSupply": "£9,000–£16,000",
+            "labourHours": "16–20 hrs"
+          }
+        ]
+      },
+      {
+        "title": "W251 R-Class Facelift (2010–2013)",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": [
+          {
+            "model": "R320 CDI (revised OM642)",
+            "engineCode": "OM642",
+            "usedSupply": "£1,800–£3,200",
+            "reconditionedSupply": "£3,200–£5,500",
+            "rebuiltSupply": "£4,500–£7,000",
+            "labourHours": "10–14 hrs"
+          },
+          {
+            "model": "R350 (revised M272)",
+            "engineCode": "M272",
+            "usedSupply": "£1,500–£2,800",
+            "reconditionedSupply": "£2,500–£4,500",
+            "rebuiltSupply": "£3,800–£5,800",
+            "labourHours": "10–12 hrs"
+          }
+        ]
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a Mercedes R-Class engine typically takes 10–20 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The R63 AMG's M156 V8 is more labour-intensive due to the engine bay packaging. The R-Class rule: check the scrap value first A pre-facelift R320 CDI (2006–2009) worth £1,500–£4,000 faces a £3,200–£5,500 reconditioned OM642 engine cost — that's 70–100% of the car's value before labour. A facelift R320 CDI (2010–2013) worth £3,000–£7,000 faces the same £3,200–£5,500 cost — often still exceeding the Mercedes 70% threshold. The R-Class is the one Mercedes where we routinely tell owners to check the scrap value before even considering a replacement. If the lowest viable reconditioned cost exceeds 70% of what your R-Class is worth on today's market, get a scrap valuation alongside any repair quote. For an R320 CDI with a failed oil cooler seal, the answer is often \"fix the seal before it becomes a full engine job.\" For a seized OM642, the honest answer is frequently \"scrap it and buy another R-Class.\" We tell you when to fix it, when to fit a used engine, and when to walk away — because the R-Class economics only work if you're honest about the numbers.",
+    "labourEstimate": "Fitting a Mercedes R-Class engine typically takes 10–20 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The R63 AMG's M156 V8 is more labour-intensive due to the engine bay packaging. The R-Class rule: check the scrap value first A pre-facelift R320 CDI (2006–2009) worth £1,500–£4,000 faces a £3,200–£5,500 reconditioned OM642 engine cost — that's 70–100% of the car's value before labour. A facelift R320 CDI (2010–2013) worth £3,000–£7,000 faces the same £3,200–£5,500 cost — often still exceeding the Mercedes 70% threshold. The R-Class is the one Mercedes where we routinely tell owners to check the scrap value before even considering a replacement. If the lowest viable reconditioned cost exceeds 70% of what your R-Class is worth on today's market, get a scrap valuation alongside any repair quote. For an R320 CDI with a failed oil cooler seal, the answer is often \"fix the seal before it becomes a full engine job.\" For a seized OM642, the honest answer is frequently \"scrap it and buy another R-Class.\" We tell you when to fix it, when to fit a used engine, and when to walk away — because the R-Class economics only work if you're honest about the numbers.",
+    "economicsBox": {
+      "title": "The R63 AMG's M156 V8 is more labour-intensive due to the engine bay packaging. The R-Class rule",
+      "text": "check the scrap value first A pre-facelift R320 CDI (2006–2009) worth £1,500–£4,000 faces a £3,200–£5,500 reconditioned OM642 engine cost — that's 70–100% of the car's value before labour. A facelift R320 CDI (2010–2013) worth £3,000–£7,000 faces the same £3,200–£5,500 cost — often still exceeding the Mercedes 70% threshold. The R-Class is the one Mercedes where we routinely tell owners to check the scrap value before even considering a replacement. If the lowest viable reconditioned cost exceeds 70% of what your R-Class is worth on today's market, get a scrap valuation alongside any repair quote. For an R320 CDI with a failed oil cooler seal, the answer is often \"fix the seal before it becomes a full engine job.\" For a seized OM642, the honest answer is frequently \"scrap it and buy another R-Class.\" We tell you when to fix it, when to fit a used engine, and when to walk away — because the R-Class economics only work if you're honest about the numbers."
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the R-Class Engine Range Evolved — 2006 to 2013",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "The Launch",
+        "years": "2006–2009",
+        "keyEngines": "OM642 3.0 V6 diesel • M272 3.5 V6 petrol • M273 5.5 V8 petrol • M156 6.2 AMG V8",
+        "whyBmwChanged": "Mercedes wanted to create a new segment — the \"Grand Sports Tourer\" — combining SUV ride height with MPV practicality and E-Class driving dynamics. The engine range reflected this ambition: V6 diesels for torque, V6/V8 petrols for performance, and the M156 for the ultra-niche R63 AMG.",
+        "worthKnowing": "The R63 AMG is one of the rarest Mercedes ever built — only 200 were produced. It uses the M156 6.2-litre V8 shared with the C63, E63 and SL63 — but in a 2.2-tonne MPV, it's a singularly strange experience."
+      },
+      {
+        "era": "The Facelift / Rationalisation",
+        "years": "2010–2013",
+        "keyEngines": "OM642 (revised) • M272 (revised) • OM651 (introduced for some markets, not UK)",
+        "whyBmwChanged": "The R-Class never sold in the volumes Mercedes hoped — so the facelift was a rationalisation. The V8s were dropped entirely; the range was simplified to the OM642 diesel and M272 petrol, with the OM642 receiving an improved oil cooler seal design.",
+        "worthKnowing": "This is the R-Class to buy: the facelift OM642 has fewer oil-cooler-seal failures, and the facelift interior and electronics are a significant step up from the pre-facelift car."
+      },
+      {
+        "era": "The End",
+        "years": "2013",
+        "keyEngines": "OM642 (final year)",
+        "whyBmwChanged": "Mercedes discontinued the R-Class globally in 2013 due to low sales — it was a niche product that never found its audience.",
+        "worthKnowing": "The R-Class shares its platform with the GL (now GLS) and ML (now GLE) — so parts availability remains excellent through the GLE/GLS supply chain."
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy a Mercedes R-Class?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Large Family Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The R-Class is one of the most spacious seven-seat Mercedes ever built — rear legroom is limousine-like, and the third row is genuinely usable. Buy a 2010–2013 R320 CDI facelift with the revised OM642 and a documented oil cooler seal replacement. The diesel torque (440Nm) suits the 2.2-tonne weight perfectly."
+      },
+      {
+        "buyerProfile": "Daily Commuter",
+        "rating": "★★☆☆☆",
+        "verdict": "This is not a car for urban commuting — it's 5.2 metres long, 2.2 tonnes, and the diesel economy is 30–35 mpg at best. It's a motorway cruiser, not a city car. If you commute on A-roads or motorways, it's comfortable and refined; if you parallel park in London, it's a nightmare."
+      },
+      {
+        "buyerProfile": "Budget Owner",
+        "rating": "★☆☆☆☆",
+        "verdict": "If you have £3,000 to spend on an R-Class, put £1,500 of it aside for immediate maintenance. The car itself is cheap because it's now old and niche — keeping it on the road is not cheap. An oil cooler seal job (£800–£1,500) is almost inevitable on a pre-facelift car; a timing chain job (£1,500–£2,500) is possible on a high-mileage M272."
+      },
+      {
+        "buyerProfile": "Towing & Working Use",
+        "rating": "★★★★☆",
+        "verdict": "The R-Class has a braked towing capacity of 2,100 kg — enough for a large caravan, horse trailer, or heavy plant trailer. The OM642's 440Nm torque makes it a competent tow vehicle, and the 2.2-tonne kerb weight provides stability. Buy a facelift R320 CDI for the revised oil cooler seal and keep the gearbox serviced."
+      },
+      {
+        "buyerProfile": "First-Time Buyer",
+        "rating": "★☆☆☆☆",
+        "verdict": "An R-Class is not a sensible first Mercedes — it's too big, too thirsty, too niche, and too likely to present a repair bill that exceeds the car's value. A C-Class or E-Class is a better introduction to Mercedes ownership. The R-Class is a car for someone who already knows what they're getting into."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My R-Class Engine — or Should I Replace It?",
+    "intro": "Sub-headline: The R-Class's low vehicle value means the honest call is often \"scrap it\" — our calculator helps you make the right decision before you commit to a repair that doesn't make financial sense.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes calculator with R-Class pre-selected",
+        "href": "mercedesengine.uk/#engine-calculator?model=r-class"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "mercedesengine.uk/#engine-calculator?model=r-class"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why R-Class Owners Trust mercedesengine.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range in this guide comes from documented failure patterns, specialist interviews, and manufacturer TSBs [PATTERN DATA], cross-referenced with 880+ OM642 and 390+ M276 UK-wide enquiries [MB-VERIFIED] where shared-engine data exists."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "If a £3,200–£5,500 reconditioned engine exceeds 70% of your R-Class's actual market value, we tell you to get a scrap valuation. That's the honest advice the R-Class market needs — and the reason this page exists."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on OM642 and M272 engines daily — the same specialists who know exactly how to inspect an R-Class's oil cooler seals and timing chains before you buy."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Mercedes R-Class Frequently Asked Questions",
+    "items": []
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore the R-Class W251",
+        "text": "See the full W251 R-Class generation guide, with our honest verdict on every variant → Explore R-Class W251 →",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My R-Class",
+        "text": "Tell us your symptoms and we'll match you against known R-Class failure patterns → Run the R-Class Diagnostic →",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get quotes from 25+ vetted Mercedes-Benz specialists who work on OM642 and M272 engines daily → Compare Specialists →",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

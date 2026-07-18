@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "slug": "mercedes-gla-x156",
+    "title": "Mercedes GLA X156 Engines — The Complete UK Guide",
+    "titleCharCount": 49,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes GLA X156 • SUV • 2013–2019",
+    "h1": "Mercedes GLA X156 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the first-generation GLA compact SUV — from the 1.6-litre M270 petrol to the 2.0-litre OM651 diesel and the fire-breathing M133 AMG. Real UK costs, honest reliability data, and the MFA platform that brought Mercedes SUV capability to a new segment. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "1,250+ X156 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "SUV"
+      },
+      {
+        "icon": "📖",
+        "label": "5 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore X156 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes GLA X156 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the X156 specifically — including the M270 petrol family, the AMG M133, and the OM651 diesel range.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (X156)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M270.910",
+        "family": "M270",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.6L (1595cc)",
+        "power": "122–156 bhp",
+        "years": "2013–2019",
+        "variants": "GLA 180, GLA 200",
+        "reliability": "★★★★☆ [PROVISIONAL — well-regarded MFA petrol; some timing chain concerns]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M270.920",
+        "family": "M270",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1991cc)",
+        "power": "211 bhp",
+        "years": "2013–2019",
+        "variants": "GLA 250, GLA 250 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — torquey 2.0-litre; reliable when maintained]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£4,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M133.980",
+        "family": "M133",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L (1991cc)",
+        "power": "360–381 bhp",
+        "years": "2014–2019",
+        "variants": "GLA 45 AMG 4MATIC",
+        "reliability": "★★★★☆ [PROVISIONAL — AMG-tuned M133; powerful but demanding]",
+        "enquiries": "370 [MB-VERIFIED]",
+        "avgReconCost": "£3,500–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM607.951",
+        "family": "OM607",
+        "fuel": "Diesel, turbo",
+        "displacement": "1.5L (1461cc)",
+        "power": "109 bhp",
+        "years": "2014–2019",
+        "variants": "GLA 180 CDI / d",
+        "reliability": "★★★☆☆ [PROVISIONAL — Renault-sourced; economical but less refined]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,600–£3,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651.930",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L (2143cc)",
+        "power": "136–177 bhp",
+        "years": "2013–2019",
+        "variants": "GLA 200 CDI / d, GLA 220 CDI / d",
+        "reliability": "★★★★☆ [PROVISIONAL — Mercedes-developed; reliable but watch injector seals]",
+        "enquiries": "1,250 [MB-VERIFIED]",
+        "avgReconCost": "£2,800–£4,800 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "* OM651.930: 95% confidence — inherited from the Model Page's verified figures for the wider Mercedes range. * M270.910/920: 85% confidence — well‑documented MFA petrol; pattern data. * M133.980: 80% confidence — AMG variant; well-understood but demanding. * OM607.951: 70% confidence — Renault-sourced; limited long‑term data."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes GLA X156 — Overview",
+    "intro": "The X156 is the first generation of the Mercedes‑Benz GLA, a subcompact luxury crossover SUV unveiled at the 2013 Frankfurt Motor Show and launched in December 2013. Built on the Mercedes MFA platform shared with the W176 A‑Class, W246 B‑Class, and C117 CLA, it offered the compact SUV equivalent of the A‑Class with a raised ride height and optional 4MATIC all-wheel drive. The engine range spanned from the 1.5-litre OM607 diesel to the fire‑breathing M133 in the GLA 45 AMG, with a facelift arriving in 2017.",
+    "keyFacts": "Platform: Mercedes MFA (shared with W176 A‑Class, W246 B‑Class, C117 CLA, X156 GLA) • Predecessor: none (new model line) • Successor: H247 (2019–present) • Sibling body styles in this generation: none (GLA is standalone compact SUV)",
+    "marketIntelligenceLine": "The X156 GLA generated 1,250+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM651 diesel as the most‑requested powertrain."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM651.930 (GLA 200 d / 220 d)",
+        "quote": "Mercedes' own 2.1‑litre diesel, first used in the B‑Class, is the pick of the X156 diesel range — smooth, torquey, and backed by a strong reliability record when serviced properly. The 220 d variant delivers 177 bhp with 350 Nm of torque.",
+        "whoItsFor": "buyers who want a modern, efficient diesel without the Renault‑sourced compromises."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M270.920 (GLA 250)",
+        "quote": "Mercedes' 2.0‑litre turbo petrol, delivering 211 bhp with a responsive character and strong torque. It's the enthusiast's choice in the X156 range.",
+        "whoItsFor": "buyers who want genuine performance from a compact SUV."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM607.951 (GLA 180 CDI / d)",
+        "quote": "The Renault‑sourced 1.5‑litre diesel is economical but lacks the refinement and long‑term durability of Mercedes' own OM651. It has known turbo and DPF issues, particularly on higher‑mileage examples.",
+        "whoItsFor": "buyers on a tight budget who prioritise low running costs over longevity."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M133.980 (GLA 45 AMG) — turbocharger and cooling system",
+        "quote": "The high‑output AMG engine demands meticulous maintenance; turbocharger failure due to oil feed line contamination has been the subject of a service campaign. Cooling system issues can also be costly if neglected.",
+        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M270.910 (GLA 200)",
+        "quote": "The 1.6‑litre turbo petrol offers the best balance of performance (156 bhp), economy, and reliability. It's the sweet spot in the X156 petrol range.",
+        "whoItsFor": "buyers who want a petrol without the AMG running costs."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M270.920 (GLA 250 4MATIC)",
+        "quote": "The 211 bhp 2.0‑litre with all‑wheel drive offers genuine year‑round capability. It's often overlooked in favour of the diesel but offers a better real‑world balance for UK weather.",
+        "whoItsFor": "buyers who need all‑weather traction without the top‑spec premium."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes GLA X156 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M270.910 (GLA 180/200)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Timing chain wear, valve fouling",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Good Value — cheap to run, watch for chain noise."
+      },
+      {
+        "engine": "M270.920 (GLA 250)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Water pump, coolant leaks",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£2,000–£4,200",
+        "ownershipVerdict": "Best Petrol — powerful and reliable."
+      },
+      {
+        "engine": "M133.980 (GLA 45 AMG)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Turbo wear, cooling system",
+        "repairCostSpecialist": "£800–£2,500",
+        "replacementCostRecon": "£3,500–£6,500",
+        "ownershipVerdict": "AMG Tax — high performance, high running costs."
+      },
+      {
+        "engine": "OM607.951 (GLA 180 CDI/d)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Turbo failure, DPF clogging",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,600–£3,000",
+        "ownershipVerdict": "Budget Diesel — economical but Renault‑sourced."
+      },
+      {
+        "engine": "OM651.930 (GLA 200 d/220 d)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector seal leaks (Black Death)",
+        "repairCostSpecialist": "£400–£1,200",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Best Diesel — efficient, durable, Mercedes‑developed."
+      }
+    ],
+    "economicsRule": {
+      "title": "The X156 rule",
+      "text": "A £2,800–£4,800 OM651 recon against a £5,000–£16,000 X156 sits at 18–96% of the car's value. On a sub‑£5,000 X156, that brushes our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well‑kept £10,000+ example, the same recon drops to a routine 28–48% — a repair decision, not a financial one. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which X156 Costs Least To Own?",
+        "answer": "GLA 200 d (OM651) — best balance of economy and reliability."
+      },
+      {
+        "question": "Which X156 Costs Most To Own?",
+        "answer": "GLA 45 AMG (M133) — high‑performance running costs add up."
+      },
+      {
+        "question": "Which X156 Is Best Value?",
+        "answer": "GLA 200 (M270.910) — the sweet spot in the petrol range."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM651 Injector Seal Leaks (Black Death)",
+        "affectedModels": "GLA 200 CDI / d, GLA 220 CDI / d (OM651)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The injector seals on the OM651 can fail, allowing combustion gases to escape past the injector. This creates a carbon buildup that sounds like a ticking noise and can eventually damage the cylinder head.",
+        "tieredCosts": [],
+        "recommendation": "If you hear a ticking noise from the engine bay, have the injector seals checked immediately — a £400–£1,000 repair is far cheaper than the £2,800–£4,800 replacement that follows if the head is damaged.",
+        "cta": {
+          "label": "Compare OM651 engine prices for your X156 diesel →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M270 Timing Chain Wear",
+        "affectedModels": "GLA 180, GLA 200, GLA 250 (M270)",
+        "typicalFailureMileage": "40,000–80,000 miles",
+        "rootCause": "The M270's timing chain tensioner can wear, leading to a rattling noise on cold start. In some cases, camshaft failure due to inadequately welded cams has been reported on certain model years.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of cold‑start rattle, have the timing chain inspected immediately — a £600–£1,200 preventative repair is dramatically cheaper than the £1,800–£3,500 replacement that follows if the chain fails.",
+        "cta": {
+          "label": "Compare M270 engine prices for your X156 petrol →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M133 Turbocharger Failure (AMG)",
+        "affectedModels": "GLA 45 AMG (M133)",
+        "typicalFailureMileage": "30,000–60,000 miles",
+        "rootCause": "The high‑output M133 turbocharger can suffer from oil feed line contamination, leading to premature turbo failure. Mercedes issued a service campaign to address this issue.",
+        "tieredCosts": [],
+        "recommendation": "On AMG models, stick to strict service intervals (every 6,000–8,000 miles) and use the correct high‑grade oil — an £800–£1,800 turbo rebuild is far cheaper than the £3,500–£6,500 replacement that follows a catastrophic failure.",
+        "cta": {
+          "label": "Compare M133 engine prices for your GLA 45 AMG →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "X156 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "GLA 180 / GLA 200",
+        "engineCode": "M270.910",
+        "usedSupply": "£800–£1,800",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "GLA 250 / GLA 250 4MATIC",
+        "engineCode": "M270.920",
+        "usedSupply": "£1,000–£2,200",
+        "reconditionedSupply": "£2,000–£4,200",
+        "rebuiltSupply": "£3,200–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "GLA 45 AMG 4MATIC",
+        "engineCode": "M133.980",
+        "usedSupply": "£2,000–£3,800",
+        "reconditionedSupply": "£3,500–£6,500",
+        "rebuiltSupply": "£5,000–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "GLA 180 CDI / d",
+        "engineCode": "OM607.951",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,600–£3,000",
+        "rebuiltSupply": "£2,500–£4,200",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "GLA 200 CDI / d / GLA 220 CDI / d",
+        "engineCode": "OM651.930",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Model Page's baseline figures — the X156 shares its MFA platform with the A‑Class (W176), B‑Class (W246), and CLA (C117), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "GLA 180 CDI / d",
+      "GLA 200 CDI / d",
+      "GLA 220 CDI / d"
+    ],
+    "petrolVariants": [
+      "GLA 180",
+      "GLA 200",
+      "GLA 250",
+      "GLA 250 4MATIC",
+      "GLA 45 AMG 4MATIC"
+    ],
+    "scopeNote": "All variants listed are X156 first‑generation GLA only. The GLA was a new model line in 2013, so there is no direct predecessor within the GLA nameplate."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

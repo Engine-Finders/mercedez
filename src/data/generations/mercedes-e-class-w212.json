@@ -1,0 +1,779 @@
+{
+  "meta": {
+    "slug": "mercedes-e-class-w212",
+    "title": "Mercedes E‑Class W212 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes E‑Class W212 • Saloon/Estate • 2009–2016",
+    "h1": "Mercedes E‑Class W212 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the fourth‑generation E‑Class — from the M271 and M274 turbo four‑cylinders to the V6 and V8 petrol range, the OM651 four‑cylinder diesel family and the OM642 V6 diesel. Real UK costs, honest failure data, and the 2013 facelift that brought new engines and improved efficiency. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "1,250+ W212 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon/Estate"
+      },
+      {
+        "icon": "📖",
+        "label": "12+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W212 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes E‑Class W212 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W212/S212 specifically — including the pre‑ and post‑facelift engine changes that define this generation's ownership story.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W212)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M271 DE18 LA",
+        "family": "M271",
+        "fuel": "Petrol, turbo I4",
+        "displacement": "1,796 cc",
+        "power": "184 PS (135 kW)",
+        "years": "2009–2013",
+        "variants": "E 200",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M271 DE18 LA",
+        "family": "M271",
+        "fuel": "Petrol, turbo I4",
+        "displacement": "1,796 cc",
+        "power": "204 PS (150 kW)",
+        "years": "2009–2013",
+        "variants": "E 250",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M274 DE20 LA",
+        "family": "M274",
+        "fuel": "Petrol, turbo I4",
+        "displacement": "1,991 cc",
+        "power": "184 PS (135 kW)",
+        "years": "2013–2016",
+        "variants": "E 200",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M274 DE20 LA",
+        "family": "M274",
+        "fuel": "Petrol, turbo I4",
+        "displacement": "1,991 cc",
+        "power": "211 PS (155 kW)",
+        "years": "2013–2016",
+        "variants": "E 250",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M272 KE30",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "2,996 cc",
+        "power": "231 PS (170 kW)",
+        "years": "2009–2011",
+        "variants": "E 300",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M272 KE35",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3,498 cc",
+        "power": "272 PS (200 kW)",
+        "years": "2009–2013",
+        "variants": "E 350",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M272 DE35",
+        "family": "M272",
+        "fuel": "Petrol, V6 (CGI)",
+        "displacement": "3,498 cc",
+        "power": "292 PS (215 kW)",
+        "years": "2009–2011",
+        "variants": "E 350 CGI",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M276 DE35",
+        "family": "M276",
+        "fuel": "Petrol, V6",
+        "displacement": "3,498 cc",
+        "power": "252–306 PS",
+        "years": "2011–2016",
+        "variants": "E 300, E 350",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M276 DE30AL",
+        "family": "M276",
+        "fuel": "Petrol, V6 biturbo",
+        "displacement": "2,996 cc",
+        "power": "333 PS (245 kW)",
+        "years": "2013–2014",
+        "variants": "E 400",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£5,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M273 KE55",
+        "family": "M273",
+        "fuel": "Petrol, V8",
+        "displacement": "5,461 cc",
+        "power": "388 PS (285 kW)",
+        "years": "2009–2011",
+        "variants": "E 500",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£6,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M278 DE46 LA",
+        "family": "M278",
+        "fuel": "Petrol, V8 biturbo",
+        "displacement": "4,663 cc",
+        "power": "408 PS (300 kW)",
+        "years": "2011–2016",
+        "variants": "E 500",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£7,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M156 E63",
+        "family": "M156",
+        "fuel": "Petrol, V8",
+        "displacement": "6,208 cc",
+        "power": "525 PS (386 kW)",
+        "years": "2009–2011",
+        "variants": "E 63 AMG",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,500–£10,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M157 DE55 LA",
+        "family": "M157",
+        "fuel": "Petrol, V8 biturbo",
+        "displacement": "5,461 cc",
+        "power": "525–585 PS",
+        "years": "2011–2016",
+        "variants": "E 63 AMG / S",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£12,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651 DE22 LA",
+        "family": "OM651",
+        "fuel": "Diesel, turbo I4",
+        "displacement": "2,143 cc",
+        "power": "136 PS (100 kW)",
+        "years": "2010–2016",
+        "variants": "E 200 CDI / BlueTEC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "1,250 [MB‑VERIFIED]",
+        "avgReconCost": "£1,800–£3,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651 DE22 LA",
+        "family": "OM651",
+        "fuel": "Diesel, turbo I4",
+        "displacement": "2,143 cc",
+        "power": "170 PS (125 kW)",
+        "years": "2009–2016",
+        "variants": "E 220 CDI / BlueTEC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "1,250 [MB‑VERIFIED]",
+        "avgReconCost": "£1,800–£3,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651 DE22 LA",
+        "family": "OM651",
+        "fuel": "Diesel, turbo I4",
+        "displacement": "2,143 cc",
+        "power": "204 PS (150 kW)",
+        "years": "2009–2014",
+        "variants": "E 250 CDI / BlueTEC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "1,250 [MB‑VERIFIED]",
+        "avgReconCost": "£2,000–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651 + electric",
+        "family": "OM651",
+        "fuel": "Diesel hybrid",
+        "displacement": "2,143 cc + 20 kW motor",
+        "power": "231 PS (170 kW)",
+        "years": "2012–2016",
+        "variants": "E 300 BlueTEC Hybrid",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM642 DE30 LA",
+        "family": "OM642",
+        "fuel": "Diesel, V6 turbo",
+        "displacement": "2,987 cc",
+        "power": "204 PS (150 kW)",
+        "years": "2009–2010",
+        "variants": "E 300 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM642 DE30 LA",
+        "family": "OM642",
+        "fuel": "Diesel, V6 turbo",
+        "displacement": "2,987 cc",
+        "power": "231–265 PS",
+        "years": "2009–2016",
+        "variants": "E 350 CDI / BlueTEC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB‑QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes E‑Class W212 — Overview",
+    "intro": "The W212 is the fourth‑generation E‑Class, launched in March 2009 as the successor to the W211. It introduced a more angular design language with quad‑headlights replaced by single‑lamp units, a longer wheelbase, and a range of new engines including the OM651 four‑cylinder diesel family. A major 2013 facelift brought significant styling changes, improved engines, and new safety features — reported to be the most significant mid‑cycle refresh Mercedes had ever undertaken. The W212 was succeeded by the W213 in 2016.",
+    "keyFacts": "Platform: W212 (Mercedes‑Benz fourth‑generation E‑Class platform) • Predecessor: W211 (third‑generation E‑Class) • Successor: W213 (fifth‑generation E‑Class) • Sibling body styles in this generation: S212 (estate), C207/A207 (coupé/convertible — based on W204 C‑Class platform)",
+    "marketIntelligenceLine": "The W212 E‑Class generated significant UK engine enquiry demand in 2025 [MB‑VERIFIED], concentrated on the OM651 diesel and M271/M274 petrol variants as these cars enter their second decade of service."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM651 (E 220 CDI / BlueTEC)",
+        "quote": "“The 2.1‑litre four‑cylinder diesel is the W212's most dependable engine — proven across millions of miles in taxi and fleet service, with genuine 200,000+ mile potential. The 170 PS version delivers effortless performance without the V6 diesel's higher running costs.” Who it’s for: Buyers who want diesel economy and six‑figure mileage potential.",
+        "whoItsFor": ""
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M274 (E 200 / E 250, 2013–2016)",
+        "quote": "“The 2.0‑litre turbo four is a significant improvement over the M271 — smoother, more efficient, and free of the older engine's camshaft adjuster issues. 211 PS in the E 250 is plenty for executive duties.” Who it’s for: Buyers who want a modern petrol E‑Class without V6 running costs.",
+        "whoItsFor": ""
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M272 V6 (E 300 / E 350 / E 350 CGI, 2009–2011)",
+        "quote": "“The M272's balance shaft sprocket wear is this generation's defining risk — a design flaw that can lead to catastrophic engine failure. Mercedes acknowledged the issue but didn't extend the warranty as widely as with later engines.” Who it’s for: Buyers who understand the risk and have documented balance shaft history.",
+        "whoItsFor": ""
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M156 (E 63 AMG, 2009–2011)",
+        "quote": "“The 6.2‑litre naturally aspirated V8 is a masterpiece — but punishing to repair. Head bolt failure, camshaft adjuster wear, and tappet issues are well‑documented. A full replacement runs well into five figures.” Who it’s for: AMG enthusiasts with deep pockets and full service history.",
+        "whoItsFor": ""
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM651 (E 220 CDI)",
+        "quote": "“The entry‑level diesel shares the same robust OM651 architecture as the more powerful versions — but costs less to buy and less to replace. Timing chain and injector seal maintenance are the only real demands.” Who it’s for: Buyers who want diesel economy on a tighter budget.",
+        "whoItsFor": ""
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M276 V6 (E 350, 2012–2016)",
+        "quote": "“Often overshadowed by the V8 models, the M276 V6 is actually the most refined petrol in the range — smoother than the M272, more reliable than the M156, and with 306 PS in the E 350, genuinely quick. It’s the sweet spot of the W212 petrol range.” Who it’s for: Buyers who want V6 refinement without AMG running costs.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes E‑Class W212 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M271 (E 200 / E 250, 2009–2013)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Camshaft adjuster / timing chain",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Watch — budget for camshaft work"
+      },
+      {
+        "engine": "M274 (E 200 / E 250, 2013–2016)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / injectors",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Solid Choice — improved over M271"
+      },
+      {
+        "engine": "M272 (E 300 / E 350, 2009–2011)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Balance shaft sprocket wear",
+        "repairCostSpecialist": "£1,500–£3,500",
+        "replacementCostRecon": "£2,000–£4,200",
+        "ownershipVerdict": "Risk vs Reward — budget for balance shaft"
+      },
+      {
+        "engine": "M276 (E 300 / E 350 / E 400)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / injectors",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£2,200–£5,000",
+        "ownershipVerdict": "Best Petrol — refined and reliable"
+      },
+      {
+        "engine": "M273 (E 500, 2009–2011)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Intake manifold / timing chain",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£3,000–£6,000",
+        "ownershipVerdict": "Solid Choice — robust V8"
+      },
+      {
+        "engine": "M278 (E 500, 2011–2016)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / turbo cooling",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£3,500–£7,000",
+        "ownershipVerdict": "Solid Choice — improved over M273"
+      },
+      {
+        "engine": "M156 (E 63 AMG, 2009–2011)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Head bolts / camshaft adjusters",
+        "repairCostSpecialist": "£2,000–£4,000",
+        "replacementCostRecon": "£5,500–£10,000",
+        "ownershipVerdict": "Most Expensive — fast but costly"
+      },
+      {
+        "engine": "M157 (E 63 AMG, 2011–2016)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Turbo / cooling system",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£5,000–£12,000",
+        "ownershipVerdict": "Improved — better than M156"
+      },
+      {
+        "engine": "OM651 (E 200/220/250 CDI)",
+        "typicalMileage": "80k–200k+",
+        "commonMajorFailure": "Timing chain / injector seals",
+        "repairCostSpecialist": "£400–£1,200",
+        "replacementCostRecon": "£1,800–£3,800",
+        "ownershipVerdict": "Best Diesel — proven and durable"
+      },
+      {
+        "engine": "OM642 (E 300/350 CDI)",
+        "typicalMileage": "80k–180k",
+        "commonMajorFailure": "Oil cooler seals / swirl flaps",
+        "repairCostSpecialist": "£500–£1,500",
+        "replacementCostRecon": "£2,500–£5,000",
+        "ownershipVerdict": "Solid Choice — robust V6 diesel"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W212 rule",
+      "text": "A £3,500 OM651 recon against a £6,000 W212 sits at 58% — that brushes our 70% Mercedes threshold. Against a tired £4,000 W212, the same recon is over 85% — walk away. A £4,500 M276 recon against a well‑kept £10,000 E 350 is 45% — a repair decision, not a financial one. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W212 Costs Least To Own?",
+        "answer": "OM651 (E 220 CDI) — cheap timing chain and injector seal maintenance, proven four‑cylinder diesel."
+      },
+      {
+        "question": "Which W212 Costs Most To Own?",
+        "answer": "M156 (E 63 AMG, 2009–2011) — head bolt failure, camshaft adjuster wear, and V8 complexity add up fast."
+      },
+      {
+        "question": "Which W212 Is Best Value?",
+        "answer": "M276 (E 350, 2012–2016) — V6 refinement without the M272's balance shaft anxiety or the AMG's running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M272 Balance Shaft Sprocket Wear (E 300 / E 350 / E 350 CGI, 2009–2011)",
+        "affectedModels": "W212 E 300, E 350, E 350 CGI (2009–2011).",
+        "typicalFailureMileage": "60,000–120,000 miles.",
+        "rootCause": "The M272 V6's balance shaft sprocket has a design flaw — the sprocket wears prematurely, causing timing chain slack, camshaft position sensor codes, and eventual engine failure if ignored. Mercedes acknowledged the issue but did not issue a recall.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£2,500–£4,500",
+            "specialist": "£1,500–£3,500",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£5,500–£8,500",
+            "specialist": "£3,000–£5,500",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your W212 E 350 develops a check engine light with camshaft position codes, get the balance shaft inspected immediately — a £1,500–£3,500 repair is dramatically cheaper than the £3,000–£5,500 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M272 engine prices for your W212 E 350 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM651 Timing Chain & Injector Seal Issues",
+        "affectedModels": "W212 E 200 CDI, E 220 CDI, E 250 CDI (2009–2016).",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The OM651 four‑cylinder diesel has two known issues — timing chain stretch (particularly on earlier examples) and injector seal failure (carbon buildup around injectors, causing the classic 'diesel knock' and loss of power).",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£800–£1,800",
+            "specialist": "£400–£1,200",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£3,500–£6,000",
+            "specialist": "£1,800–£3,800",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your W212 diesel develops a rattle on cold start or a tapping noise from the injector area, get it inspected immediately — a £400–£1,200 repair is far cheaper than the £1,800–£3,800 replacement that follows a failed chain or seized injector.",
+        "cta": {
+          "label": "Compare OM651 engine prices for your W212 E 220 CDI →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M156 Head Bolt Failure & Camshaft Adjuster Wear (E 63 AMG, 2009–2011)",
+        "affectedModels": "W212 E 63 AMG (2009–2011).",
+        "typicalFailureMileage": "30,000–60,000 miles.",
+        "rootCause": "The M156 V8 has two well‑documented issues — head bolt failure (the bolts can stretch or break, leading to coolant leaks and potential engine damage) and camshaft adjuster wear (causing a ticking noise on cold start and reduced performance).",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£2,500–£4,500",
+            "specialist": "£1,500–£3,500",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£8,000–£14,000",
+            "specialist": "£5,500–£10,000",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your W212 E 63 AMG develops a ticking noise on cold start or coolant loss, get the camshaft adjusters and head bolts inspected immediately — a £1,500–£3,500 repair is dramatically cheaper than the £5,500–£10,000 replacement that follows a failed head gasket or seized camshaft.",
+        "cta": {
+          "label": "Compare M156 engine prices for your W212 E 63 AMG →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "OM642 Oil Cooler Seal Leaks (E 300 CDI / E 350 CDI)",
+        "affectedModels": "W212 E 300 CDI, E 350 CDI (2009–2016).",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The OM642 V6 diesel's oil cooler seals degrade over time, causing oil leaks into the 'V' of the engine. This can lead to oil contamination of the engine bay, belt failure, and eventually engine damage if ignored.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£1,200–£2,200",
+            "specialist": "£600–£1,500",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£3,500–£6,000",
+            "specialist": "£2,500–£5,000",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your W212 diesel develops an oil smell or visible oil in the engine bay, get the oil cooler seals inspected immediately — a £600–£1,500 repair is far cheaper than the £2,500–£5,000 replacement that follows a neglected leak.",
+        "cta": {
+          "label": "Compare OM642 engine prices for your W212 E 350 CDI →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W212 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "E 200 (2009–2013)",
+        "engineCode": "M271 DE18 LA",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 250 (2009–2013)",
+        "engineCode": "M271 DE18 LA",
+        "usedSupply": "£800–£1,600",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 200 (2013–2016)",
+        "engineCode": "M274 DE20 LA",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 250 (2013–2016)",
+        "engineCode": "M274 DE20 LA",
+        "usedSupply": "£1,000–£2,000",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£3,000–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 300 (2009–2011)",
+        "engineCode": "M272 KE30",
+        "usedSupply": "£1,000–£2,200",
+        "reconditionedSupply": "£2,000–£3,800",
+        "rebuiltSupply": "£3,500–£6,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 350 (2009–2011)",
+        "engineCode": "M272 KE35",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,200–£4,000",
+        "rebuiltSupply": "£3,500–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 350 CGI (2009–2011)",
+        "engineCode": "M272 DE35",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,200–£4,200",
+        "rebuiltSupply": "£4,000–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 300 / E 350 (2011–2016)",
+        "engineCode": "M276 DE35",
+        "usedSupply": "£1,200–£2,800",
+        "reconditionedSupply": "£2,200–£4,500",
+        "rebuiltSupply": "£4,000–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 400 (2013–2014)",
+        "engineCode": "M276 DE30AL",
+        "usedSupply": "£1,500–£3,000",
+        "reconditionedSupply": "£2,500–£5,000",
+        "rebuiltSupply": "£4,500–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 500 (2009–2011)",
+        "engineCode": "M273 KE55",
+        "usedSupply": "£1,800–£3,500",
+        "reconditionedSupply": "£3,000–£6,000",
+        "rebuiltSupply": "£5,500–£9,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 500 (2011–2016)",
+        "engineCode": "M278 DE46 LA",
+        "usedSupply": "£2,000–£4,000",
+        "reconditionedSupply": "£3,500–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "E 63 AMG (2009–2011)",
+        "engineCode": "M156 E63",
+        "usedSupply": "£3,500–£6,000",
+        "reconditionedSupply": "£5,500–£10,000",
+        "rebuiltSupply": "£9,000–£15,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "E 63 AMG / S (2011–2016)",
+        "engineCode": "M157 DE55 LA",
+        "usedSupply": "£3,000–£6,000",
+        "reconditionedSupply": "£5,000–£12,000",
+        "rebuiltSupply": "£8,000–£16,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "E 200 CDI / BlueTEC",
+        "engineCode": "OM651 DE22 LA",
+        "usedSupply": "£800–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 220 CDI / BlueTEC",
+        "engineCode": "OM651 DE22 LA",
+        "usedSupply": "£900–£2,000",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£3,000–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 250 CDI / BlueTEC",
+        "engineCode": "OM651 DE22 LA",
+        "usedSupply": "£1,000–£2,200",
+        "reconditionedSupply": "£2,000–£3,800",
+        "rebuiltSupply": "£3,500–£6,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "E 300 BlueTEC Hybrid",
+        "engineCode": "OM651 + electric",
+        "usedSupply": "£1,500–£3,000",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 300 CDI (2009–2010)",
+        "engineCode": "OM642 DE30 LA",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "E 350 CDI / BlueTEC",
+        "engineCode": "OM642 DE30 LA",
+        "usedSupply": "£1,500–£3,000",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£8,000",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Engine Page baseline figures — W212 saloon and S212 estate share identical engine‑bay access, so costs are inherited directly per the Authority Model, with no divergence note required."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "E 200 CDI",
+      "E 200 BlueTEC",
+      "E 220 CDI",
+      "E 220 BlueTEC",
+      "E 250 CDI",
+      "E 250 BlueTEC",
+      "E 300 BlueTEC Hybrid",
+      "E 300 CDI",
+      "E 350 CDI",
+      "E 350 BlueTEC"
+    ],
+    "petrolVariants": [
+      "E 200",
+      "E 250",
+      "E 300",
+      "E 350",
+      "E 350 CGI",
+      "E 400",
+      "E 500",
+      "E 63 AMG",
+      "E 63 AMG S"
+    ],
+    "scopeNote": "All variants listed are W212 saloon and S212 estate only. C207/A207 coupé and convertible are based on the W204 C‑Class platform and share some engines but are covered on their own Generation Pages."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

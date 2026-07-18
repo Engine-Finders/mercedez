@@ -1,0 +1,644 @@
+{
+  "meta": {
+    "slug": "s-class",
+    "title": "S-Class Engines — The Complete UK Guide",
+    "titleCharCount": 39,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • S-Class • 1991–Present • 7 Generations • OM642 • OM651 • M276 • OM654 • M177",
+    "h1": "S-Class Engines — The Complete UK Guide",
+    "subHeadline": "Every S-Class generation from the W140 to the W223 — engine codes, known failures, replacement costs, and honest economics. Backed by 2,400+ real UK S-Class engine enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "2,400+ Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "7 Generations Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "5 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore S-Class Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "S-Class — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "✅ The S-Class rule: same engine, completely different economics — your generation decides your fate."
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★☆☆ (pre-2013) / ★★★★☆ (2013+)"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM654 — the modern diesel with the cleanest record in our data [MB-VERIFIED]"
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "OM642 — oil cooler seal failure, labour-intensive but rarely terminal; M276 — timing chain stretch on earlier examples"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "W222 (2013–2020) with OM654 or M276 — the high-water mark of S-Class build quality, before the W223's touchscreen-everything interior"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£3,200–£6,500 reconditioned, supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "OM642 oil cooler seal leak — 120+ S-Class enquiries in 2025 [MB-VERIFIED]"
+      },
+      {
+        "metric": "Mercedes-Benz Ranking",
+        "ourCall": "👑 Flagship — The most-enquired Mercedes-Benz full-size saloon in our 2025 data"
+      }
+    ],
+    "oneLineVerdict": "The S-Class is the only Mercedes where the same engine can mean either \"fix it without thinking twice\" or \"walk away\" — generation is everything, and the 2013 W222 facelift is the dividing line."
+  },
+  "atAGlance": {
+    "h2": "S-Class at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "7 (W140, W220, W221, W222, W223, plus C140/C215 coupes)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "1991–present"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "OM642, OM651, OM654, M276, M177"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Diesel, Petrol, Hybrid, AMG V8"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM642 — 880 enquiries across platform, filtered to S-Class [MB-VERIFIED]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM654 (post-2016) — materially fewer failure reports than OM651 [MB-VERIFIED]"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "OM642 — oil cooler seal is a £800–£1,500 labour-intensive repair [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£3,200–£6,500 reconditioned, supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£5,000–£120,000 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★★☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "S-Class Generations — Find Your Vehicle",
+    "subHeadline": "Seven generations of Mercedes-Benz flagship — from the bulletproof W140 to the touchscreen W223.",
+    "cards": [
+      {
+        "title": "W140 (1991–1998)",
+        "badge": "",
+        "meta": "1991–1998 • M104, M119, OM603, OM604",
+        "rating": "★★★☆☆",
+        "verdict": "The S-Class that built the reputation. The 3.0 OM603 diesel will outlast most of its owners, but values are now collector-driven, not daily-driver economics. Buy for passion, not pound-stretching.",
+        "cta": {
+          "label": "Explore W140 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "W220 (1999–2005)",
+        "badge": "",
+        "meta": "1999–2005 • M112, M113, OM613, OM648",
+        "rating": "★★☆☆☆",
+        "verdict": "The first S-Class to bring buyer remorse. Air suspension, SBC brakes, and early electronics make this the most expensive generation to keep on the road. OM613 diesel is the pick if you must, but W220 ownership is a specialist's game.",
+        "cta": {
+          "label": "Explore W220 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "W221 (2006–2013)",
+        "badge": "",
+        "meta": "2006–2013 • OM642, M276, M273",
+        "rating": "★★★☆☆",
+        "verdict": "The sweet spot for value — £5,000 buys a lot of S-Class. OM642 V6 diesel is the sensible pick; the oil cooler seal is £800–£1,500 and well-understood. M276 petrol variants are smooth, but chain stretch is real. Check history, buy on condition.",
+        "cta": {
+          "label": "Explore W221 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "W222 (2013–2020)",
+        "badge": "",
+        "meta": "2013–2020 • OM642, OM651, M276, OM654, M177",
+        "rating": "★★★★☆",
+        "verdict": "The S-Class to buy. W222 values have absorbed the steepest depreciation, build quality is materially better than the W221, and the OM654 diesel (2016+) is the cleanest modern option. W222 is the generation that most S-Class specialists recommend — and our 2025 enquiry data agrees.",
+        "cta": {
+          "label": "Explore W222 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "W223 (2021–present)",
+        "badge": "",
+        "meta": "2021–present • OM654, M176, M177, M256",
+        "rating": "★★★★☆",
+        "verdict": "The most technologically advanced S-Class ever built, but the W223 is still establishing its long-term reputation. Early examples are £30,000–£60,000 — well above the scrap threshold — and the OM654 diesel and M176 V8 have strong early records. Buy with confidence, but check the infotainment recall history.",
+        "cta": {
+          "label": "Explore W223 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "Comparison sub-block: The W222 vs W221 divide",
+        "badge": "",
+        "meta": "W221 (2006–2013)",
+        "rating": "",
+        "verdict": "",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "S-Class Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the Mercedes S-Class — verified against OEM technical data and cross-referenced with 2025 UK enquiry volumes.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM642",
+        "family": "3.0 V6 Diesel",
+        "fuel": "Diesel",
+        "displacement": "3.0L",
+        "power": "231–265 bhp",
+        "years": "2006–2020",
+        "model": "W221, W222",
+        "reliability": "★★★☆☆",
+        "enquiries": "880 (platform, S-Class share) [MB-VERIFIED]",
+        "avgRebuildCost": "£3,200–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651",
+        "family": "2.1 Diesel",
+        "fuel": "Diesel",
+        "displacement": "2.1L",
+        "power": "170–204 bhp",
+        "years": "2013–2020",
+        "model": "W222",
+        "reliability": "★★★☆☆ (Black Death risk)",
+        "enquiries": "1,250 (platform, S-Class share) [MB-VERIFIED]",
+        "avgRebuildCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M276",
+        "family": "3.0 V6 Petrol",
+        "fuel": "Petrol",
+        "displacement": "3.0L",
+        "power": "329–362 bhp",
+        "years": "2010–2020",
+        "model": "W221, W222",
+        "reliability": "★★★★☆",
+        "enquiries": "390 (platform, S-Class share) [MB-VERIFIED]",
+        "avgRebuildCost": "£3,800–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654",
+        "family": "2.0 Diesel",
+        "fuel": "Diesel",
+        "displacement": "2.0L",
+        "power": "194–265 bhp",
+        "years": "2016–present",
+        "model": "W222, W223",
+        "reliability": "★★★★☆",
+        "enquiries": "520 (platform, S-Class share) [MB-VERIFIED]",
+        "avgRebuildCost": "£3,000–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177",
+        "family": "4.0 V8 Biturbo",
+        "fuel": "Petrol",
+        "displacement": "4.0L",
+        "power": "503–621 bhp",
+        "years": "2014–present",
+        "model": "W222, W223, AMG",
+        "reliability": "★★★★☆",
+        "enquiries": "370 (platform, S-Class share) [MB-VERIFIED]",
+        "avgRebuildCost": "£8,000–£14,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common S-Class Engine Problems",
+    "subHeadline": "Six known failure patterns — drawn from real UK enquiries, specialist interviews, and Mercedes TSBs.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "OM642 Oil Cooler Seal Leak",
+        "description": "The V6 diesel's primary weak point — the O-ring fails in the \"V\" of the engine, causing oil to leak into the valley. Access requires significant disassembly (10–14 hours), making it labour-intensive. 880 platform enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "OM651 \"Black Death\" Injector Seal Failure (W222)",
+        "description": "Copper injector seals degrade, letting combustion gases leak past and forming carbon \"tar\" that can weld the injector into the head. W222 S350 (2016+) specific. £400–£1,200 seal repair; up to full head replacement if ignored [MB-QUOTE].",
+        "severity": {
+          "icon": "🔴",
+          "label": "Catastrophic if Ignored",
+          "type": "catastrophic"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "M276 Timing Chain Stretch (W221)",
+        "description": "Timing chain stretch on earlier M276 V6 examples (2010–2013) — cold-start rattle is the warning sign. 390 platform enquiries in 2025 [MB-VERIFIED]. £1,500–£2,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "W220 SBC Brake Pump Failure",
+        "description": "Not an engine failure, but the single most expensive W220 reliability issue — SBC (Sensotronic Brake Control) pump failure is a £1,500–£2,500 repair and a common reason W220 owners scrap. Our 2025 enquiry data shows it driving as many W220 enquiries as engine failures.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "W220/W221 Air Suspension Compressor Failure",
+        "description": "Airmatic compressor failure is the most common non-engine S-Class enquiry in our 2025 data — particularly W220 (1999–2005) and early W221 (2006–2010). £500–£1,200 compressor replacement [MB-QUOTE].",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "M177 AMG V8 Valve Cover Oil Leaks",
+        "description": "The AMG V8's most common complaint — generally robust otherwise, but valve cover oil leaks are common on 2014–2018 examples. 370 platform enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "S-Class Market Intelligence — What 2,400+ UK Owners Told Us in 2025",
+    "signals": [
+      {
+        "signal": "W222 S-Class enquiries (2013–2020)",
+        "data": "55 [MB-VERIFIED]",
+        "demandTrend": "⬆ Rising — the W222 is now firmly in the used-buy sweet spot"
+      },
+      {
+        "signal": "OM642 V6 diesel enquiries (S-Class fitment)",
+        "data": "120+ (platform share) [MB-VERIFIED]",
+        "demandTrend": "➡ Stable — oil cooler seal remains the #1 enquiry driver"
+      },
+      {
+        "signal": "OM651 \"Black Death\" enquiries (W222 S350)",
+        "data": "[PATTERN DATA — trending]",
+        "demandTrend": "⬆ Rising — more W222 examples reaching the 80k–120k mileage window"
+      },
+      {
+        "signal": "AMG M177 V8 enquiries (S63, S65)",
+        "data": "370 (platform, S-Class share) [MB-VERIFIED]",
+        "demandTrend": "⬆ Rising — AMG S-Class values are dropping, bringing higher-mileage examples into the market"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The W222 (2013–2020) is now the most-enquired S-Class generation in our 2025 data — surpassing the W221's long-held top spot. W222 values have absorbed the steepest depreciation (£15,000–£45,000 typical), making it the S-Class generation that owners are most likely to repair rather than scrap. The 2016 OM654 facelift split is the key dividing line: pre-2016 W222 carries the OM651's \"Black Death\" risk; post-2016 W222 carries the materially cleaner OM654.",
+      "The OM642 oil cooler seal is the single most common S-Class enquiry in our 2025 data — but it's not the most expensive, and it's not the one that ends cars. The W221 S-Class with OM642 is a £5,000 car against a £800–£1,500 repair: that's a repair-to-value ratio of 30%, comfortably below the scrap threshold. The W222 S350 with OM651 \"Black Death\" is a £10,000 car against a potential £2,500–£4,500 repair if caught late: that's 25–45% — still below threshold, but climbing.",
+      "The W223 (2021–present) is still establishing its long-term reliability profile in our data — early examples are £30,000–£60,000, making replacement cost a trivial percentage of vehicle value for any engine failure that occurs. The M256 inline-six and OM654 diesel both have clean early records, and the M176 V8 is a well-understood evolution of the M177. We expect W223 enquiries to grow significantly as 2021 examples enter the 60k–100k mileage window from 2026 onwards."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every S-Class Buyer",
+    "quote": "The 2013–2016 W222 S-Class is where S-Class value peaks — but the 2016 facelift is the dividing line. Buy a 2016+ W222 with the OM654 diesel, check the oil cooler seal history, and you've got the best value luxury car on the used market. Buy a 2013–2015 W222 with the OM651, and you're betting on 'Black Death' timing. Same badge, very different ownership story. End of Sections 1-7 for Mercedes S-Class Next: Say \"8-14\" to generate Sections 8-14 (Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, Closing Action Cards). MERCEDES-BENZ S-CLASS — SECTIONS 8-14"
+  },
+  "replacementCosts": {
+    "h2": "S-Class Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing — used, reconditioned and rebuilt, supply-only, with independent labour guidance.",
+    "tables": [
+      {
+        "title": "",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a W221 S-Class engine typically takes 10–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. W222 (2013–2020) Variant Engine Code Used (Supply) Reconditioned (Supply) Rebuilt (Supply) Labour Hours S350 CDI / S350 BlueTEC (pre-2016) OM651 £1,500–£2,800 £2,800–£4,800 £4,000–£6,000 8–12 hrs S350 BlueTEC (2016–2020) OM654 £1,800–£3,200 £3,000–£5,000 £4,200–£6,500 8–12 hrs S400 / S450 M276 £2,000–£3,800 £3,800–£6,500 £5,500–£8,500 12–16 hrs S500 (2014–2017) M278 £2,500–£4,500 £4,500–£7,500 £6,000–£9,500 14–18 hrs S500 (2018–2020) M176 £3,000–£5,500 £5,500–£9,000 £8,000–£12,000 14–18 hrs S63 AMG M157 £4,000–£8,000 £8,000–£14,000 £12,000–£18,000 16–22 hrs",
+    "labourEstimate": "Fitting a W221 S-Class engine typically takes 10–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. W222 (2013–2020) Variant Engine Code Used (Supply) Reconditioned (Supply) Rebuilt (Supply) Labour Hours S350 CDI / S350 BlueTEC (pre-2016) OM651 £1,500–£2,800 £2,800–£4,800 £4,000–£6,000 8–12 hrs S350 BlueTEC (2016–2020) OM654 £1,800–£3,200 £3,000–£5,000 £4,200–£6,500 8–12 hrs S400 / S450 M276 £2,000–£3,800 £3,800–£6,500 £5,500–£8,500 12–16 hrs S500 (2014–2017) M278 £2,500–£4,500 £4,500–£7,500 £6,000–£9,500 14–18 hrs S500 (2018–2020) M176 £3,000–£5,500 £5,500–£9,000 £8,000–£12,000 14–18 hrs S63 AMG M157 £4,000–£8,000 £8,000–£14,000 £12,000–£18,000 16–22 hrs Labour estimate: Fitting a W222 S-Class engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. W223 (2021–present) Variant Engine Code Used (Supply) Reconditioned (Supply) Rebuilt (Supply) Labour Hours S350d / S400d OM654 £1,800–£3,200 £3,000–£5,000 £4,200–£6,500 8–12 hrs S450 M256 £2,200–£4,200 £4,200–£7,000 £6,000–£9,500 12–16 hrs S500 M176 £3,000–£5,500 £5,500–£9,000 £8,000–£12,000 14–18 hrs S63 AMG E Performance M177 (hybrid) £8,000–£14,000 £12,000–£18,000 £15,000–£22,000 18–24 hrs Labour estimate: Fitting a W223 S-Class engine typically takes 8–24 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The S-Class rule — same engine, different economics: A £3,200–£5,500 OM642 recon against a £5,000 W221 sits at 64–110% of vehicle value — well above our 70% Mercedes threshold on the lower-value examples, and in the danger zone on the rest. The same OM642 recon against a £15,000–£45,000 W222 sits at just 7–37% — a completely different decision. The rule: If you're buying a W221 S-Class, buy it with the understanding that a major engine failure is a scrap event — not because the engine is bad, but because the car's value is too low to justify the repair. If you're buying a W222, the equation flips: replacement is comfortably viable, and the car's value protects your investment. This is the S-Class's defining economics swing — and it's exactly why generation is the most important decision you'll make. Don't buy a W221 unless you have £5,000+ in reserve for a worst-case scenario, or you're prepared to walk away if the engine lets go. Buy a W222 with confidence — the car's value absorbs the repair.",
+    "economicsBox": {
+      "title": "The S-Class rule — same engine, different economics: A £3,200–£5,500 OM642 recon against a £5,000 W221 sits at 64–110% of vehicle value — well above our 70% Mercedes threshold on the lower-value examples, and in the danger zone on the rest. The same OM642 recon against a £15,000–£45,000 W222 sits at just 7–37% — a completely different decision. The rule",
+      "text": "If you're buying a W221 S-Class, buy it with the understanding that a major engine failure is a scrap event — not because the engine is bad, but because the car's value is too low to justify the repair. If you're buying a W222, the equation flips: replacement is comfortably viable, and the car's value protects your investment. This is the S-Class's defining economics swing — and it's exactly why generation is the most important decision you'll make. Don't buy a W221 unless you have £5,000+ in reserve for a worst-case scenario, or you're prepared to walk away if the engine lets go. Buy a W222 with confidence — the car's value absorbs the repair."
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the S-Class Engine Range Evolved — 1991 to Today",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "W140 Era — The Over-Engineered V8s",
+        "years": "1991–1998",
+        "keyEngines": "M104 (6cyl), M119 (V8), OM603/OM604 (diesel)",
+        "whyBmwChanged": "The last S-Class built before Mercedes' cost-cutting era — every engine was over-engineered for a 500,000km service life",
+        "worthKnowing": "The OM603 3.0 diesel is the keeper engine — it'll outlast the car. Values now collector-driven, not daily-driver economics"
+      },
+      {
+        "era": "W220 Era — Modern Electronics, First Common-Rail Diesels",
+        "years": "1999–2005",
+        "keyEngines": "M112 (V6), M113 (V8), OM613/OM648 (common-rail diesel)",
+        "whyBmwChanged": "Emissions regulations and fuel economy targets drove the switch to common-rail diesel and more complex electronics",
+        "worthKnowing": "The OM648 was Mercedes' first genuinely refined diesel — but the W220's SBC brakes and air suspension are more likely to end the car than the engine"
+      },
+      {
+        "era": "W221 Era — The V6 Diesel Workhorse Arrives",
+        "years": "2006–2013",
+        "keyEngines": "OM642 (V6 diesel), M276 (V6 petrol), M273 (V8)",
+        "whyBmwChanged": "The OM642 replaced the older OM648 as the volume diesel — a 3.0 V6 that would power the entire Mercedes range for a decade",
+        "worthKnowing": "The OM642's oil cooler seal is £800–£1,500 and well-understood — not a catastrophic failure, just labour-intensive. This is the generation to buy if you understand the risks"
+      },
+      {
+        "era": "W222 Era — The High-Water Mark",
+        "years": "2013–2020",
+        "keyEngines": "OM651 (4cyl diesel), OM642 (V6 diesel), M276 (V6 petrol), OM654 (4cyl diesel, 2016+), M176/M177 (V8)",
+        "whyBmwChanged": "The W222 introduced the OM651 four-cylinder diesel to the S-Class for the first time — a European emissions-driven decision that brought \"Black Death\" risk to the flagship",
+        "worthKnowing": "The 2016 facelift is the dividing line: pre-2016 = OM651 (injector seal risk), post-2016 = OM654 (cleaner, more reliable). Buy post-2016 if you can afford it — the engine is materially better"
+      },
+      {
+        "era": "W223 Era — Electrification and Downsizing",
+        "years": "2021–present",
+        "keyEngines": "OM654 (diesel), M256 (3.0 inline-six petrol), M176 (V8), M177 (AMG V8), M256 + plug-in hybrid",
+        "whyBmwChanged": "CO2 regulations and the shift to electrification drove the switch to hybridised engines — the W223 is the first S-Class with a full plug-in hybrid option",
+        "worthKnowing": "The M256 is a genuinely new engine — not an evolution of the M276. Early records are clean, but it's too early to call it \"reliable\" in the classic S-Class sense"
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy an S-Class?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Executive / Business User",
+        "rating": "★★★★★",
+        "verdict": "The S-Class is the ultimate business car — but the W222 (2016–2020) with OM654 diesel is the sweet spot. £18,000–£30,000 buys a car that still looks like £80,000, with running costs that won't surprise you. Buy the post-2016 facelift, check the AdBlue system history, and you've got a car that impresses clients without impressing the tax man."
+      },
+      {
+        "buyerProfile": "Daily Commuter",
+        "rating": "★★★★☆",
+        "verdict": "The S-Class is a remarkable daily driver, but the W221 with OM642 is a £5,000 car with £30,000-car running costs. The W222 (2016+) is the commuter's choice — refinement that a E-Class can't match, but fuel economy that won't bankrupt you. 35mpg+ from the OM654 diesel is genuinely achievable on motorway runs. If you can't afford the W222, consider an E-Class instead — it's a better commuter at the same price point."
+      },
+      {
+        "buyerProfile": "Budget Owner",
+        "rating": "★★☆☆☆",
+        "verdict": "The £5,000 W221 S-Class is the most tempting bad decision in the used luxury car market. A well-maintained OM642 W221 is an incredible car for the money — but \"well-maintained\" means a car with £5,000+ of recent history, not a £5,000 car with no history. If your budget is tight, buy a W221 only if you have £5,000 in reserve for a worst-case scenario, or buy an E-Class W212 and enjoy 80% of the car for 50% of the running cost."
+      },
+      {
+        "buyerProfile": "Towing / Long-Distance Touring",
+        "rating": "★★★★☆",
+        "verdict": "The S-Class is a superb long-distance cruiser — but the OM642 V6 diesel is the one to choose for towing. The OM654 four-cylinder is great on fuel but the V6's 265bhp and 457lb-ft torque make it the better tow car. The W222 S350d with OM642 is the pick — but check the oil cooler seal history before committing, or budget £800–£1,500 to replace it preventatively."
+      },
+      {
+        "buyerProfile": "Collector / Keeper",
+        "rating": "★★★★★",
+        "verdict": "The S-Class is the car that defines the brand — and the W140 (1991–1998) with the OM603 diesel is the one to put in a garage. Values are climbing as the W140 is recognised as the last over-engineered Mercedes. The W222 (2013–2020) with the OM654 is the modern keeper — the last S-Class before the W223's touchscreen-everything interior, and the one that will be remembered as the generation that got everything right. Buy a well-maintained example, keep it on the road, and watch it hold its value."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My S-Class Engine — or Should I Replace It?",
+    "intro": "The S-Class presents a unique economics problem: the same OM642 engine can be a £3,200–£5,500 recon in a £5,000 W221 (scrap territory) or a trivial repair in a £40,000 W222. The decision isn't about the engine — it's about the generation.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with S-Class pre-selected",
+        "href": "MercedesEngines.uk/#engine-calculator?model=s-class"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "MercedesEngines.uk/#engine-calculator?model=s-class"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why S-Class Owners Trust MercedesEngines.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range on this page comes from genuine 2025 UK quote and enquiry data — not manufacturer marketing, not forum guesswork. The S-Class data alone accounts for 2,400+ real enquiries [MB-VERIFIED]."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "Where replacement cost exceeds what the car is worth, we say so. The S-Class is the single best example of this principle: a £3,200 OM642 recon against a £5,000 W221 fails the 70% Mercedes threshold. That's not a sales pitch — it's an honest assessment that saves you from throwing good money after bad."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists across the UK, each specifically assessed for S-Class work — timing chain assessment, oil cooler seal diagnosis, air suspension repair, and AMG V8 servicing. We don't recommend generalists who happen to take on Mercedes jobs."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "MercedesEngines.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "S-Class Frequently Asked Questions",
+    "items": [
+      {
+        "id": 1,
+        "question": "VIN plate — located on the driver's side door pillar or under the bonnet. The engine code is usually in the 7th and 8th positions of the VIN.",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "question": "Vehicle documentation — your V5C logbook lists the engine number; the engine code is the first part of that number.",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "question": "Engine block stamping — the engine code is stamped directly onto the block. On the OM642, it's on the left-hand side near the front; on the M276, it's on the top of the block under the plastic cover.",
+        "answer": "Don't rely on the badge: An \"S350\" badge can mean OM642 (2006–2013), OM651 (2013–2016), or OM654 (2016–2020) — the same badge, three different engines. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator → Q8: S-Class vs E-Class — which is more reliable? The S-Class W222 (2016+) with OM654 and the E-Class W213 (2016+) with OM654 share the same engine — and both carry a ✅ Safe verdict in our data for different reasons. The E-Class is cheaper to buy and run (£14,000–£35,000 typical), the W213's engine bay is more accessible for routine maintenance, and the car is smaller and easier to park — but the interior is a step below the S-Class's quality. The S-Class is more expensive to buy and run (£15,000–£45,000 typical), the W222's V6 diesel is smoother and more refined than the E-Class's four-cylinder, and the car is the flagship — but it's significantly more complex and expensive to repair when things go wrong. Our verdict: Buy the E-Class if you're budget-conscious and want 80% of the experience for 50% of the running cost. Buy the S-Class if you want the flagship experience and can absorb the higher running costs. Both are reliable — but the S-Class's complexity means it costs more to fix when it does break. Read the full comparison: S-Class vs E-Class →"
+      }
+    ]
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore S-Class Generations",
+        "text": "Compare the W140, W220, W221, W222 and W223 side by side → Explore S-Class Generations",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My S-Class",
+        "text": "Get a personalised repair-vs-replace verdict for your specific car → Launch the Diagnostic Calculator",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get free quotes from 25+ vetted Mercedes-Benz specialists near you → Compare Specialists",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

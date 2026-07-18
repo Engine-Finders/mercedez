@@ -1,137 +1,142 @@
 [
   {
-    "slug": "2002",
+    "slug": "vario",
     "type": "models",
-    "dataFile": "2002"
+    "dataFile": "vario"
   },
   {
-    "slug": "bmw-2002",
+    "slug": "vaneo",
     "type": "models",
-    "dataFile": "bmw-2002"
+    "dataFile": "vaneo"
   },
   {
-    "slug": "1-series",
+    "slug": "citan",
     "type": "models",
-    "dataFile": "1-series"
+    "dataFile": "citan"
   },
   {
-    "slug": "2-series",
+    "slug": "viano",
     "type": "models",
-    "dataFile": "2-series"
+    "dataFile": "viano"
   },
   {
-    "slug": "3-series",
+    "slug": "v-class",
     "type": "models",
-    "dataFile": "3-series"
+    "dataFile": "v-class"
   },
   {
-    "slug": "4-series",
+    "slug": "vito",
     "type": "models",
-    "dataFile": "4-series"
+    "dataFile": "vito"
   },
   {
-    "slug": "5-series",
+    "slug": "sprinter",
     "type": "models",
-    "dataFile": "5-series"
+    "dataFile": "sprinter"
   },
   {
-    "slug": "6-series",
+    "slug": "amg-gt",
     "type": "models",
-    "dataFile": "6-series"
+    "dataFile": "amg-gt"
   },
   {
-    "slug": "7-series",
+    "slug": "sls-amg",
     "type": "models",
-    "dataFile": "7-series"
+    "dataFile": "sls-amg"
   },
   {
-    "slug": "8-series",
+    "slug": "slk-slc",
     "type": "models",
-    "dataFile": "8-series"
+    "dataFile": "slk-slc"
   },
   {
-    "slug": "i-series-electric-motors",
+    "slug": "sl",
     "type": "models",
-    "dataFile": "i-series-electric-motors"
+    "dataFile": "sl"
   },
   {
-    "slug": "m1",
+    "slug": "r-class",
     "type": "models",
-    "dataFile": "m1"
+    "dataFile": "r-class"
   },
   {
-    "slug": "m2",
+    "slug": "m-class",
     "type": "models",
-    "dataFile": "m2"
+    "dataFile": "m-class"
   },
   {
-    "slug": "m3",
+    "slug": "gls",
     "type": "models",
-    "dataFile": "m3"
+    "dataFile": "gls"
   },
   {
-    "slug": "m4",
+    "slug": "glk",
     "type": "models",
-    "dataFile": "m4"
+    "dataFile": "glk"
   },
   {
-    "slug": "m5",
+    "slug": "gle",
     "type": "models",
-    "dataFile": "m5"
+    "dataFile": "gle"
   },
   {
-    "slug": "m6",
+    "slug": "glc",
     "type": "models",
-    "dataFile": "m6"
+    "dataFile": "glc"
   },
   {
-    "slug": "m8",
+    "slug": "gla",
     "type": "models",
-    "dataFile": "m8"
+    "dataFile": "gla"
   },
   {
-    "slug": "x1",
+    "slug": "g-class",
     "type": "models",
-    "dataFile": "x1"
+    "dataFile": "g-class"
   },
   {
-    "slug": "x2",
+    "slug": "s-class",
     "type": "models",
-    "dataFile": "x2"
+    "dataFile": "s-class"
   },
   {
-    "slug": "x3",
+    "slug": "e-class",
     "type": "models",
-    "dataFile": "x3"
+    "dataFile": "e-class"
   },
   {
-    "slug": "x4",
+    "slug": "cls",
     "type": "models",
-    "dataFile": "x4"
+    "dataFile": "cls"
   },
   {
-    "slug": "x5",
+    "slug": "clc-class",
     "type": "models",
-    "dataFile": "x5"
+    "dataFile": "clc-class"
   },
   {
-    "slug": "x6",
+    "slug": "clk",
     "type": "models",
-    "dataFile": "x6"
+    "dataFile": "clk"
   },
   {
-    "slug": "x7",
+    "slug": "c-class",
     "type": "models",
-    "dataFile": "x7"
+    "dataFile": "c-class"
   },
   {
-    "slug": "xm",
+    "slug": "cla",
     "type": "models",
-    "dataFile": "xm"
+    "dataFile": "cla"
   },
   {
-    "slug": "z-series",
+    "slug": "b-class",
     "type": "models",
-    "dataFile": "z-series"
+    "dataFile": "b-class"
+  },
+  {
+    "slug": "a-class",
+    "type": "models",
+    "dataFile": "a-class"
   }
 ]

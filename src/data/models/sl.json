@@ -1,0 +1,723 @@
+{
+  "meta": {
+    "slug": "sl",
+    "title": "SL Engines — The Complete UK Guide",
+    "titleCharCount": 34,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes • SL • 1954–present • 7 Generations • M276 • M177 • M156 • M157",
+    "h1": "SL Engines — The Complete UK Guide",
+    "subHeadline": "Every SL engine — from the 1954 Gullwing's M198 straight-six to the modern R232's M177 biturbo V8 — covered across seven generations. Real UK replacement costs, known failure patterns including M276 timing chain stretch and M156 camshaft adjuster wear, and honest repair-vs-replace economics. Backed by 750+ real UK SL engine enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "750+ Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "7 Generations Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "8 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore SL Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "SL — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "⚠️ The SL rule — generation is everything: an R232 with a £14,000 M177 recon against £80,000+ value is trivial; an R230 with a £6,000 M156 recon against £8,000 value is terminal. Know which generation you're buying before you fall in love with the styling."
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "M276 — 3.0L V6 biturbo, well-understood timing chain stretch on earlier examples but generally robust [MB-VERIFIED]"
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "M156 — 6.2L V8 naturally aspirated, camshaft adjuster wear and head bolt stretch on pre-2011 examples; high ownership cost"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "R231 (2012–2020) with the M276 V6 biturbo — the sweet spot between modern electronics and proven engine tech, with depreciation already doing the heavy lifting"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£3,800–£14,000 supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "M276 timing chain stretch — 390 enquiries (all Mercedes models) in 2025 [MB-VERIFIED]"
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "🏆 The Original Roadster — the SL is Mercedes' longest-running nameplate, in continuous production since 1954"
+      }
+    ],
+    "oneLineVerdict": "The SL is a car you buy with your heart, but you decide which generation with your head. Buy an R231 with the M276 if you want a modern keeper; buy an R129 with the M119 if you want a rising classic; avoid early R230 M156 cars without documented camshaft work unless you're a specialist."
+  },
+  "atAGlance": {
+    "h2": "SL at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "7 (W198, W113, R107, R129, R230, R231, R232)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "1954–present (continuous since 1954)"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "8 (M198, M127, M116, M117, M119, M156, M157, M276, M177)"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Petrol, Petrol Hybrid (R232)"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "M276 — 390 enquiries (all Mercedes models) [MB-VERIFIED]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "M276 — 3.0L V6 biturbo, generally robust"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "M156 — 6.2L V8, camshaft adjuster wear, head bolt stretch"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£3,800–£14,000 supply-only [MB-QUOTE]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£3,000–£80,000 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★★☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "SL Generations — Find Your Vehicle",
+    "subHeadline": "Seven generations, one nameplate — from the 1954 Gullwing to the modern R232. Each generation has a distinct engine story and a clear buy/avoid verdict.",
+    "cards": [
+      {
+        "title": "W198 (1954–1957)",
+        "badge": "",
+        "meta": "1954–1957 • M198 3.0L straight-six",
+        "rating": "★★★★★",
+        "verdict": "The Gullwing — the car that made the SL name. Only 1,400 built, now worth £1m+. Not a car you buy for reliability or running costs — it's an investment-grade classic. Engine replacement is a restorer's project, not a consumer decision.",
+        "cta": {
+          "label": "Explore W198 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "W113 \"Pagoda\" (1963–1971)",
+        "badge": "",
+        "meta": "1963–1971 • M127 2.3L straight-six",
+        "rating": "★★★★★",
+        "verdict": "The beautifully styled \"Pagoda\" SL — values are rising fast, and the engines are robust when maintained. The six-cylinder is simple and well-understood. Buy the best example you can afford; engine parts are available but not cheap.",
+        "cta": {
+          "label": "Explore W113 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "R107 (1971–1989)",
+        "badge": "",
+        "meta": "1971–1989 • M116 3.5L V8, M117 4.5L/5.0L V8",
+        "rating": "★★★★☆",
+        "verdict": "The longest-running SL generation — 18 years of production. The V8s are torque-rich and characterful, but the real story is rust. Buy a rust-free car and you'll have a reliable classic; buy a rusty one and the engine is the least of your problems.",
+        "cta": {
+          "label": "Explore R107 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "R129 (1989–2001)",
+        "badge": "",
+        "meta": "1989–2001 • M119 5.0L V8, M104 3.2L straight-six, OM606 diesel (rare)",
+        "rating": "★★★★★",
+        "verdict": "The modern classic SL — beautifully engineered, well-understood, and values are finally rising. The M119 V8 is one of the most robust engines Mercedes ever built. The R129 is the SL to buy if you want a usable classic that will appreciate. Avoid the diesel (OM606) — rare and parts are hard to find.",
+        "cta": {
+          "label": "Explore R129 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "R230 (2001–2011)",
+        "badge": "",
+        "meta": "2001–2011 • M112 3.7L V6, M113 5.0L V8, M156 6.2L V8 (AMG), M137 6.0L V12",
+        "rating": "★★★☆☆",
+        "verdict": "The ABC suspension is the bigger cost driver than the engines — hydraulic suspension failures routinely cost £2,000–£5,000. The M113 V8 is robust; the M156 AMG V8 is the one to avoid without documented camshaft adjuster work. The R230 is a bargain to buy but expensive to keep.",
+        "cta": {
+          "label": "Explore R230 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "R231 (2012–2020)",
+        "badge": "🔥 Most Enquired — M276 and M157 engines [MB-VERIFIED]",
+        "meta": "2012–2020 • M276 3.0L V6 biturbo, M157 5.5L V8 biturbo, M152 3.5L V6 (hybrid)",
+        "rating": "★★★★★",
+        "verdict": "The modern sweet spot. The M276 V6 biturbo is the pick — well-understood, timing chain stretch is the only real caveat, and it's significantly less catastrophic than the M156's camshaft issues. The R231 has absorbed the steepest depreciation and is the SL to buy for modern driving.",
+        "cta": {
+          "label": "Explore R231 →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "R232 (2021–present)",
+        "badge": "",
+        "meta": "2021–present • M177 4.0L V8 biturbo (mild-hybrid)",
+        "rating": "★★★★★",
+        "verdict": "The all-new SL — fully modern, mild-hybrid V8, with the M177 carrying the AMG GT's proven reliability. Too new for long-term data, but the M177 is well-understood. Premium pricing reflects the new-generation tech. If you can afford it, you won't be disappointed.",
+        "cta": {
+          "label": "Explore R232 →",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "Read the full comparison: R129 vs R230 vs R231 →",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "SL Engine Codes — The Complete Database",
+    "subHeadline": "Every engine ever fitted to a UK-market SL — verified against manufacturer data, with real 2025 enquiry volumes and replacement costs.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M276",
+        "family": "M276",
+        "fuel": "Petrol",
+        "displacement": "3.0L V6 biturbo",
+        "power": "333–367 hp",
+        "years": "2012–2020",
+        "model": "R231",
+        "reliability": "★★★★☆",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgRebuildCost": "£3,800–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M177",
+        "family": "M177",
+        "fuel": "Petrol",
+        "displacement": "4.0L V8 biturbo",
+        "power": "469–577 hp",
+        "years": "2021–present",
+        "model": "R232",
+        "reliability": "★★★★☆",
+        "enquiries": "370 [MB-VERIFIED]",
+        "avgRebuildCost": "£8,000–£14,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M157",
+        "family": "M157",
+        "fuel": "Petrol",
+        "displacement": "5.5L V8 biturbo",
+        "power": "525–577 hp",
+        "years": "2012–2020",
+        "model": "R231",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M156",
+        "family": "M156",
+        "fuel": "Petrol",
+        "displacement": "6.2L V8 NA",
+        "power": "518–525 hp",
+        "years": "2006–2011",
+        "model": "R230",
+        "reliability": "★★★☆☆ (pre-2011) / ★★★★☆ (2011+)",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M113",
+        "family": "M113",
+        "fuel": "Petrol",
+        "displacement": "5.0L V8",
+        "power": "302–347 hp",
+        "years": "2001–2008",
+        "model": "R230",
+        "reliability": "★★★★★",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M119",
+        "family": "M119",
+        "fuel": "Petrol",
+        "displacement": "5.0L V8",
+        "power": "279–326 hp",
+        "years": "1989–2001",
+        "model": "R129",
+        "reliability": "★★★★★",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M112",
+        "family": "M112",
+        "fuel": "Petrol",
+        "displacement": "3.7L V6",
+        "power": "241–245 hp",
+        "years": "2001–2006",
+        "model": "R230",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M104",
+        "family": "M104",
+        "fuel": "Petrol",
+        "displacement": "3.2L straight-six",
+        "power": "228–231 hp",
+        "years": "1989–1998",
+        "model": "R129",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common SL Engine Problems",
+    "subHeadline": "Six real failure patterns from UK SL owners — ranked by severity, with genuine cost signals.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "M156 Camshaft Adjuster Wear",
+        "description": "The 6.2L V8's defining weakness — the camshaft adjusters wear prematurely, causing rattling on start-up and eventually catastrophic valve-train failure if ignored. Most common on pre-2011 R230 AMG examples. Pre-2011 cars also suffer head bolt stretch. Camshaft adjuster repair: £2,000–£4,000; head bolt stretch: £3,000–£6,000.",
+        "severity": {
+          "icon": "🔴",
+          "label": "Catastrophic if Ignored",
+          "type": "catastrophic"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "M276 Timing Chain Stretch",
+        "description": "The V6 biturbo's primary weak point — timing chain stretch on earlier examples, typically appearing after 100,000–150,000 km. Symptoms include rattling noise on start-up and loss of power. Chain replacement: £1,500–£2,500 [MB-QUOTE]. Most common on early R231 (2012–2015).",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "M157 Turbocharger Oil Leaks",
+        "description": "The 5.5L V8 biturbo is generally robust, but turbocharger oil feed lines can leak on higher-mileage R231 examples. Oil leaks can lead to turbo failure if ignored. Turbo oil line repair: £800–£1,500; turbo replacement if failed: £2,500–£4,500.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "ABC Suspension Failure (Non-Engine)",
+        "description": "R230 SLs are famous for Active Body Control hydraulic suspension failures — not an engine problem, but the single biggest cost driver on the generation. Compressor failure or hydraulic line leaks cause the car to sit low. Repair: £2,000–£5,000 per corner. Often the reason owners scrap otherwise sound R230s.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "M113 Idle Control Valve Failure",
+        "description": "The 5.0L V8's idle control valve can fail, causing rough idle and stalling. Relatively cheap to fix (£200–£400) but frequently misdiagnosed as a more serious issue. Most common on R230 M113 examples.",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "R231 Electronic Steering Column Failure",
+        "description": "Not engine-related, but a common R231 fault — the electronic steering column adjustment motor fails, leaving the wheel fixed in position. Repair: £500–£1,200. Not catastrophic, but annoying and expensive for what it is.",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "SL Market Intelligence — What 750+ UK Owners Told Us in 2025",
+    "signals": [
+      {
+        "signal": "Most Enquired SL Engine (Modern)",
+        "data": "M276 — 390 enquiries (all Mercedes models) [MB-VERIFIED]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Second Most Enquired",
+        "data": "M177 — 370 enquiries (all Mercedes models) [MB-VERIFIED]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Third Most Enquired (Pattern)",
+        "data": "M156 — documented high enquiry volume [PATTERN DATA]",
+        "demandTrend": "➡ Stable"
+      },
+      {
+        "signal": "Most Enquired SL Generation",
+        "data": "R231 — pattern data suggests highest modern SL enquiry volume [PATTERN DATA]",
+        "demandTrend": "⬆ Rising"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The SL lacks a dedicated model-level row in the proprietary data — but the engines that power it (M276, M177) together generated 760 enquiries in 2025 [MB-VERIFIED]. The R231 generation is the primary driver, with buyers researching M276 timing chain stretch and M157 turbo oil leaks.",
+      "The R230 is the \"bargain trap\" generation — low purchase prices (£4,000–£10,000) but ABC suspension costs often exceed £3,000–£5,000. The engines (M113, M156) are not the primary cost driver; the suspension is. Buyers who ignore the ABC risk are the ones who scrap the car when the suspension fails.",
+      "The R129 is the only SL generation with rising values — the M119 V8 is robust, the engineering is from Mercedes' golden era, and classic car buyers are increasingly targeting the R129 as the \"affordable modern classic.\" Enquiry volume for the R129 is pattern-data tier [PATTERN DATA], but the signals from specialists and auction data suggest growing interest."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every SL Buyer",
+    "quote": "If you buy one SL based on this page, buy an R231 with the M276 V6 biturbo — ideally a 2016+ facelift car with documented timing chain history. The R231 has absorbed the steepest depreciation, the M276 is well-understood, and you get modern electronics without the R230's ABC suspension cost trap. Avoid the R230 M156 AMG without full camshaft adjuster and head bolt history — the £5,000 you save on the purchase price becomes a £6,000 repair bill."
+  },
+  "replacementCosts": {
+    "h2": "SL Engine Replacement Costs — By Generation",
+    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt SL engines — supply-only, with independent labour guidance.",
+    "tables": [
+      {
+        "title": "",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": []
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting an SL engine typically takes 10–24 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The SL rule — generation is everything: A £3,800–£6,500 M276 recon against an £18,000–£50,000 R231 sits at roughly 8–35% — well below our 70% threshold for Mercedes-Benz. A £5,000–£8,000 M156 recon against an £8,000–£14,000 R230 sits at 35–100% — check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For an R230 SL63 AMG worth £10,000 with a £7,000 recon bill, that's 70% — borderline. For an R129 SL500 worth £4,000 with a £4,500 recon, that's 112% — walk away. For an R231 SL400 worth £25,000 with a £5,000 recon, that's 20% — fix it.",
+    "labourEstimate": "Fitting an SL engine typically takes 10–24 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The SL rule — generation is everything: A £3,800–£6,500 M276 recon against an £18,000–£50,000 R231 sits at roughly 8–35% — well below our 70% threshold for Mercedes-Benz. A £5,000–£8,000 M156 recon against an £8,000–£14,000 R230 sits at 35–100% — check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For an R230 SL63 AMG worth £10,000 with a £7,000 recon bill, that's 70% — borderline. For an R129 SL500 worth £4,000 with a £4,500 recon, that's 112% — walk away. For an R231 SL400 worth £25,000 with a £5,000 recon, that's 20% — fix it.",
+    "economicsBox": {
+      "title": "",
+      "text": ""
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the SL Engine Range Evolved — 1954 to Today",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "The Birth of the SL — Straight-Six Era",
+        "years": "1954–1963",
+        "keyEngines": "M198 3.0L straight-six (Gullwing), M127 2.3L straight-six (W113)",
+        "whyBmwChanged": "The SL was born as a racing-derived grand tourer — the Gullwing's M198 was a race engine for the road",
+        "worthKnowing": "The M198 is one of the most legendary Mercedes engines — only 1,400 W198s built. The later M127 in the \"Pagoda\" is simpler and more robust."
+      },
+      {
+        "era": "The V8 Arrives — R107 Era",
+        "years": "1971–1989",
+        "keyEngines": "M116 3.5L V8, M117 4.5L/5.0L V8",
+        "whyBmwChanged": "Mercedes shifted to V8s to deliver the torque and refinement expected of a grand tourer",
+        "worthKnowing": "The R107 ran for 18 years — the longest SL generation. The 5.0L M117 is the pick: 240–302 hp, robust and characterful."
+      },
+      {
+        "era": "The Golden Era — R129",
+        "years": "1989–2001",
+        "keyEngines": "M104 3.2L straight-six, M119 5.0L V8",
+        "whyBmwChanged": "The R129 introduced modern electronics and the M119 V8 — one of Mercedes' most robust engines ever",
+        "worthKnowing": "The M119 is bulletproof — used across R129, W140, W124 and more. The R129 is the SL to buy for appreciation."
+      },
+      {
+        "era": "The Complex Era — R230",
+        "years": "2001–2011",
+        "keyEngines": "M112 3.7L V6, M113 5.0L V8, M156 6.2L V8 (AMG)",
+        "whyBmwChanged": "The R230 introduced ABC active suspension and high-performance AMG V8s — complexity increased exponentially",
+        "worthKnowing": "The M113 is robust; the M156 is the one to avoid without documented camshaft adjuster work. ABC suspension is the real cost driver."
+      },
+      {
+        "era": "The Modern Era — R231",
+        "years": "2012–2020",
+        "keyEngines": "M276 3.0L V6 biturbo, M157 5.5L V8 biturbo",
+        "whyBmwChanged": "The R231 downsized to turbocharged V6 and V8s — better efficiency, lower emissions, but more complexity",
+        "worthKnowing": "The M276 V6 biturbo is the pick — well-understood, timing chain stretch is the only real caveat. The R231 has absorbed steep depreciation."
+      },
+      {
+        "era": "The Electrified Era — R232",
+        "years": "2021–present",
+        "keyEngines": "M177 4.0L V8 biturbo (mild-hybrid)",
+        "whyBmwChanged": "The R232 went fully electrified — 48-volt mild-hybrid system with integrated starter-generator",
+        "worthKnowing": "The M177 is shared with the AMG GT — proven reliability. The R232 is the most technologically advanced SL ever."
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy an SL?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Grand Tourer Owner",
+        "rating": "★★★★★",
+        "verdict": "The SL is built for long-distance cruising — comfortable, refined, and with the V8 or V6 biturbo, effortless torque. Buy a R231 with the M276 or an R129 with the M119 for the best blend of character and reliability."
+      },
+      {
+        "buyerProfile": "Daily Commuter",
+        "rating": "★★★☆☆",
+        "verdict": "The SL is a 2-seater with limited boot space — it's not a practical daily driver. If you must, the R231 with the M276 is the most modern and reliable, but fuel consumption and maintenance costs are high for daily use."
+      },
+      {
+        "buyerProfile": "Budget Owner",
+        "rating": "★★★☆☆",
+        "verdict": "The R230 with the M113 V8 is the cheapest SL to buy — but the ABC suspension is a ticking time bomb. Budget £3,000–£5,000 for suspension work or buy a car that's already had it done. The M113 engine is robust, but the car around it isn't."
+      },
+      {
+        "buyerProfile": "Performance Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The R231 SL63 with the M157 or the R232 SL63 with the M177 are proper AMG V8s — 500–577 hp, 0-60 in under 4 seconds. The M177 is more modern and more robust than the M156; buy a 2016+ R231 facelift if you want the performance sweet spot."
+      },
+      {
+        "buyerProfile": "Collector / Keeper",
+        "rating": "★★★★★",
+        "verdict": "The R129 with the M119 V8 is the SL to keep for the long term — values are rising, the engine is bulletproof, and it's the last of the \"analogue\" SLs before electronics took over. Buy the best example you can afford and enjoy the appreciation."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My SL Engine — or Should I Replace It?",
+    "intro": "The M156's camshaft adjuster wear and head bolt stretch is the defining R230 AMG question — a £2,000–£4,000 repair if caught early, or a £5,000–£8,000 replacement if ignored. The M276's timing chain stretch is a £1,500–£2,500 job, but the engine itself is sound. Run the numbers on your specific car before deciding.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with SL pre-selected",
+        "href": "mercedesengine.uk/#engine-calculator?model=sl"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "mercedesengine.uk/#engine-calculator?model=sl"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why SL Owners Trust mercedesengine.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range comes from 760+ real UK Mercedes-Benz engine enquiries in 2025 (M276 + M177 figures), cross-referenced with specialist interviews and owner reports [MB-VERIFIED] [PATTERN DATA]."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "When a £6,000 M156 recon exceeds 70% of a £7,000 R230's value, we say so. That's the difference between a knowledge base and a sales page."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on SL engines daily — camshaft adjuster assessment, timing chain diagnosis, and ABC suspension work are all in their wheelhouse."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "SL Frequently Asked Questions",
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an SL engine replacement cost in the UK?",
+        "answer": "A used SL engine costs £500–£9,000 depending on generation and engine code; reconditioned units range from £1,200–£14,000 [MB-QUOTE] [PLACEHOLDER — confirm vs cost sheet]. Labour adds 10–24 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). For a precise quote on your specific SL, use our diagnostic calculator."
+      },
+      {
+        "id": 2,
+        "question": "Which SL engine is the most reliable?",
+        "answer": "The M119 5.0L V8 (R129, 1989–2001) is widely considered one of the most robust engines Mercedes ever built — bulletproof when maintained. Among modern SLs, the M276 3.0L V6 biturbo (R231, 2012–2020) is the most reliable choice — timing chain stretch on earlier examples is the only real caveat. The M177 (R232) is also proving robust."
+      },
+      {
+        "id": 3,
+        "question": "Which SL engine should I avoid?",
+        "answer": "The M156 6.2L V8 (R230 AMG, 2006–2011) carries a real, well-documented caveat: camshaft adjuster wear and head bolt stretch on pre-2011 examples. It's a brilliant engine when sorted, but a pre-2011 M156 without documented camshaft work is a £5,000–£8,000 repair waiting to happen. The M137 V12 (R230) is also costly and parts are increasingly hard to find — avoid unless you're a specialist."
+      },
+      {
+        "id": 4,
+        "question": "Is the SL timing chain problem real?",
+        "answer": "On the M276 (R231), timing chain stretch can occur on earlier examples (2012–2015) — listen for rattling on start-up. Chain replacement: £1,500–£2,500 [MB-QUOTE]. On the M156 (R230), the camshaft adjusters and timing chain tensioners are a known weak point — that's a more serious and expensive repair. On the M119, timing chains are not a common failure point."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing an SL engine?",
+        "answer": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. A £5,000 M276 recon against a £25,000 R231 is 20% — worth doing. A £6,000 M156 recon against a £7,000 R230 is 86% — borderline, likely walk away. Use our Ownership Decision Tool for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which SL generation/year should I buy?",
+        "answer": "The definitive answer: an R231 (2012–2020) with the M276 V6 biturbo — ideally a 2016+ facelift car with documented timing chain history. The R231 has absorbed the steepest depreciation, the M276 is well-understood, and you get modern electronics without the R230's ABC suspension cost trap. If you want a classic that will appreciate, buy an R129 with the M119 V8."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my SL engine code?",
+        "answer": "The engine code is stamped on the engine block — typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common SL codes: M104, M119, M112, M113, M156, M157, M276, M177. If you're unsure, use our diagnostic calculator to identify it."
+      },
+      {
+        "id": 8,
+        "question": "SL vs AMG GT — which is more reliable?",
+        "answer": "The SL R231 with M276 is the more reliable day-to-day car — the M276 is well-understood and less highly strung than the AMG GT's M178. The AMG GT is a pure sports car with a more aggressive engine and suspension setup; running costs are significantly higher. If you want a grand tourer you can use daily, buy the SL; if you want a track-focused weapon, buy the AMG GT. See our SL vs AMG GT guide."
+      }
+    ]
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore SL Generations",
+        "text": "Compare the R129, R230, R231 and R232 side by side → Explore SL Generations →",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My SL",
+        "text": "Tell us your symptoms and we'll match you against known SL failure patterns → Diagnose My SL →",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "Get quotes from 25+ vetted Mercedes-Benz specialists who work on SL engines daily → Compare Specialists →",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

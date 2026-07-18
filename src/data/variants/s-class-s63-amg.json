@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "slug": "s-class-s63-amg",
+    "title": "S63 AMG Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 48,
+    "description": "Mercedes S-Class S63 AMG — M156, M157 & M177 V8. Real UK costs, head bolt & oil leak watchpoints. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "canonical": "https://mercedesengine.uk/s-class/s63-amg/",
+    "openGraph": {
+      "title": "S63 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes S-Class S63 AMG — M156, M157 & M177 V8. Real UK costs, head bolt & oil leak watchpoints. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/s-class/s63-amg/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/s-class-s63-amg.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "S63 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes S-Class S63 AMG — M156, M157 & M177 V8. Real UK costs, head bolt & oil leak watchpoints.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/s-class-s63-amg.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S-Class",
+              "item": "https://mercedesengine.uk/s-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "S-Class W221",
+              "item": "https://mercedesengine.uk/s-class/w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "S63 AMG",
+              "item": "https://mercedesengine.uk/s-class/s63-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes S-Class S63 AMG Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W221 S63 AMG (M156, 2006–2010)",
+              "url": "https://mercedesengine.uk/s-class/w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W221 S63 AMG (M157, 2011–2013)",
+              "url": "https://mercedesengine.uk/s-class/w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W222 S63 AMG (M157, 2014–2017)",
+              "url": "https://mercedesengine.uk/s-class/w222/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "W222 S63 AMG (M177, 2018–2020)",
+              "url": "https://mercedesengine.uk/s-class/w222/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "W223 S63 AMG (M177, 2021–present)",
+              "url": "https://mercedesengine.uk/s-class/w223/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes S-Class S63 AMG Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M156 (6.2 V8)",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M157 (5.5 V8 twin-turbo)",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M177 (4.0 V8 twin-turbo MHEV)",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes S‑Class S63 AMG engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M156 V8 typically costs £5,500–£8,500 supply only; the M157 costs £6,500–£11,000; and the M177 costs £7,500–£13,500. A used M156 engine costs on average £5,614. A used M157 engine with transmission can cost around £3,570. Fitting adds £1,500–£2,500. A rear main seal repair on the M177 can cost up to £7,000. Use our calculator for a figure specific to your S63 AMG."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes S63 AMG engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends which generation your S63 is. The W221's M156 (2006–2010) is a legendary naturally aspirated V8 but has head bolt and camshaft weaknesses. The M157 twin‑turbo (2011–2017) is more powerful but has oil leak and timing chain watchpoints. The M177 (2018+) is considered the more reliable of the three, but oil separator and rear main seal leaks are common. Check the Era Map above for your specific car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the S63 AMG engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "M156 (W221 2006–2010): head bolt failure, camshaft wear, oil leaks. M157 (W221 2011–2013 & W222 2014–2017): oil leaks, timing chain wear, cylinder scoring. M177 (W222 2018–2020 & W223 2021+): oil separator failure → rear main seal leaks, software glitches, cooling system issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an S63 AMG engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value and generation. A W221 S63 AMG is a £10,000–£25,000 vehicle — a £6,000–£7,000 recon is 24–70% of the car's value. A W222 S63 AMG is a £20,000–£45,000 vehicle — a £7,500–£9,000 recon is 17–45% of the car's value. A W223 S63 AMG is a £40,000–£80,000+ vehicle — a £9,000–£11,000 recon is 11–28% of the car's value, making replacement a clear decision. Evaluate carefully based on your car's generation and condition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes S63 AMG engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. The S63 AMG covers M156 (W221, 2006–2010), M157 (W221 2011–2013 & W222 2014–2017), and M177 (W222 2018–2020 & W223 2021+). Tell us your registration date and we'll confirm which one you have for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I prevent the common failures on an S63 AMG?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On M156: have the head bolts replaced with upgraded units — this is the single most important investment you can make. Listen for ticking from the engine — camshaft wear indicator. On M157: regular oil changes with Mercedes‑approved oil and shortened intervals (5,000–7,500 miles) are essential. On M177: have the oil separator inspected at 40,000–60,000 miles — replacing it early prevents expensive rear main seal leaks. At the first sign of coolant loss, ticking, cold‑start rattle or oil leaks, book an inspection immediately."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes S-Class S63 AMG Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "3500",
+            "highPrice": "13500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes S-Class S63 AMG UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes S-Class S63 AMG engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "S63 AMG Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/s-class/s63-amg/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes S‑Class S63 AMG • 2006–present • M156 / M157 / M177",
+    "h1": "Mercedes S‑Class S63 AMG Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "The S63 AMG is the performance flagship of the S‑Class range — from the M156 6.2‑litre naturally aspirated V8 through to the M177 4.0‑litre twin‑turbo V8 with mild‑hybrid assistance. Get quotes from trusted UK specialists today.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes S63 AMG Engines — from £3,500 to £13,500 · M156 / M157 / M177",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free S63 AMG Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The S63 AMG THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes S‑Class S63 AMG Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£3,500–£6,000",
+        "fittedIndie": "£4,800–£7,800",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower‑mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£6,000–£10,500",
+        "fittedIndie": "£7,500–£12,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£8,000–£13,500",
+        "fittedIndie": "£9,500–£15,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£12,000–£18,000 (where available)",
+        "fittedIndie": "£13,800–£20,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the range across all generations; specific costs vary by era — see the Era Map above. A replacement M156 engine costs on average £5,614. A used M157 engine with transmission can cost around £3,570. A rear main seal repair on the M177 can cost up to £7,000.",
+    "labourEstimate": "Fitting an S63 AMG engine typically takes 16–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). The twin‑turbo V8's hot‑vee layout requires significant disassembly.",
+    "cta": {
+      "label": "→ Compare S63 AMG engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Head Bolt Failure (M156 — W221, 2006–2010)",
+        "symptoms": "Coolant loss, overheating, white smoke from exhaust, rough idle, engine warning light, external coolant leaks.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£2,000–£5,000 (head bolt replacement with upgraded bolts)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£5,500–£8,500 (full engine replacement if head lifts and causes extensive damage)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you notice coolant loss or overheating, stop driving and book an inspection today"
+        },
+        "recommendation": "The M156's head bolts are the most significant weakness — the bolts can stretch or break, allowing the cylinder head to lift and coolant to leak. If left unaddressed, the engine can suffer catastrophic failure. Mercedes‑Benz issued a technical service bulletin for this issue. If you own an M156 S63 AMG, checking for head bolt issues is essential. Upgraded head bolts are available as a permanent fix. At the first sign of coolant loss or overheating, have the engine inspected immediately.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/head-bolt-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Oil Vapor Separator Failure → Rear Main Seal Leak (M177 — W222 2018–2020 & W223 2021+)",
+        "symptoms": "Oil spots under the vehicle, burning oil smell, oil residue on the engine, low oil pressure warning, oil consumption.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£1,200–£7,000 (oil separator replacement, rear main seal)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£7,500–£13,500 (full engine replacement if oil starvation causes damage)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if you notice oil spots or burning smell"
+        },
+        "recommendation": "The M177's oil separator is a known weak point — if it fails, it can cause excessive crankcase pressure, leading to rear main seal (RMS) leaks. Some owners have reported $7,000 repairs for this issue. If you notice oil spots or a burning smell, have the engine inspected immediately — addressing the oil separator early prevents expensive RMS replacement.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/oil-leak/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Camshaft Wear (M156 — W221, 2006–2010)",
+        "symptoms": "Ticking noise from the engine when cold, reduced power output, poor fuel economy, engine warning light.",
+        "typicalMileage": "60,000–100,000 miles",
+        "repairCost": "£2,500–£5,000 (camshaft and lifter replacement)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£5,500–£8,500 (full engine replacement if damage is extensive)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if you hear ticking from the engine"
+        },
+        "recommendation": "Premature wear of the camshaft lobes is a common problem with the M156 engine. This issue often manifests as a ticking noise from the engine. The primary cause is inadequate lubrication, often due to oil starvation or sludge buildup. Regular oil changes with high‑quality synthetic oil are essential to prevent camshaft wear. If you hear a ticking noise, have the camshafts and lifters inspected immediately.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/camshaft-wear/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every S63 AMG engine covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free S63 AMG Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "S63 AMG — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Head bolt failure (M156)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£2,000–£5,000",
+          "whenItMakesSense": "Install upgraded bolts — permanent fix"
+        },
+        {
+          "problem": "Oil separator / RMS leak (M177)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,200–£7,000",
+          "whenItMakesSense": "Replace oil separator early — prevents expensive RMS failure"
+        },
+        {
+          "problem": "Camshaft wear (M156)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£2,500–£5,000",
+          "whenItMakesSense": "Catch it early — before cam lobes are scored"
+        },
+        {
+          "problem": "Timing chain wear (M157)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£4,000",
+          "whenItMakesSense": "Catch it early — before chain snaps"
+        },
+        {
+          "problem": "Severe engine damage (scoring / chain snap)",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Little left to salvage — replacement is the only option"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This S63 AMG? Check These First",
+      "buyIf": [
+        "* M156 (W221 2006–2010): head bolts replaced with upgraded units — no ticking from the engine",
+        "* M157 (W221 2011–2013 & W222 2014–2017): no cold‑start rattle — timing chain in good condition",
+        "* M177 (W222 2018–2020 & W223 2021+): no oil leaks — oil separator and rear main seal in good condition",
+        "* Full Mercedes‑AMG service history with regular oil changes"
+      ],
+      "avoidIf": [
+        "* M156: coolant loss with no diagnosis — head bolts may be failing — walk away",
+        "* M156: ticking from the engine — camshaft wear may be present",
+        "* M157: cold‑start rattle with no chain history — timing chain issues likely",
+        "* M177: oil spots under the vehicle — oil separator or rear main seal may be failing",
+        "* Poor service history — AMG V8s are sensitive to neglect"
+      ]
+    },
+    "closingVerdict": "The S63 AMG is the performance flagship of the S‑Class range — a 525–612 hp V8 with genuine supercar‑rivalling performance. The W221's M156 is a legendary naturally aspirated V8 but has head bolt and camshaft weaknesses. The M157 twin‑turbo V8 is more powerful but has oil leak and timing chain watchpoints. The M177 is the most modern and reliable but has oil separator and rear main seal issues. Buy on full service history, check for coolant loss (M156), cold‑start rattle (M157) and oil leaks (M177), and never ignore a warning light. A well‑maintained S63 AMG is a thrilling, long‑lived flagship; a neglected one is a £10,000+ bill waiting to happen.",
+    "cta": {
+      "label": "→ Compare S63 AMG engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes S‑Class S63 AMG (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattling (M157 timing chain) or ticking (M156 camshaft wear)",
+      "* Coolant Level (M156) — Check for unexplained loss; head bolt failure indicator",
+      "* Oil Leaks (M177) — Check under the car and around the engine; oil separator / RMS leaks",
+      "* Service History — including which generation (W221/W222/W223) and confirmed oil‑change intervals",
+      "* Head Bolt History (M156) — Check if upgraded bolts installed",
+      "* Timing Chain History (M157) — Check if chain inspected or replaced",
+      "* Oil Consumption — Does it use more than 1L per 1,000 miles?",
+      "* MOT History — Check for emissions‑related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M156 (6.2 V8 NA)",
+        "years": "2006–2010",
+        "power": "525 hp (386 kW) @ 6,800 rpm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,500–£8,500【PLACEHOLDER】"
+      },
+      {
+        "engineCode": "M157 (5.5 V8 twin‑turbo)",
+        "years": "2011–2017",
+        "power": "544–585 hp (400–430 kW) @ 5,500 rpm; 800–900 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,500–£11,000【PLACEHOLDER】"
+      },
+      {
+        "engineCode": "M177 (4.0 V8 twin‑turbo, 48V MHEV)",
+        "years": "2018–present",
+        "power": "603–612 hp (450 kW) @ 5,750–6,500 rpm; 850–900 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£7,500–£13,500【PLACEHOLDER】"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M177 4.0 V8 twin‑turbo, W222/W223):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "3,982 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "8‑cylinder V‑configuration"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "8.6:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin‑turbo (hot‑vee)"
+        },
+        {
+          "label": "* Mild Hybrid",
+          "value": "48V EQ Boost with integrated starter generator"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare S63 AMG engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes S‑Class S63 AMG engine replacement cost in the UK?",
+        "answer": "A reconditioned M156 V8 typically costs £5,500–£8,500 supply only; the M157 costs £6,500–£11,000; and the M177 costs £7,500–£13,500. A used M156 engine costs on average £5,614. A used M157 engine with transmission can cost around £3,570. Fitting adds £1,500–£2,500. A rear main seal repair on the M177 can cost up to £7,000. Use our calculator for a figure specific to your S63 AMG."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes S63 AMG engine reliable?",
+        "answer": "It depends which generation your S63 is. The W221's M156 (2006–2010) is a legendary naturally aspirated V8 but has head bolt and camshaft weaknesses. The M157 twin‑turbo (2011–2017) is more powerful but has oil leak and timing chain watchpoints. The M177 (2018+) is considered the more reliable of the three, but oil separator and rear main seal leaks are common. Check the Era Map above for your specific car."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the S63 AMG engine?",
+        "answer": "M156 (W221 2006–2010): head bolt failure, camshaft wear, oil leaks. M157 (W221 2011–2013 & W222 2014–2017): oil leaks, timing chain wear, cylinder scoring. M177 (W222 2018–2020 & W223 2021+): oil separator failure → rear main seal leaks, software glitches, cooling system issues."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing an S63 AMG engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and generation. A W221 S63 AMG is a £10,000–£25,000 vehicle — a £6,000–£7,000 recon is 24–70% of the car's value. A W222 S63 AMG is a £20,000–£45,000 vehicle — a £7,500–£9,000 recon is 17–45% of the car's value. A W223 S63 AMG is a £40,000–£80,000+ vehicle — a £9,000–£11,000 recon is 11–28% of the car's value, making replacement a clear decision. Evaluate carefully based on your car's generation and condition."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes S63 AMG engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The S63 AMG covers M156 (W221, 2006–2010), M157 (W221 2011–2013 & W222 2014–2017), and M177 (W222 2018–2020 & W223 2021+). Tell us your registration date and we'll confirm which one you have for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I prevent the common failures on an S63 AMG?",
+        "answer": "On M156: have the head bolts replaced with upgraded units — this is the single most important investment you can make. Listen for ticking from the engine — camshaft wear indicator. On M157: regular oil changes with Mercedes‑approved oil and shortened intervals (5,000–7,500 miles) are essential. On M177: have the oil separator inspected at 40,000–60,000 miles — replacing it early prevents expensive rear main seal leaks. At the first sign of coolant loss, ticking, cold‑start rattle or oil leaks, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "Find the best Mercedes S‑Class S63 AMG engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence — from £3,500 for a used unit to £13,500 for a fully rebuilt AMG V8.",
+    "ctaButton": {
+      "label": "Compare Mercedes S‑Class S63 AMG Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

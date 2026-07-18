@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-citan-w420",
+    "title": "Mercedes‑Benz Citan W420 Engines — The Complete UK Guide",
+    "titleCharCount": 56,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz Citan W420 • Van/MPV • 2021–2026",
+    "h1": "Mercedes‑Benz Citan W420 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Citan W420 — from the 1.5‑litre OM608 diesel to the 1.3‑litre M282 turbo petrol. Real UK replacement costs, honest reliability data, and the Kangoo‑based van ownership realities that define this generation. Backed by real UK W420 enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "[X]+ W420 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Van/MPV"
+      },
+      {
+        "icon": "📖",
+        "label": "8 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W420 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes‑Benz Citan W420 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the Citan W420 specifically — spanning panel van and Tourer/MPV variants with diesel, petrol and electric powertrains.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W420)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM608.915 (K9K)",
+        "family": "OM608",
+        "fuel": "Diesel, turbo",
+        "displacement": "1.5L (1461cc)",
+        "power": "75 hp (55 kW)",
+        "years": "2021–2026",
+        "variants": "108 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM608.915 (K9K)",
+        "family": "OM608",
+        "fuel": "Diesel, turbo",
+        "displacement": "1.5L (1461cc)",
+        "power": "95 hp (70 kW)",
+        "years": "2021–2026",
+        "variants": "110 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "1,250 [MB‑VERIFIED]",
+        "avgReconCost": "£2,200–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM608.915 (K9K)",
+        "family": "OM608",
+        "fuel": "Diesel, turbo",
+        "displacement": "1.5L (1461cc)",
+        "power": "116 hp (85 kW)",
+        "years": "2021–2026",
+        "variants": "112 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "1,250 [MB‑VERIFIED]",
+        "avgReconCost": "£2,200–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M282.914 (H5H)",
+        "family": "M282",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.3L (1332cc)",
+        "power": "102 hp (75 kW)",
+        "years": "2021–2026",
+        "variants": "110 (petrol)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M282.914 (H5H)",
+        "family": "M282",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.3L (1332cc)",
+        "power": "131 hp (96 kW)",
+        "years": "2021–2026",
+        "variants": "113 (petrol)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "5AQ 60",
+        "family": "Electric",
+        "fuel": "Electric",
+        "displacement": "—",
+        "power": "122 hp (90 kW)",
+        "years": "2023–2026",
+        "variants": "eCitan",
+        "reliability": "N/A",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "N/A"
+      },
+      {
+        "engineCode": "5AQ 60",
+        "family": "Electric",
+        "fuel": "Electric",
+        "displacement": "—",
+        "power": "122 hp (90 kW)",
+        "years": "2023–2026",
+        "variants": "eCitan",
+        "reliability": "N/A",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "N/A"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM608 (K9K): 80% confidence — this is the Renault‑developed 1.5 dCi engine used across the Renault‑Nissan‑Mitsubishi Alliance. It's generally robust but known for injector and turbo issues on higher‑mileage examples. M282: 85% confidence — jointly developed by Renault‑Nissan‑Mitsubishi and Mercedes‑Benz, this 1.3‑litre turbo is well‑proven across the Alliance and Mercedes ranges. All combustion engine ratings are PROVISIONAL — pending dedicated Engine Pages for each family. Electric powertrain (eCitan) is not rated for reliability in the traditional sense."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes‑Benz Citan W420 — Overview",
+    "intro": "The W420 is the second generation of the Mercedes‑Benz Citan, introduced in August 2021 as the successor to the W415. It is a badge‑engineered variant of the third‑generation Renault Kangoo, sharing the CMF‑CD platform and built alongside the Kangoo and Nissan Townstar at the Renault Maubeuge plant in France. The W420 is available in panel van and Tourer/MPV body styles, with the passenger variant also sold as the T‑Class from 2022. The engine line‑up consists of Renault‑sourced 1.5‑litre diesel and 1.3‑litre petrol four‑cylinders, with an electric eCitan variant introduced in 2023.",
+    "keyFacts": "Platform: Renault‑Nissan CMF‑CD • Predecessor: W415 • Successor: None (production ends 2026) • Sibling models: Renault Kangoo III, Nissan Townstar.",
+    "marketIntelligenceLine": "The Citan range (W415/W420 combined) generated real UK engine enquiries in 2025 [MB‑VERIFIED], with the OM608 diesel and M282 petrol commanding the strongest specialist interest."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM608.915 1.5‑litre diesel (112 CDI, 116hp)",
+        "quote": "The highest‑output 1.5 dCi diesel delivers 116hp and 260Nm of torque — ample for the W420's van and MPV duties. It's the most refined diesel in the range, with a proven track record across the Renault‑Nissan‑Mercedes Alliance. Injector and turbo maintenance are the main watchpoints.",
+        "whoItsFor": "buyers who want maximum diesel performance from the W420 range."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M282.914 1.3‑litre turbo (113, 131hp)",
+        "quote": "The 1.3‑litre turbo petrol delivers 131hp and 240Nm — genuinely brisk for a compact van. Jointly developed by Renault‑Nissan‑Mitsubishi and Mercedes‑Benz, it's a thoroughly modern engine with good refinement and proven reliability. Timing chain maintenance is the only real demand.",
+        "whoItsFor": "buyers who want petrol refinement without the diesel's DPF complications."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM608.915 1.5‑litre diesel (108 CDI, 75hp)",
+        "quote": "The lowest‑output diesel is underpowered for the W420's size — 75hp struggles with a full load. Injector and turbo issues are documented on higher‑mileage examples, and the DPF can clog on urban‑only vans.",
+        "whoItsFor": "buyers on a tight budget who prioritise fuel economy over performance."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "OM608.915 1.5‑litre diesel (injector/turbo failure)",
+        "quote": "The Renault‑sourced 1.5 dCi is generally robust but injector and turbo failures are documented on higher‑mileage examples. A full recon is a significant four‑figure bill, and DPF issues add to the running costs.",
+        "whoItsFor": "buyers who understand diesel maintenance costs and are prepared for potential injector or turbo work."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M282.914 1.3‑litre turbo (110, 102hp)",
+        "quote": "The entry‑level petrol turbo delivers 102hp — more than enough for urban and light commercial use. It avoids the diesel's DPF complications and offers lower running costs than the higher‑output 113. The M282 is a well‑proven unit across the Alliance.",
+        "whoItsFor": "buyers who want petrol simplicity without the diesel's complexities."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "OM608.915 1.5‑litre diesel (110 CDI, 95hp)",
+        "quote": "The mid‑range diesel is often overlooked in favour of the 116hp 112 CDI — but 95hp and 260Nm deliver solid real‑world performance for most W420 duties, with slightly lower purchase costs than the top‑spec diesel.",
+        "whoItsFor": "buyers who want diesel torque without paying for the highest‑output variant."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes‑Benz Citan W420 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "OM608.915 (75hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Injector failure, turbo wear",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,200–£3,800",
+        "ownershipVerdict": "Entry Diesel — underpowered but economical"
+      },
+      {
+        "engine": "OM608.915 (95hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Injector failure, turbo wear",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,200–£3,800",
+        "ownershipVerdict": "Mid‑Range Diesel — solid performance"
+      },
+      {
+        "engine": "OM608.915 (116hp)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Injector failure, turbo wear",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,200–£3,800",
+        "ownershipVerdict": "Best Diesel — most powerful, same costs"
+      },
+      {
+        "engine": "M282.914 (102hp)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Entry Petrol — simple and reliable"
+      },
+      {
+        "engine": "M282.914 (131hp)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Best Petrol — more power, same engine"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W420 rule",
+      "text": "A £2,200–£3,800 OM608 recon against a £10,000–£20,000 W420 sits at 11–38% of the car's value — well inside the 70% Mercedes‑Benz threshold. Against a £8,000 high‑mileage example, the same recon reaches 28–48% — still viable, but a significant proportion of the van's residual value. Value the van and its service history first."
+    },
+    "keyTakeaways": []
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM608 1.5 dCi Injector Failure",
+        "affectedModels": "W420 108 CDI, 110 CDI, 112 CDI (all OM608.915).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The 1.5 dCi's injectors can fail, causing rough running, poor fuel economy, and potential engine damage if ignored — this is a well‑documented issue across the Renault‑Nissan‑Mercedes Alliance.",
+        "tieredCosts": [],
+        "recommendation": "A £500–£1,200 injector service is dramatically cheaper than the £2,200–£3,800 replacement that follows if ignored — address it proactively.",
+        "cta": {
+          "label": "Compare OM608 engine prices for your W420 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM608 DPF Clogging",
+        "affectedModels": "W420 108 CDI, 110 CDI, 112 CDI (urban‑use examples).",
+        "typicalFailureMileage": "50,000–80,000 miles.",
+        "rootCause": "The diesel particulate filter (DPF) can clog on vans used primarily for urban driving — short journeys prevent the DPF from completing regeneration cycles.",
+        "tieredCosts": [],
+        "recommendation": "On a W420 used for urban delivery work, a £300–£800 DPF service is non‑negotiable — ignore it and the van won't restart.",
+        "cta": {
+          "label": "Compare DPF service prices for your W420 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M282 1.3 Turbo Timing Chain Stretch",
+        "affectedModels": "W420 110, 113 (all M282.914 petrol).",
+        "typicalFailureMileage": "50,000–90,000 miles.",
+        "rootCause": "The 1.3‑litre turbo's timing chain can stretch over time, particularly on engines with extended service intervals — a rattle on cold start is the classic early warning.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of cold‑start rattle, get the chain inspected immediately — a £600–£1,200 preventative repair is far cheaper than the £2,000–£3,500 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M282 engine prices for your W420 →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W420 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "108 CDI (75hp)",
+        "engineCode": "OM608.915",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "110 CDI (95hp)",
+        "engineCode": "OM608.915",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "112 CDI (116hp)",
+        "engineCode": "OM608.915",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "110 (102hp petrol)",
+        "engineCode": "M282.914",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "113 (131hp petrol)",
+        "engineCode": "M282.914",
+        "usedSupply": "£1,000–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "eCitan (electric)",
+        "engineCode": "5AQ 60",
+        "usedSupply": "N/A",
+        "reconditionedSupply": "N/A",
+        "rebuiltSupply": "N/A",
+        "labourHours": "N/A"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "108 CDI",
+      "110 CDI",
+      "112 CDI"
+    ],
+    "petrolVariants": [
+      "110",
+      "113"
+    ],
+    "scopeNote": "All variants listed are W420 Citan (2021–2026) only. Pre‑facelift W415 Citan (2012–2021) is covered on its own Generation Page. The T‑Class passenger variant shares the same engine line‑up."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

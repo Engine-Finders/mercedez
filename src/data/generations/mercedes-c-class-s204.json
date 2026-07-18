@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "slug": "mercedes-c-class-s204",
+    "title": "Mercedes C-Class S204 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes C-Class S204 • Estate • 2007–2014",
+    "h1": "Mercedes C-Class S204 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the C-Class Estate — from the supercharged M271 four-cylinder to the V6 M272 and the OM651 diesel that redefined refinement. Real UK costs, honest reliability data, and the engine choices that defined the third‑gen C‑Class estate. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "1,250+ S204 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Estate"
+      },
+      {
+        "icon": "📖",
+        "label": "8+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore S204 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes C-Class S204 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the S204 estate specifically — including the pre‑ and post‑facelift engine changes that transformed this generation.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (S204)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M271.950",
+        "family": "M271",
+        "fuel": "Petrol, supercharged",
+        "displacement": "1.8L (1796cc)",
+        "power": "184 bhp",
+        "years": "2007–2010",
+        "variants": "C200 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — inherited from Model Page; timing chain risk]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M271.820",
+        "family": "M271 EVO",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.8L (1796cc)",
+        "power": "156–184 bhp",
+        "years": "2009–2014",
+        "variants": "C180 CGI, C200 CGI",
+        "reliability": "★★★☆☆ [PROVISIONAL — M271 with revised timing chain but still a weak point]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M271.860",
+        "family": "M271 EVO",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.8L (1796cc)",
+        "power": "204 bhp",
+        "years": "2011–2014",
+        "variants": "C250 CGI",
+        "reliability": "★★★☆☆ [PROVISIONAL — highest‑output M271, timing chain risk magnified]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£4,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272.947",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.0L (2996cc)",
+        "power": "231 bhp",
+        "years": "2007–2014",
+        "variants": "C300",
+        "reliability": "★★★★☆ [PROVISIONAL — smooth V6, but balance shaft and intake manifold issues on early cars]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272.961",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3498cc)",
+        "power": "272 bhp",
+        "years": "2007–2014",
+        "variants": "C350",
+        "reliability": "★★★★☆ [PROVISIONAL — M272 with higher output; same balance shaft concerns]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£6,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M276.957",
+        "family": "M276",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3498cc)",
+        "power": "306 bhp",
+        "years": "2011–2014",
+        "variants": "C350 (facelift)",
+        "reliability": "★★★★½ [PROVISIONAL — M276 successor to M272; improved reliability]",
+        "enquiries": "390 [MB-VERIFIED]",
+        "avgReconCost": "£3,000–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM646.811",
+        "family": "OM646",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L (2148cc)",
+        "power": "136–163 bhp",
+        "years": "2007–2008 (pre‑facelift)",
+        "variants": "C200 CDI, C220 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — older OM646; injector and EGR issues]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651.911",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L (2143cc)",
+        "power": "170 bhp",
+        "years": "2008–2014",
+        "variants": "C220 CDI, C250 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — Mercedes‑developed; reliable but watch injector seals]",
+        "enquiries": "1,250 [MB-VERIFIED]",
+        "avgReconCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651.913",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L (2143cc)",
+        "power": "120 bhp",
+        "years": "2010–2014",
+        "variants": "C180 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — detuned OM651; same reliability profile]",
+        "enquiries": "1,250 [MB-VERIFIED]",
+        "avgReconCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.834",
+        "family": "OM642",
+        "fuel": "Diesel, V6",
+        "displacement": "3.0L (2987cc)",
+        "power": "265 bhp",
+        "years": "2011–2014",
+        "variants": "C350 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — V6 diesel; oil cooler seal and swirl flap issues]",
+        "enquiries": "880 [MB-VERIFIED]",
+        "avgReconCost": "£3,200–£5,500 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "Confidence Score",
+      "text": "* OM651.911/913: 95% confidence — inherited from the Model Page's verified figures for the wider Mercedes range. * M272.947/961: 85% confidence — well‑documented M272 V6; pattern data. * M271.950/820/860: 80% confidence — known M271 issues; provisional ratings. * OM646.811: 70% confidence — older engine, phased out early; provisional. * OM642.834: 80% confidence — V6 diesel with known issues; provisional. * M276.957: 75% confidence — newer engine; limited long‑term data."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes C-Class S204 — Overview",
+    "intro": "The S204 is the estate version of the third‑generation Mercedes‑Benz C‑Class (W204), launched in August 2007 as the successor to the S203 estate. Built on the same platform as the W204 saloon, it shared the full engine lineup — from the supercharged M271 four‑cylinder petrols to the V6 M272 and the OM651 diesel family that redefined the C‑Class driving experience. A significant facelift arrived in 2011, bringing new engines including the M276 V6 petrol and OM642 V6 diesel.",
+    "keyFacts": "Platform: Mercedes W204 (shared with W204 saloon, C204 coupé) • Predecessor: S203 (2001–2007) • Successor: S205 (2014–2021) • Sibling body styles in this generation: W204 (saloon), C204 (coupé)",
+    "marketIntelligenceLine": "The S204 C‑Class estate generated 1,250+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM651 diesel as the most‑requested powertrain."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM651.911 (C220 CDI/C250 CDI)",
+        "quote": "Mercedes' own 2.1‑litre diesel, introduced in 2008, replaced the ageing OM646 with a lighter, more efficient design. It's the pick of the S204 range — smooth, torquey, and backed by a strong reliability record when serviced properly.",
+        "whoItsFor": "buyers who want a modern, efficient diesel without the older engine's compromises."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M276.957 (C350, facelift)",
+        "quote": "Mercedes' 3.5‑litre V6, introduced with the 2011 facelift, replaced the M272 with a more refined and reliable unit. It delivers 306 bhp with a silky character and strong torque.",
+        "whoItsFor": "buyers who want genuine V6 performance from a family estate."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M271.950/820/860 (C180/C200/C250 CGI)",
+        "quote": "The M271 four‑cylinder petrol is known for timing chain stretch and tensioner failure — a problem that can lead to catastrophic engine damage if ignored. The EVO versions (820/860) improved the design but didn't eliminate the risk entirely.",
+        "whoItsFor": "buyers on a budget who prioritise low running costs over long‑term reliability."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "OM642.834 (C350 CDI) — oil cooler seal leak",
+        "quote": "The V6 diesel's oil cooler seals are prone to failure, leaking oil into the V of the engine. Repair requires significant disassembly and can be costly if caught late.",
+        "whoItsFor": "buyers who want the power of a V6 diesel but can afford the premium maintenance."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM651.911 (C220 CDI)",
+        "quote": "The mid‑range diesel offers the best balance of performance (170 bhp), economy (up to 60 mpg), and reliability. It's the sweet spot in the S204 range.",
+        "whoItsFor": "fleet buyers and high‑mileage drivers."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M272.947 (C300)",
+        "quote": "The 3.0‑litre V6 petrol offers 231 bhp with a smooth, characterful delivery. It's often overlooked in favour of the diesels but offers a genuinely rewarding driving experience with fewer of the M271's timing chain concerns.",
+        "whoItsFor": "enthusiasts who want a six‑cylinder estate without the running costs of the C350."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes C-Class S204 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M271.950/820/860 (C180/C200/C250)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Timing chain stretch, tensioner failure",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£1,800–£4,200",
+        "ownershipVerdict": "Risk vs Reward — budget for chain history or the job itself."
+      },
+      {
+        "engine": "M272.947 (C300)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Balance shaft wear, intake manifold issues",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£2,500–£5,500",
+        "ownershipVerdict": "Best Petrol (pre‑facelift) — smooth but watch for early issues."
+      },
+      {
+        "engine": "M272.961 (C350)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Balance shaft wear, intake manifold issues",
+        "repairCostSpecialist": "£800–£2,200",
+        "replacementCostRecon": "£2,800–£6,000",
+        "ownershipVerdict": "Powerful Petrol — more performance, more maintenance."
+      },
+      {
+        "engine": "M276.957 (C350 facelift)",
+        "typicalMileage": "50k–90k",
+        "commonMajorFailure": "Coolant leaks, water pump",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£3,000–£6,500",
+        "ownershipVerdict": "Best Petrol (facelift) — refined and reliable."
+      },
+      {
+        "engine": "OM646.811 (C200/C220 CDI)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Injector failure, EGR clogging",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Avoid — older engine, phased out for good reason."
+      },
+      {
+        "engine": "OM651.911/913 (C180/C220/C250 CDI)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Injector seal leaks (Black Death), DPF clogging",
+        "repairCostSpecialist": "£400–£1,200",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Best Diesel — efficient, durable, widely available."
+      },
+      {
+        "engine": "OM642.834 (C350 CDI)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Oil cooler seal leak, swirl flap motor failure",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£3,200–£5,500",
+        "ownershipVerdict": "Powerful Diesel — V6 refinement, V6 running costs."
+      }
+    ],
+    "economicsRule": {
+      "title": "The S204 rule",
+      "text": "A £2,800–£4,800 OM651 recon against a £4,000–£12,000 S204 sits at 23–120% of the car's value. On a sub‑£5,000 S204, that brushes our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well‑kept £8,000+ example, the same recon drops to a routine 35–60% — a repair decision, not a financial one. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which S204 Costs Least To Own?",
+        "answer": "C220 CDI (OM651) — best balance of economy and reliability."
+      },
+      {
+        "question": "Which S204 Costs Most To Own?",
+        "answer": "C350 CDI (OM642) — V6 diesel running costs add up."
+      },
+      {
+        "question": "Which S204 Is Best Value?",
+        "answer": "C220 CDI (OM651) — the sweet spot in the range."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M271 Timing Chain Stretch",
+        "affectedModels": "C180 CGI, C200 CGI, C250 CGI (all M271 variants)",
+        "typicalFailureMileage": "40,000–80,000 miles",
+        "rootCause": "The M271's timing chain tensioner can wear prematurely, leading to chain stretch and, if ignored, catastrophic valve‑to‑piston contact. The EVO versions (820/860) improved the design but didn't eliminate the risk entirely.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of a rattling noise on cold start, get the timing chain inspected immediately — a £600–£1,500 preventative repair is dramatically cheaper than the £1,800–£4,200 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M271 engine prices for your S204 petrol →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM651 Injector Seal Leaks (Black Death)",
+        "affectedModels": "C180 CDI, C220 CDI, C250 CDI (OM651)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The injector seals on the OM651 can fail, allowing combustion gases to escape past the injector. This creates a carbon buildup that sounds like a ticking noise and can eventually damage the cylinder head.",
+        "tieredCosts": [],
+        "recommendation": "If you hear a ticking noise from the engine bay, have the injector seals checked immediately — a £400–£1,000 repair is far cheaper than the £2,800–£4,800 replacement that follows if the head is damaged.",
+        "cta": {
+          "label": "Compare OM651 engine prices for your S204 diesel →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M272 Balance Shaft Wear (pre‑facelift)",
+        "affectedModels": "C300, C350 (pre‑facelift, 2007–2010)",
+        "typicalFailureMileage": "60,000–100,000 miles",
+        "rootCause": "The M272's balance shaft sprocket can wear prematurely due to a manufacturing defect, leading to timing chain issues and, if ignored, catastrophic engine failure.",
+        "tieredCosts": [],
+        "recommendation": "On pre‑facelift C300/C350 models, have the balance shaft inspected at 60,000 miles — an £800–£1,800 preventative repair is cheap insurance against a £2,500–£5,500 engine replacement.",
+        "cta": {
+          "label": "Compare M272 engine prices for your S204 V6 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "OM642 Oil Cooler Seal Leak",
+        "affectedModels": "C350 CDI (2011–2014)",
+        "typicalFailureMileage": "60,000–120,000 miles",
+        "rootCause": "The OM642's oil cooler seals (located in the V of the engine) can degrade and leak, allowing oil to mix with coolant or leak onto the engine. Repair requires significant disassembly.",
+        "tieredCosts": [],
+        "recommendation": "If you notice oil in the coolant or a burning oil smell, have the oil cooler seals inspected immediately — an £800–£1,500 repair is far cheaper than the £3,200–£5,500 replacement that follows if the engine overheats.",
+        "cta": {
+          "label": "Compare OM642 engine prices for your S204 V6 diesel →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "S204 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "C180 CGI / C200 CGI / C250 CGI",
+        "engineCode": "M271.820/860",
+        "usedSupply": "£800–£1,800",
+        "reconditionedSupply": "£1,800–£4,200",
+        "rebuiltSupply": "£2,800–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C200 Kompressor",
+        "engineCode": "M271.950",
+        "usedSupply": "£800–£1,600",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C300",
+        "engineCode": "M272.947",
+        "usedSupply": "£1,200–£2,800",
+        "reconditionedSupply": "£2,500–£5,500",
+        "rebuiltSupply": "£4,000–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C350",
+        "engineCode": "M272.961 / M276.957",
+        "usedSupply": "£1,500–£3,200",
+        "reconditionedSupply": "£2,800–£6,500",
+        "rebuiltSupply": "£4,500–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "C200 CDI / C220 CDI (pre‑facelift)",
+        "engineCode": "OM646.811",
+        "usedSupply": "£800–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,500–£4,200",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C180 CDI / C220 CDI / C250 CDI",
+        "engineCode": "OM651.911/913",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "C350 CDI",
+        "engineCode": "OM642.834",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Model Page's baseline figures — the S204 shares its engine bay with the W204 saloon, so labour times and costs are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "C180 CDI",
+      "C200 CDI",
+      "C220 CDI",
+      "C250 CDI",
+      "C350 CDI"
+    ],
+    "petrolVariants": [
+      "C180 CGI",
+      "C200 Kompressor",
+      "C200 CGI",
+      "C250 CGI",
+      "C300",
+      "C350"
+    ],
+    "scopeNote": "All variants listed are S204 estate only. The W204 saloon and C204 coupé share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

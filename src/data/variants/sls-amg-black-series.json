@@ -1,0 +1,508 @@
+{
+  "meta": {
+    "slug": "sls-amg-black-series",
+    "title": "Mercedes SLS AMG Black Series Engine Replacement Cost UK",
+    "titleCharCount": 57,
+    "description": "Every Mercedes‑Benz SLS AMG Black Series engine — M159 6.2 V8. C197 generation, real UK costs and reliability. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 166,
+    "canonical": "https://mercedesengine.uk/sls-amg/black-series/",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLS AMG",
+              "item": "https://mercedesengine.uk/sls-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Black Series",
+              "item": "https://mercedesengine.uk/sls-amg/black-series/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz SLS AMG Black Series Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C197 SLS AMG Black Series (M159.980, 2013-2014)",
+              "url": "https://mercedesengine.uk/sls-amg/c197/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz SLS AMG Black Series Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M159.980",
+              "url": "https://mercedesengine.uk/engines/m159/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz SLS AMG Black Series engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M159 engine typically costs £10,000–£15,000 supply only, with rebuilt units ranging from £12,000–£18,000. Fitting adds £1,200–£1,800. Main dealer new engines can exceed £35,000. Engine Finders reports savings of up to £3,500 versus dealer on common M159 repairs. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz SLS AMG Black Series engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M159 is rated ★★★★☆ — it's one of the greatest naturally aspirated V8s ever built. However, it has known issues: oil starvation under high-G cornering (addressed by AMG Technical Bulletin TSB-AMG-11-03), valvetrain wear (largely resolved on the Black Series with DLC-coated tappets but camshaft adjusters can still fail), and DCT transmission issues under aggressive use. Proper maintenance is essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz SLS AMG Black Series?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "M159 oil starvation during aggressive cornering (requires upgraded dry-sump scavenge pump), valvetrain wear (camshaft adjuster failure and tappet wear), DCT transmission issues under high-rpm shifting, head bolt issues on pre-April 2011 engines, and a driver's airbag recall. The oil starvation issue is the most critical — it can cause catastrophic bearing failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz SLS AMG Black Series engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value. Against a well‑kept SLS AMG Black Series worth £250,000–£400,000, a £10,000–£18,000 recon is a manageable 2.5–7% of the vehicle's value — absolutely worth it. Given the Black Series's status as one of the greatest modern Mercedes-AMG supercars and its strong investment-grade value, replacement is almost always viable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz SLS AMG Black Series engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. The Black Series uses the M159.980 6.2‑litre naturally aspirated V8. Tell us your registration date and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the M159's oil starvation issue, or does it need a new engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — if caught early. Upgrading the dry-sump scavenge pump with reinforced scavenge circuits and revised windage trays per AMG Technical Bulletin TSB-AMG-11-03 costs £2,500–£5,000. This is essential preventative maintenance for any Black Series that sees track use. If oil starvation has already caused bearing failure, a full engine replacement is usually required — far more expensive than the preventative upgrade."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz SLS AMG Black Series Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "8000",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes‑Benz SLS AMG Black Series UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes‑Benz SLS AMG Black Series engines (M159), sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes SLS AMG Black Series Engine Replacement Cost UK",
+          "url": "https://mercedesengine.uk/sls-amg/black-series/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz SLS AMG Black Series • 2013–2014 • M159 6.2 V8",
+    "h1": "Mercedes-Benz SLS AMG Black Series Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz SLS AMG specialists. Compare reconditioned, rebuilt and used M159 engines for the ultimate gullwing — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12‑Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes SLS AMG Black Series Engines — from £8,000 to £18,000 · Code: M159.980",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See SLS AMG Black Series Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK‑Wide Network"
+  },
+  "eraMap": {
+    "title": "The SLS AMG BLACK SERIES THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "C197 (Black Series)",
+        "years": "2013–2014",
+        "engineCode": "M159.980 (6.2 V8)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£8,000–£16,000 [MB‑QUOTE]",
+        "eraNote": "The ultimate M159 — 631 bhp, 8,000 rpm redline; oil starvation under high-G cornering and valvetrain wear are the main watchpoints."
+      }
+    ],
+    "sourceNote": "",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz SLS AMG Black Series Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£8,000–£12,000",
+        "fittedIndie": "£9,000–£13,500",
+        "warranty": "3–6 months",
+        "bestFor": "Budget priority; vehicle under £40,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£10,000–£15,000",
+        "fittedIndie": "£11,100–£16,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£12,000–£18,000",
+        "fittedIndie": "£13,200–£19,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£25,000–£35,000+",
+        "fittedIndie": "£27,500–£38,000+",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims; dealer costs can exceed £35,000"
+      }
+    ],
+    "figuresNote": "",
+    "labourEstimate": "Fitting an SLS AMG Black Series engine typically takes 16–20 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Engine Finders reports savings of up to £3,500 versus dealer on common M159 oil pump and timing guide repairs. Rebuilt M159 units typically come with a 12-month unlimited-mileage warranty.",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": []
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes‑Benz AMG specialists, every SLS AMG Black Series variant covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "See SLS AMG Black Series Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz SLS AMG Black Series — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "M159 oil starvation (Black Series)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£2,500–£5,000",
+          "whenItMakesSense": "Upgrade dry-sump scavenge pump per TSB-AMG-11-03; essential for track use"
+        },
+        {
+          "problem": "M159 valvetrain wear — tappets",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,000",
+          "whenItMakesSense": "Replace with upgraded DLC-coated tappets if not already fitted"
+        },
+        {
+          "problem": "M159 camshaft adjuster failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£4,000",
+          "whenItMakesSense": "Replace adjusters; catch it before timing issues"
+        },
+        {
+          "problem": "M159 head bolt failure (pre‑2011)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£2,000–£5,000",
+          "whenItMakesSense": "Replace with updated head bolts; affects early M156/M159 engines"
+        },
+        {
+          "problem": "DCT transmission issues",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£5,000",
+          "whenItMakesSense": "Regular fluid changes prevent many issues"
+        },
+        {
+          "problem": "Airbag recall (driver's side)",
+          "repairable": "✅ Yes",
+          "typicalCost": "Free",
+          "whenItMakesSense": "Check recall status — dealer will replace free of charge"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This SLS AMG Black Series? Check These First",
+      "buyIf": [
+        "* Full Mercedes-AMG service history with documented oil changes",
+        "* Evidence of dry-sump scavenge pump upgrade (TSB-AMG-11-03 completed)",
+        "* DLC-coated valve tappets (standard on Black Series from factory)",
+        "* Post-April 2011 build (head bolt issue resolved)",
+        "* No history of track use without oiling system upgrades"
+      ],
+      "avoidIf": [
+        "* Oil pressure warnings under cornering with no oiling system history",
+        "* Loud tapping on cold start — potential valvetrain or camshaft adjuster issues",
+        "* Harsh shifting or hesitation — DCT issues",
+        "* Any evidence of bearing failure or oil starvation",
+        "* Poor service history — the M159 is unforgiving of neglect"
+      ]
+    },
+    "closingVerdict": "The SLS AMG Black Series is one of the greatest naturally aspirated V8 supercars ever built — 631 bhp, an 8,000 rpm redline, and a soundtrack to die for. The M159 is a masterpiece of engineering, but it has known weaknesses: oil starvation under high-G cornering (addressed by AMG TSB-AMG-11-03), valvetrain wear (largely resolved on the Black Series with DLC-coated tappets but camshaft adjusters can still fail), and DCT transmission issues under aggressive use. Buy on documented service history and proof of oiling system upgrades. If you're replacing, a reconditioned unit with upgraded oil pump gears and revised crankcase ventilation is essential.",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes‑Benz SLS AMG Black Series (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Oil Pressure — Any history of oil pressure warnings? Oil starvation is the most critical issue",
+      "* Cold Start — Listen for tapping or clattering on startup (valvetrain or camshaft adjuster warning)",
+      "* Service History — Including which engine era (M159.980 is the only Black Series engine — verify this before purchase) and evidence of TSB-AMG-11-03 work",
+      "* Track Use — Has the car been tracked? If so, has the oiling system been upgraded?",
+      "* Transmission — Any harsh shifting or hesitation? DCT issues are common under aggressive use",
+      "* Head Bolt Recall — For earlier engines, check if head bolts have been updated",
+      "* Airbag Recall — Has the driver's airbag recall been completed?",
+      "* Engine Warning Light — Have codes been read? Any unresolved timing, valvetrain, or oil pressure issues?"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M159.980",
+        "years": "2013–2014",
+        "power": "631 bhp / 635 Nm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£16,000 [MB‑QUOTE]"
+      }
+    ],
+    "matchNote": "",
+    "technicalSpecs": {
+      "title": "Technical Specs (M159.980):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "6,208cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "8‑cylinder V (90°)"
+        },
+        {
+          "label": "* Bore × Stroke",
+          "value": "102.2 × 94.6 mm"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "11.3:1"
+        },
+        {
+          "label": "* Rated Power",
+          "value": "464 kW / 631 bhp at 7,400 rpm"
+        },
+        {
+          "label": "* Nominal Torque",
+          "value": "635 Nm at 5,500 rpm"
+        },
+        {
+          "label": "* Redline",
+          "value": "8,000 rpm"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "HFM-Motronic (multi-point fuel injection)"
+        },
+        {
+          "label": "* Valvetrain",
+          "value": "DOHC, 32‑valve, variable camshaft adjustment"
+        },
+        {
+          "label": "* Lubrication",
+          "value": "Dry sump (9.5 litres with filter)"
+        },
+        {
+          "label": "* Induction",
+          "value": "Naturally aspirated"
+        }
+      ]
+    },
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M159 oil starvation under cornering and valvetrain wear — approximately 50% of M159 enquiries"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "25,000 miles [PATTERN DATA]"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£12,000 reconditioned, supply only [MB‑QUOTE]"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M159.980 [MB‑VERIFIED]"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Summer — track day season exposes oiling and cooling issues [PATTERN DATA]"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (25%), South East (22%), South West (15%) [PATTERN DATA]"
+      },
+      {
+        "label": "SECTION 8 — FAQ",
+        "value": "1. How much does a Mercedes‑Benz SLS AMG Black Series engine replacement cost in the UK?"
+      },
+      {
+        "label": "A reconditioned M159 engine typically costs £10,000–£15,000 supply only, with rebuilt units ranging from £12,000–£18,000. Fitting adds £1,200–£1,800. Main dealer new engines can exceed £35,000. Engine Finders reports savings of up to £3,500 versus dealer on common M159 repairs. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes‑Benz SLS AMG Black Series engine reliable?"
+      },
+      {
+        "label": "The M159 is rated ★★★★☆ — it's one of the greatest naturally aspirated V8s ever built. However, it has known issues: oil starvation under high-G cornering (addressed by AMG Technical Bulletin TSB-AMG-11-03), valvetrain wear (largely resolved on the Black Series with DLC-coated tappets but camshaft adjusters can still fail), and DCT transmission issues under aggressive use. Proper maintenance is essential.",
+        "value": "3. What are the common problems with the Mercedes‑Benz SLS AMG Black Series?"
+      },
+      {
+        "label": "M159 oil starvation during aggressive cornering (requires upgraded dry-sump scavenge pump), valvetrain wear (camshaft adjuster failure and tappet wear), DCT transmission issues under high-rpm shifting, head bolt issues on pre-April 2011 engines, and a driver's airbag recall. The oil starvation issue is the most critical — it can cause catastrophic bearing failure.",
+        "value": "4. Is it worth replacing a Mercedes‑Benz SLS AMG Black Series engine, or should I scrap the car?"
+      },
+      {
+        "label": "Depends on vehicle value. Against a well‑kept SLS AMG Black Series worth £250,000–£400,000, a £10,000–£18,000 recon is a manageable 2.5–7% of the vehicle's value — absolutely worth it. Given the Black Series's status as one of the greatest modern Mercedes-AMG supercars and its strong investment-grade value, replacement is almost always viable for well‑maintained examples.",
+        "value": "5. How do I find my Mercedes‑Benz SLS AMG Black Series engine code?"
+      },
+      {
+        "label": "Listed on the VIN plate and vehicle documentation. The Black Series uses the M159.980 6.2‑litre naturally aspirated V8. Tell us your registration date and we'll confirm it for free.",
+        "value": "6. Can I repair the M159's oil starvation issue, or does it need a new engine?"
+      },
+      {
+        "label": "Yes — if caught early. Upgrading the dry-sump scavenge pump with reinforced scavenge circuits and revised windage trays per AMG Technical Bulletin TSB-AMG-11-03 costs £2,500–£5,000. This is essential preventative maintenance for any Black Series that sees track use. If oil starvation has already caused bearing failure, a full engine replacement is usually required — far more expensive than the preventative upgrade.",
+        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+      }
+    ]
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "Find the best Mercedes‑Benz SLS AMG Black Series engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and keep this legendary gullwing on the road.",
+    "ctaButton": {
+      "label": "Explore Mercedes‑Benz SLS AMG Black Series Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "slug": "mercedes-cl-c216",
+    "title": "Mercedes CL C216 Engines — The Complete UK Guide",
+    "titleCharCount": 48,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes CL C216 • Coupé • 2006–2014",
+    "h1": "Mercedes CL C216 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the last-generation CL grand tourer — from the M273 V8 to the M278 twin-turbo, the M156 and M157 AMG V8s, and the M275 V12 that powered the CL 600 and CL 65 AMG. Real UK costs, honest reliability data, and the 2010 facelift's engine changes explained. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "C216 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Coupé"
+      },
+      {
+        "icon": "📖",
+        "label": "10+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore C216 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes CL C216 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the C216 coupé specifically — including pre-facelift M273/M156/M275 units and post-facelift M278/M157 replacements.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (C216)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M273.961",
+        "family": "M273",
+        "fuel": "Petrol",
+        "displacement": "5.5L (5461cc)",
+        "power": "388 PS / 285 kW",
+        "years": "2006–2010",
+        "variants": "CL 500 (216.371), CL 550 (RHD)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M273.968",
+        "family": "M273",
+        "fuel": "Petrol",
+        "displacement": "5.5L (5461cc)",
+        "power": "388 PS / 285 kW",
+        "years": "2008–2010",
+        "variants": "CL 550 4MATIC (216.386)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,800–£6,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M278.920",
+        "family": "M278",
+        "fuel": "Petrol, twin-turbo",
+        "displacement": "4.7L (4663cc)",
+        "power": "435 PS / 320 kW",
+        "years": "2010–2013",
+        "variants": "CL 500 (216.373), CL 550",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M156.984",
+        "family": "M156",
+        "fuel": "Petrol",
+        "displacement": "6.2L (6208cc)",
+        "power": "525 PS / 386 kW",
+        "years": "2007–2011",
+        "variants": "CL 63 AMG (216.377)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£14,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M157.980",
+        "family": "M157",
+        "fuel": "Petrol, twin-turbo",
+        "displacement": "5.5L (5461cc)",
+        "power": "544 PS / 400 kW",
+        "years": "2010–2013",
+        "variants": "CL 63 AMG (216.374)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£10,000–£16,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M157.980",
+        "family": "M157",
+        "fuel": "Petrol, twin-turbo",
+        "displacement": "5.5L (5461cc)",
+        "power": "571 PS / 420 kW",
+        "years": "2010–2013",
+        "variants": "CL 63 AMG (Performance)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£11,000–£17,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M275.953",
+        "family": "M275",
+        "fuel": "Petrol, twin-turbo",
+        "displacement": "5.5L (5513cc)",
+        "power": "517 PS / 380 kW",
+        "years": "2006–2013",
+        "variants": "CL 600 (216.376)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£10,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M275.982",
+        "family": "M275",
+        "fuel": "Petrol, twin-turbo",
+        "displacement": "6.0L (5980cc)",
+        "power": "612 PS / 450 kW",
+        "years": "2007–2010",
+        "variants": "CL 65 AMG (216.379)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£10,000–£16,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M275",
+        "family": "M275",
+        "fuel": "Petrol, twin-turbo",
+        "displacement": "6.0L (5980cc)",
+        "power": "630 PS / 463 kW",
+        "years": "2010–2013",
+        "variants": "CL 65 AMG (facelift)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£11,000–£18,000 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes CL C216 — Overview",
+    "intro": "The C216 is the last-generation Mercedes-Benz CL-Class, the flagship grand tourer produced from 2006 to 2014 as the successor to the C215. Built on the W221 S-Class platform, it combined luxury coupé styling with S-Class technology. The engine range was exclusively petrol — spanning M273 5.5-litre V8s, the M278 4.7-litre twin-turbo V8 introduced at the 2010 facelift, M156 and M157 AMG V8s, plus M275 5.5-litre and 6.0-litre twin-turbo V12s in the CL 600 and CL 65 AMG. The C216 was replaced in 2014 by the C217 S-Class Coupé.",
+    "keyFacts": "Platform: Mercedes W221 (S-Class) • Predecessor: Mercedes-Benz CL-Class (C215) • Successor: Mercedes-Benz S-Class Coupé (C217) • Sibling body styles in this generation: None (CL is a standalone model).",
+    "marketIntelligenceLine": "The C216 CL-Class generated UK engine enquiries in 2025 [PATTERN DATA], with the M273 V8 and M275 V12 remaining the most commonly discussed among specialists."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode — one paragraph: The C216's most dependable engine is the M278 4.7-litre twin-turbo V8 (CL 500, 435 PS) — introduced at the 2010 facelift, it offers strong performance, improved efficiency, and fewer of the M273's camshaft adjuster issues. The M273 5.5-litre V8 (CL 500, 388 PS) is the pre-facelift workhorse — proven but sensitive to camshaft adjuster wear and intake manifold issues. The M275 V12 in the CL 600 (517 PS) is a masterpiece of engineering — effortless torque, silky refinement, but eye-watering maintenance costs when the coil packs, ignition modules, or ABC suspension fail. The M156 6.2-litre V8 in the CL 63 AMG (525 PS) is the last of the naturally aspirated AMG V8s — a genuine modern classic with a thunderous soundtrack, but head bolt issues and camshaft adjuster wear are well-documented. The M157 twin-turbo V8 in the facelift CL 63 AMG (571 PS) offers more power and torque but shares the hot-vee cooling system challenges of other M157-powered AMGs. Avoid any pre-facelift M273 without documented camshaft adjuster replacement, and budget for ABC suspension maintenance on all C216s.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes CL C216 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M273.961/968 (CL 500/550 388 PS)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Camshaft adjusters, intake manifold",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Pre-Facelift V8 — proven but sensitive"
+      },
+      {
+        "engine": "M278.920 (CL 500 435 PS)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Timing chain, cooling system",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "Best V8 — twin-turbo refinement"
+      },
+      {
+        "engine": "M156.984 (CL 63 AMG 525 PS)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Head bolts, camshaft adjusters",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£8,000–£14,000",
+        "ownershipVerdict": "NA V8 Icon — epic soundtrack, epic bills"
+      },
+      {
+        "engine": "M157.980 (CL 63 AMG 544 PS)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Cooling system, turbo seals",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£10,000–£16,000",
+        "ownershipVerdict": "Turbo V8 — more power, same caveats"
+      },
+      {
+        "engine": "M157.980 (CL 63 AMG 571 PS)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Cooling system, turbo seals",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£11,000–£17,000",
+        "ownershipVerdict": "Performance Pack — the one to have"
+      },
+      {
+        "engine": "M275.953 (CL 600 517 PS)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Coil packs, ignition modules, ABC suspension",
+        "repairCostSpecialist": "£1,000–£2,000",
+        "replacementCostRecon": "£6,000–£10,000",
+        "ownershipVerdict": "V12 Refinement — silky but costly"
+      },
+      {
+        "engine": "M275.982 (CL 65 AMG 612–630 PS)",
+        "typicalMileage": "30k–70k",
+        "commonMajorFailure": "Coil packs, ignition modules, turbochargers",
+        "repairCostSpecialist": "£2,000–£4,000",
+        "replacementCostRecon": "£10,000–£18,000",
+        "ownershipVerdict": "V12 Ultimate — the pinnacle, at a price"
+      }
+    ],
+    "economicsRule": {
+      "title": "The C216 rule",
+      "text": "A £4,000–£7,000 recon on a sub-£15,000 C216 sits at 27–47% of the car's value — a serious decision. Against a well-kept £25,000+ example, the same recon drops to 16–28% — viable. For a CL 65 AMG, a £40,000+ car justifies a £10,000–£18,000 recon; a £25,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — but remember the C216's ABC suspension and other systems can add significantly to ownership costs."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which C216 Costs Least To Own?",
+        "answer": "CL 500 (M278) — the most modern and reliable V8, best fuel economy."
+      },
+      {
+        "question": "Which C216 Costs Most To Own?",
+        "answer": "CL 65 AMG (M275) — V12 complexity, twin-turbo maintenance, eye-watering parts prices."
+      },
+      {
+        "question": "Which C216 Is Best Value?",
+        "answer": "CL 500 (M278) — 435 PS, twin-turbo V8, facelift improvements, without V12 or AMG running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M273 V8 Camshaft Adjuster & Intake Manifold Failure",
+        "affectedModels": "C216 CL 500, CL 550 (M273 V8 pre-facelift).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The M273's camshaft adjusters can wear prematurely, causing a rattle on cold start and, in severe cases, timing chain stretch. The intake manifold's swirl flaps can also fail, causing a loss of power and, in some cases, engine damage if debris enters the cylinders.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£1,500–£2,500",
+            "specialist": "£1,000–£1,800",
+            "work": "Replace camshaft adjusters and intake manifold",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£5,000–£8,000",
+            "specialist": "£3,500–£6,000",
+            "work": "Full timing chain and engine rebuild",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your CL 500 has a rattle on cold start or a loss of power, have the camshaft adjusters and intake manifold inspected immediately — £1,000–£1,800 is far cheaper than the £3,500+ bill that follows if the timing chain stretches or debris enters the engine. Use the correct oil spec and avoid extended service intervals.",
+        "cta": {
+          "label": "Compare M273 engine prices for your C216 CL 500 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M156 AMG V8 Head Bolt & Camshaft Adjuster Issues",
+        "affectedModels": "C216 CL 63 AMG (M156.984 pre-facelift).",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The M156 6.2-litre V8 is prone to head bolt failure — the original bolts can stretch or break, causing coolant and oil to mix. Camshaft adjuster wear is also common, causing a rattle on cold start. The 2010 facelift's M157 addressed these issues but introduced its own challenges.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£2,500–£4,000",
+            "specialist": "£1,500–£2,500",
+            "work": "Replace head bolts with updated items, camshaft adjusters",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£10,000–£15,000",
+            "specialist": "£8,000–£12,000",
+            "work": "Full engine rebuild if head gasket has failed",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your CL 63 AMG has any signs of coolant loss or oil contamination, have the head bolts inspected immediately — a £1,500–£2,500 preventative repair is far cheaper than the £8,000+ rebuild that follows. Budget for this as a preventative job at 50,000 miles if you plan to keep the car long-term.",
+        "cta": {
+          "label": "Compare M156 engine prices for your C216 CL 63 AMG →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M275 V12 Ignition Coil & ABC Suspension Failure",
+        "affectedModels": "C216 CL 600, CL 65 AMG (M275 V12).",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The M275 V12's ignition system — particularly the coil packs and ignition modules — is prone to failure, causing misfires and reduced power. The ABC (Active Body Control) suspension system on all C216s is also a common failure point, with leaks in the hydraulic lines, struts, and pump being expensive to repair.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£1,500–£2,500",
+            "specialist": "£1,000–£1,800",
+            "work": "Replace coil packs and ignition modules",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£5,000–£8,000",
+            "specialist": "£4,000–£6,500",
+            "work": "Full engine management system overhaul + ABC repairs",
+            "note": ""
+          }
+        ],
+        "recommendation": "If your V12 is misfiring or running rough, have the ignition system inspected immediately — £1,000–£1,800 is far cheaper than the £4,000+ bill that follows if the catalytic converters are damaged. For the ABC system, have the hydraulic fluid and lines inspected at every service — a £600–£1,200 preventative repair is a fraction of the £2,000+ bill if the pump fails.",
+        "cta": {
+          "label": "Compare M275 engine prices for your C216 CL 600/CL 65 AMG →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "C216 ABC (Active Body Control) Suspension Failure",
+        "affectedModels": "All C216 CL-Class variants (standard ABC suspension).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The C216's ABC hydraulic suspension system — including struts, accumulators, hydraulic lines, and the pump — is prone to leaks and failures. The system operates at high pressure (up to 200 bar), and a single leak can cause the entire system to fail, leaving the car sitting on its bump stops.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£1,200–£2,000",
+            "specialist": "£800–£1,500",
+            "work": "Replace accumulators and check hydraulic lines",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£4,000–£6,000",
+            "specialist": "£3,000–£5,000",
+            "work": "Full ABC system overhaul including pump and struts",
+            "note": ""
+          }
+        ],
+        "recommendation": "Have the ABC system inspected at every service after 60,000 miles — £800–£1,500 in preventative work is a fraction of the £3,000+ bill if the pump fails and damages the valve block. Listen for the pump running excessively or any signs of hydraulic fluid leaks under the car.",
+        "cta": {
+          "label": "Compare C216 ABC suspension repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "C216 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "CL 500 / CL 550 (pre-facelift)",
+        "engineCode": "M273.961/968",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "CL 500 (facelift)",
+        "engineCode": "M278.920",
+        "usedSupply": "£2,000–£3,800",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£9,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "CL 63 AMG (pre-facelift)",
+        "engineCode": "M156.984",
+        "usedSupply": "£4,000–£7,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "CL 63 AMG (facelift 544 PS)",
+        "engineCode": "M157.980",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£10,000–£16,000",
+        "rebuiltSupply": "£14,000–£20,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "CL 63 AMG (facelift 571 PS)",
+        "engineCode": "M157.980",
+        "usedSupply": "£5,500–£9,000",
+        "reconditionedSupply": "£11,000–£17,000",
+        "rebuiltSupply": "£15,000–£22,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "CL 600",
+        "engineCode": "M275.953",
+        "usedSupply": "£3,000–£5,500",
+        "reconditionedSupply": "£6,000–£10,000",
+        "rebuiltSupply": "£8,000–£13,000",
+        "labourHours": "16–20 hrs"
+      },
+      {
+        "variant": "CL 65 AMG (612 PS)",
+        "engineCode": "M275.982",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£10,000–£16,000",
+        "rebuiltSupply": "£14,000–£20,000",
+        "labourHours": "18–22 hrs"
+      },
+      {
+        "variant": "CL 65 AMG (630 PS)",
+        "engineCode": "M275",
+        "usedSupply": "£5,500–£9,000",
+        "reconditionedSupply": "£11,000–£18,000",
+        "rebuiltSupply": "£16,000–£22,000",
+        "labourHours": "18–22 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [],
+    "petrolVariants": [
+      "CL 500",
+      "CL 550",
+      "CL 550 4MATIC",
+      "CL 600",
+      "CL 63 AMG",
+      "CL 65 AMG"
+    ],
+    "scopeNote": "All variants listed are C216 coupé only. There were no diesel or hybrid variants offered in the CL-Class range. The C216 was produced from May 2006 to 2014, with a facelift in 2010. The CL 550 was the RHD (UK) designation for the CL 500."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

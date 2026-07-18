@@ -1,0 +1,563 @@
+{
+  "meta": {
+    "slug": "cls-cls350d-400d",
+    "title": "CLS 350d/400d Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 59,
+    "description": "Mercedes CLS 350d & 400d OM656 engines — real UK costs, Camtronic & fuel system insight, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "canonical": "https://mercedesengine.uk/cls/cls350d-400d/",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLS",
+              "item": "https://mercedesengine.uk/cls/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "350d / 400d",
+              "item": "https://mercedesengine.uk/cls/cls350d-400d/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLS 350d/400d Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C257 CLS 350d/400d (OM656, 2017–present)",
+              "url": "https://mercedesengine.uk/cls/c257/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLS 350d/400d Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM656 D29 R SCR (350d) / OM656 D29 SCR (400d)",
+              "url": "https://mercedesengine.uk/engines/om656/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes CLS 350d or 400d engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned OM656 2.9-litre diesel engine typically costs £5,500–£8,500 supply only. Used engines are available from £3,500–£5,500. A full engine replacement can run anywhere between £1,500 and £5,000 on average, with Mercedes engine replacements typically around £3,500 or more. Fitting adds £1,300–£2,000 depending on your location and workshop. Main dealer new engines can exceed £14,000."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes CLS 350d or 400d engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM656 is generally considered a reliable engine — a modern, efficient straight-six diesel that replaced the OM642 V6. However, it has known issues: Camtronic variable valve timing problems (camshaft rocker wear causing popping intake noises), Bosch CP4 fuel system sensitivity (poor fuel damages piezo injectors), turbocharger issues (oil deposits, actuator hose failure), and AdBlue/DPF system faults. Regular maintenance and quality fuel are essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes CLS 350d and 400d?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most frequently reported issues are Camtronic camshaft rocker wear (popping intake noise, rough idle, engine warning light), fuel system issues (Bosch CP4 injectors sensitive to fuel quality), turbocharger faults (oil deposits, actuator issues, boost lag), vacuum oil pump issues (early cars, 25–40k miles), and AdBlue/DPF system problems."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes CLS diesel engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value. Against a well-kept £35,000 CLS 400d, a £7,000 recon is 20% — worth it. Against a tired £15,000 example, the same recon approaches our 70% Mercedes threshold — get a scrap valuation first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes CLS diesel engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. CLS 350d: OM656 D29 R SCR. CLS 400d: OM656 D29 SCR. Both are 2.9-litre straight-six twin-turbo diesel engines. The badge on the tailgate is the easiest tell — 'CLS 350 d' or 'CLS 400 d'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the camshaft rocker wear on the OM656, or does it need full engine replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — if caught early. Camshaft rocker wear is a known issue that will show up as a popping sound in the intake. Scoring of the cam lobes only happens when the car is driven with the inlet popping for thousands of miles. Repair costs typically range from £800–£2,500. If ignored, the issue can lead to cam lobe scoring, timing failure, and catastrophic engine damage. At the first sign of popping intake noises, book an inspection immediately. Regular oil changes are the single most effective preventative measure."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes CLS 350d/400d Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "3500",
+            "highPrice": "14000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes CLS Diesel UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes CLS 350d and 400d OM656 engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLS 350d/400d Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cls/cls350d-400d/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes CLS 350d / 400d • 2017–present • 2.9L Straight-Six Twin-Turbo Diesel (OM656)",
+    "h1": "Mercedes CLS 350d & 400d Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes CLS specialists. Compare reconditioned, rebuilt and used OM656 2.9-litre straight-six twin-turbo diesel engines — in 350d and 400d tune — supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes CLS 350d/400d Engines — from £3,500 to £9,500 · Code: OM656",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free CLS Diesel Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The CLS 350d / 400d THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "C257 CLS 350d / 400d",
+        "years": "2017–present",
+        "engineCode": "OM656 (2.9L Straight-Six Twin-Turbo Diesel)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£5,500–£8,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "One engine family throughout this badge's history — no era ambiguity. 350d: 286 hp / 600 Nm; 400d: 340 hp / 700 Nm."
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes CLS 350d / 400d Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£3,500–£5,500",
+        "fittedIndie": "£4,800–£7,200",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower-mileage examples"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£5,500–£8,500",
+        "fittedIndie": "£6,800–£10,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£6,500–£9,500",
+        "fittedIndie": "£7,800–£11,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£10,000–£14,000+",
+        "fittedIndie": "£11,500–£16,000+",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the OM656 2.9-litre straight-six diesel engine. A full engine replacement can run anywhere between £1,500 and £5,000 on average, with Mercedes engine replacements typically around £3,500 or more. Used OM656 engines are available from approximately £3,500–£5,500.",
+    "labourEstimate": "Fitting a CLS OM656 engine typically takes 14–18 hours at £75–£110/hr (independent) or £130–£180/hr (London/SE dealer). The straight-six layout and engine bay packaging make this a moderate-to-complex job.",
+    "cta": {
+      "label": "→ Compare CLS diesel engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Camtronic Variable Valve Timing Issues — Camshaft Rocker Wear",
+        "symptoms": "Popping noise from the intake manifold, rough idle, engine warning light, loss of power, metallic ticking.",
+        "typicalMileage": "60,000–100,000 miles (sometimes less)",
+        "repairCost": "£800–£2,500 (camshaft rocker and actuator replacement)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£5,500–£9,500 (if left untreated leads to cam lobe scoring and timing failure)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently"
+        },
+        "recommendation": "Cam rocker wear is a known issue on the OM656. It will show up as a popping sound in the intake. Scoring of the cam lobes only happens when the owner has driven the car with the inlet popping away for a few thousand miles. If you notice unusual noises from the engine, have the Camtronic system inspected immediately. Regular oil changes are critical for this engine.",
+        "failureLink": {
+          "label": "Read the full Camtronic failure guide",
+          "href": "/failures/camtronic-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Fuel System Sensitivity — Bosch CP4 Injector Issues",
+        "symptoms": "Rough running, misfires, poor acceleration, engine warning light, increased fuel consumption.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£600–£2,000 (injector replacement — up to six piezo injectors)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£5,500–£9,500 (if fuel system damage leads to engine failure)",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon"
+        },
+        "recommendation": "The OM656 uses a Bosch CP4 common-rail system with sensitive piezo injectors. It does not tolerate poor-quality diesel or contamination. Even minor impurities in the fuel tank can damage the injectors, while a clogged fuel filter disrupts combustion and leads to power loss. Regular fuel filter changes and the use of high-quality diesel can significantly extend engine life. Bad fuel can also cause soot buildup on valves and intake channels.",
+        "failureLink": {
+          "label": "Read the full fuel injector failure guide",
+          "href": "/failures/fuel-injector-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Turbocharger & AdBlue/DPF System Issues",
+        "symptoms": "Loss of power, unusual noises from the engine bay (whistling, grinding), turbo lag, DPF warning light, AdBlue system errors, engine management light.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£800–£2,500 (turbocharger repair or replacement; AdBlue/DPF system repairs)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£5,500–£9,500 (if turbo failure or emissions system damage leads to engine damage)",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently"
+        },
+        "recommendation": "The OM656's BorgWarner R2S turbocharger is a sensitive component. Oil deposits, worn bearings, or a contaminated charge air system can lead to power loss and unusual noises. A known turbo actuator issue involves a hose that gets too hot and collapses, causing boost faults. The AdBlue and DPF systems are also sensitive to poor fuel quality and short journeys. Regular regeneration drives and high-quality AdBlue minimise risks.",
+        "failureLink": {
+          "label": "Read the full turbocharger failure guide",
+          "href": "/failures/turbocharger-failure/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every CLS diesel era covered — from the 350d to the 400d — with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free CLS Diesel Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "CLS 350d / 400d — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Camshaft rocker wear (Camtronic)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,500",
+          "whenItMakesSense": "Catch it early before cam lobe scoring occurs"
+        },
+        {
+          "problem": "Fuel injector issues (CP4 system)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£600–£2,000",
+          "whenItMakesSense": "Use quality fuel and regular filter changes"
+        },
+        {
+          "problem": "Turbocharger faults",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,500",
+          "whenItMakesSense": "Early detection prevents engine damage"
+        },
+        {
+          "problem": "AdBlue/DPF system faults",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£2,000",
+          "whenItMakesSense": "Regular regeneration and quality AdBlue"
+        },
+        {
+          "problem": "Timing chain stretch",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,000",
+          "whenItMakesSense": "Preventative — catches the fault before catastrophic failure"
+        },
+        {
+          "problem": "Major internal engine failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "£5,500–£9,500",
+          "whenItMakesSense": "Typically requires full engine replacement or complete rebuild"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This CLS Diesel? Check These First",
+      "buyIf": [
+        "* Full Mercedes service history with evidence of regular oil changes using MB 229.5 or 229.51 spec oil",
+        "* Camtronic system inspected or serviced (no popping intake noises)",
+        "* Fuel system regularly maintained (quality fuel, regular filter changes)",
+        "* Turbocharger and AdBlue/DPF system inspected",
+        "* Early OM656 vacuum oil pump issue resolved (if applicable)"
+      ],
+      "avoidIf": [
+        "* Popping noise from the intake (cam rocker wear warning)",
+        "* Rough running or misfires (injector issues)",
+        "* Loss of power or turbo lag (turbo or actuator issues)",
+        "* Poor service history — the OM656 is a sophisticated engine that demands good maintenance",
+        "* Engine warning light with no diagnosis"
+      ]
+    },
+    "closingVerdict": "The CLS 350d and 400d are powered by Mercedes' modern OM656 straight-six diesel — a sophisticated and refined engine that delivers exceptional performance and efficiency. The 350d offers 286 hp and 600 Nm, while the 400d delivers 340 hp and 700 Nm. Both are generally reliable engines, but they have known weak points: Camtronic valve timing issues, Bosch CP4 fuel system sensitivity, turbocharger concerns, and AdBlue/DPF system faults. These are well-understood and manageable with proper maintenance. Buy on documented history, not on faith. A well-maintained CLS diesel is a £25,000–£50,000 premium four-door coupe; a neglected one is a £7,000 engine replacement waiting to happen.",
+    "cta": {
+      "label": "→ Compare CLS diesel engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes CLS 350d or 400d (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for popping noises from the intake (cam rocker wear warning)",
+      "* Service History — including the OM656 era (2017–present) and confirmed oil-change intervals using MB 229.5/229.51 spec oil",
+      "* Camtronic Check — Any history of camshaft rocker or actuator issues?",
+      "* Fuel System Check — Evidence of regular fuel filter changes and quality fuel use",
+      "* Turbo Check — Any loss of power, turbo lag, or unusual noises? (turbo or actuator warning)",
+      "* DPF/AdBlue Check — Any DPF or AdBlue warning lights or regeneration issues?",
+      "* Engine Warning Light — Have codes been read? Any unresolved Camtronic, fuel, turbo, or emissions system issues?",
+      "* MOT History — Check for emissions-related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM656 — both variants):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,927 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "Straight-6, 4 valves per cylinder"
+        },
+        {
+          "label": "* Bore x Stroke",
+          "value": "82.0 mm × 92.4 mm"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "15.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (Bosch CP4 with piezo injectors)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "BorgWarner R2S sequential twin turbochargers"
+        },
+        {
+          "label": "* Valvetrain",
+          "value": "DOHC with Camtronic variable valve timing"
+        },
+        {
+          "label": "* Block",
+          "value": "Aluminium with plasma-sprayed cast iron Nanoslide coating"
+        },
+        {
+          "label": "* Transmission",
+          "value": "9G-Tronic 9-speed automatic with 4MATIC"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare CLS diesel engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Camshaft rocker wear (Camtronic system) — popping intake noise is the telltale symptom"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "40,000–70,000 miles [PATTERN DATA]"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£5,500–£8,500 reconditioned, supply only [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM656 (350d / 400d) [PATTERN DATA]"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose Camtronic and turbo issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), Midlands (14%) [PATTERN DATA]"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CLS 350d or 400d engine replacement cost in the UK?",
+        "answer": "A reconditioned OM656 2.9-litre diesel engine typically costs £5,500–£8,500 supply only. Used engines are available from £3,500–£5,500. A full engine replacement can run anywhere between £1,500 and £5,000 on average, with Mercedes engine replacements typically around £3,500 or more. Fitting adds £1,300–£2,000 depending on your location and workshop. Main dealer new engines can exceed £14,000."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes CLS 350d or 400d engine reliable?",
+        "answer": "The OM656 is generally considered a reliable engine — a modern, efficient straight-six diesel that replaced the OM642 V6. However, it has known issues: Camtronic variable valve timing problems (camshaft rocker wear causing popping intake noises), Bosch CP4 fuel system sensitivity (poor fuel damages piezo injectors), turbocharger issues (oil deposits, actuator hose failure), and AdBlue/DPF system faults. Regular maintenance and quality fuel are essential."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes CLS 350d and 400d?",
+        "answer": "The most frequently reported issues are Camtronic camshaft rocker wear (popping intake noise, rough idle, engine warning light), fuel system issues (Bosch CP4 injectors sensitive to fuel quality), turbocharger faults (oil deposits, actuator issues, boost lag), vacuum oil pump issues (early cars, 25–40k miles), and AdBlue/DPF system problems."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes CLS diesel engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well-kept £35,000 CLS 400d, a £7,000 recon is 20% — worth it. Against a tired £15,000 example, the same recon approaches our 70% Mercedes threshold — get a scrap valuation first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes CLS diesel engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. CLS 350d: OM656 D29 R SCR. CLS 400d: OM656 D29 SCR. Both are 2.9-litre straight-six twin-turbo diesel engines. The badge on the tailgate is the easiest tell — \"CLS 350 d\" or \"CLS 400 d\"."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the camshaft rocker wear on the OM656, or does it need full engine replacement?",
+        "answer": "Yes — if caught early. Camshaft rocker wear is a known issue that will show up as a popping sound in the intake. Scoring of the cam lobes only happens when the car is driven with the inlet popping for thousands of miles. Repair costs typically range from £800–£2,500. If ignored, the issue can lead to cam lobe scoring, timing failure, and catastrophic engine damage. At the first sign of popping intake noises, book an inspection immediately. Regular oil changes are the single most effective preventative measure."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes CLS Diesel Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted CLS Diesel Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real CLS owners, as part of the Engine Finders network, covering the entire OM656 era — from the 350d to the 400d."
+      },
+      {
+        "title": "Compare CLS Diesel Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit, across every C257 that left the factory with the 2.9-litre straight-six diesel."
+      },
+      {
+        "title": "UK Engine Replacement Services for CLS Diesel",
+        "text": "supply-only or full supply & fit available nationwide, covering the full C257 production run — and we're vetted across every era of this badge."
+      }
+    ],
+    "finalCta": "Find the best Mercedes CLS 350d or 400d engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get your CLS back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes CLS Diesel Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

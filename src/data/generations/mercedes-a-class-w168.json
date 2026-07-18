@@ -1,0 +1,428 @@
+{
+  "meta": {
+    "slug": "mercedes-a-class-w168",
+    "title": "Mercedes A-Class W168 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes A-Class W168 • Hatchback • 1997–2004",
+    "h1": "Mercedes A-Class W168 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the first-generation A-Class — from the 1.4-litre M166 petrol to the 2.1-litre A210 Evolution and the OM668 turbodiesel that defined Mercedes' first front-wheel-drive car. Real UK costs and honest reliability data for this pioneering supermini. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "W168 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Hatchback"
+      },
+      {
+        "icon": "📖",
+        "label": "7 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W168 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes A-Class W168 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W168 hatchback specifically — including the full M166 petrol range and the OM668 turbodiesel line.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W168)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M166 E14",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.4L (1397cc)",
+        "power": "82 PS / 60 kW",
+        "years": "1997–2004",
+        "variants": "A140",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,200–£2,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M166 E16",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.6L (1598cc)",
+        "power": "102 PS / 75 kW",
+        "years": "1997–2004",
+        "variants": "A160",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,400–£2,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M166 E19",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "1.9L (1898cc)",
+        "power": "125 PS / 92 kW",
+        "years": "1999–2004",
+        "variants": "A190",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "M166 E21",
+        "family": "M166",
+        "fuel": "Petrol",
+        "displacement": "2.1L (2084cc)",
+        "power": "140 PS / 103 kW",
+        "years": "2002–2004",
+        "variants": "A210 Evolution",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£4,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM668 DE17 A",
+        "family": "OM668",
+        "fuel": "Diesel",
+        "displacement": "1.7L (1689cc)",
+        "power": "60 PS / 44 kW",
+        "years": "1998–2001",
+        "variants": "A160 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM668 DE17 LA",
+        "family": "OM668",
+        "fuel": "Diesel",
+        "displacement": "1.7L (1689cc)",
+        "power": "90 PS / 66 kW",
+        "years": "1998–2001",
+        "variants": "A170 CDI",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM668 DE17 LA (higher output)",
+        "family": "OM668",
+        "fuel": "Diesel",
+        "displacement": "1.7L (1689cc)",
+        "power": "95 PS / 70 kW",
+        "years": "2001–2004",
+        "variants": "A170 CDI (facelift)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes A-Class W168 — Overview",
+    "intro": "The W168 is the first-generation Mercedes-Benz A-Class, launched in 1997 as the brand's entry-level model and its first front-wheel-drive passenger car. It introduced the \"sandwich concept\" — a raised floorpan that allowed the engine to slide underneath in a collision. The engine range spanned M166 four-cylinder petrol units from 1.4 to 2.1 litres, plus OM668 1.7-litre turbodiesels, with a facelift in 2001 bringing updated power outputs.",
+    "keyFacts": "Platform: Mercedes W168 (first generation) • Predecessor: None (first A-Class) • Successor: W169 (2004) • Sibling body styles in this generation: Five-door hatchback only (Vaneo MPV shared platform).",
+    "marketIntelligenceLine": "The W168 A-Class generated UK engine enquiries in 2025 [PATTERN DATA], with the OM668 diesel and M166 petrol fours remaining the most commonly discussed among specialists."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode — one paragraph: The W168's most dependable engine is the M166 E19 (A190) — the 1.9-litre petrol four offers 125 PS and is widely considered the pick of the M166 range for its balance of power and reliability. The M166 E21 (A210 Evolution) is the most powerful at 140 PS, but its rarity makes it a niche choice. The OM668 diesel line is generally robust but suffers from typical common-rail injector and EGR issues as mileage climbs. For most buyers, the A160 petrol (1.6L, 102 PS) represents the best value — cheap to run, simple to maintain, and free of the diesel's DPF-related complications. Avoid any W168 without documented service history, as the sandwich-concept engine layout makes labour more expensive than on conventional hatches.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes A-Class W168 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M166 E14 (A140)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Ignition coil failure",
+        "repairCostSpecialist": "£150–£300",
+        "replacementCostRecon": "£1,200–£2,200",
+        "ownershipVerdict": "Budget Choice — cheapest W168 to run"
+      },
+      {
+        "engine": "M166 E16 (A160)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Ignition coil, MAF sensor",
+        "repairCostSpecialist": "£150–£400",
+        "replacementCostRecon": "£1,400–£2,800",
+        "ownershipVerdict": "Best Value — the sensible petrol choice"
+      },
+      {
+        "engine": "M166 E19 (A190)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Thermostat housing leak",
+        "repairCostSpecialist": "£200–£400",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Most Reliable — the pick of the range"
+      },
+      {
+        "engine": "M166 E21 (A210 Evolution)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Cooling system leaks",
+        "repairCostSpecialist": "£250–£500",
+        "replacementCostRecon": "£2,200–£4,000",
+        "ownershipVerdict": "Rare Find — collectable but costly to maintain"
+      },
+      {
+        "engine": "OM668 DE17 A (A160 CDI)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Injector wear, EGR clogging",
+        "repairCostSpecialist": "£300–£600",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Solid Diesel — economy-focused choice"
+      },
+      {
+        "engine": "OM668 DE17 LA (A170 CDI)",
+        "typicalMileage": "80k–130k",
+        "commonMajorFailure": "Injector wear, turbo actuator",
+        "repairCostSpecialist": "£300–£700",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Best Diesel — more power, same reliability"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W168 rule",
+      "text": "A £1,800–£3,200 recon on a sub-£2,000 W168 sits at 90–160% of the car's value — at that point, scrap value usually wins. Against a well-kept £4,000+ example, the same recon drops to 45–80% — still a serious decision, but one that can make sense if the car is otherwise sound. Value the car first, then the engine."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W168 Costs Least To Own?",
+        "answer": "A140 (M166 E14) — cheapest parts and simplest engine."
+      },
+      {
+        "question": "Which W168 Costs Most To Own?",
+        "answer": "A210 Evolution (M166 E21) — rare parts and cooling system complexity."
+      },
+      {
+        "question": "Which W168 Is Best Value?",
+        "answer": "A160 (M166 E16) — enough power, simple mechanics, widely available."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M166 Petrol Ignition Coil Failure",
+        "affectedModels": "W168 A140, A160, A190 (all M166 petrol variants).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "The M166's coil-on-plug ignition system is prone to coil pack failure, leading to misfires, rough idle, and reduced power. The issue is exacerbated by age and heat cycling in the tightly packed engine bay.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£300–£500",
+            "specialist": "£150–£300",
+            "work": "Replace faulty coil pack(s) and spark plugs",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,500–£2,500",
+            "specialist": "£1,200–£2,200",
+            "work": "Full engine strip and rebuild if misfire has caused bore damage",
+            "note": ""
+          }
+        ],
+        "recommendation": "At the first sign of a misfire or rough idle, have the coil packs and spark plugs replaced — £150–£300 is cheap insurance against the £1,200+ replacement that follows if a persistent misfire damages the cylinder bore.",
+        "cta": {
+          "label": "Compare M166 engine prices for your W168 A-Class →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM668 Diesel Injector Wear & EGR Clogging",
+        "affectedModels": "W168 A160 CDI, A170 CDI (all OM668 diesel variants).",
+        "typicalFailureMileage": "80,000–130,000 miles.",
+        "rootCause": "The OM668's common-rail injectors wear over time, causing poor cold starting, increased smoke, and reduced fuel economy. The EGR valve clogs with soot, particularly on cars used for short urban journeys.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£500–£900",
+            "specialist": "£300–£600",
+            "work": "Injector refurbishment, EGR cleaning",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£2,500–£4,000",
+            "specialist": "£1,800–£3,200",
+            "work": "Full replacement of injectors, EGR, and DPF if damaged",
+            "note": ""
+          }
+        ],
+        "recommendation": "Use premium diesel and give the car a regular motorway run to keep the EGR and DPF clear — a £300 injector service every 80,000 miles is far cheaper than the £1,800+ replacement that follows if injector wear leads to bore wash or turbo damage.",
+        "cta": {
+          "label": "Compare OM668 engine prices for your W168 A-Class →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Sandwich Concept Engine Mount Wear",
+        "affectedModels": "All W168 variants.",
+        "typicalFailureMileage": "70,000–120,000 miles.",
+        "rootCause": "The W168's unique \"sandwich\" design mounts the engine at a 59-degree angle just behind the front axle. The engine mounts and subframe bushes wear over time, causing clunking, vibration, and misalignment that can accelerate drivetrain wear.",
+        "tieredCosts": [
+          {
+            "tier": "Preventative (Repair)",
+            "dealer": "£500–£800",
+            "specialist": "£300–£500",
+            "work": "Replace engine mounts and subframe bushes",
+            "note": ""
+          },
+          {
+            "tier": "Catastrophic (Replacement)",
+            "dealer": "£1,200–£1,800",
+            "specialist": "£900–£1,400",
+            "work": "Full subframe removal and reinforcement if mounts have failed completely",
+            "note": ""
+          }
+        ],
+        "recommendation": "Have the engine mounts inspected at every service after 70,000 miles — £300–£500 in preventative work is a fraction of the £900+ cost if worn mounts cause subframe damage or drivetrain misalignment.",
+        "cta": {
+          "label": "Compare W168 engine mount replacement quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W168 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "A140",
+        "engineCode": "M166 E14",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,200–£2,200",
+        "rebuiltSupply": "£1,800–£3,000",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "A160",
+        "engineCode": "M166 E16",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,400–£2,800",
+        "rebuiltSupply": "£2,200–£3,800",
+        "labourHours": "8–12 hrs"
+      },
+      {
+        "variant": "A190",
+        "engineCode": "M166 E19",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "A210 Evolution",
+        "engineCode": "M166 E21",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,200–£4,000",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "A160 CDI (60 PS)",
+        "engineCode": "OM668 DE17 A",
+        "usedSupply": "£700–£1,400",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,500–£4,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "A170 CDI (90/95 PS)",
+        "engineCode": "OM668 DE17 LA",
+        "usedSupply": "£900–£1,600",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "10–14 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "A160 CDI",
+      "A170 CDI"
+    ],
+    "petrolVariants": [
+      "A140",
+      "A160",
+      "A190",
+      "A210 Evolution"
+    ],
+    "scopeNote": "All variants listed are W168 five-door hatchback only. The W169 (second generation) and Vaneo (MPV variant) share some engines but are covered on their own pages."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

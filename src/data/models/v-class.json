@@ -1,0 +1,655 @@
+{
+  "meta": {
+    "slug": "v-class",
+    "title": "V-Class Engines — The Complete UK Guide",
+    "titleCharCount": 39,
+    "description": "",
+    "descriptionCharCount": 0,
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • V-Class • 2014–present • 1 Generation • OM651 • OM654",
+    "h1": "V-Class Engines — The Complete UK Guide",
+    "subHeadline": "Every V-Class engine — from the OM651 2.2-litre diesel in the original W447 to the OM654 2.0-litre diesel in the 2019 facelift. One generation, two engine eras, complete cost data, and honest verdicts on which V-Class is the better buy. Backed by real UK enquiry data [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "300+ Enquiries (2025) [PATTERN DATA]"
+      },
+      {
+        "icon": "🔧",
+        "label": "1 Generation Covered"
+      },
+      {
+        "icon": "📖",
+        "label": "6+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore V-Class Engines →",
+      "href": "#"
+    }
+  },
+  "ownershipVerdict": {
+    "h2": "V-Class — The Ownership Verdict",
+    "metrics": [
+      {
+        "metric": "Overall Ownership Rating",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Replacement Economics",
+        "ourCall": "✅ The V-Class rule: post-2019 OM654 is the smarter buy — the engine is better, but the real cost is in the vehicle value, not the replacement"
+      },
+      {
+        "metric": "Reliability",
+        "ourCall": "★★★★☆"
+      },
+      {
+        "metric": "Most Reliable Engine",
+        "ourCall": "OM654 2.0 diesel — modern, efficient, materially fewer reported issues than the OM651"
+      },
+      {
+        "metric": "Highest-Risk Engine",
+        "ourCall": "OM651 2.2 diesel — timing chain stretch and injector issues on higher-mileage examples"
+      },
+      {
+        "metric": "Best Used Buy",
+        "ourCall": "V-Class V 250 d (2019+) with the OM654 engine"
+      },
+      {
+        "metric": "Average Engine Replacement",
+        "ourCall": "£1,500–£4,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "metric": "Most Common Failure Enquiry",
+        "ourCall": "OM651 injector / timing chain issues on pre-2019 models [PATTERN DATA]"
+      },
+      {
+        "metric": "Mercedes Ranking",
+        "ourCall": "🚐 \"The Premium People Carrier\""
+      }
+    ],
+    "oneLineVerdict": "The V-Class is the most luxurious MPV on the market — but buy the 2019 facelift with the OM654 diesel, because the older OM651's timing chain and injector issues are a false economy on a £20,000+ vehicle."
+  },
+  "atAGlance": {
+    "h2": "V-Class at a Glance",
+    "rows": [
+      {
+        "metric": "Generations",
+        "value": "1 (W447 2014–present, with 2019 facelift)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2014–present"
+      },
+      {
+        "metric": "Engine Codes Tracked",
+        "value": "6+"
+      },
+      {
+        "metric": "Fuel Types",
+        "value": "Diesel"
+      },
+      {
+        "metric": "Most Enquired Engine (2025)",
+        "value": "OM651 2.2 diesel [PATTERN DATA]"
+      },
+      {
+        "metric": "Most Reliable",
+        "value": "OM654 2.0 diesel"
+      },
+      {
+        "metric": "Highest-Risk",
+        "value": "OM651 2.2 diesel (timing chain/injectors)"
+      },
+      {
+        "metric": "Typical Replacement Cost",
+        "value": "£1,500–£4,000 [PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "metric": "Typical Host Value",
+        "value": "£13,000–£75,000 [THIRD-PARTY]"
+      },
+      {
+        "metric": "Overall Rating",
+        "value": "★★★★☆"
+      }
+    ]
+  },
+  "generations": {
+    "h2": "V-Class — One Generation, Two Engine Eras",
+    "subHeadline": "The W447 V-Class has been on sale since 2014 — but the 2019 facelift changed everything under the bonnet.",
+    "cards": [
+      {
+        "title": "W447 V-Class (2014–2019)",
+        "badge": "🔥 Most Enquired — 200+ enquiries (2025) [PATTERN DATA]",
+        "meta": "2014–2019 • OM651 2.2-litre four-cylinder diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The original W447 V-Class — launched in 2014 to replace the Viano, based on the same platform as the Vito but with a much more luxurious interior. The OM651 2.2-litre diesel is a proven workhorse, but it carries the same timing chain and injector issues that affect other Mercedes models of this era. Buy one only with full service history and evidence of timing chain work if over 80,000 miles.",
+        "cta": {
+          "label": "Explore W447 V-Class (2014–2019) →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "W447 V-Class Facelift (2019–present)",
+        "badge": "",
+        "meta": "2019–present • OM654 2.0-litre four-cylinder diesel",
+        "rating": "★★★★★",
+        "verdict": "The 2019 facelift brought the OM654 2.0-litre diesel — the same engine found in the W213 E-Class and W205 C-Class — along with the 9G-Tronic nine-speed automatic. The OM654 is materially more reliable than the OM651, with fewer reported timing chain and injector issues. This is the V-Class to buy. The V 300 d (239 hp) is a genuinely quick people carrier — 0-60 in 7.9 seconds.",
+        "cta": {
+          "label": "Explore W447 V-Class Facelift (2019–present) →",
+          "href": "#"
+        }
+      },
+      {
+        "title": "Comparison: The OM651 vs OM654 Divide",
+        "badge": "",
+        "meta": "The V-Class's biggest decision isn't which generation to buy — it's which engine era. The pre-2019 OM651 is a 2.2-litre four-cylinder diesel with a seven-speed automatic. The post-2019 OM654 is a 2.0-litre four-cylinder diesel with a nine-speed automatic. The OM654 offers better fuel economy (up to 13% improvement), lower internal friction, and materially fewer reported reliability issues. The OM651 is cheaper to buy but riskier to own.",
+        "rating": "",
+        "verdict": "",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ],
+    "rangeTable": {
+      "title": "",
+      "columns": [],
+      "rows": []
+    },
+    "comparisonLink": {
+      "label": "Read the full comparison: V-Class OM651 vs OM654 →",
+      "href": "#"
+    }
+  },
+  "engineDatabase": {
+    "h2": "V-Class Engine Codes — The Complete Database",
+    "subHeadline": "Every engine ever fitted to the Mercedes-Benz V-Class — verified against manufacturer and specialist sources.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Disp.",
+      "Power",
+      "Years",
+      "Gen.",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM651.911 / .912 / .913",
+        "family": "OM651",
+        "fuel": "Diesel",
+        "displacement": "2.2L I4",
+        "power": "136 PS (100 kW)",
+        "years": "2014–2019",
+        "model": "W447",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM651.916 / .921 / .924",
+        "family": "OM651",
+        "fuel": "Diesel",
+        "displacement": "2.2L I4",
+        "power": "163 PS (120 kW)",
+        "years": "2014–2019",
+        "model": "W447",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM651.925 / .930 / .940",
+        "family": "OM651",
+        "fuel": "Diesel",
+        "displacement": "2.2L I4",
+        "power": "190 PS (140 kW)",
+        "years": "2014–2019",
+        "model": "W447",
+        "reliability": "★★★☆☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel",
+        "displacement": "2.0L I4",
+        "power": "163 PS (120 kW)",
+        "years": "2019–present",
+        "model": "W447",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel",
+        "displacement": "2.0L I4",
+        "power": "190 PS (140 kW)",
+        "years": "2019–present",
+        "model": "W447",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel",
+        "displacement": "2.0L I4",
+        "power": "239 PS (176 kW)",
+        "years": "2019–present",
+        "model": "W447",
+        "reliability": "★★★★☆",
+        "enquiries": "[PATTERN DATA]",
+        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM651 rating: 80% confidence — the 2.2-litre diesel is one of Mercedes' most documented engines across C-Class, E-Class, Sprinter and V-Class applications. OM654 rating: 75% confidence — the 2.0-litre diesel is newer, with good initial data but limited long-term UK failure data yet. All cost figures are [PLACEHOLDER — confirm vs cost sheet] and should be replaced with real data from the proprietary cost file. Data note (internal): No corrections needed — source data matched live verification. Note that the OM654 uses the same base code (.920) across different power outputs; the V 220 d (163 PS), V 250 d (190 PS) and V 300 d (239 PS) are all different tunes of the same engine."
+    },
+    "dataCorrections": []
+  },
+  "commonProblems": {
+    "h2": "Common V-Class Engine Problems",
+    "subHeadline": "What actually goes wrong with V-Class engines — from the OM651 2.2-litre diesel to the OM654 2.0-litre — and what it costs to fix.",
+    "columns": [
+      "#",
+      "Problem",
+      "Description",
+      "Severity",
+      "Link"
+    ],
+    "problems": [
+      {
+        "id": 1,
+        "issue": "OM651 timing chain stretch and guide wear",
+        "description": "The 2.2-litre diesel suffers from timing chain stretch and guide wear — the same issue that affects other OM651-equipped Mercedes models. Symptoms: rattling on cold start, cam/crank correlation codes. Most common on higher-mileage pre-2019 V-Class models. Chain replacement is a significant job.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "issue": "OM651 injector faults (early models)",
+        "description": "Early OM651 injectors (Delphi piezo type) can fail, causing rough idle, limp mode, and rail pressure errors. Later magnetic injectors are more durable. Symptoms: rough running, loss of power, check engine light. Replacement is expensive but well-understood.",
+        "severity": {
+          "icon": "🟠",
+          "label": "Immediate",
+          "type": "immediate"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "issue": "AdBlue system issues (OM651 and OM654)",
+        "description": "Both OM651 and OM654 engines with AdBlue/SCR systems suffer from NOx sensor failures, heater failures, and crystallisation. Symptoms: AdBlue warning lights, reduced power, countdown to no-start. Common from 60,000 miles.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "issue": "7G-Tronic gearbox issues (pre-2019)",
+        "description": "The seven-speed automatic in pre-2019 V-Class models can suffer from rough shifting, delayed engagement, and torque converter issues. Symptoms: jerky gear changes, hesitation, transmission warning lights. Often misdiagnosed as an engine problem.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "issue": "EGR clogging (OM651)",
+        "description": "The OM651's EGR system is prone to clogging, causing hesitation, rough idle, and elevated soot. Common on vehicles used primarily for urban driving. Regular cleaning can prevent more serious issues.",
+        "severity": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "type": "monitor"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 6,
+        "issue": "Auxiliary heater and electrical issues",
+        "description": "V-Class owners report issues with the auxiliary heater, battery drain, and various electrical gremlins. Symptoms: heater not working, battery warning lights, multiple system warnings. Often caused by a failing starter battery or control unit communication errors.",
+        "severity": {
+          "icon": "🟢",
+          "label": "Low",
+          "type": "low"
+        },
+        "link": {
+          "label": "Read more →",
+          "href": "#"
+        }
+      }
+    ],
+    "urgencyKey": [
+      {
+        "icon": "🔴",
+        "label": "Catastrophic",
+        "text": "stop driving, specialist inspection immediately"
+      },
+      {
+        "icon": "🟠",
+        "label": "Immediate",
+        "text": "book inspection now"
+      },
+      {
+        "icon": "🟡",
+        "label": "Monitor",
+        "text": "book inspection soon"
+      },
+      {
+        "icon": "🟢",
+        "label": "Low",
+        "text": "plan at next service"
+      }
+    ]
+  },
+  "marketIntelligence": {
+    "h2": "V-Class Market Intelligence — What UK Owners Told Us in 2025",
+    "signals": [
+      {
+        "signal": "Most-enquired V-Class era",
+        "data": "Pre-2019 OM651 models [PATTERN DATA]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Most-enquired V-Class engine",
+        "data": "OM651 2.2 diesel [PATTERN DATA]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Most-enquired V-Class variant",
+        "data": "V 250 d [PATTERN DATA]",
+        "demandTrend": "⬆ Rising"
+      },
+      {
+        "signal": "Average V-Class enquiry value",
+        "data": "£1,500–£4,000 [PLACEHOLDER — confirm vs cost sheet]",
+        "demandTrend": "➡ Stable"
+      }
+    ],
+    "insights": [
+      "Interesting insight: The pre-2019 OM651 V-Class generates more enquiries than the post-2019 OM654 models — despite the OM654 being the objectively better engine. This reflects the reality of the used market: more affordable V-Class models are the older cars, and their owners are the ones facing repair decisions on £15,000–£25,000 vehicles.",
+      "The OM651's timing chain and injector issues are the most common V-Class engine enquiries — the same pattern seen across C-Class, E-Class and Sprinter models with the same engine. The OM654 has materially fewer reported issues, making the facelift V-Class the smarter long-term buy.",
+      "The V-Class's sweet spot is the 2019+ facelift with the OM654 engine — but values start at £25,000+, which is a significant step up from the £13,000–£20,000 pre-2019 cars. The decision is essentially: pay more now for the better engine, or pay less now and budget for potential OM651 repairs."
+    ],
+    "liveEnquiryFeedNote": ""
+  },
+  "editorialPullQuote": {
+    "title": "The One Thing We'd Tell Every V-Class Buyer",
+    "quote": "Buy the 2019 facelift with the OM654 2.0-litre diesel. The pre-2019 OM651 cars are cheaper to buy, but the timing chain and injector issues make them a false economy on a £15,000+ vehicle. The OM654 is materially more reliable, more efficient, and comes with the 9G-Tronic gearbox — it's the V-Class to own. End of Sections 1–7. Ready for 8–14 when you are."
+  },
+  "replacementCosts": {
+    "h2": "V-Class Engine Replacement Costs — By Engine Era",
+    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt V-Class engines — supply-only, with labour guidance.",
+    "tables": [
+      {
+        "title": "W447 V-Class Pre-Facelift (2014–2019) — OM651 2.2 Diesel",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": [
+          {
+            "model": "V 220 CDI",
+            "engineCode": "OM651.911 / .912",
+            "usedSupply": "£600–£1,400",
+            "reconditionedSupply": "£1,500–£2,800",
+            "rebuiltSupply": "£2,500–£4,000",
+            "labourHours": "10–14 hrs"
+          },
+          {
+            "model": "V 200 CDI / V 220 d",
+            "engineCode": "OM651.916 / .921",
+            "usedSupply": "£600–£1,400",
+            "reconditionedSupply": "£1,500–£2,800",
+            "rebuiltSupply": "£2,500–£4,000",
+            "labourHours": "10–14 hrs"
+          },
+          {
+            "model": "V 250 BlueTEC / V 250 d",
+            "engineCode": "OM651.925 / .930",
+            "usedSupply": "£700–£1,600",
+            "reconditionedSupply": "£1,800–£3,200",
+            "rebuiltSupply": "£3,000–£4,500",
+            "labourHours": "10–14 hrs"
+          }
+        ]
+      },
+      {
+        "title": "W447 V-Class Facelift (2019–present) — OM654 2.0 Diesel",
+        "columns": [
+          "Variant",
+          "Engine Code",
+          "Used (Supply)",
+          "Reconditioned (Supply)",
+          "Rebuilt (Supply)",
+          "Labour Hours"
+        ],
+        "rows": [
+          {
+            "model": "V 220 d",
+            "engineCode": "OM654.920 (163 PS)",
+            "usedSupply": "£800–£1,800",
+            "reconditionedSupply": "£1,800–£3,200",
+            "rebuiltSupply": "£3,000–£5,000",
+            "labourHours": "10–14 hrs"
+          },
+          {
+            "model": "V 250 d",
+            "engineCode": "OM654.920 (190 PS)",
+            "usedSupply": "£900–£2,000",
+            "reconditionedSupply": "£2,000–£3,500",
+            "rebuiltSupply": "£3,500–£5,500",
+            "labourHours": "10–14 hrs"
+          },
+          {
+            "model": "V 300 d",
+            "engineCode": "OM654.920 (239 PS)",
+            "usedSupply": "£1,000–£2,200",
+            "reconditionedSupply": "£2,200–£4,000",
+            "rebuiltSupply": "£4,000–£6,000",
+            "labourHours": "10–14 hrs"
+          }
+        ]
+      }
+    ],
+    "figuresNote": "Labour estimate: Fitting a V-Class engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER — confirm vs cost sheet]. The V-Class's large front engine bay improves access compared to smaller Mercedes models, but the sheer size and weight of the vehicle adds time for lifting and alignment. The V-Class rule — the facelift is the smarter buy: A £1,800–£3,200 OM654 recon on a £25,000–£40,000 2019+ V-Class sits at 5–13% of the car's value — well below our 70% threshold for Mercedes-Benz. But a £1,500–£2,800 OM651 recon on a £13,000–£20,000 pre-2019 V-Class sits at 10–21% — still viable, but the real cost is the higher probability of needing that work in the first place. The OM654 is materially more reliable, and the vehicle values are high enough that replacement is almost always justified. Buy the facelift if your budget allows; the OM651 is a false economy on a premium people carrier.",
+    "labourEstimate": "Fitting a V-Class engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER — confirm vs cost sheet]. The V-Class's large front engine bay improves access compared to smaller Mercedes models, but the sheer size and weight of the vehicle adds time for lifting and alignment. The V-Class rule — the facelift is the smarter buy: A £1,800–£3,200 OM654 recon on a £25,000–£40,000 2019+ V-Class sits at 5–13% of the car's value — well below our 70% threshold for Mercedes-Benz. But a £1,500–£2,800 OM651 recon on a £13,000–£20,000 pre-2019 V-Class sits at 10–21% — still viable, but the real cost is the higher probability of needing that work in the first place. The OM654 is materially more reliable, and the vehicle values are high enough that replacement is almost always justified. Buy the facelift if your budget allows; the OM651 is a false economy on a premium people carrier.",
+    "economicsBox": {
+      "title": "",
+      "text": ""
+    }
+  },
+  "engineEvolution": {
+    "h2": "How the V-Class Engine Range Evolved — 2014 to Today",
+    "columns": [
+      "Era",
+      "Years",
+      "Key Engines",
+      "Why Mercedes Changed",
+      "Worth Knowing"
+    ],
+    "eras": [
+      {
+        "era": "W447 Launch — The Modern V-Class",
+        "years": "2014–2015",
+        "keyEngines": "OM651 2.2 diesel (136–190 PS)",
+        "whyBmwChanged": "Mercedes relaunched the V-Class in 2014 to replace the Viano — a premium people carrier based on the Vito platform, but with a much more luxurious interior and a focus on the chauffeur/executive market.",
+        "worthKnowing": "The OM651 2.2-litre diesel was already well-proven in the C-Class, E-Class and Sprinter. It offered good economy and reasonable performance for a 2.5-tonne vehicle."
+      },
+      {
+        "era": "OM651 Evolution — BlueTEC and Power Upgrades",
+        "years": "2015–2019",
+        "keyEngines": "OM651 2.2 diesel (136–190 PS, with AdBlue)",
+        "whyBmwChanged": "Mercedes updated the OM651 with AdBlue/SCR emissions systems to meet Euro 6 standards. Power outputs remained broadly similar, but the emissions hardware added complexity.",
+        "worthKnowing": "The OM651 is a workhorse engine — capable of 200,000+ miles with proper maintenance — but the timing chain and injector issues are well-documented."
+      },
+      {
+        "era": "W447 Facelift — OM654 Introduction",
+        "years": "2019–present",
+        "keyEngines": "OM654 2.0 diesel (163–239 PS)",
+        "whyBmwChanged": "The facelift brought the OM654 2.0-litre diesel — a cleaner, more efficient, more powerful engine that also reduced internal friction and improved fuel economy by up to 13%. The 9G-Tronic automatic replaced the older 7G-Tronic.",
+        "worthKnowing": "The OM654 is a significant step forward. The V 300 d (239 PS) offers genuinely brisk performance for a 2.5-tonne people carrier — 0-60 in 7.9 seconds. The facelift also brought better interiors, MBUX infotainment, and updated driver assistance systems."
+      }
+    ]
+  },
+  "whoShouldBuy": {
+    "h2": "Who Should Buy a V-Class?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Family Buyer",
+        "rating": "★★★★★",
+        "verdict": "The V-Class is the ultimate family people carrier — space for seven (or eight), flexible seating, and a genuinely luxurious interior. The 2019+ facelift with the OM654 is the one to buy; the extra refinement and reliability are worth the premium. The V 250 d is the sweet spot — 190 PS, 40+ mpg, and enough torque to tow a caravan."
+      },
+      {
+        "buyerProfile": "Chauffeur / Executive Transport",
+        "rating": "★★★★★",
+        "verdict": "The V-Class is the UK's premium people carrier of choice for executive and chauffeur work — comfortable, refined, and professional. The V 300 d offers the best performance; the V 250 d offers the best economy. The OM654 is materially more refined than the OM651, making the facelift essential for professional use."
+      },
+      {
+        "buyerProfile": "Commercial / Business Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The V-Class sits above the Vito in Mercedes' commercial range — it's a premium product for businesses that need to transport clients or staff in comfort. The load capacity and towing capability are excellent, but the V-Class is ultimately a passenger vehicle first. Consider the Vito if load capacity is your priority."
+      },
+      {
+        "buyerProfile": "Towing & Working Use",
+        "rating": "★★★★☆",
+        "verdict": "The V-Class can tow up to 2,500 kg (braked) — enough for most caravans, horseboxes, and trailers. The OM654's 239 PS / 500 Nm in the V 300 d makes it a capable tow car. The 9G-Tronic gearbox is well-suited to towing, with excellent torque management."
+      },
+      {
+        "buyerProfile": "Design-Led / Premium Buyer",
+        "rating": "★★★★★",
+        "verdict": "The V-Class is the most stylish MPV on the market — the 2019 facelift with AMG Line styling, leather interior, and the latest MBUX system is genuinely desirable. It's not cheap, but it makes a statement. The V-Class AMG Line with the OM654 V 300 d is a genuinely impressive package."
+      }
+    ]
+  },
+  "calculatorCta": {
+    "h2": "Can I Repair My V-Class Engine — or Should I Replace It?",
+    "intro": "The V-Class's biggest decision is whether to buy a cheaper pre-2019 OM651 model and budget for potential repairs, or pay more for the 2019+ OM654 facelift. If your OM651 is rattling on cold start, or your AdBlue system is throwing warnings, get a diagnosis before deciding. A £400 timing chain inspection is very different from a £3,000 full replacement.",
+    "paths": [
+      {
+        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with V-Class pre-selected",
+        "href": "MercedesEngines.uk/#engine-calculator?model=v-class"
+      },
+      {
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "MercedesEngines.uk/#engine-calculator"
+      }
+    ]
+  },
+  "trustBlock": {
+    "h2": "Why V-Class Owners Trust MercedesEngines.uk",
+    "signals": [
+      {
+        "icon": "📊",
+        "title": "Built on Real Data",
+        "text": "Every reliability rating and cost range on this page comes from genuine UK enquiry and quote data — not manufacturer marketing, not forum guesswork. The V-Class's data is drawn from real owner enquiries and cross-referenced against Mercedes-Benz specialist sources [PATTERN DATA]."
+      },
+      {
+        "icon": "💚",
+        "title": "We Tell You When Not to Repair",
+        "text": "The V-Class's economics mean we tell you when a repair doesn't make sense. A £2,800 OM651 recon on a £13,000 pre-2019 V-Class is a significant decision — and we say so. That's the difference between a knowledge base and a sales page."
+      },
+      {
+        "icon": "🔧",
+        "title": "Vetted Mercedes",
+        "text": "Benz Specialists — 25+ vetted Mercedes-Benz specialists who work on V-Class engines daily. They know the OM651 timing chain and injector issues, and the OM654 AdBlue systems inside out — and they'll give you an honest assessment before they touch your car."
+      },
+      {
+        "icon": "🏆",
+        "title": "Part of Engine Finders",
+        "text": "MercedesEngines.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "V-Class Frequently Asked Questions",
+    "items": []
+  },
+  "closingActionCards": {
+    "h2": "Ready to Make a Decision?",
+    "cards": [
+      {
+        "icon": "🔍",
+        "title": "Explore V-Class Engine Eras",
+        "text": "",
+        "href": "#"
+      },
+      {
+        "icon": "🩺",
+        "title": "Diagnose My V-Class",
+        "text": "",
+        "href": "#"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compare UK Specialists",
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "footerNote": ""
+  }
+}

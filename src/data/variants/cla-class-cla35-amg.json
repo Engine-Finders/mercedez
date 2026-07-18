@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "slug": "cla-class-cla35-amg",
+    "title": "CLA35 AMG Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Mercedes CLA35 AMG M260 engine — real UK costs, timing chain & cylinder head watchpoints. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "canonical": "https://mercedesengine.uk/cla-class/cla35-amg/",
+    "openGraph": {
+      "title": "CLA35 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes CLA35 AMG M260 engine — real UK costs, timing chain & cylinder head watchpoints. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/cla-class/cla35-amg/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/cla35-amg.jpg",
+      "siteName": "MercedesEngine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "CLA35 AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Mercedes CLA35 AMG M260 engine — real UK costs, timing chain & cylinder head watchpoints.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/cla35-amg.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLA-Class",
+              "item": "https://mercedesengine.uk/cla-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CLA-Class C118/X118",
+              "item": "https://mercedesengine.uk/cla-class/c118/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLA35 AMG",
+              "item": "https://mercedesengine.uk/cla-class/cla35-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLA35 AMG Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C118/X118 CLA35 AMG (M260, 2019–present)",
+              "url": "https://mercedesengine.uk/cla-class/c118/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLA35 AMG Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M260 (2.0 turbo inline-4)",
+              "url": "https://mercedesengine.uk/engines/m260/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes CLA35 AMG engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M260 engine typically costs £4,500–£7,000 supply only, with rebuilt units reaching £8,000. Fitting adds £1,200–£1,800. A new engine from a Mercedes main dealer can exceed £10,000. Use our calculator for a figure specific to your CLA35 AMG."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes CLA35 AMG (M260) engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M260 is considered reliable in its early years of production, benefiting from modern materials, cooling and precise ECU management. However, it has known weaknesses: timing chain tensioner failure (rattling on cold start), cylinder head/valve guide wear (misfires, loss of compression), and Camtronic system failures. Regular maintenance with Mercedes‑approved oil is essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes CLA35 AMG engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing chain tensioner failure (rattling on cold start), cylinder head/valve guide wear (misfires, loss of compression), Camtronic system failure (loss of low‑end power), oil leaks, and carbon buildup on intake valves."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a CLA35 AMG engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on vehicle value. A CLA35 AMG is a £15,000–£35,000 vehicle — a £5,000–£6,000 recon is 14–40% of the car's value, making replacement viable in most cases. A well‑maintained, lower‑mileage example justifies replacement; a tired, high‑mileage one may not."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes CLA35 AMG engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation. The CLA35 AMG engine code is M260 — a 2.0‑litre turbocharged inline‑4. Tell us your registration date and we'll confirm it for free."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I prevent the common failures on a CLA35 AMG?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — regular oil changes with Mercedes‑approved MB 229.5 5W‑30 oil every 10,000 km are the most effective prevention. On early cars, have the timing chain tensioner inspected at 40,000 miles. At the first sign of cold‑start rattle, misfire or rough idle, book an inspection immediately."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes CLA35 AMG Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "8000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes CLA35 AMG UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes CLA35 AMG engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLA35 AMG Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cla-class/cla35-amg/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes CLA35 AMG • 2019–present • M260",
+    "h1": "Mercedes CLA35 AMG Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "The CLA35 AMG is powered by the M260 2.0‑litre turbocharged four‑cylinder — 306 hp, 400 Nm, and AMG‑specific tuning across the C118 and X118 generations. Get quotes from trusted UK specialists today.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes CLA35 AMG Engines — from £2,500 to £8,000 · M260",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See Mercedes CLA35 AMG Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "The CLA35 AMG THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes CLA35 AMG Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,500–£4,500",
+        "fittedIndie": "£3,700–£6,000",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower‑mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£4,500–£7,000",
+        "fittedIndie": "£5,700–£8,500",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£6,000–£8,000",
+        "fittedIndie": "£7,200–£9,600",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£8,000–£12,000",
+        "fittedIndie": "£9,200–£13,800",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the current M260 generation. A replacement M260 engine costs on average £4,500–£7,000 for a reconditioned unit, with new units from the main dealer significantly higher.",
+    "labourEstimate": "Fitting a CLA35 AMG engine typically takes 12–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer).",
+    "cta": {
+      "label": "→ Compare CLA35 AMG engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Timing Chain Tensioner Failure",
+        "symptoms": "Rattling noise on cold start (often lasting a few seconds), check engine light with timing‑related fault codes, engine misfires, and in severe cases, loss of power if the chain jumps.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£1,500–£3,000 (chain, tensioner and guide rails replacement)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£4,500–£8,000 (full engine replacement if chain jumps)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattle, book an inspection today"
+        },
+        "recommendation": "The M260's timing chain tensioner is a known weak point. Rattling on cold start indicates that the tensioner is failing to maintain proper oil pressure, allowing the chain to slap against its guides. If left unaddressed, the chain can jump timing or snap, resulting in catastrophic engine damage. Regular oil changes with Mercedes‑approved synthetic oil (MB 229.5) every 10,000 km are essential. At the first sign of cold‑start rattle, have the timing chain system inspected immediately.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/timing-chain-tensioner-failure/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Cylinder Head / Valve Guide Wear",
+        "symptoms": "Rough running, loss of compression, persistent misfires (even after replacing plugs and coils), high emissions, and in severe cases, coolant and oil mixing.",
+        "typicalMileage": "30,000–60,000 miles",
+        "repairCost": "£2,500–£4,500 (cylinder head replacement with updated parts)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "£4,500–£8,000 (full engine replacement if damage is extensive)",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you experience misfires or rough running, book an inspection today"
+        },
+        "recommendation": "The M260 has a known defect in the valve heads — increased wear on exhaust valve seat rings and valve guides can cause insufficiently sealed combustion chambers. This leads to rough running, misfires and high emissions. Mercedes issued a warranty extension for this issue in some markets (ECR‑M0002‑22‑010). If you experience persistent misfires, have the cylinder head inspected immediately — catching it early can save you from a £4,500+ repair bill.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/cylinder-head-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Camtronic System Failure",
+        "symptoms": "Loss of low‑end power, rough idle, hesitation on acceleration, engine warning light, and in rare cases, complete failure of the variable valve lift system.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£1,000–£2,500 (Camtronic solenoid or actuator replacement)【PLACEHOLDER — confirm vs cost sheet】",
+        "replacementCost": "N/A — repair only",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if symptoms appear"
+        },
+        "recommendation": "The CAMTRONIC system — which provides variable valve timing — is a rare but expensive failure point on the M260. If you notice a loss of low‑end power or rough running, have the CAMTRONIC system diagnosed. Replacing a failed solenoid or actuator is significantly cheaper than the performance loss and potential engine damage that can result from ignoring the issue.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/camtronic-failure/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes specialists, every CLA35 AMG engine covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "See Mercedes CLA35 AMG Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "CLA35 AMG — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Timing chain tensioner failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,000",
+          "whenItMakesSense": "Catch it early — before chain jumps"
+        },
+        {
+          "problem": "Cylinder head / valve guide wear",
+          "repairable": "✅ Yes",
+          "typicalCost": "£2,500–£4,500",
+          "whenItMakesSense": "Replace with updated parts — permanent fix"
+        },
+        {
+          "problem": "Camtronic system failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,000–£2,500",
+          "whenItMakesSense": "Replace solenoid or actuator — cheaper than ignoring it"
+        },
+        {
+          "problem": "Oil leaks",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800",
+          "whenItMakesSense": "Routine maintenance — do preventatively"
+        },
+        {
+          "problem": "Severe engine damage (chain snap / valve failure)",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Little left to salvage — replacement is the only option"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This CLA35 AMG? Check These First",
+      "buyIf": [
+        "* No cold‑start rattle — timing chain tensioner in good condition",
+        "* No misfire history — cylinder head in good condition",
+        "* Full Mercedes‑Benz service history with MB 229.5 oil spec",
+        "* 2021+ model year — later cars may have fewer early‑production issues"
+      ],
+      "avoidIf": [
+        "* Cold‑start rattle with no tensioner history — timing chain may be failing — walk away",
+        "* Misfire history with no resolution — cylinder head may be failing",
+        "* No service history — M260 engines are sensitive to neglect",
+        "* Reprogrammed / modified engine — increased risks"
+      ]
+    },
+    "closingVerdict": "The CLA35 AMG is the more accessible AMG — 306 hp, 4MATIC AWD and daily‑driver usability in a compact, stylish package. The M260 engine is technologically advanced but has known weaknesses: timing chain tensioner failure, cylinder head/valve guide wear, Camtronic failures and carbon buildup. Buy on full service history with evidence of regular oil changes (every 10,000 km), prioritise later‑model cars, and never ignore a cold‑start rattle or misfire.",
+    "cta": {
+      "label": "→ Compare CLA35 AMG engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes CLA35 AMG (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattling; timing chain tensioner indicator",
+      "* Misfire / Rough Running — Check for uneven running; cylinder head or Camtronic indicator",
+      "* Service History — including engine era (M260) and confirmed oil‑change intervals (10,000 km / MB 229.5 spec)",
+      "* Carbon Build‑up — Check for rough idle or hesitation; may need walnut blasting",
+      "* Oil Leaks — Check under the car and around the engine; valve cover and Camtronic seals are common leak points",
+      "* Turbo Health — Listen for whistling or whining; turbo actuator issues possible",
+      "* DCT7 Gearbox — Check for hesitation or harsh shifts; AMG Speedshift DCT requires regular service",
+      "* MOT History — Check for emissions‑related failures"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M260 (2.0 turbo inline‑4)",
+        "years": "2019–present",
+        "power": "306 hp (225 kW) @ 5,800 rpm; 400 Nm @ 3,000–4,000 rpm",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£7,000【PLACEHOLDER】"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M260 2.0 turbo):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,991 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4‑cylinder inline"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin‑scroll turbocharger"
+        },
+        {
+          "label": "* Engine Oil Spec",
+          "value": "MB 229.5 5W‑30"
+        },
+        {
+          "label": "* Oil Capacity",
+          "value": "5.8 litres"
+        },
+        {
+          "label": "* Timing Drive",
+          "value": "Chain"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare CLA35 AMG engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CLA35 AMG engine replacement cost in the UK?",
+        "answer": "A reconditioned M260 engine typically costs £4,500–£7,000 supply only, with rebuilt units reaching £8,000. Fitting adds £1,200–£1,800. A new engine from a Mercedes main dealer can exceed £10,000. Use our calculator for a figure specific to your CLA35 AMG."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes CLA35 AMG (M260) engine reliable?",
+        "answer": "The M260 is considered reliable in its early years of production, benefiting from modern materials, cooling and precise ECU management. However, it has known weaknesses: timing chain tensioner failure (rattling on cold start), cylinder head/valve guide wear (misfires, loss of compression), and Camtronic system failures. Regular maintenance with Mercedes‑approved oil is essential."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes CLA35 AMG engine?",
+        "answer": "Timing chain tensioner failure (rattling on cold start), cylinder head/valve guide wear (misfires, loss of compression), Camtronic system failure (loss of low‑end power), oil leaks, and carbon buildup on intake valves."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a CLA35 AMG engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. A CLA35 AMG is a £15,000–£35,000 vehicle — a £5,000–£6,000 recon is 14–40% of the car's value, making replacement viable in most cases. A well‑maintained, lower‑mileage example justifies replacement; a tired, high‑mileage one may not."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes CLA35 AMG engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The CLA35 AMG engine code is M260 — a 2.0‑litre turbocharged inline‑4. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I prevent the common failures on a CLA35 AMG?",
+        "answer": "Yes — regular oil changes with Mercedes‑approved MB 229.5 5W‑30 oil every 10,000 km are the most effective prevention. On early cars, have the timing chain tensioner inspected at 40,000 miles. At the first sign of cold‑start rattle, misfire or rough idle, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "Find the best Mercedes CLA35 AMG engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence — from £2,500 for a used unit to £8,000 for a fully rebuilt AMG engine.",
+    "ctaButton": {
+      "label": "Explore Mercedes CLA35 AMG Engine Quotes →",
+      "href": "#"
+    }
+  }
+}

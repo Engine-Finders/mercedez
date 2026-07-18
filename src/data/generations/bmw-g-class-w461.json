@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "slug": "bmw-g-class-w461",
+    "title": "Mercedes G-Class W461 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "G-Class",
+              "item": "https://mercedesengine.uk/g-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes G-Class W461",
+              "item": "https://mercedesengine.uk/g-class/w461/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W461 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M102.996 Engine",
+              "url": "https://mercedesengine.uk/engines/m102/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M102.997 Engine",
+              "url": "https://mercedesengine.uk/engines/m102/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM602.942 Engine",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM602.947 Engine",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM602.983 Engine",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM642.975 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM642.884 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM642.887 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W461 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "290 GD",
+              "url": "https://mercedesengine.uk/g-class/w461/290-gd/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "G 290 D",
+              "url": "https://mercedesengine.uk/g-class/w461/g-290-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "G 290 TD",
+              "url": "https://mercedesengine.uk/g-class/w461/g-290-td/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "G 280 CDI",
+              "url": "https://mercedesengine.uk/g-class/w461/g-280-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "G 300 CDI",
+              "url": "https://mercedesengine.uk/g-class/w461/g-300-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "G 350 d",
+              "url": "https://mercedesengine.uk/g-class/w461/g-350-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "230 GE",
+              "url": "https://mercedesengine.uk/g-class/w461/230-ge/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes W461 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W461 engine typically costs £2,500–£8,000 supply only, depending on engine — the volume OM602 diesel sits at £3,000–£5,500. Fitting adds £800–£1,800. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W461 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM602.942/947 naturally aspirated 2.9-litre five-cylinder diesel (290 GD) is the undisputed king of reliability — known as the \"million-mile\" engine, it's mechanically simple, under-stressed and virtually indestructible. The turbocharged OM602.983 offers more power without sacrificing durability."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes W461?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 V6 diesel engines (G 280/300 CDI, G 350 d) suffer from oil cooler seal leaks (80k–150k miles) — a labour-intensive repair. Rear axle differential oil supply issues affected some models (2001–2007), with a recall issued in some markets. Suspension and chassis wear is common on high-mileage off-road examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes W461 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W461 is one of the most durable vehicles ever built, designed for military and extreme-use applications. The OM602 diesel engines are legendary for exceeding 300,000 miles with minimal maintenance. The later OM642 V6 diesels are also robust but add complexity and require specialist maintenance. Rust on chassis and body panels is a more common concern than engine failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W461 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The petrol M102 2.3-litre (230 GE) is the least common and least celebrated engine in the W461 range — it offers adequate power but lacks the diesel's legendary durability and is more prone to fuelling issues. For ultimate reliability, always choose the OM602 diesel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W461 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Excessive oil consumption, blue smoke, loss of power, or unusual knocking noises are the key warnings. On OM642 V6 diesels, oil cooler seal leaks will show as oil in the V of the engine and a burning oil smell. On OM602 diesels, injector pump wear is the most common long-term issue."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes W461 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a £15,000–£30,000 W461, a £4,000–£7,000 recon is 13–47% of the car's value — a sensible repair. Even against a £10,000 example, the same recon sits at 40–70% — often justifiable given the G-Class's legendary durability and strong residual values. The OM602 engine is so robust that replacement is rarely needed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W461 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM602 naturally aspirated diesel is famously capable of exceeding 300,000 miles with proper maintenance — earning its \"million-mile\" reputation. The turbocharged OM602 can also reach high mileages. The OM642 V6 diesels can exceed 200,000 miles with proper servicing and oil cooler maintenance. The W461 chassis is equally durable, with many examples serving in military fleets for decades."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W461 and the W463 G-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W461 is the dedicated military and utilitarian variant, featuring simplified interiors, mechanical fuel injection on earlier models, and fewer electronics. The W463 is the luxurious civilian version, with leather interiors, automatic climate control, and more powerful engines. Both share the same ladder-frame chassis and solid axles, but the W461 was produced alongside the W463 from 1990 to 2021 and is prized for its simplicity and durability."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W461 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (290 GD, G 300 CDI, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes G-Class W461 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "8000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "W461 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/g-class/w461/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes G-Class W461 • Off-Roader • 1990–2021",
+    "h1": "Mercedes G-Class W461 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the utilitarian G-Class — from the legendary OM602 \"million-mile\" diesel to the turbocharged five-cylinder and the later OM642 V6. Backed by real UK enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "W461 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Off-Roader"
+      },
+      {
+        "icon": "📖",
+        "label": "8 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W461 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes G-Class W461 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W461 chassis — from the 1990s military-spec diesels to the modern V6 CDI units that powered the Professional and civilian variants.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W461)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M102.996",
+        "family": "M102",
+        "fuel": "Petrol I4",
+        "displacement": "2.3L (2298cc)",
+        "power": "125 bhp (92 kW)",
+        "years": "1993–2000",
+        "variants": "230 GE",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M102.997",
+        "family": "M102",
+        "fuel": "Petrol I4",
+        "displacement": "2.3L (2298cc)",
+        "power": "125 bhp (92 kW)",
+        "years": "1993–2000",
+        "variants": "230 GE",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM602.942",
+        "family": "OM602",
+        "fuel": "Diesel I5",
+        "displacement": "2.9L (2874cc)",
+        "power": "95 bhp (70 kW)",
+        "years": "1991–2001",
+        "variants": "290 GD / G 290 D",
+        "reliability": "★★★★★ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM602.947",
+        "family": "OM602",
+        "fuel": "Diesel I5",
+        "displacement": "2.9L (2874cc)",
+        "power": "95 bhp (70 kW)",
+        "years": "1993–2001",
+        "variants": "290 GD",
+        "reliability": "★★★★★ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM602.983",
+        "family": "OM602",
+        "fuel": "Diesel I5, turbo",
+        "displacement": "2.9L (2874cc)",
+        "power": "120 bhp (88 kW)",
+        "years": "1997–2001",
+        "variants": "G 290 TD",
+        "reliability": "★★★★½ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.975",
+        "family": "OM642",
+        "fuel": "Diesel V6, turbo",
+        "displacement": "3.0L (2987cc)",
+        "power": "184 bhp (135 kW)",
+        "years": "2007–2012",
+        "variants": "G 280 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.884",
+        "family": "OM642",
+        "fuel": "Diesel V6, turbo",
+        "displacement": "3.0L (2987cc)",
+        "power": "184 bhp (135 kW)",
+        "years": "2010–2023",
+        "variants": "G 300 CDI Professional",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.887",
+        "family": "OM642",
+        "fuel": "Diesel V6, turbo",
+        "displacement": "3.0L (2987cc)",
+        "power": "245 bhp (180 kW)",
+        "years": "2015–2021",
+        "variants": "G 350 d Professional",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£8,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes G-Class W461 — Overview",
+    "intro": "The Mercedes-Benz G-Class W461 is the dedicated military and utilitarian variant of the legendary G-Wagen, introduced as an evolution of the W460 series. Designed for military, governmental, and emergency service applications, the W461 features a simplified ladder-frame chassis, solid front and rear axles, and minimalistic, washable interiors. Power came from a range of robust engines — from the naturally aspirated 2.9-litre OM602 diesel (\"million-mile\" engine) to the later turbocharged OM642 V6 units. The W461 was produced from 1990 (or 1992 in some markets) through to 2021, with the civilian \"Professional\" models continuing the utilitarian legacy.",
+    "keyFacts": "Platform: Mercedes W461 (reinforced ladder-frame) • Predecessor: W460 (1979–1990) • Successor: W464 (2021–present) • Sibling body styles in this generation: W463 (luxury variant), W462 (ELBO-built Greek military vehicles).",
+    "marketIntelligenceLine": "No [MB-VERIFIED] enquiry data exists for the G-Class W461 — the model is absent from EM_Proprietary_Data's per-model table, reflecting its specialist, low-volume UK status."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "The W461's engine range is defined by one legendary powerplant and several worthy successors. The OM602.942/947 naturally aspirated 2.9-litre five-cylinder diesel (290 GD) is the undisputed king of reliability — known as the \"million-mile\" engine, it's mechanically simple, under-stressed and virtually indestructible. The turbocharged OM602.983 (G 290 TD) offers more power without sacrificing the robust character of its naturally aspirated sibling. The later OM642 V6 diesels (G 280 CDI, G 300 CDI, G 350 d) bring modern refinement and significantly more power, but with added complexity — the oil cooler seal leak is a well-documented weakness on higher-mileage units, and specialist knowledge is required for repairs. The petrol M102 2.3-litre (230 GE) is the least common and least celebrated engine in the W461 range — it offers adequate power for civilian use but lacks the diesel's legendary durability and is more prone to fuelling issues. Buying instruction: for ultimate reliability, prioritise the OM602 diesel (290 GD or 290 GDT) — it's the engine that built the G-Class's reputation. For those needing modern power and refinement, the OM642 V6 diesels are strong choices, but budget for oil cooler seal work on higher-mileage examples.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes G-Class W461 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M102.996/997 (230 GE)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Fuelling issues, ignition",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Rare petrol — less common, higher running costs"
+      },
+      {
+        "engine": "OM602.942/947 (290 GD)",
+        "typicalMileage": "150k–300k+",
+        "commonMajorFailure": "Injector pump wear",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Legendary — the \"million-mile\" engine"
+      },
+      {
+        "engine": "OM602.983 (G 290 TD)",
+        "typicalMileage": "150k–250k+",
+        "commonMajorFailure": "Turbo wear, injector pump",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£3,500–£6,500",
+        "ownershipVerdict": "Solid turbo — more power, same durability"
+      },
+      {
+        "engine": "OM642.975/884 (G 280/300 CDI)",
+        "typicalMileage": "100k–180k",
+        "commonMajorFailure": "Oil cooler seal leak",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£4,000–£7,000",
+        "ownershipVerdict": "Modern diesel — refined but complex"
+      },
+      {
+        "engine": "OM642.887 (G 350 d)",
+        "typicalMileage": "100k–180k",
+        "commonMajorFailure": "Oil cooler seal leak",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£4,500–£8,000",
+        "ownershipVerdict": "Best power — most refined W461 engine"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W461 rule",
+      "text": "A £4,000–£7,000 G 300 CDI recon against a £12,000–£30,000 W461 sits at 13–58% of the car's value — well within the 70% Mercedes threshold for most examples. Even against a lower-value £10,000 example, the recon sits at 40–70% — marginal but often justifiable given the G-Class's legendary durability and strong residual values. For the OM602 diesel, the engine is so robust that replacement is rarely needed."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W461 Costs Least To Own?",
+        "answer": "290 GD (OM602) — mechanically simple, virtually indestructible, minimal electronics."
+      },
+      {
+        "question": "Which W461 Costs Most To Own?",
+        "answer": "G 350 d (OM642.887) — most powerful but most complex; V6 repairs are labour-intensive."
+      },
+      {
+        "question": "Which W461 Is Best Value?",
+        "answer": "290 GD (OM602) — the engine that defines the G-Class's reputation; maintenance is simple and parts are widely available."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM642 Oil Cooler Seal Leak",
+        "affectedModels": "W461 G 280 CDI, G 300 CDI, G 350 d (OM642.975/884/887), 2007–2021.",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The oil cooler seals on the OM642 V6 diesel are a known weak point across the Mercedes range. The seals degrade over time, allowing oil to leak into the valley of the V6. The repair is labour-intensive, requiring removal of the intake manifold and significant disassembly.",
+        "tieredCosts": [],
+        "recommendation": "On any OM642-engined W461 over 80,000 miles, budget for an oil cooler seal replacement — £800–£1,500 is a reasonable preventative cost to avoid potential engine damage from oil loss.",
+        "cta": {
+          "label": "Compare OM642 engine prices for your W461 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Rear Axle Differential Oil Supply (Recall)",
+        "affectedModels": "Various W461 and W463 models, 2001–2007.",
+        "typicalFailureMileage": "Varies.",
+        "rootCause": "A known issue with the rear axle differential where the drive shaft bearing may not receive sufficient oil supply. This can cause the bearing to seize and the drive shaft flange to shear off, resulting in loss of drive. A recall was issued in some markets.",
+        "tieredCosts": [],
+        "recommendation": "If your W461 falls within the affected years (2001–2007), check with a Mercedes specialist to confirm if the recall applies. Regular differential oil level checks are essential preventative maintenance on any G-Class.",
+        "cta": {
+          "label": "Compare W461 axle repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Suspension and Chassis Wear",
+        "affectedModels": "All W461 variants, particularly high-mileage examples.",
+        "typicalFailureMileage": "80,000+ miles.",
+        "rootCause": "The W461's heavy-duty ladder-frame chassis and solid axles are robust, but suspension components — coil springs, shock absorbers and bushings — wear over time, especially on vehicles used off-road. Rear axle spring breakages are a known issue.",
+        "tieredCosts": [],
+        "recommendation": "On any W461 over 80,000 miles, have the suspension and chassis components inspected. A £300–£800 preventative repair is cheaper than the £800–£1,800 overhaul that follows if ignored.",
+        "cta": {
+          "label": "Compare W461 suspension repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W461 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "230 GE",
+        "engineCode": "M102.996/997",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£3,500–£6,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "290 GD / G 290 D",
+        "engineCode": "OM602.942/947",
+        "usedSupply": "£1,500–£3,000",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "G 290 TD",
+        "engineCode": "OM602.983",
+        "usedSupply": "£1,800–£3,500",
+        "reconditionedSupply": "£3,500–£6,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "G 280 CDI",
+        "engineCode": "OM642.975",
+        "usedSupply": "£2,000–£3,800",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£9,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "G 300 CDI",
+        "engineCode": "OM642.884",
+        "usedSupply": "£2,000–£3,800",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£9,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "G 350 d",
+        "engineCode": "OM642.887",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,500–£8,000",
+        "rebuiltSupply": "£7,000–£11,000",
+        "labourHours": "14–18 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "290 GD",
+      "G 290 D",
+      "G 290 TD",
+      "G 280 CDI",
+      "G 300 CDI",
+      "G 350 d"
+    ],
+    "petrolVariants": [
+      "230 GE"
+    ],
+    "scopeNote": "All variants listed are W461 (utilitarian/military G-Class, 1990–2021) only. The W463 (luxury G-Class) shares some engines but is covered on a separate Generation Page. The G 350 d (OM642.887) was introduced in 2015 as a more powerful Professional variant."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes W461 engine replacement cost in the UK?",
+        "answer": "A reconditioned W461 engine typically costs £2,500–£8,000 supply only [MB-QUOTE], depending on engine — the volume OM602 diesel sits at £3,000–£5,500. Fitting adds £800–£1,800. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes W461 engine is the most reliable?",
+        "answer": "The OM602.942/947 naturally aspirated 2.9-litre five-cylinder diesel (290 GD) is the undisputed king of reliability — known as the \"million-mile\" engine, it's mechanically simple, under-stressed and virtually indestructible. The turbocharged OM602.983 offers more power without sacrificing durability."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes W461?",
+        "answer": "The OM642 V6 diesel engines (G 280/300 CDI, G 350 d) suffer from oil cooler seal leaks (80k–150k miles) — a labour-intensive repair. Rear axle differential oil supply issues affected some models (2001–2007), with a recall issued in some markets. Suspension and chassis wear is common on high-mileage off-road examples."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes W461 reliable?",
+        "answer": "The W461 is one of the most durable vehicles ever built, designed for military and extreme-use applications. The OM602 diesel engines are legendary for exceeding 300,000 miles with minimal maintenance. The later OM642 V6 diesels are also robust but add complexity and require specialist maintenance. Rust on chassis and body panels is a more common concern than engine failure."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes W461 engine should I avoid?",
+        "answer": "The petrol M102 2.3-litre (230 GE) is the least common and least celebrated engine in the W461 range — it offers adequate power but lacks the diesel's legendary durability and is more prone to fuelling issues. For ultimate reliability, always choose the OM602 diesel."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W461 engine needs replacing?",
+        "answer": "Excessive oil consumption, blue smoke, loss of power, or unusual knocking noises are the key warnings. On OM642 V6 diesels, oil cooler seal leaks will show as oil in the V of the engine and a burning oil smell. On OM602 diesels, injector pump wear is the most common long-term issue."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes W461 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a £15,000–£30,000 W461, a £4,000–£7,000 recon is 13–47% of the car's value — a sensible repair. Even against a £10,000 example, the same recon sits at 40–70% — often justifiable given the G-Class's legendary durability and strong residual values. The OM602 engine is so robust that replacement is rarely needed."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W461 engines last?",
+        "answer": "The OM602 naturally aspirated diesel is famously capable of exceeding 300,000 miles with proper maintenance — earning its \"million-mile\" reputation. The turbocharged OM602 can also reach high mileages. The OM642 V6 diesels can exceed 200,000 miles with proper servicing and oil cooler maintenance. The W461 chassis is equally durable, with many examples serving in military fleets for decades."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W461 and the W463 G-Class?",
+        "answer": "The W461 is the dedicated military and utilitarian variant, featuring simplified interiors, mechanical fuel injection on earlier models, and fewer electronics. The W463 is the luxurious civilian version, with leather interiors, automatic climate control, and more powerful engines. Both share the same ladder-frame chassis and solid axles, but the W461 was produced alongside the W463 from 1990 to 2021 and is prized for its simplicity and durability."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W461 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (290 GD, G 300 CDI, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+      }
+    ]
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes G-Class W461 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W461 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real G-Class owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W461 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply-and-fit options side-by-side before you commit to any repair."
+      },
+      {
+        "title": "UK Engine Replacement Services for W461",
+        "text": "covering every variant from the 290 GD to the G 350 d, with supply-only or full supply-and-fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes G-Class W461 engine replacement UK drivers rely on. Compare real prices from trusted Mercedes specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes G-Class W461 Engine Prices on EnginesMarket →",
+      "href": "#",
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
+    }
+  }
+}

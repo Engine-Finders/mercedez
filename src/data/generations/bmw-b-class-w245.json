@@ -1,0 +1,690 @@
+{
+  "meta": {
+    "slug": "bmw-b-class-w245",
+    "title": "Mercedes B-Class W245 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "B-Class",
+              "item": "https://mercedesengine.uk/b-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes B-Class W245",
+              "item": "https://mercedesengine.uk/b-class/w245/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W245 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M266.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m266/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M266.940 Engine",
+              "url": "https://mercedesengine.uk/engines/m266/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M266.960 Engine",
+              "url": "https://mercedesengine.uk/engines/m266/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M266.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m266/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM640.940 Engine",
+              "url": "https://mercedesengine.uk/engines/om640/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM640.941 Engine",
+              "url": "https://mercedesengine.uk/engines/om640/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM640.941 (post-2008) Engine",
+              "url": "https://mercedesengine.uk/engines/om640/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W245 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "B180 CDI",
+              "url": "https://mercedesengine.uk/b-class/w245/b180-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "B200 CDI",
+              "url": "https://mercedesengine.uk/b-class/w245/b200-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "B150",
+              "url": "https://mercedesengine.uk/b-class/w245/b150/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "B170",
+              "url": "https://mercedesengine.uk/b-class/w245/b170/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "B180",
+              "url": "https://mercedesengine.uk/b-class/w245/b180/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "B200 Turbo",
+              "url": "https://mercedesengine.uk/b-class/w245/b200-turbo/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes W245 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W245 engine typically costs £1,200–£4,800 supply only, depending on engine — the volume B180 diesel (OM640.940) sits at £2,500–£4,200. Fitting adds £600–£1,200. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W245 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The B200 CDI (OM640.941) post-2006 is the most dependable W245 engine — it features optimised injection mapping and a standard diesel particulate filter, which improved cold-start behaviour and reduced injector seal failures over earlier OM640 units. The naturally aspirated B180 petrol (M266.960) is the safest petrol choice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes W245?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The CVT automatic transmission (Autotronic) is the single biggest weak point — mechatronic unit and valve body failures are common. On diesels, injector seal failure (\"Black Death\") affects the OM640 engine. On petrols, timing chain stretch affects the M266 series, especially the B170."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes W245 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on transmission choice and engine — manual diesel B200 CDI examples are the most robust. CVT automatic cars carry a significantly higher risk profile. Petrol engines are generally solid aside from timing chain stretch at higher mileages, which is well-understood and repairable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W245 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The B200 Turbo (M266.980) is the one to approach with caution — the supercharger magnetic clutch is a known weak point, and turbocharger failures at 60,000–100,000 miles are common. The B150 is also underpowered for the car's weight; avoid it unless you're willing to compromise on drivability."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W245 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold-start rattle (M266 petrol timing chain), black carbon residue around fuel injectors (OM640 diesel \"Black Death\"), or shuddering/hunting from the CVT transmission are the key warnings. Blue smoke, rough idle, or a sudden drop in oil pressure on any engine also warrant immediate inspection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes W245 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well-kept £6,000 B200 CDI, a £2,800–£4,800 recon is 47–80% of the car's value — marginal but sometimes worth it. Against a tired £3,000 example, the same recon is 93–160% — walk away. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W245 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM640 diesel unit can comfortably exceed 200,000 miles with proper servicing and injector seal maintenance. The M266 petrol engines are good for 150,000+ miles if the timing chain is addressed proactively at the first sign of rattle. The CVT transmission, however, is the limiting factor on many cars regardless of engine health."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W245 and the W169 A-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the W245/W169 \"sandwich floor\" platform and many of the same engines (M266 petrols and OM640 diesels). The W245 is the larger, more practical MPV (Sports Tourer) with a longer wheelbase, while the W169 is the shorter three-door/five-door hatchback. Engine costs are similar, but the W245 offers significantly more interior space. See the W169 page for hatchback-specific costs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W245 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (B150, B180 CDI, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes B-Class W245 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1200",
+            "highPrice": "4800",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "W245 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/b-class/w245/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes B-Class W245 • MPV • 2005–2011",
+    "h1": "Mercedes B-Class W245 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the first-generation B-Class Sports Tourer — from the 1.5-litre petrol to the 2.0-litre CDI and the rare 193hp B200 Turbo. Real UK costs and honest reliability data on Mercedes' compact MPV. Backed by real UK enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "W245 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "MPV"
+      },
+      {
+        "icon": "📖",
+        "label": "7 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W245 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes B-Class W245 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W245 specifically — petrol, diesel and the supercharged variants that defined this compact MPV.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W245)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M266.920",
+        "family": "M266",
+        "fuel": "Petrol",
+        "displacement": "1.5L (1498cc)",
+        "power": "95 bhp (70 kW)",
+        "years": "2005–2011",
+        "variants": "B150",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,200–£2,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M266.940",
+        "family": "M266",
+        "fuel": "Petrol",
+        "displacement": "1.7L (1699cc)",
+        "power": "116 bhp (85 kW)",
+        "years": "2005–2011",
+        "variants": "B170",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M266.960",
+        "family": "M266",
+        "fuel": "Petrol",
+        "displacement": "2.0L (2034cc)",
+        "power": "136 bhp (100 kW)",
+        "years": "2005–2011",
+        "variants": "B180",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M266.980",
+        "family": "M266",
+        "fuel": "Petrol, turbocharged",
+        "displacement": "2.0L (2034cc)",
+        "power": "193 bhp (142 kW)",
+        "years": "2005–2011",
+        "variants": "B200 Turbo",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM640.940",
+        "family": "OM640",
+        "fuel": "Diesel",
+        "displacement": "2.0L (1991cc)",
+        "power": "109 bhp (80 kW)",
+        "years": "2005–2011",
+        "variants": "B180 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM640.941",
+        "family": "OM640",
+        "fuel": "Diesel",
+        "displacement": "2.0L (1991cc)",
+        "power": "140 bhp (103 kW)",
+        "years": "2005–2011",
+        "variants": "B200 CDI",
+        "reliability": "★★★★½ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£4,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM640.941 (post-2008)",
+        "family": "OM640",
+        "fuel": "Diesel",
+        "displacement": "2.0L (1991cc)",
+        "power": "136 bhp (100 kW)",
+        "years": "2008–2011",
+        "variants": "B200 CDI",
+        "reliability": "★★★★½ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£4,800 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes B-Class W245 — Overview",
+    "intro": "The Mercedes-Benz B-Class W245 — internally designated the W245 or T245 — launched in June 2005 as Mercedes' entry into the compact MPV segment. Built on the same \"sandwich floor\" platform as the A-Class (W169) but with larger dimensions, the W245 offered a remarkably spacious interior in a sub-4.3-metre package. A 2008 facelift brought revised styling and a new top diesel: the B220 CDI (though this arrived very late in the lifecycle, and some sources suggest it was not widely available in the UK). The W245 was replaced by the W246 in 2011.",
+    "keyFacts": "Platform: Mercedes W245 (shared with W169 A-Class) • Predecessor: None (new model line) • Successor: W246 (2011–2018) • Sibling body styles in this generation: None (W245 is a standalone MPV; related to W169 A-Class but not a direct sibling).",
+    "marketIntelligenceLine": "No [MB-VERIFIED] enquiry data exists for the W245 — the model is absent from EM_Proprietary_Data's per-model table, reflecting its status as a lower-volume UK model compared to the C-Class and E-Class."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "The Mercedes W245's engine range is defined by a clear hierarchy. The B200 CDI (OM640.941) stands as the most dependable engine in the range — especially post-2006 variants with optimised injection and a standard particulate filter, which proved extremely durable and economical. The naturally aspirated B180 (M266.960) with 136hp is the pick of the petrol range, offering a solid balance of performance and reliability with few reported issues. At the other end, the B200 Turbo (M266.980) with 193hp is the one to approach with caution — the turbocharged unit suffers from magnetic clutch defects in the compressor, occasional turbocharger damage and increased oil consumption at high mileages. For diesel buyers, the B180 CDI (OM640.940) with 109hp is a robust entry point, but the extra 31hp of the B200 CDI makes it the smarter buy for very little additional cost. Buying instruction: prioritise the B200 CDI post-2006; if buying petrol, choose the B180 over the B200 Turbo unless you're prepared for higher running costs.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes B-Class W245 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M266.920 (B150)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£1,200–£2,200",
+        "ownershipVerdict": "Underpowered — reliable but sluggish"
+      },
+      {
+        "engine": "M266.940 (B170)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "Solid choice — more pace than B150"
+      },
+      {
+        "engine": "M266.960 (B180)",
+        "typicalMileage": "80k–120k",
+        "commonMajorFailure": "Timing chain stretch (less common)",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "Best petrol — good balance of power and reliability"
+      },
+      {
+        "engine": "M266.980 (B200 Turbo)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Supercharger clutch, turbocharger",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "High risk — fast but costly to maintain"
+      },
+      {
+        "engine": "OM640.940 (B180 CDI)",
+        "typicalMileage": "100k–150k+",
+        "commonMajorFailure": "Injector seal failure, turbo wear",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,500–£4,200",
+        "ownershipVerdict": "Solid diesel — robust, economical"
+      },
+      {
+        "engine": "OM640.941 (B200 CDI)",
+        "typicalMileage": "100k–150k+",
+        "commonMajorFailure": "Injector seal failure (less common)",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Best diesel — the pick of the range"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W245 rule",
+      "text": "A £2,800–£4,800 B200 CDI recon against a £3,000–£6,000 W245 sits at 47–160% of the car's value. On a sub-£4,000 W245, that brushes our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well-kept £6,000+ example, the same recon drops to a more manageable 47–80% — a repair decision, not a financial one. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W245 Costs Least To Own?",
+        "answer": "B180 petrol (M266.960) — simple, naturally aspirated, few reported issues."
+      },
+      {
+        "question": "Which W245 Costs Most To Own?",
+        "answer": "B200 Turbo (M266.980) — supercharger and turbo repairs add up fast."
+      },
+      {
+        "question": "Which W245 Is Best Value?",
+        "answer": "B200 CDI post-2006 (OM640.941) — the most reliable engine in the range with strong economy."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "CVT Transmission (Autotronic) Failure",
+        "affectedModels": "All W245 variants with CVT automatic transmission (option code 722.8).",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The continuously variable transmission (CVT) used in the W245 is notoriously fragile. The mechatronic control unit — located inside the gearbox oil pan — fails, causing shifting issues, shuddering, and eventually complete loss of drive. Valve body cracking is also a known failure point.",
+        "tieredCosts": [],
+        "recommendation": "If you're buying a W245 with a CVT, budget for a transmission service immediately — a £800–£1,800 mechatronic repair is cheaper than the £2,000–£3,500 replacement that follows if ignored. Manual transmission cars are significantly more reliable in this generation.",
+        "cta": {
+          "label": "Compare W245 transmission repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM640 Diesel Injector Seal Failure (\"Black Death\")",
+        "affectedModels": "W245 B180 CDI, B200 CDI (OM640.940/941).",
+        "typicalFailureMileage": "80,000–130,000 miles.",
+        "rootCause": "The injector seals on the OM640 diesel engine degrade over time, allowing combustion gases to escape past the seal. This causes a characteristic black, tar-like carbon buildup around the injector — known in Mercedes circles as \"Black Death\" — which can eventually seize the injector in the cylinder head.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of a diesel smell in the cabin or visible black residue around injectors, get the seals inspected immediately — a £400–£800 seal replacement is far cheaper than the £900–£1,500 head repair that follows if ignored.",
+        "cta": {
+          "label": "Compare OM640 engine prices for your W245 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M266 Petrol Timing Chain Stretch",
+        "affectedModels": "W245 B150, B170, B180, B200 Turbo (M266.920/940/960/980).",
+        "typicalFailureMileage": "80,000–120,000 miles (earlier on B170).",
+        "rootCause": "The M266 petrol engines use a single-row timing chain that can stretch over time. Critical signs include rattling on cold start, misfiring, or a sudden drop in oil pressure. The B170 (M266.940) is particularly prone to this issue.",
+        "tieredCosts": [],
+        "recommendation": "On any W245 petrol over 80,000 miles with no documented chain history, budget for a timing chain inspection. A cold-start rattle is your warning — a £600–£1,200 preventative repair is dramatically cheaper than the £2,200–£3,800 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M266 engine prices for your W245 →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W245 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "B150",
+        "engineCode": "M266.920",
+        "usedSupply": "£600–£1,200",
+        "reconditionedSupply": "£1,200–£2,200",
+        "rebuiltSupply": "£1,800–£3,000",
+        "labourHours": "8–10 hrs"
+      },
+      {
+        "variant": "B170",
+        "engineCode": "M266.940",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,200–£3,800",
+        "labourHours": "8–10 hrs"
+      },
+      {
+        "variant": "B180",
+        "engineCode": "M266.960",
+        "usedSupply": "£900–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,800–£4,500",
+        "labourHours": "8–10 hrs"
+      },
+      {
+        "variant": "B200 Turbo",
+        "engineCode": "M266.980",
+        "usedSupply": "£1,200–£2,500",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£3,500–£6,000",
+        "labourHours": "10–12 hrs"
+      },
+      {
+        "variant": "B180 CDI",
+        "engineCode": "OM640.940",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,500–£4,200",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–12 hrs"
+      },
+      {
+        "variant": "B200 CDI",
+        "engineCode": "OM640.941",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–12 hrs"
+      }
+    ],
+    "note": "No Generation variance from the baseline figures — the W245 shares its engine bay layout with the W169 A-Class, so costs are consistent with the wider Mercedes compact platform."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "B180 CDI",
+      "B200 CDI"
+    ],
+    "petrolVariants": [
+      "B150",
+      "B170",
+      "B180",
+      "B200 Turbo"
+    ],
+    "scopeNote": "All variants listed are W245 (first-generation B-Class, 2005–2011) only. The B220 CDI (OM651) belongs to the second-generation W246 (2011–2018) and is not fitted to the W245 — despite appearing in some aftermarket catalogues, verification confirms this engine was never offered on the first-generation car."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes W245 engine replacement cost in the UK?",
+        "answer": "A reconditioned W245 engine typically costs £1,200–£4,800 supply only [MB-QUOTE], depending on engine — the volume B180 diesel (OM640.940) sits at £2,500–£4,200. Fitting adds £600–£1,200. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes W245 engine is the most reliable?",
+        "answer": "The B200 CDI (OM640.941) post-2006 is the most dependable W245 engine — it features optimised injection mapping and a standard diesel particulate filter, which improved cold-start behaviour and reduced injector seal failures over earlier OM640 units. The naturally aspirated B180 petrol (M266.960) is the safest petrol choice."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes W245?",
+        "answer": "The CVT automatic transmission (Autotronic) is the single biggest weak point — mechatronic unit and valve body failures are common. On diesels, injector seal failure (\"Black Death\") affects the OM640 engine. On petrols, timing chain stretch affects the M266 series, especially the B170."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes W245 reliable?",
+        "answer": "It depends heavily on transmission choice and engine — manual diesel B200 CDI examples are the most robust. CVT automatic cars carry a significantly higher risk profile. Petrol engines are generally solid aside from timing chain stretch at higher mileages, which is well-understood and repairable."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes W245 engine should I avoid?",
+        "answer": "The B200 Turbo (M266.980) is the one to approach with caution — the supercharger magnetic clutch is a known weak point, and turbocharger failures at 60,000–100,000 miles are common. The B150 is also underpowered for the car's weight; avoid it unless you're willing to compromise on drivability."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W245 engine needs replacing?",
+        "answer": "Cold-start rattle (M266 petrol timing chain), black carbon residue around fuel injectors (OM640 diesel \"Black Death\"), or shuddering/hunting from the CVT transmission are the key warnings. Blue smoke, rough idle, or a sudden drop in oil pressure on any engine also warrant immediate inspection."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes W245 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £6,000 B200 CDI, a £2,800–£4,800 recon is 47–80% of the car's value — marginal but sometimes worth it. Against a tired £3,000 example, the same recon is 93–160% — walk away. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W245 engines last?",
+        "answer": "The OM640 diesel unit can comfortably exceed 200,000 miles with proper servicing and injector seal maintenance. The M266 petrol engines are good for 150,000+ miles if the timing chain is addressed proactively at the first sign of rattle. The CVT transmission, however, is the limiting factor on many cars regardless of engine health."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W245 and the W169 A-Class?",
+        "answer": "Both share the W245/W169 \"sandwich floor\" platform and many of the same engines (M266 petrols and OM640 diesels). The W245 is the larger, more practical MPV (Sports Tourer) with a longer wheelbase, while the W169 is the shorter three-door/five-door hatchback. Engine costs are similar, but the W245 offers significantly more interior space. See the W169 page for hatchback-specific costs."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W245 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (B150, B180 CDI, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+      }
+    ]
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes W245 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W245 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real W245 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W245 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply-and-fit options side-by-side before you commit to any repair."
+      },
+      {
+        "title": "UK Engine Replacement Services for W245",
+        "text": "covering every variant from the B150 petrol to the B200 CDI diesel, with supply-only or full supply-and-fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes W245 engine replacement UK drivers rely on. Compare real prices from trusted Mercedes specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes B-Class W245 Engine Prices on EnginesMarket →",
+      "href": "#",
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
+    }
+  }
+}

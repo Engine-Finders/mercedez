@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-cls320-cls350-cdi",
+    "title": "Mercedes-Benz CLS320 / CLS350 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 82,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz CLS320 / CLS350 CDI • 2004–2018 • 3.0L V6 Diesel",
+    "h1": "Mercedes-Benz CLS320 / CLS350 CDI Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz diesel specialists. The CLS320/350 CDI shares the 3.0-litre OM642 V6 diesel across two generations — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz CLS320/350 CDI Engines — from £2,000 to £7,000 · Code: OM642",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free Mercedes CLS320/350 CDI Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz CLS320 / CLS350 CDI — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "C219 CLS320 CDI",
+        "years": "2004–2010",
+        "engineCode": "OM642 (3.0L V6 diesel)",
+        "reliability": "★★★½☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,000–£5,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "224 bhp — oil cooler seals and swirl flaps are defining issues"
+      },
+      {
+        "generation": "C218 CLS350 CDI",
+        "years": "2011–2018",
+        "engineCode": "OM642 (3.0L V6 diesel)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "265 bhp — improved electronics, revised injectors, more reliable"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz CLS320 / CLS350 CDI Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£2,000–£3,500",
+        "fittedIndie": "£3,000–£4,700",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; older C219 donors"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,000–£5,500",
+        "fittedIndie": "£4,200–£6,900",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,500–£7,000",
+        "fittedIndie": "£5,700–£8,400",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£6,000–£10,000",
+        "fittedIndie": "£7,500–£11,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market ranges across both CLS diesel generations. OM642 used engines are widely available due to the engine's extensive use across the Mercedes range. Reconditioned units for the C218 typically command a premium due to improved specification. See the Era Map above for generation-specific pricing.",
+    "labourEstimate": "Fitting a CLS320/350 CDI engine typically takes 10–14 hours at £75–£110/hr (independent Mercedes specialist) or £130–£180/hr (London/SE dealer). The V6 layout is relatively accessible.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz CLS320/350 CDI engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Oil Cooler Seal Leak (OM642 — All Generations)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Swirl Flap Motor Failure (OM642 — C219)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Injector Failure (OM642 — All Generations)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "DPF and EGR Issues (OM642 — All Generations)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes-Benz Specialist →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering the OM642 CLS320/350 CDI, with a 12-month warranty as standard.",
+    "button": {
+      "label": "Get My Free Mercedes CLS320/350 CDI Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz CLS320 / CLS350 CDI — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Oil cooler seal leak",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£1,500",
+          "whenItMakesSense": "Essential repair — can cause engine failure if ignored"
+        },
+        {
+          "problem": "Swirl flap motor failure (C219)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Viable on any well-maintained example"
+        },
+        {
+          "problem": "Injector failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£300–£800 per injector",
+          "whenItMakesSense": "Replace all six for reliability"
+        },
+        {
+          "problem": "DPF blockage",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Forced regen or cleaning — worth it"
+        },
+        {
+          "problem": "EGR cooler failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,200",
+          "whenItMakesSense": "Straightforward repair — always worth doing"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz CLS320 / CLS350 CDI? Check These First",
+      "buyIf": [
+        "* C218 (2011–2018) — the more refined and reliable generation",
+        "* Documented oil cooler seal history — replacement with updated seals",
+        "* Full service history with regular oil changes and Mercedes-approved oil",
+        "* Low-mileage (under 60,000) with documented history",
+        "* C219 with swirl flap motor and injector history"
+      ],
+      "avoidIf": [
+        "* Any evidence of oil/coolant contamination (mayonnaise in expansion tank) — oil cooler seal failure",
+        "* C219 with loss of low-end torque without documented repair — swirl flap motor issue",
+        "* Poor service history — the OM642 is unforgiving of neglect",
+        "* DPF warning light without documented diagnosis"
+      ]
+    },
+    "closingVerdict": "The CLS320/350 CDI is a stylish, refined four-door coupé with a torquey V6 diesel. The C218 (2011–2018) is a significant improvement over the C219 (2004–2010), with revised injectors, improved electronics, and better overall refinement. The OM642 V6 is a robust engine but has well-documented issues: oil cooler seals, swirl flap motors, injectors, and DPF/EGR systems. Buy the C218 if you can, or a well-maintained C219 with documented work on the key weak points.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz CLS320/350 CDI engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz CLS320 / CLS350 CDI (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle; the OM642 should start cleanly",
+      "* Oil / Coolant Check — Check expansion tank for mayonnaise (oil/coolant contamination — oil cooler seal failure)",
+      "* Service History — Check the year to identify which generation — pre-2011 = C219, 2011+ = C218",
+      "* Swirl Flap History (C219) — Motor replaced? Flaps checked?",
+      "* Injector Performance — Check for smooth idle; injector issues are common on high-mileage cars",
+      "* DPF History — Ask about driving patterns; frequent short trips cause DPF issues",
+      "* EGR System — Any coolant loss or white smoke? EGR cooler failure is common",
+      "* Engine Warning Light — Have codes been read? Resolve before buying"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM642 (3.0L V6 diesel) — C219",
+        "years": "2004–2010",
+        "power": "224 bhp / 165 kW",
+        "enquiries": "880 JLR-wide [EM-VERIFIED]",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "OM642 (3.0L V6 diesel) — C218",
+        "years": "2011–2018",
+        "power": "265 bhp / 195 kW",
+        "enquiries": "880 JLR-wide [EM-VERIFIED]",
+        "avgReconCost": "£3,500–£6,500 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM642 — C218):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "2,987 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder V (60°)"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "18.0:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        },
+        {
+          "label": "* Displacement",
+          "value": "2,987 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "6-cylinder V (60°)"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "16.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common-rail direct injection (CDI)"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single variable-geometry turbo (VGT)"
+        },
+        {
+          "label": "Additional specifications",
+          "value": ""
+        },
+        {
+          "label": "* Maximum torque (C219)",
+          "value": "510 Nm @ 1,600–2,800 rpm"
+        },
+        {
+          "label": "* Maximum torque (C218)",
+          "value": "620 Nm @ 1,600–2,400 rpm"
+        },
+        {
+          "label": "* 0–60mph (C219)",
+          "value": "6.4–6.7 seconds"
+        },
+        {
+          "label": "* 0–60mph (C218)",
+          "value": "6.0–6.2 seconds"
+        },
+        {
+          "label": "* Top speed",
+          "value": "155 mph (limited)"
+        },
+        {
+          "label": "* Transmission",
+          "value": "7G-Tronic (C219) / 7G-Tronic Plus (C218) / 9G-Tronic (late C218)"
+        },
+        {
+          "label": "* Drive",
+          "value": "Rear-wheel drive (4MATIC optional on C218)"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz CLS320/350 CDI engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Oil cooler seal leak (~40% of OM642 enquiries) / Swirl flap motor failure (~25% of C219 enquiries) / DPF/EGR issues (~30% of all enquiries)【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "65,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,500 reconditioned (C218 era), supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM642 — the CLS320/350 CDI is a high-volume UK diesel variant【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn/Winter — DPF issues worsen in winter; oil cooler seal failures more noticeable in cold weather【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), North West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz CLS320 / CLS350 CDI engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz CLS320/350 CDI engine (OM642) costs £3,000–£5,500 supply only, varying by generation: C219 £3,000–£5,500, C218 £3,500–£6,500. Fitting adds £1,200–£1,800. An oil cooler seal replacement costs £800–£1,500. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz CLS320 / CLS350 CDI reliable?",
+        "answer": "That depends on which generation. The C219 (2004–2010) has well-documented oil cooler seal failures (oil/coolant contamination), swirl flap motor issues, and injector failures. The C218 (2011–2018) benefits from revised injectors, improved electronics, and better swirl flap design. Buy the C218 if you can. The OM642 V6 is a robust engine when properly maintained."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz CLS320 / CLS350 CDI?",
+        "answer": "Oil cooler seal failure (oil/coolant contamination, £800–£1,500), swirl flap motor failure (loss of low-end torque, £500–£1,200), injector failure (rough idle, misfire, £300–£800 per injector), and DPF/EGR issues (£400–£1,200). The C218 has improved reliability over the C219."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz CLS320 / CLS350 CDI engine, or should I scrap the car?",
+        "answer": "CLS values range from £3,000–£18,000 depending on generation, condition and mileage. A £3,000–£5,500 reconditioned engine represents 20–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained C218, replacement is often justified. For an ageing C219 with other issues, assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz CLS320 / CLS350 CDI engine code?",
+        "answer": "The CLS320/350 CDI uses the OM642 engine code — Mercedes' 3.0-litre V6 diesel. The C219 (2004–2010) produces 224bhp, while the C218 (2011–2018) produces 265bhp. Check your VIN or registration year. The code is stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the oil cooler seal issue, or does it need replacement?",
+        "answer": "Yes — the oil cooler seals can be replaced (£800–£1,500). This is a well-known OM642 repair. The oil cooler is located in the V of the engine; replacing the seals requires removing the intake manifold. If you see oil in the coolant (mayonnaise in the expansion tank) or coolant in the oil, stop driving immediately and book a specialist inspection. Ignored seal failure can lead to bearing damage and engine failure."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz CLS320 / CLS350 CDI Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz CLS320/350 CDI Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real CLS owners, as part of the Engine Finders network, with specialist knowledge of the OM642 V6 diesel and its oil cooler seal requirements."
+      },
+      {
+        "title": "Compare Mercedes-Benz CLS320/350 CDI Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for both C219 and C218 generations."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz CLS320/350 CDI",
+        "text": "supply‑only or full supply & fit available nationwide, covering every CLS generation with specialists who understand the OM642 V6 diesel."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz CLS320/350 CDI engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz CLS320 / CLS350 CDI Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

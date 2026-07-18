@@ -1,0 +1,705 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-sl-r230",
+    "title": "R230 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 46,
+    "description": "Every Mercedes-Benz SL R230 engine — M112, M113, M272, M273, M275, M156. Real UK costs and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz SL R230 • Roadster • 2001–2011",
+    "h1": "Mercedes-Benz SL R230 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the R230 SL roadster — from the 3.0-litre V6 to the 6.0-litre V12 biturbo monsters. Real UK costs, honest reliability data, and the M113 supercharged V8 that defined the AMG legend. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "R230 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Roadster"
+      },
+      {
+        "icon": "📖",
+        "label": "15+ Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore R230 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes-Benz SL R230 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the R230 roadster specifically — across the full 2001–2011 production run, spanning three distinct facelift periods (2001–2006, 2006–2008, 2008–2011).",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M112.973",
+        "family": "M112",
+        "fuel": "Petrol, V6",
+        "displacement": "3.7L (3,724cc)",
+        "power": "245 bhp (180 kW)",
+        "years": "2002–2006",
+        "variants": "SL 350",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M113.963",
+        "family": "M113",
+        "fuel": "Petrol, V8",
+        "displacement": "5.0L (4,966cc)",
+        "power": "302–306 bhp (225 kW)",
+        "years": "2001–2006",
+        "variants": "SL 500",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M113.992",
+        "family": "M113",
+        "fuel": "Petrol, V8 supercharged",
+        "displacement": "5.4L (5,439cc)",
+        "power": "476–493 bhp (350–368 kW)",
+        "years": "2002–2006",
+        "variants": "SL 55 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£8,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M275",
+        "family": "M275",
+        "fuel": "Petrol, V12 biturbo",
+        "displacement": "5.5L (5,513cc)",
+        "power": "493 bhp (368 kW)",
+        "years": "2003–2006",
+        "variants": "SL 600",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£11,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M275 AMG",
+        "family": "M275",
+        "fuel": "Petrol, V12 biturbo",
+        "displacement": "6.0L (5,980cc)",
+        "power": "604 bhp (450 kW)",
+        "years": "2004–2006",
+        "variants": "SL 65 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£14,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M272.966",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3,498cc)",
+        "power": "268 bhp (200 kW)",
+        "years": "2006–2008",
+        "variants": "SL 350",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£4,800 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M273.965",
+        "family": "M273",
+        "fuel": "Petrol, V8",
+        "displacement": "5.5L (5,461cc)",
+        "power": "383 bhp (285 kW)",
+        "years": "2006–2008",
+        "variants": "SL 500",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M113 (uprated)",
+        "family": "M113",
+        "fuel": "Petrol, V8 supercharged",
+        "displacement": "5.4L (5,439cc)",
+        "power": "510 bhp (380 kW)",
+        "years": "2006–2008",
+        "variants": "SL 55 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£8,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M275 (uprated)",
+        "family": "M275",
+        "fuel": "Petrol, V12 biturbo",
+        "displacement": "5.5L (5,513cc)",
+        "power": "510 bhp (380 kW)",
+        "years": "2006–2008",
+        "variants": "SL 600",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,500–£11,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M275 AMG",
+        "family": "M275",
+        "fuel": "Petrol, V12 biturbo",
+        "displacement": "6.0L (5,980cc)",
+        "power": "604 bhp (450 kW)",
+        "years": "2006–2008",
+        "variants": "SL 65 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,500–£15,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M272.949",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.0L (2,996cc)",
+        "power": "228 bhp (170 kW)",
+        "years": "2008–2011",
+        "variants": "SL 280",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,200 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M272.966 (uprated)",
+        "family": "M272",
+        "fuel": "Petrol, V6",
+        "displacement": "3.5L (3,498cc)",
+        "power": "307 bhp (229 kW)",
+        "years": "2008–2011",
+        "variants": "SL 350",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M273.965",
+        "family": "M273",
+        "fuel": "Petrol, V8",
+        "displacement": "5.5L (5,461cc)",
+        "power": "383 bhp (285 kW)",
+        "years": "2008–2011",
+        "variants": "SL 500",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M156",
+        "family": "M156",
+        "fuel": "Petrol, V8",
+        "displacement": "6.2L (6,208cc)",
+        "power": "518 bhp (386 kW)",
+        "years": "2008–2011",
+        "variants": "SL 63 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£6,000–£10,000 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M275 AMG (Black Series)",
+        "family": "M275",
+        "fuel": "Petrol, V12 biturbo",
+        "displacement": "6.0L (5,980cc)",
+        "power": "661 bhp (493 kW)",
+        "years": "2008–2011",
+        "variants": "SL 65 AMG Black Series",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£10,000–£18,000 [PLACEHOLDER]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes-Benz SL R230 — Overview",
+    "intro": "The Mercedes-Benz SL R230 is the fifth-generation SL-Class, introduced at the 2001 Frankfurt Motor Show as the successor to the R129.Production ran from 13 October 2001 to 6 December 2011.The R230 brought a fully retractable hardtop (Vario-Roof) that could be opened or closed in 16 seconds, active body control (ABC) suspension, and the Sensotronic Brake Control (SBC) system — a first for a production Mercedes.The engine range evolved significantly over its decade-long production run, spanning 3.0-litre V6 entry-level power through to the 6.0-litre V12 biturbo in the SL 65 AMG Black Series. Three distinct phases define the R230's mechanical evolution: the original 2001–2006 cars with M112/M113 engines; the 2006 facelift introducing the M272 V6 and M273 V8; and the 2008 facelift bringing the M156 V8 to the SL 63 AMG and the entry-level SL 280.",
+    "keyFacts": "Platform: Mercedes-Benz R230 (roadster) • Predecessor: R129 SL • Successor: R231 SL • Sibling body styles in this generation: SL 65 AMG Black Series (fixed-roof coupé).",
+    "marketIntelligenceLine": "The R230 SL attracts strong specialist interest in the UK classic and performance car market, with M113 supercharged V8 and M275 V12 enquiries dominating pre-purchase inspections and restoration planning [PATTERN DATA]."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "Thin-Data Fallback mode applied — compressed to a single paragraph. Best & Worst Engines: The R230's engine range is one of the most diverse in Mercedes history. At the top for everyday usability sits the M113 5.0-litre V8 (SL 500, 2001–2006) — a proven, robust engine with none of the complexity of its supercharged or V12 stablemates. The M113 5.4-litre supercharged V8 in the SL 55 AMG (476–510 bhp) is a masterpiece — brutal, addictive and one of the defining AMG engines of the era — but the supercharger and intercooler system add maintenance costs. The M273 5.5-litre V8 (SL 500, 2006–2011) offers more power than the M113 it replaced, with similar reliability. The M272 V6 (SL 350, SL 280) is the sensible choice — good economy, lower running costs, but balance shaft wear on early examples (pre-2008) is a documented concern. The M275 V12 biturbo (SL 600, SL 65 AMG) is a genuine engineering statement — effortless torque, V12 smoothness and monumental performance — but its complexity (two of everything) and specialist parts costs make it the most expensive to maintain. For most buyers, the M113 5.0-litre V8 or M273 5.5-litre V8 represent the sweet spot — legendary V8 character, manageable running costs and the definitive R230 experience. Who it's for: buyers who want the sweet spot between V8 character and classic Mercedes ownership.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes-Benz SL R230 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M112 (SL 350 2002–2006)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Idle control valve, MAF sensor, oil leaks",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£2,500–£4,500",
+        "ownershipVerdict": "Solid V6 — reliable, understated"
+      },
+      {
+        "engine": "M113 5.0 (SL 500 2001–2006)",
+        "typicalMileage": "60k–150k",
+        "commonMajorFailure": "Oil leaks, valve cover gaskets, distributor caps",
+        "repairCostSpecialist": "£400–£800",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Best V8 — legendary, robust"
+      },
+      {
+        "engine": "M113 supercharged (SL 55 AMG)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Supercharger clutch, intercooler pump, oil leaks",
+        "repairCostSpecialist": "£800–£1,800",
+        "replacementCostRecon": "£4,500–£8,000",
+        "ownershipVerdict": "AMG Icon — spectacular but costly"
+      },
+      {
+        "engine": "M272 (SL 350 2006–2008)",
+        "typicalMileage": "50k–100k",
+        "commonMajorFailure": "Balance shaft wear (pre-2008), intake manifold",
+        "repairCostSpecialist": "£600–£1,200",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Watch — balance shaft on early cars"
+      },
+      {
+        "engine": "M273 (SL 500 2006–2011)",
+        "typicalMileage": "50k–100k",
+        "commonMajorFailure": "Intake manifold, oil leaks, thermostat",
+        "repairCostSpecialist": "£500–£1,000",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Solid V8 — more power, similar reliability"
+      },
+      {
+        "engine": "M275 V12 (SL 600)",
+        "typicalMileage": "30k–70k",
+        "commonMajorFailure": "Ignition coils, wiring harness, oil leaks",
+        "repairCostSpecialist": "£1,000–£2,000",
+        "replacementCostRecon": "£6,000–£11,500",
+        "ownershipVerdict": "V12 Legend — smooth, complex, costly"
+      },
+      {
+        "engine": "M275 AMG (SL 65 AMG)",
+        "typicalMileage": "20k–50k",
+        "commonMajorFailure": "Ignition coils, turbochargers, wiring harness",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£8,000–£15,000",
+        "ownershipVerdict": "Ultimate SL — brutal, expensive to run"
+      },
+      {
+        "engine": "M156 (SL 63 AMG 2008–2011)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Camshaft adjusters, hydraulic lifters, oil leaks",
+        "repairCostSpecialist": "£1,200–£2,500",
+        "replacementCostRecon": "£6,000–£10,000",
+        "ownershipVerdict": "Modern AMG — high-revving, specialist-only"
+      }
+    ],
+    "economicsRule": {
+      "title": "The R230 rule",
+      "text": "A £4,000–£6,000 M113 or M273 recon against a £8,000–£25,000 R230 sits at 16–75% of the car's value — borderline on sub-£10k cars, safe on better examples. For V12 cars, a £8,000–£15,000 recon on a £12,000–£30,000 example is 27–125% — only viable on well-maintained, higher-value cars. The R230's depreciation means the economics are less forgiving than newer Mercedes — on a sub-£8,000 SL 500, a £5,000 recon is 62% of the car's value, approaching our 70% Mercedes-Benz threshold. Value the car first, but know that the R230 is a car to buy on condition, not the cheapest example."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which R230 Costs Least To Own?",
+        "answer": "SL 350 (M112/M272) — lower entry cost, simpler V6."
+      },
+      {
+        "question": "Which R230 Costs Most To Own?",
+        "answer": "SL 65 AMG (M275 AMG) — V12 complexity, specialist-only parts."
+      },
+      {
+        "question": "Which R230 Is Best Value?",
+        "answer": "SL 500 (M113 or M273) — the definitive R230 experience with manageable running costs."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M272 Balance Shaft Wear (Pre-2008 V6 Engines)",
+        "affectedModels": "SL 350 (M272.966) — 2006–2008 production.",
+        "typicalFailureMileage": "50,000–100,000 miles.",
+        "rootCause": "The M272 V6's balance shaft gears can wear prematurely, causing the timing to shift and triggering the engine management light. This is a well-documented issue on early M272 engines, requiring significant engine disassembly to rectify.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If you're buying a 2006–2008 SL 350, check for the balance shaft issue — a £1,000–£1,800 preventative repair is dramatically cheaper than the £2,800+ replacement that follows a failure.",
+        "cta": {
+          "label": "Compare R230 M272 balance shaft repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "M113 Supercharger Clutch & Intercooler Pump (SL 55 AMG)",
+        "affectedModels": "SL 55 AMG (M113.992) — 2002–2008 production.",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The supercharger's electromagnetic clutch can fail, causing a loss of boost and reduced performance. The intercooler pump is also a known weak point — failure leads to heat soak and reduced power.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "Have the supercharger clutch and intercooler pump inspected at every major service — a £700–£1,300 preventative repair is dramatically cheaper than the £3,500+ replacement that follows a supercharger failure.",
+        "cta": {
+          "label": "Compare R230 SL 55 AMG supercharger repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M275 V12 Ignition Coil & Wiring Harness Issues",
+        "affectedModels": "SL 600, SL 65 AMG (M275) — 2003–2011 production.",
+        "typicalFailureMileage": "30,000–70,000 miles.",
+        "rootCause": "The M275 V12 has two of everything — two ECUs, two wiring harnesses, 12 ignition coils (two per cylinder). The biodegradable wiring harness issue affects early cars, and ignition coil failures can cause misfires on individual cylinders. Coil replacement is labour-intensive due to the V12's tight packaging.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "If you're buying a V12 R230, budget for wiring harness inspection and potential coil replacement — an £800–£1,500 preventative repair is dramatically cheaper than the £4,500+ replacement that follows an electrical failure.",
+        "cta": {
+          "label": "Compare R230 M275 ignition system repair quotes →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "SBC (Sensotronic Brake Control) System Failure",
+        "affectedModels": "All R230 models — 2001–2006 production (SBC system discontinued after 2006 facelift).",
+        "typicalFailureMileage": "60,000–120,000 miles (age-related).",
+        "rootCause": "The SBC system uses an electronically controlled hydraulic braking system — the pump and accumulator can fail, leading to a \"brake malfunction\" warning. Mercedes-Benz extended the warranty on SBC components to 25 years from the original start date with no mileage limit.",
+        "tieredCosts": [
+          {
+            "tier": "Condition",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          },
+          {
+            "tier": "Dealer Cost",
+            "dealer": "",
+            "specialist": "",
+            "work": "",
+            "note": ""
+          }
+        ],
+        "recommendation": "Check the SBC warranty status on any 2001–2006 R230 — replacement may be covered free of charge. If not, a £500–£1,000 preventative replacement is dramatically cheaper than the £1,800+ replacement that follows a system failure.",
+        "cta": {
+          "label": "Compare R230 SBC system repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "R230 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "SL 350 (2002–2006)",
+        "engineCode": "M112.973",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£3,500–£6,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 500 (2001–2006)",
+        "engineCode": "M113.963",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "SL 55 AMG (2002–2006)",
+        "engineCode": "M113.992",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,500–£8,000",
+        "rebuiltSupply": "£6,500–£10,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "SL 600 (2003–2006)",
+        "engineCode": "M275",
+        "usedSupply": "£3,500–£6,000",
+        "reconditionedSupply": "£6,000–£11,000",
+        "rebuiltSupply": "£8,500–£14,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "SL 65 AMG (2004–2006)",
+        "engineCode": "M275 AMG",
+        "usedSupply": "£4,500–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£11,000–£18,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "SL 350 (2006–2008)",
+        "engineCode": "M272.966",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 500 (2006–2011)",
+        "engineCode": "M273.965",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "SL 55 AMG (2006–2008)",
+        "engineCode": "M113 (uprated)",
+        "usedSupply": "£2,800–£5,000",
+        "reconditionedSupply": "£4,500–£8,000",
+        "rebuiltSupply": "£6,500–£10,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "SL 600 (2006–2008)",
+        "engineCode": "M275 (uprated)",
+        "usedSupply": "£3,800–£6,500",
+        "reconditionedSupply": "£6,500–£11,500",
+        "rebuiltSupply": "£9,000–£15,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "SL 65 AMG (2006–2008)",
+        "engineCode": "M275 AMG",
+        "usedSupply": "£5,000–£8,500",
+        "reconditionedSupply": "£8,500–£15,000",
+        "rebuiltSupply": "£12,000–£19,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "SL 280 (2008–2011)",
+        "engineCode": "M272.949",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,500–£4,200",
+        "rebuiltSupply": "£3,500–£5,800",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 350 (2008–2011)",
+        "engineCode": "M272.966 (uprated)",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "SL 500 (2008–2011)",
+        "engineCode": "M273.965",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "SL 63 AMG (2008–2011)",
+        "engineCode": "M156",
+        "usedSupply": "£3,500–£6,000",
+        "reconditionedSupply": "£6,000–£10,000",
+        "rebuiltSupply": "£8,500–£13,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "SL 65 AMG Black Series (2008–2011)",
+        "engineCode": "M275 AMG",
+        "usedSupply": "£6,000–£10,000",
+        "reconditionedSupply": "£10,000–£18,000",
+        "rebuiltSupply": "£14,000–£22,000",
+        "labourHours": "18–24 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [],
+    "petrolVariants": [
+      "SL 280",
+      "SL 350",
+      "SL 500",
+      "SL 55 AMG",
+      "SL 600",
+      "SL 63 AMG",
+      "SL 65 AMG",
+      "SL 65 AMG Black Series"
+    ],
+    "scopeNote": ""
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz SL R230 engine replacement cost in the UK?",
+        "answer": "A reconditioned R230 engine typically costs between £2,500 and £18,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the M112 V6 sits at £2,500–£4,500, the M113 V8 at £3,000–£6,000, and the M275 V12 in the SL 65 AMG Black Series at £10,000–£18,000. Fitting adds 10–24 hours of labour at specialist rates — budget an additional £650–£1,560 for installation. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes-Benz SL R230 engine is the most reliable?",
+        "answer": "The M113 5.0-litre V8 (SL 500, 2001–2006) is widely regarded as the most reliable R230 engine — one of Mercedes' finest V8s, with robust construction, proven 3-valve architecture and excellent longevity. The M113 5.4-litre supercharged V8 in the SL 55 AMG is also reliable, though the supercharger and intercooler system add maintenance costs. Among later engines, the M273 5.5-litre V8 (SL 500, 2006–2011) is similarly robust."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz SL R230?",
+        "answer": "Balance shaft wear on the M272 V6 (SL 350, 2006–2008), supercharger clutch and intercooler pump failure on the SL 55 AMG, ignition coil and wiring harness issues on the M275 V12 (SL 600/SL 65 AMG), SBC (Sensotronic Brake Control) system failure on 2001–2006 models, and ABC (Active Body Control) suspension leaks are the most documented issues. Each requires different preventative strategies."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes-Benz SL R230 reliable?",
+        "answer": "It depends heavily on which engine and which year you choose. The M113 V8 and M273 V8 are generally reliable with routine maintenance. The M272 V6 requires careful balance shaft history checking on 2006–2008 examples. The M275 V12 is a complex engine — when maintained properly it's reliable, but parts are expensive and labour-intensive. The SBC braking system on 2001–2006 cars can fail, though Mercedes extended warranty coverage to 25 years. Overall, a well-maintained R230 is a rewarding ownership proposition."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes-Benz SL R230 engine should I avoid?",
+        "answer": "No engine outright — the R230's engine range is one of the most diverse in Mercedes history. However, the M272 V6 (SL 350, 2006–2008) requires careful balance shaft history checking — pre-2008 cars are particularly susceptible. The M275 V12 (SL 600/SL 65 AMG) is a specialist proposition with significantly higher running costs — parts are expensive and labour-intensive. The M113 supercharged V8 in the SL 55 AMG is spectacular but demands regular supercharger maintenance."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my R230 engine needs replacing?",
+        "answer": "Balance shaft-related engine management lights (M272), supercharger clutch failure or loss of boost (SL 55 AMG), ignition coil misfires (M275 V12), SBC brake system warnings, or blue smoke from the exhaust are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing an R230 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £15,000–£25,000 SL 500, a £5,000 M113 recon is 20–33% of the car's value — safe. Against a tired £6,000 example, the same recon is 83% — walk away. For V12 cars, an £8,000–£15,000 recon on a £12,000–£30,000 example is 27–125% — only viable on well-maintained, higher-value cars. Our 70% Mercedes-Benz threshold is the line. The R230's depreciation means the economics are less forgiving than newer Mercedes."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes-Benz SL R230 engines last?",
+        "answer": "The M113 V8 can comfortably exceed 200,000 miles with proper maintenance — many examples have passed 150,000 miles. The M273 V8 is similarly durable. The M272 V6's lifespan is typically 120,000+ miles, though balance shaft issues can shorten this if not addressed. The M275 V12 is robust but demands specialist attention and more frequent maintenance."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the R230, R231 and R129?",
+        "answer": "The R230 is the fifth-generation SL (2001–2011, this page), with a retractable hardtop and ABC suspension. The R129 is its predecessor (1989–2001), with a removable hardtop and conventional soft-top. The R231 is its successor (2012–2020), with a more modern V6/V8/V12 range. The R230 was the first SL to feature a fully automatic folding metal roof."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes-Benz SL R230 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on M112/M113/M272/M273/M275/M156 units. Tell us your variant and approximate year and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz SL R230 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted R230 Engine Suppliers",
+        "text": "every Mercedes specialist and engine rebuilder in our network is vetted, rated and reviewed by real R230 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare R230 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply-&-fit options side-by-side before you commit — no hidden fees, no pressure."
+      },
+      {
+        "title": "UK Engine Replacement Services for R230",
+        "text": "covering every variant from SL 280 to SL 65 AMG Black Series, with supply-only or full supply-&-fit available nationwide from 25+ vetted Mercedes specialists."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz SL R230 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz SL R230 Engine Prices on EnginesMarket →",
+      "href": "#",
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
+    }
+  }
+}

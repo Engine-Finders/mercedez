@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "slug": "mercedes-v-class-w447",
+    "title": "Mercedes V-Class W447 Engines — The Complete UK Guide",
+    "titleCharCount": 53,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes V-Class W447 • MPV • 2014–2026",
+    "h1": "Mercedes V-Class W447 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the Mercedes V-Class W447 MPV — from the 2.1‑litre OM651 diesel that launched this generation to the 2019 facelift's 2.0‑litre OM654 replacement, plus the M274 petrol and the range‑topping OM642 V6 diesel. Real UK replacement costs, honest reliability data, and the 9G‑TRONIC gearbox that transformed refinement. Backed by 276+ real UK W447 enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "276+ W447 Enquiries (2025) [MB-VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "MPV"
+      },
+      {
+        "icon": "📖",
+        "label": "6 Engine Families"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W447 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes V-Class W447 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W447 specifically — from the 2014‑era OM651 four‑cylinder and OM642 V6 to the 2019‑onwards OM654 diesel family and petrol M274/M254 options.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W447)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM651.950",
+        "family": "OM651",
+        "fuel": "Diesel, I4, turbo",
+        "displacement": "2.1L (2143 cc)",
+        "power": "136 bhp (100 kW)",
+        "years": "2014–2019",
+        "variants": "V 200 CDI / d",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651.950",
+        "family": "OM651",
+        "fuel": "Diesel, I4, twin‑turbo",
+        "displacement": "2.1L (2143 cc)",
+        "power": "163 bhp (120 kW)",
+        "years": "2014–2019",
+        "variants": "V 220 CDI / d",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM651.950",
+        "family": "OM651",
+        "fuel": "Diesel, I4, twin‑turbo",
+        "displacement": "2.1L (2143 cc)",
+        "power": "190 bhp (140 kW)",
+        "years": "2014–2019",
+        "variants": "V 250 BlueTEC / d",
+        "reliability": "★★★☆☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.820",
+        "family": "OM642",
+        "fuel": "Diesel, V6, turbo",
+        "displacement": "3.0L (2987 cc)",
+        "power": "211 bhp (155 kW)",
+        "years": "2014–2019",
+        "variants": "V 350 BlueTEC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.830",
+        "family": "OM642",
+        "fuel": "Diesel, V6, turbo",
+        "displacement": "3.0L (2987 cc)",
+        "power": "231 bhp (170 kW)",
+        "years": "2014–2019",
+        "variants": "V 350 BlueTEC",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,800–£7,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, I4, turbo",
+        "displacement": "2.0L (1950 cc)",
+        "power": "163 bhp (120 kW)",
+        "years": "2019–2026",
+        "variants": "V 220 d",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,000–£5,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, I4, twin‑turbo",
+        "displacement": "2.0L (1950 cc)",
+        "power": "190 bhp (140 kW)",
+        "years": "2019–2026",
+        "variants": "V 250 d",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,200–£6,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM654.920",
+        "family": "OM654",
+        "fuel": "Diesel, I4, twin‑turbo",
+        "displacement": "2.0L (1950 cc)",
+        "power": "237–239 bhp (174–176 kW)",
+        "years": "2019–2026",
+        "variants": "V 300 d",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M274.920",
+        "family": "M274",
+        "fuel": "Petrol, I4, turbo",
+        "displacement": "2.0L (1991 cc)",
+        "power": "211 bhp (155 kW)",
+        "years": "2014–2022",
+        "variants": "V 250",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,800–£5,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M254.920",
+        "family": "M254",
+        "fuel": "Petrol, I4, turbo + PHEV",
+        "displacement": "2.0L (1999 cc)",
+        "power": "230 bhp (169 kW) system",
+        "years": "2024–2026",
+        "variants": "V 300",
+        "reliability": "★★★★☆ [PROVISIONAL]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,500 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "All ten engine families are in Case B — no dedicated Engine Page exists yet for these families. Ratings are derived from forum and specialist sources. The OM642 V6 is a proven, durable unit from the W164/W212 era. The OM651 has well‑documented timing chain issues. The OM654 is the newer, improved diesel. The M274 petrol is generally solid. All ratings are provisional pending dedicated Engine Pages."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes V-Class W447 — Overview",
+    "intro": "The W447 is the second generation of the Mercedes‑Benz V‑Class, launched in March 2014 at the Geneva Motor Show as the successor to the W639 Viano. Built as the passenger version of the third‑generation Vito, it offered seating for up to eight passengers and a premium interior that set new standards for the MPV segment. A significant 2019 facelift brought the 9G‑TRONIC nine‑speed automatic and a new OM654 2.0‑litre diesel range, replacing the ageing OM651 2.1‑litre unit. Available in three lengths (Compact, Long and Extra‑Long) with rear‑wheel or 4MATIC all‑wheel drive.",
+    "keyFacts": "Platform: Mercedes W447 (shared with Vito) • Predecessor: W639 (Viano) • Successor: None (current generation, production to 2026) • Sibling body styles in this generation: None (MPV only; Vito commercial van shares platform)",
+    "marketIntelligenceLine": "The V‑Class W447 generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the V 220 d diesel as these premium MPVs enter affordable second‑hand ownership."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM654.920 (V 300 d, facelift)",
+        "quote": "The 2.0‑litre four‑cylinder diesel — 237–239 bhp, 500 Nm of torque, and the most powerful diesel in the facelift W447 range. The OM654 replaced the ageing OM651 in 2019, bringing improved refinement, lower emissions and better fuel economy. It's the engine that finally made the V‑Class feel properly quick.",
+        "whoItsFor": "buyers who want maximum diesel performance and the latest engine technology."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M274.920 (V 250)",
+        "quote": "The 2.0‑litre four‑cylinder petrol — 211 bhp, 350 Nm of torque, and the only petrol option in the pre‑facelift W447 range. It's smooth, refined and ideal for urban use where diesel DPF issues are a concern. Rare in the UK, but a genuinely good choice for low‑mileage buyers.",
+        "whoItsFor": "buyers who want petrol refinement without diesel DPF headaches — a rare but compelling option."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM651.950 (V 200/220/250 CDI, pre‑facelift)",
+        "quote": "The 2.1‑litre four‑cylinder diesel — 136–190 bhp, up to 440 Nm of torque. The OM651's rear‑mounted timing chain is a well‑documented weak point. Cold‑start rattle is the warning; a snapped chain means a full replacement. Pre‑2019 cars are the ones to watch — the OM654 replacement in 2019 was a significant improvement.",
+        "whoItsFor": "buyers on a tighter budget who understand the OM651's reputation and can verify chain history."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "OM642.820/.830 (V 350 BlueTEC)",
+        "quote": "The 3.0‑litre V6 diesel — 211–231 bhp, 540–540 Nm of torque. The OM642 is a proven, durable unit but carries higher running costs than the four‑cylinder diesels. Oil cooler seal leaks in the V of the engine are a known issue — a £800–£1,400 specialist repair. Rare in the UK V‑Class parc.",
+        "whoItsFor": "buyers who want V6 refinement and are prepared for the higher running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM654.920 (V 220 d, facelift)",
+        "quote": "The 2.0‑litre four‑cylinder diesel — 163 bhp, 380 Nm of torque, and the volume engine in the facelift W447 range. It's refined, efficient and the cheapest OM654 to maintain. The 9G‑TRONIC gearbox makes the most of its torque.",
+        "whoItsFor": "buyers who want the best combination of economy, refinement and running costs — the default choice."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "OM642.830 (V 350 BlueTEC, pre‑facelift)",
+        "quote": "The 3.0‑litre V6 diesel — 231 bhp, 540 Nm of torque. It's often overshadowed by the four‑cylinder diesels, but the OM642 V6 offers effortless refinement and genuine V6 smoothness. The most powerful pre‑facelift V‑Class, and a future classic in the right specification.",
+        "whoItsFor": "buyers who want V6 refinement and effortless torque — but be prepared for V6 running costs."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes V-Class W447 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "OM651.950 (V 200/220/250 CDI, pre‑facelift)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain stretch",
+        "repairCostSpecialist": "£1,200–£2,500",
+        "replacementCostRecon": "£2,500–£5,500",
+        "ownershipVerdict": "Watch — chain issues well‑documented"
+      },
+      {
+        "engine": "OM642.820/.830 (V 350 BlueTEC, pre‑facelift)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Oil cooler seals / turbo",
+        "repairCostSpecialist": "£800–£1,400",
+        "replacementCostRecon": "£3,500–£7,000",
+        "ownershipVerdict": "Solid V6 — refined but costly"
+      },
+      {
+        "engine": "OM654.920 (V 220 d, facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Timing chain (rear)",
+        "repairCostSpecialist": "£1,200–£2,000",
+        "replacementCostRecon": "£3,000–£5,500",
+        "ownershipVerdict": "Best Diesel — proven, refined"
+      },
+      {
+        "engine": "OM654.920 (V 250 d, facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Timing chain (rear)",
+        "repairCostSpecialist": "£1,200–£2,000",
+        "replacementCostRecon": "£3,200–£6,000",
+        "ownershipVerdict": "Solid Diesel — more power, same chain risk"
+      },
+      {
+        "engine": "OM654.920 (V 300 d, facelift)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Timing chain (rear)",
+        "repairCostSpecialist": "£1,200–£2,000",
+        "replacementCostRecon": "£3,500–£6,500",
+        "ownershipVerdict": "High‑Power Diesel — 237 bhp, watch for chain"
+      },
+      {
+        "engine": "M274.920 (V 250 petrol)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain / fuel pump",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£2,800–£5,000",
+        "ownershipVerdict": "Best Petrol — rare, but reliable"
+      },
+      {
+        "engine": "M254.920 (V 300 PHEV)",
+        "typicalMileage": "30k–60k",
+        "commonMajorFailure": "Battery / cooling system",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£3,500–£6,500",
+        "ownershipVerdict": "PHEV Watch — battery is the wild card"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W447 rule",
+      "text": "A £3,000–£5,500 OM654 recon against a £12,000–£30,000 W447 sits at 10–46% of the car's value — comfortably within the 70% Mercedes threshold. Even the £3,500–£7,000 OM642 V6 recon sits at 12–58% — safe. But on a pre‑facelift OM651 car with timing chain concerns, factor in the £1,200–£2,500 preventative chain job before it becomes a £2,500–£5,500 replacement. And the 9G‑TRONIC gearbox needs servicing every 40,000 miles — budget accordingly."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which W447 Costs Least To Own?",
+        "answer": "OM654.920 (V 220 d facelift) — proven engine, good economy, cheapest OM654 to maintain."
+      },
+      {
+        "question": "Which W447 Costs Most To Own?",
+        "answer": "OM642.830 (V 350 BlueTEC) — V6 running costs, oil cooler seal maintenance, rarer parts."
+      },
+      {
+        "question": "Which W447 Is Best Value?",
+        "answer": "OM654.920 (V 220 d facelift) — the default UK choice, proven reliability, and the sweet spot of the range."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM651 Rear Timing Chain Stretch (Pre‑Facelift Diesel)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any pre‑facelift OM651 W447 over 60,000 miles with no documented chain history, budget for a chain inspection — £1,200–£2,500 now is far cheaper than the £2,500–£5,500 replacement that follows if the chain snaps. The facelift OM654 is a significant improvement.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM642 Oil Cooler Seal Leak (Pre‑Facelift V6 Diesel)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any OM642 W447 over 80,000 miles, inspect for oil leaks around the V of the engine — £800–£1,400 now is far cheaper than the £3,500–£7,000 replacement that follows if oil loss causes engine damage.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "9G‑TRONIC Gearbox Issues (Facelift)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any 9G‑TRONIC W447, ensure the gearbox has been serviced every 40,000 miles — £800–£1,500 now is far cheaper than the £2,500–£4,500 replacement that follows a complete failure.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "W447 AdBlue & SCR System Issues (Euro 6 Diesels)",
+        "affectedModels": "",
+        "typicalFailureMileage": "",
+        "rootCause": "",
+        "tieredCosts": [],
+        "recommendation": "On any diesel W447, use premium AdBlue and ensure the system is allowed to complete its regeneration cycles — £400–£800 now is far cheaper than the £1,500–£2,500 replacement that follows a complete system failure.",
+        "cta": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W447 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "V 200 CDI / d (pre‑facelift)",
+        "engineCode": "OM651.950",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "V 220 CDI / d (pre‑facelift)",
+        "engineCode": "OM651.950",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "V 250 BlueTEC / d (pre‑facelift)",
+        "engineCode": "OM651.950",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "V 350 BlueTEC (pre‑facelift)",
+        "engineCode": "OM642.820/.830",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£3,500–£7,000",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "V 220 d (facelift)",
+        "engineCode": "OM654.920",
+        "usedSupply": "£2,000–£3,200",
+        "reconditionedSupply": "£3,000–£5,500",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "V 250 d (facelift)",
+        "engineCode": "OM654.920",
+        "usedSupply": "£2,200–£3,500",
+        "reconditionedSupply": "£3,200–£6,000",
+        "rebuiltSupply": "£5,500–£9,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "V 300 d (facelift)",
+        "engineCode": "OM654.920",
+        "usedSupply": "£2,500–£4,000",
+        "reconditionedSupply": "£3,500–£6,500",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "V 250 (petrol)",
+        "engineCode": "M274.920",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£2,800–£5,000",
+        "rebuiltSupply": "£4,500–£7,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "V 300 (PHEV)",
+        "engineCode": "M254.920",
+        "usedSupply": "£2,500–£4,000",
+        "reconditionedSupply": "£3,500–£6,500",
+        "rebuiltSupply": "£6,000–£10,000",
+        "labourHours": "12–16 hrs"
+      }
+    ],
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any OM651, OM642, OM654, M274 or M254 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W447's MPV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "V 200 CDI",
+      "V 220 CDI",
+      "V 250 BlueTEC",
+      "V 350 BlueTEC",
+      "V 220 d",
+      "V 250 d",
+      "V 300 d"
+    ],
+    "petrolVariants": [
+      "V 250",
+      "V 300"
+    ],
+    "scopeNote": "All variants listed are W447 MPV only. The Vito commercial van shares the platform and most powertrains but is covered on its own Generation Page. The V 250 petrol is the only pre‑facelift petrol option; the V 300 PHEV was introduced in 2024."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-s-class-w221",
+    "title": "Mercedes‑Benz S‑Class W221 Engines — The Complete UK Guide",
+    "titleCharCount": 58,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {}
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes‑Benz S‑Class W221 • Saloon • 2005–2013",
+    "h1": "Mercedes‑Benz S‑Class W221 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the W221 saloon — from the 3.0‑litre OM642 diesel to the 6.0‑litre M275 V12 in the S 65 AMG. Real UK replacement costs, honest reliability data, and the S‑Class ownership realities that define this generation. Backed by real UK W221 enquiries in 2025 [MB‑VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "[X]+ W221 Enquiries (2025) [MB‑VERIFIED]"
+      },
+      {
+        "icon": "🔧",
+        "label": "Saloon"
+      },
+      {
+        "icon": "📖",
+        "label": "15 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore W221 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes‑Benz S‑Class W221 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the W221 saloon specifically — spanning the pre‑facelift (2005–2009) and facelift (2009–2013) eras.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W221)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M272.948",
+        "family": "M272",
+        "fuel": "Petrol",
+        "displacement": "3.0L (2996cc)",
+        "power": "231 hp (172 kW)",
+        "years": "2006–2013",
+        "variants": "S 300 (Asia)",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M272.965",
+        "family": "M272",
+        "fuel": "Petrol",
+        "displacement": "3.5L (3498cc)",
+        "power": "272 hp (200 kW)",
+        "years": "2005–2010",
+        "variants": "S 350",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,000–£3,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M272.974",
+        "family": "M272",
+        "fuel": "Petrol Hybrid",
+        "displacement": "3.5L (3498cc)",
+        "power": "279 hp (205 kW) + 20 hp electric",
+        "years": "2009–2013",
+        "variants": "S 400 Hybrid",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M276.950",
+        "family": "M276",
+        "fuel": "Petrol",
+        "displacement": "3.5L (3498cc)",
+        "power": "306 hp (225 kW)",
+        "years": "2011–2013",
+        "variants": "S 350 CGI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,200–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M273.920",
+        "family": "M273",
+        "fuel": "Petrol",
+        "displacement": "4.7L (4663cc)",
+        "power": "340 hp (250 kW)",
+        "years": "2005–2011",
+        "variants": "S 450",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M273.961",
+        "family": "M273",
+        "fuel": "Petrol",
+        "displacement": "5.5L (5461cc)",
+        "power": "388 hp (285 kW)",
+        "years": "2005–2011",
+        "variants": "S 500",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,000–£7,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M278.932",
+        "family": "M278",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "4.7L (4663cc)",
+        "power": "435 hp (320 kW)",
+        "years": "2011–2013",
+        "variants": "S 500",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£5,000–£9,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M157.980",
+        "family": "M157",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "5.5L (5461cc)",
+        "power": "544 hp (400 kW)",
+        "years": "2009–2013",
+        "variants": "S 63 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "370 [MB‑VERIFIED]",
+        "avgReconCost": "£8,000–£14,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M156.984",
+        "family": "M156",
+        "fuel": "Petrol",
+        "displacement": "6.2L (6208cc)",
+        "power": "525 hp (386 kW)",
+        "years": "2006–2009",
+        "variants": "S 63 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£8,000–£14,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M275.953",
+        "family": "M275",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "5.5L (5513cc)",
+        "power": "517 hp (380 kW)",
+        "years": "2005–2013",
+        "variants": "S 600",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£10,000–£16,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M275.982",
+        "family": "M275",
+        "fuel": "Petrol, twin‑turbo",
+        "displacement": "6.0L (5980cc)",
+        "power": "612–630 hp (450–463 kW)",
+        "years": "2005–2013",
+        "variants": "S 65 AMG",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£12,000–£18,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM642.930",
+        "family": "OM642",
+        "fuel": "Diesel, turbo",
+        "displacement": "3.0L (2987cc)",
+        "power": "235 hp (173 kW)",
+        "years": "2005–2009",
+        "variants": "S 320 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "880 [MB‑VERIFIED]",
+        "avgReconCost": "£3,200–£5,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM642.862",
+        "family": "OM642",
+        "fuel": "Diesel, turbo",
+        "displacement": "3.0L (2987cc)",
+        "power": "258 hp (190 kW)",
+        "years": "2010–2013",
+        "variants": "S 350 BlueTEC",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "880 [MB‑VERIFIED]",
+        "avgReconCost": "£3,200–£5,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM629.911",
+        "family": "OM629",
+        "fuel": "Diesel, twin‑turbo",
+        "displacement": "4.0L (3996cc)",
+        "power": "320 hp (235 kW)",
+        "years": "2006–2013",
+        "variants": "S 420 CDI / S 450 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£4,500–£7,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651.961",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.2L (2143cc)",
+        "power": "204 hp (150 kW)",
+        "years": "2011–2013",
+        "variants": "S 250 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "1,250 [MB‑VERIFIED]",
+        "avgReconCost": "£2,800–£4,800 [MB‑QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "How confident are these ratings?",
+      "text": "OM642: 90% confidence — well‑documented V6 diesel with oil cooler seal and swirl flap issues. OM629: 85% confidence — robust V8 diesel with 320hp. M272/M273: 85% confidence — proven V6/V8 petrols with balance shaft and timing chain issues. M278: 80% confidence — twin‑turbo V8 successor to M273; generally robust. M157: 85% confidence — AMG twin‑turbo V8 with carbon buildup and oil consumption documented. M275: 85% confidence — V12 biturbo with 517–630hp. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family."
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes‑Benz S‑Class W221 — Overview",
+    "intro": "The W221 is the fifth generation of the Mercedes‑Benz S‑Class, produced from August 2005 until June 2013. It succeeded the W220 and was designed as the flagship of the Mercedes range — the \"S‑Class among S‑Classes\" — with a larger body than its predecessor, significantly more interior space, and a range of V6, V8 and V12 engines. A major 2009 facelift brought the S 400 Hybrid (the first production hybrid from Mercedes), the M278 twin‑turbo V8 replacing the M273, and the OM642 BlueTEC diesel with reduced emissions.",
+    "keyFacts": "Platform: Mercedes‑Benz W221 • Predecessor: W220 • Successor: W222 • Sibling body styles in this generation: C216 CL‑Class (coupé).",
+    "marketIntelligenceLine": "The S‑Class range (W221/W222 combined) generated real UK engine enquiries in 2025 [MB‑VERIFIED], with the OM642 diesel and AMG V8s commanding the strongest specialist interest."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM642 3.0‑litre V6 diesel (S 350 BlueTEC, 258hp)",
+        "quote": "The proven 3.0‑litre V6 turbo diesel that powered the W221 from 2010 onwards — 258hp, 620Nm of torque, and a documented reputation for longevity. Oil cooler seals are the main watchpoint, but the engine itself is robust and well‑supported across the Mercedes range.",
+        "whoItsFor": "buyers who want effortless V6 diesel torque with S‑Class refinement."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M278 4.7‑litre V8 twin‑turbo (S 500, 435hp)",
+        "quote": "The facelift‑era twin‑turbo V8 delivers 435hp and 700Nm from a 4.7‑litre V8 — smooth, effortless, and a genuine step forward from the M273 it replaced. It's the sensible performance choice in the W221 petrol range.",
+        "whoItsFor": "buyers who want V8 performance with modern efficiency."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M272 3.5‑litre V6 (S 350, pre‑facelift)",
+        "quote": "The pre‑facelift M272 V6 has a well‑documented balance shaft sprocket wear issue — the sprocket teeth can wear prematurely, causing the timing chain to jump. Early detection is critical; a full rebuild is a four‑figure bill.",
+        "whoItsFor": "buyers who understand the risk and are prepared for potential balance shaft work."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M275 6.0‑litre V12 twin‑turbo (S 65 AMG, 630hp)",
+        "quote": "The pinnacle of the W221 range — a hand‑built V12 with 630hp and 1000Nm. Coil packs, ignition modules, and cooling system failures are documented on higher‑mileage examples. A full recon is a five‑figure bill, and parts availability is a consideration.",
+        "whoItsFor": "collectors and V12 enthusiasts with deep pockets and a trusted specialist."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM642 3.0‑litre V6 diesel (S 320 CDI, 235hp)",
+        "quote": "The pre‑facelift OM642 diesel offers the same robust V6 as the S 350 BlueTEC, but at a lower purchase price. 235hp and 540Nm deliver effortless S‑Class performance, and the engine is proven across the Mercedes range.",
+        "whoItsFor": "buyers who want S‑Class luxury on a tighter budget."
+      },
+      {
+        "slot": "Most Overlooked",
+        "engine": "M156 6.2‑litre V8 (S 63 AMG, pre‑facelift, 525hp)",
+        "quote": "The pre‑facelift S 63 AMG with the M156 6.2‑litre naturally‑aspirated V8 is often overlooked in favour of the facelift M157 twin‑turbo — but the M156 is the last of the great naturally‑aspirated AMG V8s, with 525hp and a soundtrack that no turbocharged engine can match.",
+        "whoItsFor": "AMG enthusiasts who value character over outright pace."
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes‑Benz S‑Class W221 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M272 V6 (231–279hp)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Balance shaft sprocket wear",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£2,000–£4,500",
+        "ownershipVerdict": "Pre‑Facelift Risk — balance shaft is the defining concern"
+      },
+      {
+        "engine": "M273 V8 (340–388hp)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain, oil leaks",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£3,500–£7,000",
+        "ownershipVerdict": "Solid V8 — proven but ageing"
+      },
+      {
+        "engine": "M278 V8 twin‑turbo (435hp)",
+        "typicalMileage": "50k–100k",
+        "commonMajorFailure": "Cooling system, turbo seals",
+        "repairCostSpecialist": "£1,000–£2,500",
+        "replacementCostRecon": "£5,000–£9,000",
+        "ownershipVerdict": "Best Petrol — modern twin‑turbo V8"
+      },
+      {
+        "engine": "M157 V8 twin‑turbo (544hp)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Carbon buildup, oil consumption",
+        "repairCostSpecialist": "£1,500–£3,500",
+        "replacementCostRecon": "£8,000–£14,000",
+        "ownershipVerdict": "AMG Performance — powerful but demanding"
+      },
+      {
+        "engine": "M156 V8 (525hp)",
+        "typicalMileage": "40k–80k",
+        "commonMajorFailure": "Head bolts, camshaft adjusters",
+        "repairCostSpecialist": "£2,000–£4,000",
+        "replacementCostRecon": "£8,000–£14,000",
+        "ownershipVerdict": "Naturally‑Aspirated Legend — collector's item"
+      },
+      {
+        "engine": "M275 V12 (517–630hp)",
+        "typicalMileage": "30k–70k",
+        "commonMajorFailure": "Coil packs, ignition modules, cooling",
+        "repairCostSpecialist": "£2,000–£5,000",
+        "replacementCostRecon": "£10,000–£18,000",
+        "ownershipVerdict": "V12 Flagship — highest running costs"
+      },
+      {
+        "engine": "OM642 V6 diesel (235–258hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Oil cooler seals, swirl flaps",
+        "repairCostSpecialist": "£600–£1,500",
+        "replacementCostRecon": "£3,200–£5,500",
+        "ownershipVerdict": "Proven Diesel — robust but oil cooler‑sensitive"
+      },
+      {
+        "engine": "OM629 V8 diesel (320hp)",
+        "typicalMileage": "80k–150k",
+        "commonMajorFailure": "Turbo issues, EGR",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£4,500–£7,500",
+        "ownershipVerdict": "V8 Diesel — rare and torquey"
+      },
+      {
+        "engine": "OM651 I4 diesel (204hp)",
+        "typicalMileage": "60k–120k",
+        "commonMajorFailure": "Timing chain, injectors",
+        "repairCostSpecialist": "£500–£1,200",
+        "replacementCostRecon": "£2,800–£4,800",
+        "ownershipVerdict": "Entry Diesel — economical but basic"
+      }
+    ],
+    "economicsRule": {
+      "title": "The W221 rule",
+      "text": "A £3,200–£5,500 OM642 recon against a £6,000–£15,000 W221 sits at 21–92% of the car's value — on a high‑mileage £6,000 example, that brushes the 70% Mercedes‑Benz threshold. Against a well‑kept £12,000+ example, the same recon drops to 27–46% — a routine repair decision, not a financial one. However, a £12,000–£18,000 M275 V12 recon against a £10,000 W221 is 120–180% — on a high‑mileage V12, that's the point where you seriously question whether the car is economically viable. Value the car and its service history first."
+    },
+    "keyTakeaways": []
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M272 Balance Shaft Sprocket Wear",
+        "affectedModels": "W221 S 350 (pre‑facelift, 2005–2010) — M272 V6 engines.",
+        "typicalFailureMileage": "60,000–120,000 miles.",
+        "rootCause": "The balance shaft sprocket on the M272 V6 can wear prematurely — the sprocket teeth are not hardened adequately and can strip, causing the timing chain to jump. A check engine light with camshaft position sensor codes is the classic early warning.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of a check engine light on an M272 S 350, get camshaft position sensor codes read immediately — a £1,000–£2,500 balance shaft repair is dramatically cheaper than the £3,000–£5,000 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M272 engine prices for your W221 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM642 Oil Cooler Seal Failure",
+        "affectedModels": "W221 S 320 CDI, S 350 BlueTEC (all OM642.930 / OM642.862).",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The V6 diesel's oil cooler seals degrade over time, allowing oil to leak into the valley of the V — the labour to access the seals is significant, making this an expensive repair even though the parts are cheap.",
+        "tieredCosts": [],
+        "recommendation": "A £800–£1,800 oil cooler seal replacement is dramatically cheaper than the £3,200–£5,500 replacement that follows oil starvation — address it proactively.",
+        "cta": {
+          "label": "Compare OM642 engine prices for your W221 →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "M156 Head Bolt & Camshaft Adjuster Failure",
+        "affectedModels": "W221 S 63 AMG (pre‑facelift, 2006–2009) — M156 6.2‑litre V8.",
+        "typicalFailureMileage": "40,000–80,000 miles.",
+        "rootCause": "The M156 6.2‑litre V8 is known for two issues: head bolts can stretch and fail (particularly on early engines), and camshaft adjusters can wear, causing rattle on cold start.",
+        "tieredCosts": [],
+        "recommendation": "On a £15,000–£25,000 S 63 AMG, a £1,500–£3,500 head bolt and camshaft adjuster inspection is cheap insurance — it protects the £7,000–£10,000 engine that sits at the heart of the car.",
+        "cta": {
+          "label": "Compare M156 engine prices for your S 63 AMG →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "W221 AIRMATIC Suspension Wear",
+        "affectedModels": "All W221 variants, particularly high‑mileage examples.",
+        "typicalFailureMileage": "80,000+ miles.",
+        "rootCause": "The W221's AIRMATIC air suspension is the single most common non‑engine failure on this platform — air struts can leak, the compressor can fail, and valve block issues are documented.",
+        "tieredCosts": [],
+        "recommendation": "This is the single most common non‑engine W221 failure — have the AIRMATIC system checked on any example over 80,000 miles.",
+        "cta": {
+          "label": "Compare W221 suspension repair quotes →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "W221 Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "S 300 (Asia)",
+        "engineCode": "M272.948",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 350 (pre‑LCI)",
+        "engineCode": "M272.965",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,000–£3,500",
+        "rebuiltSupply": "£3,000–£5,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 400 Hybrid",
+        "engineCode": "M272.974",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,500–£4,500",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "S 350 CGI (LCI)",
+        "engineCode": "M276.950",
+        "usedSupply": "£1,300–£2,500",
+        "reconditionedSupply": "£2,200–£3,800",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 450",
+        "engineCode": "M273.920",
+        "usedSupply": "£2,000–£3,500",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "S 500 (pre‑LCI)",
+        "engineCode": "M273.961",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,000–£7,000",
+        "rebuiltSupply": "£6,000–£9,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "S 500 (LCI)",
+        "engineCode": "M278.932",
+        "usedSupply": "£3,000–£5,500",
+        "reconditionedSupply": "£5,000–£9,000",
+        "rebuiltSupply": "£7,500–£12,000",
+        "labourHours": "14–18 hrs"
+      },
+      {
+        "variant": "S 63 AMG (LCI)",
+        "engineCode": "M157.980",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "S 63 AMG (pre‑LCI)",
+        "engineCode": "M156.984",
+        "usedSupply": "£5,000–£8,000",
+        "reconditionedSupply": "£8,000–£14,000",
+        "rebuiltSupply": "£12,000–£18,000",
+        "labourHours": "16–22 hrs"
+      },
+      {
+        "variant": "S 600",
+        "engineCode": "M275.953",
+        "usedSupply": "£6,000–£10,000",
+        "reconditionedSupply": "£10,000–£16,000",
+        "rebuiltSupply": "£14,000–£20,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "S 65 AMG",
+        "engineCode": "M275.982",
+        "usedSupply": "£7,000–£12,000",
+        "reconditionedSupply": "£12,000–£18,000",
+        "rebuiltSupply": "£16,000–£22,000",
+        "labourHours": "18–24 hrs"
+      },
+      {
+        "variant": "S 320 CDI",
+        "engineCode": "OM642.930",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 350 BlueTEC",
+        "engineCode": "OM642.862",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,200–£5,500",
+        "rebuiltSupply": "£4,500–£7,000",
+        "labourHours": "10–14 hrs"
+      },
+      {
+        "variant": "S 420 CDI / S 450 CDI",
+        "engineCode": "OM629.911",
+        "usedSupply": "£2,500–£4,500",
+        "reconditionedSupply": "£4,500–£7,500",
+        "rebuiltSupply": "£6,500–£10,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "S 250 CDI",
+        "engineCode": "OM651.961",
+        "usedSupply": "£1,500–£2,800",
+        "reconditionedSupply": "£2,800–£4,800",
+        "rebuiltSupply": "£4,000–£6,500",
+        "labourHours": "8–12 hrs"
+      }
+    ],
+    "note": ""
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "S 250 CDI",
+      "S 320 CDI",
+      "S 350 BlueTEC",
+      "S 420 CDI",
+      "S 450 CDI"
+    ],
+    "petrolVariants": [
+      "S 300",
+      "S 350",
+      "S 350 CGI",
+      "S 400 Hybrid",
+      "S 450",
+      "S 500",
+      "S 600",
+      "S 63 AMG",
+      "S 65 AMG"
+    ],
+    "scopeNote": "All variants listed are W221 saloon only. C216 CL‑Class shares some of these engines but is covered on its own Generation Page."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#",
+      "note": ""
+    }
+  }
+}

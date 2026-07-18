@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "slug": "mercedes-a-class-a180d",
+    "title": "Mercedes A‑Class A180d Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 71,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes A‑Class A180d • 2013–present • OM651 / OM654 Diesel",
+    "h1": "Mercedes A‑Class A180d Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes A180d specialists. Compare reconditioned, rebuilt and used OM651 and OM654 diesel engines — supply & fit available nationwide for Mercedes‑Benz's premium compact hatchback.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12‑Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes A180d Engines — from £1,800 to £7,500 · Common codes: OM651, OM654",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "Get My Free A180d Engine Quotes Now →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK‑Wide Network"
+  },
+  "eraMap": {
+    "title": "The A180d THROUGH TIME — Era Map",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "A‑Class W176 (A180d)",
+        "years": "2013–2018",
+        "engineCode": "OM651 (2.1L 4‑cyl diesel, 109 bhp)",
+        "reliability": "★★½☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£3,500–£6,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "OM651 2.1‑litre diesel — timing chain stretch, injector pump failure and DPF/EGR issues are well‑documented weaknesses"
+      },
+      {
+        "generation": "A‑Class W177 (A180d)",
+        "years": "2019–present",
+        "engineCode": "OM654 (1.5L 4‑cyl diesel, 109–116 bhp)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,000–£7,500 [PLACEHOLDER — confirm vs cost sheet]",
+        "eraNote": "Downsized OM654 — improved efficiency but timing chain wear, camshaft bearing wear and DPF issues remain"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes A180d Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£1,800–£3,200",
+        "fittedIndie": "£2,600–£4,500",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; vehicle under £5,000"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£3,500–£6,500",
+        "fittedIndie": "£4,500–£7,800",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£4,500–£7,500",
+        "fittedIndie": "£5,500–£9,000",
+        "warranty": "12–24 months",
+        "bestFor": "Long‑term ownership; 3+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£7,500–£10,000",
+        "fittedIndie": "£9,000–£12,000",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect the current A180d range. Reconditioned engines typically cost £1,200–£2,200 supply only, with fitted costs around £1,800–£2,800 for smaller engines — the A180d's diesel engine commands a premium. An engine blown on a Mercedes often costs £9,000–£13,000 from a dealer.",
+    "labourEstimate": "Fitting an A180d engine typically takes 8–12 hours at £75–£110/hr (independent) or £130–£180/hr (London/SE dealer). The OM651's rear‑mounted timing chain requires removing the entire engine for repairs. [PLACEHOLDER — confirm vs cost sheet]",
+    "cta": {
+      "label": "→ Compare A180d engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "OM651 Timing Chain Stretch & Tensioner Failure (W176, 2013–2018)",
+        "symptoms": "Rattling or clattering noise from the engine on cold start, metallic noises, engine warning light, loss of power, rough idling.",
+        "typicalMileage": "60,000–100,000 miles — one owner reported chain noise at around 90K",
+        "repairCost": "£1,500–£3,500 (timing chain, guides and tensioner replacement — engine‑out job)【PLACEHOLDER】",
+        "replacementCost": "£3,500–£6,500 (if chain snaps and valves meet pistons)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattle, book an inspection today"
+        },
+        "recommendation": "The OM651's timing chain is the defining weak point of this engine generation. The chain stretches quickly, producing a distinct rattle. Unlike a front‑mounted chain on many engines, the OM651's chain is rear‑mounted, requiring the entire engine to be removed for repairs. The chain tensioner has been revised multiple times, primarily affecting older OM651 engines. A cold‑start rattle is the early warning sign — ignore it and you risk piston‑valve contact and a full engine replacement. Regular oil changes and checking for MB recalls are the best prevention.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/timing-chain-stretch/"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM651 High‑Pressure Fuel Pump Failure (W176)",
+        "symptoms": "Misfires, limp mode, loss of power, engine warning light, poor fuel economy, hard starting.",
+        "typicalMileage": "60,000–100,000 miles",
+        "repairCost": "£500–£1,500 (HPFP replacement)【PLACEHOLDER】",
+        "replacementCost": "£3,500–£6,500 (if pump failure leads to engine damage)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you experience limp mode or misfires, book an inspection today"
+        },
+        "recommendation": "The OM651's high‑pressure fuel pump is a well‑documented failure point, with TSB 07.01.15 covering the issue. The original pump (OEM A0000731709) fails without warning, causing misfires and limp mode. Check service history for fuel pump replacement — if missing, walk away. If you experience power loss or limp mode, have the fuel system inspected immediately.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/hpfp-failure/"
+        }
+      },
+      {
+        "id": 3,
+        "title": "DPF Blockage & Pressure Sensor Failure (Both Generations)",
+        "symptoms": "DPF warning light, reduced power, drop in fuel efficiency, frequent regeneration cycles, engine management light",
+        "typicalMileage": "40,000–80,000 miles (urban‑driven cars are at highest risk)",
+        "repairCost": "£200–£800 (DPF clean, forced regeneration, or pressure sensor replacement)【PLACEHOLDER】",
+        "replacementCost": "£1,500–£3,000 (DPF replacement)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🟠",
+          "label": "Check",
+          "text": "book inspection urgently if DPF warning appears"
+        },
+        "recommendation": "DPF clogging is one of the most common issues on the A180d, particularly on cars driven mostly in the city. A split in the rubber pipe connecting the manifold to the DPF pressure sensor has been identified as a common cause. DPF differential pressure sensors, AdBlue pumps, and temperature sensors are among the most frequently failing components. If you see a DPF warning light, take the car for a sustained motorway run at 2,000–2,500 rpm. If the light persists, have the DPF inspected. Regular motorway driving and using premium diesel can help keep the DPF healthy.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/dpf-failure/"
+        }
+      },
+      {
+        "id": 4,
+        "title": "OM654 Timing Chain & Camshaft Bearing Wear (W177, 2019+)",
+        "symptoms": "Rattling noise on cold start, turbo lag, noisy engine, loss of power, engine warning light.",
+        "typicalMileage": "40,000–80,000 miles",
+        "repairCost": "£1,200–£3,000 (timing chain, followers/rockers replacement)【PLACEHOLDER】",
+        "replacementCost": "£4,000–£7,500 (if chain snaps)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🔴",
+          "label": "Immediate",
+          "text": "if you hear rattle, book an inspection today"
+        },
+        "recommendation": "The OM654 engine has its own timing chain concerns, with rattle on cold start being a common symptom. Camshaft bearing wear is also reported, causing turbo lag and noise. Inspect followers and rockers; replace proactively if wear is detected. At the first sign of cold‑start rattle or unusual noise, book an inspection immediately.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/timing-chain-stretch/"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Dual‑Clutch Transmission (DCT) Issues (W177)",
+        "symptoms": "Jerky gear changes at low speeds, delayed engagement when selecting drive or reverse, transmission overheating.",
+        "typicalMileage": "30,000–60,000 miles",
+        "repairCost": "£500–£2,000 (clutch inspection, software update, mechatronic repair)【PLACEHOLDER】",
+        "replacementCost": "£3,000–£5,000 (if transmission requires full replacement)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon if shifting issues develop"
+        },
+        "recommendation": "The A180d's dual‑clutch transmission (DCT) has been associated with several recurring problems. Jerky gear transitions are common, particularly at low speeds or during stop‑and‑go driving. Delayed engagement when shifting from park to drive or reverse is another frequently reported issue. Regular clutch inspections and software updates can alleviate these issues. Take any used A180d on a lengthy test drive and feel for any jerky gearchanges.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/transmission-issues/"
+        }
+      },
+      {
+        "id": 6,
+        "title": "High Oil Consumption (Both Generations)",
+        "symptoms": "Frequent oil top‑ups, blue smoke from exhaust, low oil warning light.",
+        "typicalMileage": "60,000–100,000 miles",
+        "repairCost": "£150–£300 (regular oil top‑ups and monitoring) — £1,000–£3,000+ (piston ring or valve seal replacement)【PLACEHOLDER】",
+        "replacementCost": "£3,500–£7,500 (if oil starvation leads to engine damage)【PLACEHOLDER】",
+        "urgency": {
+          "icon": "🟡",
+          "label": "Monitor",
+          "text": "book inspection soon; monitor oil levels weekly"
+        },
+        "recommendation": "High oil consumption is a frequently reported issue in the A180d, particularly in older or higher‑mileage models. This can result from worn piston rings, valve seals, or turbocharger seals. Check your oil level regularly — this engine is not one you can neglect. Use the correct grade of fully synthetic Mercedes‑approved oil.",
+        "failureLink": {
+          "label": "",
+          "href": "/failures/oil-consumption/"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Ready to Compare? Get Matched With a Vetted Mercedes Specialist →",
+    "supportingLine": "25+ vetted Mercedes specialists, every A‑Class engine variant covered, with a 12‑month warranty as standard.",
+    "button": {
+      "label": "Get My Free A180d Engine Quotes Now →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes A180d — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "OM651 timing chain stretch (preventative)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,500–£3,500",
+          "whenItMakesSense": "Catch it early — far cheaper than engine replacement; engine‑out job required"
+        },
+        {
+          "problem": "OM651 HPFP failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£1,500",
+          "whenItMakesSense": "Catch it before fuel system damage occurs"
+        },
+        {
+          "problem": "DPF blockage",
+          "repairable": "✅ Yes",
+          "typicalCost": "£200–£800",
+          "whenItMakesSense": "Cleaning or forced regeneration is cost‑effective"
+        },
+        {
+          "problem": "OM654 timing chain wear",
+          "repairable": "✅ Yes",
+          "typicalCost": "£1,200–£3,000",
+          "whenItMakesSense": "Catch it early"
+        },
+        {
+          "problem": "DCT transmission issues",
+          "repairable": "✅ Yes",
+          "typicalCost": "£500–£2,000",
+          "whenItMakesSense": "Software updates and clutch inspection can resolve issues"
+        },
+        {
+          "problem": "High oil consumption",
+          "repairable": "⚠️ Sometimes",
+          "typicalCost": "£1,000–£3,000+",
+          "whenItMakesSense": "Viable if caught early; often requires piston ring or valve seal replacement"
+        },
+        {
+          "problem": "Snapped timing chain",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement",
+          "whenItMakesSense": "Piston‑valve contact means little is left to repair"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This A180d? Check These First",
+      "buyIf": [
+        "* Full service history with regular oil changes using Mercedes‑approved oil",
+        "* W176 (2013–2018): timing chain tensioner replaced or inspected; HPFP replaced",
+        "* W177 (2019+): no cold‑start rattle; DCT functioning correctly",
+        "* DPF health checked — regular motorway use is a good sign",
+        "* AdBlue system serviced with no faults",
+        "* Post‑2014 models often include TSB fixes for pre‑2014 flaws"
+      ],
+      "avoidIf": [
+        "* No proof of regular maintenance — these engines are unforgiving of neglect",
+        "* W176 with cold‑start rattle — timing chain work is imminent and expensive",
+        "* Any DPF or AdBlue warning lights — emissions system repairs can be costly",
+        "* Jerky gear changes — DCT issues may be developing",
+        "* Any engine warning light without diagnosis — these engines can hide expensive faults",
+        "* \"Cheap\" examples — the purchase price is the least of your worries"
+      ]
+    },
+    "closingVerdict": "The Mercedes A180d is the entry‑point diesel for Mercedes‑Benz's premium compact hatchback — offering strong economy, low emissions, and a refined driving experience. However, the engine choice matters significantly. The W176's OM651 2.1‑litre diesel is a high‑risk engine, notorious for timing chain stretch that requires an engine‑out repair, HPFP failure, and DPF/EGR issues. The W177's OM654 1.5‑litre diesel is newer and improved but still has timing chain wear, camshaft bearing wear, and DCT transmission concerns. Across both generations, regular maintenance is absolutely essential. As one specialist put it: \"Check service history for fuel pump replacement — if missing, walk away\".",
+    "cta": {
+      "label": "→ Compare A180d engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes A180d (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for rattle from the engine (timing chain warning — critical on OM651 and OM654)",
+      "* Service History — Including which engine era (OM651/OM654) and confirmed oil‑change discipline",
+      "* HPFP Health (W176) — Any history of fuel pump replacement? Any misfires or limp mode?",
+      "* DPF Health — Any warning lights? Ask about regeneration frequency; urban cars will have more issues",
+      "* AdBlue System (W177) — Any warnings or faults? AdBlue pumps and sensors are common failures",
+      "* Transmission — Any jerky shifts or delays? DCT issues may be developing",
+      "* Oil Level — Check dipstick; excessive consumption indicates potential piston ring or turbo seal wear",
+      "* Engine Warning Light — Have codes been read? Timing, HPFP, DPF, or transmission codes are most common"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "OM651 (W176 A180d)",
+        "years": "2013–2018",
+        "power": "109 bhp (81 kW) @ 4,000 rpm · 260 Nm @ 1,750 rpm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£3,500–£6,500【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "engineCode": "OM654 (W177 A180d)",
+        "years": "2019–present",
+        "power": "109–116 bhp (80–85 kW) @ 3,400 rpm · 260–280 Nm @ 1,300–1,750 rpm",
+        "enquiries": "— (pattern data)【PATTERN DATA】",
+        "avgReconCost": "£4,000–£7,500【PLACEHOLDER — confirm vs cost sheet】"
+      }
+    ],
+    "matchNote": "This table's rows exactly match Section 1B's Era Map — the same engine codes, years, and generation coverage.",
+    "technicalSpecs": {
+      "title": "Technical Specs (OM654 — W177 A180d):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "1,461–1,950cc (depending on variant)"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "4‑cylinder inline, 16 valves, DOHC"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "15.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Common‑rail direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Single turbocharger"
+        },
+        {
+          "label": "* Transmission",
+          "value": "7G‑DCT dual‑clutch (W177)"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare A180d engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "OM651 timing chain stretch and HPFP failure — approximately 55% of OM651‑related enquiries cite chain or fuel pump concerns【PATTERN DATA】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000–80,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£5,000 reconditioned, supply only【PLACEHOLDER】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM651 — W176‑era A180d is the most common A180d on UK roads【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose timing chain and DPF issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (22%), London (18%), North West (13%)【PATTERN DATA】"
+      },
+      {
+        "label": "SECTION 8 — FAQ",
+        "value": "1. How much does a Mercedes A180d engine replacement cost in the UK?"
+      },
+      {
+        "label": "A reconditioned A180d engine typically costs £3,500–£7,500 supply only depending on generation. Reconditioned engines typically cost £1,200–£2,200 supply only, with fitted costs around £1,800–£2,800. An engine blown on a Mercedes often costs £9,000–£13,000 from a dealer. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes A180d engine reliable?"
+      },
+      {
+        "label": "It depends on which generation you're asking about. The OM651 (W176, 2013–2018) is a high‑risk engine — timing chain stretch is the defining weakness (engine‑out job), HPFP failure is common, and DPF/EGR issues are frequent. The OM654 (W177, 2019+) is newer and improved but has timing chain wear, camshaft bearing wear, and DCT transmission issues. Regular maintenance is essential.",
+        "value": "3. What are the common problems with the Mercedes A180d?"
+      },
+      {
+        "label": "OM651 timing chain stretch (engine‑out job) and HPFP failure (W176), OM654 timing chain and camshaft bearing wear (W177), DPF blockage and pressure sensor failure (both generations), dual‑clutch transmission (DCT) issues (jerky gear changes, delayed engagement), and high oil consumption. See the Era Map above for generation‑specific advice.",
+        "value": "4. Is it worth replacing a Mercedes A180d engine, or should I scrap the car?"
+      },
+      {
+        "label": "Depends on vehicle value. Against a well‑kept W177 A180d (values £12,000–£25,000+), a £4,500–£5,500 reconditioned engine is 20–40% of the vehicle's value — worth it for a solid example. Against an older W176 (£4,000–£10,000), a £4,000–£5,000 recon is 40–80% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing.",
+        "value": "5. How do I find my Mercedes A180d engine code?"
+      },
+      {
+        "label": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W176 (2013–2018) = OM651 (2.1L, 109 bhp); W177 (2019–present) = OM654 (1.5L, 109–116 bhp). The OM651 was subject to a recall over a faulty timing chain seal. Tell us your registration date and we'll confirm it for free.",
+        "value": "6. Can I repair the OM651 timing chain, or does it require engine replacement?"
+      },
+      {
+        "label": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,500–£3,500. However, the OM651's timing chain is rear‑mounted, requiring the entire engine to be removed for repairs. If the chain snaps, a full engine replacement (£3,500–£6,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately.",
+        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
+      },
+      {
+        "label": "SECTION 9, META AND SCHEMA",
+        "value": "Section 9 (Trust + Final CTA), Meta tags, Open Graph/Twitter Card data, the full JSON-LD Schema stack, and the Production Note. All of this must be consistent with the"
+      }
+    ]
+  },
+  "faq": {
+    "items": [],
+    "disclaimer": ""
+  },
+  "trustCta": {
+    "h2": "",
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#"
+    }
+  }
+}

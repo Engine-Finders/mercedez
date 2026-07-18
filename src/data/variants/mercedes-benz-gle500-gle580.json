@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-gle500-gle580",
+    "title": "Mercedes-Benz GLE500 / GLE580 Engine Replacement — Compare Prices & Get Quotes",
+    "titleCharCount": 78,
+    "description": "",
+    "descriptionCharCount": 0,
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz GLE500 / GLE580 • 2015–present • Twin-Turbo V8",
+    "h1": "Mercedes-Benz GLE500 / GLE580 Engine Replacement — Compare Prices & Get Quotes",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz V8 specialists. The GLE500 (M278 4.7L) and GLE580 (M176 4.0L with EQ Boost) are the twin-turbo V8 flagships — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "trustBadges": [
+      "🔧 Supply & Fit Available",
+      "✅ 12-Month Warranty",
+      "🚚 Nationwide Delivery",
+      "👥 25+ Specialists"
+    ],
+    "priceAnchor": "Mercedes-Benz GLE500/580 Engines — from £3,500 to £12,000 · Codes: M278 / M176",
+    "registrationInput": {
+      "flag": "🇬🇧 GB",
+      "placeholder": "Enter your reg — e.g. AB12 CDE",
+      "cta": {
+        "label": "See Mercedes GLE V8 Engine Options →",
+        "href": "#"
+      }
+    },
+    "ticker": "● Instant Quotes · No Obligation · 100% Free · Reconditioned · Rebuilt · Used · Supply & Fit Available · UK-Wide Network"
+  },
+  "eraMap": {
+    "title": "Mercedes-Benz GLE500 / GLE580 — Which Engine Does Your Car Actually Have?",
+    "columns": [
+      "Generation",
+      "Years",
+      "Engine Code",
+      "Reliability",
+      "Recon Cost",
+      "Era Note"
+    ],
+    "rows": [
+      {
+        "generation": "W166 GLE500",
+        "years": "2015–2019",
+        "engineCode": "M278 (4.7L twin-turbo V8)",
+        "reliability": "★★★☆☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£4,500–£7,500 [PLACEHOLDER]",
+        "eraNote": "4.7L V8 — turbo cooling pipes and engine harness oil wicking are key risks"
+      },
+      {
+        "generation": "V167 GLE580",
+        "years": "2019–present",
+        "engineCode": "M176 (4.0L twin-turbo V8 + EQ Boost)",
+        "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
+        "reconCost": "£6,000–£10,000 [PLACEHOLDER]",
+        "eraNote": "4.0L hot-vee V8 with 48V mild-hybrid — more robust, watch 48V system"
+      }
+    ],
+    "sourceNote": "This table is the single source every other section on this page matches — Sections 2, 4 and 6 reference it rather than restating conflicting figures.",
+    "dataNote": ""
+  },
+  "replacementCosts": {
+    "h2": "Mercedes-Benz GLE500 / GLE580 Engine Replacement Costs",
+    "columns": [
+      "Engine Type",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty",
+      "Best For"
+    ],
+    "rows": [
+      {
+        "engineType": "Used Engine",
+        "supplyOnly": "£3,500–£5,500",
+        "fittedIndie": "£4,700–£7,000",
+        "warranty": "1–6 months",
+        "bestFor": "Budget priority; lower-mileage donor"
+      },
+      {
+        "engineType": "Reconditioned Engine",
+        "supplyOnly": "£5,000–£8,500",
+        "fittedIndie": "£6,200–£10,000",
+        "warranty": "12–24 months",
+        "bestFor": "Most owners — best cost/warranty balance"
+      },
+      {
+        "engineType": "Rebuilt Engine",
+        "supplyOnly": "£7,000–£12,000",
+        "fittedIndie": "£8,200–£13,500",
+        "warranty": "12–24 months",
+        "bestFor": "Long-term ownership; 5+ year horizon"
+      },
+      {
+        "engineType": "Main Dealer New",
+        "supplyOnly": "£10,000–£16,000",
+        "fittedIndie": "£11,500–£17,500",
+        "warranty": "24–36 months",
+        "bestFor": "Insurance jobs, warranty claims"
+      }
+    ],
+    "figuresNote": "Figures above reflect current market ranges across both GLE V8 generations. The M278 used engines are more readily available; the M176 with EQ Boost commands a premium. See the Era Map above for generation-specific pricing.",
+    "labourEstimate": "Fitting a GLE500/580 engine typically takes 10–14 hours at £80–£120/hr (independent Mercedes specialist) or £140–£190/hr (London/SE dealer). The hot-vee design adds complexity.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz GLE500/580 engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "Turbo Cooling Pipe Failure (M278 — GLE500)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Oil Wicking in Engine Harness (M278 — GLE500)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Engine Mount Failure (M278 and M176)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "48V EQ Boost System Issues (M176 — GLE580)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Cooling System Issues (M176 — GLE580)",
+        "symptoms": "",
+        "typicalMileage": "",
+        "repairCost": "",
+        "replacementCost": "",
+        "urgency": {
+          "icon": "",
+          "label": "",
+          "text": ""
+        },
+        "recommendation": "",
+        "failureLink": {
+          "label": "",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "quotesCta": {
+    "headline": "Weighing Your Options? Compare Specialist Quotes When You're Ready →",
+    "supportingLine": "25+ vetted Mercedes-Benz specialists, covering M278 and M176 GLE V8 engines, with a 12-month warranty as standard.",
+    "button": {
+      "label": "See Mercedes GLE V8 Engine Options →",
+      "href": "#"
+    }
+  },
+  "repairBuyOrReplace": {
+    "h2": "Mercedes-Benz GLE500 / GLE580 — Repair, Buy, or Replace?",
+    "canItBeRepaired": {
+      "title": "Can It Be Repaired?",
+      "columns": [
+        "Problem",
+        "Repairable?",
+        "Typical Cost",
+        "When It Makes Sense"
+      ],
+      "rows": [
+        {
+          "problem": "Turbo cooling pipe failure (M278)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Essential repair — ignored coolant loss can cause overheating"
+        },
+        {
+          "problem": "Oil wicking in harness (M278)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,000",
+          "whenItMakesSense": "Essential — sensor failure affects drivability"
+        },
+        {
+          "problem": "Engine mount failure",
+          "repairable": "✅ Yes",
+          "typicalCost": "£600–£1,500",
+          "whenItMakesSense": "Restores smoothness — worth it on a £30k+ car"
+        },
+        {
+          "problem": "48V EQ Boost issues (M176)",
+          "repairable": "✅ Yes",
+          "typicalCost": "£800–£2,500",
+          "whenItMakesSense": "Viable on any well-maintained GLE580"
+        },
+        {
+          "problem": "Cooling system issues",
+          "repairable": "✅ Yes",
+          "typicalCost": "£400–£1,200",
+          "whenItMakesSense": "Straightforward repair — always worth doing"
+        },
+        {
+          "problem": "Major internal failure",
+          "repairable": "❌ Usually No",
+          "typicalCost": "Engine replacement required",
+          "whenItMakesSense": "Assess vehicle value carefully"
+        }
+      ]
+    },
+    "buyingChecks": {
+      "title": "Buying This Mercedes-Benz GLE500 / GLE580? Check These First",
+      "buyIf": [
+        "* V167 GLE580 (2019+) with M176 — the more modern and robust engine",
+        "* W166 GLE500 with documented turbo cooling pipe replacement history",
+        "* Full service history with regular oil changes and Mercedes-approved oil",
+        "* Low-mileage (under 50,000) with documented history",
+        "* GLE580 with 48V system health check and no warnings"
+      ],
+      "avoidIf": [
+        "* W166 with any evidence of coolant loss — turbo cooling pipe failure risk",
+        "* W166 with camshaft sensor codes without documented repair — oil wicking risk",
+        "* GLE580 with 48V warnings without documented diagnosis",
+        "* Poor service history — both V8s are unforgiving of neglect"
+      ]
+    },
+    "closingVerdict": "The GLE500 and GLE580 are the V8 flagships of the GLE range — powerful, refined and characterful. The W166 GLE500 with the M278 is a potent V8 but has well-documented turbo cooling pipe and oil wicking issues. The V167 GLE580 with the M176 and EQ Boost is more modern and robust, but the 48V system adds complexity. Buy the GLE580 if you can, or a well-maintained GLE500 with documented work on the key weak points.",
+    "cta": {
+      "label": "→ Compare Mercedes-Benz GLE500/580 engine prices before you buy",
+      "href": "#"
+    }
+  },
+  "buyingChecklist": {
+    "intro": "Before you buy a used Mercedes-Benz GLE500 / GLE580 (or before you commit to an engine replacement), check these:",
+    "items": [
+      "* Cold Start — Listen for any rattle; the M278/M176 should start cleanly",
+      "* Coolant Level — Check for any loss — turbo cooling pipes (M278) and cooling system (M176) are key risks",
+      "* Engine Vibration — Any shaking at idle? Engine mount wear is common",
+      "* Service History — Check the year to identify which engine — pre-2019 = M278, 2019+ = M176",
+      "* Camshaft Sensor Codes (M278) — Any check engine light? Oil wicking in harness is common",
+      "* 48V System (M176) — Any battery warnings? EQ Boost system health check",
+      "* Oil Leaks — Check around valve covers and oil cooler; common on both engines",
+      "* Engine Warning Light — Have codes been read? Resolve before buying"
+    ]
+  },
+  "engineCodes": {
+    "columns": [
+      "Engine Code",
+      "Years",
+      "Power",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "rows": [
+      {
+        "engineCode": "M278 (4.7L twin-turbo V8)",
+        "years": "2015–2019",
+        "power": "449–456 bhp",
+        "enquiries": "— (pattern data — premium petrol)",
+        "avgReconCost": "£4,500–£7,500 [PLACEHOLDER]"
+      },
+      {
+        "engineCode": "M176 (4.0L twin-turbo V8 + EQ Boost)",
+        "years": "2019–present",
+        "power": "483 bhp",
+        "enquiries": "— (pattern data — premium petrol)",
+        "avgReconCost": "£6,000–£10,000 [PLACEHOLDER]"
+      }
+    ],
+    "matchNote": "This table's rows match Section 1B's Era Map exactly.",
+    "technicalSpecs": {
+      "title": "Technical Specs (M176 — GLE580):",
+      "items": [
+        {
+          "label": "* Displacement",
+          "value": "4,663 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "V8, 32-valve DOHC"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin-turbo (hot-vee configuration)"
+        },
+        {
+          "label": "* Displacement",
+          "value": "3,982 cc"
+        },
+        {
+          "label": "* Cylinders",
+          "value": "V8, 32-valve DOHC"
+        },
+        {
+          "label": "* Compression Ratio",
+          "value": "10.5:1"
+        },
+        {
+          "label": "* Fuel System",
+          "value": "Direct injection with Bosch piezo injectors"
+        },
+        {
+          "label": "* Turbocharger",
+          "value": "Twin-turbo (hot-vee configuration) with 48V EQ Boost mild-hybrid"
+        },
+        {
+          "label": "Additional specifications",
+          "value": ""
+        },
+        {
+          "label": "* Maximum torque (M278)",
+          "value": "600–650 Nm @ 1,800–4,000 rpm"
+        },
+        {
+          "label": "* Maximum torque (M176)",
+          "value": "700 Nm @ 1,800–5,000 rpm"
+        },
+        {
+          "label": "* 0–60mph (GLE500)",
+          "value": "5.0 seconds"
+        },
+        {
+          "label": "* 0–60mph (GLE580)",
+          "value": "4.3–4.5 seconds"
+        },
+        {
+          "label": "* Top speed",
+          "value": "155 mph (limited)"
+        },
+        {
+          "label": "* Transmission",
+          "value": "9G-Tronic automatic"
+        },
+        {
+          "label": "* Drive",
+          "value": "4MATIC all-wheel drive"
+        }
+      ]
+    },
+    "cta": {
+      "label": "→ Compare Mercedes-Benz GLE500/580 engine prices for your Mercedes",
+      "href": "#"
+    }
+  },
+  "marketIntelligence": {
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M278: turbo cooling pipe failure (~40% of M278 enquiries) / M278: oil wicking in harness (~30% of M278 enquiries) / M176: 48V EQ Boost issues (~25% of M176 enquiries)【PATTERN DATA — specialist workshop consensus】"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£6,500 reconditioned (M176 era), supply only【PLACEHOLDER — confirm vs cost sheet】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M278 (W166 GLE500 is a high-volume UK V8 variant)【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring/Summer — performance SUV owners prepare for summer driving【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "South East (25%), London (20%), South West (15%)【PATTERN DATA】"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz GLE500 / GLE580 engine replacement cost in the UK?",
+        "answer": "A reconditioned Mercedes-Benz GLE500/580 engine costs £5,000–£8,500 supply only, varying by generation: M278 £4,500–£7,500, M176 £6,000–£10,000. Fitting adds £1,200–£1,800. A turbo cooling pipe replacement costs £800–£2,000. Check the Era Map above for your engine code."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz GLE500 / GLE580 reliable?",
+        "answer": "That depends on which generation. The W166 GLE500 with the M278 has known turbo cooling pipe failures and oil wicking issues in the engine harness. The V167 GLE580 with the M176 and EQ Boost is more modern and robust, but the 48V system adds complexity. A post-2019 GLE580 with full service history is the better bet."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz GLE500 / GLE580?",
+        "answer": "W166 M278: turbo cooling pipe failure (coolant loss, £800–£2,000), oil wicking in engine harness (sensor codes, £800–£2,000), engine mount wear (vibration, £600–£1,500). V167 M176: 48V EQ Boost system issues (£800–£2,500), cooling system issues (£400–£1,200), engine mount wear (£600–£1,500)."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz GLE500 / GLE580 engine, or should I scrap the car?",
+        "answer": "GLE V8 values range from £15,000–£50,000 depending on generation, condition and mileage. A £5,000–£8,500 reconditioned engine represents 10–60% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained V167 GLE580, replacement is often justified. For an ageing W166 GLE500 with other issues, assess scrap value first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz GLE500 / GLE580 engine code?",
+        "answer": "The GLE500 uses the M278 engine code — a 4.7-litre twin-turbo V8 producing 449–456 bhp. The GLE580 uses the M176 engine code — a 4.0-litre twin-turbo V8 with 48V EQ Boost producing 483 bhp. Check your VIN or registration year — pre-2019 is M278, 2019+ is M176. The code is stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M278 turbo cooling pipe issue, or does it need replacement?",
+        "answer": "Yes — the turbo cooling pipes can be replaced (£800–£2,000). This is a well-known M278 repair. All four of the turbo cooling pipes may need to be replaced. At the first sign of coolant loss, book an inspection immediately — ignored coolant loss can lead to overheating and serious engine damage."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes-Benz GLE500 / GLE580 Owners Trust MercedesEngine.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted Mercedes-Benz GLE500/580 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real GLE owners, as part of the Engine Finders network, with specialist knowledge of both M278 and M176 V8 engines."
+      },
+      {
+        "title": "Compare Mercedes-Benz GLE500/580 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit, with transparent pricing for both W166 (M278) and V167 (M176) generations."
+      },
+      {
+        "title": "UK Engine Replacement Services for Mercedes-Benz GLE500/580",
+        "text": "supply‑only or full supply & fit available nationwide, covering every GLE V8 generation with specialists who understand these powerful twin-turbo engines."
+      }
+    ],
+    "finalCta": "Find the best Mercedes-Benz GLE500/580 engine replacement UK drivers rely on. Compare prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Explore Mercedes-Benz GLE500 / GLE580 Engine Quotes →",
+      "href": "#"
+    }
+  }
+}
