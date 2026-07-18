@@ -1,72 +1,72 @@
 {
   "subHeadline": "The verdicts people actually want before they read a single spec sheet — the calls we'd make for a friend, backed by real UK enquiry and failure data.",
   "headerImage": {
-    "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=900&q=80",
-    "alt": "White BMW front"
+    "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=900&q=80",
+    "alt": "Mercedes-Benz front"
   },
   "columns": ["RANKING", "WINNER", "WHY", "VERDICT"],
   "rankings": [
     {
       "ranking": "Most Reliable Engine",
       "icon": "⚙️",
-      "winner": "B58B30",
-      "why": "Modern straight-six with well-understood, repairable failure points — coolant leaks aside, largely trouble-free. Just 540 enquiries in 2025, mostly due-diligence, not failure [BMW-VERIFIED].",
+      "winner": "OM654",
+      "why": "The modern successor to the OM651 — AdBlue system aside, materially fewer failure reports. 520 enquiries in 2025, weighted toward routine maintenance, not catastrophic failure [MB-VERIFIED].",
       "verdict": { "icon": "🏆", "text": "Best", "type": "best" },
       "href": "#"
     },
     {
       "ranking": "Most Reliable Model (Modern)",
       "icon": "🚗",
-      "winner": "3 Series G20",
-      "why": "B47/B48/B58 engines in the lightest chassis — 190 enquiries in 2025, predominantly pre-purchase research [BMW-VERIFIED].",
+      "winner": "C-Class W206",
+      "why": "OM654-only diesel range in the newest, highest-value C-Class generation — a clean ✅ Safe verdict with no caveat in the data.",
       "verdict": { "icon": "🏆", "text": "Best", "type": "best" },
       "href": "#"
     },
     {
       "ranking": "Best Used Buy",
       "icon": "🏷️",
-      "winner": "F30 LCI (2016+) with B47D20A",
-      "why": "Post-chain-revision, modern electronics, depreciated early-mid values — the sweet spot for daily ownership. £2,800–£4,500 recon cost against £7,000–£20,000 vehicle value [BMW-QUOTE].",
+      "winner": "W205 C-Class with OM654 (2018+ facelift)",
+      "why": "Post-facelift electronics, the more dependable diesel, and values that have already absorbed the steepest depreciation. £3,000–£5,000 recon against £8,000–£22,000 vehicle value [MB-QUOTE].",
       "verdict": { "icon": "✅", "text": "Safe", "type": "safe" },
       "href": "#"
     },
     {
       "ranking": "Most Expensive Failure",
       "icon": "💥",
-      "winner": "N63B44 Valve Stem Seals",
-      "why": "Hot-vee architecture causes seal failure at 60k–100k miles — known as the \"N63 nightmare.\" £3,000–£6,000 repair or £6,000–£10,000 replacement [BMW-QUOTE].",
-      "verdict": { "icon": "🔴", "text": "Avoid", "type": "avoid" },
+      "winner": "M177 AMG V8 Full Replacement",
+      "why": "The high-performance biturbo V8's full replacement cost dwarfs every other Mercedes engine — £8,000–£14,000 recon, £12,000–£18,000 rebuilt [MB-QUOTE].",
+      "verdict": { "icon": "🔴", "text": "Avoid Without Full History", "type": "avoid" },
       "href": "#"
     },
     {
-      "ranking": "Safest BMW to Buy Used",
+      "ranking": "Safest Mercedes to Buy Used",
       "icon": "🛡️",
-      "winner": "5 Series G30 (2017–2023)",
-      "why": "Typical values of £14,000–£30,000 against £2,800–£8,000 recon cost — comfortably safe across all engine variants [BMW-QUOTE].",
+      "winner": "GLC X254 (2022–present)",
+      "why": "Typical values of £28,000–£55,000 against £3,000–£5,000 recon cost — comfortably safe regardless of engine variant.",
       "verdict": { "icon": "✅", "text": "Safe", "type": "safe" },
       "href": "#"
     },
     {
       "ranking": "Highest Risk Purchase",
       "icon": "⚠️",
-      "winner": "E90 N47D20C (pre-2013, no chain history)",
-      "why": "Ageing host values (£2,500–£7,500) against £3,200–£5,500 recon cost — the 70% BMW threshold risk [BMW-QUOTE].",
-      "verdict": { "icon": "⚠️", "text": "Watch", "type": "watch" },
+      "winner": "C-Class W203 (2000–2007)",
+      "why": "Ageing host values (£1,500–£5,000) against £2,800–£4,800 recon cost — squarely inside the 70% Mercedes threshold.",
+      "verdict": { "icon": "🔴", "text": "Scrap Threshold", "type": "avoid" },
       "href": "#"
     },
     {
-      "ranking": "Best Family BMW",
+      "ranking": "Best Family Mercedes",
       "icon": "👨‍👩‍👧‍👦",
-      "winner": "X5 G05 (2018–present)",
-      "why": "B57/B58 reliability, 650L boot, 7-seat option, and strong specialist network — values justify replacement across the board.",
+      "winner": "GLE / GL (W166)",
+      "why": "7-seat capability, OM642/M276 reliability that's held up well, and large-SUV values that comfortably absorb replacement cost.",
       "verdict": { "icon": "👨‍👩‍👧‍👦", "text": "Best", "type": "best" },
       "href": "#"
     },
     {
       "ranking": "Best Long-Term Keeper",
       "icon": "⏳",
-      "winner": "E46 330i (M54)",
-      "why": "The bulletproof naturally-aspirated straight-six — maintenance is an investment, not an expense. One of the most dependable BMWs ever built.",
+      "winner": "W211 E-Class with OM642",
+      "why": "The last E-Class before Mercedes' more complex modern electronics — mechanically straightforward, well-understood, and cheaply parted.",
       "verdict": { "icon": "🏆", "text": "Best", "type": "best" },
       "href": "#"
     }
@@ -75,50 +75,17 @@
     "title": "Quick Reference: Data Sources Used in Sections 1–4",
     "columns": ["Claim", "Source"],
     "rows": [
-      {
-        "claim": "24,650+ enquiries",
-        "source": "market-intelligence.json / EM_Proprietary_Data_2025.txt"
-      },
-      {
-        "claim": "20+ vetted BMW specialists",
-        "source": "Brand constants (Prerequisite 4)"
-      },
-      {
-        "claim": "F30 380 enquiries",
-        "source": "EM_Proprietary_Data_2025.txt — Model table row 1"
-      },
-      {
-        "claim": "E90 256 enquiries",
-        "source": "EM_Proprietary_Data_2025.txt — Model table row 26"
-      },
-      {
-        "claim": "G20 190 enquiries",
-        "source": "EM_Proprietary_Data_2025.txt — Model table row 52"
-      },
-      {
-        "claim": "F25 316 enquiries",
-        "source": "EM_Proprietary_Data_2025.txt — Model table row 11"
-      },
-      {
-        "claim": "B58 540 enquiries",
-        "source": "EM_Proprietary_Data_2025.txt — Engine table row 16"
-      },
-      {
-        "claim": "N63 440 enquiries",
-        "source": "EM_Proprietary_Data_2025.txt — Engine table row 21"
-      },
-      {
-        "claim": "N47 £3,200–£5,500",
-        "source": "Table A — Engine Replacement Economics (row 1)"
-      },
-      {
-        "claim": "B47 £2,800–£4,500",
-        "source": "Table A — Engine Replacement Economics (row 6)"
-      },
-      {
-        "claim": "Vehicle value bands",
-        "source": "Model Ownership Decision Table — BMW section"
-      }
+      { "claim": "4,200+ enquiries", "source": "EM_Proprietary_Data_2025.txt — Section 2 Mercedes-Benz" },
+      { "claim": "25+ vetted Mercedes-Benz specialists", "source": "Brand constants (Prerequisite 4)" },
+      { "claim": "C-Class W205 368 enquiries", "source": "EM_Proprietary_Data_2025.txt — Model table" },
+      { "claim": "E-Class W212 338 enquiries", "source": "EM_Proprietary_Data_2025.txt — Model table" },
+      { "claim": "GLC X253 304 enquiries", "source": "EM_Proprietary_Data_2025.txt — Model table" },
+      { "claim": "OM651 1,250 enquiries", "source": "EM_Proprietary_Data_2025.txt — Engine table" },
+      { "claim": "OM642 880 enquiries", "source": "EM_Proprietary_Data_2025.txt — Engine table" },
+      { "claim": "OM654 520 enquiries", "source": "EM_Proprietary_Data_2025.txt — Engine table" },
+      { "claim": "OM651 £2,800–£4,800", "source": "Table A — Engine Replacement Economics" },
+      { "claim": "M177 £8,000–£14,000", "source": "Table A — Engine Replacement Economics" },
+      { "claim": "Vehicle value bands", "source": "Model Ownership Decision Table — Mercedes-Benz section" }
     ]
   }
 }

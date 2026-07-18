@@ -1,258 +1,308 @@
 {
   "subHeadline": "Choose your model to explore reliability, common faults and real running costs.",
   "headerImage": {
-    "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=900&q=80",
-    "alt": "White BMW front detail"
+    "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=900&q=80",
+    "alt": "Mercedes-Benz front detail"
   },
   "searchPlaceholder": "Search model...",
   "filters": [
     { "label": "ALL MODELS", "value": "all" },
-    { "label": "1-8 SERIES", "value": "series" },
-    { "label": "X MODELS", "value": "x" },
-    { "label": "M CARS", "value": "m" },
-    { "label": "Z / i / CLASSIC", "value": "other" }
+    { "label": "A-CLASS / B / CLA", "value": "compact" },
+    { "label": "C / E / S", "value": "saloon" },
+    { "label": "SUV", "value": "suv" },
+    { "label": "AMG / COUPE", "value": "amg" }
   ],
   "columns": ["MODEL", "GENERATIONS", "VERDICT"],
   "models": [
     {
-      "model": "1 Series",
-      "generations": "E81, E87, F20, F40",
-      "verdict": { "icon": "⚠️", "text": "Check Value (E87 sub-£4k)", "type": "warning" },
+      "model": "A-Class",
+      "generations": "W168, W169, W176, W177",
+      "verdict": { "icon": "⚠️", "text": "Check Value (pre-2012 examples)", "type": "warning" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 1 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes A-Class"
       },
       "href": "#"
     },
     {
-      "model": "2 Series",
-      "generations": "F22, F44, G42",
+      "model": "B-Class",
+      "generations": "W245, W246, W247",
+      "verdict": { "icon": "✅", "text": "Safe Family Buy", "type": "success" },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes B-Class"
+      },
+      "href": "#"
+    },
+    {
+      "model": "CLA",
+      "generations": "C117, C118",
       "verdict": { "icon": "✅", "text": "Modern Choice", "type": "success" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 2 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes CLA"
       },
       "href": "#"
     },
     {
-      "model": "3 Series",
-      "generations": "E21, E30, E36, E46, E90, F30, G20",
+      "model": "C-Class",
+      "generations": "W202, W203, W204, W205, W206",
       "verdict": {
         "icon": "🏆",
-        "text": "Most Enquired (F30: 380 enquiries [BMW-VERIFIED])",
+        "text": "Most Enquired (W205: 368 enquiries [MB-VERIFIED])",
         "type": "trophy"
       },
       "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 3 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes C-Class"
       },
       "href": "#"
     },
     {
-      "model": "4 Series",
-      "generations": "F32, F33, F36, G22",
-      "verdict": { "icon": "💎", "text": "Coupe Style", "type": "diamond" },
+      "model": "CLK",
+      "generations": "C208, C209",
+      "verdict": { "icon": "💎", "text": "Coupe Style [PATTERN DATA]", "type": "diamond" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 4 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes CLK"
       },
       "href": "#"
     },
     {
-      "model": "5 Series",
-      "generations": "E28, E34, E39, E60, F10, G30",
-      "verdict": { "icon": "✅", "text": "Best Executive Buy", "type": "success" },
+      "model": "CLC-Class",
+      "generations": "CL203",
+      "verdict": { "icon": "💎", "text": "Niche Coupe [PATTERN DATA]", "type": "diamond" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 5 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes CLC-Class"
       },
       "href": "#"
     },
     {
-      "model": "6 Series",
-      "generations": "E63, F06, F12, G32",
-      "verdict": { "icon": "🔴", "text": "High V8 Risk (N63)", "type": "danger" },
+      "model": "CLS",
+      "generations": "C219, C218, C257",
+      "verdict": { "icon": "💎", "text": "Style Over Practicality", "type": "diamond" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 6 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes CLS"
       },
       "href": "#"
     },
     {
-      "model": "7 Series",
-      "generations": "E23, E32, E38, E65, F01, G11, G70",
+      "model": "E-Class",
+      "generations": "W210, W211, W212, W213, W214",
+      "verdict": {
+        "icon": "✅",
+        "text": "Best Executive Buy (W212: 338 enquiries [MB-VERIFIED])",
+        "type": "success"
+      },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes E-Class"
+      },
+      "href": "#"
+    },
+    {
+      "model": "S-Class",
+      "generations": "W140, W220, W221, W222, W223",
       "verdict": { "icon": "👑", "text": "Flagship Choice", "type": "crown" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 7 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes S-Class"
       },
       "href": "#"
     },
     {
-      "model": "8 Series",
-      "generations": "E31, G15",
-      "verdict": { "icon": "✅", "text": "Grand Tourer", "type": "success" },
+      "model": "G-Class",
+      "generations": "W460, W461, W463",
+      "verdict": { "icon": "🏆", "text": "Legend, Watch the Bills [PATTERN DATA]", "type": "trophy" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 8 Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes G-Class"
       },
       "href": "#"
     },
     {
-      "model": "Z Series",
-      "generations": "Z3 (E36), Z4 (E85/E89/G29), Z8",
-      "verdict": { "icon": "🏆", "text": "Roadster Legends", "type": "trophy" },
+      "model": "GLA",
+      "generations": "X156, H247",
+      "verdict": { "icon": "✅", "text": "Compact SUV Safe Buy", "type": "success" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW Z Series"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes GLA"
       },
       "href": "#"
     },
     {
-      "model": "i Series",
-      "generations": "i3, i4, i5, i7, iX",
-      "verdict": { "icon": "✅", "text": "Electric Future", "type": "success" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW i Series"
-      },
-      "href": "#"
-    },
-    {
-      "model": "X1",
-      "generations": "E84, F48, U11",
-      "verdict": { "icon": "✅", "text": "Family Crossover", "type": "success" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW X1"
-      },
-      "href": "#"
-    },
-    {
-      "model": "X2",
-      "generations": "F39, U10",
-      "verdict": { "icon": "💎", "text": "Style SUV", "type": "diamond" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW X2"
-      },
-      "href": "#"
-    },
-    {
-      "model": "X3",
-      "generations": "E83, F25, G01, G45",
+      "model": "GLC",
+      "generations": "X253, X254",
       "verdict": {
         "icon": "🔥",
-        "text": "Most Enquired SUV (F25: 316 enquiries [BMW-VERIFIED])",
+        "text": "Most Enquired SUV (X253: 304 enquiries [MB-VERIFIED])",
         "type": "fire"
       },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW X3"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes GLC"
       },
       "href": "#"
     },
     {
-      "model": "X4",
-      "generations": "F26, G02",
-      "verdict": { "icon": "⚠️", "text": "Watch (N57 on older examples)", "type": "warning" },
+      "model": "GLE",
+      "generations": "W166, V167",
+      "verdict": { "icon": "✅", "text": "Large SUV Value", "type": "success" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW X4"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes GLE"
       },
       "href": "#"
     },
     {
-      "model": "X5",
-      "generations": "E53, E70, F15, G05",
-      "verdict": {
-        "icon": "⚠️",
-        "text": "V8 Watch (N63) / ✅ Safe (B57/B58)",
-        "type": "warning"
-      },
+      "model": "GLK",
+      "generations": "X204",
+      "verdict": { "icon": "⚠️", "text": "Watch (OM642 on lower values)", "type": "warning" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW X5"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes GLK"
       },
       "href": "#"
     },
     {
-      "model": "X6",
-      "generations": "E71, F16, G06",
-      "verdict": { "icon": "🔴", "text": "High Risk (N63 hot-vee)", "type": "danger" },
+      "model": "GLS (formerly GL)",
+      "generations": "X164, X166 (GL), X166 (GLS), X167",
+      "verdict": { "icon": "👑", "text": "Large 7-Seat Flagship", "type": "crown" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW X6"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes GLS"
       },
       "href": "#"
     },
     {
-      "model": "X7",
-      "generations": "G07",
-      "verdict": { "icon": "👑", "text": "Large SUV", "type": "crown" },
+      "model": "M-Class (ML)",
+      "generations": "W163, W164",
+      "verdict": { "icon": "⚠️", "text": "Watch (ageing OM642 hosts) [PATTERN DATA]", "type": "warning" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW X7"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes M-Class"
       },
       "href": "#"
     },
     {
-      "model": "XM",
-      "generations": "G09",
-      "verdict": { "icon": "🔥", "text": "High-Performance Hybrid", "type": "fire" },
+      "model": "R-Class",
+      "generations": "W251",
+      "verdict": { "icon": "⚠️", "text": "Niche, Check Value [PATTERN DATA]", "type": "warning" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW XM"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes R-Class"
       },
       "href": "#"
     },
     {
-      "model": "M2 / M3",
-      "generations": "F87, G80 / E30, E36, E46, E90, F80, G80",
-      "verdict": { "icon": "🏆", "text": "M Sweet Spot", "type": "trophy" },
+      "model": "SL",
+      "generations": "R129, R230, R231, R232",
+      "verdict": { "icon": "💎", "text": "Roadster Icon [PATTERN DATA]", "type": "diamond" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW M2 M3"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes SL"
       },
       "href": "#"
     },
     {
-      "model": "M4 / M5",
-      "generations": "F82, G82 / E28, E34, E39, E60, F10, F90",
-      "verdict": { "icon": "⚠️", "text": "S63 Power / High Cost", "type": "warning" },
+      "model": "SLC / SLK",
+      "generations": "R170, R171, R172",
+      "verdict": { "icon": "💎", "text": "Affordable Roadster [PATTERN DATA]", "type": "diamond" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW M4 M5"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes SLC / SLK"
       },
       "href": "#"
     },
     {
-      "model": "M6 / M8",
-      "generations": "E63, F06, F12 / F92, G15",
-      "verdict": { "icon": "🔴", "text": "Expensive Failure (S63)", "type": "danger" },
+      "model": "SLS AMG",
+      "generations": "C197, R197",
+      "verdict": { "icon": "🏆", "text": "Halo Car [PATTERN DATA]", "type": "trophy" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW M6 M8"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes SLS AMG"
       },
       "href": "#"
     },
     {
-      "model": "2002",
-      "generations": "1968–1976",
-      "verdict": { "icon": "🏆", "text": "Classic Icon", "type": "trophy" },
+      "model": "AMG GT",
+      "generations": "C190, R190, X290",
+      "verdict": { "icon": "🏆", "text": "Performance Icon [PATTERN DATA]", "type": "trophy" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW 2002"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes AMG GT"
       },
       "href": "#"
     },
     {
-      "model": "M1",
-      "generations": "1978–1981",
-      "verdict": { "icon": "🏆", "text": "Legend", "type": "trophy" },
+      "model": "Sprinter",
+      "generations": "W901–905, W906, W907",
+      "verdict": { "icon": "🔧", "text": "Commercial Workhorse [PATTERN DATA]", "type": "warning" },
       "image": {
-        "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=200&q=80",
-        "alt": "BMW M1"
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes Sprinter"
+      },
+      "href": "#"
+    },
+    {
+      "model": "Vito",
+      "generations": "W638, W639, W447",
+      "verdict": { "icon": "🔧", "text": "Commercial Workhorse [PATTERN DATA]", "type": "warning" },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes Vito"
+      },
+      "href": "#"
+    },
+    {
+      "model": "V-Class",
+      "generations": "W447",
+      "verdict": { "icon": "✅", "text": "MPV Safe Buy — OM622/OM651/OM654 [PATTERN DATA]", "type": "success" },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes V-Class"
+      },
+      "href": "#"
+    },
+    {
+      "model": "Viano",
+      "generations": "W639",
+      "verdict": { "icon": "⚠️", "text": "Discontinued, Check Value — OM642/OM646 [PATTERN DATA]", "type": "warning" },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes Viano"
+      },
+      "href": "#"
+    },
+    {
+      "model": "Citan",
+      "generations": "W415, W420",
+      "verdict": { "icon": "⚠️", "text": "Niche, Renault-Sourced Engines [PATTERN DATA]", "type": "warning" },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes Citan"
+      },
+      "href": "#"
+    },
+    {
+      "model": "Vaneo",
+      "generations": "W414",
+      "verdict": { "icon": "⚠️", "text": "Niche, Limited Data [PATTERN DATA]", "type": "warning" },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes Vaneo"
+      },
+      "href": "#"
+    },
+    {
+      "model": "Vario",
+      "generations": "T2",
+      "verdict": { "icon": "🔍", "text": "Scope Decision Needed — likely excluded [PATTERN DATA]", "type": "warning" },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
+        "alt": "Mercedes Vario"
       },
       "href": "#"
     }
@@ -262,7 +312,7 @@
     "href": "#"
   },
   "cta": {
-    "title": "Not sure which BMW to buy?",
+    "title": "Not sure which Mercedes-Benz to buy?",
     "text": "Start with our research tools — rankings, faults and real running costs.",
     "buttonLabel": "START YOUR RESEARCH",
     "href": "#"

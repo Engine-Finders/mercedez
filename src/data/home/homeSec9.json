@@ -2,7 +2,7 @@
   "subHeadline": "A permanent, categorised reference — not symptom-chasing blog posts. Every entry links to a full breakdown of symptoms, root cause, mileage window, repair cost, and replacement cost.",
   "headerImage": {
     "src": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=900&q=80",
-    "alt": "BMW engine failure database"
+    "alt": "Mercedes-Benz engine failure database"
   },
   "engineFailures": {
     "title": "Engine Failures",
@@ -11,96 +11,80 @@
     "rows": [
       {
         "id": 1,
-        "title": "N47 Timing Chain Failure",
-        "description": "The defining BMW diesel issue and our #1 enquiry driver. Cold-start rattle from the rear of the engine is the early warning; ignored, chain slip means full engine replacement. 1,450 enquiries in 2025 [BMW-VERIFIED]. £3,200–£5,500 recon [BMW-QUOTE].",
-        "severity": { "icon": "🔴", "label": "Catastrophic", "type": "catastrophic" },
+        "title": "OM651 \"Black Death\" Injector Seal Failure",
+        "description": "The defining Mercedes diesel issue and our #1 enquiry driver. Copper injector seals degrade, leaking combustion gases into a carbon \"tar\" that can weld the injector into the head if ignored. 1,250 enquiries in 2025 [MB-VERIFIED]. £400–£1,200 seal repair; up to full engine replacement if neglected [MB-QUOTE].",
+        "severity": { "icon": "🔴", "label": "Catastrophic if Ignored", "type": "catastrophic" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 2,
-        "title": "B58 Coolant Leaks",
-        "description": "The modern straight-six's primary weak point — expansion tank, water pump, and plastic fittings all degrade over time. Well-understood, non-catastrophic if caught early. 540 enquiries in 2025 [BMW-VERIFIED]. £400–£800 repair [BMW-QUOTE].",
-        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
-        "link": { "label": "Read more →", "href": "#" }
-      },
-      {
-        "id": 3,
-        "title": "N57 Turbocharger & Timing Chain Wear",
-        "description": "Similar rear-chain complexity to N47, plus turbocharger failure at higher mileages. The 330d/530d workhorse has known weak points. 830 enquiries in 2025 [BMW-VERIFIED]. £1,200–£2,500 repair; £4,500–£7,000 recon [BMW-QUOTE].",
+        "title": "OM651 Rear Timing Chain Tensioner Wear",
+        "description": "Unlike most engines, the OM651's chain sits at the transmission end — access requires separating the engine from the gearbox, making an otherwise routine job labour-intensive.",
         "severity": { "icon": "🟠", "label": "Immediate", "type": "immediate" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
+        "id": 3,
+        "title": "OM642 Oil Cooler Seal Leak",
+        "description": "The V6 diesel's primary weak point — an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. 880 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
+        "link": { "label": "Read more →", "href": "#" }
+      },
+      {
         "id": 4,
-        "title": "N63 Valve Stem Seals",
-        "description": "Hot-vee architecture causes heat-related seal failure at 60k–100k miles. Known as the \"N63 nightmare.\" 440 enquiries in 2025 [BMW-VERIFIED]. £3,000–£6,000 repair; £6,000–£10,000 recon [BMW-QUOTE].",
-        "severity": { "icon": "🔴", "label": "Catastrophic", "type": "catastrophic" },
+        "title": "M276 Timing Chain Stretch",
+        "description": "Chain stretch on earlier examples, plus carbon buildup on intake valves — well-understood and rarely catastrophic if caught early. 390 enquiries in 2025 [MB-VERIFIED].",
+        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 5,
-        "title": "S63 Timing Chain Tensioner",
-        "description": "High-performance M-division V8 with similar weaknesses to N63. Chain tensioner wear can lead to catastrophic failure. 410 enquiries in 2025 [BMW-VERIFIED]. Engine replacement often required at £9,000–£14,000 recon [BMW-QUOTE].",
-        "severity": { "icon": "🔴", "label": "Catastrophic", "type": "catastrophic" },
+        "title": "M177 Valve Cover Oil Leaks",
+        "description": "The AMG V8's most common complaint — generally robust otherwise. 370 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "severity": { "icon": "🟢", "label": "Low", "type": "low" },
         "link": { "label": "Read more →", "href": "#" }
       }
     ]
   },
   "warningSigns": {
-    "title": "Common BMW Warning Signs",
+    "title": "Common Mercedes-Benz Warning Signs",
     "icon": "⚠️",
     "columns": ["#", "TITLE", "DESCRIPTION", "SEVERITY", "LINK"],
     "rows": [
       {
         "id": 1,
-        "title": "Cold-Start Rattle",
-        "description": "The N47's signature symptom — 1-2 seconds of chain noise on start-up. The earlier it's caught, the cheaper the fix. Ignored, it becomes a £3,200–£5,500 recon [BMW-QUOTE].",
+        "title": "Chemical Smell & Black Tar Around Injectors",
+        "description": "The unmistakable sign of \"Black Death\" — remove the engine cover and inspect at the first hint of a chemical smell.",
         "severity": { "icon": "🟠", "label": "Immediate", "type": "immediate" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 2,
-        "title": "Loss of Power / Limp Mode",
-        "description": "Multiple causes — turbo failure, EGR clogging, DPF blockage, or HPFP failure on N54/N55. The N54's HPFP is the defining petrol issue.",
+        "title": "Hissing or Chuffing Noise Under Acceleration",
+        "description": "Often an early-stage injector seal leak before visible carbon buildup appears.",
         "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 3,
-        "title": "Coolant Loss (No Visible Leak)",
-        "description": "B58/N63 expansion tank or water pump failure — can lead to overheating if ignored. The B58's most common failure, costing £400–£800 to repair [BMW-QUOTE].",
-        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
+        "title": "AdBlue System Warnings",
+        "description": "OM654-specific — usually a NOx sensor or heater fault, software-manageable rather than mechanical.",
+        "severity": { "icon": "🟢", "label": "Low", "type": "low" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 4,
-        "title": "Blue Smoke on Start-Up",
-        "description": "N63 valve stem seal failure — oil seeping past seals into the combustion chamber. The telltale sign of the \"N63 nightmare.\"",
-        "severity": { "icon": "🔴", "label": "Catastrophic", "type": "catastrophic" },
+        "title": "Coolant Loss With No Visible Leak",
+        "description": "OM642 oil cooler seal or M276 gasket weep — investigate before it leads to overheating.",
+        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       }
     ]
   },
   "urgencyKey": [
-    {
-      "icon": "🔴",
-      "label": "Catastrophic",
-      "text": "stop driving, specialist inspection immediately"
-    },
-    {
-      "icon": "🟠",
-      "label": "Immediate",
-      "text": "book inspection now"
-    },
-    {
-      "icon": "🟡",
-      "label": "Monitor",
-      "text": "book inspection soon"
-    },
-    {
-      "icon": "🟢",
-      "label": "Low",
-      "text": "plan at next service"
-    }
+    { "icon": "🔴", "label": "Catastrophic", "text": "stop driving, specialist inspection immediately" },
+    { "icon": "🟠", "label": "Immediate", "text": "book inspection now" },
+    { "icon": "🟡", "label": "Monitor", "text": "book inspection soon" },
+    { "icon": "🟢", "label": "Low", "text": "plan at next service" }
   ]
 }

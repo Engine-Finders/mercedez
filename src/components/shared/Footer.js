@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const text = "© BMW Reliability Guide. All rights reserved.";
+const text = "© Mercedes-Benz Reliability Guide. All rights reserved.";
 const links = [
   { label: "Home", href: "/" },
   { label: "About", href: "#" },

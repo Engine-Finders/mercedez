@@ -1,12 +1,12 @@
 {
-  "subHeadline": "Answer a few questions about your symptoms — we'll match you against 15+ known BMW failure patterns, show you the likely diagnosis, OEM part references, and an honest repair vs. replace cost estimate.",
+  "subHeadline": "Answer a few questions about your symptoms — we'll match you against known Mercedes-Benz failure patterns, show you the likely diagnosis, OEM part references, and an honest repair vs. replace cost estimate.",
   "headerImage": {
-    "src": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=900&q=80",
-    "alt": "BMW for diagnostic calculator"
+    "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=900&q=80",
+    "alt": "Mercedes-Benz for diagnostic calculator"
   },
   "trustStrip": [
-    { "icon": "📊", "label": "Powered by 24,650+ real UK enquiries" },
-    { "icon": "🔧", "label": "20+ vetted BMW specialists" },
+    { "icon": "📊", "label": "Powered by 4,200+ real UK enquiries" },
+    { "icon": "🔧", "label": "25+ vetted Mercedes-Benz specialists" },
     { "icon": "📖", "label": "OEM part references included" },
     { "icon": "🏆", "label": "Part of Engine Finders" }
   ],
@@ -37,10 +37,10 @@
       { "icon": "⚙️", "label": "Engine Performance Issues", "href": "#" },
       { "icon": "🛢️", "label": "Oil Leaks & Consumption", "href": "#" },
       { "icon": "🌡️", "label": "Cooling System", "href": "#" },
-      { "icon": "⏱️", "label": "Timing Chain / VANOS", "href": "#" },
+      { "icon": "⏱️", "label": "Timing Chain / Injectors", "href": "#" },
       { "icon": "💨", "label": "Turbocharger", "href": "#" },
       { "icon": "🔋", "label": "Battery / Electrical", "href": "#" },
-      { "icon": "⚡", "label": "Spark / Ignition", "href": "#" },
+      { "icon": "⚡", "label": "Glow Plug / Ignition", "href": "#" },
       { "icon": "🌫️", "label": "Exhaust / Emissions", "href": "#" },
       { "icon": "🔊", "label": "Noise / Vibration", "href": "#" },
       { "icon": "❓", "label": "Other / Not Sure", "href": "#" }
@@ -54,18 +54,18 @@
     "signals": [
       {
         "icon": "🛡️",
-        "title": "BMW-VERIFIED Data",
+        "title": "EM-VERIFIED Data",
         "text": "Every cost range and enquiry volume comes from real 2025 UK data — not estimates or guesswork."
       },
       {
         "icon": "⚙️",
-        "title": "BMW-Specific Knowledge",
-        "text": "We use exact BMW terminology (N47, B58, VANOS, Valvetronic) and OEM part numbers."
+        "title": "Mercedes-Specific Knowledge",
+        "text": "We use exact factory terminology (OM651, OM642, M276, \"Black Death\") and OEM part numbers."
       },
       {
         "icon": "👥",
         "title": "Vetted Specialist Network",
-        "text": "Our recommendations route you to 20+ BMW specialists who work on these engines daily."
+        "text": "Our recommendations route you to 25+ Mercedes-Benz specialists who work on these engines daily."
       },
       {
         "icon": "🏆",
@@ -77,17 +77,17 @@
   "exampleResult": {
     "badge": "EXAMPLE RESULT",
     "title": "Likely Diagnosis",
-    "fault": "Oil Filter Housing Gasket Leak",
+    "fault": "OM651 \"Black Death\" Injector Seal Failure",
     "likelihood": "High Likelihood",
-    "commonOn": "N47 / B47 engines",
-    "symptomsMatch": "Oil smell, low oil level, under-car drip",
-    "repairCost": "£180–£420",
-    "replaceCost": "£2,800–£4,500",
+    "commonOn": "OM651 diesel engines",
+    "symptomsMatch": "Chemical smell, black tar around injectors, chuffing noise",
+    "repairCost": "£400–£1,200",
+    "replaceCost": "£2,800–£4,800",
     "footer": "Based on verified UK enquiries"
   },
   "bottomCta": {
     "title": "Get your exact verdict",
-    "text": "Answer a few questions for a diagnosis matched to your BMW.",
+    "text": "Answer a few questions for a diagnosis matched to your Mercedes-Benz.",
     "buttonLabel": "START DIAGNOSIS",
     "href": "#",
     "trustLine": "100% Independent • No Sponsorship • Completely Unbiased"

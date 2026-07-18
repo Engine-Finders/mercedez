@@ -1,41 +1,41 @@
 {
-  "subHeadline": "From the carburetted M10 to the modular B58, mapped against the models that carried it. The complete BMW engine timeline.",
+  "subHeadline": "From the carbureted M100 to the modular OM654, mapped against the models that carried it. The complete Mercedes-Benz engine timeline.",
   "headerImage": {
     "src": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=900&q=80",
-    "alt": "BMW engine history"
+    "alt": "Mercedes-Benz engine history"
   },
   "columns": ["ERA", "KEY ENGINES", "ICONIC MODELS"],
   "eras": [
     {
       "era": "1960s–1970s",
-      "engines": "M10, M30",
-      "models": "2002, E3, E9"
+      "engines": "M100, M110, OM616, OM617",
+      "models": "W108, W111, W123"
     },
     {
       "era": "1980s",
-      "engines": "M20, M30B35, S14",
-      "models": "E30, E28, E24"
+      "engines": "M102, M103, OM615, OM616",
+      "models": "W123, W124, W201 190E"
     },
     {
       "era": "1990s",
-      "engines": "M42, M50, M52, S50, S52",
-      "models": "E36, E34, E31"
+      "engines": "M104, M111, M112, M113",
+      "models": "W124, W202, W210, R129"
     },
     {
       "era": "2000s",
-      "engines": "M54, N52, N54, S54, S62",
-      "models": "E46, E39, E38, E53"
+      "engines": "OM646, OM642, M272, M273",
+      "models": "W203, W211, W220, GL X164"
     },
     {
       "era": "2010s",
-      "engines": "N47, N55, N57, S63, S55",
-      "models": "E90, F10, F30, F15"
+      "engines": "OM651, OM654, M276, M156, M157",
+      "models": "W204, W205, W212, C63 AMG"
     },
     {
       "era": "2020s",
-      "engines": "B47, B48, B58, S58",
-      "models": "G20, G30, G05, G07"
+      "engines": "OM654, OM656, M256, M264, M177/M178",
+      "models": "W206, W214, GLC X254, AMG GT"
     }
   ],
-  "keyTakeaway": "The N47 and N57 defined the diesel era — but the B58 and B47 reversed the reliability perception. The M54 and M57 remain the classic keeper engines; the B58 is the modern gold standard."
+  "keyTakeaway": "The OM616/OM617 built Mercedes' \"will run forever\" diesel reputation — but the OM651's \"Black Death\" injector story reversed that perception for a generation. The OM654 has largely restored it. The M156/M157/M177 lineage remains AMG's defining V8 story."
 }

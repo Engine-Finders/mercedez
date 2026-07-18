@@ -1,39 +1,37 @@
 {
-  "subHeadline": "Drawn from real UK enquiries, not estimates. This is the data competitors can't replicate — 24,650+ real enquiries, 50+ engine codes tracked, and live market insights updated monthly.",
+  "subHeadline": "Drawn from real UK enquiries, not estimates. This is the data competitors can't replicate — 4,200+ real enquiries, 5+ engine codes tracked, and live market insights updated monthly.",
   "headerImage": {
-    "src": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=900&q=80",
-    "alt": "BMW market intelligence"
+    "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=900&q=80",
+    "alt": "Mercedes-Benz market intelligence"
   },
   "stats": [
-    { "icon": "👥", "label": "24,650+ Real UK Enquiries in 2025" },
-    { "icon": "⚙️", "label": "50+ Engine Codes Tracked" },
+    { "icon": "👥", "label": "4,200+ Real UK Enquiries in 2025" },
+    { "icon": "⚙️", "label": "5+ Engine Codes Tracked" },
     { "icon": "🔄", "label": "Updated Monthly" }
   ],
   "engines": {
-    "title": "Most-Enquired BMW Engines (2025)",
+    "title": "Most-Enquired Mercedes-Benz Engines (2025)",
     "icon": "⚙️",
     "columns": ["RANK", "ENGINE CODE", "LABEL", "ENQUIRIES"],
     "rows": [
-      { "rank": 1, "code": "N47D20C", "label": "2.0L Diesel", "enquiries": "1,450 [BMW-VERIFIED]" },
-      { "rank": 2, "code": "B47D20A", "label": "2.0L Diesel", "enquiries": "930 [BMW-VERIFIED]" },
-      { "rank": 3, "code": "N57D30", "label": "3.0L Diesel", "enquiries": "830 [BMW-VERIFIED]" },
-      { "rank": 4, "code": "B58B30", "label": "3.0L Petrol", "enquiries": "540 [BMW-VERIFIED]" },
-      { "rank": 5, "code": "B57D30", "label": "3.0L Diesel", "enquiries": "460 [BMW-VERIFIED]" },
-      { "rank": 6, "code": "N63B44", "label": "4.4L V8 Petrol", "enquiries": "440 [BMW-VERIFIED]" },
-      { "rank": 7, "code": "S63B44", "label": "4.4L V8 M Engine", "enquiries": "410 [BMW-VERIFIED]" }
+      { "rank": 1, "code": "OM651", "label": "2.1L Diesel", "enquiries": "1,250 [MB-VERIFIED]" },
+      { "rank": 2, "code": "OM642", "label": "3.0L V6 Diesel", "enquiries": "880 [MB-VERIFIED]" },
+      { "rank": 3, "code": "OM654", "label": "2.0L Diesel", "enquiries": "520 [MB-VERIFIED]" },
+      { "rank": 4, "code": "M276", "label": "3.0L V6 Petrol", "enquiries": "390 [MB-VERIFIED]" },
+      { "rank": 5, "code": "M177", "label": "4.0L V8 Biturbo", "enquiries": "370 [MB-VERIFIED]" }
     ]
   },
   "models": {
-    "title": "Most-Enquired BMW Models (2025)",
+    "title": "Most-Enquired Mercedes-Benz Models (2025)",
     "icon": "🚗",
     "columns": ["RANK", "MODEL", "ENQUIRIES"],
     "rows": [
-      { "rank": 1, "model": "BMW 3 Series F30", "enquiries": "380 [BMW-VERIFIED]" },
-      { "rank": 2, "model": "BMW 1 Series F20", "enquiries": "344 [BMW-VERIFIED]" },
-      { "rank": 3, "model": "BMW X3 F25", "enquiries": "316 [BMW-VERIFIED]" },
-      { "rank": 4, "model": "BMW 5 Series F10", "enquiries": "300 [BMW-VERIFIED]" },
-      { "rank": 5, "model": "BMW X5 F15", "enquiries": "288 [BMW-VERIFIED]" },
-      { "rank": 6, "model": "BMW 3 Series E90", "enquiries": "256 [BMW-VERIFIED]" }
+      { "rank": 1, "model": "C-Class W205", "enquiries": "368 [MB-VERIFIED]" },
+      { "rank": 2, "model": "E-Class W212", "enquiries": "338 [MB-VERIFIED]" },
+      { "rank": 3, "model": "GLC X253", "enquiries": "304 [MB-VERIFIED]" },
+      { "rank": 4, "model": "GLA X156", "enquiries": "272 [MB-VERIFIED]" },
+      { "rank": 5, "model": "C-Class W204", "enquiries": "252 [MB-VERIFIED]" },
+      { "rank": 6, "model": "E-Class W211", "enquiries": "234 [MB-VERIFIED]" }
     ]
   },
   "replacementCosts": {
@@ -41,44 +39,42 @@
     "icon": "£",
     "columns": ["ENGINE CODE", "COST RANGE"],
     "rows": [
-      { "code": "N47D20C", "cost": "£3,200–£5,500 [BMW-QUOTE]" },
-      { "code": "B47D20A", "cost": "£2,800–£4,500 [BMW-QUOTE]" },
-      { "code": "N57D30", "cost": "£4,500–£7,000 [BMW-QUOTE]" },
-      { "code": "B58B30", "cost": "£3,800–£6,000 [BMW-QUOTE]" },
-      { "code": "B57D30", "cost": "£5,000–£8,000 [BMW-QUOTE]" },
-      { "code": "N63B44", "cost": "£6,000–£10,000 [BMW-QUOTE]" },
-      { "code": "S63B44", "cost": "£9,000–£14,000 [BMW-QUOTE]" }
+      { "code": "OM651", "cost": "£2,800–£4,800 [MB-QUOTE]" },
+      { "code": "OM642", "cost": "£3,200–£5,500 [MB-QUOTE]" },
+      { "code": "OM654", "cost": "£3,000–£5,000 [MB-QUOTE]" },
+      { "code": "M276", "cost": "£3,800–£6,500 [MB-QUOTE]" },
+      { "code": "M177", "cost": "£8,000–£14,000 [MB-QUOTE]" }
     ]
   },
   "failures": {
-    "title": "Most Common BMW Failures",
+    "title": "Most Common Mercedes-Benz Failures",
     "icon": "⚠️",
     "columns": ["RANK", "FAILURE", "RISK LEVEL"],
     "rows": [
       {
         "rank": 1,
-        "failure": "N47 timing chain stretch and tensioner failure",
-        "risk": { "icon": "🔴", "label": "Catastrophic", "type": "catastrophic" }
+        "failure": "OM651 injector seal failure (\"Black Death\")",
+        "risk": { "icon": "🔴", "label": "Catastrophic if Ignored", "type": "catastrophic" }
       },
       {
         "rank": 2,
-        "failure": "N57 turbocharger and timing chain wear",
+        "failure": "OM651 rear timing chain tensioner wear",
         "risk": { "icon": "🟠", "label": "Immediate", "type": "immediate" }
       },
       {
         "rank": 3,
-        "failure": "B58 coolant leaks (expansion tank, water pump, plastic fittings)",
+        "failure": "OM642 oil cooler seal leak",
         "risk": { "icon": "🟡", "label": "Monitor", "type": "monitor" }
       },
       {
         "rank": 4,
-        "failure": "N63 valve stem seals and hot-vee issues",
-        "risk": { "icon": "🔴", "label": "Catastrophic", "type": "catastrophic" }
+        "failure": "M276 timing chain stretch",
+        "risk": { "icon": "🟡", "label": "Monitor", "type": "monitor" }
       },
       {
         "rank": 5,
-        "failure": "S63 timing chain tensioner wear",
-        "risk": { "icon": "🔴", "label": "Catastrophic", "type": "catastrophic" }
+        "failure": "M177 valve cover oil leaks",
+        "risk": { "icon": "🟢", "label": "Low", "type": "low" }
       }
     ]
   },
@@ -99,24 +95,24 @@
     "columns": ["VEHICLE", "LOCATION", "ISSUE", "TIMESTAMP"],
     "rows": [
       {
-        "vehicle": "BMW 320d (N47)",
+        "vehicle": "Mercedes C220d (OM651)",
         "location": "London",
-        "issue": "Timing chain rattle",
-        "timestamp": "2 hours ago"
+        "issue": "Injector seal / \"Black Death\"",
+        "timestamp": "3 hours ago"
       },
       {
-        "vehicle": "BMW X5 (B57)",
-        "location": "Manchester",
-        "issue": "Loss of power",
-        "timestamp": "4 hours ago"
-      },
-      {
-        "vehicle": "BMW M4 (S63)",
+        "vehicle": "Mercedes GLC (OM654)",
         "location": "Birmingham",
-        "issue": "Turbo failure",
-        "timestamp": "6 hours ago"
+        "issue": "Pre-purchase inspection",
+        "timestamp": "5 hours ago"
+      },
+      {
+        "vehicle": "Mercedes E350d (OM642)",
+        "location": "Manchester",
+        "issue": "Oil cooler seal leak",
+        "timestamp": "8 hours ago"
       }
     ],
-    "footer": "Updated monthly from BMWEngines.uk CRM data"
+    "footer": "Updated monthly from MercedesEngines.uk CRM data"
   }
 }
