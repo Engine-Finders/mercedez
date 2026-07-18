@@ -39,7 +39,7 @@ export async function generateMetadata({ params }) {
     alternates: meta.canonical
       ? { canonical: meta.canonical }
       : undefined,
-    openGraph: meta.openGraph
+    openGraph: meta.openGraph?.type
       ? {
           title: meta.openGraph.title,
           description: meta.openGraph.description,
@@ -49,7 +49,7 @@ export async function generateMetadata({ params }) {
           siteName: meta.openGraph.siteName,
         }
       : undefined,
-    twitter: meta.twitter
+    twitter: meta.twitter?.card
       ? {
           card: meta.twitter.card,
           title: meta.twitter.title,
