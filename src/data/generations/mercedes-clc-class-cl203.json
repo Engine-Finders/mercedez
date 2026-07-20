@@ -1,0 +1,737 @@
+{
+  "meta": {
+    "slug": "mercedes-clc-class-cl203",
+    "title": "Mercedes CLC-Class CL203 Engines — The Complete UK Guide",
+    "titleCharCount": 56,
+    "description": "",
+    "descriptionCharCount": 0,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLC-Class",
+              "item": "https://mercedesengine.uk/clc-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes CLC-Class CL203",
+              "item": "https://mercedesengine.uk/clc-class/cl203/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLC Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M271.921 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M271.946 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M271.948 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M271.950 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M272.960 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM646.962 Engine",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM646.963 Engine",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM642.960 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLC Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "CLC 200 CDI",
+              "url": "https://mercedesengine.uk/clc-class/cl203/clc-200-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLC 220 CDI",
+              "url": "https://mercedesengine.uk/clc-class/cl203/clc-220-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CLC 320 CDI",
+              "url": "https://mercedesengine.uk/clc-class/cl203/clc-320-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLC 180 Kompressor",
+              "url": "https://mercedesengine.uk/clc-class/cl203/clc-180-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLC 200 Kompressor",
+              "url": "https://mercedesengine.uk/clc-class/cl203/clc-200-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLC 350",
+              "url": "https://mercedesengine.uk/clc-class/cl203/clc-350/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes CLC engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned CLC engine typically costs £1,500–£6,000 supply only, depending on engine — the volume CLC 200 CDI diesel sits at £2,500–£4,200. Fitting adds £650–£1,200. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes CLC engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The CLC 320 CDI (OM642 V6 diesel) is the most dependable CLC engine — smooth, refined and robust with few major failure modes beyond the well-documented oil cooler seal leak. The CLC 200 CDI (OM646) is the sensible choice for most buyers: economical, simple and proven."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes CLC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M271 four-cylinder petrols suffer from timing chain and camshaft adjuster wear (45k–90k miles). Diesel OM646 engines suffer injector seal failure (\"Black Death\"). The OM642 V6 diesel has oil cooler seal leaks. The CLC 350 (M272 V6) carries balance shaft sprocket wear risk on early cars. Rust can also appear on suspension components and rear arches."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes CLC reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on engine choice and maintenance history. The OM642 diesel is the most robust option; the OM646 is also solid. M271-engined cars carry a significant timing chain risk — always check for documented chain replacement. The CLC 350 is reliable but has higher running costs and balance shaft concerns on early examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes CLC engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M271 (CLC 180/200 Kompressor) without documented timing chain history is the one to avoid — chain and cam adjuster failure can occur from 45,000 miles and is expensive to fix. The early CLC 350 (pre-late 2008) also carries balance shaft risk. The CLC 180 Kompressor with 122 bhp is also underpowered for the car's weight."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my CLC engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold-start rattle (M271 timing chain), black carbon residue around injectors (OM646 diesel), or a flashing engine management light and rough running (M272 balance shaft) are the key warnings. Blue smoke, rough idle or sudden loss of power on any engine also warrant immediate inspection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes CLC engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well-kept £8,000 CLC 320 CDI, a £3,500–£6,000 recon is 44–75% of the car's value — marginal but sometimes worth it. Against a tired £4,000 example, the same recon is 88–150% — walk away. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes CLC engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 V6 diesel can exceed 200,000 miles with proper servicing and oil cooler maintenance. The OM646 is similarly durable. The M271's life is limited by the timing chain; addressed proactively, it can reach 150,000+ miles. The CLC's interior quality is good, but rust on suspension components is a common issue as cars age."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the CLC-Class and the C-Class SportCoupé?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the same CL203 chassis. The CLC-Class (2008–2011) is the facelifted and rebadged version of the C-Class SportCoupé (2000–2008), with revised styling, a higher-quality interior and updated engines. The CLC replaced the SportCoupé in the UK market. Engine costs are identical; body-specific parts differ. See the SportCoupé page for pre-2008 variants."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes CLC engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (CLC 200 CDI, CLC 320 CDI, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes CLC-Class CL203 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "6000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLC Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/clc-class/cl203/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
+  },
+  "internalDeclarations": {
+    "checkA": "",
+    "checkB": "",
+    "authorityModelMode": ""
+  },
+  "hero": {
+    "tagPill": "Mercedes CLC-Class CL203 • Coupé • 2008–2011",
+    "h1": "Mercedes CLC-Class CL203 Engines — The Complete UK Guide",
+    "subHeadline": "Every engine fitted to the rebadged SportCoupé — from the supercharged four-cylinders to the V6 diesel and the rare CLC 350 V6. Real UK costs and honest reliability data on Mercedes' compact coupé swansong. Backed by real UK enquiries in 2025 [MB-VERIFIED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "CL203 Enquiries (2025)"
+      },
+      {
+        "icon": "🔧",
+        "label": "Coupé"
+      },
+      {
+        "icon": "📖",
+        "label": "7 Engine Codes"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Explore CL203 Engines →",
+      "href": "#"
+    },
+    "dataIntegrityNote": ""
+  },
+  "engineDatabase": {
+    "h2": "Mercedes CLC-Class CL203 Engine Codes — The Complete Database",
+    "subHeadline": "Every engine fitted to the CLC-Class specifically — the M271 petrols, the OM646 diesels and the V6 options that defined the CL203's final chapter.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (CLC)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M271.921",
+        "family": "M271",
+        "fuel": "Petrol, supercharged",
+        "displacement": "1.8L (1796cc)",
+        "power": "122 bhp (90 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 180 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M271.946",
+        "family": "M271",
+        "fuel": "Petrol, supercharged",
+        "displacement": "1.8L (1796cc)",
+        "power": "143 bhp (105 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 180 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,500–£2,800 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M271.948",
+        "family": "M271",
+        "fuel": "Petrol, supercharged",
+        "displacement": "1.8L (1796cc)",
+        "power": "163 bhp (120 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 200 Kompressor",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M271.950",
+        "family": "M271",
+        "fuel": "Petrol, turbocharged",
+        "displacement": "1.8L (1796cc)",
+        "power": "184 bhp (135 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 180 Kompressor (late)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£1,800–£3,500 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "M272.960",
+        "family": "M272",
+        "fuel": "Petrol V6",
+        "displacement": "3.5L (3498cc)",
+        "power": "272 bhp (200 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 350",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM646.962",
+        "family": "OM646",
+        "fuel": "Diesel I4",
+        "displacement": "2.1L (2148cc)",
+        "power": "122 bhp (90 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 200 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM646.963",
+        "family": "OM646",
+        "fuel": "Diesel I4",
+        "displacement": "2.1L (2148cc)",
+        "power": "136 bhp (100 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 220 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£2,500–£4,200 [MB-QUOTE]"
+      },
+      {
+        "engineCode": "OM642.960",
+        "family": "OM642",
+        "fuel": "Diesel V6",
+        "displacement": "3.0L (2987cc)",
+        "power": "224 bhp (165 kW)",
+        "years": "2008–2011",
+        "variants": "CLC 320 CDI",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgReconCost": "£3,500–£6,000 [MB-QUOTE]"
+      }
+    ],
+    "confidenceScore": {
+      "title": "",
+      "text": ""
+    },
+    "dataCorrections": []
+  },
+  "overview": {
+    "h2": "Mercedes CLC-Class CL203 — Overview",
+    "intro": "The Mercedes-Benz CLC-Class — internally designated CL203 — launched in spring 2008 as a significant refresh of the C-Class SportCoupé. Rather than developing an all-new model, Mercedes gave the ageing CL203 a comprehensive overhaul: revised front and rear styling, a higher-quality interior, improved sound deadening and an updated engine line-up. The CLC was positioned as a more upmarket and refined compact coupé, bridging the gap between the A-Class and the C-Class. Production continued until February 2011, when the CL203 platform was finally retired and replaced by the C204 C-Class Coupé. Around 30,000 CLCs were built.",
+    "keyFacts": "Platform: Mercedes CL203 (shared with W203 C-Class) • Predecessor: C-Class SportCoupé (CL203, 2000–2008) • Successor: C204 Coupé (2011–2015) • Sibling body styles in this generation: CL203 chassis was used exclusively for the CLC-Class and earlier SportCoupé.",
+    "marketIntelligenceLine": "No [MB-VERIFIED] enquiry data exists for the CLC-Class — the model is absent from EM_Proprietary_Data's per-model table, reflecting its low-volume UK status."
+  },
+  "bestWorstEngines": {
+    "items": [
+      {
+        "slot": "Thin-Data Summary",
+        "engine": "",
+        "quote": "The CLC-Class's engine range represents a refined selection from the CL203's final years. The CLC 320 CDI (OM642 V6 diesel) is the standout for buyers prioritising reliability and refinement — the OM642 is robust, smooth and proven over millions of miles across the Mercedes range. The CLC 200 CDI (OM646.962) is the sensible diesel choice for most buyers: economical, simple and well-supported. On the petrol side, the M271 series carries the same timing chain risk that defined the pre-facelift cars — cold-start rattle is the classic warning sign. However, the later M271.950 turbo engine (184 bhp) is considered an improvement over the earlier supercharged units, with fewer cam adjuster failures. The CLC 350 (M272 V6) is a rare and desirable upgrade, though the early balance shaft issue is a concern — check the engine number carefully. Buying instruction: prioritise post-2008 CLC 320 CDI diesels for long-term ownership; if buying a petrol, budget for a timing chain inspection on any M271-engined car and prefer the later turbocharged M271.950 where possible.",
+        "whoItsFor": ""
+      }
+    ]
+  },
+  "ownershipEconomics": {
+    "h2": "Mercedes CLC-Class CL203 — Ownership Economics",
+    "columns": [
+      "Engine",
+      "Typical Mileage",
+      "Common Major Failure",
+      "Repair Cost (Specialist)",
+      "Replacement Cost (Recon)",
+      "Ownership Verdict"
+    ],
+    "rows": [
+      {
+        "engine": "M271.921/946 (CLC 180)",
+        "typicalMileage": "45k–90k",
+        "commonMajorFailure": "Timing chain + cam adjusters",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£1,500–£2,800",
+        "ownershipVerdict": "High risk — budget for chain work"
+      },
+      {
+        "engine": "M271.948 (CLC 200)",
+        "typicalMileage": "45k–90k",
+        "commonMajorFailure": "Timing chain + cam adjusters",
+        "repairCostSpecialist": "£800–£2,000",
+        "replacementCostRecon": "£1,800–£3,200",
+        "ownershipVerdict": "High risk — same as CLC 180"
+      },
+      {
+        "engine": "M271.950 (CLC 180 late)",
+        "typicalMileage": "50k–100k",
+        "commonMajorFailure": "Timing chain (less common)",
+        "repairCostSpecialist": "£800–£1,800",
+        "replacementCostRecon": "£1,800–£3,500",
+        "ownershipVerdict": "Better — improved turbo unit"
+      },
+      {
+        "engine": "M272.960 (CLC 350)",
+        "typicalMileage": "60k–100k",
+        "commonMajorFailure": "Balance shaft sprocket wear",
+        "repairCostSpecialist": "£1,500–£3,000",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Watch — check engine number"
+      },
+      {
+        "engine": "OM646.962 (CLC 200 CDI)",
+        "typicalMileage": "100k–150k+",
+        "commonMajorFailure": "Injector seal failure",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£2,500–£4,200",
+        "ownershipVerdict": "Solid diesel — robust and economical"
+      },
+      {
+        "engine": "OM646.963 (CLC 220 CDI)",
+        "typicalMileage": "100k–150k+",
+        "commonMajorFailure": "Injector seal failure",
+        "repairCostSpecialist": "£400–£1,000",
+        "replacementCostRecon": "£2,500–£4,200",
+        "ownershipVerdict": "Good choice — more power, same reliability"
+      },
+      {
+        "engine": "OM642.960 (CLC 320 CDI)",
+        "typicalMileage": "100k–180k",
+        "commonMajorFailure": "Oil cooler seal leak",
+        "repairCostSpecialist": "£800–£1,500",
+        "replacementCostRecon": "£3,500–£6,000",
+        "ownershipVerdict": "Best diesel — smooth, refined, reliable"
+      }
+    ],
+    "economicsRule": {
+      "title": "The CLC rule",
+      "text": "A £3,500–£6,000 CLC 320 CDI recon against a £4,000–£10,000 CLC sits at 35–150% of the car's value. On a sub-£5,000 example, that brushes our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well-kept £8,000+ example, the same recon drops to a more manageable 44–75% — a repair decision, not a financial one. Value the car first."
+    },
+    "keyTakeaways": [
+      {
+        "question": "Which CLC Costs Least To Own?",
+        "answer": "CLC 200 CDI (OM646) — simple diesel, robust, affordable parts."
+      },
+      {
+        "question": "Which CLC Costs Most To Own?",
+        "answer": "CLC 350 (M272) — V6 complexity, balance shaft risk, premium parts."
+      },
+      {
+        "question": "Which CLC Is Best Value?",
+        "answer": "CLC 320 CDI (OM642) — the most reliable engine in the range with strong economy and refinement."
+      }
+    ]
+  },
+  "commonProblems": {
+    "problems": [
+      {
+        "id": 1,
+        "title": "M271 Timing Chain and Cam Adjuster Wear",
+        "affectedModels": "CLC 180 Kompressor, CLC 200 Kompressor (M271.921/946/948), 2008–2011.",
+        "typicalFailureMileage": "45,000–90,000 miles.",
+        "rootCause": "The M271 engine family suffers from premature timing chain stretch and wear to the camshaft adjuster sprockets. The chain tensioner is also a known weak point. Cold-start rattling is the classic warning sign — if ignored, the chain can jump, causing piston-to-valve contact and catastrophic engine failure.",
+        "tieredCosts": [],
+        "recommendation": "On any M271-engined CLC with no documented chain history, treat this as overdue preventative maintenance — an £800–£1,800 repair is dramatically cheaper than the £2,500–£4,500 replacement that follows if ignored. Cold-start rattle is your warning; don't ignore it.",
+        "cta": {
+          "label": "Compare M271 engine prices for your CLC →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 2,
+        "title": "OM646 Injector Seal Failure (\"Black Death\")",
+        "affectedModels": "CLC 200 CDI, CLC 220 CDI (OM646.962/963).",
+        "typicalFailureMileage": "80,000–130,000 miles.",
+        "rootCause": "The injector seals on the OM646 diesel engine degrade over time, allowing combustion gases to escape past the seal. This causes a characteristic black, tar-like carbon buildup around the injector — known in Mercedes circles as \"Black Death\" — which can eventually seize the injector in the cylinder head.",
+        "tieredCosts": [],
+        "recommendation": "At the first sign of a diesel smell in the cabin or visible black residue around injectors, get the seals inspected immediately — a £400–£800 seal replacement is far cheaper than the £900–£1,500 head repair that follows if ignored.",
+        "cta": {
+          "label": "Compare OM646 engine prices for your CLC →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 3,
+        "title": "OM642 Oil Cooler Seal Leak",
+        "affectedModels": "CLC 320 CDI (OM642.960), 2008–2011.",
+        "typicalFailureMileage": "80,000–150,000 miles.",
+        "rootCause": "The oil cooler seals on the OM642 V6 diesel are a known weak point. The seals degrade over time, allowing oil to leak into the valley of the V6. The repair is labour-intensive, requiring removal of the intake manifold and significant disassembly.",
+        "tieredCosts": [],
+        "recommendation": "On any CLC 320 CDI over 80,000 miles, budget for an oil cooler seal replacement — £800–£1,500 is a reasonable preventative cost to avoid potential engine damage from oil loss.",
+        "cta": {
+          "label": "Compare OM642 engine prices for your CLC →",
+          "href": "#"
+        }
+      },
+      {
+        "id": 4,
+        "title": "M272 Balance Shaft Sprocket Wear",
+        "affectedModels": "CLC 350 (M272.960), 2008–2011 (early production).",
+        "typicalFailureMileage": "60,000–100,000 miles.",
+        "rootCause": "Early M272 V6 engines (pre-2008) suffer from premature wear to the balance shaft sprocket, which is made of softer metal than the chain. This causes the timing chain to jump, leading to engine misfire, rough running and, in severe cases, piston-to-valve contact.",
+        "tieredCosts": [],
+        "recommendation": "If you're buying a CLC 350, check the engine number against the affected range — Mercedes revised the sprocket in late 2008. A £1,200–£2,000 preventative repair is cheaper than the £2,800–£5,000 replacement that follows if ignored.",
+        "cta": {
+          "label": "Compare M272 engine prices for your CLC →",
+          "href": "#"
+        }
+      }
+    ]
+  },
+  "replacementCosts": {
+    "h2": "CLC Engine Replacement Costs — By Engine and Condition",
+    "columns": [
+      "Variant",
+      "Engine Code",
+      "Used (Supply)",
+      "Reconditioned (Supply)",
+      "Rebuilt (Supply)",
+      "Labour Hours"
+    ],
+    "rows": [
+      {
+        "variant": "CLC 180 Kompressor",
+        "engineCode": "M271.921/946",
+        "usedSupply": "£700–£1,500",
+        "reconditionedSupply": "£1,500–£2,800",
+        "rebuiltSupply": "£2,200–£4,000",
+        "labourHours": "10–12 hrs"
+      },
+      {
+        "variant": "CLC 180 Kompressor (late)",
+        "engineCode": "M271.950",
+        "usedSupply": "£800–£1,800",
+        "reconditionedSupply": "£1,800–£3,500",
+        "rebuiltSupply": "£2,500–£4,500",
+        "labourHours": "10–12 hrs"
+      },
+      {
+        "variant": "CLC 200 Kompressor",
+        "engineCode": "M271.948",
+        "usedSupply": "£800–£1,800",
+        "reconditionedSupply": "£1,800–£3,200",
+        "rebuiltSupply": "£2,500–£4,500",
+        "labourHours": "10–12 hrs"
+      },
+      {
+        "variant": "CLC 350",
+        "engineCode": "M272.960",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–16 hrs"
+      },
+      {
+        "variant": "CLC 200 CDI",
+        "engineCode": "OM646.962",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,500–£4,200",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–12 hrs"
+      },
+      {
+        "variant": "CLC 220 CDI",
+        "engineCode": "OM646.963",
+        "usedSupply": "£1,200–£2,200",
+        "reconditionedSupply": "£2,500–£4,200",
+        "rebuiltSupply": "£3,500–£5,500",
+        "labourHours": "10–12 hrs"
+      },
+      {
+        "variant": "CLC 320 CDI",
+        "engineCode": "OM642.960",
+        "usedSupply": "£1,800–£3,200",
+        "reconditionedSupply": "£3,500–£6,000",
+        "rebuiltSupply": "£5,000–£8,000",
+        "labourHours": "12–14 hrs"
+      }
+    ],
+    "note": "No Generation variance from the baseline figures — the CL203/CLC shares its engine bay layout with the W203 C-Class, so costs are consistent."
+  },
+  "coreVariants": {
+    "dieselVariants": [
+      "CLC 200 CDI",
+      "CLC 220 CDI",
+      "CLC 320 CDI"
+    ],
+    "petrolVariants": [
+      "CLC 180 Kompressor",
+      "CLC 200 Kompressor",
+      "CLC 350"
+    ],
+    "scopeNote": "All variants listed are CLC-Class (CL203, 2008–2011) only. The CLC 180 Kompressor was offered with both the supercharged M271.921/946 (143 bhp) and, in some markets, the later M271.950 turbo (184 bhp) — check your specific car's engine code. The CLC 350 (M272 V6) is a rare and desirable variant."
+  },
+  "marketIntelligence": {
+    "mostRequestedEngines": [],
+    "mostRequestedVariants": [],
+    "averageReplacementCost": "",
+    "mostCommonFailures": [],
+    "liveFeed": []
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CLC engine replacement cost in the UK?",
+        "answer": "A reconditioned CLC engine typically costs £1,500–£6,000 supply only [MB-QUOTE], depending on engine — the volume CLC 200 CDI diesel sits at £2,500–£4,200. Fitting adds £650–£1,200. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes CLC engine is the most reliable?",
+        "answer": "The CLC 320 CDI (OM642 V6 diesel) is the most dependable CLC engine — smooth, refined and robust with few major failure modes beyond the well-documented oil cooler seal leak. The CLC 200 CDI (OM646) is the sensible choice for most buyers: economical, simple and proven."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes CLC?",
+        "answer": "The M271 four-cylinder petrols suffer from timing chain and camshaft adjuster wear (45k–90k miles). Diesel OM646 engines suffer injector seal failure (\"Black Death\"). The OM642 V6 diesel has oil cooler seal leaks. The CLC 350 (M272 V6) carries balance shaft sprocket wear risk on early cars. Rust can also appear on suspension components and rear arches."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes CLC reliable?",
+        "answer": "It depends heavily on engine choice and maintenance history. The OM642 diesel is the most robust option; the OM646 is also solid. M271-engined cars carry a significant timing chain risk — always check for documented chain replacement. The CLC 350 is reliable but has higher running costs and balance shaft concerns on early examples."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes CLC engine should I avoid?",
+        "answer": "The M271 (CLC 180/200 Kompressor) without documented timing chain history is the one to avoid — chain and cam adjuster failure can occur from 45,000 miles and is expensive to fix. The early CLC 350 (pre-late 2008) also carries balance shaft risk. The CLC 180 Kompressor with 122 bhp is also underpowered for the car's weight."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my CLC engine needs replacing?",
+        "answer": "Cold-start rattle (M271 timing chain), black carbon residue around injectors (OM646 diesel), or a flashing engine management light and rough running (M272 balance shaft) are the key warnings. Blue smoke, rough idle or sudden loss of power on any engine also warrant immediate inspection."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes CLC engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £8,000 CLC 320 CDI, a £3,500–£6,000 recon is 44–75% of the car's value — marginal but sometimes worth it. Against a tired £4,000 example, the same recon is 88–150% — walk away. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes CLC engines last?",
+        "answer": "The OM642 V6 diesel can exceed 200,000 miles with proper servicing and oil cooler maintenance. The OM646 is similarly durable. The M271's life is limited by the timing chain; addressed proactively, it can reach 150,000+ miles. The CLC's interior quality is good, but rust on suspension components is a common issue as cars age."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the CLC-Class and the C-Class SportCoupé?",
+        "answer": "Both share the same CL203 chassis. The CLC-Class (2008–2011) is the facelifted and rebadged version of the C-Class SportCoupé (2000–2008), with revised styling, a higher-quality interior and updated engines. The CLC replaced the SportCoupé in the UK market. Engine costs are identical; body-specific parts differ. See the SportCoupé page for pre-2008 variants."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes CLC engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (CLC 200 CDI, CLC 320 CDI, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+      }
+    ]
+  },
+  "trustCta": {
+    "h2": "Why UK Mercedes CLC Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted CLC Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real CLC owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare CLC Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply-and-fit options side-by-side before you commit to any repair."
+      },
+      {
+        "title": "UK Engine Replacement Services for CLC",
+        "text": "covering every variant from the CLC 180 Kompressor to the CLC 320 CDI, with supply-only or full supply-and-fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes CLC engine replacement UK drivers rely on. Compare real prices from trusted Mercedes specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes CLC-Class CL203 Engine Prices on EnginesMarket →",
+      "href": "#",
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
+    }
+  }
+}

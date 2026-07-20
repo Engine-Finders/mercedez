@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "slug": "mercedes-amg-m176-m177",
+    "title": "Mercedes-AMG M176/M177 Engine — Specs, Reliability & Replacement Cost",
+    "description": "",
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-AMG • M176/M177 • Petrol • V8 Biturbo • 2015–present",
+    "h1": "Mercedes-AMG M176/M177 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes-AMG M176/M177 is a 4.0-litre twin-turbo V8 — a potent, hand-built performance engine, but its hot-vee design creates heat-related maintenance demands. Backed by real UK enquiries from EnginesMarket.co.uk.",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Enquiry Data Available"
+      },
+      {
+        "icon": "🔧",
+        "label": "20+ Models Fitted"
+      },
+      {
+        "icon": "💯",
+        "label": "72/100 Engine Score"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Compare M176/M177 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "Mercedes-AMG M176/M177"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "V8, 4.0L (3,982cc) Biturbo"
+      },
+      {
+        "metric": "Power Range",
+        "value": "469–639 hp"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2015–present"
+      },
+      {
+        "metric": "Models Fitted (Mercedes-Benz only)",
+        "value": "20+ models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Also fitted to Aston Martin Vantage, DB11, DBX"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "72/100"
+      },
+      {
+        "metric": "M176/M177 — Our Verdict & Rating",
+        "value": "Star rating: 3.5★ out of 5"
+      },
+      {
+        "metric": "Confidence: 88% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
+        "value": "Engine Score breakdown:"
+      },
+      {
+        "metric": "Dimension",
+        "value": "Score (of 20)"
+      },
+      {
+        "metric": "How it's determined",
+        "value": "Reliability"
+      },
+      {
+        "metric": "14",
+        "value": "3.5★ × 4"
+      },
+      {
+        "metric": "Repair Cost",
+        "value": "8"
+      },
+      {
+        "metric": "Reconditioned supply midpoint £7,000–£9,999",
+        "value": "Repairability"
+      },
+      {
+        "metric": "12",
+        "value": "Mix of cheap fixes (oil leaks, sensors) and expensive ones (camshaft, RMS)"
+      },
+      {
+        "metric": "Parts Supply",
+        "value": "16"
+      },
+      {
+        "metric": "Available but specialist-order only; AMG parts premium applies",
+        "value": "Replacement Economics"
+      },
+      {
+        "metric": "22",
+        "value": "Recon cost 45–59% of lowest host-vehicle value"
+      },
+      {
+        "metric": "Total",
+        "value": "72/100"
+      },
+      {
+        "metric": "Sum of five rows above",
+        "value": "One-line verdict: The M176/M177 is a phenomenal performer when maintained — but its hot-vee design means oil leaks and camshaft wear are common from 60,000 miles — budget for specialist maintenance."
+      },
+      {
+        "metric": "Best for: Enthusiasts who want AMG V8 performance and can afford specialist maintenance.",
+        "value": "Avoid if: You're on a tight budget or looking at a high-mileage example with no documented service history."
+      },
+      {
+        "metric": "M176/M177 — Where It's Fitted (Mercedes-Benz Models)",
+        "value": "Model"
+      },
+      {
+        "metric": "Generation",
+        "value": "Variant/Badge"
+      },
+      {
+        "metric": "Years",
+        "value": "C-Class"
+      },
+      {
+        "metric": "W205",
+        "value": "C 63 / C 63 S"
+      },
+      {
+        "metric": "2015–2021",
+        "value": "C-Class"
+      },
+      {
+        "metric": "W206",
+        "value": "C 63 S E Performance"
+      },
+      {
+        "metric": "2021–present",
+        "value": "E-Class"
+      },
+      {
+        "metric": "W213",
+        "value": "E 63 / E 63 S"
+      },
+      {
+        "metric": "2016–2023",
+        "value": "E-Class"
+      },
+      {
+        "metric": "W214",
+        "value": "E 63 (M177)"
+      },
+      {
+        "metric": "2023–present",
+        "value": "S-Class"
+      },
+      {
+        "metric": "W222",
+        "value": "S 63 / S 65 (M177)"
+      },
+      {
+        "metric": "2017–2020",
+        "value": "S-Class"
+      },
+      {
+        "metric": "W223",
+        "value": "S 63 E Performance"
+      },
+      {
+        "metric": "2021–present",
+        "value": "GLC-Class"
+      },
+      {
+        "metric": "X253",
+        "value": "GLC 63 / GLC 63 S"
+      },
+      {
+        "metric": "2017–2022",
+        "value": "GLC-Class"
+      },
+      {
+        "metric": "X254",
+        "value": "GLC 63 S E Performance"
+      },
+      {
+        "metric": "2023–present",
+        "value": "GLE-Class"
+      },
+      {
+        "metric": "W166",
+        "value": "GLE 63 / GLE 63 S"
+      },
+      {
+        "metric": "2015–2019",
+        "value": "GLE-Class"
+      },
+      {
+        "metric": "V167",
+        "value": "GLE 580 (M176) / GLE 63"
+      },
+      {
+        "metric": "2019–present",
+        "value": "GLS-Class"
+      },
+      {
+        "metric": "X166",
+        "value": "GLS 63"
+      },
+      {
+        "metric": "2016–2019",
+        "value": "GLS-Class"
+      },
+      {
+        "metric": "X167",
+        "value": "GLS 580 (M176) / GLS 63"
+      },
+      {
+        "metric": "2019–present",
+        "value": "G-Class"
+      },
+      {
+        "metric": "W463",
+        "value": "G 500 / G 550 (M176)"
+      },
+      {
+        "metric": "2015–2018",
+        "value": "G-Class"
+      },
+      {
+        "metric": "W463",
+        "value": "G 63 (M177)"
+      },
+      {
+        "metric": "2016–present",
+        "value": "S-Class (Maybach)"
+      },
+      {
+        "metric": "X222",
+        "value": "S 560 (M176)"
+      },
+      {
+        "metric": "2017–2020",
+        "value": "S-Class (Maybach)"
+      },
+      {
+        "metric": "Z223",
+        "value": "S 580 (M176)"
+      },
+      {
+        "metric": "2021–present",
+        "value": "AMG GT"
+      },
+      {
+        "metric": "C190",
+        "value": "AMG GT / GT S / GT C (M178)"
+      },
+      {
+        "metric": "2015–present",
+        "value": "AMG GT 4-Door"
+      },
+      {
+        "metric": "X290",
+        "value": "GT 63 / GT 63 S (M177)"
+      },
+      {
+        "metric": "2019–present",
+        "value": "SL-Class"
+      },
+      {
+        "metric": "R232",
+        "value": "SL 63"
+      },
+      {
+        "metric": "2022–present",
+        "value": "CLS-Class"
+      },
+      {
+        "metric": "C257",
+        "value": "CLS 53 / CLS 63"
+      },
+      {
+        "metric": "2018–present",
+        "value": "Also powers the Aston Martin Vantage (2018–present), DB11 V8 (2017–2023), and DBX (2020–present)."
+      },
+      {
+        "metric": "M176/M177 Replacement Costs",
+        "value": "Condition"
+      },
+      {
+        "metric": "Supply Only",
+        "value": "Fitted (Indie)"
+      },
+      {
+        "metric": "Warranty",
+        "value": "Used"
+      },
+      {
+        "metric": "£4,000–£8,000",
+        "value": "£5,500–£9,500"
+      },
+      {
+        "metric": "3–6 months",
+        "value": "Reconditioned"
+      },
+      {
+        "metric": "£7,000–£12,000",
+        "value": "£8,500–£14,000"
+      },
+      {
+        "metric": "12 months",
+        "value": "Rebuilt"
+      },
+      {
+        "metric": "£10,000–£16,000",
+        "value": "£11,500–£18,000"
+      },
+      {
+        "metric": "12–24 months",
+        "value": "Labour estimate: Fitting an M176/M177 typically takes 12–18 hours at £75–£110/hr (independent) or £130–£180/hr (London/SE dealer)."
+      },
+      {
+        "metric": "Shared-cost note: Parts cost is identical across Mercedes-AMG and Aston Martin applications; labour time varies slightly by engine bay access.",
+        "value": "→ Compare M176/M177 engine prices from UK specialists"
+      },
+      {
+        "metric": "M176/M177 — Frequently Asked Questions",
+        "value": "1. How much does an M176/M177 engine replacement cost?"
+      },
+      {
+        "metric": "A reconditioned M176/M177 typically costs £7,000–£12,000 supply only, varying by specific variant and output. Fitting adds £1,500–£3,000 depending on labour rates. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes-AMG M176/M177 a reliable engine?"
+      },
+      {
+        "metric": "The M176/M177 is rated 3.5★ out of 5 — generally robust for a high-performance V8, but its hot-vee design creates heat-related maintenance demands. Many specialists recommend major inspection around 60,000–90,000 miles.",
+        "value": "3. What is the most common M176/M177 failure?"
+      },
+      {
+        "metric": "Common issues include camshaft wear (ticking noise, Check Engine Light codes P0016/P0017), oil leaks from camshaft position sensors and adjuster magnets, rear main seal failure from blocked oil-vapour separators, and early-production ignition coil misfires.",
+        "value": "4. Which Mercedes models use the M176/M177?"
+      },
+      {
+        "metric": "The M176 powers non-AMG V8 models like the G 500/G 550 and S 560/S 580. The M177 powers AMG models including the C 63, E 63, G 63, GLC 63, and GT 63, plus Aston Martin Vantage and DB11.",
+        "value": "5. How long does the M176/M177 last?"
+      },
+      {
+        "metric": "With proper maintenance, these engines can reach 90,000–150,000 miles. However, specialists note that major overhauls are common in this mileage range — strict servicing and early attention to oil leaks are essential for longevity.",
+        "value": "Why UK M176/M177 Owners Trust MercedesBenzEngine.uk"
+      },
+      {
+        "metric": "* Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M176/M177 owners, as part of the Engine Finders network.",
+        "value": "* Compare Companies: We compare quotes from multiple UK specialists so you can see real M176/M177 replacement prices side by side — no hidden fees, no pressure."
+      },
+      {
+        "metric": "* UK Coverage: Our network spans independent specialists across England, Scotland, Wales and Northern Ireland — wherever you are, we'll find you a trusted M176/M177 specialist nearby.",
+        "value": "Find the best Mercedes-AMG M176/M177 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence."
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "",
+    "confidence": "",
+    "scoreNote": "",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": []
+    },
+    "oneLineVerdict": "",
+    "bestFor": "",
+    "avoidIf": ""
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [],
+    "crossBrandNote": ""
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [],
+    "labourEstimate": "",
+    "sharedCostNote": "",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#"
+    }
+  }
+}

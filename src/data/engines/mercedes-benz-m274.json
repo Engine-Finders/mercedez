@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-m274",
+    "title": "Mercedes-Benz M274 Engine — Specs, Reliability & Replacement Cost",
+    "description": "",
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • M274 • Petrol • Inline-4 Turbo • 2011–2019",
+    "h1": "Mercedes-Benz M274 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes M274 is a 2.0-litre turbocharged four-cylinder — a Ward's 10 Best Engines winner, but its camshaft design is a known weakness. Backed by real UK enquiries from EnginesMarket.co.uk.",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Enquiry Data Available"
+      },
+      {
+        "icon": "🔧",
+        "label": "20+ Models Fitted"
+      },
+      {
+        "icon": "💯",
+        "label": "74/100 Engine Score"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Compare M274 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "Mercedes-Benz M274"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "Inline-4, 1.6L–2.0L turbo"
+      },
+      {
+        "metric": "Power Range",
+        "value": "122–241 hp"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2011–2019"
+      },
+      {
+        "metric": "Models Fitted (Mercedes-Benz only)",
+        "value": "20+ models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Also fitted to Infiniti Q50/Q60"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "74/100"
+      },
+      {
+        "metric": "M274 — Our Verdict & Rating",
+        "value": "Star rating: 3.5★ out of 5"
+      },
+      {
+        "metric": "Confidence: 88% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
+        "value": "Engine Score breakdown:"
+      },
+      {
+        "metric": "Dimension",
+        "value": "Score (of 20)"
+      },
+      {
+        "metric": "How it's determined",
+        "value": "Reliability"
+      },
+      {
+        "metric": "14",
+        "value": "3.5★ × 4"
+      },
+      {
+        "metric": "Repair Cost",
+        "value": "12"
+      },
+      {
+        "metric": "Reconditioned supply midpoint £5,000–£6,999",
+        "value": "Repairability"
+      },
+      {
+        "metric": "12",
+        "value": "Mix of cheap fixes (thermostat, sensors) and expensive ones (camshafts, timing chain)"
+      },
+      {
+        "metric": "Parts Supply",
+        "value": "16"
+      },
+      {
+        "metric": "Available but specialist-order only; Mercedes parts premium applies",
+        "value": "Replacement Economics"
+      },
+      {
+        "metric": "20",
+        "value": "Recon cost 30–44% of lowest host-vehicle value"
+      },
+      {
+        "metric": "Total",
+        "value": "74/100"
+      },
+      {
+        "metric": "Sum of five rows above",
+        "value": "One-line verdict: The M274 is a refined, efficient turbo four when maintained — but camshaft adjuster wear and timing chain tensioner issues are well-documented from 60,000 miles — insist on full service history and listen for cold-start rattle."
+      },
+      {
+        "metric": "Best for: Buyers wanting a modern, efficient Mercedes turbo petrol with strong performance.",
+        "value": "Avoid if: You're looking at a high-mileage example with no documented camshaft or timing chain work."
+      },
+      {
+        "metric": "M274 — Where It's Fitted (Mercedes-Benz Models)",
+        "value": "Model"
+      },
+      {
+        "metric": "Generation",
+        "value": "Variant/Badge"
+      },
+      {
+        "metric": "Years",
+        "value": "A-Class"
+      },
+      {
+        "metric": "W176",
+        "value": "A 200 / A 220 / A 250"
+      },
+      {
+        "metric": "2012–2018",
+        "value": "B-Class"
+      },
+      {
+        "metric": "W246",
+        "value": "B 200 / B 220 / B 250"
+      },
+      {
+        "metric": "2012–2018",
+        "value": "CLA-Class"
+      },
+      {
+        "metric": "C117",
+        "value": "CLA 200 / CLA 220 / CLA 250"
+      },
+      {
+        "metric": "2013–2019",
+        "value": "CLA-Class"
+      },
+      {
+        "metric": "X118",
+        "value": "CLA 200 / CLA 250"
+      },
+      {
+        "metric": "2019–present",
+        "value": "C-Class"
+      },
+      {
+        "metric": "W205",
+        "value": "C 180 / C 200 / C 250 / C 300"
+      },
+      {
+        "metric": "2014–2021",
+        "value": "E-Class"
+      },
+      {
+        "metric": "W212",
+        "value": "E 200 / E 250"
+      },
+      {
+        "metric": "2013–2016",
+        "value": "E-Class"
+      },
+      {
+        "metric": "W213",
+        "value": "E 200 / E 250 / E 300"
+      },
+      {
+        "metric": "2016–2019",
+        "value": "GLA-Class"
+      },
+      {
+        "metric": "X156",
+        "value": "GLA 200 / GLA 220 / GLA 250"
+      },
+      {
+        "metric": "2014–2019",
+        "value": "GLC-Class"
+      },
+      {
+        "metric": "X253",
+        "value": "GLC 200 / GLC 250 / GLC 300"
+      },
+      {
+        "metric": "2015–2019",
+        "value": "SLC-Class"
+      },
+      {
+        "metric": "R172",
+        "value": "SLC 200 / SLC 300"
+      },
+      {
+        "metric": "2016–2019",
+        "value": "SLK-Class"
+      },
+      {
+        "metric": "R172",
+        "value": "SLK 200 / SLK 250"
+      },
+      {
+        "metric": "2011–2015",
+        "value": "V-Class"
+      },
+      {
+        "metric": "W447",
+        "value": "V 200 / V 250"
+      },
+      {
+        "metric": "2014–2019",
+        "value": "Also powers the Infiniti Q50 (2014–2022) and Q60 (2016–2022)."
+      },
+      {
+        "metric": "M274 Replacement Costs",
+        "value": "Condition"
+      },
+      {
+        "metric": "Supply Only",
+        "value": "Fitted (Indie)"
+      },
+      {
+        "metric": "Warranty",
+        "value": "Used"
+      },
+      {
+        "metric": "£800–£1,800",
+        "value": "£1,400–£2,600"
+      },
+      {
+        "metric": "3–6 months",
+        "value": "Reconditioned"
+      },
+      {
+        "metric": "£2,200–£3,800",
+        "value": "£2,800–£4,800"
+      },
+      {
+        "metric": "12 months",
+        "value": "Rebuilt"
+      },
+      {
+        "metric": "£3,500–£5,500",
+        "value": "£4,100–£6,500"
+      },
+      {
+        "metric": "12–24 months",
+        "value": "Labour estimate: Fitting an M274 typically takes 8–12 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer)."
+      },
+      {
+        "metric": "Shared-cost note: Parts cost is identical across Mercedes-Benz and Infiniti applications; labour time varies slightly by engine bay access.",
+        "value": "→ Compare M274 engine prices from UK specialists"
+      },
+      {
+        "metric": "M274 — Frequently Asked Questions",
+        "value": "1. How much does an M274 engine replacement cost?"
+      },
+      {
+        "metric": "A reconditioned M274 typically costs £2,200–£3,800 supply only, varying by specific variant and power output. Fitting adds £800–£1,200 depending on labour rates. Use our calculator for a figure specific to your car.",
+        "value": "2. Is the Mercedes M274 a reliable engine?"
+      },
+      {
+        "metric": "The M274 is rated 3.5★ out of 5 — it won Ward's 10 Best Engines in 2017 and is generally refined and efficient, but camshaft adjuster wear and timing chain tensioner issues are well-documented, especially from 60,000 miles.",
+        "value": "3. What is the most common M274 failure?"
+      },
+      {
+        "metric": "The most common failure is camshaft adjuster (phaser) wear, caused by a design anomaly. Symptoms include cold-start rattle, Check Engine Light, and rough running. Repair requires replacing both camshafts — a £1,000+ job at an independent specialist.",
+        "value": "4. Which Mercedes models use the M274?"
+      },
+      {
+        "metric": "The M274 powered a wide range of Mercedes models including the A-Class (W176), CLA-Class (C117), C-Class (W205), E-Class (W212/W213), GLA-Class (X156), GLC-Class (X253), and SLC/SLK-Class (R172), plus the Infiniti Q50 and Q60.",
+        "value": "5. Is the Mercedes M274 the same as the Infiniti version?"
+      },
+      {
+        "metric": "Yes — Infiniti used the M274 in the Q50 and Q60 under license from Mercedes-Benz. The engine is mechanically identical, though ECU tuning differs slightly between brands. The same camshaft and timing chain issues affect both.",
+        "value": "Why UK M274 Owners Trust MercedesBenzEngine.uk"
+      },
+      {
+        "metric": "* Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M274 owners, as part of the Engine Finders network.",
+        "value": "* Compare Companies: We compare quotes from multiple UK specialists so you can see real M274 replacement prices side by side — no hidden fees, no pressure."
+      },
+      {
+        "metric": "* UK Coverage: Our network spans independent specialists across England, Scotland, Wales and Northern Ireland — wherever you are, we'll find you a trusted M274 specialist nearby.",
+        "value": "Find the best Mercedes M274 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence."
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "",
+    "confidence": "",
+    "scoreNote": "",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": []
+    },
+    "oneLineVerdict": "",
+    "bestFor": "",
+    "avoidIf": ""
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [],
+    "crossBrandNote": ""
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [],
+    "labourEstimate": "",
+    "sharedCostNote": "",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#"
+    }
+  }
+}

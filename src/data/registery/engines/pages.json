@@ -1,5 +1,9 @@
 [
   {
+    "slug": "mercedes-amg-m176-m177",
+    "dataFile": "mercedes-amg-m176-m177"
+  },
+  {
     "slug": "mercedes-benz-m102",
     "dataFile": "mercedes-benz-m102"
   },
@@ -8,8 +12,16 @@
     "dataFile": "mercedes-benz-m103"
   },
   {
+    "slug": "mercedes-benz-m104",
+    "dataFile": "mercedes-benz-m104"
+  },
+  {
     "slug": "mercedes-benz-m111",
     "dataFile": "mercedes-benz-m111"
+  },
+  {
+    "slug": "mercedes-benz-m112",
+    "dataFile": "mercedes-benz-m112"
   },
   {
     "slug": "mercedes-benz-m113",
@@ -28,6 +40,10 @@
     "dataFile": "mercedes-benz-m136"
   },
   {
+    "slug": "mercedes-benz-m137",
+    "dataFile": "mercedes-benz-m137"
+  },
+  {
     "slug": "mercedes-benz-m159-m178-gt",
     "dataFile": "mercedes-benz-m159-m178-gt"
   },
@@ -42,6 +58,10 @@
   {
     "slug": "mercedes-benz-m266",
     "dataFile": "mercedes-benz-m266"
+  },
+  {
+    "slug": "mercedes-benz-m274",
+    "dataFile": "mercedes-benz-m274"
   },
   {
     "slug": "mercedes-benz-m275-m279",
@@ -64,6 +84,10 @@
     "dataFile": "mercedes-benz-om611-om613"
   },
   {
+    "slug": "mercedes-benz-om615-om616-om617",
+    "dataFile": "mercedes-benz-om615-om616-om617"
+  },
+  {
     "slug": "mercedes-benz-om621-om622-om626",
     "dataFile": "mercedes-benz-om621-om622-om626"
   },
@@ -74,6 +98,10 @@
   {
     "slug": "mercedes-benz-om642",
     "dataFile": "mercedes-benz-om642"
+  },
+  {
+    "slug": "mercedes-benz-om646-om647",
+    "dataFile": "mercedes-benz-om646-om647"
   },
   {
     "slug": "mercedes-benz-om648",

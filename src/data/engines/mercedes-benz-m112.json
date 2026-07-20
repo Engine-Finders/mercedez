@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-m112",
+    "title": "Mercedes-Benz M112 Engine — Specs, Reliability & Replacement Cost",
+    "description": "",
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • M112 • Petrol • V6 • 1998–2015",
+    "h1": "Mercedes-Benz M112 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes M112 is Mercedes' first V6 — a durable, smooth petrol six, but its crank pulley and oil leaks are well-known. Backed by enquiry data from EnginesMarket.co.uk.",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Enquiry Data Available"
+      },
+      {
+        "icon": "🔧",
+        "label": "20+ Models Fitted"
+      },
+      {
+        "icon": "💯",
+        "label": "86/100 Engine Score"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Compare M112 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "Mercedes-Benz M112"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "V6, 2.4L–3.7L"
+      },
+      {
+        "metric": "Power Range",
+        "value": "168–354 hp"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "1998–2015"
+      },
+      {
+        "metric": "Models Fitted (Mercedes-Benz only)",
+        "value": "20+ models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Also fitted to Chrysler Crossfire"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "86/100"
+      },
+      {
+        "metric": "M112 — Our Verdict & Rating",
+        "value": "Star rating: 4.0★ out of 5"
+      },
+      {
+        "metric": "Confidence: 90% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
+        "value": "Engine Score breakdown:"
+      },
+      {
+        "metric": "Dimension",
+        "value": "Score (of 20)"
+      },
+      {
+        "metric": "How it's determined",
+        "value": "Reliability"
+      },
+      {
+        "metric": "16",
+        "value": "4.0★ × 4"
+      },
+      {
+        "metric": "Repair Cost",
+        "value": "20"
+      },
+      {
+        "metric": "Reconditioned supply midpoint under £3,000",
+        "value": "Repairability"
+      },
+      {
+        "metric": "16",
+        "value": "Mostly cheap, well-understood repairs (seals, pulleys, sensors)"
+      },
+      {
+        "metric": "Parts Supply",
+        "value": "20"
+      },
+      {
+        "metric": "Parts cheap and available from multiple UK suppliers",
+        "value": "Replacement Economics"
+      },
+      {
+        "metric": "14",
+        "value": "Recon cost 45–59% of lowest host-vehicle value"
+      },
+      {
+        "metric": "Total",
+        "value": "86/100"
+      },
+      {
+        "metric": "Sum of five rows above",
+        "value": "One-line verdict: The M112 is one of Mercedes' most durable V6s — its main weakness is the crank pulley rubber degrading, not internal failure — buy with service history and inspect the pulley."
+      },
+      {
+        "metric": "Best for: Buyers wanting a smooth, reliable V6 Mercedes without the M272's balance shaft issues.",
+        "value": "Avoid if: You're looking at an early M112 with no documented crank pulley replacement above 80,000 miles."
+      },
+      {
+        "metric": "M112 — Where It's Fitted (Mercedes-Benz Models)",
+        "value": "Model"
+      },
+      {
+        "metric": "Generation",
+        "value": "Variant/Badge"
+      },
+      {
+        "metric": "Years",
+        "value": "C-Class"
+      },
+      {
+        "metric": "W202",
+        "value": "C 240 / C 280"
+      },
+      {
+        "metric": "1996–2000",
+        "value": "C-Class"
+      },
+      {
+        "metric": "W203",
+        "value": "C 240 / C 320"
+      },
+      {
+        "metric": "2000–2005",
+        "value": "E-Class"
+      },
+      {
+        "metric": "W210",
+        "value": "E 240 / E 280 / E 320"
+      },
+      {
+        "metric": "1998–2002",
+        "value": "E-Class"
+      },
+      {
+        "metric": "W211",
+        "value": "E 240 / E 320"
+      },
+      {
+        "metric": "2000–2005",
+        "value": "S-Class"
+      },
+      {
+        "metric": "W220",
+        "value": "S 280 / S 320"
+      },
+      {
+        "metric": "1998–2002",
+        "value": "CLK-Class"
+      },
+      {
+        "metric": "W208 / C208",
+        "value": "CLK 240 / CLK 320"
+      },
+      {
+        "metric": "1998–2002",
+        "value": "CLK-Class"
+      },
+      {
+        "metric": "C209",
+        "value": "CLK 240 / CLK 320"
+      },
+      {
+        "metric": "2002–2005",
+        "value": "SLK-Class"
+      },
+      {
+        "metric": "R170",
+        "value": "SLK 320"
+      },
+      {
+        "metric": "2000–2003",
+        "value": "M-Class"
+      },
+      {
+        "metric": "W163",
+        "value": "ML 320"
+      },
+      {
+        "metric": "1998–2003",
+        "value": "G-Class"
+      },
+      {
+        "metric": "W463",
+        "value": "G 320"
+      },
+      {
+        "metric": "1997–2006",
+        "value": "SL-Class"
+      },
+      {
+        "metric": "R129",
+        "value": "SL 320"
+      },
+      {
+        "metric": "1998–2001",
+        "value": "Viano / Vito"
+      },
+      {
+        "metric": "W639",
+        "value": "Viano 3.0 / Vito 119"
+      },
+      {
+        "metric": "2003–2015",
+        "value": "C 32 AMG"
+      },
+      {
+        "metric": "W203",
+        "value": "C 32 AMG (supercharged)"
+      },
+      {
+        "metric": "2001–2004",
+        "value": "SLK 32 AMG"
+      },
+      {
+        "metric": "R170",
+        "value": "SLK 32 AMG (supercharged)"
+      },
+      {
+        "metric": "2001–2004",
+        "value": "Also powers the Chrysler Crossfire (2004–2008)."
+      },
+      {
+        "metric": "M112 Replacement Costs",
+        "value": "Condition"
+      },
+      {
+        "metric": "Supply Only",
+        "value": "Fitted (Indie)"
+      },
+      {
+        "metric": "Warranty",
+        "value": "Used"
+      },
+      {
+        "metric": "£400–£900",
+        "value": "£1,000–£1,600"
+      },
+      {
+        "metric": "3–6 months",
+        "value": "Reconditioned"
+      },
+      {
+        "metric": "£1,200–£2,200",
+        "value": "£1,800–£3,100"
+      },
+      {
+        "metric": "12 months",
+        "value": "Rebuilt"
+      },
+      {
+        "metric": "£2,000–£3,500",
+        "value": "£2,600–£4,400"
+      },
+      {
+        "metric": "12–24 months",
+        "value": "Labour estimate: Fitting an M112 typically takes 8–12 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer)."
+      },
+      {
+        "metric": "→ Compare M112 engine prices from UK specialists",
+        "value": "M112 — Frequently Asked Questions"
+      },
+      {
+        "metric": "1. How much does an M112 engine replacement cost?",
+        "value": "A reconditioned M112 typically costs £1,200–£2,200 supply only, varying by displacement and specific variant. Fitting adds £800–£1,200 depending on labour rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "metric": "2. Is the Mercedes M112 a reliable engine?",
+        "value": "Yes — the M112 is widely regarded as one of Mercedes' most durable V6 engines, rated 4.0★ out of 5. It suffers few major failures, and most issues are cheap, well-understood repairs."
+      },
+      {
+        "metric": "3. What is the most common M112 failure?",
+        "value": "The most common failure is the crank pulley rubber disintegrating — a cheap, straightforward fix. Oil leaks from valve cover breathers (PCV system) are also reported."
+      },
+      {
+        "metric": "4. Which Mercedes models use the M112?",
+        "value": "The M112 powered a wide range of Mercedes models including the C-Class (W202/W203), E-Class (W210/W211), S-Class (W220), CLK, SLK, M-Class, G-Class, and Viano/Vito, plus the Chrysler Crossfire."
+      },
+      {
+        "metric": "5. How long does the M112 last?",
+        "value": "With proper maintenance — regular oil changes and crank pulley inspections — the M112 is capable of 200,000+ miles. It is considered significantly more durable than its M272 successor."
+      },
+      {
+        "metric": "Why UK M112 Owners Trust MercedesBenzEngine.uk",
+        "value": "* Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M112 owners, as part of the Engine Finders network."
+      },
+      {
+        "metric": "* Compare Companies: We compare quotes from multiple UK specialists so you can see real M112 replacement prices side by side — no hidden fees, no pressure.",
+        "value": "* UK Coverage: Our network spans independent specialists across England, Scotland, Wales and Northern Ireland — wherever you are, we'll find you a trusted M112 specialist nearby."
+      },
+      {
+        "metric": "Find the best Mercedes M112 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+        "value": "CTA Button: Compare Mercedes M112 Engine Prices Now →"
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "",
+    "confidence": "",
+    "scoreNote": "",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": []
+    },
+    "oneLineVerdict": "",
+    "bestFor": "",
+    "avoidIf": ""
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [],
+    "crossBrandNote": ""
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [],
+    "labourEstimate": "",
+    "sharedCostNote": "",
+    "cta": {
+      "label": "",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": []
+  },
+  "trustCta": {
+    "trustPoints": [],
+    "finalCta": "",
+    "ctaButton": {
+      "label": "",
+      "href": "#"
+    }
+  }
+}
