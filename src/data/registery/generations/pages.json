@@ -1,422 +1,632 @@
 [
-  {
-    "slug": "mercedes-a-class-w176",
-    "dataFile": "mercedes-a-class-w176"
-  },
-  {
-    "slug": "mercedes-amg-gt-x290",
-    "dataFile": "mercedes-amg-gt-x290"
-  },
-  {
-    "slug": "mercedes-b-class-w245",
-    "dataFile": "mercedes-b-class-w245"
-  },
-  {
-    "slug": "mercedes-b-class-w246",
-    "dataFile": "mercedes-b-class-w246"
-  },
-  {
-    "slug": "mercedes-b-class-w247",
-    "dataFile": "mercedes-b-class-w247"
-  },
-  {
-    "slug": "mercedes-c-class-cl203",
-    "dataFile": "mercedes-c-class-cl203"
-  },
-  {
-    "slug": "mercedes-c-class-s205",
-    "dataFile": "mercedes-c-class-s205"
-  },
-  {
-    "slug": "mercedes-c-class-w203",
-    "dataFile": "mercedes-c-class-w203"
-  },
-  {
-    "slug": "mercedes-c-class-w204",
-    "dataFile": "mercedes-c-class-w204"
-  },
-  {
-    "slug": "mercedes-c-class-w206",
-    "dataFile": "mercedes-c-class-w206"
-  },
-  {
-    "slug": "mercedes-citan-w415",
-    "dataFile": "mercedes-citan-w415"
-  },
-  {
-    "slug": "mercedes-cla-class-c117",
-    "dataFile": "mercedes-cla-class-c117"
-  },
-  {
-    "slug": "mercedes-clc-class-cl203",
-    "dataFile": "mercedes-clc-class-cl203"
-  },
-  {
-    "slug": "mercedes-clk-class-a209",
-    "dataFile": "mercedes-clk-class-a209"
-  },
-  {
-    "slug": "mercedes-clk-class-c208",
-    "dataFile": "mercedes-clk-class-c208"
-  },
-  {
-    "slug": "mercedes-cls-class-c218",
-    "dataFile": "mercedes-cls-class-c218"
-  },
-  {
-    "slug": "mercedes-cls-class-c219",
-    "dataFile": "mercedes-cls-class-c219"
-  },
-  {
-    "slug": "mercedes-cls-class-x218",
-    "dataFile": "mercedes-cls-class-x218"
-  },
-  {
-    "slug": "mercedes-e-class-s210",
-    "dataFile": "mercedes-e-class-s210"
-  },
-  {
-    "slug": "mercedes-e-class-s211",
-    "dataFile": "mercedes-e-class-s211"
-  },
-  {
-    "slug": "mercedes-e-class-s212",
-    "dataFile": "mercedes-e-class-s212"
-  },
-  {
-    "slug": "mercedes-e-class-s213",
-    "dataFile": "mercedes-e-class-s213"
-  },
-  {
-    "slug": "mercedes-e-class-s214",
-    "dataFile": "mercedes-e-class-s214"
-  },
-  {
-    "slug": "mercedes-e-class-w210",
-    "dataFile": "mercedes-e-class-w210"
-  },
-  {
-    "slug": "mercedes-g-class-w460",
-    "dataFile": "mercedes-g-class-w460"
-  },
-  {
-    "slug": "mercedes-g-class-w461",
-    "dataFile": "mercedes-g-class-w461"
-  },
-  {
-    "slug": "mercedes-g-class-w463",
-    "dataFile": "mercedes-g-class-w463"
-  },
-  {
-    "slug": "mercedes-gl-class-x164",
-    "dataFile": "mercedes-gl-class-x164"
-  },
-  {
-    "slug": "mercedes-gla-class-h247",
-    "dataFile": "mercedes-gla-class-h247"
-  },
-  {
-    "slug": "mercedes-glc-class-c254",
-    "dataFile": "mercedes-glc-class-c254"
-  },
-  {
-    "slug": "mercedes-gle-class-c292",
-    "dataFile": "mercedes-gle-class-c292"
-  },
-  {
-    "slug": "mercedes-gle-class-v167",
-    "dataFile": "mercedes-gle-class-v167"
-  },
-  {
-    "slug": "mercedes-gle-class-w166",
-    "dataFile": "mercedes-gle-class-w166"
-  },
-  {
-    "slug": "mercedes-m-class-w164",
-    "dataFile": "mercedes-m-class-w164"
-  },
-  {
-    "slug": "mercedes-m-class-w166",
-    "dataFile": "mercedes-m-class-w166"
-  },
-  {
-    "slug": "mercedes-r-class-w251",
-    "dataFile": "mercedes-r-class-w251"
-  },
-  {
-    "slug": "mercedes-s-class-a217",
-    "dataFile": "mercedes-s-class-a217"
-  },
-  {
-    "slug": "mercedes-s-class-c215",
-    "dataFile": "mercedes-s-class-c215"
-  },
-  {
-    "slug": "mercedes-s-class-c217",
-    "dataFile": "mercedes-s-class-c217"
-  },
-  {
-    "slug": "mercedes-s-class-w140",
-    "dataFile": "mercedes-s-class-w140"
-  },
-  {
-    "slug": "mercedes-s-class-w223",
-    "dataFile": "mercedes-s-class-w223"
-  },
-  {
-    "slug": "mercedes-sl-class-r129",
-    "dataFile": "mercedes-sl-class-r129"
-  },
-  {
-    "slug": "mercedes-slk-class-r172",
-    "dataFile": "mercedes-slk-class-r172"
-  },
-  {
-    "slug": "mercedes-sls-amg-c197",
-    "dataFile": "mercedes-sls-amg-c197"
-  },
-  {
-    "slug": "mercedes-sls-amg-r197",
-    "dataFile": "mercedes-sls-amg-r197"
-  },
-  {
-    "slug": "mercedes-sprinter-w901-905",
-    "dataFile": "mercedes-sprinter-w901-905"
-  },
-  {
-    "slug": "mercedes-viano-w639",
-    "dataFile": "mercedes-viano-w639"
-  },
-  {
-    "slug": "mercedes-vito-w447",
-    "dataFile": "mercedes-vito-w447"
-  },
-  {
-    "slug": "mercedes-vito-w638",
-    "dataFile": "mercedes-vito-w638"
-  },
-  {
-    "slug": "mercedes-vito-w639",
-    "dataFile": "mercedes-vito-w639"
-  },
-  {
-    "slug": "mercedes-a-class-w168",
-    "dataFile": "mercedes-a-class-w168"
-  },
-  {
-    "slug": "mercedes-a-class-w169",
-    "dataFile": "mercedes-a-class-w169"
-  },
-  {
-    "slug": "mercedes-a-class-w177",
-    "dataFile": "mercedes-a-class-w177"
-  },
-  {
-    "slug": "mercedes-amg-gt-c190",
-    "dataFile": "mercedes-amg-gt-c190"
-  },
-  {
-    "slug": "mercedes-amg-gt-r190",
-    "dataFile": "mercedes-amg-gt-r190"
-  },
-  {
-    "slug": "mercedes-benz-a207",
-    "dataFile": "mercedes-benz-a207"
-  },
-  {
-    "slug": "mercedes-benz-c-class-w205",
-    "dataFile": "mercedes-benz-c-class-w205"
-  },
-  {
-    "slug": "mercedes-benz-c140",
-    "dataFile": "mercedes-benz-c140"
-  },
-  {
-    "slug": "mercedes-benz-c204-coup",
-    "dataFile": "mercedes-benz-c204-coup"
-  },
-  {
-    "slug": "mercedes-benz-citan-w420",
-    "dataFile": "mercedes-benz-citan-w420"
-  },
-  {
-    "slug": "mercedes-benz-cla-c118",
-    "dataFile": "mercedes-benz-cla-c118"
-  },
-  {
-    "slug": "mercedes-benz-cla-class-x118",
-    "dataFile": "mercedes-benz-cla-class-x118"
-  },
-  {
-    "slug": "mercedes-benz-e-class-c238-2",
-    "dataFile": "mercedes-benz-e-class-c238-2"
-  },
-  {
-    "slug": "mercedes-benz-e-class-c238",
-    "dataFile": "mercedes-benz-e-class-c238"
-  },
-  {
-    "slug": "mercedes-benz-e-class-s124",
-    "dataFile": "mercedes-benz-e-class-s124"
-  },
-  {
-    "slug": "mercedes-benz-g-class-w463-ii",
-    "dataFile": "mercedes-benz-g-class-w463-ii"
-  },
-  {
-    "slug": "mercedes-benz-gle-c167",
-    "dataFile": "mercedes-benz-gle-c167"
-  },
-  {
-    "slug": "mercedes-benz-gls-x166",
-    "dataFile": "mercedes-benz-gls-x166"
-  },
-  {
-    "slug": "mercedes-benz-s-class-w221",
-    "dataFile": "mercedes-benz-s-class-w221"
-  },
-  {
-    "slug": "mercedes-benz-sl-r230",
-    "dataFile": "mercedes-benz-sl-r230"
-  },
-  {
-    "slug": "mercedes-benz-slc-r172",
-    "dataFile": "mercedes-benz-slc-r172"
-  },
-  {
-    "slug": "mercedes-benz-sprinter-w906",
-    "dataFile": "mercedes-benz-sprinter-w906"
-  },
-  {
-    "slug": "mercedes-benz-w124",
-    "dataFile": "mercedes-benz-w124"
-  },
-  {
-    "slug": "mercedes-c-class-a205",
-    "dataFile": "mercedes-c-class-a205"
-  },
-  {
-    "slug": "mercedes-c-class-c205",
-    "dataFile": "mercedes-c-class-c205"
-  },
-  {
-    "slug": "mercedes-c-class-s202",
-    "dataFile": "mercedes-c-class-s202"
-  },
-  {
-    "slug": "mercedes-c-class-s203",
-    "dataFile": "mercedes-c-class-s203"
-  },
-  {
-    "slug": "mercedes-c-class-s204",
-    "dataFile": "mercedes-c-class-s204"
-  },
-  {
-    "slug": "mercedes-c-class-s206",
-    "dataFile": "mercedes-c-class-s206"
-  },
-  {
-    "slug": "mercedes-c-class-w202",
-    "dataFile": "mercedes-c-class-w202"
-  },
-  {
-    "slug": "mercedes-cl-c216",
-    "dataFile": "mercedes-cl-c216"
-  },
-  {
-    "slug": "mercedes-cla-x117",
-    "dataFile": "mercedes-cla-x117"
-  },
-  {
-    "slug": "mercedes-clk-a208",
-    "dataFile": "mercedes-clk-a208"
-  },
-  {
-    "slug": "mercedes-clk-c209",
-    "dataFile": "mercedes-clk-c209"
-  },
-  {
-    "slug": "mercedes-cls-c257",
-    "dataFile": "mercedes-cls-c257"
-  },
-  {
-    "slug": "mercedes-e-class-a238",
-    "dataFile": "mercedes-e-class-a238"
-  },
-  {
-    "slug": "mercedes-e-class-w211",
-    "dataFile": "mercedes-e-class-w211"
-  },
-  {
-    "slug": "mercedes-e-class-w212",
-    "dataFile": "mercedes-e-class-w212"
-  },
-  {
-    "slug": "mercedes-e-class-w213",
-    "dataFile": "mercedes-e-class-w213"
-  },
-  {
-    "slug": "mercedes-e-class-w214",
-    "dataFile": "mercedes-e-class-w214"
-  },
-  {
-    "slug": "mercedes-gla-x156",
-    "dataFile": "mercedes-gla-x156"
-  },
-  {
-    "slug": "mercedes-glc-class-c253",
-    "dataFile": "mercedes-glc-class-c253"
-  },
-  {
-    "slug": "mercedes-glc-x254",
-    "dataFile": "mercedes-glc-x254"
-  },
-  {
-    "slug": "mercedes-glk-x204",
-    "dataFile": "mercedes-glk-x204"
-  },
-  {
-    "slug": "mercedes-gls-x167",
-    "dataFile": "mercedes-gls-x167"
-  },
-  {
-    "slug": "mercedes-m-class-w163",
-    "dataFile": "mercedes-m-class-w163"
-  },
-  {
-    "slug": "mercedes-s-class-w220",
-    "dataFile": "mercedes-s-class-w220"
-  },
-  {
-    "slug": "mercedes-s-class-w222",
-    "dataFile": "mercedes-s-class-w222"
-  },
-  {
-    "slug": "mercedes-sl-r231",
-    "dataFile": "mercedes-sl-r231"
-  },
-  {
-    "slug": "mercedes-sl-r232",
-    "dataFile": "mercedes-sl-r232"
-  },
-  {
-    "slug": "mercedes-slk-r170",
-    "dataFile": "mercedes-slk-r170"
-  },
-  {
-    "slug": "mercedes-slk-r171",
-    "dataFile": "mercedes-slk-r171"
-  },
-  {
-    "slug": "mercedes-sprinter-w907",
-    "dataFile": "mercedes-sprinter-w907"
-  },
-  {
-    "slug": "mercedes-v-class-w447",
-    "dataFile": "mercedes-v-class-w447"
-  },
-  {
-    "slug": "mercedes-vaneo-w414",
-    "dataFile": "mercedes-vaneo-w414"
-  }
+    {
+        "parent":  "a-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-a-class-w168",
+        "slug":  "w168"
+    },
+    {
+        "parent":  "a-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-a-class-w169",
+        "slug":  "w169"
+    },
+    {
+        "parent":  "a-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-a-class-w176",
+        "slug":  "w176"
+    },
+    {
+        "parent":  "a-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-a-class-w177",
+        "slug":  "w177"
+    },
+    {
+        "parent":  "amg-gt",
+        "type":  "generations",
+        "dataFile":  "mercedes-amg-gt-c190",
+        "slug":  "c190"
+    },
+    {
+        "parent":  "amg-gt",
+        "type":  "generations",
+        "dataFile":  "mercedes-amg-gt-r190",
+        "slug":  "r190"
+    },
+    {
+        "parent":  "amg-gt",
+        "type":  "generations",
+        "dataFile":  "mercedes-amg-gt-x290",
+        "slug":  "x290"
+    },
+    {
+        "parent":  "b-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-b-class-w245",
+        "slug":  "w245"
+    },
+    {
+        "parent":  "b-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-b-class-w246",
+        "slug":  "w246"
+    },
+    {
+        "parent":  "b-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-b-class-w247",
+        "slug":  "w247"
+    },
+    {
+        "parent":  "a207",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-a207",
+        "slug":  "a207"
+    },
+    {
+        "parent":  "c140",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-c140",
+        "slug":  "c140"
+    },
+    {
+        "parent":  "c204-coup",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-c204-coup",
+        "slug":  "c204-coup"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-c-class-w205",
+        "slug":  "w205"
+    },
+    {
+        "parent":  "citan",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-citan-w420",
+        "slug":  "w420"
+    },
+    {
+        "parent":  "cla",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-cla-c118",
+        "slug":  "c118"
+    },
+    {
+        "parent":  "cla",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-cla-class-x118",
+        "slug":  "x118"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-e-class-c238",
+        "slug":  "c238"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-e-class-c238-2",
+        "slug":  "c238-2"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-e-class-s124",
+        "slug":  "s124"
+    },
+    {
+        "parent":  "g-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-g-class-w463-ii",
+        "slug":  "w463-ii"
+    },
+    {
+        "parent":  "gle",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-gle-c167",
+        "slug":  "c167"
+    },
+    {
+        "parent":  "gls",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-gls-x166",
+        "slug":  "x166"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-s-class-w221",
+        "slug":  "w221"
+    },
+    {
+        "parent":  "slc",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-slc-r172",
+        "slug":  "r172"
+    },
+    {
+        "parent":  "sl",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-sl-r230",
+        "slug":  "r230"
+    },
+    {
+        "parent":  "sprinter",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-sprinter-w906",
+        "slug":  "w906"
+    },
+    {
+        "parent":  "w124",
+        "type":  "generations",
+        "dataFile":  "mercedes-benz-w124",
+        "slug":  "w124"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-a205",
+        "slug":  "a205"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-c205",
+        "slug":  "c205"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-cl203",
+        "slug":  "cl203"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-s202",
+        "slug":  "s202"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-s203",
+        "slug":  "s203"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-s204",
+        "slug":  "s204"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-s205",
+        "slug":  "s205"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-s206",
+        "slug":  "s206"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-w202",
+        "slug":  "w202"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-w203",
+        "slug":  "w203"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-w204",
+        "slug":  "w204"
+    },
+    {
+        "parent":  "c-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-c-class-w206",
+        "slug":  "w206"
+    },
+    {
+        "parent":  "citan",
+        "type":  "generations",
+        "dataFile":  "mercedes-citan-w415",
+        "slug":  "w415"
+    },
+    {
+        "parent":  "cla",
+        "type":  "generations",
+        "dataFile":  "mercedes-cla-class-c117",
+        "slug":  "c117"
+    },
+    {
+        "parent":  "cla",
+        "type":  "generations",
+        "dataFile":  "mercedes-cla-x117",
+        "slug":  "x117"
+    },
+    {
+        "parent":  "cl-c216",
+        "type":  "generations",
+        "dataFile":  "mercedes-cl-c216",
+        "slug":  "cl-c216"
+    },
+    {
+        "parent":  "clc",
+        "type":  "generations",
+        "dataFile":  "mercedes-clc-class-cl203",
+        "slug":  "cl203"
+    },
+    {
+        "parent":  "clk",
+        "type":  "generations",
+        "dataFile":  "mercedes-clk-a208",
+        "slug":  "a208"
+    },
+    {
+        "parent":  "clk",
+        "type":  "generations",
+        "dataFile":  "mercedes-clk-c209",
+        "slug":  "c209"
+    },
+    {
+        "parent":  "clk",
+        "type":  "generations",
+        "dataFile":  "mercedes-clk-class-a209",
+        "slug":  "a209"
+    },
+    {
+        "parent":  "clk",
+        "type":  "generations",
+        "dataFile":  "mercedes-clk-class-c208",
+        "slug":  "c208"
+    },
+    {
+        "parent":  "cls",
+        "type":  "generations",
+        "dataFile":  "mercedes-cls-c257",
+        "slug":  "c257"
+    },
+    {
+        "parent":  "cls",
+        "type":  "generations",
+        "dataFile":  "mercedes-cls-class-c218",
+        "slug":  "c218"
+    },
+    {
+        "parent":  "cls",
+        "type":  "generations",
+        "dataFile":  "mercedes-cls-class-c219",
+        "slug":  "c219"
+    },
+    {
+        "parent":  "cls",
+        "type":  "generations",
+        "dataFile":  "mercedes-cls-class-x218",
+        "slug":  "x218"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-a238",
+        "slug":  "a238"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-s210",
+        "slug":  "s210"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-s211",
+        "slug":  "s211"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-s212",
+        "slug":  "s212"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-s213",
+        "slug":  "s213"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-s214",
+        "slug":  "s214"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-w210",
+        "slug":  "w210"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-w211",
+        "slug":  "w211"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-w212",
+        "slug":  "w212"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-w213",
+        "slug":  "w213"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-w214",
+        "slug":  "w214"
+    },
+    {
+        "parent":  "g-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-g-class-w460",
+        "slug":  "w460"
+    },
+    {
+        "parent":  "g-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-g-class-w461",
+        "slug":  "w461"
+    },
+    {
+        "parent":  "g-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-g-class-w463",
+        "slug":  "w463"
+    },
+    {
+        "parent":  "gla",
+        "type":  "generations",
+        "dataFile":  "mercedes-gla-class-h247",
+        "slug":  "h247"
+    },
+    {
+        "parent":  "gla",
+        "type":  "generations",
+        "dataFile":  "mercedes-gla-x156",
+        "slug":  "x156"
+    },
+    {
+        "parent":  "glc",
+        "type":  "generations",
+        "dataFile":  "mercedes-glc-class-c253",
+        "slug":  "c253"
+    },
+    {
+        "parent":  "glc",
+        "type":  "generations",
+        "dataFile":  "mercedes-glc-class-c254",
+        "slug":  "c254"
+    },
+    {
+        "parent":  "gl-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-gl-class-x164",
+        "slug":  "x164"
+    },
+    {
+        "parent":  "glc",
+        "type":  "generations",
+        "dataFile":  "mercedes-glc-x254",
+        "slug":  "x254"
+    },
+    {
+        "parent":  "gle",
+        "type":  "generations",
+        "dataFile":  "mercedes-gle-class-c292",
+        "slug":  "c292"
+    },
+    {
+        "parent":  "gle",
+        "type":  "generations",
+        "dataFile":  "mercedes-gle-class-v167",
+        "slug":  "v167"
+    },
+    {
+        "parent":  "gle",
+        "type":  "generations",
+        "dataFile":  "mercedes-gle-class-w166",
+        "slug":  "w166"
+    },
+    {
+        "parent":  "glk",
+        "type":  "generations",
+        "dataFile":  "mercedes-glk-x204",
+        "slug":  "x204"
+    },
+    {
+        "parent":  "gls",
+        "type":  "generations",
+        "dataFile":  "mercedes-gls-x167",
+        "slug":  "x167"
+    },
+    {
+        "parent":  "m-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-m-class-w163",
+        "slug":  "w163"
+    },
+    {
+        "parent":  "m-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-m-class-w164",
+        "slug":  "w164"
+    },
+    {
+        "parent":  "m-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-m-class-w166",
+        "slug":  "w166"
+    },
+    {
+        "parent":  "r-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-r-class-w251",
+        "slug":  "w251"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-s-class-a217",
+        "slug":  "a217"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-s-class-c215",
+        "slug":  "c215"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-s-class-c217",
+        "slug":  "c217"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-s-class-w140",
+        "slug":  "w140"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-s-class-w220",
+        "slug":  "w220"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-s-class-w222",
+        "slug":  "w222"
+    },
+    {
+        "parent":  "s-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-s-class-w223",
+        "slug":  "w223"
+    },
+    {
+        "parent":  "sl",
+        "type":  "generations",
+        "dataFile":  "mercedes-sl-class-r129",
+        "slug":  "r129"
+    },
+    {
+        "parent":  "slk",
+        "type":  "generations",
+        "dataFile":  "mercedes-slk-class-r172",
+        "slug":  "r172"
+    },
+    {
+        "parent":  "slk",
+        "type":  "generations",
+        "dataFile":  "mercedes-slk-r170",
+        "slug":  "r170"
+    },
+    {
+        "parent":  "slk",
+        "type":  "generations",
+        "dataFile":  "mercedes-slk-r171",
+        "slug":  "r171"
+    },
+    {
+        "parent":  "sl",
+        "type":  "generations",
+        "dataFile":  "mercedes-sl-r231",
+        "slug":  "r231"
+    },
+    {
+        "parent":  "sl",
+        "type":  "generations",
+        "dataFile":  "mercedes-sl-r232",
+        "slug":  "r232"
+    },
+    {
+        "parent":  "sls-amg",
+        "type":  "generations",
+        "dataFile":  "mercedes-sls-amg-c197",
+        "slug":  "c197"
+    },
+    {
+        "parent":  "sls-amg",
+        "type":  "generations",
+        "dataFile":  "mercedes-sls-amg-r197",
+        "slug":  "r197"
+    },
+    {
+        "parent":  "sprinter",
+        "type":  "generations",
+        "dataFile":  "mercedes-sprinter-w901-905",
+        "slug":  "w901-905"
+    },
+    {
+        "parent":  "sprinter",
+        "type":  "generations",
+        "dataFile":  "mercedes-sprinter-w907",
+        "slug":  "w907"
+    },
+    {
+        "parent":  "vaneo",
+        "type":  "generations",
+        "dataFile":  "mercedes-vaneo-w414",
+        "slug":  "w414"
+    },
+    {
+        "parent":  "v-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-v-class-w447",
+        "slug":  "w447"
+    },
+    {
+        "parent":  "viano",
+        "type":  "generations",
+        "dataFile":  "mercedes-viano-w639",
+        "slug":  "w639"
+    },
+    {
+        "parent":  "vito",
+        "type":  "generations",
+        "dataFile":  "mercedes-vito-w447",
+        "slug":  "w447"
+    },
+    {
+        "parent":  "vito",
+        "type":  "generations",
+        "dataFile":  "mercedes-vito-w638",
+        "slug":  "w638"
+    },
+    {
+        "parent":  "vito",
+        "type":  "generations",
+        "dataFile":  "mercedes-vito-w639",
+        "slug":  "w639"
+    }
 ]

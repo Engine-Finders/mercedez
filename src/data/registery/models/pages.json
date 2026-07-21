@@ -1,142 +1,142 @@
 [
-  {
-    "slug": "vario",
-    "type": "models",
-    "dataFile": "vario"
-  },
-  {
-    "slug": "vaneo",
-    "type": "models",
-    "dataFile": "vaneo"
-  },
-  {
-    "slug": "citan",
-    "type": "models",
-    "dataFile": "citan"
-  },
-  {
-    "slug": "viano",
-    "type": "models",
-    "dataFile": "viano"
-  },
-  {
-    "slug": "v-class",
-    "type": "models",
-    "dataFile": "v-class"
-  },
-  {
-    "slug": "vito",
-    "type": "models",
-    "dataFile": "vito"
-  },
-  {
-    "slug": "sprinter",
-    "type": "models",
-    "dataFile": "sprinter"
-  },
-  {
-    "slug": "amg-gt",
-    "type": "models",
-    "dataFile": "amg-gt"
-  },
-  {
-    "slug": "sls-amg",
-    "type": "models",
-    "dataFile": "sls-amg"
-  },
-  {
-    "slug": "slk-slc",
-    "type": "models",
-    "dataFile": "slk-slc"
-  },
-  {
-    "slug": "sl",
-    "type": "models",
-    "dataFile": "sl"
-  },
-  {
-    "slug": "r-class",
-    "type": "models",
-    "dataFile": "r-class"
-  },
-  {
-    "slug": "m-class",
-    "type": "models",
-    "dataFile": "m-class"
-  },
-  {
-    "slug": "gls",
-    "type": "models",
-    "dataFile": "gls"
-  },
-  {
-    "slug": "glk",
-    "type": "models",
-    "dataFile": "glk"
-  },
-  {
-    "slug": "gle",
-    "type": "models",
-    "dataFile": "gle"
-  },
-  {
-    "slug": "glc",
-    "type": "models",
-    "dataFile": "glc"
-  },
-  {
-    "slug": "gla",
-    "type": "models",
-    "dataFile": "gla"
-  },
-  {
-    "slug": "g-class",
-    "type": "models",
-    "dataFile": "g-class"
-  },
-  {
-    "slug": "s-class",
-    "type": "models",
-    "dataFile": "s-class"
-  },
-  {
-    "slug": "e-class",
-    "type": "models",
-    "dataFile": "e-class"
-  },
-  {
-    "slug": "cls",
-    "type": "models",
-    "dataFile": "cls"
-  },
-  {
-    "slug": "clc-class",
-    "type": "models",
-    "dataFile": "clc-class"
-  },
-  {
-    "slug": "clk",
-    "type": "models",
-    "dataFile": "clk"
-  },
-  {
-    "slug": "c-class",
-    "type": "models",
-    "dataFile": "c-class"
-  },
-  {
-    "slug": "cla",
-    "type": "models",
-    "dataFile": "cla"
-  },
-  {
-    "slug": "b-class",
-    "type": "models",
-    "dataFile": "b-class"
-  },
-  {
-    "slug": "a-class",
-    "type": "models",
-    "dataFile": "a-class"
-  }
+    {
+        "dataFile":  "a-class",
+        "type":  "models",
+        "slug":  "a-class"
+    },
+    {
+        "dataFile":  "amg-gt",
+        "type":  "models",
+        "slug":  "amg-gt"
+    },
+    {
+        "dataFile":  "b-class",
+        "type":  "models",
+        "slug":  "b-class"
+    },
+    {
+        "dataFile":  "c-class",
+        "type":  "models",
+        "slug":  "c-class"
+    },
+    {
+        "dataFile":  "citan",
+        "type":  "models",
+        "slug":  "citan"
+    },
+    {
+        "dataFile":  "cla",
+        "type":  "models",
+        "slug":  "cla"
+    },
+    {
+        "dataFile":  "clc-class",
+        "type":  "models",
+        "slug":  "clc-class"
+    },
+    {
+        "dataFile":  "clk",
+        "type":  "models",
+        "slug":  "clk"
+    },
+    {
+        "dataFile":  "cls",
+        "type":  "models",
+        "slug":  "cls"
+    },
+    {
+        "dataFile":  "e-class",
+        "type":  "models",
+        "slug":  "e-class"
+    },
+    {
+        "dataFile":  "g-class",
+        "type":  "models",
+        "slug":  "g-class"
+    },
+    {
+        "dataFile":  "gla",
+        "type":  "models",
+        "slug":  "gla"
+    },
+    {
+        "dataFile":  "glc",
+        "type":  "models",
+        "slug":  "glc"
+    },
+    {
+        "dataFile":  "gle",
+        "type":  "models",
+        "slug":  "gle"
+    },
+    {
+        "dataFile":  "glk",
+        "type":  "models",
+        "slug":  "glk"
+    },
+    {
+        "dataFile":  "gls",
+        "type":  "models",
+        "slug":  "gls"
+    },
+    {
+        "dataFile":  "m-class",
+        "type":  "models",
+        "slug":  "m-class"
+    },
+    {
+        "dataFile":  "r-class",
+        "type":  "models",
+        "slug":  "r-class"
+    },
+    {
+        "dataFile":  "s-class",
+        "type":  "models",
+        "slug":  "s-class"
+    },
+    {
+        "dataFile":  "sl",
+        "type":  "models",
+        "slug":  "sl"
+    },
+    {
+        "dataFile":  "slk-slc",
+        "type":  "models",
+        "slug":  "slk-slc"
+    },
+    {
+        "dataFile":  "sls-amg",
+        "type":  "models",
+        "slug":  "sls-amg"
+    },
+    {
+        "dataFile":  "sprinter",
+        "type":  "models",
+        "slug":  "sprinter"
+    },
+    {
+        "dataFile":  "vaneo",
+        "type":  "models",
+        "slug":  "vaneo"
+    },
+    {
+        "dataFile":  "vario",
+        "type":  "models",
+        "slug":  "vario"
+    },
+    {
+        "dataFile":  "v-class",
+        "type":  "models",
+        "slug":  "v-class"
+    },
+    {
+        "dataFile":  "viano",
+        "type":  "models",
+        "slug":  "viano"
+    },
+    {
+        "dataFile":  "vito",
+        "type":  "models",
+        "slug":  "vito"
+    }
 ]
