@@ -1,24 +1,252 @@
 {
   "meta": {
     "slug": "vito",
-    "title": "Vito Engines — The Complete UK Guide",
-    "titleCharCount": 36,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "Vito Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Vito engine — OM651, OM654, OM642, OM646, OM611. 3 generations, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+    "descriptionCharCount": 158,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Vito Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Vito engine — OM651, OM654, OM642, OM646, OM611. 3 generations, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/vito/",
+      "image": "https://mercedesengine.uk/images/mercedes-vito-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "Vito Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Vito engine — OM651, OM654, OM642, OM646, OM611. 3 generations, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vito",
+              "item": "https://mercedesengine.uk/vito/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Vito Generations",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W638 (1996–2003)",
+              "url": "https://mercedesengine.uk/vito/w638/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W639 (2003–2014)",
+              "url": "https://mercedesengine.uk/vito/w639/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W447 (2014–present)",
+              "url": "https://mercedesengine.uk/vito/w447/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Vito Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651 2.1L Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM654 2.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM642 3.0L V6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM646 2.2L Diesel",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM611 2.2L Diesel",
+              "url": "https://mercedesengine.uk/engines/om611/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM601 2.3L Diesel",
+              "url": "https://mercedesengine.uk/engines/om601/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M111 2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M112 3.2L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M272 3.5L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M274 2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Vito engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Vito engine replacement costs between £900 and £5,500 for a reconditioned supply-only unit [MB-QUOTE], depending on the generation and engine variant. The OM646 is the cheapest to replace (£1,800–£3,200) [MB-QUOTE]; the OM651 costs £2,800–£4,800 [MB-QUOTE]; the OM654 costs £3,000–£5,500 [MB-QUOTE]; the OM642 V6 diesel costs £3,200–£5,500 [MB-QUOTE]. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Use our diagnostic calculator above for a personalised estimate for your specific Vito."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vito engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 (W447, 2019+) is the most reliable Vito engine — it's a modern 2.0L diesel with front-mounted chain, improved emissions compliance, and far fewer reported failure patterns than the OM651. The OM646 (W639, 2009+) is the older reliability champion — simpler, lacks the OM651's rear-chain complexity, and has a better reputation among independent mechanics. The OM651 is the volume engine but carries real timing chain and injector risks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vito engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 carries the highest risk in our data — timing chain stretch (rear-mounted, engine-out job), injector failures, EGR clogging, and water pump leaks are the dominant failure categories. We don't say 'avoid entirely' — a well-maintained OM651 with documented chain history is a good engine — but a Vito OM651 with undocumented history is a genuine risk. Early OM651s (pre-2010) are particularly problematic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Vito timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the OM651's rear-mounted timing chain is a genuine weak point, particularly on high-mileage examples (80k–150k miles) [MB-VERIFIED]. Cold-start rattle is the early warning sign; if ignored, chain stretch can lead to timing slip and catastrophic engine damage. The OM646 has a different chain design and is far less prone to this failure. The OM654's front-mounted chain is a significant improvement."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Vito engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on whether your Vito earns you money. For commercial use, a £4,800 OM651 recon against a £4,000 van value (120%) might still be justified if the van earns £500 a week — the maths changes completely. For personal use, follow the 70% Mercedes threshold: if the reconditioned engine cost exceeds 70% of your Vito's current market value, get a scrap valuation alongside any repair quote. [MB-QUOTE]"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vito generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W447 (2019+ with OM654) is our top recommendation — it's the modern, cleaner, quieter diesel with far fewer reported issues. If your budget is tighter, buy a W639 (2009+ with OM646) — some specialists recommend it over the OM651 for reliability. Avoid the W638 unless you're buying it cheap enough to scrap; it's very old and rust is the real enemy. The W447 with OM651 (2014–2019) is the middle ground — check timing chain history carefully."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Vito engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your Vito engine code is usually stamped on the engine block itself — for the W639, look on the front left side of the engine (near the alternator) or on the VIN plate inside the driver's door shut. The VIN plate lists the engine code (e.g. 'OM651' or 'OM646') as part of the vehicle data string. If you're unsure, use our diagnostic calculator — we'll identify your engine based on your registration year and model variant."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Vito vs Sprinter — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Vito and Sprinter share some engines (OM651, OM654, OM642) but the Sprinter's commercial usage patterns and higher mileage mean different failure profiles. The Sprinter is the larger, heavier-duty van; the Vito is the medium van. The OM651's timing chain risk applies to both, but the Sprinter's higher mileage accelerates the failure timeline. Buy the Vito if you need a city van; buy the Sprinter if you need a long-haul van. Read the full comparison: Vito vs Sprinter → /compare/vito-vs-sprinter/"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Vito Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "300",
+            "highPrice": "7500"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Vito UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Vito engines, sourced from mercedesengine.uk's specialist marketplace activity — engine-level data from the Mercedes range, with commercial vehicle expertise applied.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Vito Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/vito/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • Vito • 1996–Present • W638 • W639 • W447 • OM651 • OM654 • OM642",
@@ -624,7 +852,48 @@
   },
   "faq": {
     "h2": "Vito Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Vito engine replacement cost in the UK?",
+        "answer": "A Vito engine replacement costs between £900 and £5,500 for a reconditioned supply-only unit [MB-QUOTE], depending on the generation and engine variant. The OM646 is the cheapest to replace (£1,800–£3,200) [MB-QUOTE]; the OM651 costs £2,800–£4,800 [MB-QUOTE]; the OM654 costs £3,000–£5,500 [MB-QUOTE]; the OM642 V6 diesel costs £3,200–£5,500 [MB-QUOTE]. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Use our diagnostic calculator above for a personalised estimate for your specific Vito."
+      },
+      {
+        "id": 2,
+        "question": "Which Vito engine is the most reliable?",
+        "answer": "The OM654 (W447, 2019+) is the most reliable Vito engine — it's a modern 2.0L diesel with front-mounted chain, improved emissions compliance, and far fewer reported failure patterns than the OM651. The OM646 (W639, 2009+) is the older reliability champion — simpler, lacks the OM651's rear-chain complexity, and has a better reputation among independent mechanics. The OM651 is the volume engine but carries real timing chain and injector risks."
+      },
+      {
+        "id": 3,
+        "question": "Which Vito engine should I avoid?",
+        "answer": "The OM651 carries the highest risk in our data — timing chain stretch (rear-mounted, engine-out job), injector failures, EGR clogging, and water pump leaks are the dominant failure categories. We don't say \"avoid entirely\" — a well-maintained OM651 with documented chain history is a good engine — but a Vito OM651 with undocumented history is a genuine risk. Early OM651s (pre-2010) are particularly problematic."
+      },
+      {
+        "id": 4,
+        "question": "Is the Vito timing chain problem real?",
+        "answer": "Yes — the OM651's rear-mounted timing chain is a genuine weak point, particularly on high-mileage examples (80k–150k miles) [MB-VERIFIED]. Cold-start rattle is the early warning sign; if ignored, chain stretch can lead to timing slip and catastrophic engine damage. The OM646 has a different chain design and is far less prone to this failure. The OM654's front-mounted chain is a significant improvement."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a Vito engine?",
+        "answer": "It depends entirely on whether your Vito earns you money. For commercial use, a £4,800 OM651 recon against a £4,000 van value (120%) might still be justified if the van earns £500 a week — the maths changes completely. For personal use, follow the 70% Mercedes threshold: if the reconditioned engine cost exceeds 70% of your Vito's current market value, get a scrap valuation alongside any repair quote. [MB-QUOTE]"
+      },
+      {
+        "id": 6,
+        "question": "Which Vito generation should I buy?",
+        "answer": "The W447 (2019+ with OM654) is our top recommendation — it's the modern, cleaner, quieter diesel with far fewer reported issues. If your budget is tighter, buy a W639 (2009+ with OM646) — some specialists recommend it over the OM651 for reliability. Avoid the W638 unless you're buying it cheap enough to scrap; it's very old and rust is the real enemy. The W447 with OM651 (2014–2019) is the middle ground — check timing chain history carefully."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my Vito engine code?",
+        "answer": "Your Vito engine code is usually stamped on the engine block itself — for the W639, look on the front left side of the engine (near the alternator) or on the VIN plate inside the driver's door shut. The VIN plate lists the engine code (e.g. \"OM651\" or \"OM646\") as part of the vehicle data string. If you're unsure, use our diagnostic calculator — we'll identify your engine based on your registration year and model variant. mercedesengine.uk/#engine-calculator?model=vito"
+      },
+      {
+        "id": 8,
+        "question": "Vito vs Sprinter — which is more reliable?",
+        "answer": "The Vito and Sprinter share some engines (OM651, OM654, OM642) but the Sprinter's commercial usage patterns and higher mileage mean different failure profiles. The Sprinter is the larger, heavier-duty van; the Vito is the medium van. The OM651's timing chain risk applies to both, but the Sprinter's higher mileage accelerates the failure timeline. Buy the Vito if you need a city van; buy the Sprinter if you need a long-haul van. Read the full comparison: Vito vs Sprinter →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

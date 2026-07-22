@@ -575,44 +575,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (14%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes E53 AMG engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned E53 AMG (M256) engine typically costs £5,000–£12,000 supply only depending on generation. A used M256 engine is available from approximately £3,500–£5,500. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes E53 AMG engine reliable?"
-      },
-      {
-        "label": "The M256 is a \"really nice straight six\" and \"very comparable to BMWs epic B58 engine\". However, it has significant complexity. The 48V EQ Boost system is the primary concern — one forum member advised \"Google 'e53 48volt issues mbworld' and decide for yourself\". The transmission wiring harness recall is a safety‑critical item. Coolant leaks and PCV/oil separator issues are also reported. The M256 \"although not as reliable as M276 has been way more reliable than the MB's four cylinders\".",
-        "value": "3. What are the common problems with the Mercedes E53 AMG?"
-      },
-      {
-        "label": "Transmission wiring harness chafing (recall — can cause sudden power loss), 48V EQ Boost system failures (battery, starter‑generator, ground connection), M256 coolant leaks, PCV/oil separator issues, and electrical system gremlins (cameras, seats, sunroof, headlights). See the Era Map above for detailed advice.",
-        "value": "4. Is it worth replacing a Mercedes E53 AMG engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept E53 AMG (values £35,000–£60,000+ depending on year and mileage), a £6,000–£8,000 reconditioned engine is 12–20% of the vehicle's value — worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the E53's status as a performance icon, engine replacement is often worth it for a good example.",
-        "value": "5. How do I find my Mercedes E53 AMG engine code?"
-      },
-      {
-        "label": "The engine code M256 is listed on the VIN plate and vehicle documentation. The E53 AMG was introduced in 2019 for the W213/S213 generation. The pre‑facelift produces 429 bhp and the facelift produces 443 bhp. The M256 features an electric auxiliary compressor, twin‑scroll turbocharger, and 48V EQ Boost system. Tell us your registration and we'll confirm for free.",
-        "value": "6. Has the Mercedes E53 AMG been recalled for the transmission wiring harness?"
-      },
-      {
-        "label": "Yes — Mercedes‑Benz has issued recalls for the E53 AMG due to a transmission wiring harness that may chafe against the front drive shaft. The chafing can damage the wiring, leading to loss of auxiliary power from the electric motor and increased emissions. The recall involves inspecting and rerouting the wiring harness. Check your vehicle's recall status immediately — this is a safety‑critical item.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "PART 2 — SECTION 9 + META + SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes E53 AMG engine replacement cost in the UK?",
+        "answer": "A reconditioned E53 AMG (M256) engine typically costs £5,000–£12,000 supply only depending on generation. A used M256 engine is available from approximately £3,500–£5,500. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes E53 AMG engine reliable?",
+        "answer": "The M256 is a \"really nice straight six\" and \"very comparable to BMWs epic B58 engine\". However, it has significant complexity. The 48V EQ Boost system is the primary concern — one forum member advised \"Google 'e53 48volt issues mbworld' and decide for yourself\". The transmission wiring harness recall is a safety‑critical item. Coolant leaks and PCV/oil separator issues are also reported. The M256 \"although not as reliable as M276 has been way more reliable than the MB's four cylinders\"."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes E53 AMG?",
+        "answer": "Transmission wiring harness chafing (recall — can cause sudden power loss), 48V EQ Boost system failures (battery, starter‑generator, ground connection), M256 coolant leaks, PCV/oil separator issues, and electrical system gremlins (cameras, seats, sunroof, headlights). See the Era Map above for detailed advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes E53 AMG engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept E53 AMG (values £35,000–£60,000+ depending on year and mileage), a £6,000–£8,000 reconditioned engine is 12–20% of the vehicle's value — worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the E53's status as a performance icon, engine replacement is often worth it for a good example."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes E53 AMG engine code?",
+        "answer": "The engine code M256 is listed on the VIN plate and vehicle documentation. The E53 AMG was introduced in 2019 for the W213/S213 generation. The pre‑facelift produces 429 bhp and the facelift produces 443 bhp. The M256 features an electric auxiliary compressor, twin‑scroll turbocharger, and 48V EQ Boost system. Tell us your registration and we'll confirm for free."
+      },
+      {
+        "id": 6,
+        "question": "Has the Mercedes E53 AMG been recalled for the transmission wiring harness?",
+        "answer": "Yes — Mercedes‑Benz has issued recalls for the E53 AMG due to a transmission wiring harness that may chafe against the front drive shaft. The chafing can damage the wiring, leading to loss of auxiliary power from the electric motor and increased emissions. The recall involves inspecting and rerouting the wiring harness. Check your vehicle's recall status immediately — this is a safety‑critical item."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes E53 AMG Owners Trust MercedesEngine.uk",

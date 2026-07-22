@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "slug": "m157-m178",
+    "title": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
+    "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets — backed by UK specialist data. Compare quotes from vetted specialists.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m157-m178/",
+    "openGraph": {
+      "title": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
+      "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets — backed by UK specialist data. Compare quotes from vetted specialists.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m157-m178/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m157-m178.jpg",
+      "siteName": "mercedesbenzengine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
+      "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets — backed by UK specialist data. Compare quotes from vetted specialists.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m157-m178.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M157/M178",
+              "item": "https://mercedesbenzengine.uk/engines/m157-m178/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M157/M178 engine",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "S-Class W222 S 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w222/s-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S-Class W221 S 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w221/s-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CL-Class C216 CL 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/cl-class/c216/cl-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "E-Class W212 E 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w212/e-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "E-Class W213 E 63 AMG / E 63 S",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w213/e-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLS-Class C218 CLS 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/cls-class/c218/cls-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "CLS-Class C257 CLS 53",
+              "url": "https://mercedesbenzengine.uk/models/cls-class/c257/cls-53/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "G-Class W463 G 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/g-class/w463/g-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "GL-Class X166 GL 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/gl-class/x166/gl-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "GLE-Class W166 GLE 63 / GLE 63 S",
+              "url": "https://mercedesbenzengine.uk/models/gle-class/w166/gle-63/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "GLS-Class X166 GLS 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/gls-class/x166/gls-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "ML-Class W166 ML 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/ml-class/w166/ml-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "AMG GT C190 GT / GT S / GT C / GT R",
+              "url": "https://mercedesbenzengine.uk/models/amg-gt/c190/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "AMG GT 4-Door X290 GT 63 / GT 63 S",
+              "url": "https://mercedesbenzengine.uk/models/amg-gt-4-door/x290/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "SL-Class R231 SL 63 AMG",
+              "url": "https://mercedesbenzengine.uk/models/sl-class/r231/sl-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "SLC-Class R172 SLC 43",
+              "url": "https://mercedesbenzengine.uk/models/slc-class/r172/slc-43/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M157 or M178 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M157/M178 typically costs £6,500–£10,000 supply only, with fitting adding £1,300–£2,000 depending on labour rates [ESTIMATED]. AMG-specific parts and specialist labour drive costs significantly above standard Mercedes engines."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M157/M178 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M157/M178 rates 3.5★ out of 5 — powerful and rewarding when maintained, but known for bore scoring, timing chain wear on early M157s, and oil leaks. Regular servicing by an AMG specialist is non-negotiable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M157/M178 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cylinder bore scoring is the most catastrophic, particularly on poorly maintained or overheated examples. Early M157s also suffer timing chain stretch and oil wicking into wiring harnesses."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M157/M178?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M157 powers the S 63, CL 63, E 63, CLS 63, G 63, GL 63, ML 63 (2011–2015+). The M178 replaced it from 2014 onward, powering the AMG GT range, W213 E 63, and newer G 63 / GT 4-Door."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M157/M178 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With meticulous maintenance, 100,000–150,000 miles is achievable. However, bore scoring can appear as early as 40,000–60,000 miles on neglected examples, and timing chain issues typically emerge around 60,000–100,000 miles."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesbenzengine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M157/M178 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M157/M178 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "4000",
+            "highPrice": "14000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M157/M178 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M157/M178 AMG V8, sourced from mercedesbenzengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m157-m178/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • M157/M178 • Petrol • 4.0–5.5L V8 Twin-Turbo • 2011–present",
+    "h1": "Mercedes-Benz M157/M178 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes-AMG M157 and M178 are hand-built twin-turbo V8s — brutal performance but serious running costs. Backed by real UK enquiries in 2025.",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Enquiries"
+      },
+      {
+        "icon": "🔧",
+        "label": "Models Fitted"
+      },
+      {
+        "icon": "💯",
+        "label": "/100 Engine Score"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Compare M157/M178 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "M157 / M178"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "V8 Twin-Turbo — 5.5L (M157) / 4.0L (M178)"
+      },
+      {
+        "metric": "Power Range",
+        "value": "510–630 hp (M157); 462–639+ hp (M178)"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2011–present"
+      },
+      {
+        "metric": "Models Fitted (Mercedes only)",
+        "value": "15+ AMG models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Exclusive to Mercedes-Benz"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "TBC"
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "3.5★ out of 5",
+    "confidence": "78% confidence — based on available specialist and owner reporting, pending proprietary enquiry data.",
+    "scoreNote": "Engine Score breakdown:",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "14 (3.5★ × 4 = 14)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "8 (Reconditioned supply midpoint £7,250+ (estimated) — threshold £7,000–£9,999 → 8)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "8 (Mixed failures: some are routine (injectors, coils, coolant lines), others are catastrophic (cylinder bore scoring, timing chain issues))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Well-supported via Mercedes-AMG dealer network and specialist suppliers, though AMG-specific parts carry a premium)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "4 (Reconditioned cost as % of lowest typical host value — AMG models retain higher values but replacement costs are substantial)"
+        }
+      ]
+    },
+    "oneLineVerdict": "\"The M157/M178 delivers breathtaking AMG performance — but bore scoring, timing chain wear, and oil leaks demand deep pockets — buy only with full service history and a PPI.\"",
+    "bestFor": "Enthusiasts who prioritise performance and can absorb £5k–£10k+ maintenance bills.",
+    "avoidIf": "Budget-conscious buyers or anyone unwilling to commit to rigorous, specialist-only maintenance."
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [
+      {
+        "model": "S-Class",
+        "generation": "W222",
+        "variantBadge": "S 63 AMG",
+        "years": "2013–2020"
+      },
+      {
+        "model": "S-Class",
+        "generation": "W221",
+        "variantBadge": "S 63 AMG",
+        "years": "2011–2013"
+      },
+      {
+        "model": "CL-Class",
+        "generation": "C216",
+        "variantBadge": "CL 63 AMG",
+        "years": "2011–2014"
+      },
+      {
+        "model": "E-Class",
+        "generation": "W212",
+        "variantBadge": "E 63 AMG",
+        "years": "2011–2016"
+      },
+      {
+        "model": "E-Class",
+        "generation": "W213",
+        "variantBadge": "E 63 AMG / E 63 S",
+        "years": "2016–present"
+      },
+      {
+        "model": "CLS-Class",
+        "generation": "C218",
+        "variantBadge": "CLS 63 AMG",
+        "years": "2011–2018"
+      },
+      {
+        "model": "CLS-Class",
+        "generation": "C257",
+        "variantBadge": "CLS 53 (M178)",
+        "years": "2018–present"
+      },
+      {
+        "model": "G-Class",
+        "generation": "W463",
+        "variantBadge": "G 63 AMG",
+        "years": "2013–present"
+      },
+      {
+        "model": "GL-Class",
+        "generation": "X166",
+        "variantBadge": "GL 63 AMG",
+        "years": "2013–2016"
+      },
+      {
+        "model": "GLE-Class",
+        "generation": "W166",
+        "variantBadge": "GLE 63 / GLE 63 S",
+        "years": "2015–2019"
+      },
+      {
+        "model": "GLS-Class",
+        "generation": "X166",
+        "variantBadge": "GLS 63 AMG",
+        "years": "2016–2019"
+      },
+      {
+        "model": "ML-Class",
+        "generation": "W166",
+        "variantBadge": "ML 63 AMG",
+        "years": "2012–2015"
+      },
+      {
+        "model": "AMG GT",
+        "generation": "C190",
+        "variantBadge": "GT / GT S / GT C / GT R / Black Series",
+        "years": "2014–present"
+      },
+      {
+        "model": "AMG GT 4-Door",
+        "generation": "X290",
+        "variantBadge": "GT 63 / GT 63 S",
+        "years": "2018–present"
+      },
+      {
+        "model": "SL-Class",
+        "generation": "R231",
+        "variantBadge": "SL 63 AMG",
+        "years": "2012–2021"
+      },
+      {
+        "model": "SLC-Class",
+        "generation": "R172",
+        "variantBadge": "SLC 43 (M178 detuned)",
+        "years": "2016–2020"
+      }
+    ],
+    "crossBrandNote": ""
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [
+      {
+        "condition": "Used",
+        "supplyOnly": "£4,000–£8,000",
+        "fittedIndie": "£5,200–£9,500",
+        "warranty": "3–6 months"
+      },
+      {
+        "condition": "Reconditioned",
+        "supplyOnly": "£6,500–£10,000",
+        "fittedIndie": "£7,800–£11,500",
+        "warranty": "12–24 months"
+      },
+      {
+        "condition": "Rebuilt",
+        "supplyOnly": "£9,000–£14,000",
+        "fittedIndie": "£10,300–£15,500",
+        "warranty": "12–24 months"
+      }
+    ],
+    "labourEstimate": "Fitting an M157/M178 typically takes 14–20 hours at £65–£95/hr (independent AMG specialist) or £120–£180/hr (main dealer) [ESTIMATED].",
+    "sharedCostNote": "N/A — exclusive to Mercedes-Benz.",
+    "cta": {
+      "label": "→ Compare M157/M178 engine prices from UK AMG specialists",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an M157 or M178 engine replacement cost?",
+        "answer": "A reconditioned M157/M178 typically costs £6,500–£10,000 supply only, with fitting adding £1,300–£2,000 depending on labour rates [ESTIMATED]. AMG-specific parts and specialist labour drive costs significantly above standard Mercedes engines."
+      },
+      {
+        "id": 2,
+        "question": "Is the M157/M178 a reliable engine?",
+        "answer": "The M157/M178 rates 3.5★ out of 5 — powerful and rewarding when maintained, but known for bore scoring, timing chain wear on early M157s, and oil leaks. Regular servicing by an AMG specialist is non-negotiable."
+      },
+      {
+        "id": 3,
+        "question": "What is the most common M157/M178 failure?",
+        "answer": "Cylinder bore scoring is the most catastrophic, particularly on poorly maintained or overheated examples. Early M157s also suffer timing chain stretch and oil wicking into wiring harnesses."
+      },
+      {
+        "id": 4,
+        "question": "Which Mercedes models use the M157/M178?",
+        "answer": "The M157 powers the S 63, CL 63, E 63, CLS 63, G 63, GL 63, ML 63 (2011–2015+). The M178 replaced it from 2014 onward, powering the AMG GT range, W213 E 63, and newer G 63 / GT 4-Door."
+      },
+      {
+        "id": 5,
+        "question": "How long does the M157/M178 last?",
+        "answer": "With meticulous maintenance, 100,000–150,000 miles is achievable. However, bore scoring can appear as early as 40,000–60,000 miles on neglected examples, and timing chain issues typically emerge around 60,000–100,000 miles."
+      }
+    ]
+  },
+  "trustCta": {
+    "trustPoints": [
+      "Trusted Suppliers — Every AMG specialist and engine rebuilder in our network is vetted, rated and reviewed by real M157/M178 owners, as part of the Engine Finders network.",
+      "Compare Companies — We compare genuine AMG engine specialists, not just any garage — so you get the right expertise for your high-performance V8.",
+      "UK Coverage — From London to Edinburgh, our network of pre-vetted AMG specialists means you're never far from trusted M157/M178 expertise."
+    ],
+    "finalCta": "Find the best Mercedes-AMG M157 or M178 engine replacement UK drivers trust. Compare real prices from trusted AMG specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes M157/M178 Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

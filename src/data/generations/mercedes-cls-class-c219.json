@@ -1,6 +1,6 @@
 {
   "meta": {
-    "slug": "mercedes-cls-class-c219",
+    "slug": "bmw-cls-class-c219",
     "title": "C219 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 56,
     "description": "Every Mercedes CLS C219 engine — M272, M113, M273, M156, OM642. Real UK costs, the balance shaft warning, and honest reliability data for the four‑door coupé pioneer. Get free quotes from 25+ vetted Mercedes specialists today.",
@@ -752,10 +752,22 @@
     "scopeNote": "All variants listed are C219 four‑door coupé only. The C218 and C257 are separate generations covered on their own Generation Pages."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
+    "mostRequestedEngines": [
+      "1. OM642 (CLS 320 CDI / CLS 350 CDI) — 1,250 enquiries [MB‑VERIFIED] (OM651 proxy)",
+      "2. M272 (CLS 350 / CLS 350 CGI) — pattern data [PATTERN DATA]",
+      "3. M113 (CLS 500 / CLS 55 AMG) — pattern data [PATTERN DATA]"
+    ],
+    "mostRequestedVariants": [
+      "1. CLS 320 CDI",
+      "2. CLS 350",
+      "3. CLS 55 AMG"
+    ],
+    "averageReplacementCost": "£2,500–£5,500 reconditioned, supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. M272 balance shaft sprocket wear",
+      "2. OM642 oil cooler seal leaks",
+      "3. M156 camshaft adjuster & tappet wear"
+    ],
     "liveFeed": [
       {
         "vehicle": "Mercedes CLS 320 CDI C219 (OM642)",

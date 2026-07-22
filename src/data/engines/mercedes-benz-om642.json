@@ -1,24 +1,265 @@
 {
   "meta": {
-    "slug": "mercedes-benz-om642",
-    "title": "Mercedes-Benz OM642 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "om642",
+    "title": "Mercedes-Benz OM642 Engine — Reliability & Replacement Cost",
+    "description": "The OM642 is a strong V6 diesel, but oil cooler seal failure is its defining risk — backed by 880+ real UK enquiries. Compare quotes from vetted specialists.",
+    "canonical": "https://mercedesbenzengine.uk/engines/om642/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz OM642 Engine — Reliability & Replacement Cost",
+      "description": "The OM642 is a strong V6 diesel, but oil cooler seal failure is its defining risk — backed by 880+ real UK enquiries. Compare quotes from vetted specialists.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/om642/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/om642.jpg",
+      "siteName": "mercedesbenzengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz OM642 Engine — Reliability & Replacement Cost",
+      "description": "The OM642 is a strong V6 diesel, but oil cooler seal failure is its defining risk — backed by 880+ real UK enquiries. Compare quotes from vetted specialists.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/om642.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM642",
+              "item": "https://mercedesbenzengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the OM642 engine",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E-Class W211 E 320 CDI / E 280 CDI / E 350 CDI",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w211/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-Class W212 E 350 CDI / E 350 BlueTEC",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w212/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E-Class W213 E 350 d",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "C-Class W204 C 320 CDI / C 350 CDI",
+              "url": "https://mercedesbenzengine.uk/models/c-class/w204/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLS-Class W219 CLS 320 CDI / CLS 350 CDI",
+              "url": "https://mercedesbenzengine.uk/models/cls-class/w219/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLS-Class W218 CLS 350 CDI",
+              "url": "https://mercedesbenzengine.uk/models/cls-class/w218/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "ML-Class W164 ML 320 CDI / ML 350 CDI / ML 280 CDI",
+              "url": "https://mercedesbenzengine.uk/models/ml-class/w164/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "GLE-Class W166 GLE 350 d / GLE 300 d",
+              "url": "https://mercedesbenzengine.uk/models/gle-class/w166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "GL-Class X164 GL 320 CDI / GL 350 CDI / GL 420 CDI",
+              "url": "https://mercedesbenzengine.uk/models/gl-class/x164/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "GLS-Class X166 GLS 350 d",
+              "url": "https://mercedesbenzengine.uk/models/gls-class/x166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "R-Class W251 R 320 CDI / R 350 CDI",
+              "url": "https://mercedesbenzengine.uk/models/r-class/w251/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "S-Class W221 S 320 CDI / S 350 BlueTEC",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "S-Class W222 S 350 BlueTEC",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w222/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "G-Class W463 G 350 d / G 320 CDI",
+              "url": "https://mercedesbenzengine.uk/models/g-class/w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Sprinter W906 Sprinter 316/319/519 CDI",
+              "url": "https://mercedesbenzengine.uk/models/sprinter/w906/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "V-Class W447 V 250 / V 300 d",
+              "url": "https://mercedesbenzengine.uk/models/v-class/w447/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an OM642 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned OM642 typically costs £3,200–£5,500 supply only [MB-QUOTE], with fitting adding £650–£1,300 depending on labour rates. V6 complexity and specialist expertise drive costs above standard four-cylinder diesels."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the OM642 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 rates 3.5★ out of 5 — a strong, refined V6 diesel when maintained. Its defining weakness is the oil cooler seal, which fails predictably and requires significant labour to replace — but is not catastrophic if addressed promptly."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common OM642 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oil cooler seal failure (O-rings in the V of the engine) is the most common — it causes oil and coolant to mix, leading to overheating and potential engine damage. Swirl flap motor failure and turbo seal leaks are also well-documented issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the OM642?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 powers a wide range — E‑Class W211/W212, ML‑Class W164, GL‑Class X164, S‑Class W221, CLS W219/W218, G‑Class W463, and Sprinter vans. It spans 2005 to present across multiple generations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the OM642 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With regular oil changes and prompt attention to oil cooler seals, 150,000–250,000 miles is realistic. Many well-maintained examples exceed 200,000 miles; the V6 is fundamentally durable with preventative care."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesbenzengine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz OM642 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz OM642 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "7000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz OM642 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz OM642 V6 diesel, sourced from mercedesbenzengine.uk's specialist marketplace activity. 880 enquiries verified 2025.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz OM642 Engine — Reliability & Replacement Cost",
+          "url": "https://mercedesbenzengine.uk/engines/om642/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • OM642 • Diesel • 3.0L V6 Turbo • 2005–present",
@@ -80,79 +321,44 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: OM642 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 3.5★ out of 5",
-        "value": "Confidence: 86% confidence — based on 880 UK enquiries, cross-referenced with specialist rebuild reports and manufacturer TSBs."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "14"
-      },
-      {
-        "metric": "3.5★ × 4 = 14",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "16",
-        "value": "Reconditioned supply midpoint £4,350 — threshold £3,000–£4,999 → 16"
-      },
-      {
-        "metric": "Repairability",
-        "value": "12"
-      },
-      {
-        "metric": "Mix of cheap fixes and a few expensive, labour-intensive ones — oil cooler seal access requires significant disassembly",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "16",
-        "value": "Well-supported via Mercedes dealer network and specialists, though some V6-specific parts carry a premium"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "4"
-      },
-      {
-        "metric": "Reconditioned cost as % of lowest host value — £4,350 on a £3,500–£4,000 car = 109–124% → 4",
-        "value": "Total"
-      },
-      {
-        "metric": "62/100",
-        "value": "One-line verdict: \"The OM642 is a strong, refined diesel V6 — but the oil cooler seal fails predictably and repairs are labour-intensive — insist on full service history.\""
-      },
-      {
-        "metric": "Best For: High-mileage motorway drivers who value V6 refinement and can budget for preventative maintenance.",
-        "value": "Avoid If: Budget-conscious buyers shopping sub-£4k examples where a £1,500 oil cooler repair may not be economically justifiable."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "3.5★ out of 5",
+    "confidence": "86% confidence — based on 880 UK enquiries, cross-referenced with specialist rebuild reports and manufacturer TSBs.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "14 (3.5★ × 4 = 14)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Reconditioned supply midpoint £4,350 — threshold £3,000–£4,999 → 16)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mix of cheap fixes and a few expensive, labour-intensive ones — oil cooler seal access requires significant disassembly)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Well-supported via Mercedes dealer network and specialists, though some V6-specific parts carry a premium)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "4 (Reconditioned cost as % of lowest host value — £4,350 on a £3,500–£4,000 car = 109–124% → 4)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "\"The OM642 is a strong, refined diesel V6 — but the oil cooler seal fails predictably and repairs are labour-intensive — insist on full service history.\"",
+    "bestFor": "High-mileage motorway drivers who value V6 refinement and can budget for preventative maintenance.",
+    "avoidIf": "Budget-conscious buyers shopping sub-£4k examples where a £1,500 oil cooler repair may not be economically justifiable."
   },
   "compatibility": {
     "columns": [

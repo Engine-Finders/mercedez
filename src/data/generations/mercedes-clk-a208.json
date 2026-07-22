@@ -1,11 +1,260 @@
 {
   "meta": {
-    "slug": "mercedes-clk-a208",
-    "title": "Mercedes CLK A208 Engines — The Complete UK Guide",
-    "titleCharCount": 49,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-clk-class-a208",
+    "title": "A208 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every Mercedes CLK A208 engine — M111, M112, M113. Real UK costs, honest reliability data, and CLK 55 AMG V8 explained. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 156,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLK-Class",
+              "item": "https://mercedesengine.uk/clk-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes CLK A208",
+              "item": "https://mercedesengine.uk/clk-class/a208/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLK A208 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M111.941/945 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-941/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M111.944 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-944/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M111.956 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-956/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M111.975 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-975/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M111.982 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-982/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M112.940 Engine",
+              "url": "https://mercedesengine.uk/engines/m112-940/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M113.943 Engine",
+              "url": "https://mercedesengine.uk/engines/m113-943/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M113.984 Engine",
+              "url": "https://mercedesengine.uk/engines/m113-984/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLK A208 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "CLK 200",
+              "url": "https://mercedesengine.uk/clk-class/a208/clk-200/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLK 200 Kompressor",
+              "url": "https://mercedesengine.uk/clk-class/a208/clk-200-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CLK 230 Kompressor",
+              "url": "https://mercedesengine.uk/clk-class/a208/clk-230-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLK 320",
+              "url": "https://mercedesengine.uk/clk-class/a208/clk-320/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLK 430",
+              "url": "https://mercedesengine.uk/clk-class/a208/clk-430/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLK 55 AMG",
+              "url": "https://mercedesengine.uk/clk-class/a208/clk-55-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes CLK A208 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned A208 engine typically costs £1,500–£9,000 supply only, depending on engine — the volume M111 four-cylinder petrol sits at £1,500–£3,500, while the M113 V8 in the CLK 55 AMG is the most expensive at £5,000–£9,000. Fitting adds £650–£1,300 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes CLK A208 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112 3.2-litre V6 (CLK 320, 218 PS) is widely considered the most reliable engine in the A208 range — smooth, torquey, with proven durability and no major systemic failures. The post-facelift M111.982 2.3-litre Kompressor (CLK 230, 197 PS) is also a strong choice, benefiting from the 2000 engine refresh."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes CLK A208?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Supercharger clutch failure on the M111 Kompressor engines, cooling system leaks on the M112 V6 and M113 V8, valve stem seal wear on the M113 V8 (particularly the CLK 55 AMG), and biodegradable wiring harness degradation on pre-2000 M111 cars. The 2000 facelift addressed many of these issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes CLK A208 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overall reliability is good for a late-1990s/early-2000s Mercedes. The M111 Kompressor engines are generally robust but require supercharger clutch attention around 60,000–100,000 miles. The M112 V6 is the most reliable option. The main caveat is the pre-2000 biodegradable wiring harness — if it hasn't been replaced, budget for it. Post-2000 cars are much improved."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes CLK A208 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The early M111.944 200 Kompressor (pre-facelift, 192 PS) is the one we'd advise caution on — it suffers from wiring harness issues and the Eaton M62 supercharger can be expensive to repair. The CLK 55 AMG is a genuine modern classic but carries eye-watering maintenance bills — only buy one with deep pockets and full service history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my A208 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Loss of boost or a rattling noise from the front of the engine (supercharger clutch failure on Kompressor cars), persistent coolant loss or overheating (M112/M113 cooling system), blue smoke on startup (valve stem seals on M113), or intermittent misfires and electrical gremlins (wiring harness on pre-2000 M111) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes CLK A208 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well-kept £8,000 CLK 320, a £2,500–£4,500 recon is 31–56% of the car's value — viable. Against a tired £3,000 CLK 200, a £1,500–£2,800 recon is 50–93% — borderline. For a CLK 55 AMG, a £30,000 car justifies a £5,000–£9,000 recon; a £15,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes CLK A208 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112 V6 can exceed 200,000 miles with regular servicing and prompt cooling system attention. The M111 Kompressor four-cylinders can reach 150,000–200,000 miles with supercharger clutch replacement around 60,000–100,000 miles. The M113 V8 can last 150,000+ miles but typically requires valve stem seal replacement at 40,000–80,000 miles on AMG variants."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the A208 and C208 CLK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are the first-generation CLK-Class (1997–2002 for the coupé, 1998–2003 for the cabriolet). The C208 is the 2-door coupé (1997–2002). The A208 is the 2-door cabriolet (1998–2003, this page). Engines are shared across both body styles, though the cabriolet adds structural reinforcement and weight, which slightly affects performance and fuel economy."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes CLK A208 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (under the bonnet or on the driver's door pillar) and on the engine block itself. Tell us your variant (CLK 200, CLK 200 Kompressor, CLK 230 Kompressor, CLK 320, CLK 430, CLK 55 AMG) and approximate model year (pre-2000 or post-2000 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes CLK A208 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "9000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "A208 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/clk-class/a208/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -484,16 +733,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CLK A208 engine replacement cost in the UK?",
+        "answer": "A reconditioned A208 engine typically costs £1,500–£9,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the volume M111 four-cylinder petrol sits at £1,500–£3,500, while the M113 V8 in the CLK 55 AMG is the most expensive at £5,000–£9,000. Fitting adds £650–£1,300 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes CLK A208 engine is the most reliable?",
+        "answer": "The M112 3.2-litre V6 (CLK 320, 218 PS) is widely considered the most reliable engine in the A208 range — smooth, torquey, with proven durability and no major systemic failures. The post-facelift M111.982 2.3-litre Kompressor (CLK 230, 197 PS) is also a strong choice, benefiting from the 2000 engine refresh."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes CLK A208?",
+        "answer": "Supercharger clutch failure on the M111 Kompressor engines, cooling system leaks on the M112 V6 and M113 V8, valve stem seal wear on the M113 V8 (particularly the CLK 55 AMG), and biodegradable wiring harness degradation on pre-2000 M111 cars. The 2000 facelift addressed many of these issues."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes CLK A208 reliable?",
+        "answer": "Overall reliability is good for a late-1990s/early-2000s Mercedes. The M111 Kompressor engines are generally robust but require supercharger clutch attention around 60,000–100,000 miles. The M112 V6 is the most reliable option. The main caveat is the pre-2000 biodegradable wiring harness — if it hasn't been replaced, budget for it. Post-2000 cars are much improved."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes CLK A208 engine should I avoid?",
+        "answer": "The early M111.944 200 Kompressor (pre-facelift, 192 PS) is the one we'd advise caution on — it suffers from wiring harness issues and the Eaton M62 supercharger can be expensive to repair. The CLK 55 AMG is a genuine modern classic but carries eye-watering maintenance bills — only buy one with deep pockets and full service history."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my A208 engine needs replacing?",
+        "answer": "Loss of boost or a rattling noise from the front of the engine (supercharger clutch failure on Kompressor cars), persistent coolant loss or overheating (M112/M113 cooling system), blue smoke on startup (valve stem seals on M113), or intermittent misfires and electrical gremlins (wiring harness on pre-2000 M111) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes CLK A208 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £8,000 CLK 320, a £2,500–£4,500 recon is 31–56% of the car's value — viable. Against a tired £3,000 CLK 200, a £1,500–£2,800 recon is 50–93% — borderline. For a CLK 55 AMG, a £30,000 car justifies a £5,000–£9,000 recon; a £15,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes CLK A208 engines last?",
+        "answer": "The M112 V6 can exceed 200,000 miles with regular servicing and prompt cooling system attention. The M111 Kompressor four-cylinders can reach 150,000–200,000 miles with supercharger clutch replacement around 60,000–100,000 miles. The M113 V8 can last 150,000+ miles but typically requires valve stem seal replacement at 40,000–80,000 miles on AMG variants."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the A208 and C208 CLK?",
+        "answer": "Both are the first-generation CLK-Class (1997–2002 for the coupé, 1998–2003 for the cabriolet). The C208 is the 2-door coupé (1997–2002). The A208 is the 2-door cabriolet (1998–2003, this page). Engines are shared across both body styles, though the cabriolet adds structural reinforcement and weight, which slightly affects performance and fuel economy."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes CLK A208 engine code?",
+        "answer": "Listed on the VIN plate (under the bonnet or on the driver's door pillar) and on the engine block itself. Tell us your variant (CLK 200, CLK 200 Kompressor, CLK 230 Kompressor, CLK 320, CLK 430, CLK 55 AMG) and approximate model year (pre-2000 or post-2000 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes CLK A208 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted A208 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real Mercedes owners, as part of the Engine Finders network. We only work with specialists who understand the A208's M111 Kompressor and M113 V8 intricacies."
+      },
+      {
+        "title": "Compare A208 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit. Whether you need a reconditioned M112 or a used M113, we show you the real market."
+      },
+      {
+        "title": "UK Engine Replacement Services for A208",
+        "text": "covering every variant from CLK 200 to CLK 55 AMG, with supply-only or full supply & fit available nationwide through our vetted specialist network."
+      }
+    ],
+    "finalCta": "Find the best Mercedes CLK A208 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes CLK A208 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

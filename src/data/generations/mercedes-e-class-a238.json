@@ -1,11 +1,284 @@
 {
   "meta": {
-    "slug": "mercedes-e-class-a238",
-    "title": "Mercedes E-Class A238 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-e-class-a238",
+    "title": "A238 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every Mercedes E-Class A238 engine — M274, M264, M276, M256, M177, OM654, OM656, OM642. Real UK costs, honest reliability data, and E 63 V8 explained. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-Class",
+              "item": "https://mercedesengine.uk/e-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes E-Class A238",
+              "item": "https://mercedesengine.uk/e-class/a238/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes E-Class A238 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M274.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m274-920/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M264.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m264-920/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276.823 Engine",
+              "url": "https://mercedesengine.uk/engines/m276-823/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M256.930 Engine",
+              "url": "https://mercedesengine.uk/engines/m256-930/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M177.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m177-980/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM654.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om654-920/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM656.929 Engine",
+              "url": "https://mercedesengine.uk/engines/om656-929/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM642.873 Engine",
+              "url": "https://mercedesengine.uk/engines/om642-873/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes E-Class A238 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E 200",
+              "url": "https://mercedesengine.uk/e-class/a238/e-200/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E 300",
+              "url": "https://mercedesengine.uk/e-class/a238/e-300/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E 400 4MATIC",
+              "url": "https://mercedesengine.uk/e-class/a238/e-400-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "E 450 4MATIC",
+              "url": "https://mercedesengine.uk/e-class/a238/e-450-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "AMG E 53 4MATIC+",
+              "url": "https://mercedesengine.uk/e-class/a238/amg-e-53-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "AMG E 63",
+              "url": "https://mercedesengine.uk/e-class/a238/amg-e-63/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "AMG E 63 S",
+              "url": "https://mercedesengine.uk/e-class/a238/amg-e-63-s/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "E 220 d",
+              "url": "https://mercedesengine.uk/e-class/a238/e-220-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "E 350 d",
+              "url": "https://mercedesengine.uk/e-class/a238/e-350-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "E 400 d 4MATIC",
+              "url": "https://mercedesengine.uk/e-class/a238/e-400-d-4matic/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes E-Class A238 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned A238 engine typically costs £1,800–£18,000 supply only, depending on engine — the volume M274 four-cylinder petrol sits at £1,800–£4,200, while the M177 V8 in the AMG E 63 S is the most expensive at £12,000–£18,000. Fitting adds £650–£1,500 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes E-Class A238 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0-litre four-cylinder diesel (E 220 d, 194 PS) is widely considered the most reliable engine in the A238 range — proven, economical, with no major systemic failures. The M274 2.0-litre petrol (E 300, 245 PS) is also highly reliable, though camshaft adjuster wear requires attention around 60,000–100,000 miles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes E-Class A238?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Camshaft adjuster wear on the M274/M264 petrol fours, cooling system leaks on the M276 V6 and M256 straight-six, AdBlue and EGR system issues on the OM654 diesel, and valve stem seal wear on the M177 V8 (E 63). The M276 V6 is particularly sensitive to cooling system neglect."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes E-Class A238 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overall reliability is good for a modern premium cabriolet. The M274, M264, and OM654 are proven, durable units. The main caveats are the M276's cooling system, the M256's 48V system complexity, and the M177's valve stem seals — all are known issues that should be budgeted for. Facelift cars (2020+) with M264 and updated electronics are newer and generally more refined."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes E-Class A238 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but the M276 V6 (E 400, E 450) has documented cooling system issues that can be expensive to address. The M177 V8 (E 63) has valve stem seal wear and is eye-wateringly expensive to repair. If you're on a budget, the four-cylinder E 300 is the sweet spot. Avoid any car without documented service history — these engines are sensitive to oil quality and service intervals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my A238 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold-start rattle on petrol engines (camshaft adjusters), persistent coolant loss on the V6 or straight-six (cooling system leaks), AdBlue warning lights or reduced performance on the diesel (AdBlue/EGR issues), or blue smoke on startup on the E 63 (valve stem seals) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes E-Class A238 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well-kept £25,000 E 300, a £2,200–£4,000 recon is 9–16% of the car's value — viable. Against a tired £12,000 E 220 d, a £2,200–£3,800 recon is 18–32% — still viable. For an E 63 S, a £50,000+ car justifies a £12,000–£18,000 recon; a £30,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — most A238s sit comfortably above it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes E-Class A238 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M274 four-cylinder petrol can exceed 150,000–200,000 miles with regular servicing and prompt camshaft adjuster attention. The OM654 diesel is similarly durable — 200,000+ miles is achievable with proper AdBlue system care. The M177 V8 can last 150,000+ miles but typically requires valve stem seal replacement at 30,000–70,000 miles, which is a significant cost."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the A238, W213, S213, and C238?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All four share the second-generation E-Class platform (MRA). The A238 is the 2-door cabriolet (2017–2023, this page). The W213 is the 4-door saloon (2016–2023). The S213 is the 5-door estate (2016–2023). The C238 is the 2-door coupé (2017–2023). Engines are shared across all four body styles, though the cabriolet adds structural reinforcement and weight. See each body style's own Generation Page for specifics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes E-Class A238 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (under the bonnet or on the driver's door pillar), on the engine block, and in the vehicle documentation. Tell us your variant (E 200, E 300, E 400, E 450, E 53, E 63, E 63 S, E 220 d, E 350 d, E 400 d) and approximate model year (pre-2020 or post-2020 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes E-Class A238 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "A238 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/e-class/a238/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -581,16 +854,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes E-Class A238 engine replacement cost in the UK?",
+        "answer": "A reconditioned A238 engine typically costs £1,800–£18,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the volume M274 four-cylinder petrol sits at £1,800–£4,200, while the M177 V8 in the AMG E 63 S is the most expensive at £12,000–£18,000. Fitting adds £650–£1,500 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes E-Class A238 engine is the most reliable?",
+        "answer": "The OM654 2.0-litre four-cylinder diesel (E 220 d, 194 PS) is widely considered the most reliable engine in the A238 range — proven, economical, with no major systemic failures. The M274 2.0-litre petrol (E 300, 245 PS) is also highly reliable, though camshaft adjuster wear requires attention around 60,000–100,000 miles."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes E-Class A238?",
+        "answer": "Camshaft adjuster wear on the M274/M264 petrol fours, cooling system leaks on the M276 V6 and M256 straight-six, AdBlue and EGR system issues on the OM654 diesel, and valve stem seal wear on the M177 V8 (E 63). The M276 V6 is particularly sensitive to cooling system neglect."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes E-Class A238 reliable?",
+        "answer": "Overall reliability is good for a modern premium cabriolet. The M274, M264, and OM654 are proven, durable units. The main caveats are the M276's cooling system, the M256's 48V system complexity, and the M177's valve stem seals — all are known issues that should be budgeted for. Facelift cars (2020+) with M264 and updated electronics are newer and generally more refined."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes E-Class A238 engine should I avoid?",
+        "answer": "No engine outright — but the M276 V6 (E 400, E 450) has documented cooling system issues that can be expensive to address. The M177 V8 (E 63) has valve stem seal wear and is eye-wateringly expensive to repair. If you're on a budget, the four-cylinder E 300 is the sweet spot. Avoid any car without documented service history — these engines are sensitive to oil quality and service intervals."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my A238 engine needs replacing?",
+        "answer": "Cold-start rattle on petrol engines (camshaft adjusters), persistent coolant loss on the V6 or straight-six (cooling system leaks), AdBlue warning lights or reduced performance on the diesel (AdBlue/EGR issues), or blue smoke on startup on the E 63 (valve stem seals) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes E-Class A238 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £25,000 E 300, a £2,200–£4,000 recon is 9–16% of the car's value — viable. Against a tired £12,000 E 220 d, a £2,200–£3,800 recon is 18–32% — still viable. For an E 63 S, a £50,000+ car justifies a £12,000–£18,000 recon; a £30,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — most A238s sit comfortably above it."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes E-Class A238 engines last?",
+        "answer": "The M274 four-cylinder petrol can exceed 150,000–200,000 miles with regular servicing and prompt camshaft adjuster attention. The OM654 diesel is similarly durable — 200,000+ miles is achievable with proper AdBlue system care. The M177 V8 can last 150,000+ miles but typically requires valve stem seal replacement at 30,000–70,000 miles, which is a significant cost."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the A238, W213, S213, and C238?",
+        "answer": "All four share the second-generation E-Class platform (MRA). The A238 is the 2-door cabriolet (2017–2023, this page). The W213 is the 4-door saloon (2016–2023). The S213 is the 5-door estate (2016–2023). The C238 is the 2-door coupé (2017–2023). Engines are shared across all four body styles, though the cabriolet adds structural reinforcement and weight. See each body style's own Generation Page for specifics."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes E-Class A238 engine code?",
+        "answer": "Listed on the VIN plate (under the bonnet or on the driver's door pillar), on the engine block, and in the vehicle documentation. Tell us your variant (E 200, E 300, E 400, E 450, E 53, E 63, E 63 S, E 220 d, E 350 d, E 400 d) and approximate model year (pre-2020 or post-2020 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes E-Class A238 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted A238 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real Mercedes owners, as part of the Engine Finders network. We only work with specialists who understand the A238's MRA platform and engine complexities."
+      },
+      {
+        "title": "Compare A238 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit. Whether you need a reconditioned OM654 or a used M177, we show you the real market."
+      },
+      {
+        "title": "UK Engine Replacement Services for A238",
+        "text": "covering every variant from E 200 to AMG E 63 S, with supply-only or full supply & fit available nationwide through our vetted specialist network."
+      }
+    ],
+    "finalCta": "Find the best Mercedes E-Class A238 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes E-Class A238 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

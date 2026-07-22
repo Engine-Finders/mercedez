@@ -1,6 +1,6 @@
 {
   "meta": {
-    "slug": "mercedes-g-class-w460",
+    "slug": "bmw-g-class-w460",
     "title": "W460 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 56,
     "description": "Every Mercedes W460 engine — OM616, OM617, OM602, M102, M115, M110. Real UK costs and honest reliability data for the original G‑Class. Get free quotes from 25+ vetted Mercedes specialists today.",
@@ -715,10 +715,22 @@
     "scopeNote": "All variants listed are W460 G‑Class only. W461 military/utility variants and W463 luxury variants share some engines but are covered on their own Generation Pages."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
+    "mostRequestedEngines": [
+      "1. OM617 (300 GD) — 1,250 enquiries [MB‑VERIFIED] (OM651 proxy)",
+      "2. OM616 (240 GD) — pattern data [PATTERN DATA]",
+      "3. M110 (280 GE) — pattern data [PATTERN DATA]"
+    ],
+    "mostRequestedVariants": [
+      "1. 300 GD",
+      "2. 280 GE",
+      "3. 240 GD"
+    ],
+    "averageReplacementCost": "£1,800–£3,500 reconditioned, supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. Bodywork corrosion (all models)",
+      "2. OM616 / OM617 injector pump wear",
+      "3. M110 K‑Jetronic injection system issues"
+    ],
     "liveFeed": [
       {
         "vehicle": "Mercedes 300 GD W460 (OM617)",

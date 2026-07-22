@@ -1,24 +1,240 @@
 {
   "meta": {
     "slug": "viano",
-    "title": "Viano Engines — The Complete UK Guide",
-    "titleCharCount": 37,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "Viano Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 52,
+    "description": "Every Viano engine — OM642 V6 diesel, OM651 4-cyl diesel, OM646 diesel, M272 V6 petrol. W639 generation with pre-facelift & facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 160,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "Viano Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Viano engine — OM642 V6 diesel, OM651 4-cyl diesel, OM646 diesel, M272 V6 petrol. W639 generation with pre-facelift & facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/mercedes/viano/",
       "image": "",
-      "siteName": ""
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "Viano Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Viano engine — OM642 V6 diesel, OM651 4-cyl diesel, OM646 diesel, M272 V6 petrol. W639 generation with pre-facelift & facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Viano",
+              "item": "https://mercedesengine.uk/mercedes/viano/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Viano Generations",
+          "description": "Mercedes-Benz Viano generations covered in this guide",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W639 Pre-Facelift (2003–2010)",
+              "url": "https://mercedesengine.uk/mercedes/viano/w639-pre-facelift/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W639 Facelift (2010–2014)",
+              "url": "https://mercedesengine.uk/mercedes/viano/w639-facelift/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Viano Engine Codes",
+          "description": "Complete database of Mercedes-Benz Viano engine codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM646.982 — 2.1L diesel (109 hp)",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM646.980 — 2.1L diesel (150 hp)",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM651.940 — 2.1L diesel (136 hp)",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM651.950 — 2.1L diesel (163 hp)",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM642.990 — 3.0L V6 diesel (224 hp)",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM642.890 — 3.0L V6 diesel (190 hp)",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M272.978 — 3.5L V6 petrol (258 hp)",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M112.976 — 3.7L V6 petrol (231 hp)",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Viano engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned Viano engine costs approximately £1,800–£4,500 supply-only [PLACEHOLDER — confirm vs cost sheet], with labour adding £600–£1,500 depending on your location and specialist. Independent commercial-vehicle specialists in the North/Midlands are cheapest; London/SE dealer rates can be 40–60% higher. The OM642 V6 diesel is at the higher end of the range. Use our diagnostic calculator for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Viano engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 3.0 V6 CDI diesel — available in 190 hp and 224 hp variants — is regarded as the absolute benchmark for durability in the Viano range. The V6 diesel combines power, smoothness and longevity in a way that four-cylinder diesels simply can't match. The OM651 four-cylinder diesel (facelift, 2010–2014) is also a strong choice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Viano engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM646 2.2 CDI in pre-facelift (2003–2010) examples can suffer from injector and turbo issues at higher mileages — it's not a blanket 'avoid,' but it's an engine that demands a full service history and documented injector service. The M272 V6 petrol is reliable but thirsty — budget for 22–28 MPG."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Viano OM642 V6 diesel reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the OM642 V6 diesel is widely regarded as one of the most reliable Mercedes engines ever built for a commercial platform. The V6 is powerful, smooth and durable. The main known issues are turbo/EGR-related (carbon buildup) rather than catastrophic failures. Regular servicing and DPF maintenance are essential, especially for urban-driven examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Viano engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on the car's value and condition. A facelift Viano 3.0 CDI worth £8,000–£12,000 with a £2,500 replacement cost is a clear 'fix it.' A pre-facelift Viano 2.2 CDI worth £3,000 with a £3,000 replacement cost is a 'scrap it.' The maths is simple: if replacement cost exceeds approximately 70% of the car's current market value, get a scrap valuation before committing. Use our calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Viano should I buy — pre-facelift or facelift?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy the facelift (2010–2014) — it's the Viano at its best. The OM651 four-cylinder diesel is more reliable than the OM646 it replaced, the interior and ride quality are significantly improved, and the updated front design with LED daytime running lights gives it a more modern appearance. The V6 diesel and petrol engines carried over but with BlueEFFICIENCY updates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Viano engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your Viano engine code is stamped on the engine block (usually visible from above, near the front), printed on the vehicle's VIN sticker (often inside the driver's door frame or service book), and encoded in the VIN itself. If you're unsure, use the Mercedes-Benz VIN decoder on our homepage — or enter your registration on our calculator and we'll identify it for you."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Viano vs Vito — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They share the same W639 platform and engines — the Viano is the passenger version of the Vito van. Reliability is essentially identical. The Vito is cheaper to buy and run (lower specification, more basic interior) but less refined. The Viano offers a more car-like driving experience and much better sound insulation. Buy on intended use: passenger transport = Viano; cargo or commercial use = Vito."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "sameAs": [],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Viano Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "4500"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Viano UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Viano engines, sourced from mercedesengine.uk's specialist marketplace activity and documented failure patterns.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Viano Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes/viano/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • Viano • 2003–2014 • 1 Generation (W639) • OM642 • OM646 • OM651 • M272",
@@ -663,7 +879,48 @@
   },
   "faq": {
     "h2": "Viano Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Viano engine replacement cost in the UK?",
+        "answer": "A reconditioned Viano engine costs approximately £1,800–£4,500 supply-only [PLACEHOLDER — confirm vs cost sheet], with labour adding £600–£1,500 depending on your location and specialist. Independent commercial-vehicle specialists in the North/Midlands are cheapest; London/SE dealer rates can be 40–60% higher. The OM642 V6 diesel is at the higher end of the range. Use our diagnostic calculator for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which Viano engine is the most reliable?",
+        "answer": "The OM642 3.0 V6 CDI diesel — available in 190 hp and 224 hp variants — is regarded as the absolute benchmark for durability in the Viano range. The V6 diesel combines power, smoothness and longevity in a way that four-cylinder diesels simply can't match. The OM651 four-cylinder diesel (facelift, 2010–2014) is also a strong choice."
+      },
+      {
+        "id": 3,
+        "question": "Which Viano engine should I avoid?",
+        "answer": "The OM646 2.2 CDI in pre-facelift (2003–2010) examples can suffer from injector and turbo issues at higher mileages — it's not a blanket \"avoid,\" but it's an engine that demands a full service history and documented injector service. The M272 V6 petrol is reliable but thirsty — budget for 22–28 MPG."
+      },
+      {
+        "id": 4,
+        "question": "Is the Viano OM642 V6 diesel reliable?",
+        "answer": "Yes — the OM642 V6 diesel is widely regarded as one of the most reliable Mercedes engines ever built for a commercial platform. The V6 is powerful, smooth and durable. The main known issues are turbo/EGR-related (carbon buildup) rather than catastrophic failures. Regular servicing and DPF maintenance are essential, especially for urban-driven examples."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a Viano engine?",
+        "answer": "It depends entirely on the car's value and condition. A facelift Viano 3.0 CDI worth £8,000–£12,000 with a £2,500 replacement cost is a clear \"fix it.\" A pre-facelift Viano 2.2 CDI worth £3,000 with a £3,000 replacement cost is a \"scrap it.\" The maths is simple: if replacement cost exceeds approximately 70% of the car's current market value, get a scrap valuation before committing. Use our calculator for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which Viano should I buy — pre-facelift or facelift?",
+        "answer": "Buy the facelift (2010–2014) — it's the Viano at its best. The OM651 four-cylinder diesel is more reliable than the OM646 it replaced, the interior and ride quality are significantly improved, and the updated front design with LED daytime running lights gives it a more modern appearance. The V6 diesel and petrol engines carried over but with BlueEFFICIENCY updates."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my Viano engine code?",
+        "answer": "Your Viano engine code is stamped on the engine block (usually visible from above, near the front), printed on the vehicle's VIN sticker (often inside the driver's door frame or service book), and encoded in the VIN itself. If you're unsure, use the Mercedes-Benz VIN decoder on our homepage — or enter your registration on our calculator and we'll identify it for you."
+      },
+      {
+        "id": 8,
+        "question": "Viano vs Vito — which is more reliable?",
+        "answer": "They share the same W639 platform and engines — the Viano is the passenger version of the Vito van. Reliability is essentially identical. The Vito is cheaper to buy and run (lower specification, more basic interior) but less refined. The Viano offers a more car-like driving experience and much better sound insulation. Buy on intended use: passenger transport = Viano; cargo or commercial use = Vito."
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

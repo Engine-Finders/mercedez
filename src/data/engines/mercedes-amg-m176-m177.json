@@ -1,24 +1,265 @@
 {
   "meta": {
-    "slug": "mercedes-amg-m176-m177",
+    "slug": "m176-m177",
     "title": "Mercedes-AMG M176/M177 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "description": "The M176/M177 is a potent 4.0L AMG V8 — but hot-vee design means oil leaks and cam wear are common. See honest replacement costs and compare specialist quotes.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m176-m177/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-AMG M176/M177 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M176/M177 is a potent 4.0L AMG V8 — but hot-vee design means oil leaks and cam wear are common. See honest replacement costs and compare specialist quotes.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m176-m177/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m176-m177.jpg",
+      "siteName": "MercedesBenzEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-AMG M176/M177 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M176/M177 is a potent 4.0L AMG V8 — but hot-vee design means oil leaks and cam wear are common. See honest replacement costs and compare specialist quotes.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m176-m177.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes-AMG M176/M177",
+              "item": "https://mercedesbenzengine.uk/engines/m176-m177/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M176/M177",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C-Class W205 C 63 / C 63 S",
+              "url": "https://mercedesbenzengine.uk/models/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class W206 C 63 S E Performance",
+              "url": "https://mercedesbenzengine.uk/models/c-class/w206/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E-Class W213 E 63 / E 63 S",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "S-Class W222 S 63",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w222/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "GLC-Class X253 GLC 63 / GLC 63 S",
+              "url": "https://mercedesbenzengine.uk/models/glc-class/x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "GLE-Class W166 GLE 63 / GLE 63 S",
+              "url": "https://mercedesbenzengine.uk/models/gle-class/w166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "GLE-Class V167 GLE 580 / GLE 63",
+              "url": "https://mercedesbenzengine.uk/models/gle-class/v167/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "GLS-Class X166 GLS 63",
+              "url": "https://mercedesbenzengine.uk/models/gls-class/x166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "GLS-Class X167 GLS 580 / GLS 63",
+              "url": "https://mercedesbenzengine.uk/models/gls-class/x167/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "G-Class W463 G 500 / G 550 / G 63",
+              "url": "https://mercedesbenzengine.uk/models/g-class/w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Maybach S-Class X222 S 560",
+              "url": "https://mercedesbenzengine.uk/models/maybach/x222/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Maybach S-Class Z223 S 580",
+              "url": "https://mercedesbenzengine.uk/models/maybach/z223/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "AMG GT C190",
+              "url": "https://mercedesbenzengine.uk/models/amg-gt/c190/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "AMG GT 4-Door X290 GT 63 / GT 63 S",
+              "url": "https://mercedesbenzengine.uk/models/amg-gt/x290/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "SL-Class R232 SL 63",
+              "url": "https://mercedesbenzengine.uk/models/sl-class/r232/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "CLS-Class C257 CLS 53 / CLS 63",
+              "url": "https://mercedesbenzengine.uk/models/cls-class/c257/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M176/M177 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M176/M177 typically costs £7,000–£12,000 supply only, varying by specific variant and output. Fitting adds £1,500–£3,000 depending on labour rates. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-AMG M176/M177 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M176/M177 is rated 3.5★ out of 5 — generally robust for a high-performance V8, but its hot-vee design creates heat-related maintenance demands. Many specialists recommend major inspection around 60,000–90,000 miles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M176/M177 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Common issues include camshaft wear (ticking noise, Check Engine Light codes P0016/P0017), oil leaks from camshaft position sensors and adjuster magnets, rear main seal failure from blocked oil-vapour separators, and early-production ignition coil misfires."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M176/M177?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M176 powers non-AMG V8 models like the G 500/G 550 and S 560/S 580. The M177 powers AMG models including the C 63, E 63, G 63, GLC 63, and GT 63, plus Aston Martin Vantage and DB11."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M176/M177 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance, these engines can reach 90,000–150,000 miles. However, specialists note that major overhauls are common in this mileage range — strict servicing and early attention to oil leaks are essential for longevity."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesBenzEngine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-AMG M176/M177 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-AMG"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-AMG M176/M177 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "4000",
+            "highPrice": "16000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-AMG M176/M177 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-AMG M176/M177, sourced from MercedesBenzEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-AMG M176/M177 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m176-m177/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-AMG • M176/M177 • Petrol • V8 Biturbo • 2015–present",
@@ -380,6 +621,10 @@
       {
         "metric": "* UK Coverage: Our network spans independent specialists across England, Scotland, Wales and Northern Ireland — wherever you are, we'll find you a trusted M176/M177 specialist nearby.",
         "value": "Find the best Mercedes-AMG M176/M177 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence."
+      },
+      {
+        "metric": "CTA Button: Compare Mercedes-AMG M176/M177 Engine Prices Now →",
+        "value": "Part 2: Meta Data & Schema — Mercedes-AMG M176/M177"
       }
     ]
   },

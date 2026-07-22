@@ -1,11 +1,337 @@
 {
   "meta": {
-    "slug": "mercedes-clk-c209",
-    "title": "Mercedes CLK C209 Engines — The Complete UK Guide",
+    "slug": "bmw-mercedes-clk-c209",
+    "title": "C209 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 49,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "description": "Every Mercedes CLK C209 engine — M271, M112, M272, M113, M156, OM612, OM646 and OM642. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 157,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLK",
+              "item": "https://mercedesengine.uk/mercedes-clk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes CLK C209",
+              "item": "https://mercedesengine.uk/mercedes-clk/c209/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes C209 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M271.940 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M271.942 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M271.955 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M112.912 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M112.955 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M272.940 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M272.960 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M113.968 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M113.990 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M156.982 Engine",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "OM612.962 Engine",
+              "url": "https://mercedesengine.uk/engines/om612/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "OM646.966 Engine",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "OM642.910 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes C209 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "CLK 200 Kompressor",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-200-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLK 200 CGI",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-200-cgi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CLK 240",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-240/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLK 320",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-320/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLK 280",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-280/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLK 350",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-350/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "CLK 500",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "CLK 55 AMG",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-55-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "CLK 63 AMG",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "CLK 270 CDI",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-270-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "CLK 220 CDI",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-220-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "CLK 320 CDI",
+              "url": "https://mercedesengine.uk/mercedes-clk/clk-320-cdi/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes CLK C209 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned C209 engine typically costs £1,800–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM646 diesel sits at £2,200–£3,800. Fitting adds 10–20 hours labour at specialist rates due to the V6‑packaged engine bay. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes C209 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112.955 (CLK 320, pre‑facelift) — a 3.2‑litre V6 with simple 3‑valve technology and no balance‑shaft issues. The OM646.966 (CLK 220 CDI, facelift) is the most reliable diesel — refined, efficient, and free of the OM642's oil cooler seal problems."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes CLK C209?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "M271 timing chain and camshaft adjuster wear (supercharged four‑cylinder), M272 balance shaft wear (facelift V6), OM642 oil cooler seal leaks (V6 diesel), and — gearbox‑related — 7G‑TRONIC conductor plate and valve body issues on facelift cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes CLK C209 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on which engine you choose. The M112 V6 and M113 V8 are robust and well‑proven; the M271 has timing chain issues; the M272 suffers from balance‑shaft wear on early cars; the OM642 V6 diesel is reliable but has oil cooler seal leaks. The facelift 7G‑TRONIC gearbox also needs regular servicing. Choose carefully and always check service history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes C209 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a pre‑2008 M272 (CLK 280/350) without documented balance‑shaft replacement is the one we'd approach cautiously, given the £2,000–£3,000 repair cost. A neglected M271 without timing chain history is the second."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my C209 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rattling on start‑up (M271 timing chain or M272 balance shaft), oil leaks around the V of the engine (OM642), rough idle or starting issues (OM646/OM612 injector wear), or engine management light. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes CLK C209 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well‑kept £6,000 C209, a £2,200–£3,800 OM646 recon is 37–63% of the car's value — safe. Against a tired £3,500 example, the same recon is 63–109% — walk away. Our 70% Mercedes threshold is the line. For the AMG models, the car's value is often high enough to justify even the M156 recon."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes C209 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112 V6 and M113 V8 can exceed 200,000 miles with proper servicing. The OM646 and OM642 diesels are similarly durable — 200,000+ miles is achievable with injector and oil cooler maintenance. The M271 and early M272 are more sensitive but can reach 150,000+ miles with proactive chain/balance‑shaft attention."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the C209 and the A209 CLK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the second‑generation CLK platform and most engines. The C209 is the 2‑door coupé (this page), the A209 is the 2‑door cabriolet. The cabriolet has additional structural bracing, a heavier kerb weight, and a more complex roof mechanism — costs on the A209 are typically slightly higher than the C209 for comparable engine work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes C209 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M112/M272 is at the front, OM642 on the side). Tell us your variant, registration year, and whether it's pre‑facelift (2002–2005) or facelift (2005–2009) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes CLK C209 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "900",
+            "highPrice": "20000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes CLK C209 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes CLK C209 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "C209 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-clk/c209/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -594,23 +920,121 @@
     "scopeNote": "All variants listed are C209 two‑door coupé only. A209 cabriolet shares most of these engines but is covered on its own Generation Page, since the cabriolet's additional structural bracing and weight affect performance and running costs."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM642.910 (CLK 320 CDI)",
+      "2. OM646.966 (CLK 220 CDI)",
+      "3. M112.955 (CLK 320)"
+    ],
+    "mostRequestedVariants": [
+      "1. CLK 320 CDI",
+      "2. CLK 220 CDI",
+      "3. CLK 350"
+    ],
+    "averageReplacementCost": "£2,800–£5,000 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. M271 timing chain/camshaft adjuster",
+      "2. M272 balance shaft wear",
+      "3. OM642 oil cooler seal leak"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes CLK 220 CDI (OM646)",
+        "location": "Birmingham",
+        "issue": "Injector wear / rough idle",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes CLK 350 (M272)",
+        "location": "London",
+        "issue": "Rattling on start‑up / balance shaft",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes CLK 320 CDI (OM642)",
+        "location": "Manchester",
+        "issue": "Oil leak / alternator contamination",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CLK C209 engine replacement cost in the UK?",
+        "answer": "A reconditioned C209 engine typically costs £1,800–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM646 diesel sits at £2,200–£3,800. Fitting adds 10–20 hours labour at specialist rates due to the V6‑packaged engine bay. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes C209 engine is the most reliable?",
+        "answer": "The M112.955 (CLK 320, pre‑facelift) — a 3.2‑litre V6 with simple 3‑valve technology and no balance‑shaft issues. The OM646.966 (CLK 220 CDI, facelift) is the most reliable diesel — refined, efficient, and free of the OM642's oil cooler seal problems."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes CLK C209?",
+        "answer": "M271 timing chain and camshaft adjuster wear (supercharged four‑cylinder), M272 balance shaft wear (facelift V6), OM642 oil cooler seal leaks (V6 diesel), and — gearbox‑related — 7G‑TRONIC conductor plate and valve body issues on facelift cars."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes CLK C209 reliable?",
+        "answer": "It depends heavily on which engine you choose. The M112 V6 and M113 V8 are robust and well‑proven; the M271 has timing chain issues; the M272 suffers from balance‑shaft wear on early cars; the OM642 V6 diesel is reliable but has oil cooler seal leaks. The facelift 7G‑TRONIC gearbox also needs regular servicing. Choose carefully and always check service history."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes C209 engine should I avoid?",
+        "answer": "No engine outright — but a pre‑2008 M272 (CLK 280/350) without documented balance‑shaft replacement is the one we'd approach cautiously, given the £2,000–£3,000 repair cost. A neglected M271 without timing chain history is the second."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my C209 engine needs replacing?",
+        "answer": "Rattling on start‑up (M271 timing chain or M272 balance shaft), oil leaks around the V of the engine (OM642), rough idle or starting issues (OM646/OM612 injector wear), or engine management light. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes CLK C209 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well‑kept £6,000 C209, a £2,200–£3,800 OM646 recon is 37–63% of the car's value — safe. Against a tired £3,500 example, the same recon is 63–109% — walk away. Our 70% Mercedes threshold is the line. For the AMG models, the car's value is often high enough to justify even the M156 recon."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes C209 engines last?",
+        "answer": "The M112 V6 and M113 V8 can exceed 200,000 miles with proper servicing. The OM646 and OM642 diesels are similarly durable — 200,000+ miles is achievable with injector and oil cooler maintenance. The M271 and early M272 are more sensitive but can reach 150,000+ miles with proactive chain/balance‑shaft attention."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the C209 and the A209 CLK?",
+        "answer": "Both share the second‑generation CLK platform and most engines. The C209 is the 2‑door coupé (this page), the A209 is the 2‑door cabriolet. The cabriolet has additional structural bracing, a heavier kerb weight, and a more complex roof mechanism — costs on the A209 are typically slightly higher than the C209 for comparable engine work."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes C209 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M112/M272 is at the front, OM642 on the side). Tell us your variant, registration year, and whether it's pre‑facelift (2002–2005) or facelift (2005–2009) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes CLK C209 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted C209 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real C209 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare C209 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for C209",
+        "text": "covering every variant from CLK 200 Kompressor to CLK 63 AMG, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes CLK C209 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes CLK C209 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

@@ -1,24 +1,347 @@
 {
   "meta": {
     "slug": "g-class",
-    "title": "G-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "G-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 51,
+    "description": "Every G-Class engine — OM642, M176, M157, OM656. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 156,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "G-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every G-Class engine — OM642, M176, M157, OM656. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/g-class/",
       "image": "",
-      "siteName": ""
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "G-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every G-Class engine — OM642, M176, M157, OM656. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "G-Class",
+              "item": "https://mercedesengine.uk/g-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "G-Class Generations",
+          "description": "The four generations of Mercedes-Benz G-Class covered in this guide.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W460 (1979–1990)",
+              "url": "https://mercedesengine.uk/g-class/w460/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W461 (1990–2001)",
+              "url": "https://mercedesengine.uk/g-class/w461/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W463 (1990–2018)",
+              "url": "https://mercedesengine.uk/g-class/w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "W464 (2018–present)",
+              "url": "https://mercedesengine.uk/g-class/w464/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "G-Class Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz G-Class in the UK.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M110 — 2.8L Petrol",
+              "url": "https://mercedesengine.uk/engines/m110/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM615 — 2.4L Diesel",
+              "url": "https://mercedesengine.uk/engines/om615/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM616 — 2.4L Diesel",
+              "url": "https://mercedesengine.uk/engines/om616/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM617 — 3.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om617/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM602 — 2.9L Diesel",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM603 — 3.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om603/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M104 — 3.2L Petrol",
+              "url": "https://mercedesengine.uk/engines/m104/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M113 — 5.0L V8 Petrol",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M273 — 5.5L V8 Petrol",
+              "url": "https://mercedesengine.uk/engines/m273/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M157 — 5.5L V8 Turbo (AMG)",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "OM642 — 3.0L V6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "M176 — 4.0L V8 Turbo",
+              "url": "https://mercedesengine.uk/engines/m176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "M177 — 4.0L V8 Turbo (AMG)",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "OM656 — 2.9L Straight-Six Diesel",
+              "url": "https://mercedesengine.uk/engines/om656/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "M279 — 6.0L V12 Turbo (AMG)",
+              "url": "https://mercedesengine.uk/engines/m279/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a G-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A G-Class engine replacement costs £3,200–£14,000 for a reconditioned unit (supply-only) [MB-QUOTE], with labour adding £650–£1,430 (independent) or more in London/SE. The exact figure depends on your engine code: OM642 diesel replacements are the most affordable (£3,200–£5,500), while AMG V8s (M157/M177) can cost £8,000–£14,000 for a recon supply. Use our diagnostic calculator above for a personalised quote based on your engine and vehicle value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which G-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM656 straight-six diesel (fitted to the W464 G 350 d / G 400 d from 2018) is the most reliable G-Class engine—it has a clean emissions design, no known catastrophic failure points, and is built on Mercedes' modern modular diesel architecture. Among petrols, the M176 V8 (W463 2015+ and W464 G 500) is the most robust—far more reliable than the M273 it replaced."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which G-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We don't say 'avoid' outright, but the M157 V8 (W463 G 63 AMG, 2012–2015) carries a real, well-documented caveat: cylinder bore scoring. This is a catastrophic failure that requires a full engine replacement (£8,000–£14,000) [MB-QUOTE]. If you're buying a pre-2015 G 63, demand a bore-scope inspection as part of the pre-purchase inspection. The M273 V8 (W463 G 500, 2008–2015) also has camshaft adjuster issues—buy with caution and full service history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the G-Class engine bay really that tight?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes—the G-Class's engine bay is notoriously tight, especially on the V8 and AMG variants. Labour hours for engine work are significantly higher than on other Mercedes models—10–14 hours for a diesel, 16–22 hours for an AMG V8 [MB-QUOTE]. This is why specialist labour is essential and why DIY repairs are strongly discouraged."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a G-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on your generation and vehicle value. For a W464 (£80,000–£200,000+ value), a £4,000–£14,000 recon is well within the 70% threshold—worth it. For a W463 (2015+) (£40,000–£80,000), an M176 or OM642 recon at £3,200–£5,500 is also within threshold—worth it. For a W463 (pre-2015) (£10,000–£40,000), an M157 recon at £8,000–£14,000 can exceed 50% on lower-value examples—run the numbers. For a W460/W461 (under £15,000), a replacement almost never makes financial sense unless you're a collector—scrap it or rebuild it yourself."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which G-Class generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W464 (2018+) is the unequivocal recommendation for daily drivers and collectors alike—it's the safest, most reliable, and best-value modern G-Class. If your budget is tighter, the W463 (2015+ facelift) with the M176 V8 or OM642 diesel is a solid alternative—avoid pre-2015 G 63 AMGs with the M157 unless you have a full service history and a specialist inspection. The W460 and W461 are collector's items—buy only if you're an enthusiast or serious off-roader."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my G-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN (e.g. 'OM642' or 'M176'). You can also find it on the engine block itself—on most G-Classes, it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "G-Class vs GLE — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They're completely different vehicles built for different purposes. The G-Class is a body-on-frame off-roader with a tight engine bay and higher labour costs; the GLE is a unibody crossover with more conventional packaging. For reliability, the GLE's OM654 and M276 engines are well-proven, while the G-Class's OM656 and M176 are equally robust but more expensive to fix when things go wrong. Choose the GLE for practicality and value; choose the G-Class for icon status and long-term appreciation. Read the full comparison: G-Class vs GLE → /compare/g-class-vs-gle/"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/logo.png",
+          "sameAs": [],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "G-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "14000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "G-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for G-Class engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "G-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/g-class/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        },
+        {
+          "@type": "EngineSpecification",
+          "name": "G-Class Engine Codes Database",
+          "description": "Every engine code fitted to the Mercedes-Benz G-Class in the UK, with reliability ratings and cost data.",
+          "engineType": [
+            "M110",
+            "OM615",
+            "OM616",
+            "OM617",
+            "OM602",
+            "OM603",
+            "M104",
+            "M113",
+            "M273",
+            "M157",
+            "OM642",
+            "M176",
+            "M177",
+            "OM656",
+            "M279"
+          ],
+          "fuelType": [
+            "Petrol",
+            "Diesel"
+          ],
+          "engineDisplacement": [
+            "2.8L",
+            "2.4L",
+            "3.0L",
+            "2.9L",
+            "3.2L",
+            "5.0L",
+            "5.5L",
+            "4.0L",
+            "6.0L"
+          ]
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz G-Class Engine Replacement Service",
+          "description": "Professional G-Class engine replacement services from a vetted UK network of Mercedes-Benz specialists. Used, reconditioned and rebuilt options available.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "14000",
+            "availability": "https://schema.org/InStock"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • G-Class • 1979–Present • 4 Generations • M110 • OM617 • M113 • M157 • OM642 • M176 • M177 • OM656",
@@ -696,7 +1019,48 @@
   },
   "faq": {
     "h2": "G‑Class Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a G‑Class engine replacement cost in the UK?",
+        "answer": "A G‑Class engine replacement costs £3,200–£14,000 for a reconditioned unit (supply‑only) [MB-QUOTE], with labour adding £650–£1,430 (independent) or more in London/SE. The exact figure depends on your engine code: OM642 diesel replacements are the most affordable (£3,200–£5,500), while AMG V8s (M157/M177) can cost £8,000–£14,000 for a recon supply. Use our diagnostic calculator above for a personalised quote based on your engine and vehicle value."
+      },
+      {
+        "id": 2,
+        "question": "Which G‑Class engine is the most reliable?",
+        "answer": "The OM656 straight‑six diesel (fitted to the W464 G 350 d / G 400 d from 2018) is the most reliable G‑Class engine—it has a clean emissions design, no known catastrophic failure points, and is built on Mercedes' modern modular diesel architecture. Among petrols, the M176 V8 (W463 2015+ and W464 G 500) is the most robust—far more reliable than the M273 it replaced."
+      },
+      {
+        "id": 3,
+        "question": "Which G‑Class engine should I avoid?",
+        "answer": "We don't say \"avoid\" outright, but the M157 V8 (W463 G 63 AMG, 2012–2015) carries a real, well‑documented caveat: cylinder bore scoring. This is a catastrophic failure that requires a full engine replacement (£8,000–£14,000) [MB-QUOTE]. If you're buying a pre‑2015 G 63, demand a bore‑scope inspection as part of the pre‑purchase inspection. The M273 V8 (W463 G 500, 2008–2015) also has camshaft adjuster issues—buy with caution and full service history."
+      },
+      {
+        "id": 4,
+        "question": "Is the G‑Class engine bay really that tight?",
+        "answer": "Yes—the G‑Class's engine bay is notoriously tight, especially on the V8 and AMG variants. Labour hours for engine work are significantly higher than on other Mercedes models—10–14 hours for a diesel, 16–22 hours for an AMG V8 [MB-QUOTE]. This is why specialist labour is essential and why DIY repairs are strongly discouraged."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a G‑Class engine?",
+        "answer": "It depends entirely on your generation and vehicle value. For a W464 (£80,000–£200,000+ value), a £4,000–£14,000 recon is well within the 70% threshold—worth it. For a W463 (2015+) (£40,000–£80,000), an M176 or OM642 recon at £3,200–£5,500 is also within threshold—worth it. For a W463 (pre‑2015) (£10,000–£40,000), an M157 recon at £8,000–£14,000 can exceed 50% on lower‑value examples—run the numbers. For a W460/W461 (under £15,000), a replacement almost never makes financial sense unless you're a collector—scrap it or rebuild it yourself."
+      },
+      {
+        "id": 6,
+        "question": "Which G‑Class generation should I buy?",
+        "answer": "The W464 (2018+) is the unequivocal recommendation for daily drivers and collectors alike—it's the safest, most reliable, and best‑value modern G‑Class. If your budget is tighter, the W463 (2015+ facelift) with the M176 V8 or OM642 diesel is a solid alternative—avoid pre‑2015 G 63 AMGs with the M157 unless you have a full service history and a specialist inspection. The W460 and W461 are collector's items—buy only if you're an enthusiast or serious off‑roader."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my G‑Class engine code?",
+        "answer": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN (e.g. \"OM642\" or \"M176\"). You can also find it on the engine block itself—on most G‑Classes, it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+      },
+      {
+        "id": 8,
+        "question": "G‑Class vs GLE — which is more reliable?",
+        "answer": "They're completely different vehicles built for different purposes. The G‑Class is a body‑on‑frame off‑roader with a tight engine bay and higher labour costs; the GLE is a unibody crossover with more conventional packaging. For reliability, the GLE's OM654 and M276 engines are well‑proven, while the G‑Class's OM656 and M176 are equally robust but more expensive to fix when things go wrong. Choose the GLE for practicality and value; choose the G‑Class for icon status and long‑term appreciation. Read the full comparison: G‑Class vs GLE →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

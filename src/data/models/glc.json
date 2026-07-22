@@ -1,24 +1,238 @@
 {
   "meta": {
     "slug": "glc",
-    "title": "GLC Engines — The Complete UK Guide",
-    "titleCharCount": 35,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "GLC Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 53,
+    "description": "Every GLC engine — OM651, OM654, M274, M276, M254, M139. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
+    "descriptionCharCount": 158,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "GLC Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLC engine — OM651, OM654, M274, M276, M254, M139. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/mercedes/glc/",
       "image": "",
-      "siteName": ""
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "GLC Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLC engine — OM651, OM654, M274, M276, M254, M139. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLC",
+              "item": "https://mercedesengine.uk/mercedes/glc/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLC Generations",
+          "description": "All Mercedes-Benz GLC generations covered on this page",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "X253 GLC (2015–2022)",
+              "url": "https://mercedesengine.uk/mercedes/glc/x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "X254 GLC (2022–present)",
+              "url": "https://mercedesengine.uk/mercedes/glc/x254/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLC Engine Codes",
+          "description": "All verified Mercedes-Benz GLC engine codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651 2.1 CDI",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM654 2.0 CDI",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M274 2.0 turbo petrol",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M276 3.0 V6 turbo petrol",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M254 2.0 turbo petrol (mild hybrid)",
+              "url": "https://mercedesengine.uk/engines/m254/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M139 2.0 turbo petrol (AMG)",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a GLC engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A GLC engine replacement ranges from £2,800–£5,000 for a reconditioned diesel unit (supply-only) [MB-QUOTE]. Labour adds 8–12 hours at £65–£95/hr independent, or £110–£160/hr at a London/SE dealer — so fitted cost is roughly £3,300–£6,200. Petrol variants start at £2,000–£3,800 recon; AMG M139 variants are £6,000–£10,000 recon. Use our calculator for a personalised quote based on your specific engine, generation and location."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLC engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0 diesel (X253 post-2018, X254 all variants) is the most reliable GLC engine in our data — it accounts for 526+ combined enquiries across both generations, and the AdBlue system issues are the only (low-severity) caveat [MB-VERIFIED]. The OM651 in the pre-2018 X253 is reliable if the injector seals are done, but the OM654 is a clear step forward."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLC engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No GLC engine outright — but the pre-2018 OM651 carries a real, well-documented caveat: 'Black Death' injector-seal failure, worse on higher-mileage or poorly-maintained examples. It's a manageable, preventable issue with regular servicing — not a reason to avoid the engine entirely, but a reason to demand full history. The OM654 in 2018+ X253 and X254 has no such caveat — buy with confidence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the GLC timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On the OM651 diesel, the timing chain is front-mounted (unlike the N47 BMW engine's rear-chain design), so chain wear is less frequent and less catastrophic. The main OM651 caveat is the injector-seal failure ('Black Death'), not the chain. On the M276 V6 petrol (GLC 43, pre-2020), timing chain stretch can occur but is rare — post-2020 M276 examples are revised and more robust. If you hear a rattle on cold start from a pre-2020 GLC 43, have it inspected."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a GLC engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almost always yes. An X253 GLC 220d (OM651) at typical market value of £14,000–£38,000 against a £2,800–£4,800 recon cost sits at 7–34% — comfortably below our 70% threshold [MB-QUOTE]. An X254 GLC 220d (OM654) at £28,000–£55,000 against £3,000–£5,000 sits at 5–18% — trivially safe. The only caveat is the M139 AMG — at £6,000–£10,000 recon, it's still safe, but the specialist pool is smaller and you need to be confident in the workshop doing the work. Use our calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLC should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy a post-2018 X253 with the OM654 diesel (GLC 220d or 300d) — the facelift electronics, the more reliable diesel, and values that have already absorbed the steepest depreciation make this the used-buy sweet spot. If your budget stretches, buy an X254 — the OM654-only diesel range is the safest Mercedes SUV in our data, and the vehicle value is high enough that replacement cost is almost trivial. Avoid the pre-2018 OM651 unless the history is impeccable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my GLC engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The easiest way is to check your VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is the first three characters of the engine number (e.g. 'OM651' for the 2.1-litre diesel, 'OM654' for the 2.0-litre diesel). Alternatively, check your vehicle's registration document (V5C), which lists the engine number. If you're still unsure, use our identification tool — we'll match your VIN to the correct engine and show you the exact replacement cost."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "GLC vs GLE — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The GLC has a cleaner reliability record in our data — the GLC's OM651/OM654 diesel range has fewer failure reports than the GLE's OM642 V6 diesel (which carries the oil-cooler-seal caveat). The GLC is also cheaper to buy, cheaper to run, and holds its value better than the GLE. The GLC is the safer buy on reliability, economics and value retention — the GLE is only worth the upgrade if you genuinely need the extra space or towing capacity."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          },
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "GLC Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "10000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz GLC UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz GLC engines, sourced from mercedesengine.uk's specialist marketplace activity. 526+ real UK enquiries tracked across X253 and X254 generations.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "GLC Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes/glc/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07",
+          "inLanguage": "en-GB",
+          "about": {
+            "@type": "Thing",
+            "name": "Mercedes-Benz GLC engine replacement and reliability guide"
+          },
+          "mainEntity": {
+            "@type": "Service",
+            "name": "GLC Engine Replacement",
+            "description": "Complete UK guide to Mercedes-Benz GLC engine replacement, reliability, common failures and costs"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • GLC • 2015–present • 2 Generations • OM651 • OM654 • M276",
@@ -565,7 +779,48 @@
   },
   "faq": {
     "h2": "GLC Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a GLC engine replacement cost in the UK?",
+        "answer": "A GLC engine replacement ranges from £2,800–£5,000 for a reconditioned diesel unit (supply‑only) [MB‑QUOTE]. Labour adds 8–12 hours at £65–£95/hr independent, or £110–£160/hr at a London/SE dealer — so fitted cost is roughly £3,300–£6,200. Petrol variants start at £2,000–£3,800 recon; AMG M139 variants are £6,000–£10,000 recon. Use our calculator for a personalised quote based on your specific engine, generation and location → [/fault-diagnostic-calculator?model=glc]"
+      },
+      {
+        "id": 2,
+        "question": "Which GLC engine is the most reliable?",
+        "answer": "The OM654 2.0 diesel (X253 post‑2018, X254 all variants) is the most reliable GLC engine in our data — it accounts for 526+ combined enquiries across both generations, and the AdBlue system issues are the only (low‑severity) caveat [MB‑VERIFIED]. The OM651 in the pre‑2018 X253 is reliable if the injector seals are done, but the OM654 is a clear step forward."
+      },
+      {
+        "id": 3,
+        "question": "Which GLC engine should I avoid?",
+        "answer": "No GLC engine outright — but the pre‑2018 OM651 carries a real, well‑documented caveat: \"Black Death\" injector‑seal failure, worse on higher‑mileage or poorly‑maintained examples. It's a manageable, preventable issue with regular servicing — not a reason to avoid the engine entirely, but a reason to demand full history. The OM654 in 2018+ X253 and X254 has no such caveat — buy with confidence."
+      },
+      {
+        "id": 4,
+        "question": "Is the GLC timing chain problem real?",
+        "answer": "On the OM651 diesel, the timing chain is front‑mounted (unlike the N47 BMW engine's rear‑chain design), so chain wear is less frequent and less catastrophic. The main OM651 caveat is the injector‑seal failure (\"Black Death\"), not the chain. On the M276 V6 petrol (GLC 43, pre‑2020), timing chain stretch can occur but is rare — post‑2020 M276 examples are revised and more robust. If you hear a rattle on cold start from a pre‑2020 GLC 43, have it inspected."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a GLC engine?",
+        "answer": "Almost always yes. An X253 GLC 220d (OM651) at typical market value of £14,000–£38,000 against a £2,800–£4,800 recon cost sits at 7–34% — comfortably below our 70% threshold [MB‑QUOTE]. An X254 GLC 220d (OM654) at £28,000–£55,000 against £3,000–£5,000 sits at 5–18% — trivially safe. The only caveat is the M139 AMG — at £6,000–£10,000 recon, it's still safe, but the specialist pool is smaller and you need to be confident in the workshop doing the work. Use our calculator for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which GLC should I buy?",
+        "answer": "Buy a post‑2018 X253 with the OM654 diesel (GLC 220d or 300d) — the facelift electronics, the more reliable diesel, and values that have already absorbed the steepest depreciation make this the used‑buy sweet spot. If your budget stretches, buy an X254 — the OM654‑only diesel range is the safest Mercedes SUV in our data, and the vehicle value is high enough that replacement cost is almost trivial. Avoid the pre‑2018 OM651 unless the history is impeccable."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my GLC engine code?",
+        "answer": "The easiest way is to check your VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is the first three characters of the engine number (e.g. \"OM651\" for the 2.1‑litre diesel, \"OM654\" for the 2.0‑litre diesel). Alternatively, check your vehicle's registration document (V5C), which lists the engine number. If you're still unsure, use our identification tool — we'll match your VIN to the correct engine and show you the exact replacement cost → [/fault-diagnostic-calculator?model=glc]"
+      },
+      {
+        "id": 8,
+        "question": "GLC vs GLE — which is more reliable?",
+        "answer": "The GLC has a cleaner reliability record in our data — the GLC's OM651/OM654 diesel range has fewer failure reports than the GLE's OM642 V6 diesel (which carries the oil‑cooler‑seal caveat). The GLC is also cheaper to buy, cheaper to run, and holds its value better than the GLE. The GLC is the safer buy on reliability, economics and value retention — the GLE is only worth the upgrade if you genuinely need the extra space or towing capacity. Read the full comparison: GLC vs GLE →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

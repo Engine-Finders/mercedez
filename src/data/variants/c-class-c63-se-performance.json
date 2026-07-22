@@ -578,76 +578,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (12%) — premium performance strongholds [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑AMG C63 S E Performance engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned C63 S E Performance engine (M139l with hybrid system) typically costs £5,000–£8,000 supply only. On average, a full engine replacement can run anywhere between £1,500 and £5,000 depending on the car model. Fitting adds £1,500–£2,500. As a low‑volume, high‑performance PHEV, supply is extremely limited. Use our calculator for a figure specific to your vehicle.",
-        "value": "2. Is the Mercedes‑AMG C63 S E Performance engine reliable?"
-      },
-      {
-        "label": "The M139 is a technical masterpiece — the most powerful series‑production four‑cylinder in the world. However, it is a highly stressed engine with known vulnerabilities: HPFP and injector issues, oil leaks, carbon buildup, cooling system stress, and turbocharger wear. The PHEV system adds further complexity — battery drain issues and software recalls are common. AMG has admitted the four‑cylinder PHEV failed to connect with customers and will be phased out.",
-        "value": "3. What are the common problems with the Mercedes‑AMG C63 S E Performance?"
-      },
-      {
-        "label": "The most common issues are HPFP and injector failure (rough running, hard starting), oil leaks and carbon buildup on intake valves, hybrid battery drain (overnight drain due to software glitches), cooling system and turbocharger wear, and infotainment/ADAS recalls (2024‑2026 models).",
-        "value": "4. Is it worth replacing a C63 S E Performance engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and condition. Against a tidy £50,000–£90,000 C63 S E Performance, a £5,000–£8,500 recon is 5‑15% of the car's value — often worth it on well‑maintained examples. However, if the hybrid battery has also failed (costing £2,000–£5,000+), the total repair cost may be substantial. Get a full diagnostic assessment before committing.",
-        "value": "5. How do I find my C63 S E Performance's engine code?"
-      },
-      {
-        "label": "The C63 S E Performance uses the M139l 2.0‑litre four‑cylinder turbo engine combined with a 150 kW electric motor. The engine code is stamped on the engine block and listed on your V5C. The C63 S E Performance badge itself confirms the powertrain — it's the 680 PS plug‑in hybrid flagship.",
-        "value": "6. Can I repair a C63 S E Performance engine issue, or does it need replacement?"
-      },
-      {
-        "label": "Most issues — HPFP/injector failure, oil leaks, carbon buildup, cooling system problems, turbocharger wear — are repairable. Hybrid battery drain issues are usually software‑related and can be fixed with an update. However, if the engine suffers major internal failure, a full engine replacement is usually more cost‑effective than a rebuild. The M139 is a complex, high‑stress engine requiring specialist knowledge.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), meta tags, Open Graph, Twitter Card, and complete JSON‑LD schema.",
-        "value": "* Brand: Mercedes‑Benz"
-      },
-      {
-        "label": "* Domain: mercedesengine.uk",
-        "value": "* Data tag: MB‑"
-      },
-      {
-        "label": "* Specialist count: 25+",
-        "value": "* Scrap threshold: 70%"
-      },
-      {
-        "label": "* CTA Mode: Consultative (Priority M)",
-        "value": "* Era Map rows: 1 (M139l + 150 kW e‑motor)"
-      },
-      {
-        "label": "* Engine codes: M139l",
-        "value": "* Service schema price range: £2,000 (lowest used) to £8,500 (highest rebuilt) — spans full Era Map history"
-      },
-      {
-        "label": "* Model Page needed: Mercedes‑AMG C‑Class W206 Generation Page",
-        "value": "* Generation Page needed: Mercedes‑AMG C‑Class W206 Generation Page (for cost inheritance)"
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), Meta tags, Open Graph, Twitter Card, and the JSON-LD Schema. It also includes a Production Note at the end.",
-        "value": "The user's deep need here is efficiency and consistency. They're likely building a large content library and want to maintain a uniform format across all these pages. They're relying on me to follow the established template precisely, using the data I've already gathered and verified in Part 1. They probably don't want to re-explain the brand, model, or specifications, just the completion of the standard structure."
-      },
-      {
-        "label": "My response needs to mirror the exact format from previous Part 2 completions. I'll start with the Production Note declaration block (checking I have the right tags and sources from Part 1), then Section 9 with trust points and final CTA. After that, I'll generate the Meta Title and Description, the Open Graph tags, and the complete JSON-LD schema. Finally, I'll end with the Production Note, which is a critical part of the system, summarizing the authority model and sources.",
-        "value": "I must ensure all the numbers, facts, and specific issues (like the HPFP failures, hybrid battery drain, recalls) I mentioned in Part 1 are reflected consistently in the schema and meta description. The schema needs to include the specific engine code (M139l) and the broad price range I estimated (£2,000 to £8,500). I also need to state clearly that the rating is newly assigned and note the sources used, just like in all previous responses."
-      },
-      {
-        "label": "The user's identity is likely someone in automotive content production, SEO, or a specialist marketplace who needs these pages for a website. Their genuine need is for accurate, consistent, and well-structured content that follows specific editorial and technical (schema) guidelines.",
-        "value": "Mercedes‑AMG C63 S E Performance — VARIANT PAGE, PART 2"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑AMG C63 S E Performance engine replacement cost in the UK?",
+        "answer": "A reconditioned C63 S E Performance engine (M139l with hybrid system) typically costs £5,000–£8,000 supply only. On average, a full engine replacement can run anywhere between £1,500 and £5,000 depending on the car model. Fitting adds £1,500–£2,500. As a low‑volume, high‑performance PHEV, supply is extremely limited. Use our calculator for a figure specific to your vehicle."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑AMG C63 S E Performance engine reliable?",
+        "answer": "The M139 is a technical masterpiece — the most powerful series‑production four‑cylinder in the world. However, it is a highly stressed engine with known vulnerabilities: HPFP and injector issues, oil leaks, carbon buildup, cooling system stress, and turbocharger wear. The PHEV system adds further complexity — battery drain issues and software recalls are common. AMG has admitted the four‑cylinder PHEV failed to connect with customers and will be phased out."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑AMG C63 S E Performance?",
+        "answer": "The most common issues are HPFP and injector failure (rough running, hard starting), oil leaks and carbon buildup on intake valves, hybrid battery drain (overnight drain due to software glitches), cooling system and turbocharger wear, and infotainment/ADAS recalls (2024‑2026 models)."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a C63 S E Performance engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a tidy £50,000–£90,000 C63 S E Performance, a £5,000–£8,500 recon is 5‑15% of the car's value — often worth it on well‑maintained examples. However, if the hybrid battery has also failed (costing £2,000–£5,000+), the total repair cost may be substantial. Get a full diagnostic assessment before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my C63 S E Performance's engine code?",
+        "answer": "The C63 S E Performance uses the M139l 2.0‑litre four‑cylinder turbo engine combined with a 150 kW electric motor. The engine code is stamped on the engine block and listed on your V5C. The C63 S E Performance badge itself confirms the powertrain — it's the 680 PS plug‑in hybrid flagship."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair a C63 S E Performance engine issue, or does it need replacement?",
+        "answer": "Most issues — HPFP/injector failure, oil leaks, carbon buildup, cooling system problems, turbocharger wear — are repairable. Hybrid battery drain issues are usually software‑related and can be fixed with an update. However, if the engine suffers major internal failure, a full engine replacement is usually more cost‑effective than a rebuild. The M139 is a complex, high‑stress engine requiring specialist knowledge."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes‑AMG C63 S E Performance Owners Trust MercedesEngine.uk",

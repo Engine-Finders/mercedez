@@ -1,26 +1,194 @@
 {
   "meta": {
-    "slug": "mercedes-benz-c-class-c250-petrol",
-    "title": "Mercedes-Benz C-Class C250 Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "titleCharCount": 82,
-    "description": "",
-    "descriptionCharCount": 0,
-    "canonical": "",
+    "slug": "c-class-c250-petrol",
+    "title": "C250 Petrol Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "Every Mercedes C250 petrol engine — M271 and M274. Real UK costs, common timing and camshaft issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 160,
+    "canonical": "https://mercedesengine.uk/c-class/c250-petrol/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "C250 Petrol Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes C250 petrol engine — M271 and M274. Real UK costs, common timing and camshaft issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/c-class/c250-petrol/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/c-class-c250-petrol.jpg",
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "C250 Petrol Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes C250 petrol engine — M271 and M274. Real UK costs, common timing and camshaft issues, and honest reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/c-class-c250-petrol.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class",
+              "item": "https://mercedesengine.uk/c-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "C250 Petrol",
+              "item": "https://mercedesengine.uk/c-class/c250-petrol/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz C250 Petrol Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W204 C250 CGI (M271.860, 2008–2014)",
+              "url": "https://mercedesengine.uk/c-class/c250-petrol/#w204"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W205 C250 (M274, 2014–2018)",
+              "url": "https://mercedesengine.uk/c-class/c250-petrol/#w205"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz C250 Petrol Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M271.860",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M274 DE20 LA",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-Benz C250 petrol engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned Mercedes-Benz C250 petrol engine costs £2,500–£5,000 supply only, varying by generation: M271 £2,500–£4,500, M274 £3,500–£6,000. Fitting adds £1,000–£1,500. A camshaft adjuster repair can cost up to £6,000 at a dealership. Check the Era Map above for your engine code."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-Benz C250 petrol reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "That depends on which generation. The W204 M271 (2008–2014) is pleasant to drive but has a fragile timing system, with camshaft adjuster and timing chain failures being the defining issues. The W205 M274 (2014–2018) is a significant improvement, offering more power, better torque and superior reliability. Buy the W205 if you can."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-Benz C250 petrol?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W204 M271: camshaft adjuster and timing chain failure (cold-start rattle, £2,000–£6,000), oil consumption (£500–£2,000), ignition coil and injector issues (£200–£600). W205 M274: timing chain stretch (cold-start rattle, £1,500–£3,500)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-Benz C250 petrol engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "C-Class values range from £3,000–£20,000 depending on generation, condition and mileage. A £2,500–£5,000 reconditioned engine represents 15–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained W205, replacement is often justified. For an ageing W204 with other issues, assess scrap value first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-Benz C250 petrol engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The C250 petrol has used two engines: M271.860 (W204, 2008–2014, 1.8L turbo, 201 bhp) and M274 DE20 LA (W205, 2014–2018, 2.0L turbo, 211 bhp). Check your VIN or registration year. The code is stamped on the engine block."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the M271 camshaft adjuster issue, or does it need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — if caught early. Camshaft adjuster and timing chain replacement costs £2,000–£6,000 and is significantly cheaper than a full engine replacement (£2,500–£4,500). A worn tensioner can cause the chain to slap, leading to misfires and rough idle. At the first sign of cold-start rattle, book an inspection immediately — ignored timing issues can lead to catastrophic engine failure."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz C250 Petrol Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1200",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz C250 Petrol UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz C250 petrol engines, sourced from MercedesEngine.uk's specialist marketplace activity for M271 and M274 variants.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "C250 Petrol Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/c-class/c250-petrol/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz C-Class C250 Petrol • 2008–2018 • Two Engine Generations",

@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "slug": "m156",
+    "title": "Mercedes-Benz M156 Engine — Specs, Reliability & Replacement Cost",
+    "description": "\"The M156 is a thrilling V8 — head bolt and camshaft wear are its defining risks, rated from genuine UK owner enquiries. See real replacement costs and compare specialist quotes.\"",
+    "canonical": "https://mercedesbenzengine.uk/engines/m156/",
+    "openGraph": {
+      "title": "Mercedes-Benz M156 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M156 is a thrilling V8 — head bolt and camshaft wear are key risks, backed by real UK enquiries. Compare quotes from vetted specialists today.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m156/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes-benz/engines/m156.jpg",
+      "siteName": "mercedesbenzengine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M156 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M156 is a thrilling V8 — head bolt and camshaft wear are key risks, backed by real UK enquiries. Compare quotes from vetted specialists today.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes-benz/engines/m156.jpg"
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • M156 • Petrol • 6.2L V8 • 2006–2015",
+    "h1": "Mercedes-Benz M156 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes M156 is AMG's first clean-sheet V8 — a high-revving naturally aspirated icon, but head bolt and camshaft wear are well-documented weaknesses. Backed by real UK enquiries [MB-VERIFIED].",
+    "trustStrip": [],
+    "primaryCta": {
+      "label": "Compare M156 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "M156"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "90° V8, 6.2L (6,208 cc)"
+      },
+      {
+        "metric": "Power Range",
+        "value": "451–518 hp"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2006–2015"
+      },
+      {
+        "metric": "Models Fitted (Mercedes-Benz only)",
+        "value": "8 models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Exclusive to Mercedes-Benz"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "[Score]/100"
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "[X★ out of 5]",
+    "confidence": "[X% confidence — based on [X] UK enquiries and cross-referenced specialist rebuild reports]",
+    "scoreNote": "Engine Score breakdown:",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "Star rating × 4 (Repair Cost)"
+        },
+        {
+          "dimension": "Based on reconditioned cost midpoint",
+          "score": "Repairability (Editorial (20/12/4 anchored))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "Editorial (20/12/4 anchored) (Replacement Economics)"
+        },
+        {
+          "dimension": "Based on recon cost vs lowest host value",
+          "score": "Total (X/100)"
+        }
+      ]
+    },
+    "oneLineVerdict": "\"The M156 delivers thrilling naturally aspirated V8 character — but head bolt failure and camshaft wear can be ruinous without preventative work — buy only with documented head bolt and camshaft history.\"",
+    "bestFor": "Enthusiasts seeking the last great naturally aspirated AMG V8 with proper maintenance records.",
+    "avoidIf": "No documented evidence of head bolt update (2011+ models exempt) or camshaft/lifter inspection."
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [
+      {
+        "model": "C63 AMG",
+        "generation": "W204",
+        "variantBadge": "63 AMG",
+        "years": "2008–2015"
+      },
+      {
+        "model": "E63 AMG",
+        "generation": "W211",
+        "variantBadge": "63 AMG",
+        "years": "2006–2009"
+      },
+      {
+        "model": "E63 AMG",
+        "generation": "W212",
+        "variantBadge": "63 AMG",
+        "years": "2009–2011"
+      },
+      {
+        "model": "ML63 AMG",
+        "generation": "W164",
+        "variantBadge": "63 AMG",
+        "years": "2006–2011"
+      },
+      {
+        "model": "CLS63 AMG",
+        "generation": "W219",
+        "variantBadge": "63 AMG",
+        "years": "2006–2010"
+      },
+      {
+        "model": "S63 AMG",
+        "generation": "W221",
+        "variantBadge": "63 AMG",
+        "years": "2006–2010"
+      },
+      {
+        "model": "CL63 AMG",
+        "generation": "C216",
+        "variantBadge": "63 AMG",
+        "years": "2006–2010"
+      },
+      {
+        "model": "CLK63 AMG",
+        "generation": "C209",
+        "variantBadge": "63 AMG",
+        "years": "2006–2009"
+      },
+      {
+        "model": "R63 AMG",
+        "generation": "W251",
+        "variantBadge": "63 AMG",
+        "years": "2006–2007"
+      }
+    ],
+    "crossBrandNote": "(Omitted — exclusive to Mercedes-Benz.)"
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [
+      {
+        "condition": "Used",
+        "supplyOnly": "£3,000–£5,500",
+        "fittedIndie": "£4,500–£7,500",
+        "warranty": "3–6 months"
+      },
+      {
+        "condition": "Reconditioned",
+        "supplyOnly": "£5,500–£8,000",
+        "fittedIndie": "£7,000–£9,500",
+        "warranty": "12 months"
+      },
+      {
+        "condition": "Rebuilt",
+        "supplyOnly": "£7,500–£12,000",
+        "fittedIndie": "£9,000–£14,000",
+        "warranty": "12–24 months"
+      }
+    ],
+    "labourEstimate": "Fitting an M156 typically takes 12–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE].",
+    "sharedCostNote": "(Omitted — exclusive to Mercedes-Benz.)",
+    "cta": {
+      "label": "→ Compare M156 engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "Cost — \"How much does an M156 engine replacement cost?\"",
+        "answer": "A reconditioned M156 typically costs £5,500–£8,000 supply only [MB-QUOTE], varying by model variant and specification. Fitting adds £780–£1,700 depending on labour rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Reliability — \"Is the M156 a reliable engine?\"",
+        "answer": "[Answer to be completed based on Section 3 star rating and confidence basis.]"
+      },
+      {
+        "id": 3,
+        "question": "Common failure — \"What is the most common M156 failure?\"",
+        "answer": "Head bolt stretching is the most critical failure — early M156 units (pre-2011) suffer from insufficient bolt strength, causing coolant leaks into cylinders and potential engine destruction. Camshaft and lifter wear is also widespread, with a tell-tale ticking noise on cold start."
+      },
+      {
+        "id": 4,
+        "question": "Fitment — \"Which Mercedes-Benz models use the M156?\"",
+        "answer": "The M156 powers AMG '63' models across the range, including the C63, E63, ML63, CLS63, S63, CL63, CLK63, and the rare R63 — fitted from approximately 2006 to 2015."
+      },
+      {
+        "id": 5,
+        "question": "Longevity — \"How long does the M156 last?\"",
+        "answer": "With proper maintenance and the head bolt update completed, M156 engines can exceed 150,000 miles. Without the head bolt fix and regular camshaft inspections, major failure is significantly more likely, often before 80,000 miles."
+      }
+    ]
+  },
+  "trustCta": {
+    "trustPoints": [
+      "Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M156 owners, as part of the Engine Finders network.",
+      "Compare Companies: We compare genuine Mercedes-Benz M156 specialist suppliers side-by-side — so you see real prices from real UK workshops, not generic estimates.",
+      "UK Coverage: From London to Glasgow, our network of vetted specialists covers the entire UK, with transparent pricing and no hidden fees."
+    ],
+    "finalCta": "Find the best Mercedes-Benz M156 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz M156 Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

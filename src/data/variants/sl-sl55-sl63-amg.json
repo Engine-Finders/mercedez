@@ -506,40 +506,43 @@
       {
         "label": "Regional Demand",
         "value": "London (25%), South East (22%), South West (15%)"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz SL55 / SL63 AMG engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned M113K engine typically costs £4,000–£8,000 supply only; the M157 costs £6,000–£16,000. Fitting adds £1,000–£1,800. Main dealer new engines can exceed £30,000. M157 replacement motors average £14,167. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑Benz SL55 / SL63 AMG engine reliable?"
-      },
-      {
-        "label": "It depends on the engine. The M113K (SL55) is rated ★★★★☆ — widely considered bulletproof with \"galactic miles\" reported by owners. The M157 (SL63) is rated ★★★☆☆ — early examples (2010–2014) have timing chain, oil leak, and cylinder scoring risks. Post‑2014 M157s are more reliable.",
-        "value": "3. What are the common problems with the Mercedes‑Benz SL55 / SL63 AMG?"
-      },
-      {
-        "label": "M113K issues: supercharger coolant pump failure, valve cover oil leaks, AMG‑specific idler pulley wear, and the plastic selector peg in the five‑speed gearbox. M157 issues: timing chain wear (early cars), camshaft position sensor oil leaks, valve cover gasket leaks, cylinder scoring, and coolant system leaks.",
-        "value": "4. Is it worth replacing a Mercedes‑Benz SL55 / SL63 AMG engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept SL55 AMG worth £15,000–£25,000, a £4,000–£8,000 recon is a manageable 16–53% of the vehicle's value — worth it for a well‑maintained example. For a SL63 AMG worth £20,000–£40,000, a £6,000–£16,000 recon is more significant but often worthwhile given the SL's status and strong retained values.",
-        "value": "5. How do I find my Mercedes‑Benz SL55 / SL63 AMG engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. The SL55 AMG uses the M113K (M113.991) 5.4‑litre supercharged V8. The SL63 AMG uses the M157 (157.983) 5.5‑litre twin‑turbo V8. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the M157's timing chain, or does it need a new engine?"
-      },
-      {
-        "label": "Yes — if caught early. A timing chain, tensioner and guide replacement (£1,500–£4,000) is far cheaper than a catastrophic chain failure (£6,000–£16,000 engine replacement). Install the updated chain tensioner and non-return valves. At the first sign of cold‑start rattle, book an inspection immediately. Early M157s (2010–2012) are most affected.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz SL55 / SL63 AMG engine replacement cost in the UK?",
+        "answer": "A reconditioned M113K engine typically costs £4,000–£8,000 supply only; the M157 costs £6,000–£16,000. Fitting adds £1,000–£1,800. Main dealer new engines can exceed £30,000. M157 replacement motors average £14,167. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz SL55 / SL63 AMG engine reliable?",
+        "answer": "It depends on the engine. The M113K (SL55) is rated ★★★★☆ — widely considered bulletproof with \"galactic miles\" reported by owners. The M157 (SL63) is rated ★★★☆☆ — early examples (2010–2014) have timing chain, oil leak, and cylinder scoring risks. Post‑2014 M157s are more reliable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz SL55 / SL63 AMG?",
+        "answer": "M113K issues: supercharger coolant pump failure, valve cover oil leaks, AMG‑specific idler pulley wear, and the plastic selector peg in the five‑speed gearbox. M157 issues: timing chain wear (early cars), camshaft position sensor oil leaks, valve cover gasket leaks, cylinder scoring, and coolant system leaks."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes‑Benz SL55 / SL63 AMG engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept SL55 AMG worth £15,000–£25,000, a £4,000–£8,000 recon is a manageable 16–53% of the vehicle's value — worth it for a well‑maintained example. For a SL63 AMG worth £20,000–£40,000, a £6,000–£16,000 recon is more significant but often worthwhile given the SL's status and strong retained values."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz SL55 / SL63 AMG engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The SL55 AMG uses the M113K (M113.991) 5.4‑litre supercharged V8. The SL63 AMG uses the M157 (157.983) 5.5‑litre twin‑turbo V8. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M157's timing chain, or does it need a new engine?",
+        "answer": "Yes — if caught early. A timing chain, tensioner and guide replacement (£1,500–£4,000) is far cheaper than a catastrophic chain failure (£6,000–£16,000 engine replacement). Install the updated chain tensioner and non-return valves. At the first sign of cold‑start rattle, book an inspection immediately. Early M157s (2010–2012) are most affected."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

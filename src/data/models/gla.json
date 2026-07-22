@@ -1,24 +1,296 @@
 {
   "meta": {
     "slug": "gla",
-    "title": "GLA Engines — The Complete UK Guide",
-    "titleCharCount": 35,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "GLA Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 50,
+    "description": "Every GLA engine — M270, OM651, M282, OM654. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "GLA Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLA engine — M270, OM651, M282, OM654. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/gla/",
       "image": "",
-      "siteName": ""
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "GLA Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLA engine — M270, OM651, M282, OM654. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLA",
+              "item": "https://mercedesengine.uk/gla/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLA Generations",
+          "description": "The two generations of Mercedes-Benz GLA covered in this guide.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "X156 (2013–2020)",
+              "url": "https://mercedesengine.uk/gla/x156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "H247 (2020–present)",
+              "url": "https://mercedesengine.uk/gla/h247/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLA Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz GLA in the UK.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M270.910 — 1.6L Petrol",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M270.920 — 2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M274 — 1.6L / 2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM651 — 2.1L Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M133.980 — 2.0L Turbo (AMG)",
+              "url": "https://mercedesengine.uk/engines/m133/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M282 — 1.3L Petrol",
+              "url": "https://mercedesengine.uk/engines/m282/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M260 — 2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m260/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M139 — 2.0L Turbo (AMG)",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M264 — 1.3L PHEV",
+              "url": "https://mercedesengine.uk/engines/m264/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "OM654 — 2.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a GLA engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A full GLA engine replacement costs £2,500–£5,000 for a reconditioned unit (supply-only) [MB-QUOTE], with labour adding £520–£780 (independent) or more in London/SE. The exact figure depends on your engine code: OM651 and M270 replacements are the most common (£2,500–£4,800), while AMG engines (M133/M139) can cost £8,000–£14,000 for a recon supply. The GLA 250e PHEV adds hybrid system complexity—factor in battery health assessment alongside engine diagnosis. Use our diagnostic calculator above for a personalised quote based on your engine and vehicle value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLA engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel (fitted to the H247 GLA 200 d / GLA 220 d from 2020) is the most reliable GLA engine—it has materially fewer failure reports than the OM651 and a much cleaner emissions design. Among petrols, the M270 (X156) and M282 (H247) are both robust, with the M282 being especially reliable due to its simpler turbocharged design."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLA engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We don't say 'avoid' outright, but the OM651 diesel (X156, 2013–2020) carries a real caveat: 'Black Death' injector seal failure and rear-timing-chain complexity. It's a manageable, preventable issue with regular servicing—but buy only with documented injector service history. The early M270 turbo petrols (2013–2015) also required costly repairs between 150,000 and 200,000 kilometres if maintenance was neglected. We also advise caution with the GLA 250e PHEV—the hybrid system adds complexity, and a battery health assessment is essential before purchase."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the GLA timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes—the OM651 diesel's timing chain sits at the gearbox end, making replacement labour-intensive (8–12 hours). Early warning signs are a rattle on cold start and erratic idle. On the M270 petrol, timing chain stretch is less common but can occur on high-mileage examples. If you hear a rattle, have it inspected immediately—chain replacement costs £600–£1,500, but a snapped chain can write off the engine."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a GLA engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on your generation. For an H247 (£18,000–£38,000 value), a £3,000–£5,000 recon is well within the 70% threshold — worth it. For an X156 (£5,000–£14,000), an OM651 recon at £2,800–£4,800 can exceed 70% on lower-value examples — run the numbers. For the GLA 250e PHEV, always factor in battery health—a failing battery can add £2,000–£4,000 to the replacement cost, pushing it past the threshold."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLA generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The H247 (2021+) is the unequivocal recommendation — it's the safest, most reliable, and best-value used buy. If your budget is tighter, the X156 (2015+ facelift) with the M270 petrol is a solid alternative — avoid pre-2015 OM651 diesels unless you have full service records. The GLA 250e PHEV is a good choice for company car drivers—but factor in battery health and hybrid system maintenance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my GLA engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN (e.g. 'OM651' or 'M270'). You can also find it on the engine block itself — on most GLAs, it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "GLA vs GLC — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They're different classes—the GLA is a compact SUV on the A-Class platform; the GLC is a mid-size SUV on the C-Class platform. For reliability, the GLC's OM654 and M276 engines are well-proven, while the GLA's OM654 and M282 are equally robust but with different packaging. The GLC offers more space and refinement; the GLA is cheaper to buy and run. Choose the GLA for urban agility and value; choose the GLC for comfort and motorway refinement. Read the full comparison: GLA vs GLC → /compare/gla-vs-glc/"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/logo.png",
+          "sameAs": [],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "GLA Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "5000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "GLA UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for GLA engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "GLA Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/gla/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        },
+        {
+          "@type": "EngineSpecification",
+          "name": "GLA Engine Codes Database",
+          "description": "Every engine code fitted to the Mercedes-Benz GLA in the UK, with reliability ratings and cost data.",
+          "engineType": [
+            "M270.910",
+            "M270.920",
+            "M274",
+            "OM651",
+            "M133.980",
+            "M282",
+            "M260",
+            "M139",
+            "M264",
+            "OM654"
+          ],
+          "fuelType": [
+            "Petrol",
+            "Diesel",
+            "Petrol PHEV"
+          ],
+          "engineDisplacement": [
+            "1.6L",
+            "2.0L",
+            "2.1L",
+            "1.3L"
+          ]
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz GLA Engine Replacement Service",
+          "description": "Professional GLA engine replacement services from a vetted UK network of Mercedes-Benz specialists. Used, reconditioned and rebuilt options available. Specialists experienced with M270, OM651, M282, OM654, M133, M139 and M264 engines.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "5000",
+            "availability": "https://schema.org/InStock"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • GLA • 2013–Present • 2 Generations • M270 • OM651 • M282 • OM654 • M133 • M139",
@@ -600,7 +872,48 @@
   },
   "faq": {
     "h2": "GLA Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a GLA engine replacement cost in the UK?",
+        "answer": "A full GLA engine replacement costs £2,500–£5,000 for a reconditioned unit (supply‑only) [MB-QUOTE], with labour adding £520–£780 (independent) or more in London/SE. The exact figure depends on your engine code: OM651 and M270 replacements are the most common (£2,500–£4,800), while AMG engines (M133/M139) can cost £8,000–£14,000 for a recon supply. The GLA 250e PHEV adds hybrid system complexity—factor in battery health assessment alongside engine diagnosis. Use our diagnostic calculator above for a personalised quote based on your engine and vehicle value."
+      },
+      {
+        "id": 2,
+        "question": "Which GLA engine is the most reliable?",
+        "answer": "The OM654 diesel (fitted to the H247 GLA 200 d / GLA 220 d from 2020) is the most reliable GLA engine—it has materially fewer failure reports than the OM651 and a much cleaner emissions design. Among petrols, the M270 (X156) and M282 (H247) are both robust, with the M282 being especially reliable due to its simpler turbocharged design."
+      },
+      {
+        "id": 3,
+        "question": "Which GLA engine should I avoid?",
+        "answer": "We don't say \"avoid\" outright, but the OM651 diesel (X156, 2013–2020) carries a real caveat: \"Black Death\" injector seal failure and rear‑timing‑chain complexity. It's a manageable, preventable issue with regular servicing—but buy only with documented injector service history. The early M270 turbo petrols (2013–2015) also required costly repairs between 150,000 and 200,000 kilometres if maintenance was neglected. We also advise caution with the GLA 250e PHEV—the hybrid system adds complexity, and a battery health assessment is essential before purchase."
+      },
+      {
+        "id": 4,
+        "question": "Is the GLA timing chain problem real?",
+        "answer": "Yes—the OM651 diesel's timing chain sits at the gearbox end, making replacement labour‑intensive (8–12 hours). Early warning signs are a rattle on cold start and erratic idle. On the M270 petrol, timing chain stretch is less common but can occur on high‑mileage examples. If you hear a rattle, have it inspected immediately—chain replacement costs £600–£1,500, but a snapped chain can write off the engine."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a GLA engine?",
+        "answer": "It depends on your generation. For an H247 (£18,000–£38,000 value), a £3,000–£5,000 recon is well within the 70% threshold — worth it. For an X156 (£5,000–£14,000), an OM651 recon at £2,800–£4,800 can exceed 70% on lower‑value examples — run the numbers. For the GLA 250e PHEV, always factor in battery health—a failing battery can add £2,000–£4,000 to the replacement cost, pushing it past the threshold."
+      },
+      {
+        "id": 6,
+        "question": "Which GLA generation should I buy?",
+        "answer": "The H247 (2021+) is the unequivocal recommendation — it's the safest, most reliable, and best‑value used buy. If your budget is tighter, the X156 (2015+ facelift) with the M270 petrol is a solid alternative — avoid pre‑2015 OM651 diesels unless you have full service records. The GLA 250e PHEV is a good choice for company car drivers—but factor in battery health and hybrid system maintenance."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my GLA engine code?",
+        "answer": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN (e.g. \"OM651\" or \"M270\"). You can also find it on the engine block itself — on most GLAs, it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+      },
+      {
+        "id": 8,
+        "question": "GLA vs GLC — which is more reliable?",
+        "answer": "They're different classes—the GLA is a compact SUV on the A‑Class platform; the GLC is a mid‑size SUV on the C‑Class platform. For reliability, the GLC's OM654 and M276 engines are well‑proven, while the GLA's OM654 and M282 are equally robust but with different packaging. The GLC offers more space and refinement; the GLA is cheaper to buy and run. Choose the GLA for urban agility and value; choose the GLC for comfort and motorway refinement. Read the full comparison: GLA vs GLC →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

@@ -490,40 +490,43 @@
       {
         "label": "Regional Demand",
         "value": "London (25%), South East (22%), South West (14%) [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz S350d / S400d engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned OM656 engine typically costs £3,500–£6,500 supply only for the S350d, and £4,000–£8,000 for the S400d. Fitting adds £1,000–£1,600. Camshaft and rocker wear repairs can cost £1,500–£3,500 if caught early. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑Benz S350d / S400d engine reliable?"
-      },
-      {
-        "label": "The OM656 is rated ★★★★☆ — it's a major step forward from the OM642 V6 in refinement and efficiency. However, it has known issues: turbo actuator vacuum hose collapse (particularly on the S400d), camshaft rocker wear (around 100,000 miles), AdBlue system faults, DPF clogging, and vacuum pump oil leaks on early cars. The fuel system is sensitive to fuel quality.",
-        "value": "3. What are the common problems with the Mercedes‑Benz S350d / S400d?"
-      },
-      {
-        "label": "Turbo actuator vacuum hose collapse (intermittent power loss, gearbox judder), camshaft rocker wear (popping noise from intake), AdBlue system faults (NOx sensors, pump), DPF clogging, vacuum pump oil leaks (early cars), and fuel system contamination. The turbo hose issue is particularly common on the S400d.",
-        "value": "4. Is it worth replacing a Mercedes‑Benz S350d / S400d engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept W223 S400d worth £40,000–£70,000, a £4,000–£8,000 recon is a manageable 6–20% of the vehicle's value — worth it. For a W222 S350d worth £15,000–£25,000, a £4,500 recon is more marginal but often worthwhile given the S-Class's status and retained values. Well‑maintained examples with documented service history are worth saving.",
-        "value": "5. How do I find my Mercedes‑Benz S350d / S400d engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. The S350d and S400d both use the OM656 2.9-litre inline-six diesel engine. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the OM656's turbo actuator hose, or does it need a new engine?"
-      },
-      {
-        "label": "Yes — turbo actuator hose replacement is a straightforward repair costing £300–£800. Mercedes is investigating a factory fix for the collapsing hose issue. This does not typically require engine replacement. At the first sign of power loss or gearbox judder, book an inspection immediately.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz S350d / S400d engine replacement cost in the UK?",
+        "answer": "A reconditioned OM656 engine typically costs £3,500–£6,500 supply only for the S350d, and £4,000–£8,000 for the S400d. Fitting adds £1,000–£1,600. Camshaft and rocker wear repairs can cost £1,500–£3,500 if caught early. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz S350d / S400d engine reliable?",
+        "answer": "The OM656 is rated ★★★★☆ — it's a major step forward from the OM642 V6 in refinement and efficiency. However, it has known issues: turbo actuator vacuum hose collapse (particularly on the S400d), camshaft rocker wear (around 100,000 miles), AdBlue system faults, DPF clogging, and vacuum pump oil leaks on early cars. The fuel system is sensitive to fuel quality."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz S350d / S400d?",
+        "answer": "Turbo actuator vacuum hose collapse (intermittent power loss, gearbox judder), camshaft rocker wear (popping noise from intake), AdBlue system faults (NOx sensors, pump), DPF clogging, vacuum pump oil leaks (early cars), and fuel system contamination. The turbo hose issue is particularly common on the S400d."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes‑Benz S350d / S400d engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept W223 S400d worth £40,000–£70,000, a £4,000–£8,000 recon is a manageable 6–20% of the vehicle's value — worth it. For a W222 S350d worth £15,000–£25,000, a £4,500 recon is more marginal but often worthwhile given the S-Class's status and retained values. Well‑maintained examples with documented service history are worth saving."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz S350d / S400d engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The S350d and S400d both use the OM656 2.9-litre inline-six diesel engine. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM656's turbo actuator hose, or does it need a new engine?",
+        "answer": "Yes — turbo actuator hose replacement is a straightforward repair costing £300–£800. Mercedes is investigating a factory fix for the collapsing hose issue. This does not typically require engine replacement. At the first sign of power loss or gearbox judder, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

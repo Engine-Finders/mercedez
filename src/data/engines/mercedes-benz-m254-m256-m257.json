@@ -1,24 +1,235 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m254-m256-m257",
-    "title": "Mercedes-Benz M254/M256/M257 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m254-m256-m257",
+    "title": "Mercedes-Benz M256 Engine — Specs, Reliability & Replacement Cost",
+    "description": "Mercedes M256 3.0L straight‑six MHEV: refined and powerful, but 48V and EGR cooler issues exist. Backed by UK specialist insight, find real costs and compare vetted quotes.",
+    "canonical": "https://mercedesengine.uk/engines/m254-m256-m257/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M256 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M256 3.0L straight‑six MHEV: refined and powerful, but 48V and EGR cooler issues exist. Backed by UK specialist insight, find real costs and compare vetted quotes.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/m254-m256-m257/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m256.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M256 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M256 3.0L straight‑six MHEV: refined and powerful, but 48V and EGR cooler issues exist. Backed by UK specialist insight, find real costs and compare vetted quotes.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m256.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M256",
+              "item": "https://mercedesengine.uk/engines/m254-m256-m257/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M256 family",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "S‑Class W223 (2020–present)",
+              "url": "https://mercedesengine.uk/mercedes/s-class-w223/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E‑Class W213 facelift (2020–2023)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E‑Class W214 (2023–present)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w214/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLS C257 (2019–2023)",
+              "url": "https://mercedesengine.uk/mercedes/cls-c257/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "GLE V167 (2019–present)",
+              "url": "https://mercedesengine.uk/mercedes/gle-v167/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "GLS X167 (2020–present)",
+              "url": "https://mercedesengine.uk/mercedes/gls-x167/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "G‑Class W463 facelift (2018–present)",
+              "url": "https://mercedesengine.uk/mercedes/g-class-w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "CLE C236 (2023–present)",
+              "url": "https://mercedesengine.uk/mercedes/cle-c236/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "AMG GT 4‑Door X290 (2019–present)",
+              "url": "https://mercedesengine.uk/mercedes/amg-gt-x290/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "SL R232 (2021–present)",
+              "url": "https://mercedesengine.uk/mercedes/sl-r232/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Maybach Z223 (2021–present)",
+              "url": "https://mercedesengine.uk/mercedes/maybach-z223/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M256 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M256 typically costs £3,500–£5,500 supply only [ESTIMATED], varying by model and whether the 48V system components are included. Fitting adds £650–£1,300 depending on labour rates and host vehicle."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M256 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M256 rates 4.0★ out of 5 based on early UK owner feedback and specialist insight [INDUSTRY ESTIMATE]. It is mechanically robust, but the 48V system and EGR cooler are areas of concern."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M256 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "EGR cooler coolant leaks are the most widely reported issue, sometimes leading to engine bay fires — Mercedes has issued recalls. 48V electrical glitches (ISG, battery) also surface on early cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M256?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M256 is found across the S‑Class, E‑Class, CLS, GLE, GLS, CLE, AMG GT 4‑Door, and some G‑Class models — essentially all mid‑to‑high‑end vehicles using the 3.0L straight‑six."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M256 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance and recall work, the M256 is expected to exceed 150,000 miles. Long‑term data is still emerging, but its predecessor (M276) was robust, and the M256 shares similar core engineering."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M256 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M256 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "8000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M256 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK specialist feedback and owner-reported data for the Mercedes-Benz M256, sourced from mercedesengine.uk's marketplace insights and verified interviews with Mercedes workshops.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M256 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesengine.uk/engines/m254-m256-m257/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M254/M256/M257 • Petrol MHEV • 3.0L I6 • 2018–present",
@@ -80,119 +291,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: M256 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.0★ out of 5",
-        "value": "Confidence: 85% confidence — based on UK specialist feedback and owner reports, with limited long‑term data."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "16"
-      },
-      {
-        "metric": "Star rating (4.0★) × 4 = 16",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "16",
-        "value": "Reconditioned midpoint: £4,250 → £3,000–£4,999 bracket = 16"
-      },
-      {
-        "metric": "Repairability",
-        "value": "12"
-      },
-      {
-        "metric": "Mix of manageable repairs and complex 48V/EGR issues",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "16",
-        "value": "Good availability from Mercedes and some aftermarket, but specialised parts"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "20"
-      },
-      {
-        "metric": "Reconditioned cost is well under 30% of high‑value host vehicles (e.g. S‑Class, GLE)",
-        "value": "Total"
-      },
-      {
-        "metric": "80/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The M256 is a silky‑smooth, powerful straight‑six — the 48V system and EGR cooler are its main weak points — buy with full Mercedes service history and warranty.",
-        "value": "Best for: Buyers wanting modern refinement and efficiency with strong performance."
-      },
-      {
-        "metric": "Avoid if: You're uncomfortable with potential 48V electrical or EGR cooler repairs.",
-        "value": "Supporting Evidence"
-      },
-      {
-        "metric": "The M256 (and its derivatives M254 for longitudinal 4‑cylinder applications, M257 for higher output variants) represents Mercedes‑Benz's return to the straight‑six petrol engine, paired with a 48V mild‑hybrid system (EQ Boost) that provides an additional 22 hp and 250 Nm of torque via an integrated starter‑generator (ISG). It debuted in 2018 in the S‑Class and quickly spread across the range.",
-        "value": "The engine is lauded for its smoothness, low‑end torque, and fuel efficiency. Its electrically driven auxiliaries (water pump, air‑conditioning compressor) reduce parasitic losses. However, its complexity introduces new failure points:"
-      },
-      {
-        "metric": "Known issues:",
-        "value": "* 48V electrical system: ISG failure, battery management issues, wiring harness faults."
-      },
-      {
-        "metric": "* EGR cooler: Coolant leaks into the exhaust (similar to earlier BMW B47 issues), leading to potential fire risk – recalls have been issued.",
-        "value": "* High‑pressure fuel pump: Some reports of failure on early builds."
-      },
-      {
-        "metric": "* Oil consumption: Occasional reports on higher‑mileage units.",
-        "value": "* Software glitches: Infrequent but can affect drivability."
-      },
-      {
-        "metric": "Models fitted (Mercedes‑Benz):",
-        "value": "* S‑Class (W223)"
-      },
-      {
-        "metric": "* E‑Class (W213 facelift, W214)",
-        "value": "* CLS (C257)"
-      },
-      {
-        "metric": "* GLE (V167)",
-        "value": "* GLS (X167)"
-      },
-      {
-        "metric": "* G‑Class (W463 facelift)",
-        "value": "* CLE (C236)"
-      },
-      {
-        "metric": "* AMG variants (GT 43, 53, SL 43, etc.)",
-        "value": "Despite the electrical complexity, the M256 is widely considered a refined and robust engine, provided it is maintained properly and any recall campaigns are addressed. Long‑term reliability (beyond 100,000 miles) is still being assessed."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.0★ out of 5",
+    "confidence": "85% confidence — based on UK specialist feedback and owner reports, with limited long‑term data.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "16 (Star rating (4.0★) × 4 = 16)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Reconditioned midpoint: £4,250 → £3,000–£4,999 bracket = 16)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mix of manageable repairs and complex 48V/EGR issues)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Good availability from Mercedes and some aftermarket, but specialised parts)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "20 (Reconditioned cost is well under 30% of high‑value host vehicles (e.g. S‑Class, GLE))"
+        },
+        {
+          "dimension": "Total",
+          "score": "80/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M256 is a silky‑smooth, powerful straight‑six — the 48V system and EGR cooler are its main weak points — buy with full Mercedes service history and warranty.",
+    "bestFor": "Buyers wanting modern refinement and efficiency with strong performance.",
+    "avoidIf": "You're uncomfortable with potential 48V electrical or EGR cooler repairs."
   },
   "compatibility": {
     "columns": [

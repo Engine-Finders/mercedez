@@ -498,40 +498,43 @@
       {
         "label": "Regional Demand",
         "value": "London (22%), South East (20%), Midlands (15%) [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz GLE250d / GLE300d engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned OM651 engine typically costs £2,500–£5,500 supply only; the OM654 costs £3,500–£8,500. Fitting adds £1,000–£1,600. Turbocharger replacement on the OM651 can cost £1,500–£3,500 if caught early. Timing chain replacement is an engine‑out job. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑Benz GLE250d / GLE300d engine reliable?"
-      },
-      {
-        "label": "It depends on the generation. The OM651 (W166, 2015–2019) is rated ★★½☆☆ — in the heavy GLE, the engine works harder and engine bay temperatures run hotter. 72% of turbo failures occur between 75,000–95,000 miles, and timing chain stretch is a well‑documented weakness. The OM654 (V167, 2019–present) is rated ★★★☆☆ — more modern but has valvetrain wear, AdBlue system faults, and a coolant pump recall.",
-        "value": "3. What are the common problems with the Mercedes‑Benz GLE250d / GLE300d?"
-      },
-      {
-        "label": "OM651 turbocharger failure (72% between 75k–95k miles), timing chain stretch, oil cooler seal leaks, piezo injector failure, and oil leaks from the turbo and main seal. OM654 valvetrain wear (camshafts and tappets), rocker arm bearing failure, AdBlue system faults (NOx sensors, AdBlue injector), and a coolant pump vacuum circuit recall.",
-        "value": "4. Is it worth replacing a Mercedes‑Benz GLE250d / GLE300d engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and generation. Against a well‑kept V167 GLE300d worth £25,000–£40,000, a £3,500–£8,500 recon is a manageable 9–34% of the vehicle's value — worth it for a well‑maintained example. For a W166 GLE250d worth £8,000–£15,000, a £4,500 recon is more marginal — assess the rest of the vehicle carefully.",
-        "value": "5. How do I find my Mercedes‑Benz GLE250d / GLE300d engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. The GLE250d uses OM651 (W166 2015–2019); the GLE300d uses OM654 (V167 2019–present). Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the OM651's timing chain, or does it need a new engine?"
-      },
-      {
-        "label": "Yes — if caught early. A timing chain and tensioner replacement (£1,500–£3,500) is far cheaper than a catastrophic chain snap (£2,500–£5,500 engine replacement). At the first sign of cold‑start rattle, book an inspection immediately. The chain sits on the transmission side of the engine, so it's an engine‑out job, but it's far cheaper than a new engine.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz GLE250d / GLE300d engine replacement cost in the UK?",
+        "answer": "A reconditioned OM651 engine typically costs £2,500–£5,500 supply only; the OM654 costs £3,500–£8,500. Fitting adds £1,000–£1,600. Turbocharger replacement on the OM651 can cost £1,500–£3,500 if caught early. Timing chain replacement is an engine‑out job. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz GLE250d / GLE300d engine reliable?",
+        "answer": "It depends on the generation. The OM651 (W166, 2015–2019) is rated ★★½☆☆ — in the heavy GLE, the engine works harder and engine bay temperatures run hotter. 72% of turbo failures occur between 75,000–95,000 miles, and timing chain stretch is a well‑documented weakness. The OM654 (V167, 2019–present) is rated ★★★☆☆ — more modern but has valvetrain wear, AdBlue system faults, and a coolant pump recall."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz GLE250d / GLE300d?",
+        "answer": "OM651 turbocharger failure (72% between 75k–95k miles), timing chain stretch, oil cooler seal leaks, piezo injector failure, and oil leaks from the turbo and main seal. OM654 valvetrain wear (camshafts and tappets), rocker arm bearing failure, AdBlue system faults (NOx sensors, AdBlue injector), and a coolant pump vacuum circuit recall."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes‑Benz GLE250d / GLE300d engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and generation. Against a well‑kept V167 GLE300d worth £25,000–£40,000, a £3,500–£8,500 recon is a manageable 9–34% of the vehicle's value — worth it for a well‑maintained example. For a W166 GLE250d worth £8,000–£15,000, a £4,500 recon is more marginal — assess the rest of the vehicle carefully."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz GLE250d / GLE300d engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The GLE250d uses OM651 (W166 2015–2019); the GLE300d uses OM654 (V167 2019–present). Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM651's timing chain, or does it need a new engine?",
+        "answer": "Yes — if caught early. A timing chain and tensioner replacement (£1,500–£3,500) is far cheaper than a catastrophic chain snap (£2,500–£5,500 engine replacement). At the first sign of cold‑start rattle, book an inspection immediately. The chain sits on the transmission side of the engine, so it's an engine‑out job, but it's far cheaper than a new engine."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

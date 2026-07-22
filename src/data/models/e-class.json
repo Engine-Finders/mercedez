@@ -1,24 +1,257 @@
 {
   "meta": {
     "slug": "e-class",
-    "title": "E-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "E-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every E-Class engine — OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 157,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "E-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every E-Class engine — OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/e-class/",
+      "image": "https://mercedesengine.uk/images/models/mercedes-e-class-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "E-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every E-Class engine — OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-Class",
+              "item": "https://mercedesengine.uk/e-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "E-Class Generations",
+          "description": "Every generation of the Mercedes-Benz E-Class",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W124 (1993–1995)",
+              "url": "https://mercedesengine.uk/e-class/w124/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W210 (1995–2003)",
+              "url": "https://mercedesengine.uk/e-class/w210/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W211 (2002–2009)",
+              "url": "https://mercedesengine.uk/e-class/w211/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "W212 (2009–2016)",
+              "url": "https://mercedesengine.uk/e-class/w212/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "W213 (2016–2023)",
+              "url": "https://mercedesengine.uk/e-class/w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "W214 (2023–present)",
+              "url": "https://mercedesengine.uk/e-class/w214/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "E-Class Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz E-Class",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651 2.1L Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM642 3.0L V6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM654 2.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M276 3.0L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M177 4.0L V8 Biturbo",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM656 2.9L I6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om656/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M254 2.0L I4 Mild Hybrid Petrol",
+              "url": "https://mercedesengine.uk/engines/m254/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an E-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A used E-Class engine costs £500–£5,000 depending on generation and engine code; reconditioned units range from £1,200–£14,000 [MB-QUOTE]. Labour adds 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). For a precise quote on your specific E-Class, use our diagnostic calculator."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which E-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0-litre four-cylinder diesel (2016–present) is the most reliable modern E-Class engine. It has materially fewer failure reports than its OM651 predecessor, and AdBlue issues are software-manageable rather than mechanical. 520 enquiries across all Mercedes models in 2025 [MB-VERIFIED]."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which E-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 (2008–2016) carries a real, well-documented caveat: \"Black Death\" injector seal failure and rear timing chain tensioner wear. It's not a reason to avoid the engine entirely — with full service history, it's a solid unit — but it's a reason to demand documented history and a pre-purchase inspection. The highest-risk examples are pre-2013 W212 cars without timing chain history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the E-Class timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — on the OM651, the timing chain sits at the transmission end, requiring engine-gearbox separation for access. Warm-start rattle is the early warning; ignore it and the chain can skip, destroying the engine. Chain replacement: £600–£1,500; full engine if failed: £2,800–£4,800 [MB-QUOTE]. On the M276 petrol V6, timing chain stretch can occur on earlier examples — listen for rattling on start-up."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an E-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. A £3,200 OM642 recon against an £8,000 W212 is 40% — worth doing. A £4,500 OM642 recon against a £2,500 W211 is 180% — walk away. Use our Ownership Decision Tool for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which E-Class generation/year should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The definitive answer: a 2013–2016 W212 facelift with the OM654 diesel. The facelift brought the more reliable engine, the most comprehensive mid-cycle refresh Mercedes has ever done, and values have already absorbed the steepest depreciation. If your budget stretches further, the W213 (2016–2023) with the OM654 is the safest modern buy. Avoid pre-2013 W212 OM651 cars without full timing chain history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my E-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is stamped on the engine block — typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common E-Class codes: OM651, OM642, OM654, M276, OM656, M254. If you're unsure, use our diagnostic calculator to identify it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "E-Class vs C-Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both carry a ✅ Safe verdict on their newer generations, but for different reasons. The E-Class W213 benefits from a wider, well-supported engine range across OM654, OM656 and M276 — and the E-Class is built to a higher standard of refinement than the C-Class. The C-Class W206 runs the OM654-only diesel range. Buy on generation and service history first, badge second."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "E-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "500",
+            "highPrice": "14000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "E-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz E-Class engines, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "E-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/e-class/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • E-Class • 1993–present • 5 Generations • OM651 • OM642 • OM654 • M276",

@@ -1,24 +1,216 @@
 {
   "meta": {
     "slug": "glk",
-    "title": "GLK Engines — The Complete UK Guide",
-    "titleCharCount": 35,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "GLK Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every GLK engine — OM651, OM642, M272, M276. 1 generation, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+    "descriptionCharCount": 152,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "GLK Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLK engine — OM651, OM642, M272, M276. 1 generation, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/glk/",
+      "image": "https://mercedesengine.uk/images/mercedes-glk-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "GLK Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLK engine — OM651, OM642, M272, M276. 1 generation, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLK",
+              "item": "https://mercedesengine.uk/glk/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLK Generations",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GLK X204 (2008–2012) — Pre-Facelift",
+              "url": "https://mercedesengine.uk/glk/x204/pre-facelift/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLK X204 (2012–2015) — Post-Facelift",
+              "url": "https://mercedesengine.uk/glk/x204/post-facelift/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLK Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651 2.1L Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM642 3.0L V6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M272 3.5L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M276 3.5L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM646 2.2L Diesel",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a GLK engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A GLK engine replacement costs between £1,800 and £5,500 for a reconditioned supply-only unit [MB-QUOTE], depending on the engine variant. The M272 petrol V6 is the cheapest to replace (£1,800–£3,500) [MB-QUOTE]; the OM651 diesel costs £2,800–£4,800 [MB-QUOTE]; the OM642 V6 diesel costs £3,200–£5,500 [MB-QUOTE]. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Use our diagnostic calculator above for a personalised estimate for your specific GLK."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLK engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M272 3.5L V6 petrol is the most reliable GLK engine in our data — it's a naturally aspirated V6 with no turbocharger, no DPF, no AdBlue, and no 'Black Death' injector seals. The M276 (facelift petrol V6) is equally reliable. The OM642 V6 diesel is also robust, though its oil cooler seal is a known weak point. The OM651 diesel is the volume engine but carries real 'Black Death' and timing chain risks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLK engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 diesel carries the highest risk in our data — 'Black Death' injector seal failure and rear-mounted timing chain tensioner wear are the two dominant failure categories. We don't say 'avoid entirely' — a well-maintained OM651 with documented injector-seal history is a good engine — but a GLK diesel with undocumented history is a genuine risk. The OM646 (pre-2012) is even riskier; the OM651 is improved but still carries the same fundamental design weaknesses."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the GLK timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the OM651's rear-mounted timing chain is a genuine weak point, particularly on high-mileage examples (80k–150k miles) [MB-VERIFIED]. Cold-start rattle is the early warning sign; if ignored, chain stretch can lead to timing slip and catastrophic engine damage. The M272 petrol V6 has a different chain design and is far less prone to this failure. The OM642 V6 diesel's timing chain is more accessible but still requires significant labour."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a GLK engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on your engine choice and vehicle value. A facelift GLK with a £3,500 M272 recon against a £7,000 car value (50%) is a viable repair. A pre-facelift GLK with a £4,800 OM651 recon against a £4,000 car value (120%) is a no — scrap it. Use the 70% Mercedes threshold: if the reconditioned engine cost exceeds 70% of your GLK's current market value, get a scrap valuation alongside any repair quote. [MB-QUOTE]"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLK generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The GLK X204 (2012+ facelift) is the only generation — but the facelift is the one to buy. It has a revised interior, updated suspension, and the improved M276 petrol V6 (replacing the M272). If you're buying the diesel, the facelift's OM651 received incremental improvements, but the 'Black Death' and timing chain risks remain. The facelift is worth the premium over the pre-facelift."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my GLK engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your GLK engine code is usually stamped on the engine block itself — for the X204, look on the front left side of the engine (near the alternator) or on the VIN plate inside the driver's door shut. The VIN plate lists the engine code (e.g. 'OM651' or 'M272') as part of the vehicle data string. If you're unsure, use our diagnostic calculator — we'll identify your engine based on your registration year and model variant."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "GLK vs GLC — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The GLC (X253) is the GLK's successor and carries the improved OM654 diesel — a more reliable engine than the GLK's OM651. However, the GLC's modern electronics and emissions systems add complexity. The GLK's M272/M276 petrol V6s are simpler and more reliable than anything in the modern GLC range. Buy the GLK if you want a simple, proven petrol V6; buy the GLC if you want a modern diesel with better efficiency and reliability. Read the full comparison: GLK vs GLC → /compare/glk-vs-glc/"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "GLK Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "500",
+            "highPrice": "7000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "GLK UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for GLK engines, sourced from mercedesengine.uk's specialist marketplace activity — 152+ real UK GLK engine enquiries in 2025 [MB-VERIFIED].",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "GLK Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/glk/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • GLK • 2008–2015 • X204 • OM651 • OM642 • M272",
@@ -552,7 +744,48 @@
   },
   "faq": {
     "h2": "GLK Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a GLK engine replacement cost in the UK?",
+        "answer": "A GLK engine replacement costs between £1,800 and £5,500 for a reconditioned supply-only unit [MB-QUOTE], depending on the engine variant. The M272 petrol V6 is the cheapest to replace (£1,800–£3,500) [MB-QUOTE]; the OM651 diesel costs £2,800–£4,800 [MB-QUOTE]; the OM642 V6 diesel costs £3,200–£5,500 [MB-QUOTE]. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Use our diagnostic calculator above for a personalised estimate for your specific GLK."
+      },
+      {
+        "id": 2,
+        "question": "Which GLK engine is the most reliable?",
+        "answer": "The M272 3.5L V6 petrol is the most reliable GLK engine in our data — it's a naturally aspirated V6 with no turbocharger, no DPF, no AdBlue, and no \"Black Death\" injector seals. The M276 (facelift petrol V6) is equally reliable. The OM642 V6 diesel is also robust, though its oil cooler seal is a known weak point. The OM651 diesel is the volume engine but carries real \"Black Death\" and timing chain risks."
+      },
+      {
+        "id": 3,
+        "question": "Which GLK engine should I avoid?",
+        "answer": "The OM651 diesel carries the highest risk in our data — \"Black Death\" injector seal failure and rear-mounted timing chain tensioner wear are the two dominant failure categories. We don't say \"avoid entirely\" — a well-maintained OM651 with documented injector-seal history is a good engine — but a GLK diesel with undocumented history is a genuine risk. The OM646 (pre-2012) is even riskier; the OM651 is improved but still carries the same fundamental design weaknesses."
+      },
+      {
+        "id": 4,
+        "question": "Is the GLK timing chain problem real?",
+        "answer": "Yes — the OM651's rear-mounted timing chain is a genuine weak point, particularly on high-mileage examples (80k–150k miles) [MB-VERIFIED]. Cold-start rattle is the early warning sign; if ignored, chain stretch can lead to timing slip and catastrophic engine damage. The M272 petrol V6 has a different chain design and is far less prone to this failure. The OM642 V6 diesel's timing chain is more accessible but still requires significant labour."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a GLK engine?",
+        "answer": "It depends entirely on your engine choice and vehicle value. A facelift GLK with a £3,500 M272 recon against a £7,000 car value (50%) is a viable repair. A pre-facelift GLK with a £4,800 OM651 recon against a £4,000 car value (120%) is a no — scrap it. Use the 70% Mercedes threshold: if the reconditioned engine cost exceeds 70% of your GLK's current market value, get a scrap valuation alongside any repair quote. [MB-QUOTE]"
+      },
+      {
+        "id": 6,
+        "question": "Which GLK generation should I buy?",
+        "answer": "The GLK X204 (2012+ facelift) is the only generation — but the facelift is the one to buy. It has a revised interior, updated suspension, and the improved M276 petrol V6 (replacing the M272). If you're buying the diesel, the facelift's OM651 received incremental improvements, but the \"Black Death\" and timing chain risks remain. The facelift is worth the premium over the pre-facelift."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my GLK engine code?",
+        "answer": "Your GLK engine code is usually stamped on the engine block itself — for the X204, look on the front left side of the engine (near the alternator) or on the VIN plate inside the driver's door shut. The VIN plate lists the engine code (e.g. \"OM651\" or \"M272\") as part of the vehicle data string. If you're unsure, use our diagnostic calculator — we'll identify your engine based on your registration year and model variant. mercedesengine.uk/#engine-calculator?model=glk"
+      },
+      {
+        "id": 8,
+        "question": "GLK vs GLC — which is more reliable?",
+        "answer": "The GLC (X253) is the GLK's successor and carries the improved OM654 diesel — a more reliable engine than the GLK's OM651. However, the GLC's modern electronics and emissions systems add complexity. The GLK's M272/M276 petrol V6s are simpler and more reliable than anything in the modern GLC range. Buy the GLK if you want a simple, proven petrol V6; buy the GLC if you want a modern diesel with better efficiency and reliability. Read the full comparison: GLK vs GLC →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

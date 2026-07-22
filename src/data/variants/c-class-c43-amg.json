@@ -549,7 +549,32 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Cold-start timing chain rattle — caused by secondary tensioner oil feed issues; TSB LI05.10-P-056435 exists for check valve and tensioner installation"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "30,000–80,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£5,000–£6,500 reconditioned, supply only【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M276.823【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Winter — cold starts expose timing chain issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), North West (12%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
     "items": [

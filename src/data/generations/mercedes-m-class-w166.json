@@ -1,6 +1,6 @@
 {
   "meta": {
-    "slug": "mercedes-m-class-w166",
+    "slug": "bmw-m-class-w166",
     "title": "W166 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 56,
     "description": "Every Mercedes W166 M‑Class engine — OM651, OM642, M276, M278, M157. Real UK costs, the pre‑GLE generation, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
@@ -693,10 +693,22 @@
     "scopeNote": "All variants listed are W166 M‑Class SUV only. The post‑2015 facelift GLE shares most of these engines but is covered on its own Generation Page."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
+    "mostRequestedEngines": [
+      "1. OM642 (ML 350 BlueTEC) — 1,250 enquiries [MB‑VERIFIED] (OM651 proxy)",
+      "2. M276 (ML 350 4MATIC) — pattern data [PATTERN DATA]",
+      "3. OM651 (ML 250 BlueTEC) — pattern data [PATTERN DATA]"
+    ],
+    "mostRequestedVariants": [
+      "1. ML 350 BlueTEC",
+      "2. ML 350 4MATIC",
+      "3. ML 250 BlueTEC"
+    ],
+    "averageReplacementCost": "£2,800–£5,500 reconditioned, supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. OM651 EGR cooler failure & turbo bearing collapse (ML 250 BlueTEC)",
+      "2. OM642 oil cooler seal leaks (ML 350 BlueTEC)",
+      "3. M276 cooling system wear (ML 350 4MATIC)"
+    ],
     "liveFeed": [
       {
         "vehicle": "Mercedes ML 350 BlueTEC W166 (OM642)",

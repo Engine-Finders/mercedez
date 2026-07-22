@@ -1,11 +1,277 @@
 {
   "meta": {
-    "slug": "mercedes-v-class-w447",
-    "title": "Mercedes V-Class W447 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-mercedes-v-class-w447",
+    "title": "W447 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes V-Class W447 engine — OM651, OM642, OM654, M274 and M254. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 156,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "V-Class",
+              "item": "https://mercedesengine.uk/mercedes-v-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes V-Class W447",
+              "item": "https://mercedesengine.uk/mercedes-v-class/w447/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W447 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651.950 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM642.820 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM642.830 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM654.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M274.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M254.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m254/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W447 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "V 200 CDI",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-200-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "V 220 CDI",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-220-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "V 250 BlueTEC",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-250-bluetec/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "V 350 BlueTEC",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-350-bluetec/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "V 220 d",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-220-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "V 250 d",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-250-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "V 300 d",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-300-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "V 250",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-250/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "V 300",
+              "url": "https://mercedesengine.uk/mercedes-v-class/v-300/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes V-Class W447 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W447 engine typically costs £2,500–£7,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,500. Fitting adds 10–18 hours labour at specialist rates due to the MPV‑class engine bay packaging. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W447 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654.920 (V 220 d, facelift, 2019–2026) — a 2.0‑litre four‑cylinder diesel with 163 bhp, 380 Nm of torque, and significantly better refinement than the OM651 it replaced. The OM642 V6 diesel (V 350 BlueTEC) is a proven unit but carries higher running costs. For petrol buyers, the M274 (V 250) is a rare but reliable option."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes V-Class W447?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "OM651 rear timing chain stretch (pre‑facelift diesel), OM642 oil cooler seal leaks (pre‑facelift V6 diesel), 9G‑TRONIC gearbox conductor plate and valve body issues (facelift), AdBlue and SCR system failures (all Euro 6 diesels), and — chassis‑specific — rear suspension wear on heavily loaded examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes V-Class W447 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on which engine and whether you buy pre‑facelift (2014–2019) or facelift (2019–2026). The facelift OM654 diesel is significantly more reliable than the OM651 it replaced — timing chain issues are reduced but not eliminated. The OM642 V6 is proven but costly to maintain. The biggest non‑engine issues are the 9G‑TRONIC gearbox (service it every 40,000 miles) and the AdBlue system on Euro 6 diesels. Buy with a full Mercedes service history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W447 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a pre‑facelift OM651 (V 200/220/250 CDI, 2014–2019) without documented timing chain replacement is the one we'd approach cautiously, given the £1,200–£2,500 repair cost. A neglected OM642 V6 without oil cooler seal history is the second — watch for oil leaks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W447 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold‑start rattle (OM651/OM654 timing chain), oil leaks around the V of the engine (OM642), AdBlue warnings or reduced power (SCR system failure), harsh shifting or delayed engagement (9G‑TRONIC gearbox), or engine management light. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes V-Class W447 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value and mileage. Against a well‑kept £18,000 W447, a £3,000–£5,500 OM654 recon is 17–31% of the car's value — safe. Against a tired £10,000 example, the same recon is 30–55% — still safe. But if the £1,500–£2,500 9G‑TRONIC gearbox needs replacing at the same time, evaluate carefully. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W447 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can exceed 200,000 miles with proper servicing and chain maintenance. The OM651 is more fragile — 150,000+ miles is achievable with proactive chain replacement at 60,000–80,000 miles. The OM642 V6 can exceed 200,000 miles with oil cooler seal maintenance. The M274 petrol can reach 150,000+ miles with proper servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W447 V‑Class and the Vito?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the same platform and most powertrains. The W447 is the passenger MPV (this page), with premium interior trim, seating for up to eight passengers and higher specifications. The Vito is the commercial van, with more basic trim and utility‑focused configurations. The Vito is also available with different roof heights and panel van versions — the V‑Class is passenger‑only."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W447 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the OM651/OM654 is at the front, OM642 on the side). Tell us your variant, registration year and whether it's pre‑facelift (2014–2019) or facelift (2019–2026) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes V-Class W447 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes V-Class W447 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes V-Class W447 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "W447 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-v-class/w447/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -475,23 +741,121 @@
     "scopeNote": "All variants listed are W447 MPV only. The Vito commercial van shares the platform and most powertrains but is covered on its own Generation Page. The V 250 petrol is the only pre‑facelift petrol option; the V 300 PHEV was introduced in 2024."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM654.920 (V 220 d facelift)",
+      "2. OM651.950 (V 220 CDI pre‑facelift)",
+      "3. OM642.830 (V 350 BlueTEC)"
+    ],
+    "mostRequestedVariants": [
+      "1. V 220 d",
+      "2. V 250 d",
+      "3. V 220 CDI"
+    ],
+    "averageReplacementCost": "£3,500–£6,000 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. OM651 rear timing chain stretch",
+      "2. OM642 oil cooler seal leaks",
+      "3. 9G‑TRONIC gearbox issues / AdBlue system failures"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes V 220 CDI W447 (OM651)",
+        "location": "Birmingham",
+        "issue": "Cold‑start rattle / timing chain",
+        "enquiries": "5 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes V 250 d W447 (OM654)",
+        "location": "London",
+        "issue": "AdBlue warning / reduced power",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes V 350 BlueTEC W447 (OM642)",
+        "location": "Manchester",
+        "issue": "Oil leak / burning smell",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes V-Class W447 engine replacement cost in the UK?",
+        "answer": "A reconditioned W447 engine typically costs £2,500–£7,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,500. Fitting adds 10–18 hours labour at specialist rates due to the MPV‑class engine bay packaging. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes W447 engine is the most reliable?",
+        "answer": "The OM654.920 (V 220 d, facelift, 2019–2026) — a 2.0‑litre four‑cylinder diesel with 163 bhp, 380 Nm of torque, and significantly better refinement than the OM651 it replaced. The OM642 V6 diesel (V 350 BlueTEC) is a proven unit but carries higher running costs. For petrol buyers, the M274 (V 250) is a rare but reliable option."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes V-Class W447?",
+        "answer": "OM651 rear timing chain stretch (pre‑facelift diesel), OM642 oil cooler seal leaks (pre‑facelift V6 diesel), 9G‑TRONIC gearbox conductor plate and valve body issues (facelift), AdBlue and SCR system failures (all Euro 6 diesels), and — chassis‑specific — rear suspension wear on heavily loaded examples."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes V-Class W447 reliable?",
+        "answer": "It depends heavily on which engine and whether you buy pre‑facelift (2014–2019) or facelift (2019–2026). The facelift OM654 diesel is significantly more reliable than the OM651 it replaced — timing chain issues are reduced but not eliminated. The OM642 V6 is proven but costly to maintain. The biggest non‑engine issues are the 9G‑TRONIC gearbox (service it every 40,000 miles) and the AdBlue system on Euro 6 diesels. Buy with a full Mercedes service history."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes W447 engine should I avoid?",
+        "answer": "No engine outright — but a pre‑facelift OM651 (V 200/220/250 CDI, 2014–2019) without documented timing chain replacement is the one we'd approach cautiously, given the £1,200–£2,500 repair cost. A neglected OM642 V6 without oil cooler seal history is the second — watch for oil leaks."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W447 engine needs replacing?",
+        "answer": "Cold‑start rattle (OM651/OM654 timing chain), oil leaks around the V of the engine (OM642), AdBlue warnings or reduced power (SCR system failure), harsh shifting or delayed engagement (9G‑TRONIC gearbox), or engine management light. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes V-Class W447 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value and mileage. Against a well‑kept £18,000 W447, a £3,000–£5,500 OM654 recon is 17–31% of the car's value — safe. Against a tired £10,000 example, the same recon is 30–55% — still safe. But if the £1,500–£2,500 9G‑TRONIC gearbox needs replacing at the same time, evaluate carefully. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W447 engines last?",
+        "answer": "The OM654 diesel can exceed 200,000 miles with proper servicing and chain maintenance. The OM651 is more fragile — 150,000+ miles is achievable with proactive chain replacement at 60,000–80,000 miles. The OM642 V6 can exceed 200,000 miles with oil cooler seal maintenance. The M274 petrol can reach 150,000+ miles with proper servicing."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W447 V‑Class and the Vito?",
+        "answer": "Both share the same platform and most powertrains. The W447 is the passenger MPV (this page), with premium interior trim, seating for up to eight passengers and higher specifications. The Vito is the commercial van, with more basic trim and utility‑focused configurations. The Vito is also available with different roof heights and panel van versions — the V‑Class is passenger‑only."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W447 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the OM651/OM654 is at the front, OM642 on the side). Tell us your variant, registration year and whether it's pre‑facelift (2014–2019) or facelift (2019–2026) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes V-Class W447 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W447 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real W447 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W447 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for W447",
+        "text": "covering every variant from V 200 CDI to V 350 BlueTEC and V 300 PHEV, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes V-Class W447 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes V-Class W447 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

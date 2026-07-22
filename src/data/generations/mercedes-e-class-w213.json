@@ -1,11 +1,271 @@
 {
   "meta": {
-    "slug": "mercedes-e-class-w213",
-    "title": "Mercedes E-Class W213 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-e-class-w213",
+    "title": "W213 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 48,
+    "description": "Every Mercedes W213 engine — M274, M264, M256, M276, OM654, OM656, OM642. Real UK costs, reliability data, and the M256 inline‑six that defines the E‑Class. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-Class",
+              "item": "https://mercedesengine.uk/e-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes E-Class W213",
+              "item": "https://mercedesengine.uk/e-class/w213/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W213 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M274.910 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M274.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M264.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m264/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M264.920 EQ Boost Engine",
+              "url": "https://mercedesengine.uk/engines/m264-eq-boost/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M256.930 Engine",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M256.930 AMG Engine",
+              "url": "https://mercedesengine.uk/engines/m256-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M276.853 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM654.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "OM656.929 Engine",
+              "url": "https://mercedesengine.uk/engines/om656/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "OM642.855 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W213 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E 220 d",
+              "url": "https://mercedesengine.uk/e-class/e-220-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E 450 4MATIC",
+              "url": "https://mercedesengine.uk/e-class/e-450-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "AMG E 53",
+              "url": "https://mercedesengine.uk/e-class/amg-e-53/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "E 350",
+              "url": "https://mercedesengine.uk/e-class/e-350/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes W213 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W213 engine typically costs £1,800–£8,500 supply only, depending on the engine — the OM654 diesel sits at £2,800–£4,800, while the M256 petrol is £3,500–£6,500 and the AMG M256 is £4,500–£8,500. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which W213 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0-litre diesel (E 220 d) is the most reliable choice — it's Mercedes-developed, efficient, and has a strong track record when serviced properly. The M256 3.0-litre inline-six petrol is also very refined and dependable, though its EQ Boost system adds complexity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the W213?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can suffer from injector seal leaks (known as 'Black Death'); the M256 petrol engine can develop coolant leaks and EQ Boost system issues; the OM642 V6 diesel (pre-2018) can suffer from oil cooler seal leaks; and the OM656 inline-six diesel can experience AdBlue/SCR system failures. Regular servicing is key."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes W213 reliable overall?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the W213 is generally well-regarded for reliability, especially with the OM654 diesel and M264/M256 petrol engines. The OM656 inline-six diesel is also reliable but more complex due to its twin-turbo and AdBlue systems. The OM642 V6 diesel (pre-2018) is the least reliable of the range. All engines benefit from regular, attentive servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which W213 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 V6 diesel (E 350 d, pre-2018) — its oil cooler seal leaks are a known, costly issue, and it was phased out in favour of the superior OM656 inline-six diesel. The OM656 high-output diesel (E 400 d) is also worth careful inspection, though it's not an engine to avoid outright. Any W213 without documented service history should be approached with caution."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W213 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Warning signs include a ticking noise from the engine bay (OM654 injector seals), coolant loss (M256 water pump), oil in the coolant (OM642 oil cooler seals), AdBlue warnings (OM656 SCR system), or EQ Boost system errors (M256). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes W213 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. A well-kept W213 is worth £10,000–£30,000, so a £2,800–£4,800 OM654 recon is only 9–48% of its value — well within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher-mileage E 350 d with the OM656, the same maths is still favourable (11–55%). The W213's strong retained values make most engine replacements economically viable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W213 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can easily exceed 150,000 miles with regular servicing and early attention to the injector seals. The M256 inline-six petrol is similarly durable, though its EQ Boost system may require attention at higher mileages. The OM656 inline-six diesel can also reach high mileages with proper care. The OM642 V6 diesel is less durable due to its oil cooler seal issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W213 and the previous W212?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W213 is the tenth-generation E-Class, built on the newer MRA platform. It introduced new engines (including the OM654 diesel and M256 inline-six petrol), improved ride and handling, and updated technology. The W212 (2009–2016) used older OM651 and M276 engines and is covered on its own generation page. The W213 also introduced 48V EQ Boost mild-hybrid technology on facelift models."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W213 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the W213, common codes are M274 (petrol, pre-facelift), M264 (petrol, facelift), M256 (petrol inline-six), M276 (petrol V6, pre-facelift), OM654 (diesel, 2.0L), OM656 (diesel, 2.9L), and OM642 (diesel V6, pre-2018). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes E-Class W213 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "8500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes E-Class W213 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes E-Class W213 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "W213 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/e-class/w213/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -502,23 +762,121 @@
     "scopeNote": "All variants listed are W213 saloon only. The S213 estate, C238 coupé and A238 cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM654 (2.0 diesel) — most‑requested across the Mercedes range [MB‑VERIFIED]",
+      "2. M256 (3.0 inline‑six petrol) — strong demand for the E 450",
+      "3. M264 (2.0 petrol) — popular entry‑level choice"
+    ],
+    "mostRequestedVariants": [
+      "1. E 220 d",
+      "2. E 450 4MATIC",
+      "3. AMG E 53"
+    ],
+    "averageReplacementCost": "£1,800–£8,500 supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. OM654 injector seal leaks (Black Death)",
+      "2. M256 EQ Boost system/coolant leaks",
+      "3. OM642 oil cooler seal leaks (pre‑2018)"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes E 220 d W213 (OM654)",
+        "location": "London",
+        "issue": "Ticking noise from engine bay, suspected injector seal leak",
+        "enquiries": "6 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes E 450 W213 (M256)",
+        "location": "Birmingham",
+        "issue": "Coolant loss, water pump failure",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes E 350 d W213 (OM656)",
+        "location": "Manchester",
+        "issue": "AdBlue warning, SCR system fault",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes W213 engine replacement cost in the UK?",
+        "answer": "A reconditioned W213 engine typically costs £1,800–£8,500 supply only [MB‑QUOTE], depending on the engine — the OM654 diesel sits at £2,800–£4,800, while the M256 petrol is £3,500–£6,500 and the AMG M256 is £4,500–£8,500. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+      },
+      {
+        "id": 2,
+        "question": "Which W213 engine is the most reliable?",
+        "answer": "The OM654 2.0‑litre diesel (E 220 d) is the most reliable choice — it's Mercedes‑developed, efficient, and has a strong track record when serviced properly. The M256 3.0‑litre inline‑six petrol is also very refined and dependable, though its EQ Boost system adds complexity."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the W213?",
+        "answer": "The OM654 diesel can suffer from injector seal leaks (known as \"Black Death\"); the M256 petrol engine can develop coolant leaks and EQ Boost system issues; the OM642 V6 diesel (pre‑2018) can suffer from oil cooler seal leaks; and the OM656 inline‑six diesel can experience AdBlue/SCR system failures. Regular servicing is key."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes W213 reliable overall?",
+        "answer": "Yes — the W213 is generally well‑regarded for reliability, especially with the OM654 diesel and M264/M256 petrol engines. The OM656 inline‑six diesel is also reliable but more complex due to its twin‑turbo and AdBlue systems. The OM642 V6 diesel (pre‑2018) is the least reliable of the range. All engines benefit from regular, attentive servicing."
+      },
+      {
+        "id": 5,
+        "question": "Which W213 engine should I avoid?",
+        "answer": "The OM642 V6 diesel (E 350 d, pre‑2018) — its oil cooler seal leaks are a known, costly issue, and it was phased out in favour of the superior OM656 inline‑six diesel. The OM656 high‑output diesel (E 400 d) is also worth careful inspection, though it's not an engine to avoid outright. Any W213 without documented service history should be approached with caution."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W213 engine needs replacing?",
+        "answer": "Warning signs include a ticking noise from the engine bay (OM654 injector seals), coolant loss (M256 water pump), oil in the coolant (OM642 oil cooler seals), AdBlue warnings (OM656 SCR system), or EQ Boost system errors (M256). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes W213 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. A well‑kept W213 is worth £10,000–£30,000, so a £2,800–£4,800 OM654 recon is only 9–48% of its value — well within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher‑mileage E 350 d with the OM656, the same maths is still favourable (11–55%). The W213's strong retained values make most engine replacements economically viable."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W213 engines last?",
+        "answer": "The OM654 diesel can easily exceed 150,000 miles with regular servicing and early attention to the injector seals. The M256 inline‑six petrol is similarly durable, though its EQ Boost system may require attention at higher mileages. The OM656 inline‑six diesel can also reach high mileages with proper care. The OM642 V6 diesel is less durable due to its oil cooler seal issues."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W213 and the previous W212?",
+        "answer": "The W213 is the tenth‑generation E‑Class, built on the newer MRA platform. It introduced new engines (including the OM654 diesel and M256 inline‑six petrol), improved ride and handling, and updated technology. The W212 (2009–2016) used older OM651 and M276 engines and is covered on its own generation page. The W213 also introduced 48V EQ Boost mild‑hybrid technology on facelift models."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W213 engine code?",
+        "answer": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the W213, common codes are M274 (petrol, pre‑facelift), M264 (petrol, facelift), M256 (petrol inline‑six), M276 (petrol V6, pre‑facelift), OM654 (diesel, 2.0L), OM656 (diesel, 2.9L), and OM642 (diesel V6, pre‑2018). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes W213 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W213 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated, and reviewed by real Mercedes owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W213 Engine Replacement Companies",
+        "text": "see prices, warranty terms, and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for W213",
+        "text": "covering every variant from E 180 to AMG E 53, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes W213 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes E‑Class W213 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

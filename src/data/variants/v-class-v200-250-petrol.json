@@ -655,44 +655,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), North West (13%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes V‑Class V200 / V250 petrol engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned V‑Class petrol engine typically costs £2,500–£8,500 supply only depending on generation and engine type. Mercedes engine replacement costs can range from $5,000 to $15,000 or more depending on complexity. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes V‑Class V200 / V250 petrol engine reliable?"
-      },
-      {
-        "label": "It depends on which generation you're asking about. The M111 (W638 V200) is generally robust — many go on for 250,000–300,000 miles — but has common issues: oil leaks into the wiring loom, MAF sensor failure, and timing chain stretch. The M274 (W447 V200/V250) has well‑documented thermostat failures, camshaft actuator noise and timing chain rattle, carbon buildup, and fuel pump recall issues on the V250. Regular maintenance is essential.",
-        "value": "3. What are the common problems with the Mercedes V‑Class V200 / V250 petrol?"
-      },
-      {
-        "label": "M111 oil leaks into the wiring loom and ECU (W638 V200), M111 MAF sensor failure, M111 timing chain stretch, M274 thermostat failure (W447), M274 camshaft actuator noise and timing chain rattle (W447), M274 carbon buildup from direct injection (W447), and V250 fuel pump recall (W447 V250). See the Era Map above for generation‑specific advice.",
-        "value": "4. Is it worth replacing a Mercedes V‑Class V200 / V250 petrol engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept W447 V250 (values £15,000–£35,000+), a £4,500–£5,500 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older W638 V200 (£2,000–£6,000), a £3,000–£4,000 recon is 40–80% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing.",
-        "value": "5. How do I find my Mercedes V‑Class V200 / V250 petrol engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W638 V200 (1997–2003) = M111.948 / M111.950 (2.0L, 129 bhp); W447 V200 (2014–2020) = M274 (2.0L, 163 bhp); W447 V250 (2014–present) = M274 (2.0L, 211 bhp). The W447 V250 uses the M274.920 engine. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the M111 oil leak into the wiring loom, or does it require engine replacement?"
-      },
-      {
-        "label": "The oil leak into the wiring loom is repairable without replacing the engine — if caught early. The camshaft adjuster magnet seal can be replaced (£200–£400) and the wiring harness can be cleaned. However, if oil has reached the ECU, more extensive work may be required. At the first sign of oil in wiring connectors, book an inspection immediately.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "PART 2 — SECTION 9 + META + SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes V‑Class V200 / V250 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned V‑Class petrol engine typically costs £2,500–£8,500 supply only depending on generation and engine type. Mercedes engine replacement costs can range from $5,000 to $15,000 or more depending on complexity. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes V‑Class V200 / V250 petrol engine reliable?",
+        "answer": "It depends on which generation you're asking about. The M111 (W638 V200) is generally robust — many go on for 250,000–300,000 miles — but has common issues: oil leaks into the wiring loom, MAF sensor failure, and timing chain stretch. The M274 (W447 V200/V250) has well‑documented thermostat failures, camshaft actuator noise and timing chain rattle, carbon buildup, and fuel pump recall issues on the V250. Regular maintenance is essential."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes V‑Class V200 / V250 petrol?",
+        "answer": "M111 oil leaks into the wiring loom and ECU (W638 V200), M111 MAF sensor failure, M111 timing chain stretch, M274 thermostat failure (W447), M274 camshaft actuator noise and timing chain rattle (W447), M274 carbon buildup from direct injection (W447), and V250 fuel pump recall (W447 V250). See the Era Map above for generation‑specific advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes V‑Class V200 / V250 petrol engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept W447 V250 (values £15,000–£35,000+), a £4,500–£5,500 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older W638 V200 (£2,000–£6,000), a £3,000–£4,000 recon is 40–80% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes V‑Class V200 / V250 petrol engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W638 V200 (1997–2003) = M111.948 / M111.950 (2.0L, 129 bhp); W447 V200 (2014–2020) = M274 (2.0L, 163 bhp); W447 V250 (2014–present) = M274 (2.0L, 211 bhp). The W447 V250 uses the M274.920 engine. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M111 oil leak into the wiring loom, or does it require engine replacement?",
+        "answer": "The oil leak into the wiring loom is repairable without replacing the engine — if caught early. The camshaft adjuster magnet seal can be replaced (£200–£400) and the wiring harness can be cleaned. However, if oil has reached the ECU, more extensive work may be required. At the first sign of oil in wiring connectors, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes V‑Class V200 / V250 Petrol Owners Trust MercedesEngine.uk",

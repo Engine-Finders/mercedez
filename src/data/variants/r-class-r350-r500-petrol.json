@@ -535,11 +535,67 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M272: Balance shaft failure / M113: Oil seals and intake manifold flaps / M273: Balance shaft/idler gear issues — the defining risks of each engine"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "M272: 60,000–100,000 miles / M113: 70,000–120,000 miles / M273: 60,000–90,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "M272: £2,500–£5,000 / M113: £3,000–£5,500 / M273: £3,500–£7,500 reconditioned, supply only【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M113 — the reliable V8【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn — pre‑winter vehicle preparation【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (20%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz R350 or R500 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned M272 engine typically costs £2,500–£5,000 supply only; a reconditioned M113 costs £3,000–£5,500; a reconditioned M273 costs £3,500–£7,500. Used units are available from £1,500–£3,500. Fitting adds £1,500–£2,500 depending on the workshop. Balance shaft repairs on the M272 cost around £5,000–£7,000. Use our calculator for a figure specific to your R-Class."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz R350 / R500 petrol engine reliable?",
+        "answer": "It depends entirely on which engine. The M113 V8 (2006–2010) is widely regarded as \"one of the most reliable engines I've ever encountered\". The M272 V6 (2006–2010) is the least reliable — balance shaft failure is a class-action-level issue. The M273 V8 (2010–2013) is more powerful but shares the M272's balance shaft/idler gear concerns. Buy the M113 if you can."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz R350 and R500 petrol?",
+        "answer": "M272: balance shaft failure (soft metal sprocket wears, causing timing issues — P0016–P0019 codes), rough running. M113: oil leaks (valve stem seals, oil pickup O-ring, coolant O-rings), intake manifold flap failure (P2005). M273: balance shaft/idler gear wear (same issue as M272). All models: 7G-Tronic transmission valve body failure."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz R350 / R500 petrol engine, or should I scrap the car?",
+        "answer": "R-Class values range from £3,000–£12,000 depending on condition and spec. A £2,500–£7,500 reconditioned engine is 25–50% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example with good bodywork, replacement is often worthwhile. On a tired example with multiple other issues (Airmatic, transmission), get a scrap valuation first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz R350 or R500 petrol engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. W251 R350 (2006–2010) uses M272; W251 R500 (2006–2010) uses M113; W251 R500 (2010–2013) uses M273. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M272 balance shaft, or does the engine need replacement?",
+        "answer": "The balance shaft can be replaced — it's a known weak point. Replacement costs £5,000–£7,000. If the balance shaft fails and timing is thrown off, the engine can be destroyed. A preventative balance shaft replacement with the updated timing gear is far cheaper than a full engine replacement (£2,500+). At the first sign of rattling or check engine light (P0016–P0019) on a pre-2010 R350, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

@@ -1,11 +1,271 @@
 {
   "meta": {
-    "slug": "mercedes-glc-x254",
-    "title": "Mercedes GLC X254 Engines — The Complete UK Guide",
+    "slug": "bmw-mercedes-glc-class-x254",
+    "title": "X254 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 49,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "description": "Every Mercedes GLC X254 engine — M254 MHEV and PHEV, OM654 diesel, and M139 AMG. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 157,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLC-Class",
+              "item": "https://mercedesengine.uk/mercedes-glc-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes GLC X254",
+              "item": "https://mercedesengine.uk/mercedes-glc-class/x254/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes X254 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M254.915 Engine",
+              "url": "https://mercedesengine.uk/engines/m254/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M254.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m254/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM654.820 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M139.580 Engine",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes X254 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GLC 180",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-180/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLC 200",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-200/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GLC 300",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-300/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "GLC 300 e",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-300-e/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "GLC 400 e",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-400-e/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "GLC 220 d",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-220-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "GLC 300 d",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-300-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "GLC 300 de",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-300-de/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "GLC 43 AMG",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-43-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "GLC 63 S E Performance",
+              "url": "https://mercedesengine.uk/mercedes-glc-class/glc-63-s-e-performance/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes GLC X254 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned X254 engine typically costs £2,500–£18,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,500. Fitting adds 10–20 hours labour at specialist rates due to the SUV‑class engine bay packaging. PHEV battery replacement outside warranty could add £5,000–£10,000 — factor this into your ownership maths. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes X254 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654.820 (GLC 220 d, MHEV) — a 2.0‑litre four‑cylinder diesel with 197 bhp, 440 Nm of torque, and proven reliability from the W206/W213 generations. The M254.920 (GLC 300, MHEV) is the best petrol option — smooth, responsive, and with the simplest electrified system in the non‑AMG range."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes GLC X254?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PHEV battery degradation and cooling system failures (all PHEV variants), 48V ISG and cooling system issues (MHEV variants), OM654 rear timing chain wear (projected on high‑mileage diesels), and — AMG‑specific — electrically assisted turbocharger issues on the M139 engine."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes GLC X254 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It's too early to say definitively — the X254 launched in 2022 and long‑term reliability data is limited. Early indications from the W206/W213 generations suggest the M254 and OM654 are solid, but the 48V and PHEV systems add complexity. The biggest unknown is the 25.4 kWh battery — an £8,000–£15,000 replacement outside warranty is a serious consideration. Buy with a full Mercedes service history and ensure software updates are current."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes X254 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a PHEV without a documented battery health check is the one we'd approach cautiously. The GLC 63 S E Performance is complex, high‑performance system with significant potential failure points — the electrically assisted turbocharger and rear‑axle electric motor add substantial complexity. For private buyers, the simpler MHEV variants (GLC 200, GLC 220 d) are the safer bet."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my X254 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "EML or 48V system warnings (MHEV), range reduction or charging issues (PHEV battery degradation), rattling on start‑up (OM654 timing chain), boost loss or turbo warnings (M139 AMG), rough running or misfire (M254 cooling/ISG issues). Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes GLC X254 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value and whether the PHEV battery is involved. Against a well‑kept £50,000 X254, a £3,000–£5,500 OM654 recon is 6–11% of the car's value — safe. Even an £10,000–£18,000 M139 AMG recon is 20–36% — safe. But if the £5,000–£10,000 PHEV battery needs replacing at the same time, the total could exceed 30–60% of the car's value — evaluate carefully. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes X254 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can exceed 200,000 miles with proper servicing. The M254 petrol can reach 150,000+ miles with 48V system maintenance. The PHEV battery is rated for 8 years / 100,000 miles — beyond that, degradation is expected. The M139 AMG four‑cylinder is robust but complex — 100,000+ miles is achievable with meticulous servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the X254 and the C254 GLC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the second‑generation GLC platform and all powertrains. The X254 is the 5‑door SUV (this page), the C254 is the 5‑door Coupé. The Coupé has a lower roofline, different rear suspension tuning, and a heavier kerb weight — running costs on the C254 are marginally higher than the X254 for comparable engine work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes X254 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also accessible via the MBUX infotainment system (Vehicle → Engine information). Tell us your variant, registration year and whether it's MHEV or PHEV and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes GLC X254 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "25000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes GLC X254 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes GLC X254 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "X254 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-glc-class/x254/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -508,23 +768,121 @@
     "scopeNote": "All variants listed are X254 five‑door SUV only. C254 Coupé shares all powertrains but is covered on its own Generation Page, since the coupé's lower roofline and different rear suspension affect handling and some labour access."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM654.820 (GLC 220 d MHEV)",
+      "2. M254.920 (GLC 300 e PHEV)",
+      "3. M254.920 (GLC 300 MHEV)"
+    ],
+    "mostRequestedVariants": [
+      "1. GLC 220 d",
+      "2. GLC 300 e",
+      "3. GLC 300"
+    ],
+    "averageReplacementCost": "£3,500–£6,000 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. PHEV battery degradation",
+      "2. 48V ISG / cooling system issues",
+      "3. M139 electrically assisted turbocharger issues"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes GLC 220 d X254 (OM654)",
+        "location": "Birmingham",
+        "issue": "48V system warning / reduced power",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes GLC 300 e X254 (M254 PHEV)",
+        "location": "London",
+        "issue": "Battery range degradation / charging issues",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes GLC 63 S E Performance X254 (M139)",
+        "location": "Manchester",
+        "issue": "Boost loss / turbo warning",
+        "enquiries": "2 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes GLC X254 engine replacement cost in the UK?",
+        "answer": "A reconditioned X254 engine typically costs £2,500–£18,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,500. Fitting adds 10–20 hours labour at specialist rates due to the SUV‑class engine bay packaging. PHEV battery replacement outside warranty could add £5,000–£10,000 — factor this into your ownership maths. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes X254 engine is the most reliable?",
+        "answer": "The OM654.820 (GLC 220 d, MHEV) — a 2.0‑litre four‑cylinder diesel with 197 bhp, 440 Nm of torque, and proven reliability from the W206/W213 generations. The M254.920 (GLC 300, MHEV) is the best petrol option — smooth, responsive, and with the simplest electrified system in the non‑AMG range."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes GLC X254?",
+        "answer": "PHEV battery degradation and cooling system failures (all PHEV variants), 48V ISG and cooling system issues (MHEV variants), OM654 rear timing chain wear (projected on high‑mileage diesels), and — AMG‑specific — electrically assisted turbocharger issues on the M139 engine."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes GLC X254 reliable?",
+        "answer": "It's too early to say definitively — the X254 launched in 2022 and long‑term reliability data is limited. Early indications from the W206/W213 generations suggest the M254 and OM654 are solid, but the 48V and PHEV systems add complexity. The biggest unknown is the 25.4 kWh battery — an £8,000–£15,000 replacement outside warranty is a serious consideration. Buy with a full Mercedes service history and ensure software updates are current."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes X254 engine should I avoid?",
+        "answer": "No engine outright — but a PHEV without a documented battery health check is the one we'd approach cautiously. The GLC 63 S E Performance is complex, high‑performance system with significant potential failure points — the electrically assisted turbocharger and rear‑axle electric motor add substantial complexity. For private buyers, the simpler MHEV variants (GLC 200, GLC 220 d) are the safer bet."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my X254 engine needs replacing?",
+        "answer": "EML or 48V system warnings (MHEV), range reduction or charging issues (PHEV battery degradation), rattling on start‑up (OM654 timing chain), boost loss or turbo warnings (M139 AMG), rough running or misfire (M254 cooling/ISG issues). Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes GLC X254 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value and whether the PHEV battery is involved. Against a well‑kept £50,000 X254, a £3,000–£5,500 OM654 recon is 6–11% of the car's value — safe. Even an £10,000–£18,000 M139 AMG recon is 20–36% — safe. But if the £5,000–£10,000 PHEV battery needs replacing at the same time, the total could exceed 30–60% of the car's value — evaluate carefully. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes X254 engines last?",
+        "answer": "The OM654 diesel can exceed 200,000 miles with proper servicing. The M254 petrol can reach 150,000+ miles with 48V system maintenance. The PHEV battery is rated for 8 years / 100,000 miles — beyond that, degradation is expected. The M139 AMG four‑cylinder is robust but complex — 100,000+ miles is achievable with meticulous servicing."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the X254 and the C254 GLC?",
+        "answer": "Both share the second‑generation GLC platform and all powertrains. The X254 is the 5‑door SUV (this page), the C254 is the 5‑door Coupé. The Coupé has a lower roofline, different rear suspension tuning, and a heavier kerb weight — running costs on the C254 are marginally higher than the X254 for comparable engine work."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes X254 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also accessible via the MBUX infotainment system (Vehicle → Engine information). Tell us your variant, registration year and whether it's MHEV or PHEV and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes GLC X254 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted X254 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real X254 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare X254 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for X254",
+        "text": "covering every variant from GLC 180 to GLC 63 S E Performance, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes GLC X254 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes GLC X254 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

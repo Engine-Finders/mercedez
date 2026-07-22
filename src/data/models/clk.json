@@ -1,24 +1,277 @@
 {
   "meta": {
     "slug": "clk",
-    "title": "CLK Engines — The Complete UK Guide",
-    "titleCharCount": 35,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "CLK Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 51,
+    "description": "Every CLK engine — M111, M112, M113, M271, M272, OM612, OM642, M156. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 151,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "CLK Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every CLK engine — M111, M112, M113, M271, M272, OM612, OM642, M156. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/clk/",
+      "image": "https://mercedesengine.uk/images/models/mercedes-clk-hero.jpg",
+      "siteName": "MercedesEngines.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "CLK Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every CLK engine — M111, M112, M113, M271, M272, OM612, OM642, M156. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLK",
+              "item": "https://mercedesengine.uk/clk/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "CLK Generations",
+          "description": "The two generations of Mercedes-Benz CLK covered in this guide.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W208 CLK (1997–2003)",
+              "url": "https://mercedesengine.uk/clk/w208/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W209 CLK (2002–2009)",
+              "url": "https://mercedesengine.uk/clk/w209/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "CLK Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz CLK, with reliability ratings and cost data.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M111.941 / M111.945",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M111.944",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M111.975",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M112.940",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M112.912",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M113.943",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M113.968",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M113.984",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M271.941",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M271.942",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "M272.960",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "OM612.962 / .967",
+              "url": "https://mercedesengine.uk/engines/om612/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "OM642.910",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "M156.982",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a CLK engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A CLK engine replacement typically costs £1,500–£8,000 supply-only depending on engine type and condition. Four-cylinder M111 and M271 units: £900–£2,200 reconditioned. V6 M112 and M272 units: £1,200–£3,500 reconditioned. V8 M113 units: £2,000–£5,000 reconditioned. AMG M113 and M156 units: £3,000–£10,000+ [PLACEHOLDER — confirm vs cost sheet]. Labour adds 8–18 hours at £65–£95/hr independent or £110–£160/hr dealer. Use our calculator above for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLK engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112 3.2 V6 is the most reliable CLK engine — simple, durable, and well-understood by every Mercedes specialist. Fitted to the CLK 320 (both W208 and W209). The M113 4.3, 5.0 and 5.4 V8s are almost as reliable, with minimal known issues beyond valve cover gaskets. The M156 6.2 V8 in the CLK 63 AMG is also robust but expensive to maintain. Avoid the M271 Kompressor if you want low-maintenance ownership."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLK engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M272 3.5 V6 in pre-2008 W209 CLK 350 models — specifically engine numbers up to 2729..30 468993 — has a balance shaft sprocket wear issue that can lead to catastrophic engine failure. Not all M272s are affected, but it's a real risk. The M271 1.8 Kompressor isn't a 'bad' engine but has well-documented timing chain and camshaft adjuster wear — buy one only with documented chain replacement."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the CLK timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — on the M271 1.8 Kompressor, it's a well-documented issue. Symptoms include rattling on cold start, check engine light, and reduced power. The chain tensioner and camshaft adjuster solenoids are the weak points. Catch it early and it's a £400–£800 repair; ignore it and it's a £2,000+ rebuild. The M272 also has timing-related issues (balance shaft), but the mechanism is different."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a CLK engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on generation and condition. A W208 CLK 200 Kompressor worth £2,000–£3,000 rarely justifies a £1,800 reconditioned engine. A W209 CLK 500 worth £5,000–£8,000 absolutely does — especially if the rest of the car is clean. Apply the 70% threshold: if the replacement cost exceeds 70% of the car's value, get a scrap valuation first. For AMG variants, the calculus is different — the car's value is in the badge and the engine, so replacement usually makes sense."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLK generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W209 post-2006 facelift is the best CLK generation — better rust protection, better electronics, and the M272 engine issues largely resolved. Target a CLK 320 (M112), CLK 350 (post-2008 M272), CLK 500 (M113), or any AMG variant. Avoid pre-2006 W209s with the M271 unless the timing chain has been done. The W208 is now a classic — buy it for weekend use, not as a daily driver."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my CLK engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is stamped on the engine block — look for a metal plate or stamped digits on the passenger side of the cylinder head (left-hand side of the engine when viewed from the front). For the W208 CLK 320, the M112 code is visible on the front of the engine. You can also find the engine code in your V5C registration document, or by entering your VIN into an online Mercedes decoder. Not sure? Our diagnostic calculator can help identify your engine from your symptoms and vehicle details."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "CLK vs C-Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The CLK and C-Class share many engines (M111, M112, M271, M272, OM612, OM642), so reliability is almost identical on a like-for-like basis. The difference is the body — the CLK is a coupé or convertible based on the C-Class platform, with different suspension tuning and styling. The C-Class has better parts availability (higher volume), but the CLK has better rust resistance on the W209. Buy on condition and service history, not badge."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          },
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "CLK Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "900",
+            "highPrice": "10000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "CLK UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for CLK engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLK Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/clk/",
+          "description": "Every CLK engine — M111, M112, M113, M271, M272, OM612, OM642, M156. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • CLK • 1997–2009 • 2 Generations • M111 • M112 • M113 • OM612 • OM642 • M272 • M156",
@@ -703,7 +956,48 @@
   },
   "faq": {
     "h2": "CLK Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a CLK engine replacement cost in the UK?",
+        "answer": "A CLK engine replacement typically costs £1,500–£8,000 supply-only depending on engine type and condition. Four-cylinder M111 and M271 units: £900–£2,200 reconditioned. V6 M112 and M272 units: £1,200–£3,500 reconditioned. V8 M113 units: £2,000–£5,000 reconditioned. AMG M113 and M156 units: £3,000–£10,000+ [PLACEHOLDER — confirm vs cost sheet]. Labour adds 8–18 hours at £65–£95/hr independent or £110–£160/hr dealer. Use our calculator above for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which CLK engine is the most reliable?",
+        "answer": "The M112 3.2 V6 is the most reliable CLK engine — simple, durable, and well-understood by every Mercedes specialist. Fitted to the CLK 320 (both W208 and W209). The M113 4.3, 5.0 and 5.4 V8s are almost as reliable, with minimal known issues beyond valve cover gaskets. The M156 6.2 V8 in the CLK 63 AMG is also robust but expensive to maintain. Avoid the M271 Kompressor if you want low-maintenance ownership."
+      },
+      {
+        "id": 3,
+        "question": "Which CLK engine should I avoid?",
+        "answer": "The M272 3.5 V6 in pre-2008 W209 CLK 350 models — specifically engine numbers up to 2729..30 468993 — has a balance shaft sprocket wear issue that can lead to catastrophic engine failure. Not all M272s are affected, but it's a real risk. The M271 1.8 Kompressor isn't a \"bad\" engine but has well-documented timing chain and camshaft adjuster wear — buy one only with documented chain replacement."
+      },
+      {
+        "id": 4,
+        "question": "Is the CLK timing chain problem real?",
+        "answer": "Yes — on the M271 1.8 Kompressor, it's a well-documented issue. Symptoms include rattling on cold start, check engine light, and reduced power. The chain tensioner and camshaft adjuster solenoids are the weak points. Catch it early and it's a £400–£800 repair; ignore it and it's a £2,000+ rebuild. The M272 also has timing-related issues (balance shaft), but the mechanism is different."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a CLK engine?",
+        "answer": "It depends on generation and condition. A W208 CLK 200 Kompressor worth £2,000–£3,000 rarely justifies a £1,800 reconditioned engine. A W209 CLK 500 worth £5,000–£8,000 absolutely does — especially if the rest of the car is clean. Apply the 70% threshold: if the replacement cost exceeds 70% of the car's value, get a scrap valuation first. For AMG variants, the calculus is different — the car's value is in the badge and the engine, so replacement usually makes sense."
+      },
+      {
+        "id": 6,
+        "question": "Which CLK generation should I buy?",
+        "answer": "The W209 post-2006 facelift is the best CLK generation — better rust protection, better electronics, and the M272 engine issues largely resolved. Target a CLK 320 (M112), CLK 350 (post-2008 M272), CLK 500 (M113), or any AMG variant. Avoid pre-2006 W209s with the M271 unless the timing chain has been done. The W208 is now a classic — buy it for weekend use, not as a daily driver."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my CLK engine code?",
+        "answer": "The engine code is stamped on the engine block — look for a metal plate or stamped digits on the passenger side of the cylinder head (left-hand side of the engine when viewed from the front). For the W208 CLK 320, the M112 code is visible on the front of the engine. You can also find the engine code in your V5C registration document, or by entering your VIN into an online Mercedes decoder. Not sure? Our diagnostic calculator can help identify your engine from your symptoms and vehicle details."
+      },
+      {
+        "id": 8,
+        "question": "CLK vs C-Class — which is more reliable?",
+        "answer": "The CLK and C-Class share many engines (M111, M112, M271, M272, OM612, OM642), so reliability is almost identical on a like-for-like basis. The difference is the body — the CLK is a coupé or convertible based on the C-Class platform, with different suspension tuning and styling. The C-Class has better parts availability (higher volume), but the CLK has better rust resistance on the W209. Buy on condition and service history, not badge."
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

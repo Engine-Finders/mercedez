@@ -1,11 +1,218 @@
 {
   "meta": {
-    "slug": "mercedes-benz-slc-r172",
-    "title": "Mercedes‑Benz SLC R172 Engines — The Complete UK Guide",
-    "titleCharCount": 54,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-slc-class-r172",
+    "title": "R172 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes‑Benz SLC R172 engine — M274, M276, OM651. Real UK costs, roadster ownership realities, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLC‑Class",
+              "item": "https://mercedesengine.uk/slc-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz SLC R172",
+              "item": "https://mercedesengine.uk/slc-class/r172/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz SLC R172 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M274.910 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M274.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276.822 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM651.980 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz SLC R172 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "SLC 200",
+              "url": "https://mercedesengine.uk/slc-class/slc200-r172/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLC 300",
+              "url": "https://mercedesengine.uk/slc-class/slc300-r172/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "SLC 43 AMG",
+              "url": "https://mercedesengine.uk/slc-class/slc43amg-r172/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz SLC R172 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned R172 engine typically costs £1,800–£7,500 supply only, depending on engine — the volume M274 four‑cylinder petrol sits at £1,800–£3,800, while the V6 M276 in the SLC 43 AMG commands £4,500–£7,500. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz SLC R172 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M274 2.0‑litre four‑cylinder turbo is the most proven — it's used across the Mercedes range and has a solid reputation with timing chain stretch as its only real watchpoint. The M276 V6 is also reliable but more complex. The OM651 diesel is durable but has injector seal and timing chain issues to monitor."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz SLC R172?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing chain stretch on the M274 four‑cylinder petrol, timing chain tensioner wear and injector seal failure on the OM651 diesel, and cooling system and turbo seal issues on the M276 V6 in the SLC 43 AMG."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz SLC R172 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for a compact roadster. The M274 and M276 engines are well‑proven across the Mercedes range. The OM651 diesel is durable but requires attention to injector seals and timing chain tensioner. Regular maintenance is the key to longevity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz SLC R172 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a high‑mileage M274 without documented timing chain history is worth inspecting carefully. Also be cautious with the OM651 diesel if injector seals haven't been addressed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Mercedes‑Benz SLC R172 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold‑start rattle (M274 timing chain), rough idle or diesel smell (OM651 injector seals), coolant loss (M276 cooling system), or major mechanical knock are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz SLC R172 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the engine and the car's value. A £2,800–£4,800 OM651 recon against a £10,000 R172 is 28–48% — safe. A £4,500–£7,500 M276 recon against a £12,000 SLC 43 is 38–63% — borderline on high‑mileage examples. Body condition and overall history are the deciding factors."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes‑Benz SLC R172 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M274 four‑cylinder can comfortably exceed 150,000 miles with regular oil changes and timely chain attention. The M276 V6 is similarly durable with proper cooling system maintenance. The OM651 diesel can exceed 200,000 miles, though injector seals and timing chain are recurring items."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the SLC and the SLK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are the same R172 platform. The SLK name was used pre‑facelift (2011–2015), and the SLC name was used post‑facelift (2016–2020) to align with the C‑Class. The SLC facelift brought the 9G‑Tronic transmission, updated engines (M274 replacing M271), and revised styling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz SLC R172 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (SLC 180, 200, 300, 43 AMG, 250 d) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz SLC R172 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1000",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "R172 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/slc-class/r172/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -344,16 +551,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz SLC R172 engine replacement cost in the UK?",
+        "answer": "A reconditioned R172 engine typically costs £1,800–£7,500 supply only [MB‑QUOTE], depending on engine — the volume M274 four‑cylinder petrol sits at £1,800–£3,800, while the V6 M276 in the SLC 43 AMG commands £4,500–£7,500. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes‑Benz SLC R172 engine is the most reliable?",
+        "answer": "The M274 2.0‑litre four‑cylinder turbo is the most proven — it's used across the Mercedes range and has a solid reputation with timing chain stretch as its only real watchpoint. The M276 V6 is also reliable but more complex. The OM651 diesel is durable but has injector seal and timing chain issues to monitor."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz SLC R172?",
+        "answer": "Timing chain stretch on the M274 four‑cylinder petrol, timing chain tensioner wear and injector seal failure on the OM651 diesel, and cooling system and turbo seal issues on the M276 V6 in the SLC 43 AMG."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes‑Benz SLC R172 reliable?",
+        "answer": "Yes, for a compact roadster. The M274 and M276 engines are well‑proven across the Mercedes range. The OM651 diesel is durable but requires attention to injector seals and timing chain tensioner. Regular maintenance is the key to longevity."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes‑Benz SLC R172 engine should I avoid?",
+        "answer": "No engine outright — but a high‑mileage M274 without documented timing chain history is worth inspecting carefully. Also be cautious with the OM651 diesel if injector seals haven't been addressed."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my Mercedes‑Benz SLC R172 engine needs replacing?",
+        "answer": "Cold‑start rattle (M274 timing chain), rough idle or diesel smell (OM651 injector seals), coolant loss (M276 cooling system), or major mechanical knock are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes‑Benz SLC R172 engine, or should I scrap the car?",
+        "answer": "Depends on the engine and the car's value. A £2,800–£4,800 OM651 recon against a £10,000 R172 is 28–48% — safe. A £4,500–£7,500 M276 recon against a £12,000 SLC 43 is 38–63% — borderline on high‑mileage examples. Body condition and overall history are the deciding factors."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes‑Benz SLC R172 engines last?",
+        "answer": "The M274 four‑cylinder can comfortably exceed 150,000 miles with regular oil changes and timely chain attention. The M276 V6 is similarly durable with proper cooling system maintenance. The OM651 diesel can exceed 200,000 miles, though injector seals and timing chain are recurring items."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the SLC and the SLK?",
+        "answer": "Both are the same R172 platform. The SLK name was used pre‑facelift (2011–2015), and the SLC name was used post‑facelift (2016–2020) to align with the C‑Class. The SLC facelift brought the 9G‑Tronic transmission, updated engines (M274 replacing M271), and revised styling."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes‑Benz SLC R172 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (SLC 180, 200, 300, 43 AMG, 250 d) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes‑Benz SLC R172 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted R172 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real R172 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare R172 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑and‑fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for R172",
+        "text": "covering every variant from SLC 180 to SLC 43 AMG, with supply‑only or full supply‑and‑fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑Benz SLC R172 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes‑Benz SLC R172 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

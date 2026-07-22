@@ -636,64 +636,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (12%) — premium SUV strongholds [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑AMG GLC43 engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned GLC43 engine typically costs £3,500–£6,500 supply only depending on generation (M276 V6 or M139l four‑cylinder). Reconditioned engines typically cost £3,500–£5,500, with total installed cost around £4,800–£7,000. Fitting adds £1,300–£1,800. Use our calculator for a figure specific to your vehicle.",
-        "value": "2. Is the Mercedes‑AMG GLC43 engine reliable?"
-      },
-      {
-        "label": "It depends on which generation your GLC43 has. The M276 V6 (2016‑2023) is a smooth, characterful engine but has known weaknesses — fuel injector failure (reported at as little as 4,000 miles) and oil leaks from camshaft adjuster solenoids. The M139l four‑cylinder (2023‑present) is a technical masterpiece — the most powerful production four‑cylinder in the world — but it is a highly stressed engine that demands rigorous maintenance. Both engines are handcrafted and require regular oil changes (every 8,000‑10,000 miles).",
-        "value": "3. What are the common problems with the Mercedes‑AMG GLC43?"
-      },
-      {
-        "label": "The most common issues are fuel injector failure on the M276 (causing rough idle, misfire, hard starting), oil leaks from the camshaft adjuster solenoids on the M276, a safety recall for the integral carrier on 2024 models, high‑stress engine issues on the M139l, and AMG SPEEDSHIFT MCT 9‑speed transmission problems — described as \"wonky\" with rough shifts, hesitating, and jerky gear changes.",
-        "value": "4. Is it worth replacing a GLC43 engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and condition. Against a tidy £20,000–£50,000 GLC43, a £3,500–£6,500 recon is 10‑35% of the car's value — often worth it on well‑maintained examples. If the engine has suffered catastrophic failure (cylinder scoring, snapped timing chain), a full engine replacement may be necessary. Get a full diagnostic assessment before committing.",
-        "value": "5. How do I find my GLC43's engine code?"
-      },
-      {
-        "label": "The X253/C253 (2016‑2023) GLC43 uses the M276.823 — a 3.0‑litre V6 biturbo. The X254/C254 (2023‑present) GLC43 uses the M139l — a 2.0‑litre four‑cylinder turbo with 48V mild‑hybrid. The engine code is stamped on the engine block and listed on your V5C.",
-        "value": "6. Can I repair a GLC43 engine issue, or does it need replacement?"
-      },
-      {
-        "label": "Most issues — M276 fuel injector failure, oil leaks, M139l high‑stress engine issues — are repairable. However, if the engine has suffered catastrophic failure, a full engine replacement is usually more cost‑effective than a rebuild. The 2024 integral carrier recall is a safety‑critical issue that must be addressed by a dealer.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), meta tags, Open Graph, Twitter Card, and complete JSON‑LD schema.",
-        "value": "* Brand: Mercedes‑Benz"
-      },
-      {
-        "label": "* Domain: mercedesengine.uk",
-        "value": "* Data tag: MB‑"
-      },
-      {
-        "label": "* Specialist count: 25+",
-        "value": "* Scrap threshold: 70%"
-      },
-      {
-        "label": "* CTA Mode: Consultative (Priority M)",
-        "value": "* Era Map rows: 2 (M276.823 X253/C253, M139l X254/C254)"
-      },
-      {
-        "label": "* Engine codes: M276.823, M139l",
-        "value": "* Service schema price range: £1,500 (lowest used) to £6,500 (highest rebuilt) — spans full Era Map history"
-      },
-      {
-        "label": "* Model Page needed: Mercedes GLC‑Class Generation Pages (X253, X254)",
-        "value": "* Generation Pages needed: Mercedes GLC‑Class Generation Pages (for cost inheritance)"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑AMG GLC43 engine replacement cost in the UK?",
+        "answer": "A reconditioned GLC43 engine typically costs £3,500–£6,500 supply only depending on generation (M276 V6 or M139l four‑cylinder). Reconditioned engines typically cost £3,500–£5,500, with total installed cost around £4,800–£7,000. Fitting adds £1,300–£1,800. Use our calculator for a figure specific to your vehicle."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑AMG GLC43 engine reliable?",
+        "answer": "It depends on which generation your GLC43 has. The M276 V6 (2016‑2023) is a smooth, characterful engine but has known weaknesses — fuel injector failure (reported at as little as 4,000 miles) and oil leaks from camshaft adjuster solenoids. The M139l four‑cylinder (2023‑present) is a technical masterpiece — the most powerful production four‑cylinder in the world — but it is a highly stressed engine that demands rigorous maintenance. Both engines are handcrafted and require regular oil changes (every 8,000‑10,000 miles)."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑AMG GLC43?",
+        "answer": "The most common issues are fuel injector failure on the M276 (causing rough idle, misfire, hard starting), oil leaks from the camshaft adjuster solenoids on the M276, a safety recall for the integral carrier on 2024 models, high‑stress engine issues on the M139l, and AMG SPEEDSHIFT MCT 9‑speed transmission problems — described as \"wonky\" with rough shifts, hesitating, and jerky gear changes."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a GLC43 engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a tidy £20,000–£50,000 GLC43, a £3,500–£6,500 recon is 10‑35% of the car's value — often worth it on well‑maintained examples. If the engine has suffered catastrophic failure (cylinder scoring, snapped timing chain), a full engine replacement may be necessary. Get a full diagnostic assessment before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my GLC43's engine code?",
+        "answer": "The X253/C253 (2016‑2023) GLC43 uses the M276.823 — a 3.0‑litre V6 biturbo. The X254/C254 (2023‑present) GLC43 uses the M139l — a 2.0‑litre four‑cylinder turbo with 48V mild‑hybrid. The engine code is stamped on the engine block and listed on your V5C."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair a GLC43 engine issue, or does it need replacement?",
+        "answer": "Most issues — M276 fuel injector failure, oil leaks, M139l high‑stress engine issues — are repairable. However, if the engine has suffered catastrophic failure, a full engine replacement is usually more cost‑effective than a rebuild. The 2024 integral carrier recall is a safety‑critical issue that must be addressed by a dealer."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes‑AMG GLC43 Owners Trust MercedesEngine.uk",

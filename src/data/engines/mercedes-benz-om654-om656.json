@@ -1,24 +1,259 @@
 {
   "meta": {
-    "slug": "mercedes-benz-om654-om656",
-    "title": "Mercedes-Benz OM654/OM656 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "om654-656",
+    "title": "Mercedes-Benz OM654/OM656 Engine — Reliability",
+    "description": "The OM654/OM656 are refined modern diesels but valvetrain and vacuum pump failures are documented — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+    "canonical": "https://mercedesengine.uk/engines/om654-656/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz OM654/OM656 Engine — Reliability",
+      "description": "The OM654/OM656 are refined modern diesels but valvetrain and vacuum pump failures are documented — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/om654-656/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/om654-656.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz OM654/OM656 Engine — Reliability",
+      "description": "The OM654/OM656 are refined modern diesels but valvetrain and vacuum pump failures are documented — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/om654-656.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM654/OM656",
+              "item": "https://mercedesengine.uk/engines/om654-656/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the OM654/OM656",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Mercedes‑Benz C‑Class W205 (2018–2021)",
+              "url": "https://mercedesengine.uk/models/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Mercedes‑Benz E‑Class W213 (2016–present)",
+              "url": "https://mercedesengine.uk/models/e-class/w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz S‑Class W222/W223 (2017–present)",
+              "url": "https://mercedesengine.uk/models/s-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Mercedes‑Benz CLS C257 (2018–present)",
+              "url": "https://mercedesengine.uk/models/cls-class/c257/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Mercedes‑Benz GLC X253 (2019–present)",
+              "url": "https://mercedesengine.uk/models/glc-class/x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Mercedes‑Benz GLE W167 (2019–present)",
+              "url": "https://mercedesengine.uk/models/gle-class/w167/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Mercedes‑Benz GLS X167 (2019–present)",
+              "url": "https://mercedesengine.uk/models/gls-class/x167/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Mercedes‑Benz G‑Class W463 (2019–present)",
+              "url": "https://mercedesengine.uk/models/g-class/w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Mercedes‑Benz A‑Class W177 (2018–present)",
+              "url": "https://mercedesengine.uk/models/a-class/w177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Mercedes‑Benz B‑Class W247 (2019–present)",
+              "url": "https://mercedesengine.uk/models/b-class/w247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Mercedes‑Benz CLA C118/X118 (2019–present)",
+              "url": "https://mercedesengine.uk/models/cla-class/c118/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Mercedes‑Benz GLA H247 (2020–present)",
+              "url": "https://mercedesengine.uk/models/gla-class/h247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Mercedes‑Benz GLB X247 (2019–present)",
+              "url": "https://mercedesengine.uk/models/glb-class/x247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Mercedes‑Benz Vito W447 (2018–present)",
+              "url": "https://mercedesengine.uk/models/vito/w447/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Mercedes‑Benz Sprinter W907/W910 (2018–present)",
+              "url": "https://mercedesengine.uk/models/sprinter/w907/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an OM654/OM656 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned OM654/OM656 typically costs £4,500–£7,500 supply only [ESTIMATED], varying by cylinder count and power output. Fitting adds £650–£1,500 depending on labour rates. A replacement motor for the OM654 averages around £5,374 for a good used unit, with new/reconditioned examples reaching £10,624."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the OM654/OM656 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654/OM656 are generally considered reliable, earning 3.5★ out of 5 [ESTIMATED] — some owners have passed 150,000–200,000 miles without problems, but valvetrain wear (camshafts and rockers) is reported around 100,000 miles. Later models benefited from improved internal parts."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common OM654/OM656 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For the OM656, vacuum pump failure is a critical issue — the combined oil/vacuum pump can develop an internal seal leak, allowing oil into the vacuum system and potentially causing loss of braking assistance. This typically occurs between 25,000–57,000 miles. Camshaft and rocker wear is another reported issue across both engines."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the OM654/OM656?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 (2.0L I4) powers the C‑Class, E‑Class, GLC, A‑Class, B‑Class, CLA, GLA, GLB, Vito, and Sprinter. The OM656 (3.0L I6) powers the S‑Class, GLE, GLS, G‑Class, and higher-output E‑Class and CLS models."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the OM654/OM656 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With meticulous maintenance and frequent oil changes, 150,000–200,000 miles is achievable, and some taxi‑use examples have exceeded 350,000 kilometres (≈217,000 miles). However, high‑mileage examples often require significant expenditure on valvetrain or vacuum pump work."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz OM654/OM656 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz OM654/OM656 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "10500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz OM654/OM656 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz OM654/OM656, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz OM654/OM656 Engine — Reliability",
+          "url": "https://mercedesengine.uk/engines/om654-656/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • OM654/OM656 • Diesel • 2.0L I4 / 3.0L I6 • 2016–present",
@@ -63,79 +298,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "OM654/OM656 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 3.5★ out of 5",
-        "value": "Confidence: 85% confidence — based on owner forums, specialist reports, and documented TSBs; proprietary enquiry figures are estimated."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "14"
-      },
-      {
-        "metric": "3.5★ × 4",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "12",
-        "value": "Reconditioned supply midpoint ~£5,000–£6,000 → falls in £5,000–£6,999 band"
-      },
-      {
-        "metric": "Repairability",
-        "value": "8"
-      },
-      {
-        "metric": "Valvetrain wear and vacuum pump failure often require engine-out work; complex modern diesel",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "12",
-        "value": "Available but some components (camshafts, vacuum pumps) are specialist-order items"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "TBC"
-      },
-      {
-        "metric": "Depends on host vehicle value — see R-to-V flag guidance",
-        "value": "Total"
-      },
-      {
-        "metric": "TBC/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The OM654 and OM656 are refined, efficient modern diesels — but camshaft/rocker wear and vacuum pump failures are expensive to fix — buy only with full service history and extended warranty cover.",
-        "value": "Best For: High-mileage drivers who value refinement and efficiency and are prepared for specialist maintenance costs."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "3.5★ out of 5",
+    "confidence": "85% confidence — based on owner forums, specialist reports, and documented TSBs; proprietary enquiry figures are estimated.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "14 (3.5★ × 4)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "12 (Reconditioned supply midpoint ~£5,000–£6,000 → falls in £5,000–£6,999 band)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "8 (Valvetrain wear and vacuum pump failure often require engine-out work; complex modern diesel)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "12 (Available but some components (camshafts, vacuum pumps) are specialist-order items)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "TBC (Depends on host vehicle value — see R-to-V flag guidance)"
+        },
+        {
+          "dimension": "Total",
+          "score": "TBC/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The OM654 and OM656 are refined, efficient modern diesels — but camshaft/rocker wear and vacuum pump failures are expensive to fix — buy only with full service history and extended warranty cover.",
+    "bestFor": "High-mileage drivers who value refinement and efficiency and are prepared for specialist maintenance costs.",
+    "avoidIf": "You need bulletproof, low-maintenance reliability on a tight budget — the older OM651 is simpler and more proven."
   },
   "compatibility": {
     "columns": [

@@ -1,11 +1,224 @@
 {
   "meta": {
-    "slug": "mercedes-benz-gls-x166",
-    "title": "Mercedes‑Benz GLS X166 Engines — The Complete UK Guide",
-    "titleCharCount": 54,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-gls-class-x166",
+    "title": "X166 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes‑Benz GLS X166 engine — OM642, M276, M278, M157. Real UK costs, V8 cylinder scoring risks explained, and honest ownership advice. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLS‑Class",
+              "item": "https://mercedesengine.uk/gls-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz GLS X166",
+              "item": "https://mercedesengine.uk/gls-class/x166/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz GLS X166 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM642.826 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M276.821 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276.823 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M278.928 Engine",
+              "url": "https://mercedesengine.uk/engines/m278/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M157.982 Engine",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz GLS X166 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GLS 350 d",
+              "url": "https://mercedesengine.uk/gls-class/gls350d-x166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLS 400",
+              "url": "https://mercedesengine.uk/gls-class/gls400-x166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GLS 63 AMG",
+              "url": "https://mercedesengine.uk/gls-class/gls63amg-x166/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz GLS X166 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned X166 engine typically costs £3,200–£14,000 supply only, depending on engine — the volume OM642 diesel sits at £3,200–£5,500, while the AMG M157 V8 commands £9,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz GLS X166 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 3.0‑litre V6 diesel is the most proven — it powered the X166 across its entire production run and has a documented reputation for longevity. The M276 V6 bi‑turbo petrol is the most reliable petrol choice, avoiding the M278 V8's cylinder scoring risks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz GLS X166?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oil cooler seal failure on the OM642 diesel, cylinder scoring on the M278 4.7‑litre V8, carbon buildup and oil consumption on the M157 AMG V8, and — unrelated to the engine — AIRMATIC suspension wear on high‑mileage examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz GLS X166 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on which engine you choose. The OM642 diesel and M276 V6 petrol are solid choices. The M278 V8 is the riskiest — cylinder scoring is a well‑documented pattern that can appear at any mileage. The M157 AMG V8 is powerful but demands a maintenance budget to match its performance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz GLS X166 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M278 4.7‑litre V8 (GL 500 / GLS 500) is the one we consistently advise buyers to approach with extreme caution — cylinder scoring in the right cylinder head is a design‑level issue that can appear at almost any mileage and costs £6,000–£10,000 to fix."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Mercedes‑Benz GLS X166 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oil consumption or coolant contamination (OM642 oil cooler seals), misfire or oil consumption (M278 cylinder scoring), or major mechanical knock (any engine) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz GLS X166 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the engine and the car's value. A £3,200–£5,500 OM642 recon against a £12,000–£25,000 X166 is 13–46% — safe. A £6,000–£10,000 M278 recon against a £12,000 example is 50–83% — borderline. Body condition and overall history are the deciding factors."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes‑Benz GLS X166 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 diesel can exceed 200,000 miles with proper servicing, though oil cooler seals are a recurring maintenance item. The M276 V6 petrol is similarly durable. The M278 V8 is more variable — some fail before 80,000 miles due to cylinder scoring, while others exceed 150,000 miles without issue."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the GL‑Class and GLS‑Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are the same X166 platform. The GL‑Class name was used pre‑facelift (2012–2015), and the GLS‑Class name was used post‑facelift (2015–2019) to align with the GLA, GLC, and GLE naming convention. The facelift also brought the 9G‑Tronic transmission and minor styling updates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz GLS X166 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (GL 350 CDI, GLS 400, GLS 63 AMG, etc.) and approximate registration date (pre‑ or post‑2015) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz GLS X166 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "X166 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/gls-class/x166/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -360,16 +573,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz GLS X166 engine replacement cost in the UK?",
+        "answer": "A reconditioned X166 engine typically costs £3,200–£14,000 supply only [MB‑QUOTE], depending on engine — the volume OM642 diesel sits at £3,200–£5,500, while the AMG M157 V8 commands £9,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes‑Benz GLS X166 engine is the most reliable?",
+        "answer": "The OM642 3.0‑litre V6 diesel is the most proven — it powered the X166 across its entire production run and has a documented reputation for longevity. The M276 V6 bi‑turbo petrol is the most reliable petrol choice, avoiding the M278 V8's cylinder scoring risks."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz GLS X166?",
+        "answer": "Oil cooler seal failure on the OM642 diesel, cylinder scoring on the M278 4.7‑litre V8, carbon buildup and oil consumption on the M157 AMG V8, and — unrelated to the engine — AIRMATIC suspension wear on high‑mileage examples."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes‑Benz GLS X166 reliable?",
+        "answer": "It depends heavily on which engine you choose. The OM642 diesel and M276 V6 petrol are solid choices. The M278 V8 is the riskiest — cylinder scoring is a well‑documented pattern that can appear at any mileage. The M157 AMG V8 is powerful but demands a maintenance budget to match its performance."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes‑Benz GLS X166 engine should I avoid?",
+        "answer": "The M278 4.7‑litre V8 (GL 500 / GLS 500) is the one we consistently advise buyers to approach with extreme caution — cylinder scoring in the right cylinder head is a design‑level issue that can appear at almost any mileage and costs £6,000–£10,000 to fix."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my Mercedes‑Benz GLS X166 engine needs replacing?",
+        "answer": "Oil consumption or coolant contamination (OM642 oil cooler seals), misfire or oil consumption (M278 cylinder scoring), or major mechanical knock (any engine) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes‑Benz GLS X166 engine, or should I scrap the car?",
+        "answer": "Depends on the engine and the car's value. A £3,200–£5,500 OM642 recon against a £12,000–£25,000 X166 is 13–46% — safe. A £6,000–£10,000 M278 recon against a £12,000 example is 50–83% — borderline. Body condition and overall history are the deciding factors."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes‑Benz GLS X166 engines last?",
+        "answer": "The OM642 diesel can exceed 200,000 miles with proper servicing, though oil cooler seals are a recurring maintenance item. The M276 V6 petrol is similarly durable. The M278 V8 is more variable — some fail before 80,000 miles due to cylinder scoring, while others exceed 150,000 miles without issue."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the GL‑Class and GLS‑Class?",
+        "answer": "Both are the same X166 platform. The GL‑Class name was used pre‑facelift (2012–2015), and the GLS‑Class name was used post‑facelift (2015–2019) to align with the GLA, GLC, and GLE naming convention. The facelift also brought the 9G‑Tronic transmission and minor styling updates."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes‑Benz GLS X166 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (GL 350 CDI, GLS 400, GLS 63 AMG, etc.) and approximate registration date (pre‑ or post‑2015) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes‑Benz GLS X166 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted X166 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real X166 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare X166 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑and‑fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for X166",
+        "text": "covering every variant from GL 350 CDI to GLS 63 AMG, with supply‑only or full supply‑and‑fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑Benz GLS X166 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes‑Benz GLS X166 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

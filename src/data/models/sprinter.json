@@ -1,24 +1,240 @@
 {
   "meta": {
     "slug": "sprinter",
-    "title": "Sprinter Engines — The Complete UK Guide",
-    "titleCharCount": 40,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "Sprinter Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 52,
+    "description": "Every Sprinter engine — OM602, OM611, OM612, OM646, OM651, OM642, OM654. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+    "descriptionCharCount": 181,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Sprinter Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Sprinter engine — OM602, OM611, OM612, OM646, OM651, OM642, OM654. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/sprinter/",
+      "image": "https://mercedesengine.uk/images/models/sprinter-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "Sprinter Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Sprinter engine — OM602, OM611, OM612, OM646, OM651, OM642, OM654. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sprinter",
+              "item": "https://mercedesengine.uk/sprinter/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Sprinter Generations",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "T1N (1995–2006)",
+              "url": "https://mercedesengine.uk/sprinter/t1n/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "NCV3 (2006–2018)",
+              "url": "https://mercedesengine.uk/sprinter/ncv3/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "VS30 (2018–present)",
+              "url": "https://mercedesengine.uk/sprinter/vs30/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Sprinter Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM602",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM611",
+              "url": "https://mercedesengine.uk/engines/om611/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM612",
+              "url": "https://mercedesengine.uk/engines/om612/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M111",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM646",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM651",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM642",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM654",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Sprinter engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Sprinter engine replacement costs £1,500–£7,000 supply-only depending on the generation and engine — an OM651 four-cylinder diesel for the NCV3/VS30 is £2,800–£4,800 [MB-QUOTE], an OM642 V6 diesel is £3,200–£5,500 [MB-QUOTE], and an OM602 for the T1N is £1,500–£2,800 [MB-QUOTE]. Labour adds 8–12 hours for four-cylinder units, 10–14 hours for V6 units, at £65–£95/hr (independent commercial van specialist) or £110–£160/hr (Mercedes-Benz dealer). Use our diagnostic calculator for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Sprinter engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 2.1-litre four-cylinder diesel — fitted to the NCV3 (2009–2018) and early VS30 Sprinters — is the most reliable Sprinter engine. It generated 1,250 UK enquiries in 2025, most of which relate to EGR valve failures, fuel filter housing coolant leaks and glow plug relay issues — all well-understood, manageable repairs [MB-VERIFIED]. The OM651 is the engine that made the Sprinter the UK's favourite van — its weaknesses are known, predictable and cheaply fixed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Sprinter engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Two caveats: Early OM611/OM612 CDI engines in the T1N — the injectors are prone to failure, and budget £300–£800 per injector to replace them. OM642 V6 diesel — it's not unreliable, but it's more expensive to maintain and repair than the OM651. The oil cooler seal leak is a labour-intensive repair (£800–£1,500) and the V6 consumes more fuel. Only choose it if you genuinely need the extra torque for heavy towing or payload."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Sprinter engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Concrete symptoms by engine: OM651 diesel (NCV3/VS30) — EGR valve failure (limp mode, loss of power), fuel filter housing coolant leak (coolant loss with no visible leak), glow plug relay failure (starting issues). OM642 V6 diesel — oil leak from the 'V' of the engine (oil cooler seals), coolant loss with no visible leak, or oil in the coolant. OM611/OM612 CDI (T1N) — rough running, smoke, loss of power, injector failure. OM602 (T1N) — virtually indestructible; if rough, check injection pump and fuel system first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Sprinter engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your van's current market value, get a scrap valuation before committing. But for commercial vehicles, also factor in down-time costs and lost revenue. T1N (OM602) — 30–70% — borderline to viable. T1N (OM611/OM612) — 50–80% — often not worth it. NCV3 (OM651) — 25–70% — usually worth it for well-maintained examples. NCV3 (OM642) — 25–80% — watch the numbers, but often viable for fleet operators. VS30 (OM654) — 8–30% — worth replacing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Sprinter generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy a 2013–2018 NCV3 with the OM651 2.1 CDI — it's the most reliable, best-supported Sprinter you can own. The 2013 facelift brought improved electronics and the OM651 in its most refined form. If you need a V6, choose the OM642 but budget for an oil cooler seal inspection (£800–£1,500) before purchase. For a VS30, choose the OM654 (2021+) and insist on full service history — the early OM651s in the VS30 are the same proven engine but without the latest tech."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Sprinter engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check the VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is encoded in positions 4–8 of the VIN. The vehicle registration document (V5C) lists the engine number in Section 4. Under-bonnet sticker on the slam panel or timing cover often shows the engine code. If unsure, use our diagnostic calculator to help identify it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Sprinter vs Vito — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They're different classes — the Sprinter is a large van (3.5–5.5 tonnes), the Vito is a medium van (2.8–3.5 tonnes). They share some engines — the OM651 is used in both — but the Sprinter is generally heavier-duty and more durable. The Vito's OM651 is the same engine but in a lighter chassis with less towing capacity. For reliability, choose the Sprinter if you need the payload and durability; choose the Vito if you need a smaller van for city work."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Sprinter Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "500",
+            "highPrice": "7000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Sprinter UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Sprinter engines, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Sprinter Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/sprinter/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes‑Benz • Sprinter • 1995–present • 5 Generations • OM602 • OM611 • OM612 • OM646 • OM651 • OM642 • OM654",
@@ -620,7 +836,48 @@
   },
   "faq": {
     "h2": "Sprinter Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Sprinter engine replacement cost in the UK?",
+        "answer": "A Sprinter engine replacement costs £1,500–£7,000 supply‑only depending on the generation and engine — an OM651 four‑cylinder diesel for the NCV3/VS30 is £2,800–£4,800 [MB-QUOTE], an OM642 V6 diesel is £3,200–£5,500 [MB-QUOTE], and an OM602 for the T1N is £1,500–£2,800 [MB-QUOTE]. Labour adds 8–12 hours for four‑cylinder units, 10–14 hours for V6 units, at £65–£95/hr (independent commercial van specialist) or £110–£160/hr (Mercedes‑Benz dealer). Use our diagnostic calculator for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which Sprinter engine is the most reliable?",
+        "answer": "The OM651 2.1‑litre four‑cylinder diesel — fitted to the NCV3 (2009–2018) and early VS30 Sprinters — is the most reliable Sprinter engine. It generated 1,250 UK enquiries in 2025, most of which relate to EGR valve failures, fuel filter housing coolant leaks and glow plug relay issues — all well‑understood, manageable repairs [MB-VERIFIED]. The OM651 is the engine that made the Sprinter the UK's favourite van — its weaknesses are known, predictable and cheaply fixed. Read more about the OM651 →"
+      },
+      {
+        "id": 3,
+        "question": "Which Sprinter engine should I avoid?",
+        "answer": "Two caveats: * Early OM611/OM612 CDI engines in the T1N — the injectors are prone to failure, and budget £300–£800 per injector to replace them. It's not a reason to avoid the entire van if you're a diy‑mechanic or buying cheap, but factor the cost into your purchase. * OM642 V6 diesel — it's not unreliable, but it's more expensive to maintain and repair than the OM651. The oil cooler seal leak is a labour‑intensive repair (£800–£1,500) and the V6 consumes more fuel. Only choose it if you genuinely need the extra torque for heavy towing or payload."
+      },
+      {
+        "id": 4,
+        "question": "How do I know if my Sprinter engine needs replacing?",
+        "answer": "Concrete symptoms by engine: * OM651 diesel (NCV3 / VS30) — EGR valve failure (limp mode, loss of power), fuel filter housing coolant leak (coolant loss with no visible leak), glow plug relay failure (starting issues, electrical faults). These are all repairable — replacement is rarely needed for these specific failures. * OM642 V6 diesel (NCV3 / VS30) — oil leak from the \"V\" of the engine (oil cooler seals), coolant loss with no visible leak, or oil in the coolant. The oil cooler seal is the primary risk — catch it early and it's a £800–£1,500 repair, not a full engine. * OM611/OM612 CDI (T1N) — rough running, smoke, loss of power, injector failure. Injectors are the primary risk — budget accordingly. * OM602 (T1N) — virtually indestructible; if it's running rough, check injection pump and fuel system before assuming engine failure."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a Sprinter engine?",
+        "answer": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your van's current market value, get a scrap valuation before committing. But for commercial vehicles, also factor in down‑time costs, lost revenue, and the cost of replacing the van. * T1N (OM602) — £1,500–£2,800 recon against a £1,500–£5,000 van = 30–70% — borderline to viable depending on condition. * T1N (OM611/OM612) — £1,800–£3,500 recon against a £1,500–£5,000 van = 50–80% — often not worth it. * NCV3 (OM651) — £2,800–£4,800 recon against a £4,000–£18,000 van = 25–70% — usually worth it for well‑maintained examples. * NCV3 (OM642) — £3,200–£5,500 recon against a £4,000–£18,000 van = 25–80% — watch the numbers, but often viable for fleet operators. * VS30 (OM654) — £3,000–£5,000 recon against a £15,000–£60,000+ van = 8–30% — worth replacing. Use our Ownership Decision Tool for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which Sprinter generation should I buy?",
+        "answer": "Buy a 2013–2018 NCV3 with the OM651 2.1 CDI — it's the most reliable, best‑supported Sprinter you can own. The 2013 facelift brought improved electronics and the OM651 in its most refined form. If you need a V6, choose the OM642 but budget for an oil cooler seal inspection (£800–£1,500) before purchase. For a VS30, choose the OM654 (2021+) and insist on full service history — the early OM651s in the VS30 are the same proven engine but without the latest tech."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my Sprinter engine code?",
+        "answer": "Check the following locations: * VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is encoded in positions 4–8 of the VIN. * Vehicle registration document (V5C) — the engine number is listed in Section 4. * Under‑bonnet sticker — on the slam panel or timing cover, the engine code is often printed on a factory sticker. * Mercedes‑Benz parts catalogue — enter your VIN at a dealer or online parts site to look up the exact engine code. If you're unsure, use our diagnostic calculator — we'll help you identify it as step one."
+      },
+      {
+        "id": 8,
+        "question": "Sprinter vs Vito — which is more reliable?",
+        "answer": "They're different classes — the Sprinter is a large van (3.5–5.5 tonnes), the Vito is a medium van (2.8–3.5 tonnes). They share some engines — the OM651 is used in both — but the Sprinter is generally heavier‑duty and more durable. The Vito's OM651 is the same engine but in a lighter chassis with less towing capacity. The Sprinter's OM602 is legendary; the Vito never had that engine. For reliability, choose the Sprinter if you need the payload and durability; choose the Vito if you need a smaller van for city work. Read the full comparison: Sprinter vs Vito →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

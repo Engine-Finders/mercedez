@@ -1,24 +1,269 @@
 {
   "meta": {
     "slug": "sl",
-    "title": "SL Engines — The Complete UK Guide",
-    "titleCharCount": 34,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "SL Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 51,
+    "description": "Every SL engine — M276, M177, M156, M157 and more. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 157,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "SL Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every SL engine — M276, M177, M156, M157 and more. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/sl/",
+      "image": "https://mercedesengine.uk/images/models/mercedes-sl-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "SL Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every SL engine — M276, M177, M156, M157 and more. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SL",
+              "item": "https://mercedesengine.uk/sl/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "SL Generations",
+          "description": "Every generation of the Mercedes-Benz SL",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W198 (1954–1957)",
+              "url": "https://mercedesengine.uk/sl/w198/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W113 Pagoda (1963–1971)",
+              "url": "https://mercedesengine.uk/sl/w113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "R107 (1971–1989)",
+              "url": "https://mercedesengine.uk/sl/r107/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "R129 (1989–2001)",
+              "url": "https://mercedesengine.uk/sl/r129/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "R230 (2001–2011)",
+              "url": "https://mercedesengine.uk/sl/r230/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "R231 (2012–2020)",
+              "url": "https://mercedesengine.uk/sl/r231/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "R232 (2021–present)",
+              "url": "https://mercedesengine.uk/sl/r232/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "SL Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz SL",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M276 3.0L V6 Biturbo",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M177 4.0L V8 Biturbo",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M157 5.5L V8 Biturbo",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M156 6.2L V8 NA",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M113 5.0L V8",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M119 5.0L V8",
+              "url": "https://mercedesengine.uk/engines/m119/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M112 3.7L V6",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M104 3.2L Straight-Six",
+              "url": "https://mercedesengine.uk/engines/m104/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an SL engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A used SL engine costs £500–£9,000 depending on generation and engine code; reconditioned units range from £1,200–£14,000 [MB-QUOTE] [PLACEHOLDER — confirm vs cost sheet]. Labour adds 10–24 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). For a precise quote on your specific SL, use our diagnostic calculator."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SL engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M119 5.0L V8 (R129, 1989–2001) is widely considered one of the most robust engines Mercedes ever built — bulletproof when maintained. Among modern SLs, the M276 3.0L V6 biturbo (R231, 2012–2020) is the most reliable choice — timing chain stretch on earlier examples is the only real caveat. The M177 (R232) is also proving robust."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SL engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M156 6.2L V8 (R230 AMG, 2006–2011) carries a real, well-documented caveat: camshaft adjuster wear and head bolt stretch on pre-2011 examples. It's a brilliant engine when sorted, but a pre-2011 M156 without documented camshaft work is a £5,000–£8,000 repair waiting to happen. The M137 V12 (R230) is also costly and parts are increasingly hard to find — avoid unless you're a specialist."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the SL timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On the M276 (R231), timing chain stretch can occur on earlier examples (2012–2015) — listen for rattling on start-up. Chain replacement: £1,500–£2,500 [MB-QUOTE]. On the M156 (R230), the camshaft adjusters and timing chain tensioners are a known weak point — that's a more serious and expensive repair. On the M119, timing chains are not a common failure point."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an SL engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. A £5,000 M276 recon against a £25,000 R231 is 20% — worth doing. A £6,000 M156 recon against a £7,000 R230 is 86% — borderline, likely walk away. Use our Ownership Decision Tool for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SL generation/year should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The definitive answer: an R231 (2012–2020) with the M276 V6 biturbo — ideally a 2016+ facelift car with documented timing chain history. The R231 has absorbed the steepest depreciation, the M276 is well-understood, and you get modern electronics without the R230's ABC suspension cost trap. If you want a classic that will appreciate, buy an R129 with the M119 V8."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my SL engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is stamped on the engine block — typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common SL codes: M104, M119, M112, M113, M156, M157, M276, M177. If you're unsure, use our diagnostic calculator to identify it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "SL vs AMG GT — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The SL R231 with M276 is the more reliable day-to-day car — the M276 is well-understood and less highly strung than the AMG GT's M178. The AMG GT is a pure sports car with a more aggressive engine and suspension setup; running costs are significantly higher. If you want a grand tourer you can use daily, buy the SL; if you want a track-focused weapon, buy the AMG GT."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "SL Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "500",
+            "highPrice": "14000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "SL UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz SL engines, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "SL Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/sl/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • SL • 1954–present • 7 Generations • M276 • M177 • M156 • M157",

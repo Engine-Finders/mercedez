@@ -1,11 +1,343 @@
 {
   "meta": {
-    "slug": "mercedes-e-class-w211",
-    "title": "Mercedes E-Class W211 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-mercedes-e-class-w211",
+    "title": "W211 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes W211 engine — M271, M112, M272, M113, M156, OM646, OM647, OM648, OM642. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 154,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-Class",
+              "item": "https://mercedesengine.uk/mercedes-e-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes E-Class W211",
+              "item": "https://mercedesengine.uk/mercedes-e-class/w211/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W211 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M271.940 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M271.956 Engine",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M112.912 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M112.921 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M272.940 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M272.960 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M113.967 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M113.990 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M156.983 Engine",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "OM646.951 Engine",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "OM646.961 Engine",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "OM647.961 Engine",
+              "url": "https://mercedesengine.uk/engines/om647/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "OM648.961 Engine",
+              "url": "https://mercedesengine.uk/engines/om648/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "OM642.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W211 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E 200 Kompressor",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-200-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E 240",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-240/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E 280",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-280/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "E 320",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-320/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "E 350",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-350/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "E 500",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "E 55 AMG",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-55-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "E 63 AMG",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "E 200 CDI",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-200-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "E 220 CDI",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-220-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "E 270 CDI",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-270-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "E 320 CDI",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-320-cdi/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes E-Class W211 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W211 engine typically costs £1,800–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM646 diesel sits at £2,200–£3,800. Fitting adds 10–20 hours labour at specialist rates due to the executive‑class engine bay packaging. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W211 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM648.961 (E 320 CDI, pre‑facelift) — a 3.2‑litre straight‑six diesel with 204 bhp, 500 Nm of torque, and a proven 400,000‑mile reputation. The OM648 is widely considered one of the best diesel engines Mercedes ever built. For petrol buyers, the M112.921 (E 320) is the most reliable — a 3.2‑litre V6 with no balance‑shaft issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes E-Class W211?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "M272 balance shaft wear (facelift V6), OM642 oil cooler seal leaks (facelift V6 diesel), M271 timing chain and camshaft adjuster wear (supercharged four‑cylinder), SBC brake system failure (pre‑facelift, 2002–2006), and — chassis‑specific — rust and subframe corrosion on all cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes E-Class W211 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on which engine and whether you buy pre‑facelift (2002–2006) or facelift (2006–2009). The OM648 straight‑six diesel is bulletproof; the M112 V6 is robust and well‑proven; the OM646 four‑cylinder diesel is reliable and common. The M272 V6 has balance‑shaft issues on early cars (2005–2007); the OM642 V6 diesel has oil cooler seal leaks. The biggest non‑engine issue is the SBC brake system on pre‑facelift cars — avoid pre‑facelift cars unless the SBC has been replaced."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W211 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a pre‑facelift car with original SBC brakes should be avoided unless the system has been replaced, as failure is inevitable and costly. For engines, an early M272 (E 280/350, 2005–2007) without documented balance‑shaft replacement is the one we'd approach cautiously, given the £2,000–£3,000 repair cost. A neglected M271 without timing chain history is the second."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W211 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rattling on start‑up (M271 timing chain or M272 balance shaft), oil leaks around the V of the engine (OM642), rough idle or starting issues (OM646 injector wear), SBC brake warning lights (pre‑facelift), or engine management light. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes E-Class W211 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well‑kept £5,000 W211, a £2,200–£3,800 OM646 recon is 44–76% of the car's value — safe. Against a tired £2,500 example, the same recon is 88–152% — walk away. Our 70% Mercedes threshold is the line. For the OM648 or AMG models, the car's value is often high enough to justify the recon cost."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W211 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM648 straight‑six diesel can exceed 400,000 miles with proper servicing — examples regularly reach this milestone on the original engine and gearbox. The OM646 four‑cylinder and OM642 V6 diesels are similarly durable — 250,000+ miles is achievable with injector and oil cooler maintenance. The M112 V6 and M113 V8 can exceed 200,000 miles with proper servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W211 and the S211 E-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the third‑generation E‑Class platform and all engines. The W211 is the 4‑door saloon (this page), the S211 is the 5‑door estate. The estate has a higher‑ratio rear suspension, a heavier kerb weight, and slightly different labour access for some repairs — fuel economy and running costs on the S211 are marginally higher than the W211 for comparable engine work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W211 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M112/M272 is at the front, OM648/OM642 on the side). Tell us your variant, registration year, whether it's pre‑facelift (2002–2006) or facelift (2006–2009), and whether it's saloon or estate and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes E-Class W211 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "900",
+            "highPrice": "20000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes E-Class W211 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes E-Class W211 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "W211 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-e-class/w211/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -623,23 +955,121 @@
     "scopeNote": "All variants listed are W211 saloon and S211 estate. The saloon and estate share all engines, with only minor labour differences for some repairs. The estate's additional weight and rear suspension setup can affect fuel economy and running costs."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM648.961 (E 320 CDI pre‑facelift)",
+      "2. OM646.961 (E 220 CDI)",
+      "3. OM642.920 (E 320 CDI facelift)"
+    ],
+    "mostRequestedVariants": [
+      "1. E 320 CDI",
+      "2. E 220 CDI",
+      "3. E 270 CDI"
+    ],
+    "averageReplacementCost": "£2,800–£5,000 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. M272 balance shaft wear",
+      "2. OM642 oil cooler seal leak",
+      "3. SBC brake system failure"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes E 320 CDI W211 (OM648)",
+        "location": "Birmingham",
+        "issue": "Injector seal leak",
+        "enquiries": "5 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes E 220 CDI W211 (OM646)",
+        "location": "Manchester",
+        "issue": "EGR valve / rough idle",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes E 350 W211 (M272)",
+        "location": "London",
+        "issue": "Rattling on start‑up / balance shaft",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes E-Class W211 engine replacement cost in the UK?",
+        "answer": "A reconditioned W211 engine typically costs £1,800–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM646 diesel sits at £2,200–£3,800. Fitting adds 10–20 hours labour at specialist rates due to the executive‑class engine bay packaging. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes W211 engine is the most reliable?",
+        "answer": "The OM648.961 (E 320 CDI, pre‑facelift) — a 3.2‑litre straight‑six diesel with 204 bhp, 500 Nm of torque, and a proven 400,000‑mile reputation. The OM648 is widely considered one of the best diesel engines Mercedes ever built. For petrol buyers, the M112.921 (E 320) is the most reliable — a 3.2‑litre V6 with no balance‑shaft issues."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes E-Class W211?",
+        "answer": "M272 balance shaft wear (facelift V6), OM642 oil cooler seal leaks (facelift V6 diesel), M271 timing chain and camshaft adjuster wear (supercharged four‑cylinder), SBC brake system failure (pre‑facelift, 2002–2006), and — chassis‑specific — rust and subframe corrosion on all cars."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes E-Class W211 reliable?",
+        "answer": "It depends heavily on which engine and whether you buy pre‑facelift (2002–2006) or facelift (2006–2009). The OM648 straight‑six diesel is bulletproof; the M112 V6 is robust and well‑proven; the OM646 four‑cylinder diesel is reliable and common. The M272 V6 has balance‑shaft issues on early cars (2005–2007); the OM642 V6 diesel has oil cooler seal leaks. The biggest non‑engine issue is the SBC brake system on pre‑facelift cars — avoid pre‑facelift cars unless the SBC has been replaced."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes W211 engine should I avoid?",
+        "answer": "No engine outright — but a pre‑facelift car with original SBC brakes should be avoided unless the system has been replaced, as failure is inevitable and costly. For engines, an early M272 (E 280/350, 2005–2007) without documented balance‑shaft replacement is the one we'd approach cautiously, given the £2,000–£3,000 repair cost. A neglected M271 without timing chain history is the second."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W211 engine needs replacing?",
+        "answer": "Rattling on start‑up (M271 timing chain or M272 balance shaft), oil leaks around the V of the engine (OM642), rough idle or starting issues (OM646 injector wear), SBC brake warning lights (pre‑facelift), or engine management light. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes E-Class W211 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well‑kept £5,000 W211, a £2,200–£3,800 OM646 recon is 44–76% of the car's value — safe. Against a tired £2,500 example, the same recon is 88–152% — walk away. Our 70% Mercedes threshold is the line. For the OM648 or AMG models, the car's value is often high enough to justify the recon cost."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W211 engines last?",
+        "answer": "The OM648 straight‑six diesel can exceed 400,000 miles with proper servicing — examples regularly reach this milestone on the original engine and gearbox. The OM646 four‑cylinder and OM642 V6 diesels are similarly durable — 250,000+ miles is achievable with injector and oil cooler maintenance. The M112 V6 and M113 V8 can exceed 200,000 miles with proper servicing."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W211 and the S211 E-Class?",
+        "answer": "Both share the third‑generation E‑Class platform and all engines. The W211 is the 4‑door saloon (this page), the S211 is the 5‑door estate. The estate has a higher‑ratio rear suspension, a heavier kerb weight, and slightly different labour access for some repairs — fuel economy and running costs on the S211 are marginally higher than the W211 for comparable engine work."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W211 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M112/M272 is at the front, OM648/OM642 on the side). Tell us your variant, registration year, whether it's pre‑facelift (2002–2006) or facelift (2006–2009), and whether it's saloon or estate and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes E-Class W211 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W211 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real W211 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W211 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for W211",
+        "text": "covering every variant from E 200 Kompressor to E 63 AMG, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes W211 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes E-Class W211 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

@@ -1,24 +1,282 @@
 {
   "meta": {
     "slug": "gle",
-    "title": "GLE Engines — The Complete UK Guide",
-    "titleCharCount": 35,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "GLE Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 47,
+    "description": "Every GLE engine — OM642, OM651, M276, OM654, OM656, M177. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+    "descriptionCharCount": 167,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "GLE Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLE engine — OM642, OM651, M276, OM654, OM656, M177. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/gle/",
+      "image": "https://mercedesengine.uk/images/models/gle-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "GLE Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every GLE engine — OM642, OM651, M276, OM654, OM656, M177. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLE",
+              "item": "https://mercedesengine.uk/gle/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLE Generations",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W163 M-Class (1997–2005)",
+              "url": "https://mercedesengine.uk/gle/w163/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W164 M-Class (2005–2011)",
+              "url": "https://mercedesengine.uk/gle/w164/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W166 GLE (2012–2019)",
+              "url": "https://mercedesengine.uk/gle/w166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "V167 GLE (2020–present)",
+              "url": "https://mercedesengine.uk/gle/v167/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "GLE Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M112",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M113",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM612/OM647",
+              "url": "https://mercedesengine.uk/engines/om612/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M272",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M273",
+              "url": "https://mercedesengine.uk/engines/m273/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM642",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM651",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M276",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M157",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M156",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "OM654",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "OM656",
+              "url": "https://mercedesengine.uk/engines/om656/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "M256",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "M177",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a GLE engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A GLE engine replacement costs £1,500–£14,000 supply-only depending on the generation and engine — an OM642 V6 diesel for the W164/W166 is £3,200–£5,500 [MB-QUOTE], an OM651 four-cylinder diesel is £2,800–£4,800 [MB-QUOTE], an M276 V6 petrol is £3,800–£6,500 [MB-QUOTE], and an M177 AMG V8 is £8,000–£14,000 [MB-QUOTE]. Labour adds 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Use our diagnostic calculator for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLE engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 3.0-litre V6 diesel — fitted to the W164 M-Class (2005–2011) and W166 GLE (2012–2019) — is the most reliable GLE engine. It generated 880 UK enquiries in 2025, most of which relate to the well-understood oil cooler seal leak [MB-VERIFIED]. It's a labour-intensive but rarely catastrophic repair — unlike the OM651's 'Black Death' injector failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLE engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Three caveats: Pre-2008 M272/M273 V6/V8 petrols in the W164 — the balance-shaft sprocket wears prematurely, causing timing issues and potential catastrophic failure. Early M276 V6 petrols in the W166 (2012–2015) — timing chain stretch is a known issue. OM651 diesel in the W166 — it carries the 'Black Death' injector-seal caveat; buy only with documented injector-seal history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my GLE engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Concrete symptoms by engine: OM642 diesel (W164/W166) — oil leak from the 'V' of the engine (oil cooler seals), coolant loss with no visible leak, or oil in the coolant. M276 petrol (W166) — cold-start rattle, timing chain noise, loss of power. OM651 diesel (W166) — chemical smell around the injectors, black carbon 'tar' visible on the engine cover. OM654 diesel (V167) — rough idle, a 'plop' noise from the intake, loss of power."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a GLE engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your car's current market value, get a scrap valuation before committing. W164 M-Class (OM642) — 50–90% — borderline. W166 GLE (OM642) — 25–50% — worth replacing. W166 GLE (OM651) — 40–80% — borderline. V167 GLE — 10–40% — worth replacing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which GLE generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy a 2015–2019 W166 GLE 350d with the OM642 V6 diesel — it's the most reliable, best-value GLE you can own. The W166 facelift (2015) updated the electronics and resolved the early M276 timing chain issues. If your budget stretches to a V167, choose the OM654 four-cylinder diesel — it's the simplest and most reliable V167 powertrain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my GLE engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check the VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is encoded in positions 4–8 of the VIN. The vehicle registration document (V5C) lists the engine number in Section 4. Under-bonnet sticker on the slam panel or timing cover often shows the engine code. If unsure, use our diagnostic calculator to help identify it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "GLE vs GLC — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They share some engines — the OM651, OM654 and M276 are used across both models. Reliability is comparable for the same engine and generation. The key difference is size and value — the GLC is smaller, cheaper to run; the GLE is larger, more expensive to maintain, and offers more towing capacity. The OM642 V6 diesel is exclusive to the GLE — it's the defining GLE engine."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "GLE Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "500",
+            "highPrice": "18000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "GLE UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for GLE engines, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "GLE Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/gle/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes‑Benz • GLE • 1997–present • 4 Generations • M276 • OM642 • OM654 • OM656 • M177",
@@ -705,7 +963,48 @@
   },
   "faq": {
     "h2": "GLE Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a GLE engine replacement cost in the UK?",
+        "answer": "A GLE engine replacement costs £1,500–£14,000 supply‑only depending on the generation and engine — an OM642 V6 diesel for the W164/W166 is £3,200–£5,500 [MB-QUOTE], an OM651 four‑cylinder diesel is £2,800–£4,800 [MB-QUOTE], an M276 V6 petrol is £3,800–£6,500 [MB-QUOTE], and an M177 AMG V8 is £8,000–£14,000 [MB-QUOTE]. Labour adds 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Use our diagnostic calculator for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which GLE engine is the most reliable?",
+        "answer": "The OM642 3.0‑litre V6 diesel — fitted to the W164 M‑Class (2005–2011) and W166 GLE (2012–2019) — is the most reliable GLE engine. It generated 880 UK enquiries in 2025, most of which relate to the well‑understood oil cooler seal leak [MB-VERIFIED]. It's a labour‑intensive but rarely catastrophic repair — unlike the OM651's “Black Death” injector failure. Read more about the OM642 →"
+      },
+      {
+        "id": 3,
+        "question": "Which GLE engine should I avoid?",
+        "answer": "Three caveats: * Pre‑2008 M272/M273 V6/V8 petrols in the W164 — the balance‑shaft sprocket wears prematurely, causing timing issues and potential catastrophic failure. Avoid without documented replacement. * Early M276 V6 petrols in the W166 (2012–2015) — timing chain stretch is a known issue. Post‑2016 facelift examples are safer. * OM651 diesel in the W166 — it's not a bad engine, but it carries the “Black Death” injector‑seal caveat. Buy only with documented injector‑seal history."
+      },
+      {
+        "id": 4,
+        "question": "How do I know if my GLE engine needs replacing?",
+        "answer": "Concrete symptoms by engine: * OM642 diesel (W164/W166) — oil leak from the “V” of the engine (oil cooler seals), coolant loss with no visible leak, or oil in the coolant. The oil cooler seal is the primary risk — catch it early and it's a £800–£1,500 repair, not a full engine. * M276 petrol (W166) — cold‑start rattle, timing chain noise, loss of power, check engine light. Timing chain stretch is the primary risk — book a specialist inspection immediately. * OM651 diesel (W166) — chemical smell around the injectors, black carbon “tar” visible on the engine cover, cold‑start rattle. “Black Death” injector seal failure — stop driving if you see tar. * OM654 diesel (V167) — rough idle, a “plop” noise from the intake, loss of power. Rocker arm wear is emerging as a known issue."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a GLE engine?",
+        "answer": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your car's current market value, get a scrap valuation before committing. * W163 M‑Class — £1,500–£4,000 recon against a £1,500–£5,000 car = 40–80% — borderline to non‑viable. * W164 M‑Class (OM642) — £3,200–£5,500 recon against a £3,000–£10,000 car = 50–90% — borderline on lower‑value examples, safe on better cars. * W166 GLE (OM642) — £3,200–£5,500 recon against a £6,000–£22,000 car = 25–50% — worth replacing. * W166 GLE (OM651) — £2,800–£4,800 recon against a £4,000–£12,000 car = 40–80% — borderline. * V167 GLE — £3,000–£14,000 recon against an £18,000–£80,000+ car = 10–40% — worth replacing (AMG M177 is specialist territory but within the car's value). Use our Ownership Decision Tool for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which GLE generation should I buy?",
+        "answer": "Buy a 2015–2019 W166 GLE 350d with the OM642 V6 diesel — it's the most reliable, best‑value GLE you can own. The W166 facelift (2015) updated the electronics, improved the interior, and resolved the early M276 timing chain issues. The OM642 diesel is proven, robust, and cheaply parted. If your budget stretches to a V167, choose the OM654 four‑cylinder diesel — it's the simplest and most reliable V167 powertrain."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my GLE engine code?",
+        "answer": "Check the following locations: * VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is encoded in positions 4–8 of the VIN. * Vehicle registration document (V5C) — the engine number is listed in Section 4. * Under‑bonnet sticker — on the slam panel or timing cover, the engine code is often printed on a factory sticker. * Mercedes‑Benz parts catalogue — enter your VIN at a dealer or online parts site to look up the exact engine code. If you're unsure, use our diagnostic calculator — we'll help you identify it as step one."
+      },
+      {
+        "id": 8,
+        "question": "GLE vs GLC — which is more reliable?",
+        "answer": "They share some engines — the OM651, OM654 and M276 are used across both models. Reliability is therefore comparable for the same engine and generation. The key difference is size and value — the GLC (X253) is smaller, cheaper to run, and typically carries a higher‑value‑to‑replacement‑cost ratio; the GLE (W166/V167) is larger, more expensive to maintain, and offers more towing and passenger capacity. The OM642 V6 diesel is exclusive to the GLE (and larger Mercedes models) — it's the defining GLE engine. Read the full comparison: GLE vs GLC →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

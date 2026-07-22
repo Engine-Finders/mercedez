@@ -1,26 +1,182 @@
 {
   "meta": {
-    "slug": "mercedes-amg-gla45",
-    "title": "Mercedes-AMG GLA45 Engine Replacement — Compare Prices & Get Quotes",
-    "titleCharCount": 67,
-    "description": "",
-    "descriptionCharCount": 0,
-    "canonical": "",
+    "slug": "gla-class-gla45-amg",
+    "title": "GLA45 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "The 360–381bhp M133 turbo four — real UK costs, common turbo and timing issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes-AMG specialists today.",
+    "descriptionCharCount": 160,
+    "canonical": "https://mercedesengine.uk/gla-class/gla45-amg/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "GLA45 Engine Replacement Cost UK — Compare Quotes",
+      "description": "The 360–381bhp M133 turbo four — real UK costs, common turbo and timing issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes-AMG specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/gla-class/gla45-amg/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/gla45-amg.jpg",
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "GLA45 Engine Replacement Cost UK — Compare Quotes",
+      "description": "The 360–381bhp M133 turbo four — real UK costs, common turbo and timing issues, and honest reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/gla45-amg.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLA-Class",
+              "item": "https://mercedesengine.uk/gla-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GLA45 AMG",
+              "item": "https://mercedesengine.uk/gla-class/gla45-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-AMG GLA45 Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "X156 GLA45 (M133.980, 2014–2019)",
+              "url": "https://mercedesengine.uk/gla-class/gla45-amg/#m133"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-AMG GLA45 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M133.980 2.0L Turbo Petrol",
+              "url": "https://mercedesengine.uk/engines/m133/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-AMG GLA45 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned Mercedes-AMG GLA45 engine (M133.980) typically costs £5,500–£8,500 supply only. Fitting adds £1,200–£1,800. A turbocharger replacement costs £1,500–£3,500. Check the Era Map above for your engine code."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-AMG GLA45 engine reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M133 is generally durable but can develop issues as mileage rises. Turbocharger stress and timing chain stretch are the defining concerns. The 2015+ facelift upgraded output from 360PS to 381PS. Proper maintenance is critical — regular oil changes (more frequent than the standard schedule) and proactive attention to the turbo and timing chain are essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-AMG GLA45?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Turbocharger stress/failure (power loss, whistling, £1,500–£3,500), timing chain stretch (cold-start rattle, £1,500–£3,500), carbon build-up on intake valves (misfires, flat spots, £400–£800), oil leaks (valve cover/oil filter housing, £300–£800), and 7G-DCT overheating (transmission warnings, £800–£2,500)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-AMG GLA45 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GLA45 values range from £12,000–£35,000 depending on year, condition and mileage. A £5,500–£8,500 reconditioned engine represents 15–70% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained, low-mileage example, replacement is often justified. For a higher-mileage example with other issues, assess scrap value first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-AMG GLA45 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The GLA45 uses the M133.980 engine code — Mercedes-AMG's 2.0-litre turbocharged inline-four. Pre-2015 models produce 360PS; 2015+ models produce 381PS. The code is stamped on the engine block; your VIN and vehicle documentation will also confirm the specification."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the timing chain stretch issue, or does it need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — if caught early. Timing chain and guide replacement costs £1,500–£3,500 and is significantly cheaper than a full engine replacement (£5,500–£8,500). There are cases of premature chain stretching, especially with infrequent oil changes or aggressive operation. At the first sign of cold-start rattle, book an inspection immediately — ignored chain wear can lead to catastrophic engine failure."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-AMG GLA45 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "4000",
+            "highPrice": "14000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-AMG GLA45 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for the Mercedes-AMG GLA45 engine, sourced from MercedesEngine.uk's specialist marketplace activity for the M133.980.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "GLA45 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/gla-class/gla45-amg/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-AMG GLA45 • 2014–2019 • 2.0L Turbo Petrol",

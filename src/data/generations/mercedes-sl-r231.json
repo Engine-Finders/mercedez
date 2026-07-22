@@ -1,11 +1,253 @@
 {
   "meta": {
-    "slug": "mercedes-sl-r231",
-    "title": "Mercedes SL R231 Engines — The Complete UK Guide",
+    "slug": "bmw-sl-class-r231",
+    "title": "R231 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 48,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "description": "Every Mercedes R231 engine — M276, M278, M157, M279. Real UK costs, reliability data, and the M276 V6 that sets the standard. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SL-Class",
+              "item": "https://mercedesengine.uk/sl-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes SL R231",
+              "item": "https://mercedesengine.uk/sl-class/r231/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes R231 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M276.954 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M276.825 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276.825 Facelift Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M278.927 Engine",
+              "url": "https://mercedesengine.uk/engines/m278/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M278.927 Facelift Engine",
+              "url": "https://mercedesengine.uk/engines/m278/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M157.983 Engine",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M279.981 Engine",
+              "url": "https://mercedesengine.uk/engines/m279/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes R231 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "SL 400",
+              "url": "https://mercedesengine.uk/sl-class/sl-400/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SL 63 AMG",
+              "url": "https://mercedesengine.uk/sl-class/sl-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "SL 500",
+              "url": "https://mercedesengine.uk/sl-class/sl-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "SL 350",
+              "url": "https://mercedesengine.uk/sl-class/sl-350/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes R231 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned R231 engine typically costs £2,500–£14,000 supply only, depending on the engine — the M276 V6 sits at £2,500–£6,000, while the M278 V8 is £3,500–£7,500, the M157 AMG V8 is £5,000–£9,000, and the V12 M279 is £8,000–£14,000. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which R231 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M276 V6 (SL 350/SL 400) is the most reliable choice — it's Mercedes-developed, refined, and has a strong track record when serviced properly. The M157 AMG V8 (SL 63 AMG) is also reliable, though owners should watch for wiring harness oil intrusion. The M278 V8 (SL 500) is the least reliable of the mainstream engines."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the R231?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M278 V8 (SL 500) is known for cylinder scoring and oil/coolant leaks; early M276 V6 engines (pre-2014) can suffer from timing chain tensioner issues; and the M157 AMG V8 can develop oil intrusion into the wiring harness. Engine and transmission mounts are also known to wear prematurely. Regular servicing is key."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes R231 reliable overall?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the R231 is generally regarded as one of the most reliable SL generations, especially with the M276 V6 and M157 AMG V8 engines. The M278 V8 requires more careful maintenance. The V12 M279 is reliable but exceptionally expensive to service. All engines benefit from regular, attentive servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which R231 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M278 V8 (SL 500) — its cylinder scoring issues can lead to catastrophic engine failure, and the fix is very expensive. Some owners have found that excessively long service intervals are partly to blame. If you're considering an SL 500, have a specialist inspect the engine thoroughly and verify the service history. The M279 V12 (SL 65 AMG) is not an engine to avoid, but buyers should be aware of the astronomical running costs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my R231 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Warning signs include excessive oil consumption and blue smoke (M278 cylinder scoring), rattling noise on cold start (M276 timing chain), check engine light with wiring harness faults (M157 oil intrusion), or excessive vibration (engine mounts). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes R231 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. A well-kept R231 is worth £15,000–£45,000, so a £2,800–£6,000 M276 recon is only 6–40% of its value — well within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher-mileage SL 500 with the M278, the same maths is still favourable (8–50%). The R231's strong retained values make most engine replacements economically viable. For V12 cars, replacement costs often approach or exceed the vehicle's value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes R231 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M276 V6 can easily exceed 100,000 miles with regular servicing. The M157 AMG V8 is similarly durable with proper maintenance. The M278 V8 has a shorter lifespan if cylinder scoring develops, though careful maintenance can mitigate the risk. The M279 V12 is reliable but demands meticulous maintenance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the R231 and the previous R230?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The R231 is the sixth-generation SL, built on an all-aluminium space-frame bodyshell that's 140 kg lighter than the R230. It introduced new engines including the M276 V6, M278 V8, and M157 AMG V8. The R230 (2001–2012) used older M112, M113, M272, and M273 engines and is covered on its own generation page."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes R231 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the R231, common codes are M276 (V6 petrol), M278 (V8 petrol), M157 (AMG V8), and M279 (AMG V12). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes SL R231 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "14000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes SL R231 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes SL R231 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "R231 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/sl-class/r231/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -398,23 +640,121 @@
     "scopeNote": "All variants listed are R231 sixth‑generation SL only. The R231 was not available with a non‑AMG V12 — the SL 600 was discontinued. The SL 400 replaced the SL 350 from November 2014, and the facelift in 2016 brought power upgrades to both the SL 400 (367 bhp) and SL 500 (455 bhp)."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. M276 (V6 petrol) — most‑requested across the Mercedes range [MB‑VERIFIED]",
+      "2. M157 (5.5 AMG V8) — strong enthusiast demand for the SL 63",
+      "3. M278 (4.7 V8) — demand for the SL 500"
+    ],
+    "mostRequestedVariants": [
+      "1. SL 400",
+      "2. SL 63 AMG",
+      "3. SL 500"
+    ],
+    "averageReplacementCost": "£2,500–£14,000 supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. M278 cylinder scoring (SL 500)",
+      "2. M276 timing chain tensioner (early cars)",
+      "3. M157 wiring harness oil intrusion (SL 63 AMG)"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes SL 400 R231 (M276)",
+        "location": "London",
+        "issue": "Rattling noise on cold start, timing chain tensioner suspect",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes SL 500 R231 (M278)",
+        "location": "Birmingham",
+        "issue": "Oil leak from camshaft sensors, suspected wiring harness contamination",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes SL 63 AMG R231 (M157)",
+        "location": "Manchester",
+        "issue": "Check engine light, wiring harness oil intrusion",
+        "enquiries": "2 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes R231 engine replacement cost in the UK?",
+        "answer": "A reconditioned R231 engine typically costs £2,500–£14,000 supply only [MB‑QUOTE], depending on the engine — the M276 V6 sits at £2,500–£6,000, while the M278 V8 is £3,500–£7,500, the M157 AMG V8 is £5,000–£9,000, and the V12 M279 is £8,000–£14,000. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+      },
+      {
+        "id": 2,
+        "question": "Which R231 engine is the most reliable?",
+        "answer": "The M276 V6 (SL 350/SL 400) is the most reliable choice — it's Mercedes‑developed, refined, and has a strong track record when serviced properly. The M157 AMG V8 (SL 63 AMG) is also reliable, though owners should watch for wiring harness oil intrusion. The M278 V8 (SL 500) is the least reliable of the mainstream engines."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the R231?",
+        "answer": "The M278 V8 (SL 500) is known for cylinder scoring and oil/coolant leaks; early M276 V6 engines (pre‑2014) can suffer from timing chain tensioner issues; and the M157 AMG V8 can develop oil intrusion into the wiring harness. Engine and transmission mounts are also known to wear prematurely. Regular servicing is key."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes R231 reliable overall?",
+        "answer": "Yes — the R231 is generally regarded as one of the most reliable SL generations, especially with the M276 V6 and M157 AMG V8 engines. The M278 V8 requires more careful maintenance. The V12 M279 is reliable but exceptionally expensive to service. All engines benefit from regular, attentive servicing."
+      },
+      {
+        "id": 5,
+        "question": "Which R231 engine should I avoid?",
+        "answer": "The M278 V8 (SL 500) — its cylinder scoring issues can lead to catastrophic engine failure, and the fix is very expensive. Some owners have found that excessively long service intervals are partly to blame. If you're considering an SL 500, have a specialist inspect the engine thoroughly and verify the service history. The M279 V12 (SL 65 AMG) is not an engine to avoid, but buyers should be aware of the astronomical running costs."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my R231 engine needs replacing?",
+        "answer": "Warning signs include excessive oil consumption and blue smoke (M278 cylinder scoring), rattling noise on cold start (M276 timing chain), check engine light with wiring harness faults (M157 oil intrusion), or excessive vibration (engine mounts). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes R231 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. A well‑kept R231 is worth £15,000–£45,000, so a £2,800–£6,000 M276 recon is only 6–40% of its value — well within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher‑mileage SL 500 with the M278, the same maths is still favourable (8–50%). The R231's strong retained values make most engine replacements economically viable. For V12 cars, replacement costs often approach or exceed the vehicle's value."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes R231 engines last?",
+        "answer": "The M276 V6 can easily exceed 100,000 miles with regular servicing. The M157 AMG V8 is similarly durable with proper maintenance. The M278 V8 has a shorter lifespan if cylinder scoring develops, though careful maintenance can mitigate the risk. The M279 V12 is reliable but demands meticulous maintenance."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the R231 and the previous R230?",
+        "answer": "The R231 is the sixth‑generation SL, built on an all‑aluminium space‑frame bodyshell that's 140 kg lighter than the R230. It introduced new engines including the M276 V6, M278 V8, and M157 AMG V8. The R230 (2001–2012) used older M112, M113, M272, and M273 engines and is covered on its own generation page."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes R231 engine code?",
+        "answer": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the R231, common codes are M276 (V6 petrol), M278 (V8 petrol), M157 (AMG V8), and M279 (AMG V12). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes R231 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted R231 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated, and reviewed by real Mercedes owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare R231 Engine Replacement Companies",
+        "text": "see prices, warranty terms, and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for R231",
+        "text": "covering every variant from SL 350 to SL 65 AMG, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes R231 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes SL R231 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

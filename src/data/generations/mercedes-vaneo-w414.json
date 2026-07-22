@@ -1,11 +1,230 @@
 {
   "meta": {
-    "slug": "mercedes-vaneo-w414",
-    "title": "Mercedes Vaneo W414 Engines — The Complete UK Guide",
-    "titleCharCount": 51,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-vaneo-w414",
+    "title": "W414 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every Mercedes Vaneo W414 engine — M166 petrol and OM668 diesel. Real UK costs, honest reliability data, and sandwich-floor explained. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 155,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vaneo",
+              "item": "https://mercedesengine.uk/vaneo/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes Vaneo W414",
+              "item": "https://mercedesengine.uk/vaneo/w414/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes Vaneo W414 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M166.960 Engine",
+              "url": "https://mercedesengine.uk/engines/m166-960/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M166.961 Engine",
+              "url": "https://mercedesengine.uk/engines/m166-961/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M166.991 Engine",
+              "url": "https://mercedesengine.uk/engines/m166-991/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM668.914 Engine",
+              "url": "https://mercedesengine.uk/engines/om668-914/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes Vaneo W414 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "1.6 (102 PS)",
+              "url": "https://mercedesengine.uk/vaneo/w414/1-6-102ps/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "1.6 (82 PS)",
+              "url": "https://mercedesengine.uk/vaneo/w414/1-6-82ps/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "1.9 (125 PS)",
+              "url": "https://mercedesengine.uk/vaneo/w414/1-9-125ps/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1.7 CDI (75 PS)",
+              "url": "https://mercedesengine.uk/vaneo/w414/1-7-cdi-75ps/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "1.7 CDI (91 PS)",
+              "url": "https://mercedesengine.uk/vaneo/w414/1-7-cdi-91ps/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes Vaneo W414 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W414 engine typically costs £1,100–£3,000 supply only, depending on engine — the M166.961 82 PS petrol sits at £1,100–£2,000, while the OM668.914 91 PS diesel is the most expensive at £1,600–£3,000. Fitting adds £650–£1,000 depending on specialist rates. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes Vaneo W414 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M166.991 1.9-litre petrol (125 PS) is widely considered the most reliable engine in the W414 range — offering strong performance with fewer reported issues than the smaller 1.6-litre M166 variants. The OM668 diesel line is generally robust but injector and EGR wear is common on higher-mileage examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes Vaneo W414?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ignition coil failure on the M166 petrol engines, injector wear and EGR clogging on the OM668 diesels, and engine mount wear unique to the Vaneo's sandwich-floor design. The 82 PS 1.6-litre petrol is particularly underpowered for a seven-seater MPV and can struggle with a full load."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes Vaneo W414 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reliability is average for its era — the M166 petrol fours are simple and durable when maintained, while the OM668 diesel is robust but sensitive to injector health and short journeys. The Vaneo's biggest reliability challenge is its age (most examples are now 20+ years old) rather than any fundamental design flaw. The sandwich-floor construction makes some repairs more labour-intensive than on conventional cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes Vaneo W414 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 82 PS 1.6-litre petrol (M166.961) is the one we'd advise avoiding — it's significantly underpowered for a seven-seater MPV and struggles on motorways, especially with a full load. The OM668 diesel without documented injector service history is also one to be cautious of — injector wear can lead to bore wash and turbo damage, a repair that frequently exceeds the car's value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W414 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Persistent misfires or rough idle on petrol engines (coil pack failure), poor cold starting or excessive smoke on diesels (injector/EGR issues), and loud clunking or vibration from the engine bay (worn mounts) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes Vaneo W414 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well-kept £3,500+ Vaneo, a £1,400–£2,600 recon is 40–74% of the car's value — a serious decision. Against a tired £1,500 example, the same recon is 93–173% — walk away. Our 70% Mercedes-Benz threshold is the line. Given the Vaneo's low residual values, engine replacement is rarely economically viable unless the car is in exceptional condition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes Vaneo W414 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M166 petrol fours can comfortably exceed 150,000–200,000 miles with regular servicing and prompt coil pack replacement. The OM668 diesel can reach similar mileages but requires injector attention around 80,000–130,000 miles. The sandwich-floor engine mounts typically need replacement every 70,000–120,000 miles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the Vaneo W414 and the A-Class W168?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the same platform and many mechanical components, but they're different models. The W168 is the first-generation A-Class — a five-door hatchback. The W414 is the Vaneo — a taller, longer MPV with seating for up to seven passengers and a higher roofline. Engines are shared across both models, though the Vaneo is heavier and has slightly different gearing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes Vaneo W414 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (under the bonnet or on the driver's door pillar) and on the engine block itself — the M166 petrol engines are visible from above, while the OM668 diesel requires slight disassembly to access the block stamping. Tell us your variant (1.6 82 PS, 1.6 102 PS, 1.9 125 PS, 1.7 CDI 75 PS, 1.7 CDI 91 PS) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes Vaneo W414 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1100",
+            "highPrice": "3000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "W414 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/vaneo/w414/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -372,16 +591,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes Vaneo W414 engine replacement cost in the UK?",
+        "answer": "A reconditioned W414 engine typically costs £1,100–£3,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the M166.961 82 PS petrol sits at £1,100–£2,000, while the OM668.914 91 PS diesel is the most expensive at £1,600–£3,000. Fitting adds £650–£1,000 depending on specialist rates. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes Vaneo W414 engine is the most reliable?",
+        "answer": "The M166.991 1.9-litre petrol (125 PS) is widely considered the most reliable engine in the W414 range — offering strong performance with fewer reported issues than the smaller 1.6-litre M166 variants. The OM668 diesel line is generally robust but injector and EGR wear is common on higher-mileage examples."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes Vaneo W414?",
+        "answer": "Ignition coil failure on the M166 petrol engines, injector wear and EGR clogging on the OM668 diesels, and engine mount wear unique to the Vaneo's sandwich-floor design. The 82 PS 1.6-litre petrol is particularly underpowered for a seven-seater MPV and can struggle with a full load."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes Vaneo W414 reliable?",
+        "answer": "Reliability is average for its era — the M166 petrol fours are simple and durable when maintained, while the OM668 diesel is robust but sensitive to injector health and short journeys. The Vaneo's biggest reliability challenge is its age (most examples are now 20+ years old) rather than any fundamental design flaw. The sandwich-floor construction makes some repairs more labour-intensive than on conventional cars."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes Vaneo W414 engine should I avoid?",
+        "answer": "The 82 PS 1.6-litre petrol (M166.961) is the one we'd advise avoiding — it's significantly underpowered for a seven-seater MPV and struggles on motorways, especially with a full load. The OM668 diesel without documented injector service history is also one to be cautious of — injector wear can lead to bore wash and turbo damage, a repair that frequently exceeds the car's value."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W414 engine needs replacing?",
+        "answer": "Persistent misfires or rough idle on petrol engines (coil pack failure), poor cold starting or excessive smoke on diesels (injector/EGR issues), and loud clunking or vibration from the engine bay (worn mounts) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes Vaneo W414 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £3,500+ Vaneo, a £1,400–£2,600 recon is 40–74% of the car's value — a serious decision. Against a tired £1,500 example, the same recon is 93–173% — walk away. Our 70% Mercedes-Benz threshold is the line. Given the Vaneo's low residual values, engine replacement is rarely economically viable unless the car is in exceptional condition."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes Vaneo W414 engines last?",
+        "answer": "The M166 petrol fours can comfortably exceed 150,000–200,000 miles with regular servicing and prompt coil pack replacement. The OM668 diesel can reach similar mileages but requires injector attention around 80,000–130,000 miles. The sandwich-floor engine mounts typically need replacement every 70,000–120,000 miles."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the Vaneo W414 and the A-Class W168?",
+        "answer": "Both share the same platform and many mechanical components, but they're different models. The W168 is the first-generation A-Class — a five-door hatchback. The W414 is the Vaneo — a taller, longer MPV with seating for up to seven passengers and a higher roofline. Engines are shared across both models, though the Vaneo is heavier and has slightly different gearing."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes Vaneo W414 engine code?",
+        "answer": "Listed on the VIN plate (under the bonnet or on the driver's door pillar) and on the engine block itself — the M166 petrol engines are visible from above, while the OM668 diesel requires slight disassembly to access the block stamping. Tell us your variant (1.6 82 PS, 1.6 102 PS, 1.9 125 PS, 1.7 CDI 75 PS, 1.7 CDI 91 PS) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes Vaneo W414 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W414 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real Mercedes owners, as part of the Engine Finders network. We only work with specialists who understand the Vaneo's sandwich-floor layout and engine access challenges."
+      },
+      {
+        "title": "Compare W414 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit. Whether you need a reconditioned M166 or a used OM668, we show you the real market."
+      },
+      {
+        "title": "UK Engine Replacement Services for W414",
+        "text": "covering every variant from 1.6 to 1.9 and 1.7 CDI, with supply-only or full supply & fit available nationwide through our vetted specialist network."
+      }
+    ],
+    "finalCta": "Find the best Mercedes Vaneo W414 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes Vaneo W414 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

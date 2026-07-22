@@ -20,193 +20,7 @@
       "description": "Every Mercedes‑Benz E200 CDI and E200d engine — OM646, OM651 and OM654 turbo‑diesels, 2002–present. Real UK costs, timing chain advice, and honest reliability data.",
       "image": "https://mercedesengine.uk/images/mercedes/hero/e-class-e200-cdi.jpg"
     },
-    "jsonLd": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://mercedesengine.uk/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "E‑Class",
-              "item": "https://mercedesengine.uk/e-class/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "W211/W212/W213 E‑Class",
-              "item": "https://mercedesengine.uk/e-class/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 4,
-              "name": "E200 CDI / E200d",
-              "item": "https://mercedesengine.uk/e-class/e200-cdi-e200d/"
-            }
-          ]
-        },
-        {
-          "@type": "ItemList",
-          "name": "Mercedes‑Benz E200 CDI / E200d Engine Era Map",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "W211 E200 CDI OM646 (2002-2009)",
-              "url": "https://mercedesengine.uk/e-class/w211/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "W212 E200 CDI OM651 (2009-2016)",
-              "url": "https://mercedesengine.uk/e-class/w212/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "W213 E200d OM654 (2016-present)",
-              "url": "https://mercedesengine.uk/e-class/w213/"
-            }
-          ]
-        },
-        {
-          "@type": "ItemList",
-          "name": "Mercedes‑Benz E200 CDI / E200d Engine Codes",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "OM646",
-              "url": "https://mercedesengine.uk/engines/om646/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "OM651.925",
-              "url": "https://mercedesengine.uk/engines/om651/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "OM654",
-              "url": "https://mercedesengine.uk/engines/om654/"
-            }
-          ]
-        },
-        {
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "name": "How much does a Mercedes‑Benz E200 CDI / E200d engine replacement cost in the UK?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "A reconditioned E200 CDI engine typically costs £3,000–£5,500 supply only, with the OM654 variant at the higher end. Fitting adds £800–£1,300 depending on the specialist. A replacement OM651.925 engine costs on average £3,074, with new or reconditioned units up to £4,753. Use our calculator for a figure specific to your E‑Class."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is the Mercedes‑Benz E200 CDI / E200d engine reliable?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "It depends on which engine era your E‑Class has. The W211 (2002–2009) with the OM646 is robust but suffers from injector seal leaks ('black death') and crankshaft sensor failure. The W212 (2009–2016) with the OM651 has a well‑documented single timing chain that can stretch — a critical weakness. The W213 (2016–present) with the OM654 is lighter, more efficient and quieter, but owners have reported timing chain wear, injector seal leaks, and EGR/DPF issues. With proper maintenance and proactive attention to known issues, all can be reliable."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What are the common problems with the Mercedes‑Benz E200 CDI / E200d?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "W211 (OM646): Injector seal leaks ('black death'), crankshaft position sensor failure, EGR valve clogging. W212 (OM651): Timing chain stretch (rattling on cold start — can destroy the engine if ignored), injector seal leaks, EGR/DPF clogging. W213 (OM654): Timing chain wear, injector seal leaks, EGR/DPF clogging, camshaft and rocker wear."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is it worth replacing an E200 CDI / E200d engine, or should I scrap the car?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Depends on the vehicle value and engine era. Against a well‑kept W213 worth £15,000–£25,000, a £5,000–£6,000 recon is 20–30% of the car's value — worth it. Against a tired W211 worth £2,000–£4,000, the same recon may exceed our 70% Mercedes‑Benz threshold — get a scrap valuation first. The W213 OM654 is the most desirable due to its modern efficiency and refinement."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How do I find my Mercedes‑Benz E200 CDI / E200d engine code?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "W211 (2002–2009): OM646. W212 (2009–2016): OM651.925. W213 (2016–present): OM654. Check the VIN plate or vehicle documentation. The engine code is also stamped on the engine block."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Can I repair the OM651 timing chain, or does the engine need replacement?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The timing chain and tensioner must be replaced if worn. A preventative replacement costs £1,500–£3,500. A snapped chain almost always destroys the engine, requiring a £3,200–£5,500+ replacement. At the first sign of cold‑start rattle, book an inspection immediately. Regular oil changes are the key to preventing timing chain issues."
-              }
-            }
-          ]
-        },
-        {
-          "@type": "Organization",
-          "name": "MercedesEngine.uk",
-          "url": "https://mercedesengine.uk/",
-          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
-          "parentOrganization": {
-            "@type": "Organization",
-            "name": "Engine Finders"
-          }
-        },
-        {
-          "@type": "Service",
-          "serviceType": "Mercedes‑Benz E200 CDI / E200d Engine Replacement",
-          "provider": {
-            "@type": "Organization",
-            "name": "MercedesEngine.uk"
-          },
-          "areaServed": "GB",
-          "offers": {
-            "@type": "AggregateOffer",
-            "priceCurrency": "GBP",
-            "lowPrice": "800",
-            "highPrice": "8500",
-            "availability": "https://schema.org/InStock"
-          }
-        },
-        {
-          "@type": "Dataset",
-          "name": "Mercedes‑Benz E200 CDI / E200d UK Engine Enquiry Data 2025",
-          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes‑Benz E200 CDI and E200d engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
-          "creator": {
-            "@type": "Organization",
-            "name": "MercedesEngine.uk"
-          },
-          "temporalCoverage": "2025",
-          "spatialCoverage": "United Kingdom"
-        },
-        {
-          "@type": "WebPage",
-          "name": "E200 CDI / E200d Engine Replacement Cost UK — Compare Quotes",
-          "url": "https://mercedesengine.uk/e-class/e200-cdi-e200d/",
-          "author": {
-            "@type": "Organization",
-            "name": "MercedesEngine.uk Editorial Team"
-          },
-          "reviewedBy": {
-            "@type": "Organization",
-            "name": "MercedesEngine.uk Specialist Network"
-          },
-          "datePublished": "2026-07-12",
-          "dateModified": "2026-07-12"
-        }
-      ]
-    }
+    "jsonLd": {}
   },
   "hero": {
     "tagPill": "Mercedes‑Benz E‑Class E200 CDI / E200d • 2002–present • 3 Engine Generations",
@@ -594,44 +408,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (18%), North West (16%), Midlands (14%) [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz E200 CDI / E200d engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned E200 CDI engine typically costs £3,000–£5,500 supply only, with the OM654 variant at the higher end. Fitting adds £800–£1,300 depending on the specialist. A replacement OM651.925 engine costs on average £3,074, with new or reconditioned units up to £4,753. Use our calculator for a figure specific to your E‑Class.",
-        "value": "2. Is the Mercedes‑Benz E200 CDI / E200d engine reliable?"
-      },
-      {
-        "label": "It depends on which engine era your E‑Class has. The W211 (2002–2009) with the OM646 is robust but suffers from injector seal leaks (\"black death\") and crankshaft sensor failure. The W212 (2009–2016) with the OM651 has a well‑documented single timing chain that can stretch — a critical weakness. The W213 (2016–present) with the OM654 is lighter, more efficient and quieter, but owners have reported timing chain wear, injector seal leaks, and EGR/DPF issues. With proper maintenance and proactive attention to known issues, all can be reliable.",
-        "value": "3. What are the common problems with the Mercedes‑Benz E200 CDI / E200d?"
-      },
-      {
-        "label": "W211 (OM646): Injector seal leaks (\"black death\"), crankshaft position sensor failure, EGR valve clogging.",
-        "value": "W212 (OM651): Timing chain stretch (rattling on cold start — can destroy the engine if ignored), injector seal leaks, EGR/DPF clogging."
-      },
-      {
-        "label": "W213 (OM654): Timing chain wear, injector seal leaks, EGR/DPF clogging, camshaft and rocker wear.",
-        "value": "4. Is it worth replacing an E200 CDI / E200d engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on the vehicle value and engine era. Against a well‑kept W213 worth £15,000–£25,000, a £5,000–£6,000 recon is 20–30% of the car's value — worth it. Against a tired W211 worth £2,000–£4,000, the same recon may exceed our 70% Mercedes‑Benz threshold — get a scrap valuation first. The W213 OM654 is the most desirable due to its modern efficiency and refinement.",
-        "value": "5. How do I find my Mercedes‑Benz E200 CDI / E200d engine code?"
-      },
-      {
-        "label": "W211 (2002–2009): OM646. W212 (2009–2016): OM651.925. W213 (2016–present): OM654. Check the VIN plate or vehicle documentation. The engine code is also stamped on the engine block.",
-        "value": "6. Can I repair the OM651 timing chain, or does the engine need replacement?"
-      },
-      {
-        "label": "The timing chain and tensioner must be replaced if worn. A preventative replacement costs £1,500–£3,500. A snapped chain almost always destroys the engine, requiring a £3,200–£5,500+ replacement. At the first sign of cold‑start rattle, book an inspection immediately. Regular oil changes are the key to preventing timing chain issues.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine condition, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz E200 CDI / E200d engine replacement cost in the UK?",
+        "answer": "A reconditioned E200 CDI engine typically costs £3,000–£5,500 supply only, with the OM654 variant at the higher end. Fitting adds £800–£1,300 depending on the specialist. A replacement OM651.925 engine costs on average £3,074, with new or reconditioned units up to £4,753. Use our calculator for a figure specific to your E‑Class."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz E200 CDI / E200d engine reliable?",
+        "answer": "It depends on which engine era your E‑Class has. The W211 (2002–2009) with the OM646 is robust but suffers from injector seal leaks (\"black death\") and crankshaft sensor failure. The W212 (2009–2016) with the OM651 has a well‑documented single timing chain that can stretch — a critical weakness. The W213 (2016–present) with the OM654 is lighter, more efficient and quieter, but owners have reported timing chain wear, injector seal leaks, and EGR/DPF issues. With proper maintenance and proactive attention to known issues, all can be reliable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz E200 CDI / E200d?",
+        "answer": "W211 (OM646): Injector seal leaks (\"black death\"), crankshaft position sensor failure, EGR valve clogging. W212 (OM651): Timing chain stretch (rattling on cold start — can destroy the engine if ignored), injector seal leaks, EGR/DPF clogging. W213 (OM654): Timing chain wear, injector seal leaks, EGR/DPF clogging, camshaft and rocker wear."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing an E200 CDI / E200d engine, or should I scrap the car?",
+        "answer": "Depends on the vehicle value and engine era. Against a well‑kept W213 worth £15,000–£25,000, a £5,000–£6,000 recon is 20–30% of the car's value — worth it. Against a tired W211 worth £2,000–£4,000, the same recon may exceed our 70% Mercedes‑Benz threshold — get a scrap valuation first. The W213 OM654 is the most desirable due to its modern efficiency and refinement."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz E200 CDI / E200d engine code?",
+        "answer": "W211 (2002–2009): OM646. W212 (2009–2016): OM651.925. W213 (2016–present): OM654. Check the VIN plate or vehicle documentation. The engine code is also stamped on the engine block."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM651 timing chain, or does the engine need replacement?",
+        "answer": "The timing chain and tensioner must be replaced if worn. A preventative replacement costs £1,500–£3,500. A snapped chain almost always destroys the engine, requiring a £3,200–£5,500+ replacement. At the first sign of cold‑start rattle, book an inspection immediately. Regular oil changes are the key to preventing timing chain issues."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine condition, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes‑Benz E200 CDI / E200d Owners Trust MercedesEngine.uk",

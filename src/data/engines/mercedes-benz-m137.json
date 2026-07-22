@@ -1,24 +1,181 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m137",
-    "title": "Mercedes-Benz M137 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m137",
+    "title": "Mercedes M137 V12 Engine — Specs, Reliability & Replacement Cost",
+    "description": "The M137 is a rare 5.8L V12 flagship engine — but complex ignition and oil leaks are common. See honest replacement costs and compare specialist quotes.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m137/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes M137 V12 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M137 is a rare 5.8L V12 flagship engine — but complex ignition and oil leaks are common. See honest replacement costs and compare specialist quotes.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m137/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m137.jpg",
+      "siteName": "MercedesBenzEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes M137 V12 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M137 is a rare 5.8L V12 flagship engine — but complex ignition and oil leaks are common. See honest replacement costs and compare specialist quotes.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m137.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes-Benz M137",
+              "item": "https://mercedesbenzengine.uk/engines/m137/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M137",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "S-Class W220 S 600",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w220/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CL-Class C215 CL 600",
+              "url": "https://mercedesbenzengine.uk/models/cl-class/c215/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M137 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M137 typically costs £8,000–£14,000 supply only, varying by specific variant. Fitting adds £2,000–£4,000 depending on labour rates. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes M137 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M137 is rated 2.5★ out of 5 — it was designed to be lighter and more efficient than the M120 V12 it replaced, but its complex ignition system and oil leaks are well-documented. Many specialists consider the earlier M120 to be more durable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M137 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Common issues include ignition module/coil failures (temperature-dependent misfires), oil leaks from valve cover gaskets and oil pans, timing chain tensioner wear, alternator failure, and cooling system leaks (radiator, water pump)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M137?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M137 was only used in the S 600 (W220) and CL 600 (C215) between 1998 and 2002. It was replaced by the M275 bi-turbo V12."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M137 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With meticulous maintenance, the M137 can reach 100,000–150,000 miles. However, specialists note that complex V12 repairs — particularly ignition system failures — are common in this mileage range, and parts availability is becoming an increasing concern."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesBenzEngine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M137 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "2.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M137 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "3000",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M137 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M137, sourced from MercedesBenzEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes M137 V12 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m137/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M137 • Petrol • V12 • 1998–2002",
@@ -80,179 +237,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "60/100"
-      },
-      {
-        "metric": "M137 — Our Verdict & Rating",
-        "value": "Star rating: 2.5★ out of 5"
-      },
-      {
-        "metric": "Confidence: 80% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
-        "value": "Engine Score breakdown:"
-      },
-      {
-        "metric": "Dimension",
-        "value": "Score (of 20)"
-      },
-      {
-        "metric": "How it's determined",
-        "value": "Reliability"
-      },
-      {
-        "metric": "10",
-        "value": "2.5★ × 4"
-      },
-      {
-        "metric": "Repair Cost",
-        "value": "4"
-      },
-      {
-        "metric": "Reconditioned supply midpoint £10,000+",
-        "value": "Repairability"
-      },
-      {
-        "metric": "8",
-        "value": "Complex V12 design; specialist-only work; many failures require full strip"
-      },
-      {
-        "metric": "Parts Supply",
-        "value": "10"
-      },
-      {
-        "metric": "Available but dealer/specialist-order only; some parts scarce",
-        "value": "Replacement Economics"
-      },
-      {
-        "metric": "28",
-        "value": "Recon cost 45–59% of lowest host-vehicle value"
-      },
-      {
-        "metric": "Total",
-        "value": "60/100"
-      },
-      {
-        "metric": "Sum of five rows above",
-        "value": "One-line verdict: The M137 is a smooth, exclusive V12 — but its complex ignition system and oil leaks are common, and parts are increasingly scarce — buy only with full service history and a specialist inspection."
-      },
-      {
-        "metric": "Best for: Collectors and enthusiasts wanting a V12 Mercedes flagship experience.",
-        "value": "Avoid if: You're on a tight maintenance budget or looking for a daily driver."
-      },
-      {
-        "metric": "M137 — Where It's Fitted (Mercedes-Benz Models)",
-        "value": "Model"
-      },
-      {
-        "metric": "Generation",
-        "value": "Variant/Badge"
-      },
-      {
-        "metric": "Years",
-        "value": "S-Class"
-      },
-      {
-        "metric": "W220",
-        "value": "S 600 (M137.970)"
-      },
-      {
-        "metric": "1998–2002",
-        "value": "CL-Class"
-      },
-      {
-        "metric": "C215",
-        "value": "CL 600 (M137.970)"
-      },
-      {
-        "metric": "1999–2002",
-        "value": "Note: The M137 was only fitted to the S 600 and CL 600 models. The Maybach 57 and 62 used a different, related V12 engine (the M285)."
-      },
-      {
-        "metric": "M137 Replacement Costs",
-        "value": "Condition"
-      },
-      {
-        "metric": "Supply Only",
-        "value": "Fitted (Indie)"
-      },
-      {
-        "metric": "Warranty",
-        "value": "Used"
-      },
-      {
-        "metric": "£3,000–£6,000",
-        "value": "£4,500–£8,000"
-      },
-      {
-        "metric": "3–6 months",
-        "value": "Reconditioned"
-      },
-      {
-        "metric": "£8,000–£14,000",
-        "value": "£10,000–£17,000"
-      },
-      {
-        "metric": "12 months",
-        "value": "Rebuilt"
-      },
-      {
-        "metric": "£12,000–£18,000",
-        "value": "£14,000–£22,000"
-      },
-      {
-        "metric": "12–24 months",
-        "value": "Labour estimate: Fitting an M137 typically takes 14–20 hours at £75–£110/hr (independent) or £130–£180/hr (London/SE dealer)."
-      },
-      {
-        "metric": "→ Compare M137 engine prices from UK specialists",
-        "value": "M137 — Frequently Asked Questions"
-      },
-      {
-        "metric": "1. How much does an M137 engine replacement cost?",
-        "value": "A reconditioned M137 typically costs £8,000–£14,000 supply only, varying by specific variant. Fitting adds £2,000–£4,000 depending on labour rates. Use our calculator for a figure specific to your car."
-      },
-      {
-        "metric": "2. Is the Mercedes M137 a reliable engine?",
-        "value": "The M137 is rated 2.5★ out of 5 — it was designed to be lighter and more efficient than the M120 V12 it replaced, but its complex ignition system and oil leaks are well-documented. Many specialists consider the earlier M120 to be more durable."
-      },
-      {
-        "metric": "3. What is the most common M137 failure?",
-        "value": "Common issues include ignition module/coil failures (temperature-dependent misfires), oil leaks from valve cover gaskets and oil pans, timing chain tensioner wear, alternator failure, and cooling system leaks (radiator, water pump)."
-      },
-      {
-        "metric": "4. Which Mercedes models use the M137?",
-        "value": "The M137 was only used in the S 600 (W220) and CL 600 (C215) between 1998 and 2002. It was replaced by the M275 bi-turbo V12."
-      },
-      {
-        "metric": "5. How long does the M137 last?",
-        "value": "With meticulous maintenance, the M137 can reach 100,000–150,000 miles. However, specialists note that complex V12 repairs — particularly ignition system failures — are common in this mileage range, and parts availability is becoming an increasing concern."
-      },
-      {
-        "metric": "Why UK M137 Owners Trust MercedesBenzEngine.uk",
-        "value": "* Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M137 owners, as part of the Engine Finders network."
-      },
-      {
-        "metric": "* Compare Companies: We compare quotes from multiple UK specialists so you can see real M137 replacement prices side by side — no hidden fees, no pressure.",
-        "value": "* UK Coverage: Our network spans independent specialists across England, Scotland, Wales and Northern Ireland — wherever you are, we'll find you a trusted M137 specialist nearby."
-      },
-      {
-        "metric": "Find the best Mercedes M137 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
-        "value": "CTA Button: Compare Mercedes M137 Engine Prices Now →"
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "2.5★ out of 5",
+    "confidence": "80% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "10 (2.5★ × 4)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "4 (Reconditioned supply midpoint £10,000+)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "8 (Complex V12 design; specialist-only work; many failures require full strip)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "10 (Available but dealer/specialist-order only; some parts scarce)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "28 (Recon cost 45–59% of lowest host-vehicle value)"
+        },
+        {
+          "dimension": "Total",
+          "score": "60/100 (Sum of five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M137 is a smooth, exclusive V12 — but its complex ignition system and oil leaks are common, and parts are increasingly scarce — buy only with full service history and a specialist inspection.",
+    "bestFor": "Collectors and enthusiasts wanting a V12 Mercedes flagship experience.",
+    "avoidIf": "You're on a tight maintenance budget or looking for a daily driver."
   },
   "compatibility": {
     "columns": [
@@ -261,7 +287,20 @@
       "Variant/Badge",
       "Years"
     ],
-    "rows": [],
+    "rows": [
+      {
+        "model": "S-Class",
+        "generation": "W220",
+        "variantBadge": "S 600 (M137.970)",
+        "years": "1998–2002"
+      },
+      {
+        "model": "CL-Class",
+        "generation": "C215",
+        "variantBadge": "CL 600 (M137.970)",
+        "years": "1999–2002"
+      }
+    ],
     "crossBrandNote": ""
   },
   "costGuide": {
@@ -271,8 +310,27 @@
       "Fitted (Indie)",
       "Warranty"
     ],
-    "rows": [],
-    "labourEstimate": "",
+    "rows": [
+      {
+        "condition": "Used",
+        "supplyOnly": "£3,000–£6,000",
+        "fittedIndie": "£4,500–£8,000",
+        "warranty": "3–6 months"
+      },
+      {
+        "condition": "Reconditioned",
+        "supplyOnly": "£8,000–£14,000",
+        "fittedIndie": "£10,000–£17,000",
+        "warranty": "12 months"
+      },
+      {
+        "condition": "Rebuilt",
+        "supplyOnly": "£12,000–£18,000",
+        "fittedIndie": "£14,000–£22,000",
+        "warranty": "12–24 months"
+      }
+    ],
+    "labourEstimate": "Fitting an M137 typically takes 14–20 hours at £75–£110/hr (independent) or £130–£180/hr (London/SE dealer).",
     "sharedCostNote": "",
     "cta": {
       "label": "",
@@ -280,13 +338,39 @@
     }
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an M137 engine replacement cost?",
+        "answer": "A reconditioned M137 typically costs £8,000–£14,000 supply only, varying by specific variant. Fitting adds £2,000–£4,000 depending on labour rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes M137 a reliable engine?",
+        "answer": "The M137 is rated 2.5★ out of 5 — it was designed to be lighter and more efficient than the M120 V12 it replaced, but its complex ignition system and oil leaks are well-documented. Many specialists consider the earlier M120 to be more durable."
+      },
+      {
+        "id": 3,
+        "question": "What is the most common M137 failure?",
+        "answer": "Common issues include ignition module/coil failures (temperature-dependent misfires), oil leaks from valve cover gaskets and oil pans, timing chain tensioner wear, alternator failure, and cooling system leaks (radiator, water pump)."
+      },
+      {
+        "id": 4,
+        "question": "Which Mercedes models use the M137?",
+        "answer": "The M137 was only used in the S 600 (W220) and CL 600 (C215) between 1998 and 2002. It was replaced by the M275 bi-turbo V12."
+      },
+      {
+        "id": 5,
+        "question": "How long does the M137 last?",
+        "answer": "With meticulous maintenance, the M137 can reach 100,000–150,000 miles. However, specialists note that complex V12 repairs — particularly ignition system failures — are common in this mileage range, and parts availability is becoming an increasing concern."
+      }
+    ]
   },
   "trustCta": {
     "trustPoints": [],
     "finalCta": "",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes M137 Engine Prices Now →",
       "href": "#"
     }
   }

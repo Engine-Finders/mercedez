@@ -1,6 +1,6 @@
 {
   "meta": {
-    "slug": "mercedes-gle-class-w166",
+    "slug": "bmw-gle-class-w166",
     "title": "W166 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 56,
     "description": "Every Mercedes W166 engine — OM651, OM642, M276, M278, M157. Real UK costs, the 2015 M‑Class rebadge, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
@@ -759,10 +759,22 @@
     "scopeNote": "All variants listed are W166 GLE SUV only. C292 GLE Coupé shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
+    "mostRequestedEngines": [
+      "1. OM642 (GLE 350 d) — 1,250 enquiries [MB‑VERIFIED] (OM651 proxy)",
+      "2. M276 (GLE 400 / GLE 43 AMG) — pattern data [PATTERN DATA]",
+      "3. OM651 (GLE 250 d) — pattern data [PATTERN DATA]"
+    ],
+    "mostRequestedVariants": [
+      "1. GLE 350 d",
+      "2. GLE 400",
+      "3. GLE 250 d"
+    ],
+    "averageReplacementCost": "£2,800–£5,500 reconditioned, supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. OM651 EGR cooler failure & turbo bearing collapse (GLE 250 d)",
+      "2. OM642 oil cooler seal leaks (GLE 350 d)",
+      "3. M276 cooling system wear (GLE 400 / GLE 43 AMG)"
+    ],
     "liveFeed": [
       {
         "vehicle": "Mercedes GLE 350 d W166 (OM642)",

@@ -1,26 +1,194 @@
 {
   "meta": {
-    "slug": "mercedes-benz-cla180-cla200-petrol",
-    "title": "Mercedes-Benz CLA180 / CLA200 Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "titleCharCount": 85,
-    "description": "",
-    "descriptionCharCount": 0,
-    "canonical": "",
+    "slug": "cla-class-cla180-200-petrol",
+    "title": "CLA180/200 Petrol Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "Every Mercedes CLA180/200 petrol engine — M270 and M282. Real UK costs, common timing and ignition issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 160,
+    "canonical": "https://mercedesengine.uk/cla-class/cla180-200-petrol/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "CLA180/200 Petrol Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes CLA180/200 petrol engine — M270 and M282. Real UK costs, common timing and ignition issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/cla-class/cla180-200-petrol/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/cla-class-cla180-200-petrol.jpg",
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "CLA180/200 Petrol Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes CLA180/200 petrol engine — M270 and M282. Real UK costs, common timing and ignition issues, and honest reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/cla-class-cla180-200-petrol.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLA-Class",
+              "item": "https://mercedesengine.uk/cla-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CLA180/200 Petrol",
+              "item": "https://mercedesengine.uk/cla-class/cla180-200-petrol/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz CLA180/200 Petrol Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C117/X117 CLA180/200 (M270, 2013–2019)",
+              "url": "https://mercedesengine.uk/cla-class/cla180-200-petrol/#c117"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C118/X118 CLA180/200 (M282, 2019–present)",
+              "url": "https://mercedesengine.uk/cla-class/cla180-200-petrol/#c118"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz CLA180/200 Petrol Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M270",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M282",
+              "url": "https://mercedesengine.uk/engines/m282/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-Benz CLA180 / CLA200 petrol engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned Mercedes-Benz CLA180/200 petrol engine costs £2,500–£4,500 supply only, varying by generation: M270 £2,500–£4,500, M282 £3,000–£5,500. Fitting adds £1,000–£1,500. Check the Era Map above for your engine code."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-Benz CLA180 / CLA200 petrol reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "That depends on which generation. The C117 M270 (2013–2019) has known timing chain stretch and ignition system issues. The C118 M282 (2019+) is a more modern engine with better reliability, cylinder shutoff technology, and fewer common faults. Buy the C118 if you can."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-Benz CLA180 / CLA200 petrol?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "C117 M270: timing chain stretch (cold-start rattle, £1,500–£3,500), ignition system faults (misfires, £200–£600), carbon build-up (walnut blasting, £400–£800), thermostat housing leaks (£300–£600). C118 M282: carbon build-up, cylinder shutoff issues (hesitation, £500–£1,500)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-Benz CLA180 / CLA200 petrol engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "CLA values range from £5,000–£25,000 depending on generation, condition and mileage. A £2,500–£4,500 reconditioned engine represents 10–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained C118, replacement is often justified. For an ageing C117 with other issues, assess scrap value first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-Benz CLA180 / CLA200 petrol engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The CLA180/200 has used two engines: M270 (C117, 2013–2019, 1.6L turbo, 122–156 bhp) and M282 (C118, 2019+, 1.3L turbo, 136–163 bhp). Check your VIN or registration year. The code is stamped on the engine block."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the M270 timing chain issue, or does it need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — if caught early. Timing chain and guide replacement costs £1,500–£3,500 and is significantly cheaper than a full engine replacement (£2,500–£4,500). Replacing the chain, guides and tensioner is recommended around 60,000–100,000 miles. At the first sign of cold-start rattle, book an inspection immediately — ignored chain wear can lead to catastrophic engine failure."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz CLA180/200 Petrol Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "8000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz CLA180/200 Petrol UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz CLA180/200 petrol engines, sourced from MercedesEngine.uk's specialist marketplace activity for M270 and M282 variants.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLA180/200 Petrol Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cla-class/cla180-200-petrol/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz CLA180 / CLA200 Petrol • 2013–present • Two Engine Generations",

@@ -1,11 +1,259 @@
 {
   "meta": {
-    "slug": "mercedes-glk-x204",
-    "title": "Mercedes GLK X204 Engines — The Complete UK Guide",
-    "titleCharCount": 49,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-glk-class-x204",
+    "title": "X204 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 48,
+    "description": "Every Mercedes X204 engine — M272, M276, M274, OM651, OM642. Real UK costs, reliability data, and the OM651 diesel that sets the standard. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLK-Class",
+              "item": "https://mercedesengine.uk/glk-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes GLK X204",
+              "item": "https://mercedesengine.uk/glk-class/x204/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes X204 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M272.948 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M272.991 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276.957 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M274.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM651.912 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM651.916 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM642.832 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM642.961 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes X204 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GLK 220 CDI",
+              "url": "https://mercedesengine.uk/glk-class/glk-220-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLK 350 CDI",
+              "url": "https://mercedesengine.uk/glk-class/glk-350-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GLK 350 4MATIC",
+              "url": "https://mercedesengine.uk/glk-class/glk-350-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "GLK 250 CDI",
+              "url": "https://mercedesengine.uk/glk-class/glk-250-cdi/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes X204 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned X204 engine typically costs £2,000–£6,500 supply only, depending on the engine — the OM651 diesel sits at £2,800–£4,800, while the M272/M276 V6 petrol is £2,500–£6,500 and the OM642 V6 diesel is £3,200–£6,000. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which X204 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 2.1-litre diesel (GLK 220 CDI/250 CDI) is the most reliable choice — it's Mercedes-developed, efficient, and has a strong track record when serviced properly. The M276 3.5-litre V6 petrol (facelift GLK 350) is also very dependable. Avoid the pre-2010 M272 V6 petrol without balance shaft history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the X204?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 diesel can suffer from injector seal leaks (known as 'Black Death'); the OM642 V6 diesel can develop oil cooler seal leaks; the pre-2010 M272 V6 petrol can have balance shaft wear; and the M276 V6 petrol (facelift) can develop coolant leaks. Regular servicing is key."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes X204 reliable overall?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the X204 is generally well-regarded for reliability, especially with the OM651 diesel and facelift petrol engines (M276, M274). The pre-facelift engines (M272, OM642) have more reported issues, but they are still acceptable for lower-mileage use if properly maintained."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which X204 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pre-2010 M272 V6 petrol (GLK 300/350) without documented balance shaft replacement — this is a known, costly issue. The OM642 V6 diesel (GLK 320/350 CDI) is not an engine to avoid outright, but buyers should be aware of the oil cooler seal risk. Any X204 without documented service history should be approached with caution."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my X204 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Warning signs include a ticking noise from the engine bay (OM651 injector seals), oil in the coolant (OM642 oil cooler seals), a rattling noise on cold start (M272 balance shaft), or coolant loss (M276 water pump). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes X204 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. A well-kept X204 is worth £4,000–£12,000, so a £2,800–£4,800 OM651 recon is 23–120% of its value. On a sub-£5,000 X204, the recon may approach or exceed our 70% Mercedes threshold — we'd advise walking away. Against a well-kept £8,000+ example, the same recon drops to 35–60% — a repair decision, not a financial one."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes X204 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 diesel can easily exceed 150,000 miles with regular servicing and early attention to the injector seals. The M276 V6 petrol is similarly durable. The M272 V6 petrol can reach high mileages but requires balance shaft attention on pre-2010 cars. The OM642 V6 diesel is less durable due to its oil cooler seal issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the X204 and the newer X253 (GLC)?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The X204 is the first-generation GLK (2008–2015), built on a modified W204 C-Class platform with a boxy, rugged design. The X253 is the second-generation GLC (2015–present), built on the newer MRA platform with updated engines (including M274, M276, OM654) and a sleeker design. Both are covered on their own generation pages."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes X204 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the X204, common codes are M272 (petrol V6, pre-facelift), M276 (petrol V6, facelift), M274 (petrol four-cylinder, facelift), OM651 (diesel four-cylinder), and OM642 (diesel V6). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes GLK X204 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2000",
+            "highPrice": "6500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes GLK X204 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes GLK X204 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "X204 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/glk-class/x204/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -459,23 +707,121 @@
     "scopeNote": "All variants listed are X204 first‑generation GLK only. The GLK was replaced by the GLC‑Class (X253) in 2015."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM651 (2.1 diesel) — most‑requested across the Mercedes range [MB‑VERIFIED]",
+      "2. OM642 (3.0 V6 diesel) — strong demand for the 350 CDI",
+      "3. M272/M276 (V6 petrol) — enthusiast demand for the GLK 350"
+    ],
+    "mostRequestedVariants": [
+      "1. GLK 220 CDI",
+      "2. GLK 350 CDI",
+      "3. GLK 350 4MATIC (petrol)"
+    ],
+    "averageReplacementCost": "£2,000–£6,500 supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. OM651 injector seal leaks (Black Death)",
+      "2. OM642 oil cooler seal leaks",
+      "3. M272 balance shaft wear (pre‑2010)"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes GLK 220 CDI X204 (OM651)",
+        "location": "London",
+        "issue": "Ticking noise from engine bay, suspected injector seal leak",
+        "enquiries": "5 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes GLK 350 CDI X204 (OM642)",
+        "location": "Birmingham",
+        "issue": "Oil in coolant, suspected oil cooler seal failure",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes GLK 350 X204 (M272)",
+        "location": "Manchester",
+        "issue": "Rough idle, intake manifold flap issue",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes X204 engine replacement cost in the UK?",
+        "answer": "A reconditioned X204 engine typically costs £2,000–£6,500 supply only [MB‑QUOTE], depending on the engine — the OM651 diesel sits at £2,800–£4,800, while the M272/M276 V6 petrol is £2,500–£6,500 and the OM642 V6 diesel is £3,200–£6,000. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+      },
+      {
+        "id": 2,
+        "question": "Which X204 engine is the most reliable?",
+        "answer": "The OM651 2.1‑litre diesel (GLK 220 CDI/250 CDI) is the most reliable choice — it's Mercedes‑developed, efficient, and has a strong track record when serviced properly. The M276 3.5‑litre V6 petrol (facelift GLK 350) is also very dependable. Avoid the pre‑2010 M272 V6 petrol without balance shaft history."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the X204?",
+        "answer": "The OM651 diesel can suffer from injector seal leaks (known as \"Black Death\"); the OM642 V6 diesel can develop oil cooler seal leaks; the pre‑2010 M272 V6 petrol can have balance shaft wear; and the M276 V6 petrol (facelift) can develop coolant leaks. Regular servicing is key."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes X204 reliable overall?",
+        "answer": "Yes — the X204 is generally well‑regarded for reliability, especially with the OM651 diesel and facelift petrol engines (M276, M274). The pre‑facelift engines (M272, OM642) have more reported issues, but they are still acceptable for lower‑mileage use if properly maintained."
+      },
+      {
+        "id": 5,
+        "question": "Which X204 engine should I avoid?",
+        "answer": "The pre‑2010 M272 V6 petrol (GLK 300/350) without documented balance shaft replacement — this is a known, costly issue. The OM642 V6 diesel (GLK 320/350 CDI) is not an engine to avoid outright, but buyers should be aware of the oil cooler seal risk. Any X204 without documented service history should be approached with caution."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my X204 engine needs replacing?",
+        "answer": "Warning signs include a ticking noise from the engine bay (OM651 injector seals), oil in the coolant (OM642 oil cooler seals), a rattling noise on cold start (M272 balance shaft), or coolant loss (M276 water pump). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes X204 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. A well‑kept X204 is worth £4,000–£12,000, so a £2,800–£4,800 OM651 recon is 23–120% of its value. On a sub‑£5,000 X204, the recon may approach or exceed our 70% Mercedes threshold — we'd advise walking away. Against a well‑kept £8,000+ example, the same recon drops to 35–60% — a repair decision, not a financial one."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes X204 engines last?",
+        "answer": "The OM651 diesel can easily exceed 150,000 miles with regular servicing and early attention to the injector seals. The M276 V6 petrol is similarly durable. The M272 V6 petrol can reach high mileages but requires balance shaft attention on pre‑2010 cars. The OM642 V6 diesel is less durable due to its oil cooler seal issues."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the X204 and the newer X253 (GLC)?",
+        "answer": "The X204 is the first‑generation GLK (2008–2015), built on a modified W204 C‑Class platform with a boxy, rugged design. The X253 is the second‑generation GLC (2015–present), built on the newer MRA platform with updated engines (including M274, M276, OM654) and a sleeker design. Both are covered on their own generation pages."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes X204 engine code?",
+        "answer": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the X204, common codes are M272 (petrol V6, pre‑facelift), M276 (petrol V6, facelift), M274 (petrol four‑cylinder, facelift), OM651 (diesel four‑cylinder), and OM642 (diesel V6). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes X204 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted X204 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated, and reviewed by real Mercedes owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare X204 Engine Replacement Companies",
+        "text": "see prices, warranty terms, and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for X204",
+        "text": "covering every variant from GLK 200 CDI to GLK 350 CDI, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes X204 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes GLK X204 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

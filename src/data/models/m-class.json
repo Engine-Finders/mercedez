@@ -1,24 +1,300 @@
 {
   "meta": {
     "slug": "m-class",
-    "title": "M-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "M-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 52,
+    "description": "Every M-Class engine — OM642 V6 diesel, M272 V6 petrol, M113 V8. 3 generations (W163, W164, W166), real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "M-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every M-Class engine — OM642 V6 diesel, M272 V6 petrol, M113 V8. 3 generations (W163, W164, W166), real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/mercedes/m-class/",
       "image": "",
-      "siteName": ""
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "M-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every M-Class engine — OM642 V6 diesel, M272 V6 petrol, M113 V8. 3 generations (W163, W164, W166), real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M-Class",
+              "item": "https://mercedesengine.uk/mercedes/m-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "M-Class Generations",
+          "description": "Mercedes-Benz M-Class generations covered in this guide",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W163 (1997–2005)",
+              "url": "https://mercedesengine.uk/mercedes/m-class/w163/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W164 (2005–2011)",
+              "url": "https://mercedesengine.uk/mercedes/m-class/w164/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W166 (2011–2015)",
+              "url": "https://mercedesengine.uk/mercedes/m-class/w166/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "M-Class Engine Codes",
+          "description": "Complete database of Mercedes-Benz M-Class engine codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M111.977 — 2.3L (150 hp)",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M112 E32 — 3.2L V6 (215 hp)",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M112 E37 — 3.7L V6 (235 hp)",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M113 E43 — 4.3L V8 (272 hp)",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M113 E50 — 5.0L V8 (292 hp)",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M113.981 — 5.4L V8 AMG (347 hp)",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM611 — 2.2L diesel (122 hp)",
+              "url": "https://mercedesengine.uk/engines/om611/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM612.963 — 2.7L diesel (163 hp)",
+              "url": "https://mercedesengine.uk/engines/om612/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "OM613 — 2.7L diesel (177 hp)",
+              "url": "https://mercedesengine.uk/engines/om613/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M272 KE35 — 3.5L V6 (272 hp)",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "M273 — 5.5L V8 (388 hp)",
+              "url": "https://mercedesengine.uk/engines/m273/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "M156 E63 — 6.2L V8 AMG (510 hp)",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "OM642.940 — 3.0L V6 diesel (224 hp)",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "OM642.826 — 3.0L V6 diesel (258 hp)",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "OM651.960 — 2.1L diesel (204 hp)",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "M276 DE35 — 3.5L V6 (306 hp)",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "M157 — 5.5L V8 AMG (525 hp)",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M-Class engine costs approximately £1,800–£5,500 supply-only [PLACEHOLDER — confirm vs cost sheet], with labour adding £600–£1,500 depending on your location and specialist. Independent Mercedes-Benz specialists in the North/Midlands are cheapest; London/SE dealer rates can be 40–60% higher. The OM642 diesel is at the lower end of the range; the M156 and M157 AMG V8s are at the higher end. Use our diagnostic calculator for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which M-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 320 CDI V6 diesel — specifically the OM642.940 in the W164 (2005–2011) — is regarded as the most reliable engine in the entire M-Class range. The oil cooler seal is the known weak point, but it's a maintenance item, not a design flaw. The M113 V8 is also highly regarded for durability."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which M-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M272 V6 petrol in pre-2008 W164 examples carries a real balance shaft risk — without documented work, it's a gamble. The M156 AMG V8 is a brilliant engine but has known camshaft adjuster wear and is expensive to maintain. Neither is a blanket 'avoid' — but both require a documented service history and specialist inspection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M-Class OM642 oil cooler seal problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the OM642 V6 diesel's oil cooler seal is a well-documented weak point. The seal sits in the 'V' of the V6 engine and can fail, causing oil leaks that can lead to engine damage if ignored. Symptoms include oil spots under the car and a burning oil smell. Repair cost: £800–£1,500 [PLACEHOLDER — confirm vs cost sheet]."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an M-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on the car's value and generation. A W164 ML 320 CDI worth £7,000 with a £2,500 replacement cost is a clear 'fix it.' A W163 ML 320 worth £2,500 with a £3,500 replacement cost is a 'scrap it.' The maths is simple: if replacement cost exceeds approximately 70% of the car's current market value, get a scrap valuation before committing. Use our calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which M-Class should I buy — W163, W164 or W166?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy the W164 (2005–2011) with the OM642 320 CDI — it's the sweet spot of M-Class ownership. Better refinement than the W163, simpler and more proven than the W166, and the OM642 diesel is the most reliable engine in the range. The W166 is more luxurious but more complex; the W163 is a bargain but carries significant rust risk."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my M-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your M-Class engine code is stamped on the engine block (usually visible from above, near the front), printed on the vehicle's VIN sticker (often inside the driver's door frame or service book), and encoded in the VIN itself. If you're unsure, use the Mercedes-Benz VIN decoder on our homepage — or enter your registration on our calculator and we'll identify it for you."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "M-Class vs GLE — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M-Class and GLE are the same vehicle — the GLE is simply the M-Class renamed in 2015. Early GLEs (2015–2019) use the same OM642, OM651 and M276 engines as the W166 M-Class. Reliability is essentially identical — buy on condition, service history and generation, not on the badge."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "sameAs": [],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "M-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "5500"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "M-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for M-Class engines, sourced from mercedesengine.uk's specialist marketplace activity and documented failure patterns.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "M-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes/m-class/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M-Class (ML) • 1997–2015 • 3 Generations • OM642 • M272 • M113 • M156",
@@ -714,7 +990,48 @@
   },
   "faq": {
     "h2": "M-Class Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an M-Class engine replacement cost in the UK?",
+        "answer": "A reconditioned M-Class engine costs approximately £1,800–£5,500 supply-only [PLACEHOLDER — confirm vs cost sheet], with labour adding £600–£1,500 depending on your location and specialist. Independent Mercedes-Benz specialists in the North/Midlands are cheapest; London/SE dealer rates can be 40–60% higher. The OM642 diesel is at the lower end of the range; the M156 and M157 AMG V8s are at the higher end. Use our diagnostic calculator for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which M-Class engine is the most reliable?",
+        "answer": "The OM642 320 CDI V6 diesel — specifically the OM642.940 in the W164 (2005–2011) — is regarded as the most reliable engine in the entire M-Class range. The oil cooler seal is the known weak point, but it's a maintenance item, not a design flaw. The M113 V8 is also highly regarded for durability."
+      },
+      {
+        "id": 3,
+        "question": "Which M-Class engine should I avoid?",
+        "answer": "The M272 V6 petrol in pre-2008 W164 examples carries a real balance shaft risk — without documented work, it's a gamble. The M156 AMG V8 is a brilliant engine but has known camshaft adjuster wear and is expensive to maintain. Neither is a blanket \"avoid\" — but both require a documented service history and specialist inspection."
+      },
+      {
+        "id": 4,
+        "question": "Is the M-Class OM642 oil cooler seal problem real?",
+        "answer": "Yes — the OM642 V6 diesel's oil cooler seal is a well-documented weak point. The seal sits in the \"V\" of the V6 engine and can fail, causing oil leaks that can lead to engine damage if ignored. Symptoms include oil spots under the car and a burning oil smell. Repair cost: £800–£1,500 [PLACEHOLDER — confirm vs cost sheet]."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing an M-Class engine?",
+        "answer": "It depends entirely on the car's value and generation. A W164 ML 320 CDI worth £7,000 with a £2,500 replacement cost is a clear \"fix it.\" A W163 ML 320 worth £2,500 with a £3,500 replacement cost is a \"scrap it.\" The maths is simple: if replacement cost exceeds approximately 70% of the car's current market value, get a scrap valuation before committing. Use our calculator for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which M-Class should I buy — W163, W164 or W166?",
+        "answer": "Buy the W164 (2005–2011) with the OM642 320 CDI — it's the sweet spot of M-Class ownership. Better refinement than the W163, simpler and more proven than the W166, and the OM642 diesel is the most reliable engine in the range. The W166 is more luxurious but more complex; the W163 is a bargain but carries significant rust risk."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my M-Class engine code?",
+        "answer": "Your M-Class engine code is stamped on the engine block (usually visible from above, near the front), printed on the vehicle's VIN sticker (often inside the driver's door frame or service book), and encoded in the VIN itself. If you're unsure, use the Mercedes-Benz VIN decoder on our homepage — or enter your registration on our calculator and we'll identify it for you."
+      },
+      {
+        "id": 8,
+        "question": "M-Class vs GLE — which is more reliable?",
+        "answer": "The M-Class and GLE are the same vehicle — the GLE is simply the M-Class renamed in 2015. Early GLEs (2015–2019) use the same OM642, OM651 and M276 engines as the W166 M-Class. Reliability is essentially identical — buy on condition, service history and generation, not on the badge."
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

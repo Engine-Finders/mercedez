@@ -1,24 +1,211 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m282",
-    "title": "Mercedes-Benz M282 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m282",
+    "title": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
+    "description": "The M282 is a modern 1.3L turbo four — efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m282/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
+      "description": "The M282 is a modern 1.3L turbo four — efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m282/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m282.jpg",
+      "siteName": "mercedesbenzengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
+      "description": "The M282 is a modern 1.3L turbo four — efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m282.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M282",
+              "item": "https://mercedesbenzengine.uk/engines/m282/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M282 engine",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "A-Class W177 A 180 / A 200",
+              "url": "https://mercedesbenzengine.uk/models/a-class/w177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class Sedan V177 A 180 / A 200",
+              "url": "https://mercedesbenzengine.uk/models/a-class/v177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "B-Class W247 B 180 / B 200",
+              "url": "https://mercedesbenzengine.uk/models/b-class/w247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLA-Class C118 CLA 180 / CLA 200",
+              "url": "https://mercedesbenzengine.uk/models/cla-class/c118/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLA-Class Shooting Brake X118 CLA 180 / CLA 200",
+              "url": "https://mercedesbenzengine.uk/models/cla-class/x118/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "GLA-Class H247 GLA 180 / GLA 200",
+              "url": "https://mercedesbenzengine.uk/models/gla-class/h247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "GLB-Class X247 GLB 180 / GLB 200",
+              "url": "https://mercedesbenzengine.uk/models/glb-class/x247/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M282 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M282 typically costs £2,500–£5,000 supply only, with fitting adding £600–£1,100 depending on labour rates [ESTIMATED]. Used examples can be found from £1,000; rebuilds range from £3,500–£6,000."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M282 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M282 rates 3.0★ out of 5 — a modern, efficient turbo-four with good performance, but known for thermostat housing coolant leaks, oil consumption, and carbon buildup on intake valves due to direct injection. Regular maintenance is essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M282 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thermostat housing coolant leaks are the most common issue — plastic housing cracks cause coolant loss and potential overheating. Camshaft centre bolt faults and turbocharger oil feed line leaks (recalled on 2019–2020 models) are also well-documented."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M282?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M282 powers the A‑Class W177/V177 (A 180/A 200), B‑Class W247 (B 180/B 200), CLA C118/X118 (CLA 180/CLA 200), GLA H247 (GLA 180/GLA 200), and GLB X247 (GLB 180/GLB 200) — spanning 2018 to present."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M282 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance, 150,000–200,000 miles is achievable. Carbon buildup on intake valves typically requires cleaning around 60,000–80,000 miles; thermostat housing should be inspected at similar intervals. Oil consumption often increases past 100,000 km."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesbenzengine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M282 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M282 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1000",
+            "highPrice": "6000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M282 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M282 1.3L turbo petrol engine, sourced from mercedesbenzengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m282/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M282 • Petrol • 1.3L Turbo I4 • 2018–present",
@@ -80,79 +267,44 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: M282 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 3.0★ out of 5",
-        "value": "Confidence: 74% confidence — based on UK specialist and owner-forum reporting, cross-referenced with recall and TSB data."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "12"
-      },
-      {
-        "metric": "3.0★ × 4 = 12",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "16",
-        "value": "Reconditioned supply midpoint ~£3,900 — threshold £3,000–£4,999 → 16"
-      },
-      {
-        "metric": "Repairability",
-        "value": "12"
-      },
-      {
-        "metric": "Mixed: some repairs straightforward (thermostat, sensors); others more involved (timing chain, carbon cleaning)",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "16",
-        "value": "Well-supported via Mercedes dealer network; shared with Renault/Nissan increases aftermarket availability"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "4"
-      },
-      {
-        "metric": "Reconditioned cost as % of lowest host value — £3,900 on a £3,500–£4,000 car = 98–111% → 4",
-        "value": "Total"
-      },
-      {
-        "metric": "60/100",
-        "value": "One-line verdict: \"The M282 is an efficient, responsive modern turbo-four — but thermostat housing failures and oil consumption are well-documented — buy with full service history and warranty.\""
-      },
-      {
-        "metric": "Best For: Urban commuters and buyers wanting a modern, efficient Mercedes with low running costs.",
-        "value": "Avoid If: Buyers seeking long-term high-mileage durability without proactive maintenance or those who dislike turbo lag."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "3.0★ out of 5",
+    "confidence": "74% confidence — based on UK specialist and owner-forum reporting, cross-referenced with recall and TSB data.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "12 (3.0★ × 4 = 12)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Reconditioned supply midpoint ~£3,900 — threshold £3,000–£4,999 → 16)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mixed: some repairs straightforward (thermostat, sensors); others more involved (timing chain, carbon cleaning))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Well-supported via Mercedes dealer network; shared with Renault/Nissan increases aftermarket availability)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "4 (Reconditioned cost as % of lowest host value — £3,900 on a £3,500–£4,000 car = 98–111% → 4)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "\"The M282 is an efficient, responsive modern turbo-four — but thermostat housing failures and oil consumption are well-documented — buy with full service history and warranty.\"",
+    "bestFor": "Urban commuters and buyers wanting a modern, efficient Mercedes with low running costs.",
+    "avoidIf": "Buyers seeking long-term high-mileage durability without proactive maintenance or those who dislike turbo lag."
   },
   "compatibility": {
     "columns": [

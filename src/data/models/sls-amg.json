@@ -1,24 +1,336 @@
 {
   "meta": {
     "slug": "sls-amg",
-    "title": "SLS AMG Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "SLS AMG Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every SLS AMG engine — M159 naturally-aspirated V8. C197 & R197 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 157,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "SLS AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every SLS AMG engine — M159 naturally-aspirated V8. C197 & R197 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/sls-amg/",
       "image": "",
-      "siteName": ""
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "SLS AMG Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every SLS AMG engine — M159 naturally-aspirated V8. C197 & R197 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLS AMG",
+              "item": "https://mercedesengine.uk/sls-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "SLS AMG Variants",
+          "description": "The three powertrain variants of Mercedes-Benz SLS AMG covered in this guide.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "SLS AMG (2010–2012) — 563 hp",
+              "url": "https://mercedesengine.uk/sls-amg/c197/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLS AMG GT (2013–2014) — 583 hp",
+              "url": "https://mercedesengine.uk/sls-amg/c197/sls-amg-gt/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "SLS AMG Final Edition (2014) — 583 hp",
+              "url": "https://mercedesengine.uk/sls-amg/c197/sls-amg-final-edition/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "SLS AMG Black Series (2013–2014) — 622 hp",
+              "url": "https://mercedesengine.uk/sls-amg/c197/sls-amg-black-series/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "SLS AMG Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz SLS AMG in the UK.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M159 — 6.2L V8 (563–583 hp)",
+              "url": "https://mercedesengine.uk/engines/m159/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M159 Black Series — 6.2L V8 (622 hp)",
+              "url": "https://mercedesengine.uk/engines/m159-black-series/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an SLS AMG engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An SLS AMG M159 engine replacement costs £10,000–£15,000 for a reconditioned unit (supply-only) [MB-QUOTE], with labour adding £1,900–£3,000 (independent specialist) or more at a main dealer. The Black Series M159 can cost £12,000–£18,000 for a recon supply, with labour of £2,400–£3,500 [MB-QUOTE]. Always factor in the DCT transmission health assessment alongside the engine diagnosis—transmission work often requires engine-out access. Use our diagnostic calculator above for a personalised quote based on your vehicle."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SLS AMG engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M159 Black Series engine (2013–2014 Black Series) is the most robust—it received a strengthened bottom end, revised oil pump, altered connecting-rod connections, and revised valve buckets with an anti-friction coating. Among standard cars, the 2013+ GT with revised lifter buckets and camshaft adjusters is the safest buy. The early 2010–2012 cars carry the highest risk of camshaft adjuster wear."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SLS AMG variant should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We don't say 'avoid' outright, but the 2010–2012 SLS AMG carries a real caveat: camshaft adjuster wear, lifter bucket wear, and—on some rare cases—head bolt failure. If you're buying an early car, demand a cold start inspection and, if possible, a bore-scope inspection of the cylinder walls. The 2013+ GT is the sweet spot—stronger engine, better handling, and revised internals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the SLS AMG engine really hand-built?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes—every M159 engine is built by a single AMG technician under the 'One Man, One Engine' philosophy. Each engine has a numbered plaque with the technician's signature. This is a genuine engineering pedigree—but it also means that parts are specialist and labour is intensive."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an SLS AMG engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almost always yes—given the values (£70,000–£200,000+ for standard cars, £250,000–£290,000+ for Black Series), a £10,000–£15,000 recon is a very small percentage of the car's value. The only time it wouldn't be worth it is if the car has suffered catastrophic damage (e.g., a crash that has twisted the chassis) or has full-engine failure with DCT damage—but even then, a specialist may be able to salvage the car as a track-only project."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SLS AMG variant should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 2013+ SLS AMG GT is the unequivocal recommendation—it's the sweet spot of reliability, performance, and value. If your budget is tighter, the 2010–2012 SLS AMG is a solid alternative—but demand a cold start inspection and factor in the potential camshaft adjuster replacement cost. The Final Edition is a collectible—buy only if you're a collector and the car has full service history. The Black Series is a different world—buy only if you're a serious collector and the car has documented track history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my SLS AMG engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN—on the SLS AMG, this will be M159. You can also find it on the engine block itself—it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "SLS AMG vs AMG GT — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They're different generations—the SLS AMG uses the naturally-aspirated M159 V8, while the AMG GT uses the twin-turbocharged M178 V8. The M159 is simpler and more robust in some ways (no turbochargers to fail), but parts are more expensive and harder to find. The M178 is more modern, with better emissions and fuel economy, but adds turbocharger complexity. For reliability, the M159 is the purist's choice; the M178 is the modern one. Choose the SLS for gullwing doors and heritage; choose the AMG GT for daily usability and modern performance. Read the full comparison: SLS AMG vs AMG GT → /compare/sls-amg-vs-amg-gt/"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/logo.png",
+          "sameAs": [],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "SLS AMG Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "6000",
+            "highPrice": "18000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "SLS AMG UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for SLS AMG engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "SLS AMG Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/sls-amg/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        },
+        {
+          "@type": "EngineSpecification",
+          "name": "SLS AMG Engine Codes Database",
+          "description": "Every engine code fitted to the Mercedes-Benz SLS AMG in the UK, with reliability ratings and cost data.",
+          "engineType": [
+            "M159",
+            "M159 Black Series"
+          ],
+          "fuelType": [
+            "Petrol"
+          ],
+          "engineDisplacement": "6.2L",
+          "enginePower": [
+            "563 hp",
+            "583 hp",
+            "622 hp"
+          ],
+          "torque": [
+            "650 Nm",
+            "650 Nm",
+            "650 Nm"
+          ],
+          "engineConfiguration": "Naturally-aspirated V8"
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz SLS AMG M159 Engine Replacement Service",
+          "description": "Professional SLS AMG M159 V8 engine replacement services from a vetted UK network of Mercedes-Benz specialists. Used, reconditioned and rebuilt options available for standard and Black Series variants.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-AMG"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "6000",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz SLS AMG Black Series M159 Engine Replacement Service",
+          "description": "Professional SLS AMG Black Series M159 V8 engine replacement services from a vetted UK network of Mercedes-Benz specialists. Strengthened bottom end, revised oil pump and connecting-rod connections.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-AMG"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "12000",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Car",
+          "name": "Mercedes-Benz SLS AMG",
+          "description": "The Mercedes-Benz SLS AMG (C197/R197) is a front-mid-engined supercar produced from 2010 to 2015. Powered by the M159 6.2L naturally-aspirated V8, it revived the 300SL gullwing legend.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Mercedes-AMG"
+          },
+          "productionDate": "2010–2015",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "M159 6.2L V8",
+            "fuelType": "Petrol",
+            "engineDisplacement": "6.2L",
+            "enginePower": {
+              "@type": "QuantitativeValue",
+              "value": "563",
+              "unitCode": "BHP"
+            },
+            "torque": {
+              "@type": "QuantitativeValue",
+              "value": "650",
+              "unitCode": "Nm"
+            }
+          },
+          "numberOfDoors": "2",
+          "bodyType": "Coupe / Roadster"
+        },
+        {
+          "@type": "Car",
+          "name": "Mercedes-Benz SLS AMG Black Series",
+          "description": "The track-focused, stripped-out SLS AMG Black Series produced from 2013 to 2014. Powered by the M159 Black Series 6.2L V8 with 622 hp and a strengthened bottom end.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-AMG"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Mercedes-AMG"
+          },
+          "productionDate": "2013–2014",
+          "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "M159 Black Series 6.2L V8",
+            "fuelType": "Petrol",
+            "engineDisplacement": "6.2L",
+            "enginePower": {
+              "@type": "QuantitativeValue",
+              "value": "622",
+              "unitCode": "BHP"
+            },
+            "torque": {
+              "@type": "QuantitativeValue",
+              "value": "650",
+              "unitCode": "Nm"
+            }
+          },
+          "numberOfDoors": "2",
+          "bodyType": "Coupe"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • SLS AMG • 2010–2015 • 1 Generation • C197 / R197 • M159 V8 • M159 Black Series",
@@ -386,7 +698,48 @@
   },
   "faq": {
     "h2": "SLS AMG Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an SLS AMG engine replacement cost in the UK?",
+        "answer": "An SLS AMG M159 engine replacement costs £10,000–£15,000 for a reconditioned unit (supply‑only) [MB-QUOTE], with labour adding £1,900–£3,000 (independent specialist) or more at a main dealer. The Black Series M159 can cost £12,000–£18,000 for a recon supply, with labour of £2,400–£3,500 [MB-QUOTE]. Always factor in the DCT transmission health assessment alongside the engine diagnosis—transmission work often requires engine‑out access. Use our diagnostic calculator above for a personalised quote based on your vehicle."
+      },
+      {
+        "id": 2,
+        "question": "Which SLS AMG engine is the most reliable?",
+        "answer": "The M159 Black Series engine (2013–2014 Black Series) is the most robust—it received a strengthened bottom end, revised oil pump, altered connecting‑rod connections, and revised valve buckets with an anti‑friction coating. Among standard cars, the 2013+ GT with revised lifter buckets and camshaft adjusters is the safest buy. The early 2010–2012 cars carry the highest risk of camshaft adjuster wear."
+      },
+      {
+        "id": 3,
+        "question": "Which SLS AMG variant should I avoid?",
+        "answer": "We don't say \"avoid\" outright, but the 2010–2012 SLS AMG carries a real caveat: camshaft adjuster wear, lifter bucket wear, and—on some rare cases—head bolt failure. If you're buying an early car, demand a cold start inspection and, if possible, a bore‑scope inspection of the cylinder walls. The 2013+ GT is the sweet spot—stronger engine, better handling, and revised internals."
+      },
+      {
+        "id": 4,
+        "question": "Is the SLS AMG engine really hand‑built?",
+        "answer": "Yes—every M159 engine is built by a single AMG technician under the \"One Man, One Engine\" philosophy. Each engine has a numbered plaque with the technician's signature. This is a genuine engineering pedigree—but it also means that parts are specialist and labour is intensive."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing an SLS AMG engine?",
+        "answer": "Almost always yes—given the values (£70,000–£200,000+ for standard cars, £250,000–£290,000+ for Black Series), a £10,000–£15,000 recon is a very small percentage of the car's value. The only time it wouldn't be worth it is if the car has suffered catastrophic damage (e.g., a crash that has twisted the chassis) or has full‑engine failure with DCT damage—but even then, a specialist may be able to salvage the car as a track‑only project."
+      },
+      {
+        "id": 6,
+        "question": "Which SLS AMG variant should I buy?",
+        "answer": "The 2013+ SLS AMG GT is the unequivocal recommendation—it's the sweet spot of reliability, performance, and value. If your budget is tighter, the 2010–2012 SLS AMG is a solid alternative—but demand a cold start inspection and factor in the potential camshaft adjuster replacement cost. The Final Edition is a collectible—buy only if you're a collector and the car has full service history. The Black Series is a different world—buy only if you're a serious collector and the car has documented track history."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my SLS AMG engine code?",
+        "answer": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN—on the SLS AMG, this will be M159. You can also find it on the engine block itself—it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+      },
+      {
+        "id": 8,
+        "question": "SLS AMG vs AMG GT — which is more reliable?",
+        "answer": "They're different generations—the SLS AMG uses the naturally‑aspirated M159 V8, while the AMG GT uses the twin‑turbocharged M178 V8. The M159 is simpler and more robust in some ways (no turbochargers to fail), but parts are more expensive and harder to find. The M178 is more modern, with better emissions and fuel economy, but adds turbocharger complexity. For reliability, the M159 is the purist's choice; the M178 is the modern one. Choose the SLS for gullwing doors and heritage; choose the AMG GT for daily usability and modern performance. Read the full comparison: SLS AMG vs AMG GT →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

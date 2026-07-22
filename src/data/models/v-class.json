@@ -1,24 +1,229 @@
 {
   "meta": {
     "slug": "v-class",
-    "title": "V-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "V-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every V-Class engine — OM651 and OM654 diesels. Pre and post-2019 facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 153,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "V-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every V-Class engine — OM651 and OM654 diesels. Pre and post-2019 facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/v-class/",
+      "image": "https://mercedesengine.uk/images/models/mercedes-v-class-hero.jpg",
+      "siteName": "MercedesEngines.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "V-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every V-Class engine — OM651 and OM654 diesels. Pre and post-2019 facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "V-Class",
+              "item": "https://mercedesengine.uk/v-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "V-Class Engine Eras",
+          "description": "The two engine eras of the Mercedes-Benz V-Class covered in this guide.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W447 V-Class Pre-Facelift (2014–2019) — OM651",
+              "url": "https://mercedesengine.uk/v-class/w447-pre-facelift/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W447 V-Class Facelift (2019–present) — OM654",
+              "url": "https://mercedesengine.uk/v-class/w447-facelift/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "V-Class Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz V-Class, with reliability ratings and cost data.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651.911 / .912 / .913",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM651.916 / .921 / .924",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM651.925 / .930 / .940",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM654.920 (163 PS)",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM654.920 (190 PS)",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM654.920 (239 PS)",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a V-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A V-Class engine replacement typically costs £1,500–£4,000 supply-only depending on engine type and condition. OM651 2.2-litre diesel: £1,500–£3,200 reconditioned. OM654 2.0-litre diesel: £1,800–£4,000 reconditioned [PLACEHOLDER — confirm vs cost sheet]. Labour adds 10–14 hours at £65–£95/hr independent or £110–£160/hr dealer. Use our calculator above for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which V-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0-litre diesel in the 2019+ facelift V-Class is materially more reliable than the older OM651. It has fewer reported timing chain and injector issues, better fuel economy, and comes with the 9G-Tronic gearbox. The OM651 is a workhorse but carries well-documented risks on higher-mileage examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which V-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 2.2-litre diesel in pre-2019 V-Class models — especially higher-mileage examples without documented timing chain and injector history. The timing chain stretch and injector faults are well-documented, and the replacement cost is significant. If you're buying a pre-2019 V-Class, factor in a £1,500–£2,500 contingency for potential OM651 work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the V-Class OM651 timing chain issue real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — it's the most common V-Class engine problem. The timing chain can stretch and the guides can wear, causing rattling on cold start and eventually cam/crank correlation codes. Most common on vehicles over 80,000 miles. Repair cost: £800–£1,800 for chain replacement. Ignore it and it can lead to catastrophic engine failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a V-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on generation and condition. A pre-2019 V 250 d worth £13,000–£18,000 — a £1,800–£3,200 reconditioned OM651 is viable (10–25% of vehicle value). A 2019+ V 250 d worth £25,000–£40,000 — a £2,000–£3,500 OM654 recon is well within value (5–14%). Apply the 70% threshold: if replacement cost exceeds 70% of the car's value, get a scrap valuation first — but on a V-Class, that's almost never the case."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which V-Class should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 2019+ facelift with the OM654 engine — specifically the V 250 d or V 300 d. The OM654 is materially more reliable, more efficient, and comes with the 9G-Tronic gearbox. The pre-2019 OM651 cars are cheaper to buy but carry higher long-term risk. If your budget doesn't stretch to a facelift, buy the newest pre-2019 car you can find with full service history and evidence of timing chain work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my V-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is stamped on the engine block — look for a metal plate on the passenger side of the engine (left-hand side when viewed from the front). For the OM651, the code is visible on the front of the engine near the oil filter housing. For the OM654, it's located on the driver's side of the cylinder head. You can also find the engine code in your V5C registration document, or by entering your VIN into an online Mercedes decoder. Not sure? Our diagnostic calculator can help identify your engine from your symptoms and vehicle details."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "V-Class vs Viano — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The V-Class replaced the Viano in 2014, and it's a significantly more modern vehicle. The Viano (W639, 2003–2014) used the OM642 V6 diesel and OM646 four-cylinder diesel — both good engines in their day, but the V-Class is newer, better built, and more refined. The OM651 and OM654 in the V-Class are both superior to the Viano's engines in terms of efficiency and power. Buy the V-Class unless you have a specific budget constraint."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          },
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "V-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "4000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "V-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for V-Class engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "V-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/v-class/",
+          "description": "Every V-Class engine — OM651 and OM654 diesels. Pre and post-2019 facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • V-Class • 2014–present • 1 Generation • OM651 • OM654",
@@ -626,7 +831,48 @@
   },
   "faq": {
     "h2": "V-Class Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a V-Class engine replacement cost in the UK?",
+        "answer": "A V-Class engine replacement typically costs £1,500–£4,000 supply-only depending on engine type and condition. OM651 2.2-litre diesel: £1,500–£3,200 reconditioned. OM654 2.0-litre diesel: £1,800–£4,000 reconditioned [PLACEHOLDER — confirm vs cost sheet]. Labour adds 10–14 hours at £65–£95/hr independent or £110–£160/hr dealer. Use our calculator above for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which V-Class engine is the most reliable?",
+        "answer": "The OM654 2.0-litre diesel in the 2019+ facelift V-Class is materially more reliable than the older OM651. It has fewer reported timing chain and injector issues, better fuel economy, and comes with the 9G-Tronic gearbox. The OM651 is a workhorse but carries well-documented risks on higher-mileage examples."
+      },
+      {
+        "id": 3,
+        "question": "Which V-Class engine should I avoid?",
+        "answer": "The OM651 2.2-litre diesel in pre-2019 V-Class models — especially higher-mileage examples without documented timing chain and injector history. The timing chain stretch and injector faults are well-documented, and the replacement cost is significant. If you're buying a pre-2019 V-Class, factor in a £1,500–£2,500 contingency for potential OM651 work."
+      },
+      {
+        "id": 4,
+        "question": "Is the V-Class OM651 timing chain issue real?",
+        "answer": "Yes — it's the most common V-Class engine problem. The timing chain can stretch and the guides can wear, causing rattling on cold start and eventually cam/crank correlation codes. Most common on vehicles over 80,000 miles. Repair cost: £800–£1,800 for chain replacement. Ignore it and it can lead to catastrophic engine failure."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a V-Class engine?",
+        "answer": "It depends on generation and condition. A pre-2019 V 250 d worth £13,000–£18,000 — a £1,800–£3,200 reconditioned OM651 is viable (10–25% of vehicle value). A 2019+ V 250 d worth £25,000–£40,000 — a £2,000–£3,500 OM654 recon is well within value (5–14%). Apply the 70% threshold: if replacement cost exceeds 70% of the car's value, get a scrap valuation first — but on a V-Class, that's almost never the case."
+      },
+      {
+        "id": 6,
+        "question": "Which V-Class should I buy?",
+        "answer": "The 2019+ facelift with the OM654 engine — specifically the V 250 d or V 300 d. The OM654 is materially more reliable, more efficient, and comes with the 9G-Tronic gearbox. The pre-2019 OM651 cars are cheaper to buy but carry higher long-term risk. If your budget doesn't stretch to a facelift, buy the newest pre-2019 car you can find with full service history and evidence of timing chain work."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my V-Class engine code?",
+        "answer": "The engine code is stamped on the engine block — look for a metal plate on the passenger side of the engine (left-hand side when viewed from the front). For the OM651, the code is visible on the front of the engine near the oil filter housing. For the OM654, it's located on the driver's side of the cylinder head. You can also find the engine code in your V5C registration document, or by entering your VIN into an online Mercedes decoder. Not sure? Our diagnostic calculator can help identify your engine from your symptoms and vehicle details."
+      },
+      {
+        "id": 8,
+        "question": "V-Class vs Viano — which is more reliable?",
+        "answer": "The V-Class replaced the Viano in 2014, and it's a significantly more modern vehicle. The Viano (W639, 2003–2014) used the OM642 V6 diesel and OM646 four-cylinder diesel — both good engines in their day, but the V-Class is newer, better built, and more refined. The OM651 and OM654 in the V-Class are both superior to the Viano's engines in terms of efficiency and power. Buy the V-Class unless you have a specific budget constraint."
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

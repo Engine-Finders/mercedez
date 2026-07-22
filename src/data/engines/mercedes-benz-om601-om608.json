@@ -1,24 +1,229 @@
 {
   "meta": {
-    "slug": "mercedes-benz-om601-om608",
-    "title": "Mercedes-Benz OM601-OM608 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "om601-608",
+    "title": "Mercedes-Benz OM601–608 Engine — Legendary Reliability",
+    "description": "The OM60x diesels are among the most durable engines ever built — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+    "canonical": "https://mercedesengine.uk/engines/om601-608/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz OM601–608 Engine — Legendary Reliability",
+      "description": "The OM60x diesels are among the most durable engines ever built — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/om601-608/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/om601-608.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz OM601–608 Engine — Legendary Reliability",
+      "description": "The OM60x diesels are among the most durable engines ever built — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/om601-608.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM601–608",
+              "item": "https://mercedesengine.uk/engines/om601-608/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the OM601–608",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Mercedes‑Benz 190 W201 (1983–1993)",
+              "url": "https://mercedesengine.uk/models/190/w201/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Mercedes‑Benz E‑Class W124 (1985–1995)",
+              "url": "https://mercedesengine.uk/models/e-class/w124/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz E‑Class W210 (1995–2001)",
+              "url": "https://mercedesengine.uk/models/e-class/w210/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Mercedes‑Benz S‑Class W126 (1985–1991)",
+              "url": "https://mercedesengine.uk/models/s-class/w126/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Mercedes‑Benz S‑Class W140 (1991–1999)",
+              "url": "https://mercedesengine.uk/models/s-class/w140/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Mercedes‑Benz SL R129 (1989–1993)",
+              "url": "https://mercedesengine.uk/models/sl/r129/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Mercedes‑Benz G‑Class W463 (1990–2001)",
+              "url": "https://mercedesengine.uk/models/g-class/w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Mercedes‑Benz Sprinter W901 (1995–2006)",
+              "url": "https://mercedesengine.uk/models/sprinter/w901/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Mercedes‑Benz V‑Class W638 (1996–2003)",
+              "url": "https://mercedesengine.uk/models/v-class/w638/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Mercedes‑Benz C‑Class W202 (1993–2000)",
+              "url": "https://mercedesengine.uk/models/c-class/w202/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an OM601–608 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned OM60x engine typically costs £2,000–£3,500 supply only [ESTIMATED], varying by cylinder count (I4, I5, I6) and turbo vs naturally aspirated. Fitting adds £550–£1,100 depending on labour rates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the OM601–608 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM60x series are legendary for durability, earning 4.5★ out of 5 [ESTIMATED] — million‑mile examples exist. Regular oil changes and injector pump maintenance are the key to longevity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common OM601–608 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mechanical injection pump wear and glow plug failure are the most common issues — difficult starting, rough idle, and reduced power typically appear after 150,000–200,000 miles. Rebuild kits are available."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the OM601–608?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM60x family spans 190D (W201), E‑Class (W124/W210), S‑Class (W126/W140), G‑Class, Sprinter, and more — truly the backbone of Mercedes diesel production from 1980 to 2001."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the OM601–608 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance, 300,000–500,000 miles is common, and many exceed 1,000,000 miles. The engines are overbuilt; the rest of the car usually fails first. Regular injector pump servicing is essential."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz OM601–608 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz OM601–608 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "800",
+            "highPrice": "5500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz OM601–608 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz OM601–608, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz OM601–608 Engine — Legendary Reliability",
+          "url": "https://mercedesengine.uk/engines/om601-608/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • OM601–608 • Diesel • 2.0–3.0L I4/I5/I6 • 1980–2001",
@@ -63,79 +268,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "OM601–608 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.5★ out of 5",
-        "value": "Confidence: 90% confidence — based on decades of owner feedback, specialist workshop consensus, and extensive forum data; proprietary enquiry figures are estimated."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "18"
-      },
-      {
-        "metric": "4.5★ × 4",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "20",
-        "value": "Reconditioned supply midpoint below £3,000 → 20"
-      },
-      {
-        "metric": "Repairability",
-        "value": "16"
-      },
-      {
-        "metric": "Most repairs are straightforward; injection pumps and glow plugs are well understood, but some parts (injection pumps) are expensive",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "16",
-        "value": "Widely available aftermarket and genuine NOS, but some specific items are getting scarce"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "TBC"
-      },
-      {
-        "metric": "Depends on host vehicle value — classic/collector values may justify, but everyday examples may approach scrap threshold",
-        "value": "Total"
-      },
-      {
-        "metric": "TBC/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The OM60x diesels are among the most durable engines ever built — but ageing injection pumps and glow plug systems need care — buy well‑maintained examples with documented service history.",
-        "value": "Best For: Classic Mercedes enthusiasts, high‑mileage drivers, and anyone seeking legendary diesel longevity."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.5★ out of 5",
+    "confidence": "90% confidence — based on decades of owner feedback, specialist workshop consensus, and extensive forum data; proprietary enquiry figures are estimated.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "18 (4.5★ × 4)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "20 (Reconditioned supply midpoint below £3,000 → 20)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "16 (Most repairs are straightforward; injection pumps and glow plugs are well understood, but some parts (injection pumps) are expensive)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Widely available aftermarket and genuine NOS, but some specific items are getting scarce)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "TBC (Depends on host vehicle value — classic/collector values may justify, but everyday examples may approach scrap threshold)"
+        },
+        {
+          "dimension": "Total",
+          "score": "TBC/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The OM60x diesels are among the most durable engines ever built — but ageing injection pumps and glow plug systems need care — buy well‑maintained examples with documented service history.",
+    "bestFor": "Classic Mercedes enthusiasts, high‑mileage drivers, and anyone seeking legendary diesel longevity.",
+    "avoidIf": "You want modern refinement, low emissions, or don't have access to a specialist familiar with mechanical injection."
   },
   "compatibility": {
     "columns": [

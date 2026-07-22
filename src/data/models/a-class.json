@@ -1,24 +1,331 @@
 {
   "meta": {
     "slug": "a-class",
-    "title": "A-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "A-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 50,
+    "description": "Every A-Class engine — M270, OM651, OM654, M282. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 155,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "A-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every A-Class engine — M270, OM651, OM654, M282. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/a-class/",
       "image": "",
-      "siteName": ""
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "A-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every A-Class engine — M270, OM651, OM654, M282. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "A-Class",
+              "item": "https://mercedesengine.uk/a-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "A-Class Generations",
+          "description": "The four generations of Mercedes-Benz A-Class covered in this guide.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W168 (1997–2004)",
+              "url": "https://mercedesengine.uk/a-class/w168/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W169 (2004–2012)",
+              "url": "https://mercedesengine.uk/a-class/w169/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W176 (2012–2018)",
+              "url": "https://mercedesengine.uk/a-class/w176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "W177 (2018–present)",
+              "url": "https://mercedesengine.uk/a-class/w177/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "A-Class Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz A-Class in the UK.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M166 — 1.4–1.6L Petrol",
+              "url": "https://mercedesengine.uk/engines/m166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM668 — 1.7L Diesel",
+              "url": "https://mercedesengine.uk/engines/om668/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M266 — 1.5–2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m266/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM640 — 2.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om640/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M270 — 1.6–2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM651 — 2.1L Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM607 — 1.5L Diesel",
+              "url": "https://mercedesengine.uk/engines/om607/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M133 — 2.0L Turbo Petrol (AMG)",
+              "url": "https://mercedesengine.uk/engines/m133/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M282 — 1.3L Petrol",
+              "url": "https://mercedesengine.uk/engines/m282/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M260 — 2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m260/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "M139 — 2.0L Turbo Petrol (AMG)",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "OM608 — 1.5L Diesel",
+              "url": "https://mercedesengine.uk/engines/om608/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "OM654 — 2.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an A-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A full A-Class engine replacement costs £2,800–£5,000 for a reconditioned unit (supply-only) [MB-QUOTE], with labour adding £520–£780 (independent) or more in London/SE. The exact figure depends on your engine code: OM651 and OM654 are the most common, while AMG engines (M133/M139) can cost £8,000–£14,000 for a recon supply. Use our diagnostic calculator above for a personalised quote based on your engine and vehicle value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which A-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel (fitted to the W177 facelift from 2022) is the most reliable A-Class engine — it has materially fewer failure reports than the OM651 and a much cleaner emissions design. Among petrols, the M270 (W176) and M282 (W177) are both robust, with the M282 being especially reliable due to its simpler turbocharged design."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which A-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We don't say 'avoid' outright, but the OM651 diesel (W176, 2012–2018) carries a real caveat: 'Black Death' injector seal failure and rear-timing-chain complexity. It's a manageable, preventable issue with regular servicing — but buy only with documented injector service history. We also advise against any W168/W169 engine if you're looking for a daily driver — parts are scarce and replacement costs often exceed vehicle value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the A-Class timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the OM651 diesel's timing chain sits at the gearbox end, making replacement labour-intensive (8–12 hours). Early warning signs are a rattle on cold start and erratic idle. On the M270 petrol, timing chain stretch is less common but can occur on high-mileage examples. If you hear a rattle, have it inspected immediately — chain replacement costs £600–£1,500, but a snapped chain can write off the engine."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an A-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on your generation. For a W177 (£18,000–£35,000 value), a £3,000–£5,000 recon is well within the 70% threshold — worth it. For a W176 (£5,000–£14,000), an OM651 recon at £2,800–£4,800 can exceed 70% on lower-value examples — run the numbers. For a W168/W169 (under £5,000), a replacement almost never makes financial sense — scrap it unless you're a classic enthusiast."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which A-Class generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W177 (2018+) is the unequivocal recommendation — it's the safest, most reliable, and best-value used buy. If your budget is tighter, the W176 (2015+ facelift) with the M270 petrol is a solid alternative — avoid pre-2015 OM651 diesels unless you have full service records. Avoid the W168 and W169 unless you're buying a classic project."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my A-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN (e.g. 'OM651' or 'M270'). You can also find it on the engine block itself — on most A-Classes, it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "A-Class vs CLA — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They share engines — the CLA is essentially a four-door coupe version of the A-Class, so reliability is identical for the same powertrain. The difference is styling and practicality: the CLA offers a sleeker profile but less rear headroom and boot space. If you value space, buy the A-Class; if you want style, buy the CLA — but for reliability, both are equal. Read the full comparison: A-Class vs CLA → /compare/a-class-vs-cla/"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/logo.png",
+          "sameAs": [],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "A-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "5000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "A-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for A-Class engines, sourced from MercedesEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "A-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/a-class/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        },
+        {
+          "@type": "EngineSpecification",
+          "name": "A-Class Engine Codes Database",
+          "description": "Every engine code fitted to the Mercedes-Benz A-Class in the UK, with reliability ratings and cost data.",
+          "engineType": [
+            "M166",
+            "OM668",
+            "M266",
+            "OM640",
+            "M270",
+            "OM651",
+            "OM607",
+            "M133",
+            "M282",
+            "M260",
+            "M139",
+            "OM608",
+            "OM654"
+          ],
+          "fuelType": [
+            "Petrol",
+            "Diesel"
+          ],
+          "engineDisplacement": [
+            "1.4L",
+            "1.6L",
+            "1.7L",
+            "1.5L",
+            "2.0L",
+            "2.1L",
+            "1.3L"
+          ]
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz A-Class Engine Replacement Service",
+          "description": "Professional A-Class engine replacement services from a vetted UK network of Mercedes-Benz specialists. Used, reconditioned and rebuilt options available.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "5000",
+            "availability": "https://schema.org/InStock"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • A-Class • 1997–Present • 4 Generations • M166 • OM668 • M266 • M270 • OM651 • M282 • OM608",
@@ -672,7 +979,48 @@
   },
   "faq": {
     "h2": "A‑Class Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an A‑Class engine replacement cost in the UK?",
+        "answer": "A full A‑Class engine replacement costs £2,800–£5,000 for a reconditioned unit (supply‑only) [MB-QUOTE], with labour adding £520–£780 (independent) or more in London/SE. The exact figure depends on your engine code: OM651 and OM654 are the most common, while AMG engines (M133/M139) can cost £8,000–£14,000 for a recon supply. Use our diagnostic calculator above for a personalised quote based on your engine and vehicle value."
+      },
+      {
+        "id": 2,
+        "question": "Which A‑Class engine is the most reliable?",
+        "answer": "The OM654 diesel (fitted to the W177 facelift from 2022) is the most reliable A‑Class engine — it has materially fewer failure reports than the OM651 and a much cleaner emissions design. Among petrols, the M270 (W176) and M282 (W177) are both robust, with the M282 being especially reliable due to its simpler turbocharged design."
+      },
+      {
+        "id": 3,
+        "question": "Which A‑Class engine should I avoid?",
+        "answer": "We don't say \"avoid\" outright, but the OM651 diesel (W176, 2012–2018) carries a real caveat: \"Black Death\" injector seal failure and rear‑timing‑chain complexity. It's a manageable, preventable issue with regular servicing — but buy only with documented injector service history. We also advise against any W168/W169 engine if you're looking for a daily driver — parts are scarce and replacement costs often exceed vehicle value."
+      },
+      {
+        "id": 4,
+        "question": "Is the A‑Class timing chain problem real?",
+        "answer": "Yes — the OM651 diesel's timing chain sits at the gearbox end, making replacement labour‑intensive (8–12 hours). Early warning signs are a rattle on cold start and erratic idle. On the M270 petrol, timing chain stretch is less common but can occur on high‑mileage examples. If you hear a rattle, have it inspected immediately — chain replacement costs £600–£1,500, but a snapped chain can write off the engine."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing an A‑Class engine?",
+        "answer": "It depends on your generation. For a W177 (£18,000–£35,000 value), a £3,000–£5,000 recon is well within the 70% threshold — worth it. For a W176 (£5,000–£14,000), an OM651 recon at £2,800–£4,800 can exceed 70% on lower‑value examples — run the numbers. For a W168/W169 (under £5,000), a replacement almost never makes financial sense — scrap it unless you're a classic enthusiast."
+      },
+      {
+        "id": 6,
+        "question": "Which A‑Class generation should I buy?",
+        "answer": "The W177 (2018+) is the unequivocal recommendation — it's the safest, most reliable, and best‑value used buy. If your budget is tighter, the W176 (2015+ facelift) with the M270 petrol is a solid alternative — avoid pre‑2015 OM651 diesels unless you have full service records. Avoid the W168 and W169 unless you're buying a classic project."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my A‑Class engine code?",
+        "answer": "The easiest way is to check your VIN plate (visible through the windscreen, or on the driver's door pillar). The engine code is characters 6–8 of the VIN (e.g. \"OM651\" or \"M270\"). You can also find it on the engine block itself — on most A‑Classes, it's stamped on the front of the cylinder head or on a sticker near the timing cover. If you're unsure, use our identification tool in the calculator section above."
+      },
+      {
+        "id": 8,
+        "question": "A‑Class vs CLA — which is more reliable?",
+        "answer": "They share engines — the CLA is essentially a four‑door coupe version of the A‑Class, so reliability is identical for the same powertrain. The difference is styling and practicality: the CLA offers a sleeker profile but less rear headroom and boot space. If you value space, buy the A‑Class; if you want style, buy the CLA — but for reliability, both are equal. Read the full comparison: A‑Class vs CLA →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

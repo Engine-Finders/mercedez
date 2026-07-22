@@ -1,24 +1,295 @@
 {
   "meta": {
     "slug": "s-class",
-    "title": "S-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "S-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every S-Class engine — OM642, OM651, M276, OM654, M177. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 158,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "S-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every S-Class engine — OM642, OM651, M276, OM654, M177. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/s-class/",
       "image": "",
-      "siteName": ""
+      "siteName": "MercedesEngines.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "S-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every S-Class engine — OM642, OM651, M276, OM654, M177. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S-Class",
+              "item": "https://mercedesengine.uk/s-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "S-Class Generations",
+          "description": "All Mercedes-Benz S-Class generations from W140 to W223",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W140 (1991–1998)",
+              "url": "https://mercedesengine.uk/s-class/w140/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W220 (1999–2005)",
+              "url": "https://mercedesengine.uk/s-class/w220/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W221 (2006–2013)",
+              "url": "https://mercedesengine.uk/s-class/w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "W222 (2013–2020)",
+              "url": "https://mercedesengine.uk/s-class/w222/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "W223 (2021–present)",
+              "url": "https://mercedesengine.uk/s-class/w223/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "S-Class Engine Codes",
+          "description": "Complete Mercedes-Benz S-Class engine code database",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM642 3.0 V6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM651 2.1 Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276 3.0 V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM654 2.0 Diesel",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M177 4.0 V8 Biturbo",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an S-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An S-Class engine replacement typically costs £2,800–£18,000 supply-only, depending on generation and engine variant. The OM651 four-cylinder diesel is the cheapest to replace (£2,800–£4,800 reconditioned, supply-only [MB-QUOTE]); the M177 AMG V8 is the most expensive (£8,000–£14,000 recon, £12,000–£18,000 rebuilt [MB-QUOTE]). Labour adds £650–£1,560 at independent rates, or significantly more at dealer rates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which S-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 (2016–present) carries the cleanest reliability record in our 2025 data — 520 platform enquiries [MB-VERIFIED] weighted toward routine maintenance rather than catastrophic failure. The OM642 is a close second — the oil cooler seal is labour-intensive but not catastrophic. The M276 petrol is also reliable, but timing chain stretch on earlier examples (2010–2013) is a real risk."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which S-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No S-Class engine is a blanket 'avoid' — but the W222 S350 with OM651 (2013–2016) carries a real, well-documented caveat: 'Black Death' injector seal failure. Buy a 2013–2016 W222 S350 only with documented injector-seal history, or budget £400–£1,200 for a preventative seal replacement. The 2016+ W222 S350d with OM654 is the one to buy."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the S-Class timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — but it's generation-specific. The W221 M276 V6 petrol (2010–2013) carries a real timing chain stretch risk, with cold-start rattle as the primary warning sign. The W222 M276 (2014–2016) has a revised tensioner design that materially reduces the failure rate. Symptoms to watch for: cold-start rattle (petrol) or a metallic tapping noise on startup (diesel), both requiring immediate specialist inspection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an S-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on the generation. A £3,200–£5,500 OM642 recon in a £5,000–£18,000 W221 sits at 31–64% on high-value examples and 64–110% on low-value ones — 🔴 scrap threshold on sub-£8k W221 examples. The same OM642 recon in a £15,000–£45,000 W222 sits at just 7–37% — ✅ safe across all examples. If you're buying a W221, factor in the possibility of a £5,000 engine failure. If you're buying a W222, replace with confidence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which S-Class generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W222 (2013–2020) with OM654 (2016+) is the S-Class to buy. It's the high-water mark of S-Class build quality — significantly better than the W221, and the last generation before the W223's touchscreen-everything interior. The OM654 diesel is the cleanest modern option. Typical values (£15,000–£45,000) have absorbed the steepest depreciation, and the replacement-cost-to-value ratio is comfortably within the 70% safe zone."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my S-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your S-Class engine code can be found in three places: VIN plate on the driver's side door pillar (engine code is usually in the 7th and 8th positions), vehicle documentation (your V5C logbook lists the engine number), or engine block stamping (on the OM642, it's on the left-hand side near the front; on the M276, it's on the top under the plastic cover). An 'S350' badge can mean OM642, OM651, or OM654 — check the VIN or registration year to confirm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "S-Class vs E-Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The S-Class W222 (2016+) with OM654 and the E-Class W213 (2016+) with OM654 share the same engine — and both carry a ✅ Safe verdict. Buy the E-Class if you're budget-conscious and want 80% of the experience for 50% of the running cost. Buy the S-Class if you want the flagship experience and can absorb the higher running costs. Both are reliable — but the S-Class's complexity means it costs more to fix when it does break."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "sameAs": [],
+          "description": "The UK's most trusted Mercedes-Benz ownership guide — reliability rankings, real failure data, honest repair-vs-replace economics for every A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG ever sold in the UK."
+        },
+        {
+          "@type": "Service",
+          "serviceType": "S-Class Engine Replacement",
+          "description": "Mercedes-Benz S-Class engine replacement, reconditioning and repair services across the UK",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2800",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock",
+            "availabilityStarts": "2025-01-01",
+            "availabilityEnds": "2026-12-31"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "S-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz S-Class engines, sourced from MercedesEngines.uk's specialist marketplace activity — 2,400+ real enquiries, 5 engine codes tracked.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025-01-01/2025-12-31",
+          "spatialCoverage": "United Kingdom",
+          "keywords": "S-Class engine, S-Class reliability, S-Class failure, OM642, OM651, M276, OM654, M177",
+          "isAccessibleForFree": true
+        },
+        {
+          "@type": "WebPage",
+          "name": "S-Class Engine Replacement Cost UK — Compare Quotes",
+          "description": "Every S-Class engine — OM642, OM651, M276, OM654, M177. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+          "url": "https://mercedesengine.uk/s-class/",
+          "inLanguage": "en-GB",
+          "about": {
+            "@type": "Vehicle",
+            "name": "Mercedes-Benz S-Class",
+            "vehicleEngine": [
+              {
+                "@type": "EngineSpecification",
+                "name": "OM642",
+                "fuelType": "Diesel",
+                "engineDisplacement": "3.0L",
+                "enginePower": "231–265 bhp",
+                "productionDate": "2006–2020"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "OM651",
+                "fuelType": "Diesel",
+                "engineDisplacement": "2.1L",
+                "enginePower": "170–204 bhp",
+                "productionDate": "2013–2016"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "M276",
+                "fuelType": "Petrol",
+                "engineDisplacement": "3.0L",
+                "enginePower": "329–362 bhp",
+                "productionDate": "2010–2020"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "OM654",
+                "fuelType": "Diesel",
+                "engineDisplacement": "2.0L",
+                "enginePower": "194–265 bhp",
+                "productionDate": "2016–present"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "M177",
+                "fuelType": "Petrol",
+                "engineDisplacement": "4.0L",
+                "enginePower": "503–621 bhp",
+                "productionDate": "2014–present"
+              }
+            ]
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://mercedesengine.uk/s-class/"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • S-Class • 1991–Present • 7 Generations • OM642 • OM651 • M276 • OM654 • M177",
@@ -602,6 +873,41 @@
     "items": [
       {
         "id": 1,
+        "question": "How much does an S-Class engine replacement cost in the UK?",
+        "answer": "An S-Class engine replacement typically costs £2,800–£18,000 supply-only, depending on generation and engine variant. The OM651 four-cylinder diesel is the cheapest to replace (£2,800–£4,800 reconditioned, supply-only [MB-QUOTE]); the M177 AMG V8 is the most expensive (£8,000–£14,000 recon, £12,000–£18,000 rebuilt [MB-QUOTE]). Labour adds £650–£1,560 at independent rates, or significantly more at dealer rates. Use our diagnostic calculator above for a personalised cost estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which S-Class engine is the most reliable?",
+        "answer": "The OM654 (2016–present) carries the cleanest reliability record in our 2025 data — 520 platform enquiries [MB-VERIFIED] weighted toward routine maintenance rather than catastrophic failure. It's the modern successor to the OM651, with materially fewer injector-seal and timing-chain reports. The OM642 is a close second — the oil cooler seal is labour-intensive but not catastrophic, and the engine itself is proven. The M276 petrol is also reliable, but timing chain stretch on earlier examples (2010–2013) is a real risk. Read the full OM654 guide →"
+      },
+      {
+        "id": 3,
+        "question": "Which S-Class engine should I avoid?",
+        "answer": "No S-Class engine is a blanket \"avoid\" — but the W222 S350 with OM651 (2013–2016) carries a real, well-documented caveat: \"Black Death\" injector seal failure. The OM651 was introduced to the S-Class for fuel economy reasons, but the injector-seal risk is materially higher than the OM654 that replaced it in 2016. Buy a 2013–2016 W222 S350 only with documented injector-seal history, or budget £400–£1,200 for a preventative seal replacement. The 2016+ W222 S350d with OM654 is the one to buy. Read the \"Black Death\" guide →"
+      },
+      {
+        "id": 4,
+        "question": "Is the S-Class timing chain problem real?",
+        "answer": "Yes — but it's generation-specific. The W221 M276 V6 petrol (2010–2013) carries a real timing chain stretch risk, with cold-start rattle as the primary warning sign. The W222 M276 (2014–2016) has a revised tensioner design that materially reduces the failure rate. The OM651 four-cylinder diesel (2013–2016) also has a timing chain tensioner risk — but it's less common than the injector-seal \"Black Death\" issue. Symptoms to watch for: cold-start rattle (petrol) or a metallic tapping noise on startup (diesel), both requiring immediate specialist inspection. Read the full timing chain guide →"
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing an S-Class engine?",
+        "answer": "It depends entirely on the generation. Our 70% rule: if the reconditioned engine cost exceeds 70% of the car's current market value, evaluate scrap value before committing. A £3,200–£5,500 OM642 recon in a £5,000–£18,000 W221 sits at 31–64% on the high-value examples and 64–110% on the low-value ones — 🔴 scrap threshold on sub-£8k W221 examples. The same OM642 recon in a £15,000–£45,000 W222 sits at just 7–37% — ✅ safe across all examples. A £8,000–£14,000 M177 AMG recon in a £30,000–£120,000 W222/W223 AMG sits at 7–47% — ✅ safe on all but the lowest-value examples. The S-Class is the single best example of how generation determines economics. If you're buying a W221, factor in the possibility of a £5,000 engine failure. If you're buying a W222, replace with confidence. Use the calculator →"
+      },
+      {
+        "id": 6,
+        "question": "Which S-Class generation should I buy?",
+        "answer": "The W222 (2013–2020) with OM654 (2016+) is the S-Class to buy. It's the high-water mark of S-Class build quality — significantly better than the W221, and the last generation before the W223's touchscreen-everything interior. The OM654 diesel is the cleanest modern option, with materially fewer failure reports than the OM651. Typical values (£15,000–£45,000 [THIRD-PARTY]) have absorbed the steepest depreciation, and the replacement-cost-to-value ratio is comfortably within the 70% safe zone. The 2016+ W222 S350d is the single best value luxury car on the used market. See our full S-Class Rankings →"
+      },
+      {
+        "id": 7,
+        "question": "How do I find my S-Class engine code?",
+        "answer": "Your S-Class engine code can be found in three places:"
+      },
+      {
+        "id": 1,
         "question": "VIN plate — located on the driver's side door pillar or under the bonnet. The engine code is usually in the 7th and 8th positions of the VIN.",
         "answer": ""
       },
@@ -613,7 +919,12 @@
       {
         "id": 3,
         "question": "Engine block stamping — the engine code is stamped directly onto the block. On the OM642, it's on the left-hand side near the front; on the M276, it's on the top of the block under the plastic cover.",
-        "answer": "Don't rely on the badge: An \"S350\" badge can mean OM642 (2006–2013), OM651 (2013–2016), or OM654 (2016–2020) — the same badge, three different engines. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator → Q8: S-Class vs E-Class — which is more reliable? The S-Class W222 (2016+) with OM654 and the E-Class W213 (2016+) with OM654 share the same engine — and both carry a ✅ Safe verdict in our data for different reasons. The E-Class is cheaper to buy and run (£14,000–£35,000 typical), the W213's engine bay is more accessible for routine maintenance, and the car is smaller and easier to park — but the interior is a step below the S-Class's quality. The S-Class is more expensive to buy and run (£15,000–£45,000 typical), the W222's V6 diesel is smoother and more refined than the E-Class's four-cylinder, and the car is the flagship — but it's significantly more complex and expensive to repair when things go wrong. Our verdict: Buy the E-Class if you're budget-conscious and want 80% of the experience for 50% of the running cost. Buy the S-Class if you want the flagship experience and can absorb the higher running costs. Both are reliable — but the S-Class's complexity means it costs more to fix when it does break. Read the full comparison: S-Class vs E-Class →"
+        "answer": "Don't rely on the badge: An \"S350\" badge can mean OM642 (2006–2013), OM651 (2013–2016), or OM654 (2016–2020) — the same badge, three different engines. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator →"
+      },
+      {
+        "id": 8,
+        "question": "S-Class vs E-Class — which is more reliable?",
+        "answer": "The S-Class W222 (2016+) with OM654 and the E-Class W213 (2016+) with OM654 share the same engine — and both carry a ✅ Safe verdict in our data for different reasons. The E-Class is cheaper to buy and run (£14,000–£35,000 typical), the W213's engine bay is more accessible for routine maintenance, and the car is smaller and easier to park — but the interior is a step below the S-Class's quality. The S-Class is more expensive to buy and run (£15,000–£45,000 typical), the W222's V6 diesel is smoother and more refined than the E-Class's four-cylinder, and the car is the flagship — but it's significantly more complex and expensive to repair when things go wrong. Our verdict: Buy the E-Class if you're budget-conscious and want 80% of the experience for 50% of the running cost. Buy the S-Class if you want the flagship experience and can absorb the higher running costs. Both are reliable — but the S-Class's complexity means it costs more to fix when it does break. Read the full comparison: S-Class vs E-Class →"
       }
     ]
   },

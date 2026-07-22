@@ -1,24 +1,217 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m104",
-    "title": "Mercedes-Benz M104 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m104",
+    "title": "Mercedes M104 Engine — Specs, Reliability & Replacement Cost",
+    "description": "The M104 is a classic Mercedes straight-six and a modern legend — but wiring harness and head gasket issues are well-known. See honest costs and compare specialist quotes.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m104/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes M104 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M104 is a classic Mercedes straight-six and a modern legend — but wiring harness and head gasket issues are well-known. See honest costs and compare specialist quotes.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m104/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m104.jpg",
+      "siteName": "MercedesBenzEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes M104 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M104 is a classic Mercedes straight-six and a modern legend — but wiring harness and head gasket issues are well-known. See honest costs and compare specialist quotes.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m104.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes-Benz M104",
+              "item": "https://mercedesbenzengine.uk/engines/m104/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M104",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E-Class W124 E280 / E320",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w124/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-Class W210 E280 / E320",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w210/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "S-Class W140 S280 / S320",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w140/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "SL-Class R129 SL280 / SL320",
+              "url": "https://mercedesbenzengine.uk/models/sl-class/r129/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "C-Class W202 C280",
+              "url": "https://mercedesbenzengine.uk/models/c-class/w202/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLK-Class C208 CLK320",
+              "url": "https://mercedesbenzengine.uk/models/clk-class/c208/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "G-Class W463 G320",
+              "url": "https://mercedesbenzengine.uk/models/g-class/w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "S-Class Coupe C140 CL320",
+              "url": "https://mercedesbenzengine.uk/models/s-class/c140/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M104 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M104 typically costs £2,400–£3,800 supply only, varying by displacement and specific variant. Fitting adds £900–£1,300 depending on labour rates. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes M104 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M104 is rated 3.5★ out of 5 — it is widely regarded as one of Mercedes' best straight-six engines, with a characterful, smooth power delivery and strong durability. However, the biodegradable wiring harness and head gasket issues are well-documented weak points that require attention."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M104 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most common issues are biodegradable wiring harness failure (the insulation degrades, causing electrical faults) and head gasket failure (especially on 3.2-litre variants). Camshaft wear and coil pack failures are also reported on higher-mileage examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M104?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M104 powered a wide range of Mercedes models including the E-Class (W124/W210), S-Class (W140), SL-Class (R129), C-Class (W202), CLK-Class (C208), and G-Class (W463), across 2.8-litre and 3.2-litre displacements."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M104 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance — including wiring harness replacement if original and head gasket monitoring — the M104 is capable of 200,000+ miles. Many examples remain on UK roads today, testament to its fundamental engineering quality."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesBenzEngine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M104 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M104 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "600",
+            "highPrice": "5500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M104 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M104, sourced from MercedesBenzEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes M104 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m104/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M104 • Petrol • Straight-Six • 1989–1999",
@@ -80,231 +273,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "78/100"
-      },
-      {
-        "metric": "M104 — Our Verdict & Rating",
-        "value": "Star rating: 3.5★ out of 5"
-      },
-      {
-        "metric": "Confidence: 82% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
-        "value": "Engine Score breakdown:"
-      },
-      {
-        "metric": "Dimension",
-        "value": "Score (of 20)"
-      },
-      {
-        "metric": "How it's determined",
-        "value": "Reliability"
-      },
-      {
-        "metric": "14",
-        "value": "3.5★ × 4"
-      },
-      {
-        "metric": "Repair Cost",
-        "value": "16"
-      },
-      {
-        "metric": "Reconditioned supply midpoint £3,000–£4,999",
-        "value": "Repairability"
-      },
-      {
-        "metric": "12",
-        "value": "Mix of cheap fixes (gaskets, sensors) and expensive ones (head gasket, wiring harness)"
-      },
-      {
-        "metric": "Parts Supply",
-        "value": "16"
-      },
-      {
-        "metric": "Available but dealer/specialist-order only; some parts becoming scarce",
-        "value": "Replacement Economics"
-      },
-      {
-        "metric": "20",
-        "value": "Recon cost 30–44% of lowest host-vehicle value"
-      },
-      {
-        "metric": "Total",
-        "value": "78/100"
-      },
-      {
-        "metric": "Sum of five rows above",
-        "value": "One-line verdict: The M104 is a smooth, characterful straight-six and a modern classic — but biodegradable wiring harnesses and head gaskets are its defining weaknesses — budget for preventative replacement or restoration."
-      },
-      {
-        "metric": "Best for: Enthusiasts wanting a classic Mercedes straight-six experience with strong performance.",
-        "value": "Avoid if: You're not prepared for classic-car maintenance costs or wiring harness replacement."
-      },
-      {
-        "metric": "M104 — Where It's Fitted (Mercedes-Benz Models)",
-        "value": "Model"
-      },
-      {
-        "metric": "Generation",
-        "value": "Variant/Badge"
-      },
-      {
-        "metric": "Years",
-        "value": "E-Class"
-      },
-      {
-        "metric": "W124",
-        "value": "E 280 / E 320 (M104.942/M104.992)"
-      },
-      {
-        "metric": "1992–1995",
-        "value": "E-Class"
-      },
-      {
-        "metric": "W124",
-        "value": "E 320 Cabriolet / Coupe"
-      },
-      {
-        "metric": "1993–1997",
-        "value": "S-Class"
-      },
-      {
-        "metric": "W140",
-        "value": "S 280 / S 320 (M104.944/M104.945)"
-      },
-      {
-        "metric": "1991–1998",
-        "value": "SL-Class"
-      },
-      {
-        "metric": "R129",
-        "value": "SL 280 / SL 320 (M104.943/M104.991)"
-      },
-      {
-        "metric": "1989–1998",
-        "value": "C-Class"
-      },
-      {
-        "metric": "W202",
-        "value": "C 280 (M104.941)"
-      },
-      {
-        "metric": "1993–1997",
-        "value": "E-Class"
-      },
-      {
-        "metric": "W210",
-        "value": "E 280 / E 320 (M104.941/M104.995)"
-      },
-      {
-        "metric": "1995–1997",
-        "value": "CLK-Class"
-      },
-      {
-        "metric": "C208",
-        "value": "CLK 320 (M104.995)"
-      },
-      {
-        "metric": "1997–1998",
-        "value": "G-Class"
-      },
-      {
-        "metric": "W463",
-        "value": "G 320 (M104.996)"
-      },
-      {
-        "metric": "1994–1997",
-        "value": "S-Class Coupe"
-      },
-      {
-        "metric": "C140",
-        "value": "CL 320 / CL 420 (M104.945)"
-      },
-      {
-        "metric": "1992–1998",
-        "value": "M104 Replacement Costs"
-      },
-      {
-        "metric": "Condition",
-        "value": "Supply Only"
-      },
-      {
-        "metric": "Fitted (Indie)",
-        "value": "Warranty"
-      },
-      {
-        "metric": "Used",
-        "value": "£600–£1,500"
-      },
-      {
-        "metric": "£1,100–£2,200",
-        "value": "3–6 months"
-      },
-      {
-        "metric": "Reconditioned",
-        "value": "£2,400–£3,800"
-      },
-      {
-        "metric": "£3,000–£4,800",
-        "value": "12 months"
-      },
-      {
-        "metric": "Rebuilt",
-        "value": "£3,500–£5,500"
-      },
-      {
-        "metric": "£4,100–£6,700",
-        "value": "12–24 months"
-      },
-      {
-        "metric": "Labour estimate: Fitting an M104 typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer).",
-        "value": "→ Compare M104 engine prices from UK specialists"
-      },
-      {
-        "metric": "M104 — Frequently Asked Questions",
-        "value": "1. How much does an M104 engine replacement cost?"
-      },
-      {
-        "metric": "A reconditioned M104 typically costs £2,400–£3,800 supply only, varying by displacement and specific variant. Fitting adds £900–£1,300 depending on labour rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes M104 a reliable engine?"
-      },
-      {
-        "metric": "The M104 is rated 3.5★ out of 5 — it is widely regarded as one of Mercedes' best straight-six engines, with a characterful, smooth power delivery and strong durability. However, the biodegradable wiring harness and head gasket issues are well-documented weak points that require attention.",
-        "value": "3. What is the most common M104 failure?"
-      },
-      {
-        "metric": "The most common issues are biodegradable wiring harness failure (the insulation degrades, causing electrical faults) and head gasket failure (especially on 3.2-litre variants). Camshaft wear and coil pack failures are also reported on higher-mileage examples.",
-        "value": "4. Which Mercedes models use the M104?"
-      },
-      {
-        "metric": "The M104 powered a wide range of Mercedes models including the E-Class (W124/W210), S-Class (W140), SL-Class (R129), C-Class (W202), CLK-Class (C208), and G-Class (W463), across 2.8-litre and 3.2-litre displacements.",
-        "value": "5. How long does the M104 last?"
-      },
-      {
-        "metric": "With proper maintenance — including wiring harness replacement if original and head gasket monitoring — the M104 is capable of 200,000+ miles. Many examples remain on UK roads today, testament to its fundamental engineering quality.",
-        "value": "Why UK M104 Owners Trust MercedesBenzEngine.uk"
-      },
-      {
-        "metric": "* Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M104 owners, as part of the Engine Finders network.",
-        "value": "* Compare Companies: We compare quotes from multiple UK specialists so you can see real M104 replacement prices side by side — no hidden fees, no pressure."
-      },
-      {
-        "metric": "* UK Coverage: Our network spans independent specialists across England, Scotland, Wales and Northern Ireland — wherever you are, we'll find you a trusted M104 specialist nearby.",
-        "value": "Find the best Mercedes M104 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "3.5★ out of 5",
+    "confidence": "82% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "14 (3.5★ × 4)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Reconditioned supply midpoint £3,000–£4,999)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mix of cheap fixes (gaskets, sensors) and expensive ones (head gasket, wiring harness))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Available but dealer/specialist-order only; some parts becoming scarce)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "20 (Recon cost 30–44% of lowest host-vehicle value)"
+        },
+        {
+          "dimension": "Total",
+          "score": "78/100 (Sum of five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M104 is a smooth, characterful straight-six and a modern classic — but biodegradable wiring harnesses and head gaskets are its defining weaknesses — budget for preventative replacement or restoration.",
+    "bestFor": "Enthusiasts wanting a classic Mercedes straight-six experience with strong performance.",
+    "avoidIf": "You're not prepared for classic-car maintenance costs or wiring harness replacement."
   },
   "compatibility": {
     "columns": [
@@ -313,7 +323,62 @@
       "Variant/Badge",
       "Years"
     ],
-    "rows": [],
+    "rows": [
+      {
+        "model": "E-Class",
+        "generation": "W124",
+        "variantBadge": "E 280 / E 320 (M104.942/M104.992)",
+        "years": "1992–1995"
+      },
+      {
+        "model": "E-Class",
+        "generation": "W124",
+        "variantBadge": "E 320 Cabriolet / Coupe",
+        "years": "1993–1997"
+      },
+      {
+        "model": "S-Class",
+        "generation": "W140",
+        "variantBadge": "S 280 / S 320 (M104.944/M104.945)",
+        "years": "1991–1998"
+      },
+      {
+        "model": "SL-Class",
+        "generation": "R129",
+        "variantBadge": "SL 280 / SL 320 (M104.943/M104.991)",
+        "years": "1989–1998"
+      },
+      {
+        "model": "C-Class",
+        "generation": "W202",
+        "variantBadge": "C 280 (M104.941)",
+        "years": "1993–1997"
+      },
+      {
+        "model": "E-Class",
+        "generation": "W210",
+        "variantBadge": "E 280 / E 320 (M104.941/M104.995)",
+        "years": "1995–1997"
+      },
+      {
+        "model": "CLK-Class",
+        "generation": "C208",
+        "variantBadge": "CLK 320 (M104.995)",
+        "years": "1997–1998"
+      },
+      {
+        "model": "G-Class",
+        "generation": "W463",
+        "variantBadge": "G 320 (M104.996)",
+        "years": "1994–1997"
+      },
+      {
+        "model": "S-Class Coupe",
+        "generation": "C140",
+        "variantBadge": "CL 320 / CL 420 (M104.945)",
+        "years": "1992–1998"
+      }
+    ],
     "crossBrandNote": ""
   },
   "costGuide": {
@@ -323,8 +388,27 @@
       "Fitted (Indie)",
       "Warranty"
     ],
-    "rows": [],
-    "labourEstimate": "",
+    "rows": [
+      {
+        "condition": "Used",
+        "supplyOnly": "£600–£1,500",
+        "fittedIndie": "£1,100–£2,200",
+        "warranty": "3–6 months"
+      },
+      {
+        "condition": "Reconditioned",
+        "supplyOnly": "£2,400–£3,800",
+        "fittedIndie": "£3,000–£4,800",
+        "warranty": "12 months"
+      },
+      {
+        "condition": "Rebuilt",
+        "supplyOnly": "£3,500–£5,500",
+        "fittedIndie": "£4,100–£6,700",
+        "warranty": "12–24 months"
+      }
+    ],
+    "labourEstimate": "Fitting an M104 typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer).",
     "sharedCostNote": "",
     "cta": {
       "label": "",
@@ -332,13 +416,39 @@
     }
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an M104 engine replacement cost?",
+        "answer": "A reconditioned M104 typically costs £2,400–£3,800 supply only, varying by displacement and specific variant. Fitting adds £900–£1,300 depending on labour rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes M104 a reliable engine?",
+        "answer": "The M104 is rated 3.5★ out of 5 — it is widely regarded as one of Mercedes' best straight-six engines, with a characterful, smooth power delivery and strong durability. However, the biodegradable wiring harness and head gasket issues are well-documented weak points that require attention."
+      },
+      {
+        "id": 3,
+        "question": "What is the most common M104 failure?",
+        "answer": "The most common issues are biodegradable wiring harness failure (the insulation degrades, causing electrical faults) and head gasket failure (especially on 3.2-litre variants). Camshaft wear and coil pack failures are also reported on higher-mileage examples."
+      },
+      {
+        "id": 4,
+        "question": "Which Mercedes models use the M104?",
+        "answer": "The M104 powered a wide range of Mercedes models including the E-Class (W124/W210), S-Class (W140), SL-Class (R129), C-Class (W202), CLK-Class (C208), and G-Class (W463), across 2.8-litre and 3.2-litre displacements."
+      },
+      {
+        "id": 5,
+        "question": "How long does the M104 last?",
+        "answer": "With proper maintenance — including wiring harness replacement if original and head gasket monitoring — the M104 is capable of 200,000+ miles. Many examples remain on UK roads today, testament to its fundamental engineering quality."
+      }
+    ]
   },
   "trustCta": {
     "trustPoints": [],
     "finalCta": "",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes M104 Engine Prices Now →",
       "href": "#"
     }
   }

@@ -1,11 +1,254 @@
 {
   "meta": {
-    "slug": "mercedes-cl-c216",
-    "title": "Mercedes CL C216 Engines — The Complete UK Guide",
-    "titleCharCount": 48,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-cl-class-c216",
+    "title": "C216 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every Mercedes CL C216 engine — M273, M278, M156, M157, M275. Real UK costs, honest reliability data, and V12 AMG explained. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CL-Class",
+              "item": "https://mercedesengine.uk/cl-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes CL C216",
+              "item": "https://mercedesengine.uk/cl-class/c216/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CL C216 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M273.961 Engine",
+              "url": "https://mercedesengine.uk/engines/m273-961/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M273.968 Engine",
+              "url": "https://mercedesengine.uk/engines/m273-968/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M278.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m278-920/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M156.984 Engine",
+              "url": "https://mercedesengine.uk/engines/m156-984/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M157.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m157-980/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M275.953 Engine",
+              "url": "https://mercedesengine.uk/engines/m275-953/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M275.982 Engine",
+              "url": "https://mercedesengine.uk/engines/m275-982/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CL C216 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "CL 500",
+              "url": "https://mercedesengine.uk/cl-class/c216/cl-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CL 550",
+              "url": "https://mercedesengine.uk/cl-class/c216/cl-550/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CL 550 4MATIC",
+              "url": "https://mercedesengine.uk/cl-class/c216/cl-550-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CL 600",
+              "url": "https://mercedesengine.uk/cl-class/c216/cl-600/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CL 63 AMG",
+              "url": "https://mercedesengine.uk/cl-class/c216/cl-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CL 65 AMG",
+              "url": "https://mercedesengine.uk/cl-class/c216/cl-65-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes CL C216 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned C216 engine typically costs £3,500–£18,000 supply only, depending on engine — the M273 5.5-litre V8 sits at £3,500–£6,000, while the M275 V12 in the CL 65 AMG is the most expensive at £11,000–£18,000. Fitting adds £650–£1,500 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes CL C216 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M278 4.7-litre twin-turbo V8 (CL 500, 435 PS) — introduced at the 2010 facelift — is widely considered the most reliable engine in the C216 range. It offers strong performance, improved efficiency, and fewer of the M273's camshaft adjuster issues. The M273 is proven but sensitive to camshaft adjuster wear and intake manifold issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes CL C216?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Camshaft adjuster and intake manifold failure on the M273 V8 (pre-facelift), head bolt and camshaft adjuster issues on the M156 AMG V8 (CL 63 AMG), ignition coil and ABC suspension failure on the M275 V12 (CL 600, CL 65 AMG), and cooling system issues on the M157 twin-turbo V8 (facelift CL 63 AMG). The ABC suspension is a common non-engine failure across all variants."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes CL C216 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reliability varies significantly by engine. The M278 (facelift CL 500) and M157 (facelift CL 63 AMG) are the most modern and generally more reliable than the pre-facelift M273 and M156. The M275 V12 is robust but the ignition system and ABC suspension are common failure points. The C216 is a high-end grand tourer — maintenance costs are commensurate with its original £100,000+ price tag."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes CL C216 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M156 6.2-litre V8 (pre-facelift CL 63 AMG) has documented head bolt and camshaft adjuster issues that can be extremely expensive to address. The M275 V12 (CL 600, CL 65 AMG) is also costly to maintain — coil packs, ignition modules, and the ABC suspension are all expensive failure points. If you're on a budget, the M278-powered CL 500 is the sweet spot. Avoid any car without documented service history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my C216 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold-start rattle on the M273 or M156 (camshaft adjusters), loss of power or rough running on the M273 (intake manifold), coolant/oil mixing on the M156 (head bolts), misfires on the M275 (coil packs/ignition modules), or persistent coolant loss on the M157 (cooling system) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes CL C216 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value and condition. Against a well-kept £25,000 CL 500, a £4,000–£7,000 recon is 16–28% of the car's value — viable. Against a tired £10,000 CL 500, the same recon is 40–70% — borderline. For a CL 65 AMG, a £40,000+ car justifies a £10,000–£18,000 recon; a £25,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — but remember the C216's ABC suspension and other systems can add significantly to ownership costs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes CL C216 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M278 twin-turbo V8 can exceed 150,000 miles with regular servicing and prompt camshaft adjuster attention. The M273 V8 is similarly durable but requires camshaft adjuster attention around 60,000–100,000 miles. The M156 and M157 AMG V8s can last 150,000+ miles but require significant maintenance along the way. The M275 V12 is robust but the ignition system requires regular attention."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the C216 CL and the C217 S-Class Coupé?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The C216 (2006–2014) is the last-generation CL-Class — a standalone grand tourer built on the W221 S-Class platform. The C217 (2014–2021) is the S-Class Coupé, which replaced the CL nameplate entirely. The C217 shares the W222 S-Class platform and offers more modern engines, including the M177 V8 and M256 straight-six. Engines are generally not interchangeable between the two generations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes CL C216 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (under the bonnet or on the driver's door pillar), on the engine block, and in the vehicle documentation. Tell us your variant (CL 500, CL 550, CL 600, CL 63 AMG, CL 65 AMG) and approximate model year (pre-2010 or post-2010 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes CL C216 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "3500",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "C216 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cl-class/c216/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -488,16 +731,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CL C216 engine replacement cost in the UK?",
+        "answer": "A reconditioned C216 engine typically costs £3,500–£18,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the M273 5.5-litre V8 sits at £3,500–£6,000, while the M275 V12 in the CL 65 AMG is the most expensive at £11,000–£18,000. Fitting adds £650–£1,500 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes CL C216 engine is the most reliable?",
+        "answer": "The M278 4.7-litre twin-turbo V8 (CL 500, 435 PS) — introduced at the 2010 facelift — is widely considered the most reliable engine in the C216 range. It offers strong performance, improved efficiency, and fewer of the M273's camshaft adjuster issues. The M273 is proven but sensitive to camshaft adjuster wear and intake manifold issues."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes CL C216?",
+        "answer": "Camshaft adjuster and intake manifold failure on the M273 V8 (pre-facelift), head bolt and camshaft adjuster issues on the M156 AMG V8 (CL 63 AMG), ignition coil and ABC suspension failure on the M275 V12 (CL 600, CL 65 AMG), and cooling system issues on the M157 twin-turbo V8 (facelift CL 63 AMG). The ABC suspension is a common non-engine failure across all variants."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes CL C216 reliable?",
+        "answer": "Reliability varies significantly by engine. The M278 (facelift CL 500) and M157 (facelift CL 63 AMG) are the most modern and generally more reliable than the pre-facelift M273 and M156. The M275 V12 is robust but the ignition system and ABC suspension are common failure points. The C216 is a high-end grand tourer — maintenance costs are commensurate with its original £100,000+ price tag."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes CL C216 engine should I avoid?",
+        "answer": "The M156 6.2-litre V8 (pre-facelift CL 63 AMG) has documented head bolt and camshaft adjuster issues that can be extremely expensive to address. The M275 V12 (CL 600, CL 65 AMG) is also costly to maintain — coil packs, ignition modules, and the ABC suspension are all expensive failure points. If you're on a budget, the M278-powered CL 500 is the sweet spot. Avoid any car without documented service history."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my C216 engine needs replacing?",
+        "answer": "Cold-start rattle on the M273 or M156 (camshaft adjusters), loss of power or rough running on the M273 (intake manifold), coolant/oil mixing on the M156 (head bolts), misfires on the M275 (coil packs/ignition modules), or persistent coolant loss on the M157 (cooling system) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes CL C216 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value and condition. Against a well-kept £25,000 CL 500, a £4,000–£7,000 recon is 16–28% of the car's value — viable. Against a tired £10,000 CL 500, the same recon is 40–70% — borderline. For a CL 65 AMG, a £40,000+ car justifies a £10,000–£18,000 recon; a £25,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — but remember the C216's ABC suspension and other systems can add significantly to ownership costs."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes CL C216 engines last?",
+        "answer": "The M278 twin-turbo V8 can exceed 150,000 miles with regular servicing and prompt camshaft adjuster attention. The M273 V8 is similarly durable but requires camshaft adjuster attention around 60,000–100,000 miles. The M156 and M157 AMG V8s can last 150,000+ miles but require significant maintenance along the way. The M275 V12 is robust but the ignition system requires regular attention."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the C216 CL and the C217 S-Class Coupé?",
+        "answer": "The C216 (2006–2014) is the last-generation CL-Class — a standalone grand tourer built on the W221 S-Class platform. The C217 (2014–2021) is the S-Class Coupé, which replaced the CL nameplate entirely. The C217 shares the W222 S-Class platform and offers more modern engines, including the M177 V8 and M256 straight-six. Engines are generally not interchangeable between the two generations."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes CL C216 engine code?",
+        "answer": "Listed on the VIN plate (under the bonnet or on the driver's door pillar), on the engine block, and in the vehicle documentation. Tell us your variant (CL 500, CL 550, CL 600, CL 63 AMG, CL 65 AMG) and approximate model year (pre-2010 or post-2010 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes CL C216 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted C216 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real Mercedes owners, as part of the Engine Finders network. We only work with specialists who understand the C216's V8, V12, and ABC suspension intricacies."
+      },
+      {
+        "title": "Compare C216 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit. Whether you need a reconditioned M278 or a used M275, we show you the real market."
+      },
+      {
+        "title": "UK Engine Replacement Services for C216",
+        "text": "covering every variant from CL 500 to CL 65 AMG, with supply-only or full supply & fit available nationwide through our vetted specialist network."
+      }
+    ],
+    "finalCta": "Find the best Mercedes CL C216 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes CL C216 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

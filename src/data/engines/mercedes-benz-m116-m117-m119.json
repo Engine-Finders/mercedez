@@ -1,24 +1,217 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m116-m117-m119",
-    "title": "Mercedes-Benz M116/M117/M119 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m116-m117-m119",
+    "title": "Mercedes-Benz M116/M117/M119 Engine — Legendary V8",
+    "description": "The M116/M117/M119 are among Mercedes' finest V8s — smooth, powerful and durable — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+    "canonical": "https://mercedesengine.uk/engines/m116-m117-m119/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M116/M117/M119 Engine — Legendary V8",
+      "description": "The M116/M117/M119 are among Mercedes' finest V8s — smooth, powerful and durable — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/m116-m117-m119/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m116-m117-m119.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M116/M117/M119 Engine — Legendary V8",
+      "description": "The M116/M117/M119 are among Mercedes' finest V8s — smooth, powerful and durable — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m116-m117-m119.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M116/M117/M119",
+              "item": "https://mercedesengine.uk/engines/m116-m117-m119/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M116/M117/M119",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Mercedes‑Benz S‑Class W116 (1972–1980)",
+              "url": "https://mercedesengine.uk/models/s-class/w116/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Mercedes‑Benz S‑Class W126 (1979–1991)",
+              "url": "https://mercedesengine.uk/models/s-class/w126/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz S‑Class W140 (1991–1998)",
+              "url": "https://mercedesengine.uk/models/s-class/w140/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Mercedes‑Benz SL R107 (1971–1989)",
+              "url": "https://mercedesengine.uk/models/sl/r107/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Mercedes‑Benz SL R129 (1989–1998)",
+              "url": "https://mercedesengine.uk/models/sl/r129/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Mercedes‑Benz E‑Class W124 (1990–1995)",
+              "url": "https://mercedesengine.uk/models/e-class/w124/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Mercedes‑Benz CL / SEC C126/C140 (1981–1996)",
+              "url": "https://mercedesengine.uk/models/cl-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Mercedes‑Benz G‑Class W463 (1993–1999)",
+              "url": "https://mercedesengine.uk/models/g-class/w463/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M116/M117/M119 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M116/M117/M119 typically costs £3,000–£5,000 supply only [ESTIMATED], varying by displacement and specific model (M119 5.0L generally the most expensive). Fitting adds £800–£1,800 depending on labour rates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M116/M117/M119 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M116/M117/M119 are widely regarded as some of the most reliable V8s ever built, earning 4.5★ out of 5 [ESTIMATED] — the M119 in particular is legendary for durability, with many examples exceeding 200,000 miles. Regular chain tensioner maintenance is the key to longevity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M116/M117/M119 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing chain tensioner wear is the most common issue — slack chains can cause valve timing issues or catastrophic failure if neglected. Leaking distributor caps and worn injection components are also common on higher‑mileage examples. Tensioner replacement typically needed between 80,000–120,000 miles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M116/M117/M119?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M116 (3.5L) and M117 (4.5–5.6L) powered the W116/W126 S‑Class, R107 SL, and C126 SEC. The M119 (4.2–5.0L) powered the W140 S‑Class, R129 SL, W124 E‑Class (500E), and later W463 G‑Class."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M116/M117/M119 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance, 200,000–300,000 miles is common, and well‑maintained M119s have exceeded 400,000 miles. The engines are overbuilt; body rust and electrical issues usually claim the car first. Regular timing chain and tensioner inspection is essential."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M116/M117/M119 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M116/M117/M119 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "7500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M116/M117/M119 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M116/M117/M119, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M116/M117/M119 Engine — Legendary V8",
+          "url": "https://mercedesengine.uk/engines/m116-m117-m119/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M116/M117/M119 • Petrol V8 • 3.5–5.6L • 1970–1999",
@@ -63,79 +256,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "M116/M117/M119 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.5★ out of 5",
-        "value": "Confidence: 90% confidence — based on decades of owner feedback, specialist workshop consensus, and extensive forum data; proprietary enquiry figures are estimated."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "18"
-      },
-      {
-        "metric": "4.5★ × 4",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "16",
-        "value": "Reconditioned supply midpoint ~£4,000 → falls in £3,000–£4,999 band"
-      },
-      {
-        "metric": "Repairability",
-        "value": "12"
-      },
-      {
-        "metric": "Most mechanical work straightforward; chain tensioners and timing components require specialist attention",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "12",
-        "value": "Good aftermarket support for common items; some M119-specific parts getting scarce"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "TBC"
-      },
-      {
-        "metric": "Depends on host vehicle value — classic/collector values may justify; everyday examples may approach scrap threshold",
-        "value": "Total"
-      },
-      {
-        "metric": "TBC/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The M116/M117/M119 are among Mercedes' finest V8s — smooth, powerful and durable — but age-related chain tensioner issues affect all examples — inspect timing components and injection systems carefully.",
-        "value": "Best For: Classic Mercedes enthusiasts, collectors, and anyone seeking analogue V8 refinement with legendary build quality."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.5★ out of 5",
+    "confidence": "90% confidence — based on decades of owner feedback, specialist workshop consensus, and extensive forum data; proprietary enquiry figures are estimated.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "18 (4.5★ × 4)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Reconditioned supply midpoint ~£4,000 → falls in £3,000–£4,999 band)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Most mechanical work straightforward; chain tensioners and timing components require specialist attention)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "12 (Good aftermarket support for common items; some M119-specific parts getting scarce)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "TBC (Depends on host vehicle value — classic/collector values may justify; everyday examples may approach scrap threshold)"
+        },
+        {
+          "dimension": "Total",
+          "score": "TBC/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M116/M117/M119 are among Mercedes' finest V8s — smooth, powerful and durable — but age-related chain tensioner issues affect all examples — inspect timing components and injection systems carefully.",
+    "bestFor": "Classic Mercedes enthusiasts, collectors, and anyone seeking analogue V8 refinement with legendary build quality.",
+    "avoidIf": "You want modern fuel economy, cheap parts, or aren't prepared for classic car maintenance costs."
   },
   "compatibility": {
     "columns": [

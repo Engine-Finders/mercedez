@@ -45,6 +45,11 @@
         "slug":  "m120"
     },
     {
+        "dataFile":  "mercedes-benz-m133-m139",
+        "type":  "engines",
+        "slug":  "m133-m139"
+    },
+    {
         "dataFile":  "mercedes-benz-m136",
         "type":  "engines",
         "slug":  "m136"
@@ -53,6 +58,16 @@
         "dataFile":  "mercedes-benz-m137",
         "type":  "engines",
         "slug":  "m137"
+    },
+    {
+        "dataFile":  "mercedes-benz-m156",
+        "type":  "engines",
+        "slug":  "m156"
+    },
+    {
+        "dataFile":  "mercedes-benz-m157-m178",
+        "type":  "engines",
+        "slug":  "m157-m178"
     },
     {
         "dataFile":  "mercedes-benz-m159-m178-gt",
@@ -73,6 +88,16 @@
         "dataFile":  "mercedes-benz-m266",
         "type":  "engines",
         "slug":  "m266"
+    },
+    {
+        "dataFile":  "mercedes-benz-m270-m271",
+        "type":  "engines",
+        "slug":  "m270-m271"
+    },
+    {
+        "dataFile":  "mercedes-benz-m272-m273",
+        "type":  "engines",
+        "slug":  "m272-m273"
     },
     {
         "dataFile":  "mercedes-benz-m274",

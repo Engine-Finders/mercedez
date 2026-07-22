@@ -1,11 +1,284 @@
 {
   "meta": {
-    "slug": "mercedes-benz-e-class-s124",
-    "title": "Mercedes‑Benz E‑Class S124 Engines — The Complete UK Guide",
-    "titleCharCount": 58,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-e-class-s124",
+    "title": "S124 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes‑Benz E‑Class S124 engine — OM60x diesel, M102, M103, M104, M111, AMG M104. Real UK costs, classic‑car reliability, and honest buying advice. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E‑Class",
+              "item": "https://mercedesengine.uk/e-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz E‑Class S124",
+              "item": "https://mercedesengine.uk/e-class/s124/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz E‑Class S124 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM601.912 Engine",
+              "url": "https://mercedesengine.uk/engines/om601/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM602.912 Engine",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM602.962 Engine",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM603.912 Engine",
+              "url": "https://mercedesengine.uk/engines/om603/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM603.960 Engine",
+              "url": "https://mercedesengine.uk/engines/om603/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM605.911 Engine",
+              "url": "https://mercedesengine.uk/engines/om605/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M102.963 Engine",
+              "url": "https://mercedesengine.uk/engines/m102/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M102.982 Engine",
+              "url": "https://mercedesengine.uk/engines/m102/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M103.983 Engine",
+              "url": "https://mercedesengine.uk/engines/m103/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M103.985 Engine",
+              "url": "https://mercedesengine.uk/engines/m103/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "M104.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m104/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "M104.942 Engine",
+              "url": "https://mercedesengine.uk/engines/m104/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "M104.992 Engine",
+              "url": "https://mercedesengine.uk/engines/m104-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "M111.940 Engine",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "M111.960 Engine",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz E‑Class S124 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "300 TD",
+              "url": "https://mercedesengine.uk/e-class/300td/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E 220 T",
+              "url": "https://mercedesengine.uk/e-class/e220t/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E 36 T AMG",
+              "url": "https://mercedesengine.uk/e-class/e36t-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz E‑Class S124 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned S124 engine typically costs £1,200–£14,000 supply only, depending on engine — the volume OM602 diesel sits at £1,500–£2,800, while the rare AMG M104.992 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz E‑Class S124 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM603 3.0‑litre six‑cylinder diesel (300 TD) is widely regarded as one of the most durable engines Mercedes ever built — a cast‑iron block, mechanical injection, and a documented 500,000‑mile lifespan. The OM602 five‑cylinder is a close second, with many examples exceeding 300,000 miles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz E‑Class S124?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Injector seal and glow plug failure on the OM60x diesel engines, head gasket and oil leaks on the M103/M104 petrol sixes, carburettor or KE‑Jetronic issues on the M102 four‑cylinder, and — unrelated to the engine — self‑levelling rear suspension wear on high‑mileage estate examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz E‑Class S124 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the S124 is one of the most robust cars ever built, provided you choose the right engine. The OM60x diesel series is legendary for durability. The M103 petrol is good but needs head gasket attention, while the M104 is more powerful but suffers from biodegradable wiring harness degradation. The AMG is a collector's item — buy with expert advice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz E‑Class S124 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but avoid the early carburettor M102 (200 TE) unless you're comfortable with classic‑car carburettor maintenance. Also be cautious with the M104 3.0 24‑valve without documented wiring harness replacement — the biodegradable looms can cause electrical nightmares."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Mercedes‑Benz E‑Class S124 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hard starting (OM60x injector seals), coolant loss or mayonnaise in the oil (M103/M104 head gasket), rough idle (M102 carburettor/KE‑Jetronic), or any major mechanical knock are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz E‑Class S124 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's body condition. A £2,000–£4,000 OM603 recon against a £3,000 S124 is 67–133% of the car's value — borderline. Against a well‑kept £8,000+ example, the same recon drops to 25–50% — safe. Body condition is the deciding factor on classic S124s, more than engine condition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes‑Benz E‑Class S124 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM60x diesel series can exceed 500,000 miles with proper servicing — many examples are still on their original engines. The M103 and M104 petrol sixes can comfortably reach 250,000 miles with regular maintenance, though head gasket attention is a recurring need. The AMG M104.992 is more variable due to its rarity and performance nature."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the S124 estate and the W124 saloon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are W124‑generation cars, sharing the same chassis and engine line‑up. The S124 is the 5‑door estate/Shooting Brake (1985–1996, this page), while the W124 is the 4‑door saloon (1985–1995). The S124 has a longer wheelbase and self‑levelling rear suspension to handle load. Costs vary slightly due to suspension complexity — see each generation's own page for specifics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz E‑Class S124 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (e.g., 300 TD, E 220 T, E 36 AMG) and approximate registration year (pre‑ or post‑1993) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz E‑Class S124 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "600",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "S124 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/e-class/s124/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -432,16 +705,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz E‑Class S124 engine replacement cost in the UK?",
+        "answer": "A reconditioned S124 engine typically costs £1,200–£14,000 supply only [MB‑QUOTE], depending on engine — the volume OM602 diesel sits at £1,500–£2,800, while the rare AMG M104.992 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes‑Benz E‑Class S124 engine is the most reliable?",
+        "answer": "The OM603 3.0‑litre six‑cylinder diesel (300 TD) is widely regarded as one of the most durable engines Mercedes ever built — a cast‑iron block, mechanical injection, and a documented 500,000‑mile lifespan. The OM602 five‑cylinder is a close second, with many examples exceeding 300,000 miles."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz E‑Class S124?",
+        "answer": "Injector seal and glow plug failure on the OM60x diesel engines, head gasket and oil leaks on the M103/M104 petrol sixes, carburettor or KE‑Jetronic issues on the M102 four‑cylinder, and — unrelated to the engine — self‑levelling rear suspension wear on high‑mileage estate examples."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes‑Benz E‑Class S124 reliable?",
+        "answer": "Yes — the S124 is one of the most robust cars ever built, provided you choose the right engine. The OM60x diesel series is legendary for durability. The M103 petrol is good but needs head gasket attention, while the M104 is more powerful but suffers from biodegradable wiring harness degradation. The AMG is a collector's item — buy with expert advice."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes‑Benz E‑Class S124 engine should I avoid?",
+        "answer": "No engine outright — but avoid the early carburettor M102 (200 TE) unless you're comfortable with classic‑car carburettor maintenance. Also be cautious with the M104 3.0 24‑valve without documented wiring harness replacement — the biodegradable looms can cause electrical nightmares."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my Mercedes‑Benz E‑Class S124 engine needs replacing?",
+        "answer": "Hard starting (OM60x injector seals), coolant loss or mayonnaise in the oil (M103/M104 head gasket), rough idle (M102 carburettor/KE‑Jetronic), or any major mechanical knock are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes‑Benz E‑Class S124 engine, or should I scrap the car?",
+        "answer": "Depends on the car's body condition. A £2,000–£4,000 OM603 recon against a £3,000 S124 is 67–133% of the car's value — borderline. Against a well‑kept £8,000+ example, the same recon drops to 25–50% — safe. Body condition is the deciding factor on classic S124s, more than engine condition."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes‑Benz E‑Class S124 engines last?",
+        "answer": "The OM60x diesel series can exceed 500,000 miles with proper servicing — many examples are still on their original engines. The M103 and M104 petrol sixes can comfortably reach 250,000 miles with regular maintenance, though head gasket attention is a recurring need. The AMG M104.992 is more variable due to its rarity and performance nature."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the S124 estate and the W124 saloon?",
+        "answer": "Both are W124‑generation cars, sharing the same chassis and engine line‑up. The S124 is the 5‑door estate/Shooting Brake (1985–1996, this page), while the W124 is the 4‑door saloon (1985–1995). The S124 has a longer wheelbase and self‑levelling rear suspension to handle load. Costs vary slightly due to suspension complexity — see each generation's own page for specifics."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes‑Benz E‑Class S124 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (e.g., 300 TD, E 220 T, E 36 AMG) and approximate registration year (pre‑ or post‑1993) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes‑Benz E‑Class S124 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted S124 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real S124 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare S124 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑and‑fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for S124",
+        "text": "covering every variant from 200 T D to E 36 AMG, with supply‑only or full supply‑and‑fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑Benz E‑Class S124 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes‑Benz E‑Class S124 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

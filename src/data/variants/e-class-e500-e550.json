@@ -514,40 +514,43 @@
       {
         "label": "Regional Demand",
         "value": "London (22%), South East (20%), South West (15%) [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz E500 / E550 engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned engine typically costs £1,500–£8,500 supply only depending on generation: M113 (£1,500–£3,500), M273 (£2,500–£5,000), M278 (£4,000–£8,500). Fitting adds £900–£1,600. Balance shaft replacement on the M273 can cost £1,500–£4,000 if caught early. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑Benz E500 / E550 engine reliable?"
-      },
-      {
-        "label": "It depends on the generation. The M113 (2002–2006) is widely considered bulletproof — a robust 3‑valve V8. The M273 (2006–2011) has a notorious balance shaft failure on early cars (2006–2007). The M278 (2011–2016) is a twin‑turbo with timing chain tensioner and oil leak issues. Post‑2008 M273 cars are significantly more reliable.",
-        "value": "3. What are the common problems with the Mercedes‑Benz E500 / E550?"
-      },
-      {
-        "label": "M113 oil leaks (valve covers, oil cooler seals); M273 balance shaft / idler gear failure (early cars) and intake manifold flap failure; M278 timing chain tensioner rattle, cam magnet / cam sensor oil leaks, turbo coolant line failures, and conductor plate failure in the 722.9 transmission. The M113 is the most reliable of the three.",
-        "value": "4. Is it worth replacing a Mercedes‑Benz E500 / E550 engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and generation. Against a well‑kept W212 E550 worth £6,000–£12,000, a £4,000–£8,500 recon is a significant investment — assess carefully. For an M113‑powered W211 E500 worth £3,000–£7,000, a £3,500 recon is more marginal. However, well‑maintained V8 E‑Classes are increasingly collectable.",
-        "value": "5. How do I find my Mercedes‑Benz E500 / E550 engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. The E500 uses M113 (W211 2002–2006) or M273 (W211 2006–2009, W212 2009–2011). The E550 uses M273 (W211 2006–2009, W212 2009–2011) or M278 (W212 2011–2016, C207/A207 2011–2017). Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the M273's balance shaft, or does it need a new engine?"
-      },
-      {
-        "label": "Yes — if caught early. A balance shaft / idler gear replacement (£1,500–£4,000) is far cheaper than a catastrophic engine failure (£2,500–£5,000 engine replacement). Check your engine serial number — if it's in the affected range, book an inspection immediately. Post‑2008 cars are not affected.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz E500 / E550 engine replacement cost in the UK?",
+        "answer": "A reconditioned engine typically costs £1,500–£8,500 supply only depending on generation: M113 (£1,500–£3,500), M273 (£2,500–£5,000), M278 (£4,000–£8,500). Fitting adds £900–£1,600. Balance shaft replacement on the M273 can cost £1,500–£4,000 if caught early. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz E500 / E550 engine reliable?",
+        "answer": "It depends on the generation. The M113 (2002–2006) is widely considered bulletproof — a robust 3‑valve V8. The M273 (2006–2011) has a notorious balance shaft failure on early cars (2006–2007). The M278 (2011–2016) is a twin‑turbo with timing chain tensioner and oil leak issues. Post‑2008 M273 cars are significantly more reliable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz E500 / E550?",
+        "answer": "M113 oil leaks (valve covers, oil cooler seals); M273 balance shaft / idler gear failure (early cars) and intake manifold flap failure; M278 timing chain tensioner rattle, cam magnet / cam sensor oil leaks, turbo coolant line failures, and conductor plate failure in the 722.9 transmission. The M113 is the most reliable of the three."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes‑Benz E500 / E550 engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and generation. Against a well‑kept W212 E550 worth £6,000–£12,000, a £4,000–£8,500 recon is a significant investment — assess carefully. For an M113‑powered W211 E500 worth £3,000–£7,000, a £3,500 recon is more marginal. However, well‑maintained V8 E‑Classes are increasingly collectable."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz E500 / E550 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The E500 uses M113 (W211 2002–2006) or M273 (W211 2006–2009, W212 2009–2011). The E550 uses M273 (W211 2006–2009, W212 2009–2011) or M278 (W212 2011–2016, C207/A207 2011–2017). Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M273's balance shaft, or does it need a new engine?",
+        "answer": "Yes — if caught early. A balance shaft / idler gear replacement (£1,500–£4,000) is far cheaper than a catastrophic engine failure (£2,500–£5,000 engine replacement). Check your engine serial number — if it's in the affected range, book an inspection immediately. Post‑2008 cars are not affected."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

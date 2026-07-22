@@ -1,6 +1,6 @@
 {
   "meta": {
-    "slug": "mercedes-s-class-a217",
+    "slug": "bmw-s-class-a217",
     "title": "A217 Engine Replacement Cost UK — Compare Quotes",
     "titleCharCount": 56,
     "description": "Every Mercedes A217 S‑Class Convertible engine — M276, M278, M176, M157, M177, M279. Real UK costs, the 2017 facelift changes, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
@@ -686,10 +686,22 @@
     "scopeNote": "All variants listed are A217 Convertible only. C217 Coupé shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
+    "mostRequestedEngines": [
+      "1. M176 (S 560) — pattern data [PATTERN DATA]",
+      "2. M177 (AMG S 63, 2017–2020) — pattern data [PATTERN DATA]",
+      "3. M278 (S 500) — pattern data [PATTERN DATA]"
+    ],
+    "mostRequestedVariants": [
+      "1. S 560",
+      "2. AMG S 63",
+      "3. S 500"
+    ],
+    "averageReplacementCost": "£3,500–£6,500 reconditioned, supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. M278/M176 turbo cooling pipe failure (S 500 / S 560)",
+      "2. M157 turbocharger & cooling system issues (AMG S 63, 2015–2017)",
+      "3. M276 cooling system wear (S 400 4MATIC)"
+    ],
     "liveFeed": [
       {
         "vehicle": "Mercedes S 560 A217 (M176)",

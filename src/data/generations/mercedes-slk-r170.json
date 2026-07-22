@@ -1,11 +1,242 @@
 {
   "meta": {
-    "slug": "mercedes-slk-r170",
-    "title": "Mercedes SLK R170 Engines — The Complete UK Guide",
-    "titleCharCount": 49,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-slk-class-r170",
+    "title": "R170 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every Mercedes SLK R170 engine — M111, M112. Real UK costs, honest reliability data, and SLK 32 AMG V6 explained. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 157,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLK-Class",
+              "item": "https://mercedesengine.uk/slk-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes SLK R170",
+              "item": "https://mercedesengine.uk/slk-class/r170/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes SLK R170 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M111.946 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-946/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M111.943 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-943/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M111.973 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-973/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M111.978 Engine",
+              "url": "https://mercedesengine.uk/engines/m111-978/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M112.947 Engine",
+              "url": "https://mercedesengine.uk/engines/m112-947/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M112.960 Engine",
+              "url": "https://mercedesengine.uk/engines/m112-960/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes SLK R170 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "SLK 200",
+              "url": "https://mercedesengine.uk/slk-class/r170/slk-200/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLK 200 Kompressor",
+              "url": "https://mercedesengine.uk/slk-class/r170/slk-200-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "SLK 230 Kompressor",
+              "url": "https://mercedesengine.uk/slk-class/r170/slk-230-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "SLK 320",
+              "url": "https://mercedesengine.uk/slk-class/r170/slk-320/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "SLK 32 AMG",
+              "url": "https://mercedesengine.uk/slk-class/r170/slk-32-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes SLK R170 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned R170 engine typically costs £1,500–£7,000 supply only, depending on engine — the M111 four-cylinder Kompressor sits at £1,500–£3,500, while the M112 supercharged V6 in the SLK 32 AMG is the most expensive at £4,000–£7,000. Fitting adds £650–£1,300 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes SLK R170 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112 3.2-litre V6 (SLK 320, 218 PS) is widely considered the most reliable engine in the R170 range — smooth, torquey, with proven durability and no major systemic failures. The post-facelift M111.978 2.0-litre Kompressor (SLK 200 Kompressor, 163 PS) is also a strong choice, benefiting from the 2000 engine refresh."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes SLK R170?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Supercharger clutch failure and timing chain issues on the M111 Kompressor engines, valve cover gasket leaks and crank position sensor failure on the M112 V6, supercharger clutch wear on the SLK 32 AMG, and vario-roof hydraulic system failures across all variants. The M111's cam magnet oil migration into the wiring loom and ECU is also a well-known issue."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes SLK R170 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overall reliability is good for a late-1990s/early-2000s Mercedes. The M111 Kompressor engines are generally robust but require supercharger clutch and timing system attention around 60,000–100,000 miles. The M112 V6 is the most reliable option. The main caveat is the M111's timing chain and cam magnet oil migration issues — if the wiring loom hasn't been addressed, budget for the modified piggyback loom (around £20). The vario-roof is a common non-engine failure point."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes SLK R170 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but the pre-facelift M111.943 and M111.973 Kompressor engines (1996–2000) have more documented issues than their facelift counterparts, including oil migration from the cam magnet into the wiring loom, timing chain issues, and variable timing gear problems. If you're on a budget, the SLK 320 (M112 V6) is the best choice for reliability. Avoid any car without documented timing chain and supercharger service history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my R170 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Loss of boost or a rattling noise from the front of the engine (supercharger clutch failure on Kompressor cars), a rattle when revved or engine warning lights (variable timing gear issues), oil in the wiring loom or ECU issues (cam magnet oil migration), persistent coolant loss or overheating (M112/M113 cooling system), or the vario-roof failing to operate correctly are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes SLK R170 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well-kept £7,000 SLK 320, a £2,500–£4,500 recon is 36–64% of the car's value — borderline but viable. Against a tired £2,500 SLK 200, a £1,500–£2,800 recon is 60–112% — walk away. For an SLK 32 AMG, a £12,000+ car justifies a £4,000–£7,000 recon. Our 70% Mercedes-Benz threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes SLK R170 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112 V6 can exceed 200,000 miles with regular servicing and prompt cooling system attention. The M111 Kompressor four-cylinders can reach 150,000–200,000 miles with supercharger clutch and timing system attention around 60,000–100,000 miles. The M112.960 AMG V6 is robust but requires supercharger clutch attention at similar intervals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the R170 and R171 SLK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The R170 (1996–2004) is the first-generation SLK — the one that pioneered the modern folding metal roof. It features a more classic, rounded design and is built on a shortened W202 platform. The R171 (2004–2011) is the second generation with more aggressive, angular styling and updated engines. Engines are generally not interchangeable between the two generations. See our R171 page for that generation's specifics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes SLK R170 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (under the bonnet or on the driver's door pillar) and on the engine block itself. Tell us your variant (SLK 200, SLK 200 Kompressor, SLK 230 Kompressor, SLK 320, SLK 32 AMG) and approximate model year (pre-2000 or post-2000 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes SLK R170 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "7000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "R170 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/slk-class/r170/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -455,16 +686,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes SLK R170 engine replacement cost in the UK?",
+        "answer": "A reconditioned R170 engine typically costs £1,500–£7,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the M111 four-cylinder Kompressor sits at £1,500–£3,500, while the M112 supercharged V6 in the SLK 32 AMG is the most expensive at £4,000–£7,000. Fitting adds £650–£1,300 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes SLK R170 engine is the most reliable?",
+        "answer": "The M112 3.2-litre V6 (SLK 320, 218 PS) is widely considered the most reliable engine in the R170 range — smooth, torquey, with proven durability and no major systemic failures. The post-facelift M111.978 2.0-litre Kompressor (SLK 200 Kompressor, 163 PS) is also a strong choice, benefiting from the 2000 engine refresh."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes SLK R170?",
+        "answer": "Supercharger clutch failure and timing chain issues on the M111 Kompressor engines, valve cover gasket leaks and crank position sensor failure on the M112 V6, supercharger clutch wear on the SLK 32 AMG, and vario-roof hydraulic system failures across all variants. The M111's cam magnet oil migration into the wiring loom and ECU is also a well-known issue."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes SLK R170 reliable?",
+        "answer": "Overall reliability is good for a late-1990s/early-2000s Mercedes. The M111 Kompressor engines are generally robust but require supercharger clutch and timing system attention around 60,000–100,000 miles. The M112 V6 is the most reliable option. The main caveat is the M111's timing chain and cam magnet oil migration issues — if the wiring loom hasn't been addressed, budget for the modified piggyback loom (around £20). The vario-roof is a common non-engine failure point."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes SLK R170 engine should I avoid?",
+        "answer": "No engine outright — but the pre-facelift M111.943 and M111.973 Kompressor engines (1996–2000) have more documented issues than their facelift counterparts, including oil migration from the cam magnet into the wiring loom, timing chain issues, and variable timing gear problems. If you're on a budget, the SLK 320 (M112 V6) is the best choice for reliability. Avoid any car without documented timing chain and supercharger service history."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my R170 engine needs replacing?",
+        "answer": "Loss of boost or a rattling noise from the front of the engine (supercharger clutch failure on Kompressor cars), a rattle when revved or engine warning lights (variable timing gear issues), oil in the wiring loom or ECU issues (cam magnet oil migration), persistent coolant loss or overheating (M112/M113 cooling system), or the vario-roof failing to operate correctly are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes SLK R170 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £7,000 SLK 320, a £2,500–£4,500 recon is 36–64% of the car's value — borderline but viable. Against a tired £2,500 SLK 200, a £1,500–£2,800 recon is 60–112% — walk away. For an SLK 32 AMG, a £12,000+ car justifies a £4,000–£7,000 recon. Our 70% Mercedes-Benz threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes SLK R170 engines last?",
+        "answer": "The M112 V6 can exceed 200,000 miles with regular servicing and prompt cooling system attention. The M111 Kompressor four-cylinders can reach 150,000–200,000 miles with supercharger clutch and timing system attention around 60,000–100,000 miles. The M112.960 AMG V6 is robust but requires supercharger clutch attention at similar intervals."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the R170 and R171 SLK?",
+        "answer": "The R170 (1996–2004) is the first-generation SLK — the one that pioneered the modern folding metal roof. It features a more classic, rounded design and is built on a shortened W202 platform. The R171 (2004–2011) is the second generation with more aggressive, angular styling and updated engines. Engines are generally not interchangeable between the two generations. See our R171 page for that generation's specifics."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes SLK R170 engine code?",
+        "answer": "Listed on the VIN plate (under the bonnet or on the driver's door pillar) and on the engine block itself. Tell us your variant (SLK 200, SLK 200 Kompressor, SLK 230 Kompressor, SLK 320, SLK 32 AMG) and approximate model year (pre-2000 or post-2000 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes SLK R170 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted R170 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real Mercedes owners, as part of the Engine Finders network. We only work with specialists who understand the R170's M111 Kompressor and vario-roof intricacies."
+      },
+      {
+        "title": "Compare R170 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit. Whether you need a reconditioned M112 or a used M111, we show you the real market."
+      },
+      {
+        "title": "UK Engine Replacement Services for R170",
+        "text": "covering every variant from SLK 200 to SLK 32 AMG, with supply-only or full supply & fit available nationwide through our vetted specialist network."
+      }
+    ],
+    "finalCta": "Find the best Mercedes SLK R170 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes SLK R170 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

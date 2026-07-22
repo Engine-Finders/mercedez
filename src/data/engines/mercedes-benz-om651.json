@@ -1,24 +1,241 @@
 {
   "meta": {
-    "slug": "mercedes-benz-om651",
+    "slug": "om651",
     "title": "Mercedes-Benz OM651 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "description": "Mercedes OM651 2.1 CDI: dependable workhorse, but 'Black Death' injector seals are a known issue. Backed by 1,250+ UK enquiries, explore real costs and compare vetted quotes.",
+    "canonical": "https://mercedesengine.uk/engines/om651/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz OM651 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes OM651 2.1 CDI: dependable workhorse, but 'Black Death' injector seals are a known issue. Backed by 1,250+ UK enquiries, explore real costs and compare vetted quotes.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/om651/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/om651.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz OM651 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes OM651 2.1 CDI: dependable workhorse, but 'Black Death' injector seals are a known issue. Backed by 1,250+ UK enquiries, explore real costs and compare vetted quotes.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/om651.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM651",
+              "item": "https://mercedesengine.uk/engines/om651/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the OM651 2.1 CDI",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C‑Class W204 C200/C220/C250 CDI (2008–2014)",
+              "url": "https://mercedesengine.uk/mercedes/c-class-w204/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C‑Class W205 C200d/C220d/C250d (2014–2020)",
+              "url": "https://mercedesengine.uk/mercedes/c-class-w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E‑Class W212 E200/E220/E250 CDI (2009–2016)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w212/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "E‑Class W213 E200d/E220d/E250d (2016–2020)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "GLC X253 GLC220d/GLC250d (2015–2020)",
+              "url": "https://mercedesengine.uk/mercedes/glc-x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "GLA X156 GLA200/220 CDI (2014–2020)",
+              "url": "https://mercedesengine.uk/mercedes/gla-x156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "GLK X204 GLK220/250 CDI (2009–2015)",
+              "url": "https://mercedesengine.uk/mercedes/glk-x204/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Sprinter 906/907 211/213/215 CDI (2008–2020)",
+              "url": "https://mercedesengine.uk/mercedes/sprinter-906/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Vito W639/W447 111/113/116 CDI (2008–2020)",
+              "url": "https://mercedesengine.uk/mercedes/vito-w447/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "V‑Class W447 V220d/V250d (2014–2020)",
+              "url": "https://mercedesengine.uk/mercedes/v-class-w447/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "S‑Class W221/W222 S250 CDI (selected markets, 2009–2017)",
+              "url": "https://mercedesengine.uk/mercedes/s-class-w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "ML‑Class W166 ML250 CDI (2011–2015)",
+              "url": "https://mercedesengine.uk/mercedes/ml-w166/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an OM651 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned OM651 typically costs £2,800–£4,800 supply only [MB-QUOTE], varying by power variant and whether ancillaries are included. Fitting adds £520–£1,100 depending on labour rates and vehicle model."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the OM651 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 rates 4.0★ out of 5 based on 1,250 UK enquiries and specialist reports [MB-VERIFIED]. It is generally robust, but injector seal and timing chain issues are well known and require proactive maintenance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common OM651 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Injector seal failure (the “Black Death” – carbon buildup around the injector) is the most frequently reported issue, typically from 80,000–150,000 miles. Timing chain tensioner wear also occurs, causing cold-start rattle."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the OM651?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 powers C‑Class, E‑Class, GLC, GLA, GLK, Sprinter, Vito, V‑Class, and some S‑Class and ML‑Class variants – covering cars and vans from 2008 to 2020."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the OM651 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With regular oil changes and timely injector seal replacements, the OM651 routinely exceeds 200,000 miles. Many specialist examples are reported at 250,000+ with no major internal work [MB-INTERVIEW]."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz OM651 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz OM651 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "6000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz OM651 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz OM651, sourced from mercedesengine.uk's specialist marketplace activity and verified interviews with Mercedes workshops.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz OM651 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesengine.uk/engines/om651/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • OM651 • Diesel • 2.1L I4 • 2008–2020",
@@ -80,131 +297,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: OM651 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.0★ out of 5",
-        "value": "Confidence: 92% confidence — based on 1,250 UK enquiries and cross-referenced specialist rebuild reports."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "16"
-      },
-      {
-        "metric": "Star rating (4.0★) × 4 = 16",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "16",
-        "value": "Reconditioned midpoint: £3,800 → £3,000–£4,999 bracket = 16"
-      },
-      {
-        "metric": "Repairability",
-        "value": "12"
-      },
-      {
-        "metric": "Mix of cheap fixes (injector seals) and labour-intensive work (timing chain)",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "20",
-        "value": "Parts cheap and available from multiple UK suppliers; high-volume engine"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "4"
-      },
-      {
-        "metric": "Recon cost as % of lowest host value (~£4k) = 95% → over 75% = 4",
-        "value": "Total"
-      },
-      {
-        "metric": "68/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The OM651 is a strong, economical diesel four — the 'Black Death' injector seal issue is well-documented but preventable — insist on full service history.",
-        "value": "Best for: High-mileage drivers who service on schedule."
-      },
-      {
-        "metric": "Avoid if: No documented injector seal or chain history above 80,000 miles.",
-        "value": "Supporting Evidence"
-      },
-      {
-        "metric": "The OM651 is Mercedes‑Benz’s most prolific modern four‑cylinder diesel, powering millions of cars and vans across the globe. Introduced in 2008, it replaced the OM646 and was offered in numerous power levels, from 109 hp in commercial applications to 204 hp in passenger cars.",
-        "value": "Key strengths:"
-      },
-      {
-        "metric": "* Excellent fuel economy – often exceeding 50 mpg in real‑world driving",
-        "value": "* Strong low‑end torque – makes for relaxed cruising"
-      },
-      {
-        "metric": "* Proven durability – many examples exceed 200,000 miles with routine maintenance",
-        "value": "* Wide parts availability – both genuine and aftermarket support is exceptional"
-      },
-      {
-        "metric": "Common issues:",
-        "value": "* Injector seal failure (“Black Death”) – carbon buildup around injectors, causing rough running and potential damage if ignored. Early detection is key."
-      },
-      {
-        "metric": "* Timing chain tensioner wear – can lead to chain stretch and rattling on cold start (TSB LI80.20‑P‑050001).",
-        "value": "* DPF and EGR clogging – particularly in urban‑use vehicles; requires occasional regeneration or cleaning."
-      },
-      {
-        "metric": "* Oil cooler leaks – less common than on OM642 but still reported.",
-        "value": "Models fitted (Mercedes‑Benz):"
-      },
-      {
-        "metric": "* C‑Class (W204, W205)",
-        "value": "* E‑Class (W212, W213)"
-      },
-      {
-        "metric": "* GLC (X253)",
-        "value": "* GLA (X156)"
-      },
-      {
-        "metric": "* GLK (X204)",
-        "value": "* Sprinter (906, 907)"
-      },
-      {
-        "metric": "* Vito (W639, W447)",
-        "value": "* V‑Class (W447)"
-      },
-      {
-        "metric": "* S‑Class (W221, W222) – lower‑spec markets",
-        "value": "* CLS (C218) – lower‑spec variants"
-      },
-      {
-        "metric": "* ML/GLE (W166) – lower‑spec variants",
-        "value": "The OM651 is a dependable workhorse when maintained correctly. Regular oil changes, injector seal inspections, and occasional DPF‑friendly driving will ensure a long life."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.0★ out of 5",
+    "confidence": "92% confidence — based on 1,250 UK enquiries and cross-referenced specialist rebuild reports.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "16 (Star rating (4.0★) × 4 = 16)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Reconditioned midpoint: £3,800 → £3,000–£4,999 bracket = 16)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mix of cheap fixes (injector seals) and labour-intensive work (timing chain))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "20 (Parts cheap and available from multiple UK suppliers; high-volume engine)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "4 (Recon cost as % of lowest host value (~£4k) = 95% → over 75% = 4)"
+        },
+        {
+          "dimension": "Total",
+          "score": "68/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The OM651 is a strong, economical diesel four — the 'Black Death' injector seal issue is well-documented but preventable — insist on full service history.",
+    "bestFor": "High-mileage drivers who service on schedule.",
+    "avoidIf": "No documented injector seal or chain history above 80,000 miles."
   },
   "compatibility": {
     "columns": [

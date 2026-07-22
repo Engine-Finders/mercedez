@@ -530,11 +530,67 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Timing chain tensioner failure — the defining issue on the M276; cold-start rattle is the classic symptom"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000–100,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£3,000–£7,500 reconditioned, supply only depending on variant【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M276 — the V6 powering modern SLs【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring — convertible season【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz SL350, SL400 or SL450 engine replacement cost in the UK?",
+        "answer": "A reconditioned M276 engine typically costs £3,000–£7,500 supply only depending on which variant (naturally aspirated or twin-turbo), with used units available from £1,800–£3,500. Fitting adds £1,500–£2,500 depending on the workshop. A \"shaft engine out repair job\" on the SL350 costs about £2,000 . Use our calculator for a figure specific to your SL."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz SL350 / SL400 / SL450 engine reliable?",
+        "answer": "The M276 is generally a reliable engine, but it has well-documented weaknesses. Timing chain tensioner failure is the most common issue — causing a rattle on cold start . Carbon build-up, brittle coolant hoses and PCV system issues are also common . The naturally aspirated SL350 is generally more reliable than the twin-turbo SL400/SL450. With diligent maintenance, all can be reliable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz SL350, SL400 and SL450?",
+        "answer": "Timing chain tensioner failure (rattling on cold start — the most critical concern), carbon build-up on intake valves (rough idle, loss of power), brittle coolant hoses (coolant leaks, overheating), PCV system failure (oil leaks, smoking exhaust), oil cooler leaks, and turbocharger issues on twin-turbo models. The timing chain tensioners are the most problematic part of the M276 ."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz SL350 / SL400 / SL450 engine, or should I scrap the car?",
+        "answer": "SL values remain strong — a well-kept R231 is often worth £15,000–£40,000+. A £3,000–£7,500 reconditioned engine is 10–30% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example with good bodywork, replacement is often worthwhile. On a tired example with multiple other issues (ABC suspension, folding roof), get a scrap valuation first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz SL350, SL400 or SL450 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. R231 SL350 (2012–2016) uses M276 DE 35; R231 SL400 (2014–2016) uses M276 DE 30 AL; R231 SL400/SL450 (2016–2021) uses M276 DE 30 AL. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M276 timing chain tensioner, or does the engine need replacement?",
+        "answer": "The timing chain tensioners can be replaced — they are wear items. Replacement costs £800–£2,500. The most problematic part of the M276 is the timing chain tensioners . If you miss their failure, you will have to change the timing kit with phase regulators . If the chain fails and jumps timing, the engine is typically destroyed. A preventative tensioner replacement is far cheaper than a full engine replacement (£3,000+). At the first sign of rattling on cold start, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

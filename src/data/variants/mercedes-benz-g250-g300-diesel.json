@@ -1,26 +1,212 @@
 {
   "meta": {
-    "slug": "mercedes-benz-g250-g300-diesel",
-    "title": "Mercedes-Benz G250 / G300 Diesel Engine Replacement — Compare Prices & Get Quotes",
-    "titleCharCount": 81,
-    "description": "",
-    "descriptionCharCount": 0,
-    "canonical": "",
+    "slug": "g-class-g250-g300-diesel",
+    "title": "G250/G300 Diesel Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "Every Mercedes G250/G300 diesel engine — OM602, OM603 and OM606. Real UK costs, common head and timing issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 160,
+    "canonical": "https://mercedesengine.uk/g-class/g250-g300-diesel/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "G250/G300 Diesel Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes G250/G300 diesel engine — OM602, OM603 and OM606. Real UK costs, common head and timing issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/g-class/g250-g300-diesel/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/g-class-g250-g300-diesel.jpg",
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "G250/G300 Diesel Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes G250/G300 diesel engine — OM602, OM603 and OM606. Real UK costs, common head and timing issues, and honest reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/g-class-g250-g300-diesel.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "G-Class",
+              "item": "https://mercedesengine.uk/g-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "G250/G300 Diesel",
+              "item": "https://mercedesengine.uk/g-class/g250-g300-diesel/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz G250/G300 Diesel Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W460 G250D (OM602, 1979–1991)",
+              "url": "https://mercedesengine.uk/g-class/g250-g300-diesel/#w460"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W461 G250D (OM602, 1990–2001)",
+              "url": "https://mercedesengine.uk/g-class/g250-g300-diesel/#w461"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W463 300 GD (OM603, 1990–1994)",
+              "url": "https://mercedesengine.uk/g-class/g250-g300-diesel/#om603"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "W463 300 TD (OM606, 1996–2000)",
+              "url": "https://mercedesengine.uk/g-class/g250-g300-diesel/#om606"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz G250/G300 Diesel Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM602",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM603",
+              "url": "https://mercedesengine.uk/engines/om603/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM606",
+              "url": "https://mercedesengine.uk/engines/om606/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-Benz G250 / G300 diesel engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned Mercedes-Benz G250/G300 diesel engine costs £3,500–£6,500 supply only, varying by generation: OM602 £2,500–£4,500, OM603 £3,500–£6,000, OM606 £4,500–£7,500. Fitting adds £1,200–£1,800. Check the Era Map above for your engine code."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-Benz G250 / G300 diesel reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM602, OM603 and OM606 are among Mercedes' most legendary diesel engines. The OM602 five-cylinder is simple, robust and widely regarded as one of Mercedes' most reliable engines. The OM603 six-cylinder is smooth but has head cracking issues. The OM606 turbo has exceptional reliability and good performance. The 300 TD OM606 is considered the best diesel G-Class."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-Benz G250 / G300 diesel?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "OM603: cylinder head cracking (coolant loss, overheating, £2,000–£4,500). All: timing chain wear (cold-start rattle, £800–£2,000), vacuum pump failure (hard brake pedal, £300–£800), glow plug failure (hard starting, £200–£500), and injection pump wear (£800–£1,500)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-Benz G250 / G300 diesel engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "G-Class values range from £15,000–£60,000+ depending on generation, condition and mileage. A £3,500–£6,500 reconditioned engine represents 10–40% of vehicle value — well within our 70% Mercedes-Benz scrap threshold. For almost any example, replacement is financially viable. The G-Class is a vehicle that holds its value exceptionally well."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-Benz G250 / G300 diesel engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The G250/G300 diesel has used four engine variants: OM602 (W460/W461, 1979–2001, 2.5L 5-cyl, 94–125bhp), OM603 (W463, 1990–1994, 3.0L 6-cyl, 113bhp), and OM606 (W463, 1996–2000, 3.0L 6-cyl turbo, 177bhp). Check your VIN or registration year. The code is stamped on the engine block."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the OM603 cylinder head cracking issue, or does it need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A cracked OM603 head can sometimes be repaired by a specialist (welding or stitching) costing £2,000–£4,500 — but in many cases, a replacement head or complete engine is more cost-effective (£3,500–£6,000). The #14 head casting is particularly susceptible. At the first sign of coolant loss or overheating, stop driving immediately and book an inspection. Prevention through cooling system maintenance is critical."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz G250/G300 Diesel Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "8500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz G250/G300 Diesel UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz G250/G300 diesel engines, sourced from MercedesEngine.uk's specialist marketplace activity for OM602, OM603 and OM606 variants.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "G250/G300 Diesel Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/g-class/g250-g300-diesel/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz G250 / G300 Diesel • 1979–2000 • Three Engine Generations",

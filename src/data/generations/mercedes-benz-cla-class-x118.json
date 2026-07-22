@@ -1,11 +1,224 @@
 {
   "meta": {
-    "slug": "mercedes-benz-cla-class-x118",
-    "title": "Mercedes‑Benz CLA‑Class X118 Engines — The Complete UK Guide",
-    "titleCharCount": 60,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-cla-class-x118",
+    "title": "X118 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes‑Benz CLA‑Class X118 engine — M282, M260, M139, OM608, OM654. Real UK costs, the M282 oil consumption watchpoint, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 157,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLA‑Class",
+              "item": "https://mercedesengine.uk/cla-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz CLA‑Class X118",
+              "item": "https://mercedesengine.uk/cla-class/x118/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz CLA‑Class X118 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M282.914 Engine",
+              "url": "https://mercedesengine.uk/engines/m282/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M260.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m260/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M139.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM608.915 Engine",
+              "url": "https://mercedesengine.uk/engines/om608/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM654.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz CLA‑Class X118 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "CLA 200 d",
+              "url": "https://mercedesengine.uk/cla-class/cla200d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLA 250",
+              "url": "https://mercedesengine.uk/cla-class/cla250/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "AMG CLA 45 S",
+              "url": "https://mercedesengine.uk/cla-class/amg-cla45-s/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz CLA‑Class X118 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned X118 engine typically costs £1,500–£9,000 supply only, depending on engine — the volume M282 four‑cylinder petrol sits at £1,800–£3,200, while the AMG M139 V8‑rivalling four commands £5,500–£9,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz CLA‑Class X118 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel (200 d/220 d) is the most robust — it has proven itself across the Mercedes range with fewer major issues than the M282 petrol. Among petrols, the M260 2.0‑litre turbo (CLA 250) is the most dependable, with timing chain stretch its only real watchpoint."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz CLA‑Class X118?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oil consumption and timing chain stretch on the M282 1.3‑litre petrol, AdBlue system failures on the OM654 diesel, timing chain stretch on the M260 2.0‑litre, and sensor‑derived misfire issues on the high‑strung M139 AMG engine. The OM608 diesel is generally basic but can suffer DPF clogging."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz CLA‑Class X118 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the engine. The M260 and OM654 are solid choices. The M282 (Renault‑developed 1.3‑litre) has the most owner‑reported issues, particularly oil consumption. The AMG M139 is reliable for a high‑performance engine but demands meticulous maintenance. Choose wisely based on your budget and priorities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz CLA‑Class X118 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a pre‑facelift M282 without documented oil consumption checks is the one we consistently advise buyers to inspect carefully. A neglected M139 AMG without full service history is the second, as sensor repairs can be expensive."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Mercedes‑Benz CLA‑Class X118 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Excessive oil consumption (M282), cold‑start rattle (M260/M282 timing chain), AdBlue countdown warnings (OM654), or misfires under load (M139) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz CLA‑Class X118 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well‑kept £18,000 X118, a £4,000 OM654 recon is 22% of the car's value — safe. Against a tired £8,000 example, the same recon is 50% — still under the 70% Mercedes‑Benz threshold, but borderline. Value the car and its history first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes‑Benz CLA‑Class X118 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can exceed 200,000 miles with proper servicing, though AdBlue maintenance is recurring. The M260 petrol can comfortably reach 150,000+ miles with regular oil changes. The M282 has a more variable record — some exceed 100,000 miles without issues, others need attention earlier."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the X118 Shooting Brake and the C118 Saloon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are second‑generation CLA‑Class, sharing the MFA2 platform and all engines. The X118 is the 5‑door estate/Shooting Brake (2019–2025, this page), while the C118 is the 4‑door saloon (2019–2025). Costs vary slightly by body style due to labour access — see each generation's own page for specifics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz CLA‑Class X118 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (CLA 180, 200, 250, AMG 35, AMG 45, or diesel) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz CLA‑Class X118 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "800",
+            "highPrice": "12000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "X118 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cla-class/x118/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -501,16 +714,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz CLA‑Class X118 engine replacement cost in the UK?",
+        "answer": "A reconditioned X118 engine typically costs £1,500–£9,000 supply only [MB‑QUOTE], depending on engine — the volume M282 four‑cylinder petrol sits at £1,800–£3,200, while the AMG M139 V8‑rivalling four commands £5,500–£9,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes‑Benz CLA‑Class X118 engine is the most reliable?",
+        "answer": "The OM654 diesel (200 d/220 d) is the most robust — it has proven itself across the Mercedes range with fewer major issues than the M282 petrol. Among petrols, the M260 2.0‑litre turbo (CLA 250) is the most dependable, with timing chain stretch its only real watchpoint."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz CLA‑Class X118?",
+        "answer": "Oil consumption and timing chain stretch on the M282 1.3‑litre petrol, AdBlue system failures on the OM654 diesel, timing chain stretch on the M260 2.0‑litre, and sensor‑derived misfire issues on the high‑strung M139 AMG engine. The OM608 diesel is generally basic but can suffer DPF clogging."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes‑Benz CLA‑Class X118 reliable?",
+        "answer": "It depends on the engine. The M260 and OM654 are solid choices. The M282 (Renault‑developed 1.3‑litre) has the most owner‑reported issues, particularly oil consumption. The AMG M139 is reliable for a high‑performance engine but demands meticulous maintenance. Choose wisely based on your budget and priorities."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes‑Benz CLA‑Class X118 engine should I avoid?",
+        "answer": "No engine outright — but a pre‑facelift M282 without documented oil consumption checks is the one we consistently advise buyers to inspect carefully. A neglected M139 AMG without full service history is the second, as sensor repairs can be expensive."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my Mercedes‑Benz CLA‑Class X118 engine needs replacing?",
+        "answer": "Excessive oil consumption (M282), cold‑start rattle (M260/M282 timing chain), AdBlue countdown warnings (OM654), or misfires under load (M139) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes‑Benz CLA‑Class X118 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well‑kept £18,000 X118, a £4,000 OM654 recon is 22% of the car's value — safe. Against a tired £8,000 example, the same recon is 50% — still under the 70% Mercedes‑Benz threshold, but borderline. Value the car and its history first."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes‑Benz CLA‑Class X118 engines last?",
+        "answer": "The OM654 diesel can exceed 200,000 miles with proper servicing, though AdBlue maintenance is recurring. The M260 petrol can comfortably reach 150,000+ miles with regular oil changes. The M282 has a more variable record — some exceed 100,000 miles without issues, others need attention earlier."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the X118 Shooting Brake and the C118 Saloon?",
+        "answer": "Both are second‑generation CLA‑Class, sharing the MFA2 platform and all engines. The X118 is the 5‑door estate/Shooting Brake (2019–2025, this page), while the C118 is the 4‑door saloon (2019–2025). Costs vary slightly by body style due to labour access — see each generation's own page for specifics."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes‑Benz CLA‑Class X118 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (CLA 180, 200, 250, AMG 35, AMG 45, or diesel) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes‑Benz CLA‑Class X118 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted X118 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real X118 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare X118 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑and‑fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for X118",
+        "text": "covering every variant from CLA 180 to AMG CLA 45 S, with supply‑only or full supply‑and‑fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑Benz CLA‑Class X118 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes‑Benz CLA‑Class X118 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

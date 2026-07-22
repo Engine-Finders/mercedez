@@ -553,11 +553,67 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M156: Head bolt corrosion (pre-2011) and camshaft/lifter wear / M157: Timing chain stretch (early) and cylinder scoring — the defining risks of each generation"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "M156: 50,000–90,000 miles / M157: 40,000–80,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "M156: £4,500–£8,000 / M157: £5,500–£10,000 reconditioned, supply only"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M157 — the twin-turbo V8【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring — performance car season【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-AMG CLS63 engine replacement cost in the UK?",
+        "answer": "A reconditioned M156 engine typically costs £4,500–£8,000 supply only; a reconditioned M157 costs £5,500–£10,000. Used units are available from £3,000–£5,500. A replacement M157 engine costs on average £10,888 in good condition, with new or reconditioned units reaching £11,759. Rebuilt M157 engines start from £6,995. Fitting adds £2,000–£3,500. Use our calculator for a figure specific to your CLS63."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-AMG CLS63 engine reliable?",
+        "answer": "It depends entirely on which generation. The M156 (C219) has well-documented head bolt and camshaft issues. The M157 (C218) is considered more reliable when maintained properly, but early examples suffer from timing chain stretch and cylinder scoring. Both demand diligent maintenance with 5,000–10,000 mile oil changes."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-AMG CLS63?",
+        "answer": "M156: head bolt corrosion (pre-2011 — the most critical concern), camshaft and lifter wear, cam adjuster rattle, oil leaks. M157: timing chain stretch (2011–2012), cylinder scoring (cylinders 1 and 5), oil wicking into the engine harness, turbo coolant pipe leaks, camshaft sensor oil leaks."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-AMG CLS63 engine, or should I scrap the car?",
+        "answer": "CLS63 values remain strong — a well-kept C218 is often worth £15,000–£35,000+. A £4,500–£11,000 reconditioned engine is 15–40% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example, replacement is often worthwhile. However, given the costs involved, ensure you understand the full picture before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-AMG CLS63 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. C219 CLS63 (2006–2011) uses M156.983; C218 CLS63 (2011–2017) uses M157.981. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M156 head bolts, or does the engine need replacement?",
+        "answer": "The head bolts can be replaced — they are a known weak point. Replacement costs £1,600–£5,000. If the bolts fail and cause head gasket problems, the engine can be destroyed. A preventative head bolt replacement is far cheaper than a full engine replacement (£4,500+). At the first sign of clicking on cold start or coolant loss on a pre-2011 M156, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

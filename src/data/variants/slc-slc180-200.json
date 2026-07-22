@@ -564,7 +564,32 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Timing chain rattle on cold start — the most critical M274 issue, requiring camshaft adjuster sprocket and tensioner replacement"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "40,000–80,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,000–£5,500 reconditioned, supply only【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M274.920 (SLC 200)【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring / Summer — convertible season exposes roof and engine issues【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), North West (12%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
     "items": [

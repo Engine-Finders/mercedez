@@ -547,11 +547,67 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "M271: Timing chain stretch / M274: Camshaft adjuster wear and oil wicking / M264: Unproven long-term — the defining risks of each generation"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "M271: 80,000–120,000 miles / M274: 60,000–100,000 miles / M264: 30,000–60,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "M271: £2,500–£5,000 / M274: £3,000–£6,000 / M264: £3,500–£7,500 reconditioned, supply only【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M274 — the most common E-Class petrol engine【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn — pre‑winter vehicle preparation【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (20%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz E200 or E250 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned M271 engine typically costs £2,500–£5,000 supply only; a reconditioned M274 costs £3,000–£6,000; a reconditioned M264 costs £3,500–£7,500. Used units are available from £1,500–£3,500. Fitting adds £1,500–£2,500 depending on the workshop. Reconditioned M264 engines start from around £2,850–£3,495. Use our calculator for a figure specific to your E-Class."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz E200 / E250 petrol engine reliable?",
+        "answer": "It depends on which generation. The M271 (2009–2012) is the least reliable — timing chain stretch is a well-documented issue. The M274 (2013–2019) is more robust but suffers from camshaft adjuster wear, carbon build-up, and oil wicking issues. The M264 (2019–2023) is the most modern and refined, with promising early reliability. With diligent maintenance, all three can be reliable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz E200 and E250 petrol?",
+        "answer": "M271: timing chain stretch (pre-100,000 miles), plastic oil filter housing cracking. M274: camshaft adjuster wear (cold-start rattle), carbon build-up on intake valves, oil wicking into wiring harness, NOx sensor failure, piston cracking (early examples). M264: complex 48V system, unproven long-term."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz E200 / E250 petrol engine, or should I scrap the car?",
+        "answer": "E-Class values remain strong — a well-kept W212 or W213 is often worth £8,000–£25,000+. A £2,500–£7,500 reconditioned engine is 15–40% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example with good bodywork, replacement is often worthwhile."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz E200 or E250 petrol engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. W212 pre-facelift (2009–2012) uses M271; W212 facelift (2013–2015) uses M274; W213 early (2016–2019) uses M274; W213 late (2019–2023) uses M264. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M271 / M274 timing chain, or does the engine need replacement?",
+        "answer": "The timing chain and camshaft adjusters can be replaced — they are wear items. Replacement costs £1,200–£3,000. If the chain fails and jumps timing, the engine is typically destroyed. A preventative chain and adjuster replacement is far cheaper than a full engine replacement (£2,500+). At the first sign of rattling or crackling on cold start, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

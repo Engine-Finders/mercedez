@@ -1,11 +1,337 @@
 {
   "meta": {
-    "slug": "mercedes-s-class-w222",
-    "title": "Mercedes S-Class W222 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-mercedes-s-class-w222",
+    "title": "W222 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes W222 engine — OM642, M276, M278, M157, M279, M256, M176, M177 and OM656. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 156,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S-Class",
+              "item": "https://mercedesengine.uk/mercedes-s-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes S-Class W222",
+              "item": "https://mercedesengine.uk/mercedes-s-class/w222/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W222 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651.921 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM642 LS Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276 DE 30 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M276 DE 35 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M278 DE 46 AL Engine",
+              "url": "https://mercedesengine.uk/engines/m278/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M157 DE 55 AL Engine",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M279 E 60 AL Engine",
+              "url": "https://mercedesengine.uk/engines/m279/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M256 Engine",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M176 DE 40 Engine",
+              "url": "https://mercedesengine.uk/engines/m176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M177 DE 40 Engine",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "OM656 D 29 Engine",
+              "url": "https://mercedesengine.uk/engines/om656/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W222 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "S 300 BlueTEC Hybrid",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-300-bluetec-hybrid/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S 350 BlueTEC",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-350-bluetec/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "S 400",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-400/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "S 400 HYBRID",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-400-hybrid/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "S 500 e PLUG-IN HYBRID",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-500-e-plug-in-hybrid/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "S 500",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "S 63 AMG",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-63-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "S 600",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-600/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Maybach S 600",
+              "url": "https://mercedesengine.uk/mercedes-s-class/maybach-s-600/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "S 65 AMG",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-65-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "S 450",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-450/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "S 560",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-560/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "S 350 d",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-350-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "S 400 d",
+              "url": "https://mercedesengine.uk/mercedes-s-class/s-400-d/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes S-Class W222 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W222 engine typically costs £2,500–£18,000 supply only [MB-QUOTE], depending on engine — the volume OM642 diesel sits at £3,000–£5,500. Fitting adds 12–24 hours labour at specialist rates due to the flagship‑class engine bay packaging. V12 engine replacements can exceed £15,000. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W222 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 LS (S 350 BlueTEC, pre‑facelift) — a 3.0‑litre V6 diesel with 258 bhp, 620 Nm of torque, and well‑understood reliability. The M256 (S 500, facelift) is the best petrol option — a 3.0‑litre straight‑six with 48V mild‑hybrid technology and excellent refinement."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes S-Class W222?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "OM642 oil cooler seal leaks (pre‑facelift diesel), OM656 camshaft and rocker wear (facelift diesel), M157 oil vapor separator and rear‑main seal failure (pre‑facelift AMG), and — chassis‑specific — AIRMATIC air suspension and ABC hydraulic system failures on all cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes S-Class W222 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the W222 is a well‑engineered flagship with a robust powertrain line‑up. The OM642 V6 diesel and M276 V6 petrol are proven units; the facelift M256 and OM656 are technologically advanced but have emerging reliability questions (OM656 cam wear). The biggest reliability challenge is the complex air suspension and electronics — not the engines themselves. Buy with a full Mercedes service history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W222 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but an OM651-powered S 300 BlueTEC Hybrid without documented chain and battery history is the one we'd approach cautiously, given its four‑cylinder engine in a flagship body. An M157 S 63 AMG without oil separator and rear‑main seal history is the second — watch for oil leaks and consumption."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W222 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oil leaks around the V of the engine (OM642), rough idle or popping noise from intake (OM656 cam wear), oil consumption or blue smoke (M157 AMG), 48V system warnings (M256), or engine management light. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes S-Class W222 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value and suspension condition. Against a well‑kept £25,000 W222, a £3,000–£5,500 OM642 recon is 12–22% of the car's value — safe. Against a tired £12,000 example, the same recon is 25–46% — still safe. Even an £8,000–£18,000 M279 V12 recon sits at 44–150% against a £12,000 V12 — evaluate carefully. But if the £2,500–£5,000 air suspension needs replacing at the same time, the total could exceed 50% of the car's value — evaluate carefully. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W222 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 V6 diesel can exceed 200,000 miles with oil cooler seal maintenance. The M276 V6 and M278 V8 can reach 150,000+ miles with proper servicing. The OM656 straight‑six diesel is newer but should achieve 200,000+ miles with camshaft and rocker attention. The M256 straight‑six petrol is also expected to be durable. The M279 V12 is robust but complex — 100,000+ miles is achievable with meticulous servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W222, V222, C217 and A217 S-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All share the sixth‑generation S‑Class platform. The W222 is the 4‑door saloon (this page), the V222 is the long‑wheelbase version, the C217 is the 2‑door coupé, and the A217 is the 2‑door cabriolet. The V222 offers extra rear legroom; the coupé and cabriolet have different body structures, higher kerb weights and different labour access — running costs on the C217 and A217 are typically higher than the W222 for comparable engine work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W222 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the OM642/M276 is at the front, V12 units are larger and more obvious). Tell us your variant, registration year and whether it's pre‑facelift (2013–2017) or facelift (2017–2020) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes S-Class W222 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "25000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes S-Class W222 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes S-Class W222 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "W222 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-s-class/w222/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -591,23 +917,121 @@
     "scopeNote": "All variants listed are W222 four‑door saloon and V222 long‑wheelbase. The C217 coupé and A217 cabriolet share most of these engines but are covered on their own Generation Pages, since the coupé and cabriolet have different body structures and labour access."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM642 LS (S 350 BlueTEC)",
+      "2. OM656 D 29 (S 400 d)",
+      "3. M256 (S 500 facelift)"
+    ],
+    "mostRequestedVariants": [
+      "1. S 350 BlueTEC",
+      "2. S 400 d",
+      "3. S 500"
+    ],
+    "averageReplacementCost": "£3,500–£6,500 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. OM642 oil cooler seal leaks",
+      "2. OM656 camshaft/rocker wear",
+      "3. Air suspension / ABC hydraulics failure"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes S 350 BlueTEC W222 (OM642)",
+        "location": "Birmingham",
+        "issue": "Oil leak / burning smell",
+        "enquiries": "5 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes S 400 d W222 (OM656)",
+        "location": "London",
+        "issue": "Rough idle / popping noise from intake",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes S 500 W222 (M256)",
+        "location": "Manchester",
+        "issue": "48V system warning / reduced power",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes S-Class W222 engine replacement cost in the UK?",
+        "answer": "A reconditioned W222 engine typically costs £2,500–£18,000 supply only [MB-QUOTE], depending on engine — the volume OM642 diesel sits at £3,000–£5,500. Fitting adds 12–24 hours labour at specialist rates due to the flagship‑class engine bay packaging. V12 engine replacements can exceed £15,000. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes W222 engine is the most reliable?",
+        "answer": "The OM642 LS (S 350 BlueTEC, pre‑facelift) — a 3.0‑litre V6 diesel with 258 bhp, 620 Nm of torque, and well‑understood reliability. The M256 (S 500, facelift) is the best petrol option — a 3.0‑litre straight‑six with 48V mild‑hybrid technology and excellent refinement."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes S-Class W222?",
+        "answer": "OM642 oil cooler seal leaks (pre‑facelift diesel), OM656 camshaft and rocker wear (facelift diesel), M157 oil vapor separator and rear‑main seal failure (pre‑facelift AMG), and — chassis‑specific — AIRMATIC air suspension and ABC hydraulic system failures on all cars."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes S-Class W222 reliable?",
+        "answer": "Yes — the W222 is a well‑engineered flagship with a robust powertrain line‑up. The OM642 V6 diesel and M276 V6 petrol are proven units; the facelift M256 and OM656 are technologically advanced but have emerging reliability questions (OM656 cam wear). The biggest reliability challenge is the complex air suspension and electronics — not the engines themselves. Buy with a full Mercedes service history."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes W222 engine should I avoid?",
+        "answer": "No engine outright — but an OM651-powered S 300 BlueTEC Hybrid without documented chain and battery history is the one we'd approach cautiously, given its four‑cylinder engine in a flagship body. An M157 S 63 AMG without oil separator and rear‑main seal history is the second — watch for oil leaks and consumption."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W222 engine needs replacing?",
+        "answer": "Oil leaks around the V of the engine (OM642), rough idle or popping noise from intake (OM656 cam wear), oil consumption or blue smoke (M157 AMG), 48V system warnings (M256), or engine management light. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes S-Class W222 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value and suspension condition. Against a well‑kept £25,000 W222, a £3,000–£5,500 OM642 recon is 12–22% of the car's value — safe. Against a tired £12,000 example, the same recon is 25–46% — still safe. Even an £8,000–£18,000 M279 V12 recon sits at 44–150% against a £12,000 V12 — evaluate carefully. But if the £2,500–£5,000 air suspension needs replacing at the same time, the total could exceed 50% of the car's value — evaluate carefully. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W222 engines last?",
+        "answer": "The OM642 V6 diesel can exceed 200,000 miles with oil cooler seal maintenance. The M276 V6 and M278 V8 can reach 150,000+ miles with proper servicing. The OM656 straight‑six diesel is newer but should achieve 200,000+ miles with camshaft and rocker attention. The M256 straight‑six petrol is also expected to be durable. The M279 V12 is robust but complex — 100,000+ miles is achievable with meticulous servicing."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W222, V222, C217 and A217 S‑Class?",
+        "answer": "All share the sixth‑generation S‑Class platform. The W222 is the 4‑door saloon (this page), the V222 is the long‑wheelbase version, the C217 is the 2‑door coupé, and the A217 is the 2‑door cabriolet. The V222 offers extra rear legroom; the coupé and cabriolet have different body structures, higher kerb weights and different labour access — running costs on the C217 and A217 are typically higher than the W222 for comparable engine work."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W222 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the OM642/M276 is at the front, V12 units are larger and more obvious). Tell us your variant, registration year and whether it's pre‑facelift (2013–2017) or facelift (2017–2020) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes S-Class W222 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W222 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real W222 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W222 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for W222",
+        "text": "covering every variant from S 350 BlueTEC to S 65 AMG, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes S-Class W222 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes S-Class W222 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

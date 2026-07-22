@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "slug": "m272-m273",
+    "title": "Mercedes-Benz M272/M273 Engine — Reliability & Cost",
+    "description": "M272/M273 V6/V8 — smooth and durable, but balance shaft wear (pre‑2008) is the key risk. Backed by UK specialist data. Compare quotes from vetted specialists.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m272-m273/",
+    "openGraph": {
+      "title": "Mercedes-Benz M272/M273 Engine — Reliability & Cost",
+      "description": "M272/M273 V6/V8 — smooth and durable, but balance shaft wear (pre‑2008) is the key risk. Backed by UK specialist data. Compare quotes from vetted specialists.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m272-m273/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m272-m273.jpg",
+      "siteName": "mercedesbenzengine.uk"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M272/M273 Engine — Reliability & Cost",
+      "description": "M272/M273 V6/V8 — smooth and durable, but balance shaft wear (pre‑2008) is the key risk. Backed by UK specialist data. Compare quotes from vetted specialists.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m272-m273.jpg"
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M272/M273",
+              "item": "https://mercedesbenzengine.uk/engines/m272-m273/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M272/M273 engine",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C-Class W204 C 280 / C 300 / C 350",
+              "url": "https://mercedesbenzengine.uk/models/c-class/w204/c-280/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class W203 C 280 / C 350",
+              "url": "https://mercedesbenzengine.uk/models/c-class/w203/c-280/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E-Class W211 E 280 / E 300 / E 350 / E 500",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w211/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "E-Class W212 E 350 / E 500",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w212/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLS-Class W219 CLS 280 / CLS 350 / CLS 500",
+              "url": "https://mercedesbenzengine.uk/models/cls-class/w219/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLS-Class W218 CLS 350",
+              "url": "https://mercedesbenzengine.uk/models/cls-class/w218/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "S-Class W221 S 350 / S 500 / S 550",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "CL-Class C216 CL 500 / CL 550",
+              "url": "https://mercedesbenzengine.uk/models/cl-class/c216/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "SL-Class R230 SL 350 / SL 500",
+              "url": "https://mercedesbenzengine.uk/models/sl-class/r230/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "SLK-Class R171 SLK 280 / SLK 300 / SLK 350",
+              "url": "https://mercedesbenzengine.uk/models/slk-class/r171/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "SLK-Class R172 SLK 350",
+              "url": "https://mercedesbenzengine.uk/models/slk-class/r172/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "ML-Class W164 ML 280 / ML 350 / ML 500",
+              "url": "https://mercedesbenzengine.uk/models/ml-class/w164/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "GL-Class X164 GL 450",
+              "url": "https://mercedesbenzengine.uk/models/gl-class/x164/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "R-Class W251 R 350 / R 500",
+              "url": "https://mercedesbenzengine.uk/models/r-class/w251/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "G-Class W463 G 500",
+              "url": "https://mercedesbenzengine.uk/models/g-class/w463/g-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "CLK-Class C209 CLK 280 / CLK 350",
+              "url": "https://mercedesbenzengine.uk/models/clk-class/c209/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "CLK-Class A209 CLK 280 / CLK 350",
+              "url": "https://mercedesbenzengine.uk/models/clk-class/a209/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M272 or M273 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M272/M273 typically costs £2,500–£6,000 supply only, with fitting adding £800–£1,500 depending on labour rates [ESTIMATED]. V6 variants are generally cheaper than V8s; used examples can be found from £1,000."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M272/M273 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M272/M273 rates 3.0★ out of 5 — smooth and durable when maintained, but pre-2008 M272 V6s suffer balance shaft sprocket wear that can be catastrophic if ignored. The M273 V8 is more robust overall."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M272/M273 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Balance shaft sprocket wear on the M272 (pre-2008) is the most notorious — a design flaw that causes timing chain rattle on cold start and eventual engine failure if untreated. Intake manifold flap failures and oil leaks are also common on both."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M272/M273?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M272 powers the C-Class W204, E-Class W211/W212, CLS W219, SLK R171/R172, and ML W164. The M273 powers the S-Class W221, CL C216, E-Class W212 V8s, ML/GL/G-Class V8s, and CLS W219 V8s — spanning 2005–2015."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M272/M273 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With regular oil changes and addressing the balance shaft issue early (if pre-2008), 150,000–200,000 miles is achievable. Many well-maintained examples exceed 200,000 miles; oil leaks and intake issues are the main wear items as mileage climbs."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesbenzengine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M272/M273 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M272/M273 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1000",
+            "highPrice": "8000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M272/M273 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M272/M273 V6/V8 petrol engines, sourced from mercedesbenzengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M272/M273 Engine — Reliability & Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m272-m273/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • M272/M273 • Petrol • 3.0–6.2L V6/V8 • 2004–2015",
+    "h1": "Mercedes-Benz M272/M273 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The M272 and M273 are smooth, high-revving naturally aspirated V6 and V8 petrols — generally robust, but balance shaft wear is their defining risk. Backed by real UK specialist data [ESTIMATED].",
+    "trustStrip": [
+      {
+        "icon": "📊",
+        "label": "Enquiries"
+      },
+      {
+        "icon": "🔧",
+        "label": "20+ Models Fitted"
+      },
+      {
+        "icon": "💯",
+        "label": "/100 Engine Score"
+      },
+      {
+        "icon": "🏆",
+        "label": "Part of Engine Finders"
+      }
+    ],
+    "primaryCta": {
+      "label": "Compare M272/M273 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "M272 / M273"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "V6 (2.5–3.5L) / V8 (5.0–6.2L) NA"
+      },
+      {
+        "metric": "Power Range",
+        "value": "200–400+ hp"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "2004–2015"
+      },
+      {
+        "metric": "Models Fitted (Mercedes only)",
+        "value": "20+ models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Exclusive to Mercedes-Benz"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "TBC"
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "3.0★ out of 5",
+    "confidence": "75% confidence — based on UK specialist consensus and owner-forum reporting, pending proprietary enquiry data.",
+    "scoreNote": "Engine Score breakdown:",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "12 (3.0★ × 4 = 12)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "16 (Reconditioned supply midpoint ~£4,250 — threshold £3,000–£4,999 → 16)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mixed: many repairs straightforward; balance shaft replacement and timing chain work are labour-intensive on V8s)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "20 (Abundant — these were high-volume engines; parts widely available from Mercedes, aftermarket and breakers)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "4 (Reconditioned cost as % of lowest typical host value — £4,250 on a £2,500–£3,500 car is often 120%+ → 4)"
+        }
+      ]
+    },
+    "oneLineVerdict": "\"The M272/M273 are generally robust V6/V8s — but balance shaft sprocket wear (pre-2008) and intake manifold issues are common — buy with full history and listen for cold-start rattles.\"",
+    "bestFor": "Enthusiasts wanting a smooth, powerful petrol Mercedes with a strong parts network and willing to address known issues pre‑emptively.",
+    "avoidIf": "Budget buyers shopping sub-£3k examples; a major repair can easily exceed the car's value."
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [
+      {
+        "model": "C‑Class",
+        "generation": "W204",
+        "variantBadge": "C 280 / C 300 / C 350 (M272)",
+        "years": "2007–2014"
+      },
+      {
+        "model": "C‑Class",
+        "generation": "W203",
+        "variantBadge": "C 280 / C 350 (M272)",
+        "years": "2004–2007"
+      },
+      {
+        "model": "E‑Class",
+        "generation": "W211",
+        "variantBadge": "E 280 / E 300 / E 350 (M272); E 500 (M273)",
+        "years": "2005–2009"
+      },
+      {
+        "model": "E‑Class",
+        "generation": "W212",
+        "variantBadge": "E 350 (M272); E 500 (M273)",
+        "years": "2009–2011"
+      },
+      {
+        "model": "CLS‑Class",
+        "generation": "W219",
+        "variantBadge": "CLS 280 / CLS 350 (M272); CLS 500 (M273)",
+        "years": "2005–2010"
+      },
+      {
+        "model": "CLS‑Class",
+        "generation": "W218",
+        "variantBadge": "CLS 350 (M272)",
+        "years": "2011–2014"
+      },
+      {
+        "model": "S‑Class",
+        "generation": "W221",
+        "variantBadge": "S 350 (M272); S 500 / S 550 (M273)",
+        "years": "2005–2013"
+      },
+      {
+        "model": "CL‑Class",
+        "generation": "C216",
+        "variantBadge": "CL 500 / CL 550 (M273)",
+        "years": "2006–2013"
+      },
+      {
+        "model": "SL‑Class",
+        "generation": "R230",
+        "variantBadge": "SL 350 (M272); SL 500 (M273)",
+        "years": "2006–2011"
+      },
+      {
+        "model": "SLK‑Class",
+        "generation": "R171",
+        "variantBadge": "SLK 280 / SLK 300 / SLK 350 (M272)",
+        "years": "2005–2011"
+      },
+      {
+        "model": "SLK‑Class",
+        "generation": "R172",
+        "variantBadge": "SLK 350 (M272)",
+        "years": "2011–2015"
+      },
+      {
+        "model": "ML‑Class",
+        "generation": "W164",
+        "variantBadge": "ML 280 / ML 350 (M272); ML 500 (M273)",
+        "years": "2005–2011"
+      },
+      {
+        "model": "GL‑Class",
+        "generation": "X164",
+        "variantBadge": "GL 450 (M273)",
+        "years": "2006–2012"
+      },
+      {
+        "model": "R‑Class",
+        "generation": "W251",
+        "variantBadge": "R 350 (M272); R 500 (M273)",
+        "years": "2006–2013"
+      },
+      {
+        "model": "G‑Class",
+        "generation": "W463",
+        "variantBadge": "G 500 (M273)",
+        "years": "2006–2012"
+      },
+      {
+        "model": "CLK‑Class",
+        "generation": "C209",
+        "variantBadge": "CLK 280 / CLK 350 (M272)",
+        "years": "2005–2009"
+      },
+      {
+        "model": "CLK‑Class",
+        "generation": "A209",
+        "variantBadge": "CLK 280 / CLK 350 (M272)",
+        "years": "2005–2009"
+      },
+      {
+        "model": "Sprinter / Vito",
+        "generation": "W906",
+        "variantBadge": "V6 diesel derivative not included — petrol variants are rare",
+        "years": "—"
+      },
+      {
+        "model": "S‑Class",
+        "generation": "W220",
+        "variantBadge": "S 500 (M113 — predecessor, not M273)",
+        "years": "Pre‑2005, not included"
+      },
+      {
+        "model": "CL‑Class",
+        "generation": "C215",
+        "variantBadge": "CL 500 (M113 — predecessor)",
+        "years": "Pre‑2006, not included"
+      }
+    ],
+    "crossBrandNote": ""
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [
+      {
+        "condition": "Used",
+        "supplyOnly": "£1,000–£4,000",
+        "fittedIndie": "£1,800–£5,500",
+        "warranty": "3–6 months"
+      },
+      {
+        "condition": "Reconditioned",
+        "supplyOnly": "£2,500–£6,000",
+        "fittedIndie": "£3,300–£7,500",
+        "warranty": "12–24 months"
+      },
+      {
+        "condition": "Rebuilt",
+        "supplyOnly": "£4,000–£8,000",
+        "fittedIndie": "£4,800–£9,500",
+        "warranty": "12–24 months"
+      }
+    ],
+    "labourEstimate": "Fitting an M272/M273 typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [ESTIMATED].",
+    "sharedCostNote": "N/A — exclusive to Mercedes-Benz.",
+    "cta": {
+      "label": "→ Compare M272/M273 engine prices from UK Mercedes specialists",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an M272 or M273 engine replacement cost?",
+        "answer": "A reconditioned M272/M273 typically costs £2,500–£6,000 supply only, with fitting adding £800–£1,500 depending on labour rates [ESTIMATED]. V6 variants are generally cheaper than V8s; used examples can be found from £1,000."
+      },
+      {
+        "id": 2,
+        "question": "Is the M272/M273 a reliable engine?",
+        "answer": "The M272/M273 rates 3.0★ out of 5 — smooth and durable when maintained, but pre-2008 M272 V6s suffer balance shaft sprocket wear that can be catastrophic if ignored. The M273 V8 is more robust overall."
+      },
+      {
+        "id": 3,
+        "question": "What is the most common M272/M273 failure?",
+        "answer": "Balance shaft sprocket wear on the M272 (pre-2008) is the most notorious — a design flaw that causes timing chain rattle on cold start and eventual engine failure if untreated. Intake manifold flap failures and oil leaks are also common on both."
+      },
+      {
+        "id": 4,
+        "question": "Which Mercedes models use the M272/M273?",
+        "answer": "The M272 powers the C-Class W204, E-Class W211/W212, CLS W219, SLK R171/R172, and ML W164. The M273 powers the S-Class W221, CL C216, E-Class W212 V8s, ML/GL/G-Class V8s, and CLS W219 V8s — spanning 2005–2015."
+      },
+      {
+        "id": 5,
+        "question": "How long does the M272/M273 last?",
+        "answer": "With regular oil changes and addressing the balance shaft issue early (if pre-2008), 150,000–200,000 miles is achievable. Many well-maintained examples exceed 200,000 miles; oil leaks and intake issues are the main wear items as mileage climbs."
+      }
+    ]
+  },
+  "trustCta": {
+    "trustPoints": [
+      "Trusted Suppliers — Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M272/M273 owners, as part of the Engine Finders network.",
+      "Compare Companies — We compare genuine Mercedes specialists — not just any garage — so you get the right expertise for your V6 or V8.",
+      "UK Coverage — From London to Aberdeen, our network of pre-vetted Mercedes specialists means you're never far from trusted M272/M273 expertise."
+    ],
+    "finalCta": "Find the best Mercedes-Benz M272 or M273 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes M272/M273 Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

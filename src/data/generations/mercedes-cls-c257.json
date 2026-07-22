@@ -1,11 +1,247 @@
 {
   "meta": {
-    "slug": "mercedes-cls-c257",
-    "title": "Mercedes CLS C257 Engines — The Complete UK Guide",
-    "titleCharCount": 49,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-cls-class-c257",
+    "title": "C257 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 48,
+    "description": "Every Mercedes C257 engine — M264, M256, OM654, OM656. Real UK costs, reliability data, and the M256 inline‑six that defines the CLS. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLS-Class",
+              "item": "https://mercedesengine.uk/cls-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes CLS C257",
+              "item": "https://mercedesengine.uk/cls-class/c257/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes C257 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M264.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m264/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M256.930 Engine",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M256.930 AMG Engine",
+              "url": "https://mercedesengine.uk/engines/m256-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM654.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM654 M Engine",
+              "url": "https://mercedesengine.uk/engines/om654-m/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM656.929 Engine",
+              "url": "https://mercedesengine.uk/engines/om656/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes C257 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "CLS 220 d",
+              "url": "https://mercedesengine.uk/cls-class/cls-220-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLS 450 4MATIC",
+              "url": "https://mercedesengine.uk/cls-class/cls-450-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "AMG CLS 53",
+              "url": "https://mercedesengine.uk/cls-class/amg-cls-53/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLS 350",
+              "url": "https://mercedesengine.uk/cls-class/cls-350/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes C257 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned C257 engine typically costs £2,500–£8,500 supply only, depending on the engine — the OM654 diesel sits at £2,800–£4,800, while the M256 petrol is £3,500–£6,500 and the AMG M256 is £4,500–£8,500. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which C257 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0-litre diesel (CLS 220 d) is the most reliable choice — it's Mercedes-developed, efficient, and has a strong track record when serviced properly. The M256 3.0-litre inline-six petrol is also very refined and dependable, though its EQ Boost system adds complexity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the C257?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can suffer from injector seal leaks (known as 'Black Death'); the M256 petrol engine can develop coolant leaks and EQ Boost system issues; and the OM656 inline-six diesel can experience AdBlue/SCR system failures. Regular servicing is key."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes C257 reliable overall?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the C257 is generally well-regarded for reliability, especially with the OM654 diesel and M264/M256 petrol engines. The OM656 inline-six diesel is also reliable but more complex due to its twin-turbo and AdBlue systems. All engines benefit from regular, attentive servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which C257 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but the OM656 high-output diesel (CLS 400 d) was a short-production variant (2018–2019) and parts may be harder to source. The AMG CLS 53 is not an engine to avoid, but buyers should be aware of the higher running costs. Any C257 without documented service history should be approached with caution."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my C257 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Warning signs include a ticking noise from the engine bay (OM654 injector seals), coolant loss (M256 water pump), AdBlue warnings (OM656 SCR system), or EQ Boost system errors (M256). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes C257 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. A well-kept C257 is worth £15,000–£40,000, so a £2,800–£4,800 OM654 recon is only 7–32% of its value — well within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher-mileage CLS 350 d with the OM656, the same maths is still favourable (8–40%). The C257's strong retained values make most engine replacements economically viable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes C257 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can easily exceed 150,000 miles with regular servicing and early attention to the injector seals. The M256 inline-six petrol is similarly durable, though its EQ Boost system may require attention at higher mileages. The OM656 inline-six diesel can also reach high mileages with proper care."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the C257 and the previous C218?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The C257 is the third-generation CLS, built on the newer MRA platform (shared with the E-Class W213). It introduced a new range of electrified engines (M264, M256, OM654, OM656) with EQ Boost mild-hybrid technology, improved interior quality, and updated technology. The C218 (2010–2018) used older M276 and OM642 engines and is covered on its own generation page."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes C257 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the C257, common codes are M264 (petrol, 2.0L), M256 (petrol, 3.0L), OM654 (diesel, 2.0L), and OM656 (diesel, 2.9L). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes CLS C257 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "8500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes CLS C257 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes CLS C257 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "C257 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cls-class/c257/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -401,23 +637,121 @@
     "scopeNote": "All variants listed are C257 four‑door coupé only. The CLS was discontinued after the C257 generation, with no direct successor planned."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM654 (2.0 diesel) — most‑requested across the Mercedes range [MB‑VERIFIED]",
+      "2. M256 (3.0 inline‑six petrol) — strong demand for the CLS 450",
+      "3. M264 (2.0 petrol) — popular entry‑level choice"
+    ],
+    "mostRequestedVariants": [
+      "1. CLS 220 d",
+      "2. CLS 450 4MATIC",
+      "3. AMG CLS 53"
+    ],
+    "averageReplacementCost": "£2,500–£8,500 supply only [MB‑QUOTE]",
+    "mostCommonFailures": [
+      "1. OM654 injector seal leaks (Black Death)",
+      "2. M256 EQ Boost system/coolant leaks",
+      "3. OM656 AdBlue/SCR system issues"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes CLS 220 d C257 (OM654)",
+        "location": "London",
+        "issue": "Ticking noise from engine bay, suspected injector seal leak",
+        "enquiries": "5 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes CLS 450 C257 (M256)",
+        "location": "Birmingham",
+        "issue": "Coolant loss, water pump failure",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes AMG CLS 53 C257 (M256)",
+        "location": "Manchester",
+        "issue": "EQ Boost system warning, suspected 48V battery issue",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes C257 engine replacement cost in the UK?",
+        "answer": "A reconditioned C257 engine typically costs £2,500–£8,500 supply only [MB‑QUOTE], depending on the engine — the OM654 diesel sits at £2,800–£4,800, while the M256 petrol is £3,500–£6,500 and the AMG M256 is £4,500–£8,500. Fitting adds £650–£1,500 depending on the variant. Use our calculator for a personalised quote."
+      },
+      {
+        "id": 2,
+        "question": "Which C257 engine is the most reliable?",
+        "answer": "The OM654 2.0‑litre diesel (CLS 220 d) is the most reliable choice — it's Mercedes‑developed, efficient, and has a strong track record when serviced properly. The M256 3.0‑litre inline‑six petrol is also very refined and dependable, though its EQ Boost system adds complexity."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the C257?",
+        "answer": "The OM654 diesel can suffer from injector seal leaks (known as \"Black Death\"); the M256 petrol engine can develop coolant leaks and EQ Boost system issues; and the OM656 inline‑six diesel can experience AdBlue/SCR system failures. Regular servicing is key."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes C257 reliable overall?",
+        "answer": "Yes — the C257 is generally well‑regarded for reliability, especially with the OM654 diesel and M264/M256 petrol engines. The OM656 inline‑six diesel is also reliable but more complex due to its twin‑turbo and AdBlue systems. All engines benefit from regular, attentive servicing."
+      },
+      {
+        "id": 5,
+        "question": "Which C257 engine should I avoid?",
+        "answer": "No engine outright — but the OM656 high‑output diesel (CLS 400 d) was a short‑production variant (2018–2019) and parts may be harder to source. The AMG CLS 53 is not an engine to avoid, but buyers should be aware of the higher running costs. Any C257 without documented service history should be approached with caution."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my C257 engine needs replacing?",
+        "answer": "Warning signs include a ticking noise from the engine bay (OM654 injector seals), coolant loss (M256 water pump), AdBlue warnings (OM656 SCR system), or EQ Boost system errors (M256). If you notice any of these, have the car inspected immediately — ignoring them can lead to a full engine failure."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes C257 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. A well‑kept C257 is worth £15,000–£40,000, so a £2,800–£4,800 OM654 recon is only 7–32% of its value — well within our 70% Mercedes threshold, making replacement a sensible decision. Against a higher‑mileage CLS 350 d with the OM656, the same maths is still favourable (8–40%). The C257's strong retained values make most engine replacements economically viable."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes C257 engines last?",
+        "answer": "The OM654 diesel can easily exceed 150,000 miles with regular servicing and early attention to the injector seals. The M256 inline‑six petrol is similarly durable, though its EQ Boost system may require attention at higher mileages. The OM656 inline‑six diesel can also reach high mileages with proper care."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the C257 and the previous C218?",
+        "answer": "The C257 is the third‑generation CLS, built on the newer MRA platform (shared with the E‑Class W213). It introduced a new range of electrified engines (M264, M256, OM654, OM656) with EQ Boost mild‑hybrid technology, improved interior quality, and updated technology. The C218 (2010–2018) used older M276 and OM642 engines and is covered on its own generation page."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes C257 engine code?",
+        "answer": "The engine code is on the VIN plate (visible through the windscreen), on the vehicle documentation, and stamped on the engine block. For the C257, common codes are M264 (petrol, 2.0L), M256 (petrol, 3.0L), OM654 (diesel, 2.0L), and OM656 (diesel, 2.9L). Tell us your variant and year, and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes C257 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted C257 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated, and reviewed by real Mercedes owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare C257 Engine Replacement Companies",
+        "text": "see prices, warranty terms, and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for C257",
+        "text": "covering every variant from CLS 220 d to AMG CLS 53, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes C257 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes CLS C257 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

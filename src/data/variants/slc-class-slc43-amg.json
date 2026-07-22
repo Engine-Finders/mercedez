@@ -591,64 +591,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (12%) — premium roadster strongholds [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes-AMG SLC43 engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned SLC43 engine (M276.822) typically costs £3,312–£4,500 supply only depending on power output (367 PS or 390 PS). A replacement M276.822 engine costs on average £3,312 in good condition. Labour costs for engine replacement typically range from £800 to £2,500. On average, a full engine replacement can run anywhere between £1,500 and £5,000. Fitting adds £1,200–£1,800. Use our calculator for a figure specific to your vehicle.",
-        "value": "2. Is the Mercedes-AMG SLC43 engine reliable?"
-      },
-      {
-        "label": "The M276 is generally considered a reliable engine. However, it has known weaknesses: oil leaks from turbocharger oil feed lines and camshaft adjuster solenoids, turbocharger wear, HPFP issues, and 9G‑Tronic transmission hesitation. The C43 AMG with the same engine has been reported as \"super reliable\" even at 90,000 miles. Regular oil changes (every 8,000‑10,000 miles) are essential to maintain reliability.",
-        "value": "3. What are the common problems with the Mercedes-AMG SLC43?"
-      },
-      {
-        "label": "The most common issues are oil leaks (turbo oil feed lines and camshaft adjuster solenoids), turbocharger wear (whining, wastegate rattle, loss of power), high‑pressure fuel pump failure (hard starting, rough running), and 9G‑Tronic transmission hesitation. The M276 engine is generally reliable when properly maintained.",
-        "value": "4. Is it worth replacing an SLC43 engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and condition. Against a tidy £15,000–£30,000 SLC43, a £3,312–£4,500 recon is 10‑30% of the car's value — often worth it on well‑maintained examples. If the engine has suffered catastrophic turbo failure or timing chain failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing. The SLC43 is a rare and collectable car, so well‑preserved examples may justify the investment.",
-        "value": "5. How do I find my SLC43's engine code?"
-      },
-      {
-        "label": "The SLC43 AMG uses the M276.822 engine code — a 3.0‑litre V6 bi‑turbo. The engine code is stamped on the engine block and listed on your V5C. The 367 PS variant was produced from 2016‑2018; the 390 PS variant was produced from 2018‑2020.",
-        "value": "6. Can I repair an SLC43 engine issue, or does it need replacement?"
-      },
-      {
-        "label": "Most issues — oil leaks, turbocharger wear (if caught early), HPFP failure, transmission hesitation — are repairable. However, if the turbocharger has failed catastrophically and sent metal fragments into the engine, a full engine replacement is usually more cost‑effective than a rebuild. The M276 is a complex, high‑performance engine requiring specialist knowledge.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), meta tags, Open Graph, Twitter Card, and complete JSON‑LD schema.",
-        "value": "* Brand: Mercedes‑Benz"
-      },
-      {
-        "label": "* Domain: mercedesengine.uk",
-        "value": "* Data tag: MB‑"
-      },
-      {
-        "label": "* Specialist count: 25+",
-        "value": "* Scrap threshold: 70%"
-      },
-      {
-        "label": "* CTA Mode: Consultative (Priority M)",
-        "value": "* Era Map rows: 2 (M276.822 367 PS, M276.822 390 PS)"
-      },
-      {
-        "label": "* Engine codes: M276.822",
-        "value": "* Service schema price range: £1,800 (lowest used) to £4,500 (highest rebuilt) — spans full Era Map history"
-      },
-      {
-        "label": "* Model Page needed: Mercedes-AMG SLC-Class R172 Generation Page",
-        "value": "* Generation Page needed: Mercedes-AMG SLC-Class R172 Generation Page (for cost inheritance)"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-AMG SLC43 engine replacement cost in the UK?",
+        "answer": "A reconditioned SLC43 engine (M276.822) typically costs £3,312–£4,500 supply only depending on power output (367 PS or 390 PS). A replacement M276.822 engine costs on average £3,312 in good condition. Labour costs for engine replacement typically range from £800 to £2,500. On average, a full engine replacement can run anywhere between £1,500 and £5,000. Fitting adds £1,200–£1,800. Use our calculator for a figure specific to your vehicle."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-AMG SLC43 engine reliable?",
+        "answer": "The M276 is generally considered a reliable engine. However, it has known weaknesses: oil leaks from turbocharger oil feed lines and camshaft adjuster solenoids, turbocharger wear, HPFP issues, and 9G‑Tronic transmission hesitation. The C43 AMG with the same engine has been reported as \"super reliable\" even at 90,000 miles. Regular oil changes (every 8,000‑10,000 miles) are essential to maintain reliability."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-AMG SLC43?",
+        "answer": "The most common issues are oil leaks (turbo oil feed lines and camshaft adjuster solenoids), turbocharger wear (whining, wastegate rattle, loss of power), high‑pressure fuel pump failure (hard starting, rough running), and 9G‑Tronic transmission hesitation. The M276 engine is generally reliable when properly maintained."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing an SLC43 engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a tidy £15,000–£30,000 SLC43, a £3,312–£4,500 recon is 10‑30% of the car's value — often worth it on well‑maintained examples. If the engine has suffered catastrophic turbo failure or timing chain failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing. The SLC43 is a rare and collectable car, so well‑preserved examples may justify the investment."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my SLC43's engine code?",
+        "answer": "The SLC43 AMG uses the M276.822 engine code — a 3.0‑litre V6 bi‑turbo. The engine code is stamped on the engine block and listed on your V5C. The 367 PS variant was produced from 2016‑2018; the 390 PS variant was produced from 2018‑2020."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair an SLC43 engine issue, or does it need replacement?",
+        "answer": "Most issues — oil leaks, turbocharger wear (if caught early), HPFP failure, transmission hesitation — are repairable. However, if the turbocharger has failed catastrophically and sent metal fragments into the engine, a full engine replacement is usually more cost‑effective than a rebuild. The M276 is a complex, high‑performance engine requiring specialist knowledge."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes-AMG SLC43 Owners Trust MercedesEngine.uk",

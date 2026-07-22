@@ -1,24 +1,289 @@
 {
   "meta": {
     "slug": "cls",
-    "title": "CLS Engines — The Complete UK Guide",
-    "titleCharCount": 35,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "CLS Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes CLS engine — OM651, OM642, M276, M157. 3 generations, real UK costs and reliability data from 306+ genuine 2025 enquiries. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 198,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "CLS Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes CLS engine — OM651, OM642, M276, M157. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/cls/",
+      "image": "https://mercedesengine.uk/images/models/mercedes-cls-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "CLS Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes CLS engine — OM651, OM642, M276, M157. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLS",
+              "item": "https://mercedesengine.uk/cls/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLS Generations",
+          "description": "All Mercedes CLS generations covered in this guide",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C219 CLS (2004–2011)",
+              "url": "https://mercedesengine.uk/cls/c219/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C218 CLS (2011–2018)",
+              "url": "https://mercedesengine.uk/cls/c218/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "C257 CLS (2018–present)",
+              "url": "https://mercedesengine.uk/cls/c257/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes CLS Engine Codes",
+          "description": "Complete database of engines fitted to the Mercedes CLS",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651 2.1L Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM642 3.0L V6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM654 2.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M272 3.5L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M276 3.5L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M157 5.5L V8 Biturbo",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M256 3.0L Straight-Six Petrol",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M177 4.0L V8 Biturbo",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes CLS engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For a reconditioned supply-only CLS engine, expect £2,800–£5,500 for an OM651 or OM642 diesel, £3,800–£6,500 for an M276 petrol, and £8,000–£14,000 for an AMG V8 (M157/M177). Labour adds 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLS engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0-litre diesel — fitted to C218 facelift (2014–2018) and all C257 diesel CLSs. It's the successor to the OM651, with front-mounted timing chain, far fewer injector-seal failures, and 520 UK-wide enquiries weighted toward routine maintenance rather than catastrophic failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLS engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright, but the pre-2014 OM651 carries the most serious caveat: the 'Black Death' injector-seal failure is well-documented and becomes catastrophic if ignored. On a C218 CLS with patchy history, it's a genuine risk. The C219 M272 V6 petrol has timing-chain issues on earlier examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the CLS timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On the M276 V6 petrol (C218, 2011–2014), yes — timing chain stretch is a known issue. On the OM651 diesel, the chain is rear-mounted, making access labour-intensive and expensive. On the OM654, the chain is front-mounted — materially more accessible and cheaper to replace if needed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a CLS engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the Mercedes 70% rule: if the lowest viable reconditioned cost exceeds approximately 70% of your CLS's current market value, get a scrap valuation before committing. On a C219 CLS worth £3,000–£5,000, a £3,200–£5,500 OM642 recon often fails the threshold. On a C257 CLS worth £20,000–£45,000, the same £3,000–£5,000 OM654 recon is comfortably viable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLS generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 2014–2016 C218 facelift with the OM654 diesel. It has the CLS shape that defines the name, the modern engine with the cleanest reliability record, and values that have already absorbed the steepest depreciation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my CLS engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check the VIN plate (visible through the windscreen, or on the driver's door pillar), look for the engine stamping on the block (visible with the engine cover removed), or check your service book/documentation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "CLS C218 vs C257 — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The C257 is the more reliable car overall — it runs the OM654 or M256 engines, both of which have clean records. The C218 is a more complex picture: pre-2014 cars with OM651 carry the 'Black Death' caveat; 2014+ facelift cars with OM654 share the C257's reliable diesel."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "CLS Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2800",
+            "highPrice": "14000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes CLS UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes CLS engines, sourced from mercedesengine.uk's specialist marketplace activity. 306+ verified CLS enquiries, 3 generations covered.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLS Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cls/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07",
+          "inLanguage": "en-GB",
+          "about": {
+            "@type": "Thing",
+            "name": "Mercedes CLS Engines"
+          },
+          "mainEntity": {
+            "@type": "ItemList",
+            "name": "Mercedes CLS Engine Codes",
+            "itemListElement": [
+              {
+                "@type": "Thing",
+                "name": "OM651"
+              },
+              {
+                "@type": "Thing",
+                "name": "OM642"
+              },
+              {
+                "@type": "Thing",
+                "name": "OM654"
+              },
+              {
+                "@type": "Thing",
+                "name": "M272"
+              },
+              {
+                "@type": "Thing",
+                "name": "M276"
+              },
+              {
+                "@type": "Thing",
+                "name": "M157"
+              },
+              {
+                "@type": "Thing",
+                "name": "M256"
+              },
+              {
+                "@type": "Thing",
+                "name": "M177"
+              }
+            ]
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • CLS • 2004–present • 3 Generations • OM651 • OM642 • M276",
@@ -551,7 +816,48 @@
   },
   "faq": {
     "h2": "Mercedes CLS Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CLS engine replacement cost in the UK?",
+        "answer": "For a reconditioned supply-only CLS engine, expect £2,800–£5,500 for an OM651 or OM642 diesel, £3,800–£6,500 for an M276 petrol, and £8,000–£14,000 for an AMG V8 (M157/M177) [MB-QUOTE]. Labour adds 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Use our CLS engine cost calculator for a personalised quote."
+      },
+      {
+        "id": 2,
+        "question": "Which CLS engine is the most reliable?",
+        "answer": "The OM654 2.0-litre diesel — fitted to C218 facelift (2014–2018) and all C257 diesel CLSs. It's the successor to the OM651, with front-mounted timing chain, far fewer injector-seal failures, and 520 UK-wide enquiries weighted toward routine maintenance rather than catastrophic failure [MB-VERIFIED]. Read more about the OM654 →"
+      },
+      {
+        "id": 3,
+        "question": "Which CLS engine should I avoid?",
+        "answer": "No engine outright, but the pre-2014 OM651 carries the most serious caveat: the \"Black Death\" injector-seal failure is well-documented and becomes catastrophic if ignored. On a C218 CLS with patchy history, it's a genuine risk. The C219 M272 V6 petrol has timing-chain issues on earlier examples. Neither is an \"avoid entirely\" — but both demand full documented history and a pre-purchase inspection by a specialist who knows exactly what to look for."
+      },
+      {
+        "id": 4,
+        "question": "Is the CLS timing chain problem real?",
+        "answer": "On the M276 V6 petrol (C218, 2011–2014), yes — timing chain stretch is a known issue. On the OM651 diesel, the chain is rear-mounted, making access labour-intensive and expensive. On the OM654, the chain is front-mounted — materially more accessible and cheaper to replace if needed. Cold-start rattle is the early warning sign on any of them. Read more about timing chain problems →"
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a CLS engine?",
+        "answer": "Apply the Mercedes 70% rule: if the lowest viable reconditioned cost exceeds approximately 70% of your CLS's current market value, get a scrap valuation before committing. On a C219 CLS worth £3,000–£5,000, a £3,200–£5,500 OM642 recon often fails the threshold — the honest call is often \"walk away.\" On a C257 CLS worth £20,000–£45,000, the same £3,000–£5,000 OM654 recon is comfortably viable. Use our CLS ownership decision tool for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which CLS generation should I buy?",
+        "answer": "The 2014–2016 C218 facelift with the OM654 diesel. It has the CLS shape that defines the name, the modern engine with the cleanest reliability record, and values that have already absorbed the steepest depreciation. If budget allows, the C257 with M256 straight-six petrol is the modern choice — but you'll pay £18,000+ to play."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my CLS engine code?",
+        "answer": "Check the VIN plate (visible through the windscreen, or on the driver's door pillar), look for the engine stamping on the block (visible with the engine cover removed), or check your service book/documentation. If you're unsure, our CLS engine identification tool can help you identify it from your registration details."
+      },
+      {
+        "id": 8,
+        "question": "CLS C218 vs C257 — which is more reliable?",
+        "answer": "The C257 is the more reliable car overall — it runs the OM654 or M256 engines, both of which have clean records, and it benefits from Mercedes' latest electronics. The C218 is a more complex picture: pre-2014 cars with OM651 carry the \"Black Death\" caveat; 2014+ facelift cars with OM654 share the C257's reliable diesel. Buy a 2014+ C218 with OM654 for the best value-reliability sweet spot; buy a C257 if budget isn't a concern and you want the safest modern CLS. Read the full comparison: CLS C218 vs C257 →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

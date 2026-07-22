@@ -1,24 +1,241 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m274",
-    "title": "Mercedes-Benz M274 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m274",
+    "title": "Mercedes M274 Engine — Specs, Reliability & Replacement Cost",
+    "description": "The M274 is a refined turbo four and Ward's 10 Best winner — but camshaft wear is a known weakness from 60k miles. See honest costs and compare specialist quotes.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m274/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes M274 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M274 is a refined turbo four and Ward's 10 Best winner — but camshaft wear is a known weakness from 60k miles. See honest costs and compare specialist quotes.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m274/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m274.jpg",
+      "siteName": "MercedesBenzEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes M274 Engine — Specs, Reliability & Replacement Cost",
+      "description": "The M274 is a refined turbo four and Ward's 10 Best winner — but camshaft wear is a known weakness from 60k miles. See honest costs and compare specialist quotes.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m274.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes-Benz M274",
+              "item": "https://mercedesbenzengine.uk/engines/m274/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M274",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "A-Class W176 A200 / A220 / A250",
+              "url": "https://mercedesbenzengine.uk/models/a-class/w176/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "B-Class W246 B200 / B220 / B250",
+              "url": "https://mercedesbenzengine.uk/models/b-class/w246/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CLA-Class C117 CLA200 / CLA220 / CLA250",
+              "url": "https://mercedesbenzengine.uk/models/cla-class/c117/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "CLA-Class X118 CLA200 / CLA250",
+              "url": "https://mercedesbenzengine.uk/models/cla-class/x118/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "C-Class W205 C180 / C200 / C250 / C300",
+              "url": "https://mercedesbenzengine.uk/models/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "E-Class W212 E200 / E250",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w212/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "E-Class W213 E200 / E250 / E300",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "GLA-Class X156 GLA200 / GLA220 / GLA250",
+              "url": "https://mercedesbenzengine.uk/models/gla-class/x156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "GLC-Class X253 GLC200 / GLC250 / GLC300",
+              "url": "https://mercedesbenzengine.uk/models/glc-class/x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "SLC-Class R172 SLC200 / SLC300",
+              "url": "https://mercedesbenzengine.uk/models/slc-class/r172/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "SLK-Class R172 SLK200 / SLK250",
+              "url": "https://mercedesbenzengine.uk/models/slk-class/r172/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "V-Class W447 V200 / V250",
+              "url": "https://mercedesbenzengine.uk/models/v-class/w447/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M274 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M274 typically costs £2,200–£3,800 supply only, varying by specific variant and power output. Fitting adds £800–£1,200 depending on labour rates. Use our calculator for a figure specific to your car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes M274 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M274 is rated 3.5★ out of 5 — it won Ward's 10 Best Engines in 2017 and is generally refined and efficient, but camshaft adjuster wear and timing chain tensioner issues are well-documented, especially from 60,000 miles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M274 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most common failure is camshaft adjuster (phaser) wear, caused by a design anomaly. Symptoms include cold-start rattle, Check Engine Light, and rough running. Repair requires replacing both camshafts — a £1,000+ job at an independent specialist."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M274?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M274 powered a wide range of Mercedes models including the A-Class (W176), CLA-Class (C117), C-Class (W205), E-Class (W212/W213), GLA-Class (X156), GLC-Class (X253), and SLC/SLK-Class (R172), plus the Infiniti Q50 and Q60."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes M274 the same as the Infiniti version?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Infiniti used the M274 in the Q50 and Q60 under license from Mercedes-Benz. The engine is mechanically identical, though ECU tuning differs slightly between brands. The same camshaft and timing chain issues affect both."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesBenzEngine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M274 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M274 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "800",
+            "highPrice": "5500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M274 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M274, sourced from MercedesBenzEngine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes M274 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m274/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesBenzEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M274 • Petrol • Inline-4 Turbo • 2011–2019",
@@ -316,6 +533,10 @@
       {
         "metric": "* UK Coverage: Our network spans independent specialists across England, Scotland, Wales and Northern Ireland — wherever you are, we'll find you a trusted M274 specialist nearby.",
         "value": "Find the best Mercedes M274 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence."
+      },
+      {
+        "metric": "CTA Button: Compare Mercedes M274 Engine Prices Now →",
+        "value": "Part 2: Meta Data & Schema — Mercedes-Benz M274"
       }
     ]
   },

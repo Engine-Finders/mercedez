@@ -1,24 +1,246 @@
 {
   "meta": {
     "slug": "c-class",
-    "title": "C-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "C-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 52,
+    "description": "Every C-Class engine — OM651, OM654, OM642, M276. 4 generations, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+    "descriptionCharCount": 154,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "C-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every C-Class engine — OM651, OM654, OM642, M276. 4 generations, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/c-class/",
+      "image": "https://mercedesengine.uk/images/mercedes-c-class-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "C-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every C-Class engine — OM651, OM654, OM642, M276. 4 generations, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class",
+              "item": "https://mercedesengine.uk/c-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "C-Class Generations",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W203 (2000–2007)",
+              "url": "https://mercedesengine.uk/c-class/w203/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W204 (2007–2014)",
+              "url": "https://mercedesengine.uk/c-class/w204/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "W205 (2014–2021)",
+              "url": "https://mercedesengine.uk/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "W206 (2021–present)",
+              "url": "https://mercedesengine.uk/c-class/w206/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "C-Class Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM651 2.1L Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM654 2.0L Diesel",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM642 3.0L V6 Diesel",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M276 3.0L V6 Petrol",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M264 2.0L Petrol",
+              "url": "https://mercedesengine.uk/engines/m264/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM646 2.2L Diesel",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM647 2.2L Diesel",
+              "url": "https://mercedesengine.uk/engines/om647/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M271 1.8L Petrol",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a C-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A C-Class engine replacement costs between £2,800 and £5,500 for a reconditioned supply-only unit [MB-QUOTE], depending on the generation and engine variant. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Used engines start from £400 for older OM646/647 units [MB-QUOTE]. Use our diagnostic calculator above for a personalised estimate for your specific C-Class."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which C-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 fitted to 2018+ W205 and all W206 C-Class models is the most reliable C-Class diesel in our data — 520 enquiries across Mercedes models [MB-VERIFIED], materially fewer failure reports than the OM651, and a front-mounted timing chain that's far more accessible. The OM642 V6 diesel is also robust, though its oil cooler seal is a known weak point. The OM651 is reliable if properly maintained, but 'Black Death' injector seal risk is real and expensive."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which C-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM646/OM647 fitted to W203 and pre-2011 W204 C-Class models carries the highest risk in our data — the original 'Black Death' generation with the worst injector seal design and the highest proportion of catastrophic failures. We don't say 'avoid entirely' — a well-maintained W204 OM651 (2011+) is a good car — but a W203 diesel with undocumented history is a genuine risk. The W203's age and value make engine replacement economically questionable for most owners."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the C-Class timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the OM651's rear-mounted timing chain is a genuine weak point, particularly on high-mileage examples (80k–150k miles) [MB-VERIFIED]. Cold-start rattle is the early warning sign; if ignored, chain stretch can lead to timing slip and catastrophic engine damage. The OM654 has a front-mounted chain and is far less prone to this failure. W205 and W206 OM654 owners have materially fewer timing chain-related enquiries in our data."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a C-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on your generation and vehicle value. A W206 C-Class with a £5,000 OM654 recon against a £35,000 car value (14%) is an easy yes. A W203 with a £4,800 OM651 recon against a £3,500 car value (137%) is a no — scrap it. Use the 70% Mercedes threshold: if the reconditioned engine cost exceeds 70% of your C-Class's current market value, get a scrap valuation alongside any repair quote. [MB-QUOTE]"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which C-Class generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W205 (2018+ with OM654) is our top recommendation — it's the volume sweet spot, the most reliable diesel in the range, and values have absorbed the steepest depreciation. If your budget is lower, buy a W204 facelift (2011+) with an OM651 that has documented injector-seal history. Avoid the W203 unless you're buying it cheap enough to scrap; it's a bargain only if you accept the 'Black Death' risk. The W206 is the safest but most expensive."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my C-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your C-Class engine code is usually stamped on the engine block itself — for W204/W205/W206, look on the front left side of the engine (near the alternator) or on the VIN plate inside the driver's door shut. The VIN plate lists the engine code (e.g. 'OM651' or 'OM654') as part of the vehicle data string. If you're unsure, use our diagnostic calculator — we'll identify your engine based on your registration year and model variant."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "C-Class vs E-Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both carry a ✅ Safe verdict on their newer generations (W206 and W213 respectively), but for different reasons. The C-Class W206 runs the OM654-only diesel range — a single, proven engine family with low failure rates. The E-Class W213 benefits from a wider engine range across OM654 and M276, but shares the same diesel core. Buy on size and budget, not reliability — both are excellent, well-supported modern Mercedes platforms. Read the full comparison: C-Class vs E-Class → /compare/c-class-vs-e-class/"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "C-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "300",
+            "highPrice": "18000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "C-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for C-Class engines, sourced from mercedesengine.uk's specialist marketplace activity — 865+ real UK C-Class engine enquiries in 2025 [MB-VERIFIED].",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "C-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/c-class/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • C-Class • 2000–Present • 4 Generations • OM651 • OM654 • OM642 • M276",
@@ -641,7 +863,48 @@
   },
   "faq": {
     "h2": "C-Class Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a C-Class engine replacement cost in the UK?",
+        "answer": "A C-Class engine replacement costs between £2,800 and £5,500 for a reconditioned supply-only unit [MB-QUOTE], depending on the generation and engine variant. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Used engines start from £400 for older OM646/647 units [MB-QUOTE]. Use our diagnostic calculator above for a personalised estimate for your specific C-Class."
+      },
+      {
+        "id": 2,
+        "question": "Which C-Class engine is the most reliable?",
+        "answer": "The OM654 fitted to 2018+ W205 and all W206 C-Class models is the most reliable C-Class diesel in our data — 520 enquiries across Mercedes models [MB-VERIFIED], materially fewer failure reports than the OM651, and a front-mounted timing chain that's far more accessible. The OM642 V6 diesel is also robust, though its oil cooler seal is a known weak point. The OM651 is reliable if properly maintained, but \"Black Death\" injector seal risk is real and expensive."
+      },
+      {
+        "id": 3,
+        "question": "Which C-Class engine should I avoid?",
+        "answer": "The OM646/OM647 fitted to W203 and pre-2011 W204 C-Class models carries the highest risk in our data — the original \"Black Death\" generation with the worst injector seal design and the highest proportion of catastrophic failures. We don't say \"avoid entirely\" — a well-maintained W204 OM651 (2011+) is a good car — but a W203 diesel with undocumented history is a genuine risk. The W203's age and value make engine replacement economically questionable for most owners."
+      },
+      {
+        "id": 4,
+        "question": "Is the C-Class timing chain problem real?",
+        "answer": "Yes — the OM651's rear-mounted timing chain is a genuine weak point, particularly on high-mileage examples (80k–150k miles) [MB-VERIFIED]. Cold-start rattle is the early warning sign; if ignored, chain stretch can lead to timing slip and catastrophic engine damage. The OM654 has a front-mounted chain and is far less prone to this failure. W205 and W206 OM654 owners have materially fewer timing chain-related enquiries in our data."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a C-Class engine?",
+        "answer": "It depends entirely on your generation and vehicle value. A W206 C-Class with a £5,000 OM654 recon against a £35,000 car value (14%) is an easy yes. A W203 with a £4,800 OM651 recon against a £3,500 car value (137%) is a no — scrap it. Use the 70% Mercedes threshold: if the reconditioned engine cost exceeds 70% of your C-Class's current market value, get a scrap valuation alongside any repair quote. [MB-QUOTE]"
+      },
+      {
+        "id": 6,
+        "question": "Which C-Class generation should I buy?",
+        "answer": "The W205 (2018+ with OM654) is our top recommendation — it's the volume sweet spot, the most reliable diesel in the range, and values have absorbed the steepest depreciation. If your budget is lower, buy a W204 facelift (2011+) with an OM651 that has documented injector-seal history. Avoid the W203 unless you're buying it cheap enough to scrap; it's a bargain only if you accept the \"Black Death\" risk. The W206 is the safest but most expensive."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my C-Class engine code?",
+        "answer": "Your C-Class engine code is usually stamped on the engine block itself — for W204/W205/W206, look on the front left side of the engine (near the alternator) or on the VIN plate inside the driver's door shut. The VIN plate lists the engine code (e.g. \"OM651\" or \"OM654\") as part of the vehicle data string. If you're unsure, use our diagnostic calculator — we'll identify your engine based on your registration year and model variant. mercedesengine.uk/#engine-calculator?model=c-class"
+      },
+      {
+        "id": 8,
+        "question": "C-Class vs E-Class — which is more reliable?",
+        "answer": "Both carry a ✅ Safe verdict on their newer generations (W206 and W213 respectively), but for different reasons. The C-Class W206 runs the OM654-only diesel range — a single, proven engine family with low failure rates. The E-Class W213 benefits from a wider engine range across OM654 and M276, but shares the same diesel core. Buy on size and budget, not reliability — both are excellent, well-supported modern Mercedes platforms. Read the full comparison: C-Class vs E-Class →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

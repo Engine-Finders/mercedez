@@ -703,44 +703,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), North West (13%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes GLA200 / GLA250 petrol engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned GLA200 / GLA250 petrol engine typically costs £3,500–£8,500 supply only depending on generation and engine type. A full engine replacement on a Mercedes can cost between £4,500–£6,000 for a blown engine. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes GLA200 / GLA250 petrol engine reliable?"
-      },
-      {
-        "label": "It depends on which engine you're asking about. The M270 (X156, 2013–2020) is generally reliable — the GLA 250 is \"one of the best choices in the gasoline category\" — but it has well‑documented timing chain stretch issues (especially pre‑2014), thermostat failures and camshaft actuator wear. The M260 (H247 GLA250, 2020+) has serious timing chain tensioner and cylinder head failure concerns. The M282 (H247 GLA200, 2020+) suffers from oil consumption, turbo oil feed leaks, dual‑mass flywheel failure, and DCT jerkiness. Regular maintenance is essential.",
-        "value": "3. What are the common problems with the Mercedes GLA200 / GLA250 petrol?"
-      },
-      {
-        "label": "M270 timing chain stretch and thermostat failures (X156), M270 camshaft actuator and MAP sensor issues (GLA250), M260 timing chain tensioner failure and cylinder head failure (H247 GLA250), M282 turbo oil feed leaks, dual‑mass flywheel failure, oil consumption, and DCT jerkiness (H247 GLA200). See the Era Map above for generation‑specific advice.",
-        "value": "4. Is it worth replacing a Mercedes GLA200 / GLA250 petrol engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept H247 GLA250 (values £20,000–£35,000+), a £5,000–£6,000 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older X156 GLA250 (£8,000–£16,000), a £4,000–£5,000 recon is 25–50% of the car's value — often worth it. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing.",
-        "value": "5. How do I find my Mercedes GLA200 / GLA250 petrol engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: X156 GLA200 (2013–2020) = M270 1.6L (156 bhp); X156 GLA250 (2013–2020) = M270 2.0L (211 bhp); H247 GLA250 (2020–present) = M260 2.0L (221 bhp); H247 GLA200 (2020–present) = M282 1.3L (163 bhp). The M282 engine was subject to a recall for turbocharger oil feed line leaks. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the M270 or M260 timing chain, or does it require engine replacement?"
-      },
-      {
-        "label": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,500–£3,000. However, if the chain snaps, a full engine replacement (£3,500–£8,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately. Prefer post‑2014 M270 cars for improved timing chain reliability.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "PART 2 — SECTION 9 + META + SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes GLA200 / GLA250 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned GLA200 / GLA250 petrol engine typically costs £3,500–£8,500 supply only depending on generation and engine type. A full engine replacement on a Mercedes can cost between £4,500–£6,000 for a blown engine. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes GLA200 / GLA250 petrol engine reliable?",
+        "answer": "It depends on which engine you're asking about. The M270 (X156, 2013–2020) is generally reliable — the GLA 250 is \"one of the best choices in the gasoline category\" — but it has well‑documented timing chain stretch issues (especially pre‑2014), thermostat failures and camshaft actuator wear. The M260 (H247 GLA250, 2020+) has serious timing chain tensioner and cylinder head failure concerns. The M282 (H247 GLA200, 2020+) suffers from oil consumption, turbo oil feed leaks, dual‑mass flywheel failure, and DCT jerkiness. Regular maintenance is essential."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes GLA200 / GLA250 petrol?",
+        "answer": "M270 timing chain stretch and thermostat failures (X156), M270 camshaft actuator and MAP sensor issues (GLA250), M260 timing chain tensioner failure and cylinder head failure (H247 GLA250), M282 turbo oil feed leaks, dual‑mass flywheel failure, oil consumption, and DCT jerkiness (H247 GLA200). See the Era Map above for generation‑specific advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes GLA200 / GLA250 petrol engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept H247 GLA250 (values £20,000–£35,000+), a £5,000–£6,000 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older X156 GLA250 (£8,000–£16,000), a £4,000–£5,000 recon is 25–50% of the car's value — often worth it. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes GLA200 / GLA250 petrol engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: X156 GLA200 (2013–2020) = M270 1.6L (156 bhp); X156 GLA250 (2013–2020) = M270 2.0L (211 bhp); H247 GLA250 (2020–present) = M260 2.0L (221 bhp); H247 GLA200 (2020–present) = M282 1.3L (163 bhp). The M282 engine was subject to a recall for turbocharger oil feed line leaks. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M270 or M260 timing chain, or does it require engine replacement?",
+        "answer": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,500–£3,000. However, if the chain snaps, a full engine replacement (£3,500–£8,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately. Prefer post‑2014 M270 cars for improved timing chain reliability."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes GLA200 / GLA250 Petrol Owners Trust MercedesEngine.uk",

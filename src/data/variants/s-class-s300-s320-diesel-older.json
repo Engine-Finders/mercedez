@@ -695,84 +695,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (12%) — flagship saloon strongholds [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes S‑Class S300 / S320 diesel engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned S‑Class diesel engine typically costs £2,200–£4,500 supply only depending on engine generation (OM603, OM606, OM648 or OM642). Mercedes-Benz S‑Class engines are listed at around £2,371. Fitting adds £1,000–£1,800. Use our calculator for a figure specific to your vehicle.",
-        "value": "2. Is the Mercedes S‑Class S300 / S320 diesel engine reliable?"
-      },
-      {
-        "label": "It depends on which generation your S‑Class has. The OM603 and OM606 in the W140 are legendary for their durability — the OM606 is considered \"one of the best passenger diesel engines ever\". The OM648 in the W220 is a smooth, torquey common‑rail inline‑six with a strong reputation. The OM642 in the W221 is a refined V6 but has a well‑documented oil cooler seal weakness. Regular oil changes (every 8,000‑10,000 miles) are essential for all four engines.",
-        "value": "3. What are the common problems with the Mercedes S‑Class S300 / S320 diesel?"
-      },
-      {
-        "label": "On the OM603 and OM606 (W140), the most common issue is timing chain stretch — causing rattling on cold start. On the OM648 (W220), common issues include injector seal failure and EGR valve problems. On the OM642 (W221), the defining weakness is oil cooler seal leaks. All engines can suffer from DPF blockage on urban‑only vehicles and fuel injector issues at high mileage.",
-        "value": "4. Is it worth replacing an S‑Class diesel engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and condition. Against a tidy £4,000–£10,000 S‑Class, a £2,200–£4,500 recon is 20‑60% of the car's value — often worth it on well‑maintained examples. If the timing chain has snapped on an OM603/OM606 or the engine has suffered catastrophic failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing. The W140 S‑Class is becoming a modern classic, so well‑preserved examples may justify the investment.",
-        "value": "5. How do I find my S‑Class's engine code?"
-      },
-      {
-        "label": "The W140 (1993‑1996) S350 TD uses the OM603.971 — a 3.5‑litre inline‑six. The W140 (1996‑1998) S300 TD uses the OM606.961 — a 3.0‑litre inline‑six. The W220 (2002‑2005) S320 CDI uses the OM648.960 — a 3.2‑litre inline‑six. The W221 (2006‑2013) S320 CDI uses the OM642.932 — a 3.0‑litre V6. The engine code is stamped on the engine block and listed on your V5C.",
-        "value": "6. Can I repair an S‑Class diesel engine issue, or does it need replacement?"
-      },
-      {
-        "label": "Most issues — OM603/OM606 timing chain wear (if caught early), OM648 injector/EGR issues, OM642 oil cooler seals — are repairable. However, if the timing chain has snapped on an OM603/OM606 or the engine has suffered major internal failure, a full engine replacement is usually more cost‑effective than a rebuild.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), meta tags, Open Graph, Twitter Card, and complete JSON‑LD schema.",
-        "value": "* Brand: Mercedes‑Benz"
-      },
-      {
-        "label": "* Domain: mercedesengine.uk",
-        "value": "* Data tag: MB‑"
-      },
-      {
-        "label": "* Specialist count: 25+",
-        "value": "* Scrap threshold: 70%"
-      },
-      {
-        "label": "* CTA Mode: Consultative (Priority M)",
-        "value": "* Era Map rows: 4 (OM603.971 W140 S350 TD, OM606.961 W140 S300 TD, OM648.960 W220 S320 CDI, OM642.932 W221 S320 CDI)"
-      },
-      {
-        "label": "* Engine codes: OM603.971, OM606.961, OM648.960, OM642.932",
-        "value": "* Service schema price range: £1,500 (lowest used) to £4,500 (highest rebuilt) — spans full Era Map history"
-      },
-      {
-        "label": "* Model Page needed: Mercedes S‑Class Generation Pages (W140, W220, W221)",
-        "value": "* Generation Pages needed: Mercedes S‑Class Generation Pages (for cost inheritance)"
-      },
-      {
-        "label": "schema. The user just wants me to complete the Mercedes S-Class S300/320 Diesel page.",
-        "value": "I need to generate Part 2 for the Mercedes S-Class S300/320 Diesel (older). The user's current query is just \"Part 2\", so I need to follow the established pattern from the history. Let me recall the structure from previous Part 2 responses."
-      },
-      {
-        "label": "Looking at the history, Part 2 always includes Section 9 (Trust + Final CTA), the meta tags, Open Graph and Twitter Card tags, and the full JSON-LD schema. I also need to include the Production Note at the end. The Part 1 summary is always provided at the",
-        "value": "Section 9, I need to write 3 trust points and a final CTA. For the trust points, I should highlight the engine family's legendary reputation, the specific common issues for each generation (timing chain, injectors, oil cooler seals), and the importance of regular maintenance. The final CTA should encourage users to compare quotes."
-      },
-      {
-        "label": "For meta, I need a title and description within the character limits. The meta title should be around 58 characters, the description around 160. I should use keywords like the model names, engine codes, and \"real UK costs.\"",
-        "value": "For schema, the JSON-LD must include all the required blocks: BreadcrumbList, two ItemLists (era map and engine codes), FAQPage, Organization, Service, Dataset, and WebPage. The Service schema needs the price range from the Part 1 summary. The FAQPage needs the 6 questions from Section 8 of Part 1."
-      },
-      {
-        "label": "The Production Note needs to confirm details like the omitted AggregateRating, the source of the price range, the use of Organization over LocalBusiness, and confirm the schema/content consistency check.",
-        "value": "I need to ensure consistency with the Part 1 content. The era map and engine codes must match exactly. The replacement costs should reflect the ranges from Part 1. The common problems listed in Section 3 should inform the trust points and FAQ answers."
-      },
-      {
-        "label": "Alright, I have all the pieces. I'll structure the response exactly like the other Part 2 examples, plugging in the correct details for the S-Class diesel.",
-        "value": "Mercedes S‑Class S300/320 Diesel (older) — VARIANT PAGE, PART 2"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes S‑Class S300 / S320 diesel engine replacement cost in the UK?",
+        "answer": "A reconditioned S‑Class diesel engine typically costs £2,200–£4,500 supply only depending on engine generation (OM603, OM606, OM648 or OM642). Mercedes-Benz S‑Class engines are listed at around £2,371. Fitting adds £1,000–£1,800. Use our calculator for a figure specific to your vehicle."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes S‑Class S300 / S320 diesel engine reliable?",
+        "answer": "It depends on which generation your S‑Class has. The OM603 and OM606 in the W140 are legendary for their durability — the OM606 is considered \"one of the best passenger diesel engines ever\". The OM648 in the W220 is a smooth, torquey common‑rail inline‑six with a strong reputation. The OM642 in the W221 is a refined V6 but has a well‑documented oil cooler seal weakness. Regular oil changes (every 8,000‑10,000 miles) are essential for all four engines."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes S‑Class S300 / S320 diesel?",
+        "answer": "On the OM603 and OM606 (W140), the most common issue is timing chain stretch — causing rattling on cold start. On the OM648 (W220), common issues include injector seal failure and EGR valve problems. On the OM642 (W221), the defining weakness is oil cooler seal leaks. All engines can suffer from DPF blockage on urban‑only vehicles and fuel injector issues at high mileage."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing an S‑Class diesel engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a tidy £4,000–£10,000 S‑Class, a £2,200–£4,500 recon is 20‑60% of the car's value — often worth it on well‑maintained examples. If the timing chain has snapped on an OM603/OM606 or the engine has suffered catastrophic failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing. The W140 S‑Class is becoming a modern classic, so well‑preserved examples may justify the investment."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my S‑Class's engine code?",
+        "answer": "The W140 (1993‑1996) S350 TD uses the OM603.971 — a 3.5‑litre inline‑six. The W140 (1996‑1998) S300 TD uses the OM606.961 — a 3.0‑litre inline‑six. The W220 (2002‑2005) S320 CDI uses the OM648.960 — a 3.2‑litre inline‑six. The W221 (2006‑2013) S320 CDI uses the OM642.932 — a 3.0‑litre V6. The engine code is stamped on the engine block and listed on your V5C."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair an S‑Class diesel engine issue, or does it need replacement?",
+        "answer": "Most issues — OM603/OM606 timing chain wear (if caught early), OM648 injector/EGR issues, OM642 oil cooler seals — are repairable. However, if the timing chain has snapped on an OM603/OM606 or the engine has suffered major internal failure, a full engine replacement is usually more cost‑effective than a rebuild."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes S‑Class S300 / S320 Diesel Owners Trust MercedesEngine.uk",

@@ -619,44 +619,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (14%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes GLE350d / GLE400d engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned GLE350d / GLE400d (OM656) engine typically costs £5,000–£12,000 supply only depending on variant. A tandem oil/vacuum pump replacement can cost £4,500 or more. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes GLE350d / GLE400d engine reliable?"
-      },
-      {
-        "label": "The OM656 is \"generally considered a reliable engine\" and \"a very good engine\" with proper maintenance. However, it has serious vulnerabilities: the tandem oil/vacuum pump failure is the defining weakness — a £4,500+ engine‑out job. Coolant ingress into the vacuum system is a safety‑critical recall item. The 400d adds turbo vacuum pipe collapse and excessive oil consumption. As one owner put it: \"I certainly won't be buying into this Mercedes design failure\".",
-        "value": "3. What are the common problems with the Mercedes GLE350d / GLE400d?"
-      },
-      {
-        "label": "Tandem oil/vacuum pump failure (engine‑out job, £4,500+), coolant ingress into the vacuum system (recall — fire risk), turbo actuator vacuum pipe collapse (400d), excessive oil consumption (400d), EGR and AdBlue system issues, and DPF blockage. See the Era Map above for detailed advice.",
-        "value": "4. Is it worth replacing a Mercedes GLE350d / GLE400d engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept GLE400d (values £40,000–£70,000+ depending on year and mileage), a £6,000–£8,000 reconditioned engine is 10–20% of the vehicle's value — worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the GLE's status as a premium SUV, engine replacement is often worth it for a good example — but only with a warranty.",
-        "value": "5. How do I find my Mercedes GLE350d / GLE400d engine code?"
-      },
-      {
-        "label": "The engine code OM656 is listed on the VIN plate and vehicle documentation. The GLE350d produces 268–272 bhp, while the GLE400d produces 330 bhp. The OM656 is a 2.9‑litre inline‑six diesel, introduced in 2017 and used across the GLE, GLS, S‑Class and E‑Class ranges. Tell us your registration and we'll confirm for free.",
-        "value": "6. Has the Mercedes GLE350d / GLE400d been recalled for the tandem pump issue?"
-      },
-      {
-        "label": "Yes — Mercedes‑Benz issued a recall for more than 800,000 vehicles with OM654 and OM656 engines due to a coolant pump leak that could allow coolant to enter the vacuum circuit. This could cause increased temperature, loss of braking assistance, and potential fire risk. Check your vehicle's recall status immediately — this is a safety‑critical item.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "PART 2 — SECTION 9 + META + SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes GLE350d / GLE400d engine replacement cost in the UK?",
+        "answer": "A reconditioned GLE350d / GLE400d (OM656) engine typically costs £5,000–£12,000 supply only depending on variant. A tandem oil/vacuum pump replacement can cost £4,500 or more. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes GLE350d / GLE400d engine reliable?",
+        "answer": "The OM656 is \"generally considered a reliable engine\" and \"a very good engine\" with proper maintenance. However, it has serious vulnerabilities: the tandem oil/vacuum pump failure is the defining weakness — a £4,500+ engine‑out job. Coolant ingress into the vacuum system is a safety‑critical recall item. The 400d adds turbo vacuum pipe collapse and excessive oil consumption. As one owner put it: \"I certainly won't be buying into this Mercedes design failure\"."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes GLE350d / GLE400d?",
+        "answer": "Tandem oil/vacuum pump failure (engine‑out job, £4,500+), coolant ingress into the vacuum system (recall — fire risk), turbo actuator vacuum pipe collapse (400d), excessive oil consumption (400d), EGR and AdBlue system issues, and DPF blockage. See the Era Map above for detailed advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes GLE350d / GLE400d engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept GLE400d (values £40,000–£70,000+ depending on year and mileage), a £6,000–£8,000 reconditioned engine is 10–20% of the vehicle's value — worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the GLE's status as a premium SUV, engine replacement is often worth it for a good example — but only with a warranty."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes GLE350d / GLE400d engine code?",
+        "answer": "The engine code OM656 is listed on the VIN plate and vehicle documentation. The GLE350d produces 268–272 bhp, while the GLE400d produces 330 bhp. The OM656 is a 2.9‑litre inline‑six diesel, introduced in 2017 and used across the GLE, GLS, S‑Class and E‑Class ranges. Tell us your registration and we'll confirm for free."
+      },
+      {
+        "id": 6,
+        "question": "Has the Mercedes GLE350d / GLE400d been recalled for the tandem pump issue?",
+        "answer": "Yes — Mercedes‑Benz issued a recall for more than 800,000 vehicles with OM654 and OM656 engines due to a coolant pump leak that could allow coolant to enter the vacuum circuit. This could cause increased temperature, loss of braking assistance, and potential fire risk. Check your vehicle's recall status immediately — this is a safety‑critical item."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes GLE350d / GLE400d Owners Trust MercedesEngine.uk",

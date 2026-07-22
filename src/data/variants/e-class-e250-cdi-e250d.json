@@ -634,44 +634,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), North West (13%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes E250 CDI / E250d engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned E250 CDI / E250d engine typically costs £4,000–£8,500 supply only depending on generation. A timing chain replacement alone costs £1,500–£2,500. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes E250 CDI / E250d engine reliable?"
-      },
-      {
-        "label": "It depends on which generation you're asking about. The OM651 (E250 CDI, 2009–2016) is a high‑tech diesel with serious drawbacks — timing chain stretch is the defining weakness, requiring a complex and costly replacement. Injector failures, oil leaks, and DPF/EGR issues are also common. The OM654 (E250d, 2016+) is lighter, more efficient, and more reliable, but turbocharger failures, injector issues, and timing chain concerns have been reported. Regular maintenance is essential.",
-        "value": "3. What are the common problems with the Mercedes E250 CDI / E250d?"
-      },
-      {
-        "label": "OM651 timing chain stretch and piezo injector failure (E250 CDI), OM651 oil leaks and cooling system issues, DPF and EGR problems (both generations), OM654 turbocharger failure and injector issues (E250d), and 7G‑Tronic transmission issues. See the Era Map above for generation‑specific advice.",
-        "value": "4. Is it worth replacing a Mercedes E250 CDI / E250d engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept W213 E250d (values £15,000–£30,000+), a £4,500–£5,500 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older W212 E250 CDI (£4,000–£12,000), a £4,000–£5,000 recon is 30–80% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing.",
-        "value": "5. How do I find my Mercedes E250 CDI / E250d engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W212/S212/C207/A207 (2009–2016) = OM651 (2.1L, 204 bhp); W213/S213 (2016–present) = OM654 (2.0L, 194 bhp). The OM651 was subject to a recall over faulty chain tensioner sealing rings. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the OM651 timing chain, or does it require engine replacement?"
-      },
-      {
-        "label": "Yes — if caught early. A preventative timing chain, tensioner and sprocket replacement costs £1,500–£2,500. However, the OM651's timing chain is located on the output side of the engine, making replacement technically complex and costly. If the chain snaps, a full engine replacement (£4,000–£7,000) is usually required. At the first sign of cold‑start rattle, book an inspection immediately.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "PART 2 — SECTION 9 + META + SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes E250 CDI / E250d engine replacement cost in the UK?",
+        "answer": "A reconditioned E250 CDI / E250d engine typically costs £4,000–£8,500 supply only depending on generation. A timing chain replacement alone costs £1,500–£2,500. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes E250 CDI / E250d engine reliable?",
+        "answer": "It depends on which generation you're asking about. The OM651 (E250 CDI, 2009–2016) is a high‑tech diesel with serious drawbacks — timing chain stretch is the defining weakness, requiring a complex and costly replacement. Injector failures, oil leaks, and DPF/EGR issues are also common. The OM654 (E250d, 2016+) is lighter, more efficient, and more reliable, but turbocharger failures, injector issues, and timing chain concerns have been reported. Regular maintenance is essential."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes E250 CDI / E250d?",
+        "answer": "OM651 timing chain stretch and piezo injector failure (E250 CDI), OM651 oil leaks and cooling system issues, DPF and EGR problems (both generations), OM654 turbocharger failure and injector issues (E250d), and 7G‑Tronic transmission issues. See the Era Map above for generation‑specific advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes E250 CDI / E250d engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept W213 E250d (values £15,000–£30,000+), a £4,500–£5,500 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older W212 E250 CDI (£4,000–£12,000), a £4,000–£5,000 recon is 30–80% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes E250 CDI / E250d engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W212/S212/C207/A207 (2009–2016) = OM651 (2.1L, 204 bhp); W213/S213 (2016–present) = OM654 (2.0L, 194 bhp). The OM651 was subject to a recall over faulty chain tensioner sealing rings. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM651 timing chain, or does it require engine replacement?",
+        "answer": "Yes — if caught early. A preventative timing chain, tensioner and sprocket replacement costs £1,500–£2,500. However, the OM651's timing chain is located on the output side of the engine, making replacement technically complex and costly. If the chain snaps, a full engine replacement (£4,000–£7,000) is usually required. At the first sign of cold‑start rattle, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes E250 CDI / E250d Owners Trust MercedesEngine.uk",

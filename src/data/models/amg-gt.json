@@ -1,24 +1,232 @@
 {
   "meta": {
     "slug": "amg-gt",
-    "title": "AMG GT Engines — The Complete UK Guide",
-    "titleCharCount": 38,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "AMG GT Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every AMG GT engine — M178, M256, M139, M177. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
+    "descriptionCharCount": 158,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "AMG GT Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every AMG GT engine — M178, M256, M139, M177. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/mercedes/amg-gt/",
       "image": "",
-      "siteName": ""
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "AMG GT Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every AMG GT engine — M178, M256, M139, M177. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "AMG GT",
+              "item": "https://mercedesengine.uk/mercedes/amg-gt/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "AMG GT Generations",
+          "description": "All Mercedes-AMG GT generations covered on this page",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C190 / R190 AMG GT (2015–2023)",
+              "url": "https://mercedesengine.uk/mercedes/amg-gt/c190/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C192 AMG GT (2024–present)",
+              "url": "https://mercedesengine.uk/mercedes/amg-gt/c192/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "AMG GT Engine Codes",
+          "description": "All verified Mercedes-AMG GT engine codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M178 4.0 V8 biturbo",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M178 4.0 V8 biturbo (post-2018 revision)",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M256 3.0 six-cylinder mild hybrid",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M139 2.0 four-cylinder turbo",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M177 4.0 V8 biturbo + PHEV",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an AMG GT engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An AMG GT engine replacement ranges from £6,000–£10,000 for a reconditioned M178 V8 unit (supply-only) [MB-QUOTE]. Labour adds 16–22 hours at £95–£150/hr independent specialist, or £160–£220/hr at a London/SE dealer — so fitted cost is roughly £7,500–£13,000. The M139 four-cylinder is cheaper at £4,000–£8,000 recon; the M177 PHEV is more expensive at £10,000–£18,000. Use our calculator for a personalised quote based on your specific engine, generation and location."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which AMG GT engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M178 4.0 V8 biturbo (post-2018 revision) is the most reliable AMG GT engine — the revised timing chain tensioner and improved oil system make it materially more robust than the early (2015–2017) M178. The M256 six-cylinder is also reliable (used in the GT 4-door), but the defining AMG GT engine is the M178 V8."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which AMG GT engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M139 2.0 four-cylinder in the C192 GT 43 is the highest-risk engine — not because it's inherently unreliable (it's proven in the A45 S), but because it's unproven in the GT's front-mid-engined layout at high mileage. Heat management and turbocharger oil-line degradation are emerging concerns. The real avoid is the C192 GT 43 as a car — not the engine itself, but the compromise it represents. Buy the V8 if you can stretch to it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the AMG GT timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On the early M178 (2015–2017), timing chain tensioner wear can occur — rattle on cold start is the primary symptom. Unlike the BMW N47's catastrophic chain failure, the M178's chain failure is rare but expensive if ignored (£1,500–£3,000 repair). Post-2017 M178 examples have revised tensioners and the problem is materially less common. If you're buying a 2015–2017 C190, listen for cold-start rattle and insist on inspection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an AMG GT engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almost always yes. A C190 AMG GT S (2017–2020) at typical market value of £55,000–£85,000 against a £6,000–£10,000 recon cost sits at 7–18% — comfortably below our 70% threshold [MB-QUOTE]. A C192 AMG GT 63 S E Performance at £120,000–£200,000 against a £10,000–£18,000 recon cost sits at 5–15% — trivially safe. The only caveat is the GT 43's depreciation — a £101,000 new car will lose significant value in its first few years, and the engine replacement cost may be a smaller concern than the car's overall value loss. Use our calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which AMG GT should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy a post-2017 C190 AMG GT S (2018–2020) with the M178 V8 — the revised timing chain tensioner, the 510–522 bhp output, and values that have already absorbed the steepest depreciation (£55,000–£85,000) make this the used-buy sweet spot. If your budget stretches and you want the latest tech, buy a C192 GT 55 or GT 63 with the M178 V8 — but avoid the four-cylinder GT 43 unless you're specifically after the entry price point and don't care about the V8 experience."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my AMG GT engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The easiest way is to check your VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is the first three characters of the engine number (e.g. 'M178' for the 4.0-litre V8). Alternatively, check your vehicle's registration document (V5C), which lists the engine number. If you're still unsure, use our identification tool — we'll match your VIN to the correct engine and show you the exact replacement cost."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "AMG GT vs Porsche 911 — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Porsche 911 has a reputation for bulletproof reliability — the 3.0-litre and 3.8-litre flat-six engines are well-documented and robust at high mileage. The AMG GT's M178 V8 is also reliable when maintained, but the turbocharger actuator failure (£800–£2,000) and timing chain tensioner wear (early examples) are real caveats. The honest verdict: the 911 is the more reliable, more dailyable sports car; the AMG GT is the more dramatic, more emotionally engaging car. Buy the GT for the experience; buy the 911 if you want a sports car you can use every day."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          },
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "AMG GT Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "4000",
+            "highPrice": "18000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-AMG GT UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-AMG GT engines, sourced from mercedesengine.uk's specialist marketplace activity. Covers C190 and C192 generations with M178, M256, M139 and M177 engine families.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "AMG GT Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes/amg-gt/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07",
+          "inLanguage": "en-GB",
+          "about": {
+            "@type": "Thing",
+            "name": "Mercedes-AMG GT engine replacement and reliability guide"
+          },
+          "mainEntity": {
+            "@type": "Service",
+            "name": "AMG GT Engine Replacement",
+            "description": "Complete UK guide to Mercedes-AMG GT engine replacement, reliability, common failures and costs"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-AMG • GT • 2015–present • 2 Generations • M178 • M256 • M139",
@@ -567,7 +775,48 @@
   },
   "faq": {
     "h2": "AMG GT Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does an AMG GT engine replacement cost in the UK?",
+        "answer": "An AMG GT engine replacement ranges from £6,000–£10,000 for a reconditioned M178 V8 unit (supply-only) [MB-QUOTE]. Labour adds 16–22 hours at £95–£150/hr independent specialist, or £160–£220/hr at a London/SE dealer — so fitted cost is roughly £7,500–£13,000. The M139 four-cylinder is cheaper at £4,000–£8,000 recon; the M177 PHEV is more expensive at £10,000–£18,000. Use our calculator for a personalised quote based on your specific engine, generation and location → [/fault-diagnostic-calculator?model=amg-gt]"
+      },
+      {
+        "id": 2,
+        "question": "Which AMG GT engine is the most reliable?",
+        "answer": "The M178 4.0 V8 biturbo (post-2018 revision) is the most reliable AMG GT engine — the revised timing chain tensioner and improved oil system make it materially more robust than the early (2015–2017) M178. The M256 six-cylinder is also reliable (used in the GT 4-door), but the defining AMG GT engine is the M178 V8 [PATTERN DATA]."
+      },
+      {
+        "id": 3,
+        "question": "Which AMG GT engine should I avoid?",
+        "answer": "The M139 2.0 four-cylinder in the C192 GT 43 is the highest-risk engine — not because it's inherently unreliable (it's proven in the A45 S), but because it's unproven in the GT's front-mid-engined layout at high mileage. Heat management and turbocharger oil-line degradation are emerging concerns. The real avoid is the C192 GT 43 as a car — not the engine itself, but the compromise it represents. Buy the V8 if you can stretch to it."
+      },
+      {
+        "id": 4,
+        "question": "Is the AMG GT timing chain problem real?",
+        "answer": "On the early M178 (2015–2017) , timing chain tensioner wear can occur — rattle on cold start is the primary symptom. Unlike the BMW N47's catastrophic chain failure, the M178's chain failure is rare but expensive if ignored (£1,500–£3,000 repair). Post‑2017 M178 examples have revised tensioners and the problem is materially less common. If you're buying a 2015–2017 C190, listen for cold-start rattle and insist on inspection."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing an AMG GT engine?",
+        "answer": "Almost always yes. A C190 AMG GT S (2017–2020) at typical market value of £55,000–£85,000 against a £6,000–£10,000 recon cost sits at 7–18% — comfortably below our 70% threshold [MB-QUOTE]. A C192 AMG GT 63 S E Performance at £120,000–£200,000 against a £10,000–£18,000 recon cost sits at 5–15% — trivially safe. The only caveat is the GT 43's depreciation — a £101,000 new car will lose significant value in its first few years, and the engine replacement cost may be a smaller concern than the car's overall value loss. Use our calculator for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which AMG GT should I buy?",
+        "answer": "Buy a post‑2017 C190 AMG GT S (2018–2020) with the M178 V8 — the revised timing chain tensioner, the 510–522 bhp output, and values that have already absorbed the steepest depreciation (£55,000–£85,000) make this the used-buy sweet spot. If your budget stretches and you want the latest tech, buy a C192 GT 55 or GT 63 with the M178 V8 — but avoid the four‑cylinder GT 43 unless you're specifically after the entry price point and don't care about the V8 experience."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my AMG GT engine code?",
+        "answer": "The easiest way is to check your VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is the first three characters of the engine number (e.g. \"M178\" for the 4.0-litre V8). Alternatively, check your vehicle's registration document (V5C), which lists the engine number. If you're still unsure, use our identification tool — we'll match your VIN to the correct engine and show you the exact replacement cost → [/fault-diagnostic-calculator?model=amg-gt]"
+      },
+      {
+        "id": 8,
+        "question": "AMG GT vs Porsche 911 — which is more reliable?",
+        "answer": "The Porsche 911 has a reputation for bulletproof reliability — the 3.0-litre and 3.8-litre flat-six engines are well-documented and robust at high mileage. The AMG GT's M178 V8 is also reliable when maintained, but the turbocharger actuator failure (£800–£2,000) and timing chain tensioner wear (early examples) are real caveats. The honest verdict: the 911 is the more reliable, more dailyable sports car; the AMG GT is the more dramatic, more emotionally engaging car. Buy the GT for the experience; buy the 911 if you want a sports car you can use every day. Read the full comparison: AMG GT vs Porsche 911 →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

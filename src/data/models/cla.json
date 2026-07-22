@@ -1,24 +1,240 @@
 {
   "meta": {
     "slug": "cla",
-    "title": "CLA Engines — The Complete UK Guide",
-    "titleCharCount": 35,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "CLA Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 47,
+    "description": "Every CLA engine — M270, OM651, M282, OM654, M139. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+    "descriptionCharCount": 159,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "CLA Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every CLA engine — M270, OM651, M282, OM654, M139. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/cla/",
+      "image": "https://mercedesengine.uk/images/models/cla-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "CLA Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every CLA engine — M270, OM651, M282, OM654, M139. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLA",
+              "item": "https://mercedesengine.uk/cla/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "CLA Generations",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C117 (2013–2019)",
+              "url": "https://mercedesengine.uk/cla/c117/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C118 (2019–2025)",
+              "url": "https://mercedesengine.uk/cla/c118/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "C178/C174 (2025–present)",
+              "url": "https://mercedesengine.uk/cla/c178/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "CLA Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M270 DE16",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M270 DE20",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM651",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M282",
+              "url": "https://mercedesengine.uk/engines/m282/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M260",
+              "url": "https://mercedesengine.uk/engines/m260/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM654",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M139",
+              "url": "https://mercedesengine.uk/engines/m139/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM608",
+              "url": "https://mercedesengine.uk/engines/om608/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a CLA engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A CLA engine replacement costs £1,500–£8,000 supply‑only depending on the engine and condition — a reconditioned OM651 for the C117 is £2,800–£4,800 [MB-QUOTE], a reconditioned M282 for the C118 is £1,800–£3,000 [MB-QUOTE], and an M139 AMG unit is £5,000–£8,000 [MB-QUOTE]. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Use our diagnostic calculator for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLA engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 2.0‑litre diesel — fitted to the C118 CLA 200d and 220d (2019–present) — is the most reliable CLA engine. It generated just 520 UK enquiries in 2025 compared to the OM651's 1,250, with materially fewer failure reports [MB-VERIFIED]. The M282 1.3 petrol is also reliable, though early units (2019–2021) had coolant‑leak issues resolved by the 2023 facelift."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLA engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 2.1‑litre diesel in the C117 CLA (2013–2019) — specifically pre‑2016 examples without documented injector‑seal (“Black Death”) history. The copper injector seals degrade, leaking combustion gases into a carbon “tar” that can weld the injector into the head. A £400–£1,200 seal repair can become a full engine replacement if ignored."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my CLA engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Concrete symptoms by engine: OM651 diesel (C117) — chemical smell around the injectors, black carbon “tar” visible on the engine cover, cold‑start rattle, loss of power. M282 petrol (C118) — coolant loss with no visible leak, overheating, misfire codes. OM654 diesel (C118) — AdBlue warning lights, NOx sensor errors, EGR cooler leaks. M139 AMG (C118 CLA 45) — high‑pressure fuel pump noise, misfire under load, loss of power."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a CLA engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your car's current market value, get a scrap valuation before committing. C117 OM651 diesel — 80–95% of value — not worth replacing. C117 M270 petrol — 38–80% — borderline. C118 OM654 diesel — 20–60% — worth replacing. C118 M282 petrol — 23–38% — worth replacing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLA generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy a 2023+ C118 CLA (facelift) with the M282 1.3 petrol — it's the most reliable, cheapest‑to‑run CLA you can own. If you do regular motorway miles, the OM654 diesel (2020+) is also a strong choice. Avoid the C117 OM651 diesel unless you have documented injector‑seal history and are comfortable with the replacement‑cost risk."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my CLA engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check the VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is encoded in positions 4–8 of the VIN. The vehicle registration document (V5C) lists the engine number in Section 4. Under‑bonnet sticker on the slam panel or timing cover often shows the engine code. If unsure, use our diagnostic calculator to help identify it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "CLA vs A‑Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They share platforms and engines — the C117 CLA shares with the W176 A‑Class; the C118 CLA shares with the W177 A‑Class. Reliability is identical for the same engine and generation. The difference is style and practicality — the CLA is a four‑door coupé; the A‑Class is a hatchback. The same engine‑reliability rules apply to both."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "CLA Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "600",
+            "highPrice": "10000"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "CLA UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for CLA engines, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLA Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cla/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes‑Benz • CLA • 2013–present • 2 Generations • M270 • M282 • OM651 • OM654 • M139",
@@ -624,7 +840,48 @@
   },
   "faq": {
     "h2": "CLA Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a CLA engine replacement cost in the UK?",
+        "answer": "A CLA engine replacement costs £1,500–£8,000 supply‑only depending on the engine and condition — a reconditioned OM651 for the C117 is £2,800–£4,800 [MB-QUOTE], a reconditioned M282 for the C118 is £1,800–£3,000 [MB-QUOTE], and an M139 AMG unit is £5,000–£8,000 [MB-QUOTE]. Labour adds 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Use our diagnostic calculator for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which CLA engine is the most reliable?",
+        "answer": "The OM654 2.0‑litre diesel — fitted to the C118 CLA 200d and 220d (2019–present) — is the most reliable CLA engine. It generated just 520 UK enquiries in 2025 compared to the OM651's 1,250, with materially fewer failure reports [MB-VERIFIED]. The M282 1.3 petrol is also reliable, though early units (2019–2021) had coolant‑leak issues resolved by the 2023 facelift. Read more about the OM654 →"
+      },
+      {
+        "id": 3,
+        "question": "Which CLA engine should I avoid?",
+        "answer": "The OM651 2.1‑litre diesel in the C117 CLA (2013–2019) — specifically pre‑2016 examples without documented injector‑seal (“Black Death”) history. The copper injector seals degrade, leaking combustion gases into a carbon “tar” that can weld the injector into the head. A £400–£1,200 seal repair can become a full engine replacement if ignored. It's not a reason to avoid the engine entirely, but it's a reason to demand full history and a pre‑purchase inspection. Read more about OM651 “Black Death” →"
+      },
+      {
+        "id": 4,
+        "question": "How do I know if my CLA engine needs replacing?",
+        "answer": "Concrete symptoms by engine: * OM651 diesel (C117) — chemical smell around the injectors, black carbon “tar” visible on the engine cover, cold‑start rattle, loss of power. If you see black tar, book a specialist inspection immediately — injector seal failure is the primary risk. * M282 petrol (C118) — coolant loss with no visible leak, overheating, misfire codes. Water pump and thermostat housing failure are the known weak points. * OM654 diesel (C118) — AdBlue warning lights, NOx sensor errors, EGR cooler leaks. Software‑manageable rather than mechanical, but don't ignore the warnings. * M139 AMG (C118 CLA 45) — high‑pressure fuel pump noise, misfire under load, loss of power. Specialist‑only diagnosis."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a CLA engine?",
+        "answer": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your car's current market value, get a scrap valuation before committing. * C117 OM651 diesel — £2,800–£4,800 recon against a £3,000–£6,000 car = 80–95% of value — not worth replacing unless the car is a low‑mileage, high‑spec example. * C117 M270 petrol — £1,500–£3,200 recon against a £4,000–£8,000 car = 38–80% of value — borderline on lower‑value examples. * C118 OM654 diesel — £3,000–£5,000 recon against an £8,000–£25,000 car = 20–60% of value — worth replacing. * C118 M282 petrol — £1,800–£3,000 recon against an £8,000–£20,000 car = 23–38% of value — worth replacing. Use our Ownership Decision Tool for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which CLA generation should I buy?",
+        "answer": "Buy a 2023+ C118 CLA (facelift) with the M282 1.3 petrol — it's the most reliable, cheapest‑to‑run CLA you can own. The facelift addressed the early M282 coolant‑leak issues and updated the electronics. If you do regular motorway miles, the OM654 diesel (2020+) is also a strong choice. Avoid the C117 OM651 diesel unless you have documented injector‑seal history and are comfortable with the replacement‑cost risk."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my CLA engine code?",
+        "answer": "Check the following locations: * VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is encoded in positions 4–8 of the VIN. * Vehicle registration document (V5C) — the engine number is listed in Section 4. * Under‑bonnet sticker — on the slam panel or timing cover, the engine code is often printed on a factory sticker. * Mercedes‑Benz parts catalogue — enter your VIN at a dealer or online parts site to look up the exact engine code. If you're unsure, use our diagnostic calculator — we'll help you identify it as step one."
+      },
+      {
+        "id": 8,
+        "question": "CLA vs A‑Class — which is more reliable?",
+        "answer": "They share platforms and engines — the C117 CLA shares with the W176 A‑Class; the C118 CLA shares with the W177 A‑Class. Reliability is therefore identical for the same engine and generation. The difference is style and practicality — the CLA is a four‑door coupé with a sloping roofline (less rear headroom, less boot space); the A‑Class is a conventional hatchback (more practical, cheaper to buy). If you need space, buy the A‑Class; if you want coupé styling, buy the CLA. The same engine‑reliability rules apply to both. Read the full comparison: CLA vs A‑Class →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

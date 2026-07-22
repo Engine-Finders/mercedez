@@ -1,24 +1,223 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m111",
+    "slug": "m111",
     "title": "Mercedes-Benz M111 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "description": "Mercedes M111 1.8–2.3L four‑cylinder: robust and simple, but chain stretch and head gasket issues come with age. Backed by UK specialist insight, explore real costs and compare vetted quotes.",
+    "canonical": "https://mercedesengine.uk/engines/m111/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M111 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M111 1.8–2.3L four‑cylinder: robust and simple, but chain stretch and head gasket issues come with age. Backed by UK specialist insight, explore real costs and compare vetted quotes.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/m111/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m111.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M111 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M111 1.8–2.3L four‑cylinder: robust and simple, but chain stretch and head gasket issues come with age. Backed by UK specialist insight, explore real costs and compare vetted quotes.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m111.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M111",
+              "item": "https://mercedesengine.uk/engines/m111/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M111 family",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C‑Class W202 C180/C200/C220/C230K (1993–2000)",
+              "url": "https://mercedesengine.uk/mercedes/c-class-w202/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C‑Class W203 C180/C200/C230K (2000–2006)",
+              "url": "https://mercedesengine.uk/mercedes/c-class-w203/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E‑Class W210 E200/E220/E230 (1995–2002)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w210/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "SLK R170 SLK200/SLK230K (1996–2004)",
+              "url": "https://mercedesengine.uk/mercedes/slk-r170/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLK W208 CLK200/CLK230K (1997–2002)",
+              "url": "https://mercedesengine.uk/mercedes/clk-w208/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLK W209 CLK200/CLK200K (2002–2006)",
+              "url": "https://mercedesengine.uk/mercedes/clk-w209/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "A‑Class W168 A160/A190/A210 (1997–2004)",
+              "url": "https://mercedesengine.uk/mercedes/a-class-w168/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "V‑Class W638 V200 (1996–2003)",
+              "url": "https://mercedesengine.uk/mercedes/v-class-w638/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "G‑Class W463 G230 (1997–2000)",
+              "url": "https://mercedesengine.uk/mercedes/g-class-w463/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M111 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M111 typically costs £800–£1,800 supply only [ESTIMATED], varying by Kompressor or naturally aspirated version. Fitting adds £390–£950 depending on labour rates and vehicle access."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M111 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the M111 rates 4.0★ out of 5 based on specialist feedback and long‑term owner data [MB-INTERVIEW]. Its simple design and durable components make it one of the more dependable older Mercedes engines."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M111 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing chain stretch is the most commonly reported issue, typically appearing from 80,000–120,000 miles. Head gasket leaks and oil leaks from the valve cover are also frequent on higher‑mileage units."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M111?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M111 powers C‑Class (W202/W203), E‑Class (W210), SLK (R170), CLK (W208/W209), A‑Class (W168), V‑Class (W638), and some G‑Class and Sprinter variants — covering a broad range from the mid‑1990s to mid‑2000s."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M111 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With routine timing chain and gasket maintenance, the M111 routinely exceeds 200,000 miles. Many specialists report examples at 250,000+ with original internals [MB-INTERVIEW]."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M111 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M111 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "300",
+            "highPrice": "2500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M111 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK specialist feedback and owner-reported data for the Mercedes-Benz M111, sourced from mercedesengine.uk's marketplace insights and verified interviews with Mercedes workshops.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M111 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesengine.uk/engines/m111/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M111 • Petrol • 1.8–2.3L I4 • 1992–2006",
@@ -80,135 +279,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: M111 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.0★ out of 5",
-        "value": "Confidence: 88% confidence — based on specialist feedback and long‑term owner data across multiple platforms."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "16"
-      },
-      {
-        "metric": "Star rating (4.0★) × 4 = 16",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "20",
-        "value": "Reconditioned midpoint: under £3,000 → 20"
-      },
-      {
-        "metric": "Repairability",
-        "value": "20"
-      },
-      {
-        "metric": "Most failures are cheap, well‑understood repairs (gaskets, sensors, chains)",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "20",
-        "value": "Parts cheap and widely available from multiple UK suppliers"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "16"
-      },
-      {
-        "metric": "Reconditioned cost is 30–44% of lowest host vehicle value (~£1,500)",
-        "value": "Total"
-      },
-      {
-        "metric": "92/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The M111 is a tough, simple petrol four — age‑related chain wear and head gasket leaks are common — buy on condition and service history, not just mileage.",
-        "value": "Best for: Classic Mercedes buyers wanting a dependable, easy‑to‑work‑on engine."
-      },
-      {
-        "metric": "Avoid if: You're not prepared for routine gasket and chain maintenance on older cars.",
-        "value": "Supporting Evidence"
-      },
-      {
-        "metric": "The M111 is one of Mercedes‑Benz’s most enduring four‑cylinder petrol engines, produced from 1992 to 2006 in displacements of 1.8, 2.0, 2.2, and 2.3 litres. It was available in naturally aspirated and supercharged (Kompressor) forms, powering everything from the C‑Class and E‑Class to the SLK, CLK, and even the V‑Class.",
-        "value": "Key strengths:"
-      },
-      {
-        "metric": "* Simple, robust architecture — iron block, aluminium head",
-        "value": "* Non‑interference — timing chain failure (if it occurs) often does not destroy the engine (check specific variant)"
-      },
-      {
-        "metric": "* Excellent parts availability — both genuine and aftermarket",
-        "value": "* Easy to work on — few electronics, ample access in most models"
-      },
-      {
-        "metric": "* Long‑standing reputation — many examples exceed 200,000 miles",
-        "value": "Common issues:"
-      },
-      {
-        "metric": "* Timing chain stretch — can cause rattling and potentially jump timing if neglected",
-        "value": "* Head gasket failure — oil/coolant leaks, particularly around 100,000–150,000 miles"
-      },
-      {
-        "metric": "* Oil leaks — valve cover gasket, rear main seal",
-        "value": "* Ignition system — distributor or coil pack failure on earlier models"
-      },
-      {
-        "metric": "* Supercharger clutch (Kompressor versions) — can fail, reducing power",
-        "value": "* MAF sensor and throttle body — can cause rough idle"
-      },
-      {
-        "metric": "Models fitted (Mercedes‑Benz):",
-        "value": "* C‑Class (W202, W203)"
-      },
-      {
-        "metric": "* E‑Class (W210)",
-        "value": "* SLK (R170)"
-      },
-      {
-        "metric": "* CLK (W208, W209)",
-        "value": "* A‑Class (W168)"
-      },
-      {
-        "metric": "* V‑Class (W638)",
-        "value": "* Sprinter (901‑904) – some markets"
-      },
-      {
-        "metric": "* G‑Class (W463) – 230 GE",
-        "value": "* S‑Class (W140) – S280 (M104 parallel)"
-      },
-      {
-        "metric": "Despite its age, the M111 remains a highly regarded engine for its durability and ease of maintenance. Routine chain inspection and gasket replacement every 100,000 miles will keep it running well into high mileage.",
-        "value": "PART 2 — SECTIONS 4–7"
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.0★ out of 5",
+    "confidence": "88% confidence — based on specialist feedback and long‑term owner data across multiple platforms.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "16 (Star rating (4.0★) × 4 = 16)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "20 (Reconditioned midpoint: under £3,000 → 20)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "20 (Most failures are cheap, well‑understood repairs (gaskets, sensors, chains))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "20 (Parts cheap and widely available from multiple UK suppliers)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "16 (Reconditioned cost is 30–44% of lowest host vehicle value (~£1,500))"
+        },
+        {
+          "dimension": "Total",
+          "score": "92/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M111 is a tough, simple petrol four — age‑related chain wear and head gasket leaks are common — buy on condition and service history, not just mileage.",
+    "bestFor": "Classic Mercedes buyers wanting a dependable, easy‑to‑work‑on engine.",
+    "avoidIf": "You're not prepared for routine gasket and chain maintenance on older cars."
   },
   "compatibility": {
     "columns": [

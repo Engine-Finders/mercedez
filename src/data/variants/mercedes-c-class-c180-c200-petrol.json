@@ -454,44 +454,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), North West (13%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes C180 / C200 petrol engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned C180/C200 petrol engine typically costs £3,000–£8,500 supply only depending on generation. A timing chain replacement alone costs £1,500–£2,500. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes C180 / C200 petrol engine reliable?"
-      },
-      {
-        "label": "It depends on which generation you're asking about. The M271 (W203, early W204) is a high‑risk engine — timing chain stretch and camshaft adjuster failure are well‑documented. The M274 (W205) is improved but early cars have timing chain sensitivity, ignition coil failures and thermostat issues. The M264/M254 (W206) is the most advanced, with 48V MHEV technology adding complexity. Regular maintenance is essential.",
-        "value": "3. What are the common problems with the Mercedes C180 / C200 petrol?"
-      },
-      {
-        "label": "M271 timing chain stretch and camshaft adjuster failure (W203, early W204), M274 timing chain wear (early W205), ignition coil and MAP sensor failure (M274), thermostat failure (M274), oil leaks and oil consumption (M271 & M274), and 48V MHEV system issues (W206). See the Era Map above for generation‑specific advice.",
-        "value": "4. Is it worth replacing a Mercedes C180 / C200 petrol engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept W205 C200 (values £10,000–£20,000+), a £4,500–£5,500 reconditioned engine is 20–50% of the vehicle's value — often worth it for a solid example. Against an older W204 (£3,000–£8,000), a £4,000–£5,000 recon is 50–100% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing.",
-        "value": "5. How do I find my Mercedes C180 / C200 petrol engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W203 (2000–2007) = M271 Kompressor; W204 (2007–2014) = M271 CGI (1.8L, 156–184 bhp); W205 (2014–2021) = M274 (1.6L C180 / 2.0L C200); W206 (2021–present) = M264/M254 (1.5L MHEV). Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the M271 or M274 timing chain, or does it require engine replacement?"
-      },
-      {
-        "label": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,500–£2,500. The M271 chain is a one‑day job. However, if the chain snaps, a full engine replacement (£3,500–£8,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately. Favor models after 2010 (M271) or 2017 (M274) for improved reliability.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "Tab 26"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes C180 / C200 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned C180/C200 petrol engine typically costs £3,000–£8,500 supply only depending on generation. A timing chain replacement alone costs £1,500–£2,500. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes C180 / C200 petrol engine reliable?",
+        "answer": "It depends on which generation you're asking about. The M271 (W203, early W204) is a high‑risk engine — timing chain stretch and camshaft adjuster failure are well‑documented. The M274 (W205) is improved but early cars have timing chain sensitivity, ignition coil failures and thermostat issues. The M264/M254 (W206) is the most advanced, with 48V MHEV technology adding complexity. Regular maintenance is essential."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes C180 / C200 petrol?",
+        "answer": "M271 timing chain stretch and camshaft adjuster failure (W203, early W204), M274 timing chain wear (early W205), ignition coil and MAP sensor failure (M274), thermostat failure (M274), oil leaks and oil consumption (M271 & M274), and 48V MHEV system issues (W206). See the Era Map above for generation‑specific advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes C180 / C200 petrol engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept W205 C200 (values £10,000–£20,000+), a £4,500–£5,500 reconditioned engine is 20–50% of the vehicle's value — often worth it for a solid example. Against an older W204 (£3,000–£8,000), a £4,000–£5,000 recon is 50–100% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes C180 / C200 petrol engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: W203 (2000–2007) = M271 Kompressor; W204 (2007–2014) = M271 CGI (1.8L, 156–184 bhp); W205 (2014–2021) = M274 (1.6L C180 / 2.0L C200); W206 (2021–present) = M264/M254 (1.5L MHEV). Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M271 or M274 timing chain, or does it require engine replacement?",
+        "answer": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,500–£2,500. The M271 chain is a one‑day job. However, if the chain snaps, a full engine replacement (£3,500–£8,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately. Favor models after 2010 (M271) or 2017 (M274) for improved reliability."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

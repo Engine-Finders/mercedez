@@ -681,64 +681,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (16%), South West (12%) — executive saloon strongholds [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes C‑Class C270 / C280 / C300 CDI engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned C‑Class CDI engine typically costs £1,800–£3,800 supply only depending on engine variant (OM612 or OM642, and power output). A reconditioned engine typically costs £1,200–£2,200, with total installed cost around £1,800–£2,800. For higher‑output OM642 variants (204‑231 PS), costs are at the upper end of the range. Fitting adds £1,000–£1,500. Use our calculator for a figure specific to your vehicle.",
-        "value": "2. Is the Mercedes C‑Class C270 / C280 / C300 CDI engine reliable?"
-      },
-      {
-        "label": "The OM612 and OM642 are both regarded as durable engines when properly maintained. The OM642 is considered \"one of the most successful diesel engines in the Mercedes‑Benz lineup\". However, both have known weaknesses: the OM612 suffers from camshaft wear and timing chain issues; the OM642 is prone to oil cooler seal leaks, swirl flap failure, and injector problems. Regular oil changes (every 8,000‑10,000 miles) are essential for both engines.",
-        "value": "3. What are the common problems with the Mercedes C‑Class C270 / C280 / C300 CDI?"
-      },
-      {
-        "label": "On the OM612 (C270 CDI), the most common issues are camshaft wear and timing chain wear. On the OM642 (C280/C300 CDI), the most common issues are oil cooler seal leaks, swirl flap failure, and fuel injector problems. The OM642 is known for oil cooler seal failure, which can allow oil to mix with coolant.",
-        "value": "4. Is it worth replacing a C‑Class CDI engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and condition. Against a tidy £3,000–£8,000 C‑Class, a £1,800–£3,800 recon is 20‑60% of the car's value — often worth it on well‑maintained examples. If the timing chain has snapped on an OM612 or the engine has suffered catastrophic failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing.",
-        "value": "5. How do I find my C‑Class's engine code?"
-      },
-      {
-        "label": "The C270 CDI (W203, 2000‑2007) uses the OM612 engine — a 2.7‑litre inline‑5. The C280 CDI (W204, 2007‑2010) uses the OM642 — a 3.0‑litre V6 producing 190 PS. The C300 CDI (W204, 2010‑2015) uses the OM642 in 204 PS (2010‑2014) or 231 PS (2014‑2015) tune. The engine code is stamped on the engine block and listed on your V5C.",
-        "value": "6. Can I repair a C‑Class CDI engine issue, or does it need replacement?"
-      },
-      {
-        "label": "Most issues — OM612 camshaft wear (if caught early), OM612 timing chain wear, OM642 oil cooler seals, OM642 swirl flaps, OM642 injectors — are repairable. However, if the timing chain has snapped on an OM612 or the engine has suffered major internal failure, a full engine replacement is usually more cost‑effective than a rebuild. The OM642 oil cooler seal replacement is a known, labour‑intensive but essential repair.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), meta tags, Open Graph, Twitter Card, and complete JSON‑LD schema.",
-        "value": "* Brand: Mercedes‑Benz"
-      },
-      {
-        "label": "* Domain: mercedesengine.uk",
-        "value": "* Data tag: MB‑"
-      },
-      {
-        "label": "* Specialist count: 25+",
-        "value": "* Scrap threshold: 70%"
-      },
-      {
-        "label": "* CTA Mode: Consultative (Priority L)",
-        "value": "* Era Map rows: 5 (OM612 W203 2000‑2005, OM612 W203 2005‑2007, OM642 C280 2007‑2010, OM642 C300 2010‑2014, OM642 C300 2014‑2015)"
-      },
-      {
-        "label": "* Engine codes: OM612, OM642",
-        "value": "* Service schema price range: £800 (lowest used) to £3,800 (highest rebuilt) — spans full Era Map history"
-      },
-      {
-        "label": "* Model Page needed: Mercedes C‑Class Generation Pages (W203, W204)",
-        "value": "* Generation Pages needed: Mercedes C‑Class Generation Pages (for cost inheritance)"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes C‑Class C270 / C280 / C300 CDI engine replacement cost in the UK?",
+        "answer": "A reconditioned C‑Class CDI engine typically costs £1,800–£3,800 supply only depending on engine variant (OM612 or OM642, and power output). A reconditioned engine typically costs £1,200–£2,200, with total installed cost around £1,800–£2,800. For higher‑output OM642 variants (204‑231 PS), costs are at the upper end of the range. Fitting adds £1,000–£1,500. Use our calculator for a figure specific to your vehicle."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes C‑Class C270 / C280 / C300 CDI engine reliable?",
+        "answer": "The OM612 and OM642 are both regarded as durable engines when properly maintained. The OM642 is considered \"one of the most successful diesel engines in the Mercedes‑Benz lineup\". However, both have known weaknesses: the OM612 suffers from camshaft wear and timing chain issues; the OM642 is prone to oil cooler seal leaks, swirl flap failure, and injector problems. Regular oil changes (every 8,000‑10,000 miles) are essential for both engines."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes C‑Class C270 / C280 / C300 CDI?",
+        "answer": "On the OM612 (C270 CDI), the most common issues are camshaft wear and timing chain wear. On the OM642 (C280/C300 CDI), the most common issues are oil cooler seal leaks, swirl flap failure, and fuel injector problems. The OM642 is known for oil cooler seal failure, which can allow oil to mix with coolant."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a C‑Class CDI engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a tidy £3,000–£8,000 C‑Class, a £1,800–£3,800 recon is 20‑60% of the car's value — often worth it on well‑maintained examples. If the timing chain has snapped on an OM612 or the engine has suffered catastrophic failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my C‑Class's engine code?",
+        "answer": "The C270 CDI (W203, 2000‑2007) uses the OM612 engine — a 2.7‑litre inline‑5. The C280 CDI (W204, 2007‑2010) uses the OM642 — a 3.0‑litre V6 producing 190 PS. The C300 CDI (W204, 2010‑2015) uses the OM642 in 204 PS (2010‑2014) or 231 PS (2014‑2015) tune. The engine code is stamped on the engine block and listed on your V5C."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair a C‑Class CDI engine issue, or does it need replacement?",
+        "answer": "Most issues — OM612 camshaft wear (if caught early), OM612 timing chain wear, OM642 oil cooler seals, OM642 swirl flaps, OM642 injectors — are repairable. However, if the timing chain has snapped on an OM612 or the engine has suffered major internal failure, a full engine replacement is usually more cost‑effective than a rebuild. The OM642 oil cooler seal replacement is a known, labour‑intensive but essential repair."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes C‑Class CDI Owners Trust MercedesEngine.uk",

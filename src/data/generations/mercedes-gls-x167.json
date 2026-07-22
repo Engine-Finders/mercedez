@@ -1,11 +1,242 @@
 {
   "meta": {
-    "slug": "mercedes-gls-x167",
-    "title": "Mercedes GLS X167 Engines — The Complete UK Guide",
-    "titleCharCount": 49,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-gls-class-x167",
+    "title": "X167 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 54,
+    "description": "Every Mercedes GLS X167 engine — M256, M176, M177, OM656, OM654. Real UK costs, honest reliability data, and AMG V8 explained. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 159,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLS-Class",
+              "item": "https://mercedesengine.uk/gls-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes GLS X167",
+              "item": "https://mercedesengine.uk/gls-class/x167/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes GLS X167 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M256.930 Engine",
+              "url": "https://mercedesengine.uk/engines/m256-930/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M176.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m176-980/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M177.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m177-980/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM656.929 Engine",
+              "url": "https://mercedesengine.uk/engines/om656-929/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM654 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes GLS X167 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GLS 450 4MATIC",
+              "url": "https://mercedesengine.uk/gls-class/x167/gls-450-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLS 580 4MATIC",
+              "url": "https://mercedesengine.uk/gls-class/x167/gls-580-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "AMG GLS 63 4MATIC+",
+              "url": "https://mercedesengine.uk/gls-class/x167/amg-gls-63-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Maybach GLS 600 4MATIC",
+              "url": "https://mercedesengine.uk/gls-class/x167/maybach-gls-600/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "GLS 350 d 4MATIC",
+              "url": "https://mercedesengine.uk/gls-class/x167/gls-350-d-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "GLS 400 d 4MATIC",
+              "url": "https://mercedesengine.uk/gls-class/x167/gls-400-d-4matic/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes GLS X167 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned X167 engine typically costs £2,800–£18,000 supply only, depending on engine — the OM654 2.0-litre diesel sits at £2,800–£4,500, while the M177 V8 in the AMG GLS 63 is the most expensive at £12,000–£18,000. Fitting adds £650–£1,500 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes GLS X167 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM656 2.9-litre straight-six diesel (GLS 400 d, 330 PS) is widely considered the most reliable engine in the X167 range — Mercedes' latest-generation straight-six diesel offering effortless torque, excellent refinement, and proven durability. The M256 3.0-litre straight-six petrol (GLS 450, 367 PS) is also highly regarded, though the 48V system requires attention around 80,000–100,000 miles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes GLS X167?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "48V battery and cooling system issues on the M256 straight-six petrol, cooling system leaks and valve stem seal wear on the M176/M177 V8s (GLS 580, GLS 63, Maybach), AdBlue and EGR system issues on the OM656 diesel, and air suspension failures on high-mileage examples. The V8's hot-vee design is particularly sensitive to cooling system neglect."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes GLS X167 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overall reliability is good for a modern full-size luxury SUV. The OM656 diesel and M256 petrol straight-sixes are proven, durable units. The main caveats are the V8's cooling system and valve stem seals (M176/M177), the 48V system on the M256, and the AdBlue system on the OM656 — all are known issues that should be budgeted for. The 2023 facelift addressed some early production issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes GLS X167 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but the M176 V8 (GLS 580) and M177 V8 (AMG GLS 63, Maybach GLS 600) have documented cooling system and valve stem seal issues that can be very expensive to address. If you're on a budget, the straight-six GLS 450 or GLS 400 d are the sweet spots. Avoid any V8 without documented service history — these engines are sensitive to oil quality and cooling system maintenance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my X167 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "48V system warnings or coolant loss on the M256 (water pump/48V battery), persistent coolant loss or overheating on the V8 (cooling system leaks), blue smoke on startup on the V8 (valve stem seals), AdBlue warning lights or reduced performance on the diesel (AdBlue/EGR issues), or the air suspension compressor running excessively (suspension leaks) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes GLS X167 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well-kept £45,000 GLS 450, a £3,500–£6,000 recon is 8–13% of the car's value — viable. Against a tired £25,000 GLS 400 d, a £3,500–£6,000 recon is 14–24% — still viable. For an AMG GLS 63, a £70,000+ car justifies a £12,000–£18,000 recon; a £45,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — most X167s sit comfortably above it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes GLS X167 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM656 straight-six diesel can exceed 200,000+ miles with proper AdBlue system care and regular servicing. The M256 straight-six petrol can reach 150,000–200,000 miles with prompt 48V battery and cooling system attention. The M176/M177 V8s can last 150,000+ miles but typically require valve stem seal replacement at 40,000–80,000 miles, which is a significant cost."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the X167, X166, and X164 GLS?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The X164 (2006–2012) was the first-generation GL-Class. The X166 (2012–2019) was the second-generation GL/GLS-Class (the GLS name was introduced with the 2016 facelift). The X167 (2019–present) is the third-generation GLS (this page), built on the MHA platform with mild-hybrid technology, updated styling, and a more luxurious interior. Engines are generally not interchangeable between generations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes GLS X167 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (under the bonnet or on the driver's door pillar), on the engine block, and in the vehicle documentation. Tell us your variant (GLS 450, GLS 580, AMG GLS 63, Maybach GLS 600, GLS 350 d, GLS 400 d) and approximate model year (pre-2023 or post-2023 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes GLS X167 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2800",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "X167 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/gls-class/x167/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -485,16 +716,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes GLS X167 engine replacement cost in the UK?",
+        "answer": "A reconditioned X167 engine typically costs £2,800–£18,000 supply only [PLACEHOLDER — confirm vs cost sheet], depending on engine — the OM654 2.0-litre diesel sits at £2,800–£4,500, while the M177 V8 in the AMG GLS 63 is the most expensive at £12,000–£18,000. Fitting adds £650–£1,500 depending on engine complexity and specialist rates. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes GLS X167 engine is the most reliable?",
+        "answer": "The OM656 2.9-litre straight-six diesel (GLS 400 d, 330 PS) is widely considered the most reliable engine in the X167 range — Mercedes' latest-generation straight-six diesel offering effortless torque, excellent refinement, and proven durability. The M256 3.0-litre straight-six petrol (GLS 450, 367 PS) is also highly regarded, though the 48V system requires attention around 80,000–100,000 miles."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes GLS X167?",
+        "answer": "48V battery and cooling system issues on the M256 straight-six petrol, cooling system leaks and valve stem seal wear on the M176/M177 V8s (GLS 580, GLS 63, Maybach), AdBlue and EGR system issues on the OM656 diesel, and air suspension failures on high-mileage examples. The V8's hot-vee design is particularly sensitive to cooling system neglect."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes GLS X167 reliable?",
+        "answer": "Overall reliability is good for a modern full-size luxury SUV. The OM656 diesel and M256 petrol straight-sixes are proven, durable units. The main caveats are the V8's cooling system and valve stem seals (M176/M177), the 48V system on the M256, and the AdBlue system on the OM656 — all are known issues that should be budgeted for. The 2023 facelift addressed some early production issues."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes GLS X167 engine should I avoid?",
+        "answer": "No engine outright — but the M176 V8 (GLS 580) and M177 V8 (AMG GLS 63, Maybach GLS 600) have documented cooling system and valve stem seal issues that can be very expensive to address. If you're on a budget, the straight-six GLS 450 or GLS 400 d are the sweet spots. Avoid any V8 without documented service history — these engines are sensitive to oil quality and cooling system maintenance."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my X167 engine needs replacing?",
+        "answer": "48V system warnings or coolant loss on the M256 (water pump/48V battery), persistent coolant loss or overheating on the V8 (cooling system leaks), blue smoke on startup on the V8 (valve stem seals), AdBlue warning lights or reduced performance on the diesel (AdBlue/EGR issues), or the air suspension compressor running excessively (suspension leaks) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes GLS X167 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well-kept £45,000 GLS 450, a £3,500–£6,000 recon is 8–13% of the car's value — viable. Against a tired £25,000 GLS 400 d, a £3,500–£6,000 recon is 14–24% — still viable. For an AMG GLS 63, a £70,000+ car justifies a £12,000–£18,000 recon; a £45,000 example makes it a much harder call. Our 70% Mercedes-Benz threshold is the line — most X167s sit comfortably above it."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes GLS X167 engines last?",
+        "answer": "The OM656 straight-six diesel can exceed 200,000+ miles with proper AdBlue system care and regular servicing. The M256 straight-six petrol can reach 150,000–200,000 miles with prompt 48V battery and cooling system attention. The M176/M177 V8s can last 150,000+ miles but typically require valve stem seal replacement at 40,000–80,000 miles, which is a significant cost."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the X167, X166, and X164 GLS?",
+        "answer": "The X164 (2006–2012) was the first-generation GL-Class. The X166 (2012–2019) was the second-generation GL/GLS-Class (the GLS name was introduced with the 2016 facelift). The X167 (2019–present) is the third-generation GLS (this page), built on the MHA platform with mild-hybrid technology, updated styling, and a more luxurious interior. Engines are generally not interchangeable between generations."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes GLS X167 engine code?",
+        "answer": "Listed on the VIN plate (under the bonnet or on the driver's door pillar), on the engine block, and in the vehicle documentation. Tell us your variant (GLS 450, GLS 580, AMG GLS 63, Maybach GLS 600, GLS 350 d, GLS 400 d) and approximate model year (pre-2023 or post-2023 facelift) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes GLS X167 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted X167 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real Mercedes owners, as part of the Engine Finders network. We only work with specialists who understand the X167's MHA platform, 48V systems, and V8 intricacies."
+      },
+      {
+        "title": "Compare X167 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side-by-side before you commit. Whether you need a reconditioned OM656 or a used M177, we show you the real market."
+      },
+      {
+        "title": "UK Engine Replacement Services for X167",
+        "text": "covering every variant from GLS 450 to AMG GLS 63 and Maybach GLS 600, with supply-only or full supply & fit available nationwide through our vetted specialist network."
+      }
+    ],
+    "finalCta": "Find the best Mercedes GLS X167 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes GLS X167 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

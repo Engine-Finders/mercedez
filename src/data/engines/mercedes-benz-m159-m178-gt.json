@@ -1,24 +1,211 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m159-m178-gt",
+    "slug": "m159-m178-gt",
     "title": "Mercedes-Benz M159/M178 GT Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "description": "Mercedes M159/M178 AMG V8: sensational hand-built engines, but expensive to maintain. Backed by UK specialist insight, explore real costs and compare vetted quotes for your SLS or AMG GT.",
+    "canonical": "https://mercedesengine.uk/engines/m159-m178-gt/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M159/M178 GT Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M159/M178 AMG V8: sensational hand-built engines, but expensive to maintain. Backed by UK specialist insight, explore real costs and compare vetted quotes for your SLS or AMG GT.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/m159-m178-gt/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m159-m178.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M159/M178 GT Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M159/M178 AMG V8: sensational hand-built engines, but expensive to maintain. Backed by UK specialist insight, explore real costs and compare vetted quotes for your SLS or AMG GT.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m159-m178.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M159/M178 GT",
+              "item": "https://mercedesengine.uk/engines/m159-m178-gt/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-AMG models fitted with the M159/M178 family",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "SLS AMG C197 Coupe (2010–2014)",
+              "url": "https://mercedesengine.uk/mercedes/sls-amg-c197/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLS AMG R197 Roadster (2011–2014)",
+              "url": "https://mercedesengine.uk/mercedes/sls-amg-r197/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "SLS AMG Black Series (2013–2014)",
+              "url": "https://mercedesengine.uk/mercedes/sls-amg-black-series/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "AMG GT C190 Coupe (2014–2023)",
+              "url": "https://mercedesengine.uk/mercedes/amg-gt-c190/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "AMG GT R190 Roadster (2016–2023)",
+              "url": "https://mercedesengine.uk/mercedes/amg-gt-r190/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "AMG GT Black Series (2021–2023)",
+              "url": "https://mercedesengine.uk/mercedes/amg-gt-black-series/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "AMG GT 4-Door X290 GT63/GT63 S (2019–present)",
+              "url": "https://mercedesengine.uk/mercedes/amg-gt-x290/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M159/M178 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M159/M178 typically costs £10,000–£18,000 supply only [ESTIMATED], varying by variant and whether ancillaries are included. Fitting adds £1,100–£2,300 depending on labour rates, with specialist AMG workshops essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M159/M178 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M159/M178 rate 4.5★ out of 5 based on specialist feedback [MB-INTERVIEW]. They are robust at their core, but their high performance and exotic nature mean maintenance costs are substantial."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M159/M178 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oil leaks (valve cover gaskets and cam covers) are most common. M178 turbocharger failures and coolant leaks are also reported, especially on tracked or tuned examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M159/M178?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M159 powers the SLS AMG, and the M178 powers the AMG GT (Coupe, Roadster, Black Series) and the AMG GT 4-Door (M177 variant) — flagship sports cars and supercars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M159/M178 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With meticulous maintenance and limited track abuse, the M159/M178 can exceed 100,000 miles. However, many are low-mileage garage queens — and high-mileage examples are rare and require specialist inspection."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M159/M178 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M159/M178 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "8000",
+            "highPrice": "22000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M159/M178 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK specialist feedback and owner-reported data for the Mercedes-Benz M159/M178, sourced from mercedesengine.uk's marketplace insights and verified interviews with AMG workshops.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M159/M178 GT Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesengine.uk/engines/m159-m178-gt/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M159/M178 GT • Petrol • V8 6.2L NA / 4.0L TT • 2010–present",
@@ -80,143 +267,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: M159/M178 GT — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.5★ out of 5",
-        "value": "Confidence: 85% confidence — based on specialist feedback and enthusiast data; these are lower-volume, high-performance engines."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "18"
-      },
-      {
-        "metric": "Star rating (4.5★) × 4 = 18",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "4",
-        "value": "Reconditioned midpoint: £12,500+ → £10,000+ bracket = 4"
-      },
-      {
-        "metric": "Repairability",
-        "value": "12"
-      },
-      {
-        "metric": "Some manageable repairs (oil leaks), but many failures are all-or-nothing events",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "12",
-        "value": "Available but with wait times; AMG-specific parts can be dealer-only or import-dependent"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "20"
-      },
-      {
-        "metric": "Reconditioned cost is under 30% of high-value host vehicles (£40k+)",
-        "value": "Total"
-      },
-      {
-        "metric": "66/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The M159/M178 are sensational, sonorous V8s — but they're AMG exotica: expensive to maintain and repair — buy with a warranty and a healthy budget for running costs.",
-        "value": "Best for: Enthusiasts wanting a flagship AMG V8 experience."
-      },
-      {
-        "metric": "Avoid if: You're on a tight budget for maintenance and repairs.",
-        "value": "Supporting Evidence"
-      },
-      {
-        "metric": "The M159 and M178 represent the pinnacle of Mercedes-AMG's V8 engineering, designed specifically for the brand's halo sports cars: the SLS AMG and the AMG GT. They are hand-built, highly strung, and offer some of the most thrilling driving experiences available.",
-        "value": "M159 — 6.2L Naturally Aspirated V8:"
-      },
-      {
-        "metric": "* Derived from the M156 (E63, C63, S63) but heavily reworked for the SLS AMG",
-        "value": "* Unique intake, exhaust, camshafts, and engine management"
-      },
-      {
-        "metric": "* 571–631 hp, depending on SLS or SLS Black Series specification",
-        "value": "* Produced from 2010 to 2014 only"
-      },
-      {
-        "metric": "* Renowned for its thunderous naturally aspirated soundtrack",
-        "value": "M178 — 4.0L Twin-Turbo V8:"
-      },
-      {
-        "metric": "* Introduced with the AMG GT in 2014 as a direct successor to the M159",
-        "value": "* \"Hot inside V\" turbocharger layout for reduced lag"
-      },
-      {
-        "metric": "* 469–730 hp, from GT to GT Black Series",
-        "value": "* Still in production as of 2025"
-      },
-      {
-        "metric": "* Shares architecture with the M177 (E63, C63, S63) but with specific AMG GT tuning",
-        "value": "Key strengths:"
-      },
-      {
-        "metric": "* Stunning performance — both engines deliver exceptional power and response",
-        "value": "* Exquisite sound — M159 is arguably one of the best-sounding V8s ever"
-      },
-      {
-        "metric": "* Hand-built quality — \"One Man, One Engine\" AMG tradition",
-        "value": "* Robust core — internal components are proven and durable when maintained"
-      },
-      {
-        "metric": "Known issues:",
-        "value": "* M159 oil consumption — some examples consume oil, especially on track use"
-      },
-      {
-        "metric": "* M159/M178 oil leaks — valve cover gaskets, cam cover seals, rear main seal",
-        "value": "* M178 turbocharger issues — failures reported, especially on tuned or tracked cars"
-      },
-      {
-        "metric": "* M178 coolant leaks — water pump, thermostat housing, and related plumbing",
-        "value": "* M178 high-pressure fuel pump — can fail"
-      },
-      {
-        "metric": "* M178 timing chain tensioner — wear reported on higher-mileage examples",
-        "value": "* Both — engine mounts can fail; low-profile undertray reduces cooling on track"
-      },
-      {
-        "metric": "Models fitted (Mercedes-AMG):",
-        "value": "* M159: SLS AMG (C197/R197), SLS AMG GT, SLS AMG Black Series, SLS AMG Electric Drive (not engine)"
-      },
-      {
-        "metric": "* M178: AMG GT (C190/R190), AMG GT S, AMG GT C, AMG GT R, AMG GT Black Series, AMG GT 63 4-Door (M177 derivative), Mercedes-AMG One (modified)",
-        "value": "The M159 and M178 are not engines to be owned on a tight budget, but they reward their keepers with a driving experience few other cars can match. Routine maintenance and proactive repairs are essential, and a warranty is highly recommended."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.5★ out of 5",
+    "confidence": "85% confidence — based on specialist feedback and enthusiast data; these are lower-volume, high-performance engines.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "18 (Star rating (4.5★) × 4 = 18)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "4 (Reconditioned midpoint: £12,500+ → £10,000+ bracket = 4)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Some manageable repairs (oil leaks), but many failures are all-or-nothing events)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "12 (Available but with wait times; AMG-specific parts can be dealer-only or import-dependent)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "20 (Reconditioned cost is under 30% of high-value host vehicles (£40k+))"
+        },
+        {
+          "dimension": "Total",
+          "score": "66/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M159/M178 are sensational, sonorous V8s — but they're AMG exotica: expensive to maintain and repair — buy with a warranty and a healthy budget for running costs.",
+    "bestFor": "Enthusiasts wanting a flagship AMG V8 experience.",
+    "avoidIf": "You're on a tight budget for maintenance and repairs."
   },
   "compatibility": {
     "columns": [

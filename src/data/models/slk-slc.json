@@ -1,24 +1,311 @@
 {
   "meta": {
     "slug": "slk-slc",
-    "title": "SLK / SLC Engines — The Complete UK Guide",
-    "titleCharCount": 41,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "SLK / SLC Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "Every SLK and SLC engine — M111, M271, M272, OM651, M274, M152. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 160,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "SLK / SLC Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every SLK and SLC engine — M111, M271, M272, OM651, M274, M152. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/slk-slc/",
       "image": "",
-      "siteName": ""
+      "siteName": "MercedesEngines.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "SLK / SLC Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every SLK and SLC engine — M111, M271, M272, OM651, M274, M152. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "SLK / SLC",
+              "item": "https://mercedesengine.uk/slk-slc/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "SLK / SLC Generations",
+          "description": "All Mercedes-Benz SLK and SLC generations from R170 to R172",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "R170 (1996–2004)",
+              "url": "https://mercedesengine.uk/slk-slc/r170/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "R171 (2004–2010)",
+              "url": "https://mercedesengine.uk/slk-slc/r171/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "R172 (2011–2020)",
+              "url": "https://mercedesengine.uk/slk-slc/r172/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "SLK / SLC Engine Codes",
+          "description": "Complete Mercedes-Benz SLK and SLC engine code database",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M111 2.0 Kompressor",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M112 3.2 V6",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M271 1.8 Kompressor",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M272 3.0 / 3.5 V6",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM651 2.1 Diesel",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M274 2.0 Turbo Petrol",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M152 5.5 V8 AMG",
+              "url": "https://mercedesengine.uk/engines/m152/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an SLK / SLC engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An SLK or SLC engine replacement typically costs £1,800–£10,000 supply-only, depending on generation and engine variant. The M111 four-cylinder is the cheapest to replace (£1,800–£3,500 reconditioned [MB-QUOTE]); the M152 AMG V8 is the most expensive (£6,000–£10,000 recon [MB-QUOTE]). Labour adds £520–£1,560 at independent rates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SLK / SLC engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M272 V6 (SLK 280/350) and OM651 diesel (SLK 250 CDI / SLC 250 d) share the top spot — both have materially cleaner reliability records than the M271. The M272 is the pick for character and smoothness; the OM651 is the pick for fuel economy and daily driving. The M274 turbo petrol (2016+ SLC 200/300) is also reliable, with no timing chain risk."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SLK / SLC engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M271 (SLK 200 Kompressor, 2004–2015) carries a real, well-documented caveat: timing chain stretch and tensioner failure, with cold-start rattle as the primary warning sign. The risk applies to both R171 and early R172 examples — the design was not materially improved between 2004 and 2015. Buy an M271 SLK only if the chain has already been replaced, or budget £1,500–£2,500 for a preventative replacement."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the SLK timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — and it's the defining SLK/SLC issue. The M271 engine's timing chain stretches and the hydraulic tensioner fails, causing a rattle on cold start. If ignored, the chain can skip teeth, bending valves and destroying the engine. Early warning signs: a metallic rattle on cold start that lasts 1–2 seconds, followed by a persistent tapping noise. If you hear it, book a specialist inspection immediately."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing an SLK / SLC engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the generation — and whether you're looking at replacement or prevention. A £2,000–£3,800 M271 recon against a £3,000–£6,000 R171 sits at 33–127% — scrap threshold on lower-value examples. A £1,500–£2,500 preventative chain replacement against the same vehicle sits at 25–83% — far more justifiable. A £2,800–£4,800 OM651 recon against a £6,000–£12,000 R172 sits at 23–80% — the safest economics in the range."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which SLK / SLC generation should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The R172 (2011–2015) with OM651 diesel or SLC (2016–2020) with M274 turbo petrol is the one to buy. The R172 offers the widest engine choice, the modern platform, and the best reliability record. If you want the character of a six-cylinder, the R171 SLK 350 with M272 V6 is the one to buy — £4,000–£8,000 buys a car with 272 bhp and a soundtrack that the turbocharged engines can't match."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my SLK / SLC engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your SLK or SLC engine code can be found in three places: VIN plate on the driver's side door pillar (engine code is usually in the 7th and 8th positions), vehicle documentation (your V5C logbook lists the engine number), or engine block stamping (on the M271, it's on the front of the engine near the timing cover; on the M272, it's on the top of the block under the plastic cover). An 'SLK 200' badge can mean M111, M271, or M274 — check the VIN or registration year to confirm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "SLK vs SLC — what's the difference — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The SLK (2011–2015) and SLC (2016–2020) are the same car underneath. The name changed in 2016 to align with Mercedes' new naming convention. The SLC is more reliable because it uses the M274 engine — which has no timing chain risk — whereas the pre-2016 SLK used the M271 with its known chain issues. Buy the SLC (2016–2020) for the M274 engine and the facelift improvements. Buy the SLK (2011–2015) only if you find a well-maintained OM651 diesel example."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "sameAs": [],
+          "description": "The UK's most trusted Mercedes-Benz ownership guide — reliability rankings, real failure data, honest repair-vs-replace economics for every SLK, SLC, A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG ever sold in the UK."
+        },
+        {
+          "@type": "Service",
+          "serviceType": "SLK / SLC Engine Replacement",
+          "description": "Mercedes-Benz SLK and SLC engine replacement, reconditioning and repair services across the UK",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock",
+            "availabilityStarts": "2025-01-01",
+            "availabilityEnds": "2026-12-31"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "SLK / SLC UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz SLK and SLC engines, sourced from MercedesEngines.uk's specialist marketplace activity — documented failure patterns, specialist interviews, and owner-forum consensus.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025-01-01/2025-12-31",
+          "spatialCoverage": "United Kingdom",
+          "keywords": "SLK engine, SLC engine, SLK reliability, SLC failure, M111, M271, M272, OM651, M274, M152",
+          "isAccessibleForFree": true
+        },
+        {
+          "@type": "WebPage",
+          "name": "SLK / SLC Engine Replacement Cost UK — Compare Quotes",
+          "description": "Every SLK and SLC engine — M111, M271, M272, OM651, M274, M152. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+          "url": "https://mercedesengine.uk/slk-slc/",
+          "inLanguage": "en-GB",
+          "about": {
+            "@type": "Vehicle",
+            "name": "Mercedes-Benz SLK / SLC",
+            "vehicleEngine": [
+              {
+                "@type": "EngineSpecification",
+                "name": "M111",
+                "fuelType": "Petrol",
+                "engineDisplacement": "2.0L",
+                "enginePower": "163–192 bhp",
+                "productionDate": "1996–2004"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "M112",
+                "fuelType": "Petrol",
+                "engineDisplacement": "3.2L",
+                "enginePower": "218 bhp",
+                "productionDate": "1996–2004"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "M271",
+                "fuelType": "Petrol",
+                "engineDisplacement": "1.8L",
+                "enginePower": "163–184 bhp",
+                "productionDate": "2004–2015"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "M272",
+                "fuelType": "Petrol",
+                "engineDisplacement": "3.0–3.5L",
+                "enginePower": "231–272 bhp",
+                "productionDate": "2004–2010"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "OM651",
+                "fuelType": "Diesel",
+                "engineDisplacement": "2.1L",
+                "enginePower": "204 bhp",
+                "productionDate": "2012–2020"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "M274",
+                "fuelType": "Petrol",
+                "engineDisplacement": "2.0L",
+                "enginePower": "184–245 bhp",
+                "productionDate": "2015–2020"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "M152",
+                "fuelType": "Petrol",
+                "engineDisplacement": "5.5L",
+                "enginePower": "416 bhp",
+                "productionDate": "2012–2015"
+              }
+            ]
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://mercedesengine.uk/slk-slc/"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • SLK / SLC • 1996–2020 • 3 Generations • M271 • M272 • OM651 • M274 • M152",
@@ -597,6 +884,41 @@
     "items": [
       {
         "id": 1,
+        "question": "How much does an SLK / SLC engine replacement cost in the UK?",
+        "answer": "An SLK or SLC engine replacement typically costs £1,800–£10,000 supply-only, depending on generation and engine variant. The M111 four-cylinder is the cheapest to replace (£1,800–£3,500 reconditioned [MB-QUOTE]); the M152 AMG V8 is the most expensive (£6,000–£10,000 recon [MB-QUOTE]). Labour adds £520–£1,560 at independent rates. Use our diagnostic calculator above for a personalised cost estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which SLK / SLC engine is the most reliable?",
+        "answer": "The M272 V6 (SLK 280/350) and OM651 diesel (SLK 250 CDI / SLC 250 d) share the top spot — both have materially cleaner reliability records than the M271. The M272 is the pick for character and smoothness; the OM651 is the pick for fuel economy and daily driving. The M274 turbo petrol (2016+ SLC 200/300) is also reliable, with no timing chain risk. Read the full M272 guide →"
+      },
+      {
+        "id": 3,
+        "question": "Which SLK / SLC engine should I avoid?",
+        "answer": "The M271 (SLK 200 Kompressor, 2004–2015) carries a real, well-documented caveat: timing chain stretch and tensioner failure, with cold-start rattle as the primary warning sign. The risk applies to both R171 and early R172 examples — the design was not materially improved between 2004 and 2015. Buy an M271 SLK only if the chain has already been replaced, or budget £1,500–£2,500 for a preventative replacement. Read the M271 timing chain guide →"
+      },
+      {
+        "id": 4,
+        "question": "Is the SLK timing chain problem real?",
+        "answer": "Yes — and it's the defining SLK/SLC issue. The M271 engine's timing chain stretches and the hydraulic tensioner fails, causing a rattle on cold start. If ignored, the chain can skip teeth, bending valves and destroying the engine. Early warning signs: a metallic rattle on cold start that lasts 1–2 seconds, followed by a persistent tapping noise. If you hear it, book a specialist inspection immediately. The repair cost is £1,500–£2,500 for a chain replacement — significantly cheaper than a £3,800 engine replacement. Read the full timing chain guide →"
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing an SLK / SLC engine?",
+        "answer": "It depends on the generation — and whether you're looking at replacement or prevention. A £2,000–£3,800 M271 recon against a £3,000–£6,000 R171 sits at 33–127% — 🔴 scrap threshold on lower-value examples. A £1,500–£2,500 preventative chain replacement against the same vehicle sits at 25–83% — still a significant percentage, but far more justifiable than a full engine replacement. A £2,500–£4,500 M272 V6 recon against a £4,000–£8,000 R171 sits at 31–113% — but the M272 is materially less likely to need replacement in the first place. A £2,800–£4,800 OM651 recon against a £6,000–£12,000 R172 sits at 23–80% — the safest economics in the range. The rule: Buy an M271 only if the chain is already done. Buy the M272, OM651 or M274 for the best long-term economics. Use the calculator →"
+      },
+      {
+        "id": 6,
+        "question": "Which SLK / SLC generation should I buy?",
+        "answer": "The R172 (2011–2015) with OM651 diesel or SLC (2016–2020) with M274 turbo petrol is the one to buy. The R172 offers the widest engine choice, the modern platform, and the best reliability record. The OM651 diesel delivers 204 bhp and 50 mpg — the smart money choice for daily driving. The M274 turbo petrol (SLC 200/300) is the pick for petrol refinement without the M271's timing chain risk. If you want the character of a six-cylinder, the R171 SLK 350 with M272 V6 is the one to buy — £4,000–£8,000 buys a car with 272 bhp and a soundtrack that the turbocharged engines can't match. Check the roof mechanism and listen for cold-start rattle (the M272 is reliable, but the chain is still worth checking). See our full SLK/SLC Rankings →"
+      },
+      {
+        "id": 7,
+        "question": "How do I find my SLK / SLC engine code?",
+        "answer": "Your SLK or SLC engine code can be found in three places:"
+      },
+      {
+        "id": 1,
         "question": "VIN plate — located on the driver's side door pillar or under the bonnet. The engine code is usually in the 7th and 8th positions of the VIN.",
         "answer": ""
       },
@@ -608,7 +930,12 @@
       {
         "id": 3,
         "question": "Engine block stamping — the engine code is stamped directly onto the block. On the M271, it's on the front of the engine near the timing cover; on the M272, it's on the top of the block under the plastic cover.",
-        "answer": "Don't rely on the badge: An \"SLK 200\" badge can mean M111 (R170), M271 (R171 or early R172), or M274 (SLC 200) — the same badge, three different engines. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator → Q8: SLK vs SLC — what's the difference — which is more reliable? The SLK (2011–2015) and SLC (2016–2020) are the same car underneath. The name changed in 2016 to align with Mercedes' new naming convention (SUVs = GL, saloons = CL, roadsters = SL, with SLC being the compact roadster). The difference: The SLC facelift brought new engines (M274 replacing M271), a revised front end, and updated interior tech. The SLC is more reliable because it uses the M274 engine — which has no timing chain risk — whereas the pre-2016 SLK used the M271 with its known chain issues. Our verdict: Buy the SLC (2016–2020) for the M274 engine and the facelift improvements. Buy the SLK (2011–2015) only if you find a well-maintained OM651 diesel example — the M271 petrol carries the same risk as the R171. Read the full comparison: SLK vs SLC →"
+        "answer": "Don't rely on the badge: An \"SLK 200\" badge can mean M111 (R170), M271 (R171 or early R172), or M274 (SLC 200) — the same badge, three different engines. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator →"
+      },
+      {
+        "id": 8,
+        "question": "SLK vs SLC — what's the difference — which is more reliable?",
+        "answer": "The SLK (2011–2015) and SLC (2016–2020) are the same car underneath. The name changed in 2016 to align with Mercedes' new naming convention (SUVs = GL, saloons = CL, roadsters = SL, with SLC being the compact roadster). The difference: The SLC facelift brought new engines (M274 replacing M271), a revised front end, and updated interior tech. The SLC is more reliable because it uses the M274 engine — which has no timing chain risk — whereas the pre-2016 SLK used the M271 with its known chain issues. Our verdict: Buy the SLC (2016–2020) for the M274 engine and the facelift improvements. Buy the SLK (2011–2015) only if you find a well-maintained OM651 diesel example — the M271 petrol carries the same risk as the R171. Read the full comparison: SLK vs SLC →"
       }
     ]
   },

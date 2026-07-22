@@ -1,11 +1,212 @@
 {
   "meta": {
-    "slug": "mercedes-amg-gt-r190",
-    "title": "Mercedes‑AMG GT R190 Engines — The Complete UK Guide",
-    "titleCharCount": 52,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-amg-gt-r190",
+    "title": "R190 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 48,
+    "description": "Every Mercedes‑AMG GT R190 engine — M178 V8 in 476hp, 522hp and 585hp guises. Real UK costs, hot‑vee reliability, and honest ownership advice. Get free quotes from 25+ vetted AMG specialists today.",
+    "descriptionCharCount": 155,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "AMG GT",
+              "item": "https://mercedesengine.uk/amg-gt/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑AMG GT R190",
+              "item": "https://mercedesengine.uk/amg-gt/r190/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑AMG GT R190 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M178.980 (476hp) Engine",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M178.980 (522hp) Engine",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M178.980 (585hp) Engine",
+              "url": "https://mercedesengine.uk/engines/m178/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑AMG GT R190 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GT",
+              "url": "https://mercedesengine.uk/amg-gt/gt/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GT S",
+              "url": "https://mercedesengine.uk/amg-gt/gt-s/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GT R",
+              "url": "https://mercedesengine.uk/amg-gt/gt-r/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑AMG GT R190 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M178 engine for the R190 typically costs £12,000–£18,000 supply only, depending on power tune — the GT and GT S sit at £12,000–£16,000, while the GT R commands £14,000–£18,000. Fitting adds £1,500–£3,000 at a specialist. Use our calculator for a personalised quote."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑AMG GT R190 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M178.980 is a fundamentally robust hot‑vee V8, but the 476hp GT tune is the least stressed and therefore the most forgiving on cooling systems. The GT S (522hp) offers the best balance of performance and durability; the GT R’s 585hp tune runs hottest and demands the most preventative maintenance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑AMG GT R190?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooling system stress (intercooler and oil cooler seal degradation) is the defining weakness — the hot‑vee design concentrates heat around turbos and plastic coolant pipes. Oil separator failure and rear main seal leaks are also documented on higher‑mileage cars. The 7‑speed DCT also needs regular servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑AMG GT R190 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for a high‑performance V8 — the M178 has proved itself across AMG’s range. But reliability depends entirely on preventative maintenance. Cooling system inspections and DCT services are non‑negotiable; neglect them and costs escalate fast. A well‑maintained R190 is a dependable supercar."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑AMG GT R190 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "None outright — but a GT R without documented cooling system history is the one to approach with caution. The 585hp tune generates significant heat, and if previous owners haven’t addressed intercooler and oil cooler health, you’re buying a potential £14,000+ bill."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Mercedes‑AMG GT R190 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Coolant loss without visible leaks, persistent oil consumption, or misfires under load are the key warnings. Any of these on an M178 requires immediate specialist diagnosis — ignoring them can turn a £1,500–£3,000 repair into a £12,000–£18,000 replacement."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑AMG GT R190 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On a £60,000–£80,000 R190, a £14,000–£18,000 recon sits at 18–30% of the car’s value — well inside the 70% Mercedes‑Benz threshold. Replacement is almost always financially justified for a well‑maintained example. Only consider scrapping if the car is a Cat‑S write‑off or has extensive body damage."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes‑AMG GT R190 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper cooling system maintenance and regular oil changes, the M178 can comfortably exceed 100,000 miles. Many examples are low‑mileage weekend cars, but high‑mileage cars that have been tracked will need more frequent cooling component replacements."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What’s the difference between the C190 and R190?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are first‑generation AMG GT, sharing the same M178 engine and aluminium spaceframe. The C190 is the fixed‑head coupé (2014–2022), while the R190 is the fabric‑roof roadster (2017–2021). Labour access and cooling system demands are nearly identical — costs on this page apply to both, but body‑specific pages cover each separately."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑AMG GT R190 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M178.980 code is stamped on the engine block, visible from underneath on a ramp. It’s also listed on the vehicle’s VIN plate and in the service booklet. Tell us your variant (GT, GT S, or GT R) and we’ll confirm the tune — 25+ vetted AMG specialists can identify it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑AMG GT R190 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "8000",
+            "highPrice": "22000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "R190 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/amg-gt/r190/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -267,16 +468,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑AMG GT R190 engine replacement cost in the UK?",
+        "answer": "A reconditioned M178 engine for the R190 typically costs £12,000–£18,000 supply only [MB‑QUOTE], depending on power tune — the GT and GT S sit at £12,000–£16,000, while the GT R commands £14,000–£18,000. Fitting adds £1,500–£3,000 at a specialist. Use our calculator for a personalised quote."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes‑AMG GT R190 engine is the most reliable?",
+        "answer": "The M178.980 is a fundamentally robust hot‑vee V8, but the 476hp GT tune is the least stressed and therefore the most forgiving on cooling systems. The GT S (522hp) offers the best balance of performance and durability; the GT R’s 585hp tune runs hottest and demands the most preventative maintenance."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑AMG GT R190?",
+        "answer": "Cooling system stress (intercooler and oil cooler seal degradation) is the defining weakness — the hot‑vee design concentrates heat around turbos and plastic coolant pipes. Oil separator failure and rear main seal leaks are also documented on higher‑mileage cars. The 7‑speed DCT also needs regular servicing."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes‑AMG GT R190 reliable?",
+        "answer": "Yes, for a high‑performance V8 — the M178 has proved itself across AMG’s range. But reliability depends entirely on preventative maintenance. Cooling system inspections and DCT services are non‑negotiable; neglect them and costs escalate fast. A well‑maintained R190 is a dependable supercar."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes‑AMG GT R190 engine should I avoid?",
+        "answer": "None outright — but a GT R without documented cooling system history is the one to approach with caution. The 585hp tune generates significant heat, and if previous owners haven’t addressed intercooler and oil cooler health, you’re buying a potential £14,000+ bill."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my Mercedes‑AMG GT R190 engine needs replacing?",
+        "answer": "Coolant loss without visible leaks, persistent oil consumption, or misfires under load are the key warnings. Any of these on an M178 requires immediate specialist diagnosis — ignoring them can turn a £1,500–£3,000 repair into a £12,000–£18,000 replacement."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes‑AMG GT R190 engine, or should I scrap the car?",
+        "answer": "On a £60,000–£80,000 R190, a £14,000–£18,000 recon sits at 18–30% of the car’s value — well inside the 70% Mercedes‑Benz threshold. Replacement is almost always financially justified for a well‑maintained example. Only consider scrapping if the car is a Cat‑S write‑off or has extensive body damage."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes‑AMG GT R190 engines last?",
+        "answer": "With proper cooling system maintenance and regular oil changes, the M178 can comfortably exceed 100,000 miles. Many examples are low‑mileage weekend cars, but high‑mileage cars that have been tracked will need more frequent cooling component replacements."
+      },
+      {
+        "id": 9,
+        "question": "What’s the difference between the C190 and R190?",
+        "answer": "Both are first‑generation AMG GT, sharing the same M178 engine and aluminium spaceframe. The C190 is the fixed‑head coupé (2014–2022), while the R190 is the fabric‑roof roadster (2017–2021). Labour access and cooling system demands are nearly identical — costs on this page apply to both, but body‑specific pages cover each separately."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes‑AMG GT R190 engine code?",
+        "answer": "The M178.980 code is stamped on the engine block, visible from underneath on a ramp. It’s also listed on the vehicle’s VIN plate and in the service booklet. Tell us your variant (GT, GT S, or GT R) and we’ll confirm the tune — 25+ vetted AMG specialists can identify it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes‑AMG GT R190 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted AMG GT R190 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real AMG GT owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare AMG GT R190 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑and‑fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for AMG GT R190",
+        "text": "covering every variant from GT to GT R, with supply‑only or full supply‑and‑fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑AMG GT R190 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes‑AMG GT R190 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

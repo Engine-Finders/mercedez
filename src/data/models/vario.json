@@ -1,24 +1,216 @@
 {
   "meta": {
     "slug": "vario",
-    "title": "Vario Engines — The Complete UK Guide",
-    "titleCharCount": 37,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "Vario Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 51,
+    "description": "Every Vario engine — OM602, OM904. Commercial vehicle costs and reliability data. Compare prices from specialist UK Mercedes-Benz commercial workshops today.",
+    "descriptionCharCount": 146,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "Vario Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Vario engine — OM602, OM904. Commercial vehicle costs and reliability data. Compare prices from specialist UK Mercedes-Benz commercial workshops today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/vario/",
       "image": "",
-      "siteName": ""
+      "siteName": "MercedesEngines.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "Vario Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Vario engine — OM602, OM904. Commercial vehicle costs and reliability data. Compare prices from specialist UK Mercedes-Benz commercial workshops today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vario",
+              "item": "https://mercedesengine.uk/vario/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Vario Engine Codes",
+          "description": "Complete Mercedes-Benz Vario engine code database",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM602 2.9 5cyl Diesel",
+              "url": "https://mercedesengine.uk/engines/om602/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM904 4.25 4cyl Diesel",
+              "url": "https://mercedesengine.uk/engines/om904/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Vario engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Vario engine replacement typically costs £2,000–£6,000 supply-only, depending on engine variant and emissions standard. The OM602 five-cylinder is the cheapest to replace (£2,000–£4,000 reconditioned [MB-QUOTE]); the OM904 four-cylinder Euro 4/5 is the most expensive (£3,000–£6,000 recon [MB-QUOTE]). Labour adds £910–£2,340 at independent rates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vario engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM904 (introduced in 1996) is the most reliable Vario engine — 4.25 litres, 122–177 hp, electronically controlled unit pump injectors, and proven in LN2 and Vario service. The OM602 was carried over from the Sprinter and is less common in later Varios. Buy the OM904, check the service history, and budget for injector servicing at 100,000-mile intervals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vario engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM602 is not a 'avoid' engine — but it's the older design and parts are becoming harder to source. The OM602 was carried over from the Sprinter and is less common in later Varios. Buy a Vario with the OM904 if you can — it's the engine Mercedes designed for the Vario and LN2, with better parts availability and proven reliability."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Vario engine fuel system reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM904's electronically controlled unit pump injector system is advanced for its time — but it means injector failure is a £300–£800 repair per cylinder. Regular fuel filter changes (every 30,000 miles) and the use of high-quality diesel fuel are essential for long-term reliability. Symptoms of injector failure: rough running, loss of power, and fuel dilution of the engine oil. If you notice any of these, book a specialist inspection immediately."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Vario engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Vario was discontinued in 2013 — engine replacement decisions are commercial, not emotional. A £2,000–£4,000 OM602 recon against a £2,000–£6,000 Vario sits at 33–200% of vehicle value — often a scrap decision unless the vehicle has significant commercial value. A £2,500–£6,000 OM904 recon against a £2,000–£8,000 Vario sits at 31–300%. Calculate the vehicle's remaining commercial life, factor in parts availability, and consider whether a replacement vehicle offers better value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vario should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 2000+ Vario with OM904 (Euro 3/4/5) is the one to buy. The OM904 is the most reliable engine, parts availability is better than the OM602, and later examples benefit from improved engine electronics and emissions compliance. The 2000 model year introduced the 618D and 818D variants with direct injection — these are generally the ones to buy. Check the service history, inspect the body for rust, and test the engine for injector noise and smooth running."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Vario engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your Vario engine code can be found in three places: VIN plate on the driver's side door pillar (engine code is usually in the 7th and 8th positions), vehicle documentation (your V5C logbook lists the engine number), or engine block stamping (on the OM904, the engine code is stamped on the left-hand side of the block near the front). A '614D' badge can mean OM602 or OM904 depending on year — check the VIN or registration year to confirm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Vario vs Sprinter — which is the better commercial vehicle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Vario (4.8–7.5 tonnes) and Sprinter (3.5–5.0 tonnes) serve different weight classes. The Vario offers heavier payload capacity and 12–20 seat minibus options — but production ended in 2013 and parts are becoming harder to source. The Sprinter has a far larger parts network and is still in production. Buy the Vario if you need 4.8–7.5 tonnes capacity; buy the Sprinter for modern reliability and better parts availability."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "sameAs": [],
+          "description": "The UK's most trusted Mercedes-Benz ownership guide — reliability rankings, real failure data, honest repair-vs-replace economics for every Vario, Sprinter, A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG ever sold in the UK."
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Vario Engine Replacement",
+          "description": "Mercedes-Benz Vario engine replacement, reconditioning and repair services across the UK — commercial vehicle specialists",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2000",
+            "highPrice": "6000",
+            "availability": "https://schema.org/InStock",
+            "availabilityStarts": "2025-01-01",
+            "availabilityEnds": "2026-12-31"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Vario UK Commercial Vehicle Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz Vario engines — documented commercial vehicle failure patterns, specialist interviews, and owner-forum consensus.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025-01-01/2025-12-31",
+          "spatialCoverage": "United Kingdom",
+          "keywords": "Vario engine, Vario reliability, Vario failure, OM602, OM904, commercial vehicle",
+          "isAccessibleForFree": true
+        },
+        {
+          "@type": "WebPage",
+          "name": "Vario Engine Replacement Cost UK — Compare Quotes",
+          "description": "Every Vario engine — OM602, OM904. Commercial vehicle costs and reliability data. Compare prices from specialist UK Mercedes-Benz commercial workshops today.",
+          "url": "https://mercedesengine.uk/vario/",
+          "inLanguage": "en-GB",
+          "about": {
+            "@type": "Vehicle",
+            "name": "Mercedes-Benz Vario",
+            "vehicleEngine": [
+              {
+                "@type": "EngineSpecification",
+                "name": "OM602",
+                "fuelType": "Diesel",
+                "engineDisplacement": "2.87L",
+                "enginePower": "122 hp (90kW)",
+                "productionDate": "1996–2000"
+              },
+              {
+                "@type": "EngineSpecification",
+                "name": "OM904",
+                "fuelType": "Diesel",
+                "engineDisplacement": "4.25L",
+                "enginePower": "122–177 hp",
+                "productionDate": "1996–2013"
+              }
+            ]
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://mercedesengine.uk/vario/"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • Vario • 1996–2013 • 1 Generation • OM602 • OM904",
@@ -532,6 +724,41 @@
     "items": [
       {
         "id": 1,
+        "question": "How much does a Vario engine replacement cost in the UK?",
+        "answer": "A Vario engine replacement typically costs £2,000–£6,000 supply-only, depending on engine variant and emissions standard. The OM602 five-cylinder is the cheapest to replace (£2,000–£4,000 reconditioned [MB-QUOTE]); the OM904 four-cylinder Euro 4/5 is the most expensive (£3,000–£6,000 recon [MB-QUOTE]). Labour adds £910–£2,340 at independent rates. Use our diagnostic calculator above for a personalised cost estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which Vario engine is the most reliable?",
+        "answer": "The OM904 (introduced in 1996) is the most reliable Vario engine — 4.25 litres, 122–177 hp, electronically controlled unit pump injectors, and proven in LN2 and Vario service. The OM602 was carried over from the Sprinter and is less common in later Varios. Buy the OM904, check the service history, and budget for injector servicing at 100,000-mile intervals. Read the full OM904 guide →"
+      },
+      {
+        "id": 3,
+        "question": "Which Vario engine should I avoid?",
+        "answer": "The OM602 is not a \"avoid\" engine — but it's the older design and parts are becoming harder to source. The OM602 was carried over from the Sprinter and is less common in later Varios. Buy a Vario with the OM904 if you can — it's the engine Mercedes designed for the Vario and LN2, with better parts availability and proven reliability."
+      },
+      {
+        "id": 4,
+        "question": "Is the Vario engine fuel system reliable?",
+        "answer": "The OM904's electronically controlled unit pump injector system is advanced for its time — but it means injector failure is a £300–£800 repair per cylinder. Regular fuel filter changes (every 30,000 miles) and the use of high-quality diesel fuel are essential for long-term reliability. Symptoms of injector failure: rough running, loss of power, and fuel dilution of the engine oil. If you notice any of these, book a specialist inspection immediately."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a Vario engine?",
+        "answer": "The Vario was discontinued in 2013 — engine replacement decisions are commercial, not emotional. A £2,000–£4,000 OM602 recon against a £2,000–£6,000 Vario sits at 33–200% of vehicle value — often a scrap decision unless the vehicle has significant commercial value. A £2,500–£6,000 OM904 recon against a £2,000–£8,000 Vario sits at 31–300% — a far wider swing. For a minibus operator with 12 seats and 50,000 miles per year, a £4,000 engine replacement might be entirely justified. For a private owner with a backup vehicle, it probably isn't. The rule: Calculate the vehicle's remaining commercial life, factor in parts availability, and consider whether a replacement vehicle offers better value. Use the calculator →"
+      },
+      {
+        "id": 6,
+        "question": "Which Vario should I buy?",
+        "answer": "The 2000+ Vario with OM904 (Euro 3/4/5) is the one to buy. The OM904 is the most reliable engine, parts availability is better than the OM602, and later examples benefit from improved engine electronics and emissions compliance. The 2000 model year introduced the 618D and 818D variants with direct injection — these are generally the ones to buy. Check the service history, inspect the body for rust, and test the engine for injector noise and smooth running. See our full Vario Rankings →"
+      },
+      {
+        "id": 7,
+        "question": "How do I find my Vario engine code?",
+        "answer": "Your Vario engine code can be found in three places:"
+      },
+      {
+        "id": 1,
         "question": "VIN plate — located on the driver's side door pillar or under the bonnet. The engine code is usually in the 7th and 8th positions of the VIN.",
         "answer": ""
       },
@@ -543,7 +770,12 @@
       {
         "id": 3,
         "question": "Engine block stamping — on the OM904, the engine code is stamped on the left-hand side of the block near the front.",
-        "answer": "Don't rely on the model badge: A \"614D\" badge can mean OM602 or OM904 depending on year. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator → Q8: Vario vs Sprinter — which is the better commercial vehicle? The Vario (4.8–7.5 tonnes) and Sprinter (3.5–5.0 tonnes) serve different weight classes. The Vario is significantly heavier and carries larger payloads — but the Sprinter is more modern, better supported, and parts are easier to source. The Vario offers 4.8–7.5 tonne capacity, 12–20 seat minibus options, and the proven OM904 engine — but production ended in 2013 and parts are becoming harder to source. The Sprinter is available up to 5.0 tonnes, has a far larger parts network, and is still in production — but it cannot match the Vario's heavier payload capacity. Our verdict: Buy the Vario if you need 4.8–7.5 tonnes capacity and can maintain a commercial vehicle no longer in production. Buy the Sprinter if you want modern reliability, better parts availability, and a vehicle that's still in production. Read the full comparison: Vario vs Sprinter →"
+        "answer": "Don't rely on the model badge: A \"614D\" badge can mean OM602 or OM904 depending on year. Check the VIN or registration year to confirm. If you're unsure, enter your registration number into our calculator and we'll identify it for you. Use the calculator →"
+      },
+      {
+        "id": 8,
+        "question": "Vario vs Sprinter — which is the better commercial vehicle?",
+        "answer": "The Vario (4.8–7.5 tonnes) and Sprinter (3.5–5.0 tonnes) serve different weight classes. The Vario is significantly heavier and carries larger payloads — but the Sprinter is more modern, better supported, and parts are easier to source. The Vario offers 4.8–7.5 tonne capacity, 12–20 seat minibus options, and the proven OM904 engine — but production ended in 2013 and parts are becoming harder to source. The Sprinter is available up to 5.0 tonnes, has a far larger parts network, and is still in production — but it cannot match the Vario's heavier payload capacity. Our verdict: Buy the Vario if you need 4.8–7.5 tonnes capacity and can maintain a commercial vehicle no longer in production. Buy the Sprinter if you want modern reliability, better parts availability, and a vehicle that's still in production. Read the full comparison: Vario vs Sprinter →"
       }
     ]
   },

@@ -1,24 +1,193 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m136",
-    "title": "Mercedes-Benz M136 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m136",
+    "title": "Mercedes-Benz M136 Engine — Specs, Reliability & Cost",
+    "description": "The M136 is a robust pre-war straight-four that powered the iconic 170 V — simple, durable, and full of character. Compare quotes from classic specialists.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m136/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M136 Engine — Specs, Reliability & Cost",
+      "description": "The M136 is a robust pre-war straight-four that powered the iconic 170 V — simple, durable, and full of character. Compare quotes from classic specialists.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m136/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m136.jpg",
+      "siteName": "mercedesbenzengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M136 Engine — Specs, Reliability & Cost",
+      "description": "The M136 is a robust pre-war straight-four that powered the iconic 170 V — simple, durable, and full of character. Compare quotes from classic specialists.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m136.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M136",
+              "item": "https://mercedesbenzengine.uk/engines/m136/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M136 engine",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "170 V W136 (1.7L)",
+              "url": "https://mercedesbenzengine.uk/models/170-v/w136/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "170 S / 170 Sb W191 (1.8L)",
+              "url": "https://mercedesbenzengine.uk/models/170-s/w191/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "180 Ponton W120 (1.8L)",
+              "url": "https://mercedesbenzengine.uk/models/180/w120/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "170 Va / 170 V utility variants",
+              "url": "https://mercedesbenzengine.uk/models/170-v/variants/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M136 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M136 typically costs £2,000–£3,500 supply only, with fitting adding £500–£800 depending on labour rates [ESTIMATED]. Used examples can be found from £500, making it relatively affordable for a classic engine."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M136 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M136 rates 4.5★ out of 5 — widely regarded as exceptionally robust for its era. Its triple-bearing forged steel crankshaft and chain-driven camshaft contribute to impressive durability in both civilian and utility applications. Regular maintenance is the key to longevity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M136 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Carburettor and ignition system wear are the most common issues on surviving examples — the Solex updraught carburettor and distributor components degrade with age. Oil leaks from gaskets and seals are also typical on high-mileage or long-stored engines."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M136?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M136 powers the W136 170 V (1935–1950), W191 170 S variants (1950–1955), and the early W120 Ponton 180 (1953–1957) — spanning Mercedes' pre-war and early post-war passenger car range."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M136 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance, 200,000+ miles is achievable — many well-maintained W136 and W191 examples remain on the road today. The simple side-valve design means fewer components to fail, though age-related wear on carburettor, ignition, and gaskets is inevitable."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesbenzengine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M136 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M136 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "500",
+            "highPrice": "5500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M136 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M136 classic side-valve four-cylinder, sourced from mercedesbenzengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M136 Engine — Specs, Reliability & Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m136/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M136 • Petrol • 1.7–1.8L Side-Valve I4 • 1935–1955",
@@ -80,79 +249,44 @@
       {
         "metric": "Overall Engine Score",
         "value": "84/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: M136 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.5★ out of 5",
-        "value": "Confidence: 82% confidence — based on classic Mercedes specialist consensus, owner-forum reporting, and period documentation."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "18"
-      },
-      {
-        "metric": "4.5★ × 4 = 18",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "20",
-        "value": "Reconditioned supply midpoint under £3,000 — under £3,000 → 20"
-      },
-      {
-        "metric": "Repairability",
-        "value": "16"
-      },
-      {
-        "metric": "Simple side-valve design; most repairs straightforward for classic specialists — parts availability is the main constraint",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "12",
-        "value": "Available via classic Mercedes specialists, but some parts are NLA or require specialist sourcing"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "18"
-      },
-      {
-        "metric": "Reconditioned cost as % of lowest host value — well under 30% for restored examples → 18",
-        "value": "Total"
-      },
-      {
-        "metric": "84/100",
-        "value": "One-line verdict: \"The M136 is a famously tough, simple pre-war four — side-valve design is dated but durable — buy on originality and documented history.\""
-      },
-      {
-        "metric": "Best For: Classic Mercedes enthusiasts wanting an original, reliable pre-war or early post-war driving experience.",
-        "value": "Avoid If: Buyers seeking modern performance, fuel economy, or easy parts availability from main dealers."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.5★ out of 5",
+    "confidence": "82% confidence — based on classic Mercedes specialist consensus, owner-forum reporting, and period documentation.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "18 (4.5★ × 4 = 18)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "20 (Reconditioned supply midpoint under £3,000 — under £3,000 → 20)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "16 (Simple side-valve design; most repairs straightforward for classic specialists — parts availability is the main constraint)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "12 (Available via classic Mercedes specialists, but some parts are NLA or require specialist sourcing)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "18 (Reconditioned cost as % of lowest host value — well under 30% for restored examples → 18)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "\"The M136 is a famously tough, simple pre-war four — side-valve design is dated but durable — buy on originality and documented history.\"",
+    "bestFor": "Classic Mercedes enthusiasts wanting an original, reliable pre-war or early post-war driving experience.",
+    "avoidIf": "Buyers seeking modern performance, fuel economy, or easy parts availability from main dealers."
   },
   "compatibility": {
     "columns": [

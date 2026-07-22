@@ -1,11 +1,230 @@
 {
   "meta": {
-    "slug": "mercedes-benz-e-class-c238-2",
-    "title": "Mercedes‑Benz E‑Class C238 Engines — The Complete UK Guide",
-    "titleCharCount": 58,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-glc-class-x253",
+    "title": "C238 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes‑Benz E‑Class C238 engine — M274, M264, M276, M256, OM654, OM656. Real UK costs, straight‑six M256 explained, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLC‑Class",
+              "item": "https://mercedesengine.uk/glc-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz GLC‑Class X253",
+              "item": "https://mercedesengine.uk/glc-class/x253/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz GLC‑Class X253 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M274.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M264.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m264/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276.823 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M177.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM651 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM654.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz GLC‑Class X253 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GLC 220 d",
+              "url": "https://mercedesengine.uk/glc-class/glc220d-x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "GLC 300",
+              "url": "https://mercedesengine.uk/glc-class/glc300-x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "AMG GLC 63 S",
+              "url": "https://mercedesengine.uk/glc-class/amg-glc63s-x253/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz GLC‑Class X253 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned X253 engine typically costs £1,500–£14,000 supply only, depending on engine — the volume OM651 diesel sits at £2,800–£4,800, while the AMG M177 V8 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz GLC‑Class X253 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel (post‑facelift, 2019–2022) is the most improved — it replaces the OM651 with a better timing chain design and eliminates the 'Black Death' injector seal issue. Among petrols, the M274 four‑cylinder turbo is proven and robust, with timing chain stretch as its only real watchpoint."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz GLC‑Class X253?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Injector seal 'Black Death' on the OM651 diesel (pre‑facelift), AdBlue system failures on the OM654 diesel (post‑facelift), timing chain stretch on the M274 petrol four‑cylinder, and sensor‑derived misfire issues on the M177 V8 (AMG GLC 63/S)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz GLC‑Class X253 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on which engine and which side of the 2019 facelift your car sits on. Pre‑facelift diesel buyers get the ageing but proven OM651; post‑facelift buyers get the improved OM654. The petrol M274 is a solid choice across the board, while the AMG V8 demands a maintenance budget to match its performance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz GLC‑Class X253 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a pre‑facelift OM651 without documented injector seal history is the one we consistently advise buyers to inspect carefully. A neglected M177 AMG V8 without service history is the second, as sensor misfires can be expensive to diagnose."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Mercedes‑Benz GLC‑Class X253 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold‑start rattle (M274 timing chain), rough idle or diesel smell (OM651 injector seals), AdBlue countdown warnings (OM654), or misfires under load (M177) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz GLC‑Class X253 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well‑kept £18,000 X253, a £4,000 OM654 recon is 22% of the car's value — safe. Against a tired £8,000 example, the same recon is 50% — still under the 70% Mercedes‑Benz threshold. Value the car and its history first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes‑Benz GLC‑Class X253 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 diesel can exceed 200,000 miles with proper servicing, though injector seals are a recurring maintenance item. The OM654 is similarly durable, with AdBlue system maintenance its main cost. The M274 petrol four can comfortably reach 150,000+ miles with regular oil changes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the X253 GLC and the C253 GLC Coupé?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are first‑generation GLC‑Class, sharing the MRA platform and engine line‑up. The X253 is the 5‑door SUV (2015–2022, this page), while the C253 is the 4‑door coupé‑SUV (2016–2023). The X253 has a more practical tailgate and rear headroom; costs are nearly identical for engine work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz GLC‑Class X253 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (GLC 200, GLC 220 d, AMG GLC 63 S, etc.) and approximate registration date (pre‑ or post‑2019) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz GLC‑Class X253 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1000",
+            "highPrice": "18000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "X253 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/glc-class/x253/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -524,16 +743,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz GLC‑Class X253 engine replacement cost in the UK?",
+        "answer": "A reconditioned X253 engine typically costs £1,500–£14,000 supply only [MB‑QUOTE], depending on engine — the volume OM651 diesel sits at £2,800–£4,800, while the AMG M177 V8 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes‑Benz GLC‑Class X253 engine is the most reliable?",
+        "answer": "The OM654 diesel (post‑facelift, 2019–2022) is the most improved — it replaces the OM651 with a better timing chain design and eliminates the \"Black Death\" injector seal issue. Among petrols, the M274 four‑cylinder turbo is proven and robust, with timing chain stretch as its only real watchpoint."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz GLC‑Class X253?",
+        "answer": "Injector seal \"Black Death\" on the OM651 diesel (pre‑facelift), AdBlue system failures on the OM654 diesel (post‑facelift), timing chain stretch on the M274 petrol four‑cylinder, and sensor‑derived misfire issues on the M177 V8 (AMG GLC 63/S)."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes‑Benz GLC‑Class X253 reliable?",
+        "answer": "It depends on which engine and which side of the 2019 facelift your car sits on. Pre‑facelift diesel buyers get the ageing but proven OM651; post‑facelift buyers get the improved OM654. The petrol M274 is a solid choice across the board, while the AMG V8 demands a maintenance budget to match its performance."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes‑Benz GLC‑Class X253 engine should I avoid?",
+        "answer": "No engine outright — but a pre‑facelift OM651 without documented injector seal history is the one we consistently advise buyers to inspect carefully. A neglected M177 AMG V8 without service history is the second, as sensor misfires can be expensive to diagnose."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my Mercedes‑Benz GLC‑Class X253 engine needs replacing?",
+        "answer": "Cold‑start rattle (M274 timing chain), rough idle or diesel smell (OM651 injector seals), AdBlue countdown warnings (OM654), or misfires under load (M177) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes‑Benz GLC‑Class X253 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well‑kept £18,000 X253, a £4,000 OM654 recon is 22% of the car's value — safe. Against a tired £8,000 example, the same recon is 50% — still under the 70% Mercedes‑Benz threshold. Value the car and its history first."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes‑Benz GLC‑Class X253 engines last?",
+        "answer": "The OM651 diesel can exceed 200,000 miles with proper servicing, though injector seals are a recurring maintenance item. The OM654 is similarly durable, with AdBlue system maintenance its main cost. The M274 petrol four can comfortably reach 150,000+ miles with regular oil changes."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the X253 GLC and the C253 GLC Coupé?",
+        "answer": "Both are first‑generation GLC‑Class, sharing the MRA platform and engine line‑up. The X253 is the 5‑door SUV (2015–2022, this page), while the C253 is the 4‑door coupé‑SUV (2016–2023). The X253 has a more practical tailgate and rear headroom; costs are nearly identical for engine work."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes‑Benz GLC‑Class X253 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (GLC 200, GLC 220 d, AMG GLC 63 S, etc.) and approximate registration date (pre‑ or post‑2019) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes‑Benz GLC‑Class X253 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted X253 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real X253 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare X253 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑and‑fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for X253",
+        "text": "covering every variant from GLC 200 to AMG GLC 63 S, with supply‑only or full supply‑and‑fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑Benz GLC‑Class X253 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes‑Benz GLC‑Class X253 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

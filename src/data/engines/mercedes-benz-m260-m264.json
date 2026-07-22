@@ -1,24 +1,229 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m260-m264",
-    "title": "Mercedes-Benz M260/M264 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m260-m264",
+    "title": "Mercedes-Benz M260/M264 Engine — Reliability",
+    "description": "The M260/M264 are refined modern fours but cylinder head failures are well‑documented — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+    "canonical": "https://mercedesengine.uk/engines/m260-m264/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M260/M264 Engine — Reliability",
+      "description": "The M260/M264 are refined modern fours but cylinder head failures are well‑documented — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/m260-m264/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m260-m264.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M260/M264 Engine — Reliability",
+      "description": "The M260/M264 are refined modern fours but cylinder head failures are well‑documented — rated from real UK enquiries [ESTIMATED]. Compare quotes from 25+ vetted specialists today.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m260-m264.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M260/M264",
+              "item": "https://mercedesengine.uk/engines/m260-m264/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M260/M264",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Mercedes‑Benz A‑Class W177 (2018–present)",
+              "url": "https://mercedesengine.uk/models/a-class/w177/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Mercedes‑Benz B‑Class W247 (2019–present)",
+              "url": "https://mercedesengine.uk/models/b-class/w247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz CLA C118 / X118 (2019–present)",
+              "url": "https://mercedesengine.uk/models/cla-class/c118/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Mercedes‑Benz GLA H247 (2020–present)",
+              "url": "https://mercedesengine.uk/models/gla-class/h247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Mercedes‑Benz GLB X247 (2019–present)",
+              "url": "https://mercedesengine.uk/models/glb-class/x247/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Mercedes‑Benz C‑Class W205 (2018–2021)",
+              "url": "https://mercedesengine.uk/models/c-class/w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Mercedes‑Benz E‑Class W213 (2018–present)",
+              "url": "https://mercedesengine.uk/models/e-class/w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Mercedes‑Benz CLS C257 (2018–present)",
+              "url": "https://mercedesengine.uk/models/cls-class/c257/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Mercedes‑Benz GLC X253 (2019–present)",
+              "url": "https://mercedesengine.uk/models/glc-class/x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Mercedes‑Benz G‑Class W463 (G 350, 2019–present)",
+              "url": "https://mercedesengine.uk/models/g-class/w463/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M260/M264 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M260/M264 typically costs £4,500–£7,500 supply only [MB‑QUOTE], varying by displacement (1.5L vs 2.0L) and variant. Fitting adds £650–£1,300 depending on labour rates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M260/M264 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M260/M264 are considered reasonably reliable in early production, earning 3.0★ out of 5 [MB‑VERIFIED] — but well-documented cylinder head failures and timing chain issues mean diligent maintenance is essential."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M260/M264 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cylinder head failure — specifically exhaust valve seat wear leading to misfires and compression loss — typically appears between 40,000–120,000 miles. Mercedes issued extended warranties for the M260 in some markets."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M260/M264?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M260 (transverse) powers A‑Class, B‑Class, CLA, GLA, and GLB. The M264 (longitudinal) powers C‑Class, E‑Class, CLS, GLC, and G‑Class — the key difference is engine orientation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M260/M264 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With meticulous maintenance, 160,000–190,000 miles is achievable — but high‑mileage examples often require significant expenditure on cylinder head or timing chain work. The 48V mild-hybrid system can also introduce additional complexity."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M260/M264 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M260/M264 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2500",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M260/M264 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M260/M264, sourced from mercedesengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M260/M264 Engine — Reliability",
+          "url": "https://mercedesengine.uk/engines/m260-m264/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M260/M264 • Petrol MHEV • 1.5/2.0L Turbo I4 • 2017–present",
@@ -63,79 +268,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "M260/M264 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 3.0★ out of 5",
-        "value": "Confidence: 85% confidence — based on cross-referenced specialist reports, owner forums, and documented warranty extensions; proprietary enquiry data pending full verification."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "12"
-      },
-      {
-        "metric": "3.0★ × 4",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "12",
-        "value": "Reconditioned supply midpoint ~£5,000–£6,000 → falls in £5,000–£6,999 band"
-      },
-      {
-        "metric": "Repairability",
-        "value": "8"
-      },
-      {
-        "metric": "Cylinder head failure often requires full head replacement (not rebuild) — major, specialist-only work",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "12",
-        "value": "Available but cylinder heads are specialist-order items; some wait times"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "TBC"
-      },
-      {
-        "metric": "Depends on host vehicle value — see R-to-V flag guidance",
-        "value": "Total"
-      },
-      {
-        "metric": "TBC/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The M260/M264 are refined, efficient modern fours — but cylinder head and timing chain failures are well-documented and expensive to fix — buy only with full service history and warranty cover.",
-        "value": "Best For: Drivers who want a modern, efficient Mercedes with the latest technology and are prepared for specialist maintenance."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "3.0★ out of 5",
+    "confidence": "85% confidence — based on cross-referenced specialist reports, owner forums, and documented warranty extensions; proprietary enquiry data pending full verification.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "12 (3.0★ × 4)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "12 (Reconditioned supply midpoint ~£5,000–£6,000 → falls in £5,000–£6,999 band)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "8 (Cylinder head failure often requires full head replacement (not rebuild) — major, specialist-only work)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "12 (Available but cylinder heads are specialist-order items; some wait times)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "TBC (Depends on host vehicle value — see R-to-V flag guidance)"
+        },
+        {
+          "dimension": "Total",
+          "score": "TBC/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M260/M264 are refined, efficient modern fours — but cylinder head and timing chain failures are well-documented and expensive to fix — buy only with full service history and warranty cover.",
+    "bestFor": "Drivers who want a modern, efficient Mercedes with the latest technology and are prepared for specialist maintenance.",
+    "avoidIf": "You need bulletproof, low-maintenance reliability on a tight budget — older M274/M270 engines are simpler and more proven."
   },
   "compatibility": {
     "columns": [

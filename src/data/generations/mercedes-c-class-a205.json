@@ -1,11 +1,277 @@
 {
   "meta": {
-    "slug": "mercedes-c-class-a205",
-    "title": "Mercedes C-Class A205 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-mercedes-c-class-a205",
+    "title": "A205 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes A205 engine — M274 and M264 petrols, OM651 and OM654 diesels, and the M177 AMG V8. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 156,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class",
+              "item": "https://mercedesengine.uk/mercedes-c-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes C-Class A205",
+              "item": "https://mercedesengine.uk/mercedes-c-class/a205/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes A205 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M274.910 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M274.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM651.921 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M264 E15 DEH LA Engine",
+              "url": "https://mercedesengine.uk/engines/m264/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M264 E20 DEH LA Engine",
+              "url": "https://mercedesengine.uk/engines/m264/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM654.920 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M177 DE40 LA Engine",
+              "url": "https://mercedesengine.uk/engines/m177/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes A205 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C180",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c180/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C200",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c200/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "C220d",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c220d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "C250",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c250/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "C250d",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c250d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "C300",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c300/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "C63",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c63/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "C63 S",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c63-s/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes C-Class A205 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned A205 engine typically costs £2,200–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,000. Fitting adds 10–20 hours labour at specialist rates due to the cabriolet‑specific engine bay packaging. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes A205 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654.920 (C220d facelift, 2018–2023) — a 2.0‑litre four‑cylinder diesel with improved timing chain design and significantly better reliability than the OM651 it replaced. The M264 E20 DEH LA (C300 facelift) is the best petrol option — 258 bhp with 48V mild‑hybrid assistance and fewer reported issues than the pre‑facelift M274."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes C-Class A205?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "OM651 rear timing chain failure (pre‑facelift diesel), M274 timing chain and fuel pump failure (pre‑facelift petrol), M264 valve and cooling system issues (facelift petrol), and — chassis‑specific — the cabriolet roof mechanism and rear‑window seal delamination on all cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes C-Class A205 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on which engine and whether you buy pre‑facelift (2016–2018) or facelift (2018–2023). The facelift M264 petrol and OM654 diesel are significantly more reliable than the pre‑facelift M274 and OM651. The M177 AMG V8 is robust but carries high running costs. The A205's real reliability challenge is the cabriolet roof mechanism, not the engines themselves."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes A205 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a pre‑facelift OM651 (C220d/C250d, 2016–2018) without documented timing chain replacement is the one we'd approach cautiously, given the rear‑chain design and £1,500+ replacement cost. A neglected pre‑facelift M274 without timing chain or fuel pump history is the second."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my A205 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold‑start rattle (OM651 or M274 timing chain), long cranking or loss of power (M274 fuel pump), misfire or EML (M264 valve/cooling issues), white smoke or oil leaks (M177 rear‑main seal). Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes C-Class A205 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well‑kept £20,000 A205, a £3,000–£5,000 OM654 recon is 15–25% of the car's value — safe. Against a tired £15,000 pre‑facelift example, the same recon is 20–33% — still safe. Against a £15,000 AMG with an £8,000–£15,000 M177 recon, that's 53–100% — evaluate carefully. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes A205 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can exceed 200,000 miles with proper servicing. The M264 petrol can reach 150,000+ miles with valve and cooling system attention. The M177 V8 is robust but demands meticulous oil changes and specialist maintenance — 100,000+ miles is achievable with care."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the A205 and the C205 C-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the fourth‑generation C‑Class platform and most engines. The A205 is the 2‑door cabriolet (this page), the C205 is the 2‑door coupé. The cabriolet has additional structural bracing, a heavier kerb weight, and a more complex roof mechanism — costs on the A205 are typically slightly higher than the C205 for comparable engine work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes A205 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M264 is at the front, OM651/OM654 on the side). Tell us your variant, registration year and pre‑ or post‑facelift status and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes C-Class A205 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1200",
+            "highPrice": "20000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes C-Class A205 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes C-Class A205 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "A205 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-c-class/a205/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -485,23 +751,121 @@
     "scopeNote": "All variants listed are A205 two‑door cabriolet only. W205 saloon, S205 estate and C205 coupé share most of these engines but are covered on their own Generation Pages, since the cabriolet's additional structural bracing and roof mechanism affect weight, performance and labour access."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM654.920 (C220d facelift)",
+      "2. OM651.921 (C220d pre‑facelift)",
+      "3. M264 E20 DEH LA (C300 facelift)"
+    ],
+    "mostRequestedVariants": [
+      "1. C220d",
+      "2. C300",
+      "3. C63 S"
+    ],
+    "averageReplacementCost": "£3,200–£5,500 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. OM651 rear timing chain",
+      "2. M274 timing chain/fuel pump",
+      "3. M264 valve/cooling system issues"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes C220d A205 (OM651)",
+        "location": "Birmingham",
+        "issue": "Cold‑start rattle / timing chain",
+        "enquiries": "6 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes C300 A205 (M264)",
+        "location": "London",
+        "issue": "Misfire / EML",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes C63 S A205 (M177)",
+        "location": "Manchester",
+        "issue": "Rear‑main seal leak",
+        "enquiries": "2 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes C-Class A205 engine replacement cost in the UK?",
+        "answer": "A reconditioned A205 engine typically costs £2,200–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,000. Fitting adds 10–20 hours labour at specialist rates due to the cabriolet‑specific engine bay packaging. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes A205 engine is the most reliable?",
+        "answer": "The OM654.920 (C220d facelift, 2018–2023) — a 2.0‑litre four‑cylinder diesel with improved timing chain design and significantly better reliability than the OM651 it replaced. The M264 E20 DEH LA (C300 facelift) is the best petrol option — 258 bhp with 48V mild‑hybrid assistance and fewer reported issues than the pre‑facelift M274."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes C-Class A205?",
+        "answer": "OM651 rear timing chain failure (pre‑facelift diesel), M274 timing chain and fuel pump failure (pre‑facelift petrol), M264 valve and cooling system issues (facelift petrol), and — chassis‑specific — the cabriolet roof mechanism and rear‑window seal delamination on all cars."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes C-Class A205 reliable?",
+        "answer": "It depends heavily on which engine and whether you buy pre‑facelift (2016–2018) or facelift (2018–2023). The facelift M264 petrol and OM654 diesel are significantly more reliable than the pre‑facelift M274 and OM651. The M177 AMG V8 is robust but carries high running costs. The A205's real reliability challenge is the cabriolet roof mechanism, not the engines themselves."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes A205 engine should I avoid?",
+        "answer": "No engine outright — but a pre‑facelift OM651 (C220d/C250d, 2016–2018) without documented timing chain replacement is the one we'd approach cautiously, given the rear‑chain design and £1,500+ replacement cost. A neglected pre‑facelift M274 without timing chain or fuel pump history is the second."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my A205 engine needs replacing?",
+        "answer": "Cold‑start rattle (OM651 or M274 timing chain), long cranking or loss of power (M274 fuel pump), misfire or EML (M264 valve/cooling issues), white smoke or oil leaks (M177 rear‑main seal). Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes C-Class A205 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well‑kept £20,000 A205, a £3,000–£5,000 OM654 recon is 15–25% of the car's value — safe. Against a tired £15,000 pre‑facelift example, the same recon is 20–33% — still safe. Against a £15,000 AMG with an £8,000–£15,000 M177 recon, that's 53–100% — evaluate carefully. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes A205 engines last?",
+        "answer": "The OM654 diesel can exceed 200,000 miles with proper servicing. The M264 petrol can reach 150,000+ miles with valve and cooling system attention. The M177 V8 is robust but demands meticulous oil changes and specialist maintenance — 100,000+ miles is achievable with care."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the A205 and the C205 C-Class?",
+        "answer": "Both share the fourth‑generation C‑Class platform and most engines. The A205 is the 2‑door cabriolet (this page), the C205 is the 2‑door coupé. The cabriolet has additional structural bracing, a heavier kerb weight, and a more complex roof mechanism — costs on the A205 are typically slightly higher than the C205 for comparable engine work."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes A205 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M264 is at the front, OM651/OM654 on the side). Tell us your variant, registration year and pre‑ or post‑facelift status and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes C-Class A205 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted A205 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real A205 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare A205 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for A205",
+        "text": "covering every variant from C180 to C63 S, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes A205 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes C-Class A205 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

@@ -625,44 +625,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (14%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz CLK55 / CLK63 AMG engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned CLK55 AMG (M113) engine typically costs £4,000–£7,500 supply only, while a CLK63 AMG (M156) engine costs £6,000–£12,000. A CLK63 AMG engine replacement can cost approximately £4,000–£8,000 from a specialist, with one owner reporting a quote of £8,000 for a fitted engine. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑Benz CLK55 / CLK63 AMG engine reliable?"
-      },
-      {
-        "label": "It depends on which engine you're asking about. The M113 (CLK55) has a legendary \"bulletproof\" reputation — one owner said they bought the car \"because of its reputation as a trouble free, bullet proof engine\". However, age takes its toll: rear crank seal leaks, valve cover gaskets, and coil pack failures are common.",
-        "value": "The M156 (CLK63) is a different story — it's a masterpiece of engineering but has well‑documented weaknesses: cylinder head bolt failure (the \"fearsome issue\"), camshaft lobe and valve lifter wear, and valve train noise. One owner described AMG V8s as \"generally grenades\"."
-      },
-      {
-        "label": "3. What are the common problems with the Mercedes‑Benz CLK55 / CLK63 AMG?",
-        "value": "CLK55 (M113): rear crank seal leaks, valve cover and breather leaks, coil pack and MAF sensor failures. CLK63 (M156): cylinder head bolt failure, camshaft adjuster and valve train wear, valve bucket \"bleed down\" causing cold‑start tapping, crankcase breather valve failure, oil leaks from valve cover gaskets, and thermostat failures. See the Era Map above for generation‑specific advice."
-      },
-      {
-        "label": "4. Is it worth replacing a CLK55 / CLK63 AMG engine, or should I scrap the car?",
-        "value": "Depends on vehicle value. Against a well‑kept CLK63 AMG (values £15,000–£35,000+ depending on condition and mileage), a £6,000–£8,000 reconditioned engine is 20–50% of the vehicle's value — often worth it for a solid example. The CLK55 AMG (values £8,000–£20,000+) makes a £4,000–£5,500 recon a 25–50% investment — usually worth it. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the CLK AMG's status as a future classic and rising values, engine replacement is often worth it for a good example."
-      },
-      {
-        "label": "5. How do I find my Mercedes‑Benz CLK55 / CLK63 AMG engine code?",
-        "value": "The engine code (M113.987 or M156) is listed on the VIN plate and vehicle documentation. The CLK55 AMG (2003–2005) uses the M113.987 5.4‑litre V8 producing 362 bhp. The CLK63 AMG (2006–2009) uses the M156 6.2‑litre V8 producing 475 bhp. The CLK55 was discontinued in 2005 and replaced by the CLK63 for the 2006 model year. Tell us your registration and we'll confirm for free."
-      },
-      {
-        "label": "6. Can I repair the M156 head bolts, or does it require engine replacement?",
-        "value": "Yes — if caught early. A preventative head bolt replacement with updated ARP studs costs £2,000–£5,000 and is widely considered essential preventative maintenance on the M156. However, if the head bolts have failed and caused cylinder head damage, a full engine replacement (£6,000–£12,000) may be required. If you're buying a CLK63 AMG, check whether this work has been done — it's the single most important question to ask."
-      },
-      {
-        "label": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier.",
-        "value": "SECTION 9, META AND SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz CLK55 / CLK63 AMG engine replacement cost in the UK?",
+        "answer": "A reconditioned CLK55 AMG (M113) engine typically costs £4,000–£7,500 supply only, while a CLK63 AMG (M156) engine costs £6,000–£12,000. A CLK63 AMG engine replacement can cost approximately £4,000–£8,000 from a specialist, with one owner reporting a quote of £8,000 for a fitted engine. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz CLK55 / CLK63 AMG engine reliable?",
+        "answer": "It depends on which engine you're asking about. The M113 (CLK55) has a legendary \"bulletproof\" reputation — one owner said they bought the car \"because of its reputation as a trouble free, bullet proof engine\". However, age takes its toll: rear crank seal leaks, valve cover gaskets, and coil pack failures are common. The M156 (CLK63) is a different story — it's a masterpiece of engineering but has well‑documented weaknesses: cylinder head bolt failure (the \"fearsome issue\"), camshaft lobe and valve lifter wear, and valve train noise. One owner described AMG V8s as \"generally grenades\"."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz CLK55 / CLK63 AMG?",
+        "answer": "CLK55 (M113): rear crank seal leaks, valve cover and breather leaks, coil pack and MAF sensor failures. CLK63 (M156): cylinder head bolt failure, camshaft adjuster and valve train wear, valve bucket \"bleed down\" causing cold‑start tapping, crankcase breather valve failure, oil leaks from valve cover gaskets, and thermostat failures. See the Era Map above for generation‑specific advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a CLK55 / CLK63 AMG engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept CLK63 AMG (values £15,000–£35,000+ depending on condition and mileage), a £6,000–£8,000 reconditioned engine is 20–50% of the vehicle's value — often worth it for a solid example. The CLK55 AMG (values £8,000–£20,000+) makes a £4,000–£5,500 recon a 25–50% investment — usually worth it. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the CLK AMG's status as a future classic and rising values, engine replacement is often worth it for a good example."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz CLK55 / CLK63 AMG engine code?",
+        "answer": "The engine code (M113.987 or M156) is listed on the VIN plate and vehicle documentation. The CLK55 AMG (2003–2005) uses the M113.987 5.4‑litre V8 producing 362 bhp. The CLK63 AMG (2006–2009) uses the M156 6.2‑litre V8 producing 475 bhp. The CLK55 was discontinued in 2005 and replaced by the CLK63 for the 2006 model year. Tell us your registration and we'll confirm for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M156 head bolts, or does it require engine replacement?",
+        "answer": "Yes — if caught early. A preventative head bolt replacement with updated ARP studs costs £2,000–£5,000 and is widely considered essential preventative maintenance on the M156. However, if the head bolts have failed and caused cylinder head damage, a full engine replacement (£6,000–£12,000) may be required. If you're buying a CLK63 AMG, check whether this work has been done — it's the single most important question to ask."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes‑Benz CLK55 / CLK63 AMG Owners Trust MercedesEngine.uk",

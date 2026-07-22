@@ -1,26 +1,188 @@
 {
   "meta": {
-    "slug": "mercedes-benz-cls320-cls350-cdi",
-    "title": "Mercedes-Benz CLS320 / CLS350 CDI Engine Replacement — Compare Prices & Get Quotes",
-    "titleCharCount": 82,
-    "description": "",
-    "descriptionCharCount": 0,
-    "canonical": "",
+    "slug": "cls-cls320-350-cdi",
+    "title": "CLS320/350 CDI Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 57,
+    "description": "Every Mercedes CLS320/350 CDI — OM642 V6 diesel. Real UK costs, common oil cooler seal and swirl flap issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 160,
+    "canonical": "https://mercedesengine.uk/cls/cls320-350-cdi/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "CLS320/350 CDI Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes CLS320/350 CDI — OM642 V6 diesel. Real UK costs, common oil cooler seal and swirl flap issues, and honest reliability data. Get free quotes from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/cls/cls320-350-cdi/",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/cls-cls320-350-cdi.jpg",
+      "siteName": "MercedesEngine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "CLS320/350 CDI Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Mercedes CLS320/350 CDI — OM642 V6 diesel. Real UK costs, common oil cooler seal and swirl flap issues, and honest reliability data.",
+      "image": "https://mercedesengine.uk/images/mercedes/hero/cls-cls320-350-cdi.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLS",
+              "item": "https://mercedesengine.uk/cls/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CLS320/350 CDI",
+              "item": "https://mercedesengine.uk/cls/cls320-350-cdi/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz CLS320/350 CDI Engine Era Map",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C219 CLS320 CDI (OM642, 2004–2010)",
+              "url": "https://mercedesengine.uk/cls/cls320-350-cdi/#c219"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C218 CLS350 CDI (OM642, 2011–2018)",
+              "url": "https://mercedesengine.uk/cls/cls320-350-cdi/#c218"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz CLS320/350 CDI Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM642",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes-Benz CLS320 / CLS350 CDI engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned Mercedes-Benz CLS320/350 CDI engine (OM642) costs £3,000–£5,500 supply only, varying by generation: C219 £3,000–£5,500, C218 £3,500–£6,500. Fitting adds £1,200–£1,800. An oil cooler seal replacement costs £800–£1,500. Check the Era Map above for your engine code."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes-Benz CLS320 / CLS350 CDI reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "That depends on which generation. The C219 (2004–2010) has well-documented oil cooler seal failures (oil/coolant contamination), swirl flap motor issues, and injector failures. The C218 (2011–2018) benefits from revised injectors, improved electronics, and better swirl flap design. Buy the C218 if you can. The OM642 V6 is a robust engine when properly maintained."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes-Benz CLS320 / CLS350 CDI?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oil cooler seal failure (oil/coolant contamination, £800–£1,500), swirl flap motor failure (loss of low-end torque, £500–£1,200), injector failure (rough idle, misfire, £300–£800 per injector), and DPF/EGR issues (£400–£1,200). The C218 has improved reliability over the C219."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes-Benz CLS320 / CLS350 CDI engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "CLS values range from £3,000–£18,000 depending on generation, condition and mileage. A £3,000–£5,500 reconditioned engine represents 20–80% of vehicle value — our 70% Mercedes-Benz scrap threshold means careful evaluation is required. For a well-maintained C218, replacement is often justified. For an ageing C219 with other issues, assess scrap value first."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes-Benz CLS320 / CLS350 CDI engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The CLS320/350 CDI uses the OM642 engine code — Mercedes' 3.0-litre V6 diesel. The C219 (2004–2010) produces 224bhp, while the C218 (2011–2018) produces 265bhp. Check your VIN or registration year. The code is stamped on the engine block."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I repair the oil cooler seal issue, or does it need replacement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the oil cooler seals can be replaced (£800–£1,500). This is a well-known OM642 repair. The oil cooler is located in the V of the engine; replacing the seals requires removing the intake manifold. If you see oil in the coolant (mayonnaise in the expansion tank) or coolant in the oil, stop driving immediately and book a specialist inspection. Ignored seal failure can lead to bearing damage and engine failure."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengine-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz CLS320/350 CDI Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "2000",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz CLS320/350 CDI UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz CLS320/350 CDI engines, sourced from MercedesEngine.uk's specialist marketplace activity for the OM642.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLS320/350 CDI Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/cls/cls320-350-cdi/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-12",
+          "dateModified": "2026-07-12"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz CLS320 / CLS350 CDI • 2004–2018 • 3.0L V6 Diesel",

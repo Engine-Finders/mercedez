@@ -1,24 +1,228 @@
 {
   "meta": {
     "slug": "clc-class",
-    "title": "CLC-Class Engines — The Complete UK Guide",
-    "titleCharCount": 41,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "CLC-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 51,
+    "description": "Every CLC-Class engine — M271 Kompressor, OM646 CDI, M272 V6. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "CLC-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every CLC-Class engine — M271 Kompressor, OM646 CDI, M272 V6. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/mercedes/clc-class/",
       "image": "",
-      "siteName": ""
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "CLC-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every CLC-Class engine — M271 Kompressor, OM646 CDI, M272 V6. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLC-Class",
+              "item": "https://mercedesengine.uk/mercedes/clc-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "CLC-Class Generations",
+          "description": "Mercedes-Benz CLC-Class generations covered in this guide",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "SportCoupé (CL203) 2000–2008",
+              "url": "https://mercedesengine.uk/mercedes/clc-class/sportcoupe/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CLC-Class (CL203) 2008–2011",
+              "url": "https://mercedesengine.uk/mercedes/clc-class/clc-2008/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "CLC-Class Engine Codes",
+          "description": "Complete database of Mercedes-Benz CLC-Class engine codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M271.946 — 1.8L Kompressor (143 hp)",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M271.957 — 1.8L Kompressor (184 hp)",
+              "url": "https://mercedesengine.uk/engines/m271/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M272.920 — 2.5L V6 (204 hp)",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M272.960 — 3.5L V6 (272 hp)",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "OM646.962 — 2.1L CDI (122 hp)",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OM646.963 — 2.1L CDI (150 hp)",
+              "url": "https://mercedesengine.uk/engines/om646/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a CLC-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned CLC-Class engine costs approximately £1,500–£3,500 supply-only [PLACEHOLDER — confirm vs cost sheet], with labour adding £600–£1,500 depending on your location and specialist. Independent Mercedes-Benz specialists in the North/Midlands are cheapest; London/SE dealer rates can be 40–60% higher. Use our diagnostic calculator for a personalised estimate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLC-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM646.963 220 CDI diesel is the pick of the range — provided the injector seals have been addressed. The M272 V6 is also reasonably robust but carries a balance shaft risk on earlier examples. The M271 Kompressor is the highest-risk engine — timing chain failure is common and can be catastrophic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLC-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M271 Kompressor (1.8L petrol) is the highest-risk engine — specifically any example with a documented cold-start rattle, which is the classic symptom of timing chain wear. Don't buy one without a pre-purchase inspection that specifically checks the timing chain and cam gears. The M271 isn't a blanket 'avoid' — but it's a 'buy only with full documented history and no symptoms.'"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the CLC-Class timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the M271 Kompressor engine's single-row timing chain is a known weakness. Symptoms include a rattle on cold start, rough running, and eventually engine warning lights. If you hear the rattle, get it inspected immediately — a £600–£1,200 chain replacement is far cheaper than a full engine rebuild [PLACEHOLDER — confirm vs cost sheet]."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a CLC-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on the car's value. A £2,000 CLC-Class with a £3,500 replacement cost is a clear 'scrap it' decision. A £5,000, low-mileage CLC 350 with a £2,000 repair is a 'fix it.' The maths is simple: if replacement cost exceeds approximately 70% of the car's current market value, get a scrap valuation before committing. Use our calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which CLC-Class should I buy — the SportCoupé or the CLC-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy the 2008–2011 CLC-Class over the earlier SportCoupé — better rust protection, updated electronics, and the same engine range. Within the CLC-Class range, the 220 CDI diesel is the smart money; the 350 V6 is for enthusiasts; the Kompressor petrols are the ones to inspect most carefully."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my CLC-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Your CLC-Class engine code is stamped on the engine block (usually visible from above, near the front), printed on the vehicle's VIN sticker (often inside the driver's door frame or service book), and encoded in the VIN itself. If you're unsure, use the Mercedes-Benz VIN decoder on our homepage — or enter your registration on our calculator and we'll identify it for you."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "CLC-Class vs C-Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They share engines — the M271, OM646 and M272 across the W203/CL203 platform. Reliability is essentially identical, but the CLC-Class has better rust protection (post-2008) and a coupe body. The C-Class offers four-door practicality and a wider range of engine options (including the OM651 and larger V6s). Buy on body style and condition — not reliability."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "sameAs": [],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "CLC-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "3500"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "CLC-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for CLC-Class engines, sourced from mercedesengine.uk's specialist marketplace activity and documented failure patterns.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "CLC-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes/clc-class/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • CLC-Class • 2000–2011 • 2 Eras • M271 • OM646 • M272",
@@ -628,7 +832,48 @@
   },
   "faq": {
     "h2": "CLC-Class Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a CLC-Class engine replacement cost in the UK?",
+        "answer": "A reconditioned CLC-Class engine costs approximately £1,500–£3,500 supply-only [PLACEHOLDER — confirm vs cost sheet], with labour adding £600–£1,500 depending on your location and specialist. Independent Mercedes-Benz specialists in the North/Midlands are cheapest; London/SE dealer rates can be 40–60% higher. Use our diagnostic calculator for a personalised estimate."
+      },
+      {
+        "id": 2,
+        "question": "Which CLC-Class engine is the most reliable?",
+        "answer": "The OM646.963 220 CDI diesel is the pick of the range — provided the injector seals have been addressed. The M272 V6 is also reasonably robust but carries a balance shaft risk on earlier examples. The M271 Kompressor is the highest-risk engine — timing chain failure is common and can be catastrophic."
+      },
+      {
+        "id": 3,
+        "question": "Which CLC-Class engine should I avoid?",
+        "answer": "The M271 Kompressor (1.8L petrol) is the highest-risk engine — specifically any example with a documented cold-start rattle, which is the classic symptom of timing chain wear. Don't buy one without a pre-purchase inspection that specifically checks the timing chain and cam gears. The M271 isn't a blanket \"avoid\" — but it's a \"buy only with full documented history and no symptoms.\""
+      },
+      {
+        "id": 4,
+        "question": "Is the CLC-Class timing chain problem real?",
+        "answer": "Yes — the M271 Kompressor engine's single-row timing chain is a known weakness. Symptoms include a rattle on cold start, rough running, and eventually engine warning lights. If you hear the rattle, get it inspected immediately — a £600–£1,200 chain replacement is far cheaper than a full engine rebuild [PLACEHOLDER — confirm vs cost sheet]."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a CLC-Class engine?",
+        "answer": "It depends entirely on the car's value. A £2,000 CLC-Class with a £3,500 replacement cost is a clear \"scrap it\" decision. A £5,000, low-mileage CLC 350 with a £2,000 repair is a \"fix it.\" The maths is simple: if replacement cost exceeds approximately 70% of the car's current market value, get a scrap valuation before committing. Use our calculator for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which CLC-Class should I buy — the SportCoupé or the CLC-Class?",
+        "answer": "Buy the 2008–2011 CLC-Class over the earlier SportCoupé — better rust protection, updated electronics, and the same engine range. Within the CLC-Class range, the 220 CDI diesel is the smart money; the 350 V6 is for enthusiasts; the Kompressor petrols are the ones to inspect most carefully."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my CLC-Class engine code?",
+        "answer": "Your CLC-Class engine code is stamped on the engine block (usually visible from above, near the front), printed on the vehicle's VIN sticker (often inside the driver's door frame or service book), and encoded in the VIN itself. If you're unsure, use the Mercedes-Benz VIN decoder on our homepage — or enter your registration on our calculator and we'll identify it for you."
+      },
+      {
+        "id": 8,
+        "question": "CLC-Class vs C-Class — which is more reliable?",
+        "answer": "They share engines — the M271, OM646 and M272 across the W203/CL203 platform. Reliability is essentially identical, but the CLC-Class has better rust protection (post-2008) and a coupe body. The C-Class offers four-door practicality and a wider range of engine options (including the OM651 and larger V6s). Buy on body style and condition — not reliability."
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

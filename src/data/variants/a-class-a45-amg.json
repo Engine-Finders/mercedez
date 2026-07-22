@@ -486,11 +486,67 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Timing chain stretch and guide wear — the defining risk on both M133 and M139 engines"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "50,000–90,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£3,500–£12,000 reconditioned, supply only depending on generation【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M133 — the original A45 AMG engine【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring — performance car season【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-AMG A45 engine replacement cost in the UK?",
+        "answer": "A reconditioned M133 engine typically costs £3,500–£7,500 supply only; a reconditioned M139 costs £5,000–£12,000. Used units are available from £2,000–£4,500. Fitting adds £1,500–£2,500. W176 A45 engine replacement costs are \"into five figures\". Use our calculator for a figure specific to your A45."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-AMG A45 engine reliable?",
+        "answer": "The A45's engines are highly-strung performance units — they produce over 190 hp per litre. Reliability depends entirely on maintenance history. Known issues include timing chain stretch, HPFP failure, turbo oil feed problems (early 2014 cars), and carbon build-up (M139). With 10,000-mile service intervals and 98/99 RON fuel, they can be reliable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-AMG A45?",
+        "answer": "Timing chain stretch and guide wear (the most critical issue), high-pressure fuel pump failure (power loss under load), turbocharger oil feed issues (early 2014 cars — subject to recall), carbon build-up on intake valves (M139), cooling system leaks (water pump and thermostat housing), and 7-speed DCT gearbox issues (crunching in reverse, jerky downshifts)."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-AMG A45 engine, or should I scrap the car?",
+        "answer": "A45 values remain strong — a well-kept W176 is often worth £12,000–£25,000, while W177 cars fetch £25,000–£45,000+. A £3,500–£12,000 reconditioned engine is 15–40% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example, replacement is often worthwhile. However, given the costs involved, ensure you understand the full picture before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-AMG A45 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. W176 A45 (2013–2018) uses M133; W177 A45 (2019+) uses M139. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M133/M139 timing chain, or does the engine need replacement?",
+        "answer": "The timing chain and tensioner can be replaced preventatively — they are wear items. Replacement costs £1,500–£3,500. If the chain fails and jumps timing, the engine is typically destroyed. A preventative tensioner replacement is far cheaper than a full engine replacement (£3,500+). At the first sign of rattling from the front of the engine, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

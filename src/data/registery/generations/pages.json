@@ -628,5 +628,17 @@
         "type":  "generations",
         "dataFile":  "mercedes-vito-w639",
         "slug":  "w639"
+    },
+    {
+        "parent":  "e-class",
+        "type":  "generations",
+        "dataFile":  "mercedes-e-class-c207",
+        "slug":  "c207"
+    },
+    {
+        "parent":  "glc",
+        "type":  "generations",
+        "dataFile":  "mercedes-glc-class-x253",
+        "slug":  "x253"
     }
 ]

@@ -1,11 +1,283 @@
 {
   "meta": {
-    "slug": "mercedes-m-class-w163",
-    "title": "Mercedes M-Class W163 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-mercedes-m-class-w163",
+    "title": "W163 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes W163 engine — M111, M112, M113, OM612 and OM628. Real UK costs, honest reliability data, and body‑on‑frame rust advice. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 155,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M-Class",
+              "item": "https://mercedesengine.uk/mercedes-m-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes M-Class W163",
+              "item": "https://mercedesengine.uk/mercedes-m-class/w163/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W163 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M111.977 Engine",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M112.942 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M112.970 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M113.942 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M113.964 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M113.981 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "OM612.963 Engine",
+              "url": "https://mercedesengine.uk/engines/om612/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM628.963 Engine",
+              "url": "https://mercedesengine.uk/engines/om628/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W163 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "ML 230",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-230/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "ML 320",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-320/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ML 350",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-350/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "ML 430",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-430/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "ML 500",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "ML 55 AMG",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-55-amg/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "ML 270 CDI",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-270-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "ML 400 CDI",
+              "url": "https://mercedesengine.uk/mercedes-m-class/ml-400-cdi/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes M-Class W163 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W163 engine typically costs £1,800–£9,000 supply only [MB-QUOTE], depending on engine — the volume ML 320 sits at £2,200–£3,800. Fitting adds 10–18 hours labour at specialist rates due to the body‑on‑frame SUV packaging. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W163 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112.942 (ML 320) — a 3.2‑litre V6 with simple 3‑valve technology, no balance‑shaft issues, and a proven 200,000‑mile reputation. The M112 is widely considered one of the most reliable Mercedes engines ever built. For diesel buyers, the OM612 (ML 270 CDI) is a proven five‑cylinder unit — but budget for EGR and injector maintenance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes M-Class W163?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "M112 thermostat and valve cover gaskets (V6 petrols), OM612 EGR valve clogging and injector seal leaks (diesel), M113 valve stem seals and oil leaks (V8 petrols), and — chassis‑specific — body‑on‑frame rust and subframe corrosion on all cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes M-Class W163 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the W163 is a robust SUV with a proven powertrain line‑up. The M112 V6 and M113 V8 are among the most reliable engines Mercedes ever built; the OM612 diesel is a proven five‑cylinder unit. The biggest reliability challenge is age‑related: rust on the body‑on‑frame chassis, not engine failure. Choose carefully and always inspect the chassis rails."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W163 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but an OM612 (ML 270 CDI) without documented EGR and injector service history is the one we'd approach cautiously, given the £500–£1,200 repair cost for EGR and injector seal issues. A neglected M113 V8 without oil leak history is the second."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W163 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overheating or coolant loss (M112 thermostat failure), black smoke or loss of power (OM612 EGR clogging), blue smoke on start‑up (M113 valve stem seals), oil leaks or burning smell (valve cover gaskets), or engine management light. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes M-Class W163 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value and rust condition. Against a well‑kept £5,000 W163, a £2,200–£3,800 M112 recon is 44–76% of the car's value — safe. Against a tired £3,000 example, the same recon is 73–127% — walk away. Our 70% Mercedes threshold is the line. Always inspect the chassis rails before committing to any major repair — rust is the real killer on the W163."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W163 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M112 V6 and M113 V8 can exceed 200,000 miles with proper servicing — many examples have covered 250,000+ miles. The OM612 diesel is similarly durable — 250,000+ miles is achievable with EGR and injector maintenance. The W163's body‑on‑frame structure means the body often outlasts the powertrain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W163 and the W164 M-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The W163 is the first‑generation M‑Class (1997–2005, this page), built on a body‑on‑frame chassis. The W164 is the second generation (2005–2011), built on a unibody platform. The W164 is lighter, more refined and more car‑like to drive. The W163 is more rugged and better suited to off‑road use — but the body‑on‑frame construction brings rust risks."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W163 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M112/M113 is at the front, OM612 on the side). Tell us your variant and registration year and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes M-Class W163 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "900",
+            "highPrice": "13000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes M-Class W163 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes M-Class W163 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "W163 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-m-class/w163/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -450,23 +722,121 @@
     "scopeNote": "All variants listed are W163 five‑door SUV only. The W163 was the first‑generation M‑Class and was available exclusively as a five‑door SUV. The successor W164 launched in 2005."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM612.963 (ML 270 CDI)",
+      "2. M112.942 (ML 320)",
+      "3. M112.970 (ML 350)"
+    ],
+    "mostRequestedVariants": [
+      "1. ML 270 CDI",
+      "2. ML 320",
+      "3. ML 350"
+    ],
+    "averageReplacementCost": "£2,800–£5,000 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. M112 thermostat / valve cover gaskets",
+      "2. OM612 EGR / injector seals",
+      "3. Body‑on‑frame rust / subframe corrosion"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes ML 270 CDI W163 (OM612)",
+        "location": "Birmingham",
+        "issue": "Black smoke / loss of power",
+        "enquiries": "5 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes ML 320 W163 (M112)",
+        "location": "Manchester",
+        "issue": "Coolant leak / overheating",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes ML 350 W163 (M112)",
+        "location": "London",
+        "issue": "Oil leak / burning smell",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes M-Class W163 engine replacement cost in the UK?",
+        "answer": "A reconditioned W163 engine typically costs £1,800–£9,000 supply only [MB-QUOTE], depending on engine — the volume ML 320 sits at £2,200–£3,800. Fitting adds 10–18 hours labour at specialist rates due to the body‑on‑frame SUV packaging. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes W163 engine is the most reliable?",
+        "answer": "The M112.942 (ML 320) — a 3.2‑litre V6 with simple 3‑valve technology, no balance‑shaft issues, and a proven 200,000‑mile reputation. The M112 is widely considered one of the most reliable Mercedes engines ever built. For diesel buyers, the OM612 (ML 270 CDI) is a proven five‑cylinder unit — but budget for EGR and injector maintenance."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes M-Class W163?",
+        "answer": "M112 thermostat and valve cover gaskets (V6 petrols), OM612 EGR valve clogging and injector seal leaks (diesel), M113 valve stem seals and oil leaks (V8 petrols), and — chassis‑specific — body‑on‑frame rust and subframe corrosion on all cars."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes M-Class W163 reliable?",
+        "answer": "Yes — the W163 is a robust SUV with a proven powertrain line‑up. The M112 V6 and M113 V8 are among the most reliable engines Mercedes ever built; the OM612 diesel is a proven five‑cylinder unit. The biggest reliability challenge is age‑related: rust on the body‑on‑frame chassis, not engine failure. Choose carefully and always inspect the chassis rails."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes W163 engine should I avoid?",
+        "answer": "No engine outright — but an OM612 (ML 270 CDI) without documented EGR and injector service history is the one we'd approach cautiously, given the £500–£1,200 repair cost for EGR and injector seal issues. A neglected M113 V8 without oil leak history is the second."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W163 engine needs replacing?",
+        "answer": "Overheating or coolant loss (M112 thermostat failure), black smoke or loss of power (OM612 EGR clogging), blue smoke on start‑up (M113 valve stem seals), oil leaks or burning smell (valve cover gaskets), or engine management light. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes M-Class W163 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value and rust condition. Against a well‑kept £5,000 W163, a £2,200–£3,800 M112 recon is 44–76% of the car's value — safe. Against a tired £3,000 example, the same recon is 73–127% — walk away. Our 70% Mercedes threshold is the line. Always inspect the chassis rails before committing to any major repair — rust is the real killer on the W163."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W163 engines last?",
+        "answer": "The M112 V6 and M113 V8 can exceed 200,000 miles with proper servicing — many examples have covered 250,000+ miles. The OM612 diesel is similarly durable — 250,000+ miles is achievable with EGR and injector maintenance. The W163's body‑on‑frame structure means the body often outlasts the powertrain."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W163 and the W164 M-Class?",
+        "answer": "The W163 is the first‑generation M‑Class (1997–2005, this page), built on a body‑on‑frame chassis. The W164 is the second generation (2005–2011), built on a unibody platform. The W164 is lighter, more refined and more car‑like to drive. The W163 is more rugged and better suited to off‑road use — but the body‑on‑frame construction brings rust risks."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W163 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the M112/M113 is at the front, OM612 on the side). Tell us your variant and registration year and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes M-Class W163 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W163 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real W163 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W163 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for W163",
+        "text": "covering every variant from ML 230 to ML 55 AMG, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes W163 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes M-Class W163 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

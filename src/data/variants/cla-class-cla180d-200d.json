@@ -612,44 +612,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), North West (13%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes CLA180d / CLA200d engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned CLA180d / CLA200d engine typically costs £3,200–£7,500 supply only depending on generation and engine type. An engine blown on a Mercedes often costs £9,000–£13,000 from a dealer. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes CLA180d / CLA200d engine reliable?"
-      },
-      {
-        "label": "It depends on which engine you're asking about. The OM607 (CLA180d, 2013–2018) is a robust Renault‑sourced engine known as \"indestructible\", but injector and EGR issues are common. The OM651 (CLA200d, 2013–2018) is a high‑risk engine — timing chain stretch is the defining weakness, with turbocharger and EGR issues also frequent. The OM654 (CLA200d, 2019+) is the most advanced, with \"reliability on the rise\", but timing chain wear and cold‑start misfire issues have been reported.",
-        "value": "3. What are the common problems with the Mercedes CLA180d / CLA200d?"
-      },
-      {
-        "label": "OM607 injector failure and EGR issues (CLA180d), OM651 timing chain stretch and turbocharger fatigue (CLA200d 2013–2018), OM654 timing chain wear and cold‑start misfire (CLA200d 2019+), and DPF blockage across all generations. See the Era Map above for generation‑specific advice.",
-        "value": "4. Is it worth replacing a Mercedes CLA180d / CLA200d engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept C118 CLA200d (values £15,000–£30,000+), a £4,500–£5,500 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older C117 CLA200d (£4,000–£12,000), a £4,000–£5,000 recon is 30–80% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing.",
-        "value": "5. How do I find my Mercedes CLA180d / CLA200d engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: CLA180d (2013–2018) = OM607 (Renault K9K, 1.5L, 109 bhp); CLA200d (2013–2018) = OM651 (2.1L, 136 bhp); CLA200d (2019–present) = OM654 (2.0L, 150 bhp). The OM651 was subject to a recall over a faulty timing chain seal. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the OM651 or OM654 timing chain, or does it require engine replacement?"
-      },
-      {
-        "label": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,200–£3,000. The OM651 timing chain is around £700 at a good independent specialist. However, if the chain snaps, a full engine replacement (£3,500–£7,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "PART 2 — SECTION 9 + META + SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes CLA180d / CLA200d engine replacement cost in the UK?",
+        "answer": "A reconditioned CLA180d / CLA200d engine typically costs £3,200–£7,500 supply only depending on generation and engine type. An engine blown on a Mercedes often costs £9,000–£13,000 from a dealer. Fitting adds £800–£1,500 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes CLA180d / CLA200d engine reliable?",
+        "answer": "It depends on which engine you're asking about. The OM607 (CLA180d, 2013–2018) is a robust Renault‑sourced engine known as \"indestructible\", but injector and EGR issues are common. The OM651 (CLA200d, 2013–2018) is a high‑risk engine — timing chain stretch is the defining weakness, with turbocharger and EGR issues also frequent. The OM654 (CLA200d, 2019+) is the most advanced, with \"reliability on the rise\", but timing chain wear and cold‑start misfire issues have been reported."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes CLA180d / CLA200d?",
+        "answer": "OM607 injector failure and EGR issues (CLA180d), OM651 timing chain stretch and turbocharger fatigue (CLA200d 2013–2018), OM654 timing chain wear and cold‑start misfire (CLA200d 2019+), and DPF blockage across all generations. See the Era Map above for generation‑specific advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes CLA180d / CLA200d engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept C118 CLA200d (values £15,000–£30,000+), a £4,500–£5,500 reconditioned engine is 15–30% of the vehicle's value — worth it for a solid example. Against an older C117 CLA200d (£4,000–£12,000), a £4,000–£5,000 recon is 30–80% of the car's value — borderline but often worth it for a good example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes CLA180d / CLA200d engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. As a rule of thumb: CLA180d (2013–2018) = OM607 (Renault K9K, 1.5L, 109 bhp); CLA200d (2013–2018) = OM651 (2.1L, 136 bhp); CLA200d (2019–present) = OM654 (2.0L, 150 bhp). The OM651 was subject to a recall over a faulty timing chain seal. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM651 or OM654 timing chain, or does it require engine replacement?",
+        "answer": "Yes — if caught early. A preventative timing chain, guide and tensioner replacement costs £1,200–£3,000. The OM651 timing chain is around £700 at a good independent specialist. However, if the chain snaps, a full engine replacement (£3,500–£7,500) is usually required. At the first sign of cold‑start rattle, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes CLA180d / CLA200d Owners Trust MercedesEngine.uk",

@@ -594,44 +594,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (14%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑AMG GLS63 engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned GLS63 AMG (M177) engine typically costs £7,000–£15,000 supply only depending on generation. Replacement engines for AMG models can cost £10,000–£20,000 depending on condition and warranty. A CPO GLS63 owner reported a complete engine replacement approved under warranty with the engine on backorder. Fitting adds £1,200–£2,500 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑AMG GLS63 engine reliable?"
-      },
-      {
-        "label": "The M177 is regarded as one of AMG's most reliable modern V8s, but its longevity depends on proper servicing. The most frequent and expensive problem encountered with mileage is oil separator failure, which often leads to rear main seal leaks. Other well‑documented issues include timing chain stretch, HPFP failure, valve cover gasket leaks, coolant ingress into cylinders, and 48V system issues. As one owner put it: \"Needless to say, this isn't the ownership experience I expected with a CPO AMG, but I'm thankful for warranty\".",
-        "value": "3. What are the common problems with the Mercedes‑AMG GLS63?"
-      },
-      {
-        "label": "Oil separator failure leading to rear main seal leaks (engine or transmission out job), coolant ingress causing misfires and complete engine failure (reported at 28,000 miles), timing chain stretch, HPFP failure, valve cover and turbo oil leaks, and 48V EQ Boost system issues. See the Era Map above for detailed advice.",
-        "value": "4. Is it worth replacing a Mercedes‑AMG GLS63 engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept GLS63 (values £70,000–£120,000+ depending on year and mileage), a £8,000–£10,000 reconditioned engine is 8–15% of the vehicle's value — worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the GLS63's status as a flagship AMG SUV, engine replacement is almost always worth it for a good example — but only with a warranty.",
-        "value": "5. How do I find my Mercedes‑AMG GLS63 engine code?"
-      },
-      {
-        "label": "The engine code M177 is listed on the VIN plate and vehicle documentation. The GLS63 AMG (2020–present) uses the 4.0‑litre M177 V8 biturbo engine with 48V EQ Boost. The pre‑facelift produces 603 bhp, while the facelift produces up to 612 PS. The M177 is developed and assembled by AMG in Affalterbach. Tell us your registration and we'll confirm for free.",
-        "value": "6. How can I check for oil separator failure on the M177?"
-      },
-      {
-        "label": "With the engine idling, try to remove the oil fill cap. If there is excessive vacuum, the cap will be extremely difficult to remove due to strong suction. If you hear a whistling sound, try slightly loosening the oil cap — if the noise disappears or changes significantly, that is often a strong indication that the oil separator is failing. Both excessive positive pressure and excessive vacuum can damage seals and gaskets. If you notice oil dripping from the rear of the engine, oil around the transmission bellhousing, or a burning oil smell, have the system inspected immediately.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "PART 2 — SECTION 9 + META + SCHEMA"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑AMG GLS63 engine replacement cost in the UK?",
+        "answer": "A reconditioned GLS63 AMG (M177) engine typically costs £7,000–£15,000 supply only depending on generation. Replacement engines for AMG models can cost £10,000–£20,000 depending on condition and warranty. A CPO GLS63 owner reported a complete engine replacement approved under warranty with the engine on backorder. Fitting adds £1,200–£2,500 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑AMG GLS63 engine reliable?",
+        "answer": "The M177 is regarded as one of AMG's most reliable modern V8s, but its longevity depends on proper servicing. The most frequent and expensive problem encountered with mileage is oil separator failure, which often leads to rear main seal leaks. Other well‑documented issues include timing chain stretch, HPFP failure, valve cover gasket leaks, coolant ingress into cylinders, and 48V system issues. As one owner put it: \"Needless to say, this isn't the ownership experience I expected with a CPO AMG, but I'm thankful for warranty\"."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑AMG GLS63?",
+        "answer": "Oil separator failure leading to rear main seal leaks (engine or transmission out job), coolant ingress causing misfires and complete engine failure (reported at 28,000 miles), timing chain stretch, HPFP failure, valve cover and turbo oil leaks, and 48V EQ Boost system issues. See the Era Map above for detailed advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes‑AMG GLS63 engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept GLS63 (values £70,000–£120,000+ depending on year and mileage), a £8,000–£10,000 reconditioned engine is 8–15% of the vehicle's value — worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the GLS63's status as a flagship AMG SUV, engine replacement is almost always worth it for a good example — but only with a warranty."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑AMG GLS63 engine code?",
+        "answer": "The engine code M177 is listed on the VIN plate and vehicle documentation. The GLS63 AMG (2020–present) uses the 4.0‑litre M177 V8 biturbo engine with 48V EQ Boost. The pre‑facelift produces 603 bhp, while the facelift produces up to 612 PS. The M177 is developed and assembled by AMG in Affalterbach. Tell us your registration and we'll confirm for free."
+      },
+      {
+        "id": 6,
+        "question": "How can I check for oil separator failure on the M177?",
+        "answer": "With the engine idling, try to remove the oil fill cap. If there is excessive vacuum, the cap will be extremely difficult to remove due to strong suction. If you hear a whistling sound, try slightly loosening the oil cap — if the noise disappears or changes significantly, that is often a strong indication that the oil separator is failing. Both excessive positive pressure and excessive vacuum can damage seals and gaskets. If you notice oil dripping from the rear of the engine, oil around the transmission bellhousing, or a burning oil smell, have the system inspected immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes‑AMG GLS63 Owners Trust MercedesEngine.uk",

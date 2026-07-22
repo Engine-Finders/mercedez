@@ -1,10 +1,10 @@
 {
   "meta": {
-    "slug": "mercedes-e-class-s212",
-    "title": "Mercedes E-Class S212 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
+    "slug": "bmw-e-class-c207",
+    "title": "C207 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 58,
+    "description": "Every Mercedes C207 engine — M272, M276, OM642, OM651, M156, M278. Real UK costs, honest reliability data, and the pre‑2010 V6 balance‑shaft risk explained. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 156,
     "jsonLd": {
       "@context": "https://schema.org",
       "@graph": [
@@ -20,164 +20,152 @@
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "E-Class",
+              "name": "E‑Class",
               "item": "https://mercedesengine.uk/e-class/"
             },
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "Mercedes E-Class S212",
-              "item": "https://mercedesengine.uk/e-class/s212/"
+              "name": "Mercedes E‑Class C207",
+              "item": "https://mercedesengine.uk/e-class/c207/"
             }
           ]
         },
         {
           "@type": "ItemList",
-          "name": "Mercedes S212 Engine Codes",
+          "name": "Mercedes C207 Engine Codes",
           "itemListElement": [
             {
               "@type": "ListItem",
               "position": 1,
-              "name": "M271.860 Engine",
-              "url": "https://mercedesengine.uk/engines/m271/"
+              "name": "M271.820 Engine",
+              "url": "https://mercedesengine.uk/engines/m271820/"
             },
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "M274.920 Engine",
-              "url": "https://mercedesengine.uk/engines/m274/"
+              "name": "M272.952 Engine",
+              "url": "https://mercedesengine.uk/engines/m272952/"
             },
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "M272.980 Engine",
-              "url": "https://mercedesengine.uk/engines/m272/"
+              "name": "M276.952 Engine",
+              "url": "https://mercedesengine.uk/engines/m276952/"
             },
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "M276.952 Engine",
-              "url": "https://mercedesengine.uk/engines/m276/"
+              "name": "OM642.852 Engine",
+              "url": "https://mercedesengine.uk/engines/om642852/"
             },
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "M276.820 Engine",
-              "url": "https://mercedesengine.uk/engines/m276/"
+              "name": "OM642.853 Engine",
+              "url": "https://mercedesengine.uk/engines/om642853/"
             },
             {
               "@type": "ListItem",
               "position": 6,
-              "name": "M278.922 Engine",
-              "url": "https://mercedesengine.uk/engines/m278/"
+              "name": "OM651.924 Engine",
+              "url": "https://mercedesengine.uk/engines/om651924/"
             },
             {
               "@type": "ListItem",
               "position": 7,
-              "name": "M157.981 Engine",
-              "url": "https://mercedesengine.uk/engines/m157/"
+              "name": "M156.985 Engine",
+              "url": "https://mercedesengine.uk/engines/m156985/"
             },
             {
               "@type": "ListItem",
               "position": 8,
-              "name": "OM651.921 Engine",
-              "url": "https://mercedesengine.uk/engines/om651/"
+              "name": "M278.922 Engine",
+              "url": "https://mercedesengine.uk/engines/m278922/"
             },
             {
               "@type": "ListItem",
               "position": 9,
-              "name": "OM651.922 Engine",
-              "url": "https://mercedesengine.uk/engines/om651/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 10,
-              "name": "OM651.924 Engine",
-              "url": "https://mercedesengine.uk/engines/om651/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 11,
-              "name": "OM651.925 Engine",
-              "url": "https://mercedesengine.uk/engines/om651/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 12,
-              "name": "OM642.852 Engine",
-              "url": "https://mercedesengine.uk/engines/om642/"
+              "name": "M157.981 Engine",
+              "url": "https://mercedesengine.uk/engines/m157981/"
             }
           ]
         },
         {
           "@type": "ItemList",
-          "name": "Mercedes S212 Core Variants",
+          "name": "Mercedes C207 Core Variants",
           "itemListElement": [
             {
               "@type": "ListItem",
               "position": 1,
-              "name": "E 200 CDI",
-              "url": "https://mercedesengine.uk/e-class/s212/e-200-cdi/"
+              "name": "E 220 CDI",
+              "url": "https://mercedesengine.uk/e-class/c207/e-220-cdi/"
             },
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "E 220 CDI",
-              "url": "https://mercedesengine.uk/e-class/s212/e-220-cdi/"
+              "name": "E 220 d",
+              "url": "https://mercedesengine.uk/e-class/c207/e-220-d/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "E 250 CDI",
-              "url": "https://mercedesengine.uk/e-class/s212/e-250-cdi/"
+              "url": "https://mercedesengine.uk/e-class/c207/e-250-cdi/"
             },
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "E 350 CDI",
-              "url": "https://mercedesengine.uk/e-class/s212/e-350-cdi/"
+              "name": "E 250 d",
+              "url": "https://mercedesengine.uk/e-class/c207/e-250-d/"
             },
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "E 200 CGI",
-              "url": "https://mercedesengine.uk/e-class/s212/e-200-cgi/"
+              "name": "E 350 CDI",
+              "url": "https://mercedesengine.uk/e-class/c207/e-350-cdi/"
             },
             {
               "@type": "ListItem",
               "position": 6,
-              "name": "E 200",
-              "url": "https://mercedesengine.uk/e-class/s212/e-200/"
+              "name": "E 350 d",
+              "url": "https://mercedesengine.uk/e-class/c207/e-350-d/"
             },
             {
               "@type": "ListItem",
               "position": 7,
-              "name": "E 300",
-              "url": "https://mercedesengine.uk/e-class/s212/e-300/"
+              "name": "E 200 CGI",
+              "url": "https://mercedesengine.uk/e-class/c207/e-200-cgi/"
             },
             {
               "@type": "ListItem",
               "position": 8,
-              "name": "E 350",
-              "url": "https://mercedesengine.uk/e-class/s212/e-350/"
+              "name": "E 250 CGI",
+              "url": "https://mercedesengine.uk/e-class/c207/e-250-cgi/"
             },
             {
               "@type": "ListItem",
               "position": 9,
-              "name": "E 400",
-              "url": "https://mercedesengine.uk/e-class/s212/e-400/"
+              "name": "E 350",
+              "url": "https://mercedesengine.uk/e-class/c207/e-350/"
             },
             {
               "@type": "ListItem",
               "position": 10,
-              "name": "E 500",
-              "url": "https://mercedesengine.uk/e-class/s212/e-500/"
+              "name": "E 400",
+              "url": "https://mercedesengine.uk/e-class/c207/e-400/"
             },
             {
               "@type": "ListItem",
               "position": 11,
+              "name": "E 500",
+              "url": "https://mercedesengine.uk/e-class/c207/e-500/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
               "name": "E 63 AMG",
-              "url": "https://mercedesengine.uk/e-class/s212/e-63-amg/"
+              "url": "https://mercedesengine.uk/e-class/c207/e-63-amg/"
             }
           ]
         },
@@ -186,82 +174,82 @@
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "How much does a Mercedes S212 engine replacement cost in the UK?",
+              "name": "How much does a Mercedes C207 engine replacement cost in the UK?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "A reconditioned S212 engine typically costs £1,500–£14,000 supply only, depending on engine — the volume E 250 CDI diesel sits at £2,500–£4,200. Fitting adds £650–£1,800. Use our calculator for a personalised figure."
+                "text": "A reconditioned C207 engine typically costs £2,500–£14,000 supply only [MB‑QUOTE], depending on engine — the OM651 four‑cylinder diesel runs £2,500–£4,500, while the M157 V8 in the E 63 AMG can cost £7,000–£14,000. Fitting adds £780–£1,430. Use our calculator for a personalised quote."
               }
             },
             {
               "@type": "Question",
-              "name": "Which Mercedes S212 engine is the most reliable?",
+              "name": "Which Mercedes C207 engine is the most reliable?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The E 350 CDI (OM642 V6 diesel) is the most dependable S212 engine — smooth, refined and robust with few major failure modes beyond the well-documented oil cooler seal leak. The E 250 CDI (OM651) is also a solid choice for buyers prioritising economy and simplicity. On the petrol side, post-2013 E 400 (M276) is the most reliable V6 option."
+                "text": "The post‑facelift M276 3.5‑litre V6 petrol (E 350) is the most dependable choice — it's a modern, well‑sorted engine without the balance‑shaft issues of earlier M272 units. The OM642 V6 diesel is robust but suffers from oil‑cooler seal leaks; the OM651 four‑cylinder diesel is reliable but needs chain monitoring."
               }
             },
             {
               "@type": "Question",
-              "name": "What are the common problems with the Mercedes S212?",
+              "name": "What are the common problems with the Mercedes C207?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The OM642 V6 diesel suffers from oil cooler seal leaks (80k–150k miles). The OM651 four-cylinder diesel has injector seal failure (\"Black Death\"). The pre-facelift M276 V6 petrol has timing chain and cam adjuster wear. The M272 V6 (E 300, pre-2011) has balance shaft sprocket wear. The M278 V8 (E 500) suffers from turbo coolant line and valve seal degradation. The E 63 AMG (M157) has high running costs and complex maintenance requirements."
+                "text": "Pre‑2010 M272 V6 petrols suffer balance‑shaft gear wear; OM642 V6 diesels have oil‑cooler seal leaks; OM651 diesels have a rear‑mounted timing chain that can stretch; M156 V8s (E 63) can develop cam lifter wear; and M278 V8 petrols can experience turbo coolant line failures. Regular servicing is critical across all engines."
               }
             },
             {
               "@type": "Question",
-              "name": "Is the Mercedes S212 reliable?",
+              "name": "Is the Mercedes C207 reliable?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "It depends heavily on engine choice and maintenance history. The OM642 diesel is the most robust option; the OM651 is also solid. M276-engined cars (pre-2013) carry some timing chain risk — post-2013 facelift cars with the M276.820 are improved. The M272 (pre-2011) carries balance shaft risk. The M278 and M157 V8s are reliable for performance engines but have higher running costs and more complex maintenance. Always check service history and ensure oil changes were performed on schedule."
+                "text": "It depends on the engine and year. Pre‑facelift (2009–2011) M272 V6 petrols have a known weakness; post‑2011 M276 V6s are much improved. The OM642 V6 diesel is robust but has a well‑documented oil‑cooler seal weakness. The OM651 needs chain monitoring. The M156 and M278 are high‑performance engines that demand meticulous maintenance."
               }
             },
             {
               "@type": "Question",
-              "name": "Which Mercedes S212 engine should I avoid?",
+              "name": "Which Mercedes C207 engine should I avoid?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The pre-facelift E 350 (M276.952) without documented timing chain history is one to approach with caution — chain and cam adjuster issues can occur from 60,000 miles. The pre-2011 E 300 (M272.980) carries balance shaft risk. The E 63 AMG (M157) is a phenomenal car but running costs are substantial; avoid neglected examples without full service history. The E 500 (M278) is also costly to maintain; budget for turbo coolant line work."
+                "text": "No engine is an outright \"avoid\" — but a pre‑2010 M272 V6 without documented balance‑shaft replacement is a high‑risk purchase. Similarly, an early E 63 AMG (pre‑2011) without cam lifter history should be approached with caution. Always get a specialist pre‑purchase inspection."
               }
             },
             {
               "@type": "Question",
-              "name": "How do I know if my S212 engine needs replacing?",
+              "name": "How do I know if my C207 engine needs replacing?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Cold-start rattle (M276/M272 timing chain), black carbon residue around injectors (OM651/OM642 diesel), blue smoke or coolant loss (M278/M157 V8s), or a sudden loss of power on any engine are the key warnings. Check engine lights, rough idle or misfires also warrant immediate inspection."
+                "text": "Key warning signs include: cold‑start rattle (OM651 chain), burning oil smell (OM642 seals), a ticking or rattling from the front of the engine (M272 balance shaft), a top‑end tick that worsens (M156/M157 lifters), or coolant loss with no visible leak (M278 coolant lines). If you experience any of these, get a diagnosis immediately — early intervention saves thousands."
               }
             },
             {
               "@type": "Question",
-              "name": "Is it worth replacing a Mercedes S212 engine, or should I scrap the car?",
+              "name": "Is it worth replacing a Mercedes C207 engine, or should I scrap the car?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Depends on the car's value. Against a well-kept £12,000 S212, a £3,500–£6,000 recon is 29–50% of the car's value — a sensible repair. Against a tired £6,000 example, the same recon is 58–100% — marginal but sometimes worth it if the car is otherwise excellent. Our 70% Mercedes threshold is the line."
+                "text": "Depends on the car's value. Against a well‑kept £15,000 C207, a £5,500 OM642 recon is 37% of the car's value — safe if the car is otherwise sound. Against a tired £7,000 example, the same recon is 79% — exceeding our 70% Mercedes threshold, so evaluate scrap. Use our 70% rule as your guide."
               }
             },
             {
               "@type": "Question",
-              "name": "How long do Mercedes S212 engines last?",
+              "name": "How long do Mercedes C207 engines last?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The OM642 V6 diesel can exceed 200,000 miles with proper servicing and oil cooler maintenance. The OM651 is similarly durable. The M276 V6 petrol can reach 150,000+ miles if the timing chain is addressed proactively. The M272 can also reach high mileages but balance shaft work may be needed. The M278 and M157 V8s can also reach high mileages but require more frequent maintenance and are more expensive to run. The S212's estate body is famously durable, with many examples used as taxis and commercial vehicles."
+                "text": "With proper maintenance, the M276 V6 petrol can exceed 150,000 miles, and the OM642 V6 diesel can reach 200,000+ miles with regular oil changes. The OM651 diesel is also capable of high mileage but requires chain monitoring. The M156/M157 V8s are durable but demand expensive preventative maintenance."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the difference between the S212 and the W212 E-Class?",
+              "name": "What is the difference between the C207 and A207?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The S212 is the estate (wagon) version of the W212 E-Class (saloon). Both share the same platform, engines and mechanicals. The S212 offers significantly more load space (695 litres, expanding to 1,950 litres with seats folded) and is a popular choice for families and businesses. Engine costs are identical; body-specific parts differ. The W212 saloon is covered on a separate page."
+                "text": "Both share the same platform and engines. The C207 is the 2‑door coupé (2009–2017, this page), while the A207 is the 2‑door convertible (2010–2017). Costs vary slightly by body style due to labour access — see the A207's own Generation Page for specifics."
               }
             },
             {
               "@type": "Question",
-              "name": "How do I find my Mercedes S212 engine code?",
+              "name": "How do I find my Mercedes C207 engine code?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (E 350 CDI, E 63 AMG, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+                "text": "Listed on the VIN plate (visible through the windscreen) and in the vehicle documentation. The code is stamped on the engine block — on OM651/OM642 it's on the front left, on M272/M276/M278/M156 it's on the right side. Tell us your variant and registration year, and we'll identify it for you."
               }
             }
           ]
@@ -278,7 +266,7 @@
         },
         {
           "@type": "Service",
-          "serviceType": "Mercedes E-Class S212 Engine Replacement",
+          "serviceType": "Mercedes E‑Class C207 Engine Replacement",
           "provider": {
             "@type": "Organization",
             "name": "MercedesEngines.uk"
@@ -287,15 +275,15 @@
           "offers": {
             "@type": "AggregateOffer",
             "priceCurrency": "GBP",
-            "lowPrice": "1500",
+            "lowPrice": "1200",
             "highPrice": "14000",
             "availability": "https://schema.org/InStock"
           }
         },
         {
           "@type": "WebPage",
-          "name": "S212 Engine Replacement Cost UK — Compare Quotes",
-          "url": "https://mercedesengine.uk/e-class/s212/",
+          "name": "C207 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/e-class/c207/",
           "author": {
             "@type": "Organization",
             "name": "MercedesEngines.uk Editorial Team"
@@ -824,75 +812,75 @@
     "items": [
       {
         "id": 1,
-        "question": "How much does a Mercedes S212 engine replacement cost in the UK?",
-        "answer": "A reconditioned S212 engine typically costs £1,500–£14,000 supply only [MB-QUOTE], depending on engine — the volume E 250 CDI diesel sits at £2,500–£4,200. Fitting adds £650–£1,800. Use our calculator for a personalised figure."
+        "question": "How much does a Mercedes C207 engine replacement cost in the UK?",
+        "answer": "A reconditioned C207 engine typically costs £2,500–£14,000 supply only [MB‑QUOTE], depending on engine — the OM651 four‑cylinder diesel runs £2,500–£4,500, while the M157 V8 in the E 63 AMG can cost £7,000–£14,000. Fitting adds £780–£1,430. Use our calculator for a personalised quote."
       },
       {
         "id": 2,
-        "question": "Which Mercedes S212 engine is the most reliable?",
-        "answer": "The E 350 CDI (OM642 V6 diesel) is the most dependable S212 engine — smooth, refined and robust with few major failure modes beyond the well-documented oil cooler seal leak. The E 250 CDI (OM651) is also a solid choice for buyers prioritising economy and simplicity. On the petrol side, post-2013 E 400 (M276) is the most reliable V6 option."
+        "question": "Which Mercedes C207 engine is the most reliable?",
+        "answer": "The post‑facelift M276 3.5‑litre V6 petrol (E 350) is the most dependable choice — it's a modern, well‑sorted engine without the balance‑shaft issues of earlier M272 units. The OM642 V6 diesel is robust but suffers from oil‑cooler seal leaks; the OM651 four‑cylinder diesel is reliable but needs chain monitoring."
       },
       {
         "id": 3,
-        "question": "What are the common problems with the Mercedes S212?",
-        "answer": "The OM642 V6 diesel suffers from oil cooler seal leaks (80k–150k miles). The OM651 four-cylinder diesel has injector seal failure (\"Black Death\"). The pre-facelift M276 V6 petrol has timing chain and cam adjuster wear. The M272 V6 (E 300, pre-2011) has balance shaft sprocket wear. The M278 V8 (E 500) suffers from turbo coolant line and valve seal degradation. The E 63 AMG (M157) has high running costs and complex maintenance requirements."
+        "question": "What are the common problems with the Mercedes C207?",
+        "answer": "Pre‑2010 M272 V6 petrols suffer balance‑shaft gear wear; OM642 V6 diesels have oil‑cooler seal leaks; OM651 diesels have a rear‑mounted timing chain that can stretch; M156 V8s (E 63) can develop cam lifter wear; and M278 V8 petrols can experience turbo coolant line failures. Regular servicing is critical across all engines."
       },
       {
         "id": 4,
-        "question": "Is the Mercedes S212 reliable?",
-        "answer": "It depends heavily on engine choice and maintenance history. The OM642 diesel is the most robust option; the OM651 is also solid. M276-engined cars (pre-2013) carry some timing chain risk — post-2013 facelift cars with the M276.820 are improved. The M272 (pre-2011) carries balance shaft risk. The M278 and M157 V8s are reliable for performance engines but have higher running costs and more complex maintenance. Always check service history and ensure oil changes were performed on schedule."
+        "question": "Is the Mercedes C207 reliable?",
+        "answer": "It depends on the engine and year. Pre‑facelift (2009–2011) M272 V6 petrols have a known weakness; post‑2011 M276 V6s are much improved. The OM642 V6 diesel is robust but has a well‑documented oil‑cooler seal weakness. The OM651 needs chain monitoring. The M156 and M278 are high‑performance engines that demand meticulous maintenance."
       },
       {
         "id": 5,
-        "question": "Which Mercedes S212 engine should I avoid?",
-        "answer": "The pre-facelift E 350 (M276.952) without documented timing chain history is one to approach with caution — chain and cam adjuster issues can occur from 60,000 miles. The pre-2011 E 300 (M272.980) carries balance shaft risk. The E 63 AMG (M157) is a phenomenal car but running costs are substantial; avoid neglected examples without full service history. The E 500 (M278) is also costly to maintain; budget for turbo coolant line work."
+        "question": "Which Mercedes C207 engine should I avoid?",
+        "answer": "No engine is an outright \"avoid\" — but a pre‑2010 M272 V6 without documented balance‑shaft replacement is a high‑risk purchase. Similarly, an early E 63 AMG (pre‑2011) without cam lifter history should be approached with caution. Always get a specialist pre‑purchase inspection."
       },
       {
         "id": 6,
-        "question": "How do I know if my S212 engine needs replacing?",
-        "answer": "Cold-start rattle (M276/M272 timing chain), black carbon residue around injectors (OM651/OM642 diesel), blue smoke or coolant loss (M278/M157 V8s), or a sudden loss of power on any engine are the key warnings. Check engine lights, rough idle or misfires also warrant immediate inspection."
+        "question": "How do I know if my C207 engine needs replacing?",
+        "answer": "Key warning signs include: cold‑start rattle (OM651 chain), burning oil smell (OM642 seals), a ticking or rattling from the front of the engine (M272 balance shaft), a top‑end tick that worsens (M156/M157 lifters), or coolant loss with no visible leak (M278 coolant lines). If you experience any of these, get a diagnosis immediately — early intervention saves thousands."
       },
       {
         "id": 7,
-        "question": "Is it worth replacing a Mercedes S212 engine, or should I scrap the car?",
-        "answer": "Depends on the car's value. Against a well-kept £12,000 S212, a £3,500–£6,000 recon is 29–50% of the car's value — a sensible repair. Against a tired £6,000 example, the same recon is 58–100% — marginal but sometimes worth it if the car is otherwise excellent. Our 70% Mercedes threshold is the line."
+        "question": "Is it worth replacing a Mercedes C207 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well‑kept £15,000 C207, a £5,500 OM642 recon is 37% of the car's value — safe if the car is otherwise sound. Against a tired £7,000 example, the same recon is 79% — exceeding our 70% Mercedes threshold, so evaluate scrap. Use our 70% rule as your guide."
       },
       {
         "id": 8,
-        "question": "How long do Mercedes S212 engines last?",
-        "answer": "The OM642 V6 diesel can exceed 200,000 miles with proper servicing and oil cooler maintenance. The OM651 is similarly durable. The M276 V6 petrol can reach 150,000+ miles if the timing chain is addressed proactively. The M272 can also reach high mileages but balance shaft work may be needed. The M278 and M157 V8s can also reach high mileages but require more frequent maintenance and are more expensive to run. The S212's estate body is famously durable, with many examples used as taxis and commercial vehicles."
+        "question": "How long do Mercedes C207 engines last?",
+        "answer": "With proper maintenance, the M276 V6 petrol can exceed 150,000 miles, and the OM642 V6 diesel can reach 200,000+ miles with regular oil changes. The OM651 diesel is also capable of high mileage but requires chain monitoring. The M156/M157 V8s are durable but demand expensive preventative maintenance."
       },
       {
         "id": 9,
-        "question": "What is the difference between the S212 and the W212 E-Class?",
-        "answer": "The S212 is the estate (wagon) version of the W212 E-Class (saloon). Both share the same platform, engines and mechanicals. The S212 offers significantly more load space (695 litres, expanding to 1,950 litres with seats folded) and is a popular choice for families and businesses. Engine costs are identical; body-specific parts differ. The W212 saloon is covered on a separate page."
+        "question": "What is the difference between the C207 and A207?",
+        "answer": "Both share the same platform and engines. The C207 is the 2‑door coupé (2009–2017, this page), while the A207 is the 2‑door convertible (2010–2017). Costs vary slightly by body style due to labour access — see the A207's own Generation Page for specifics."
       },
       {
         "id": 10,
-        "question": "How do I find my Mercedes S212 engine code?",
-        "answer": "Listed on the VIN plate (visible through the windscreen, lower passenger side), stamped on the engine block, and detailed in your vehicle registration documents (V5C). Tell us your variant (E 350 CDI, E 63 AMG, etc.) and approximate registration date, and we'll confirm it — 25+ vetted Mercedes specialists will verify it for free."
+        "question": "How do I find my Mercedes C207 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and in the vehicle documentation. The code is stamped on the engine block — on OM651/OM642 it's on the front left, on M272/M276/M278/M156 it's on the right side. Tell us your variant and registration year, and we'll identify it for you."
       }
     ]
   },
   "trustCta": {
-    "h2": "Why UK Mercedes S212 Owners Trust MercedesEngines.uk",
+    "h2": "Why UK Mercedes C207 Owners Trust MercedesEngines.uk",
     "trustPoints": [
       {
-        "title": "Trusted S212 Engine Suppliers",
-        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real E-Class estate owners, as part of the Engine Finders network."
+        "title": "Trusted C207 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real C207 owners, as part of the Engine Finders network."
       },
       {
-        "title": "Compare S212 Engine Replacement Companies",
-        "text": "see prices, warranty terms and supply-and-fit options side-by-side before you commit to any repair."
+        "title": "Compare C207 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑&‑fit options side‑by‑side before you commit."
       },
       {
-        "title": "UK Engine Replacement Services for S212",
-        "text": "covering every variant from the E 200 CDI to the E 63 AMG, with supply-only or full supply-and-fit available nationwide."
+        "title": "UK Engine Replacement Services for C207",
+        "text": "covering every variant from E 220 CDI to E 63 AMG, with supply‑only or full supply‑&‑fit available nationwide."
       }
     ],
-    "finalCta": "Find the best Mercedes E-Class S212 engine replacement UK drivers rely on. Compare real prices from trusted Mercedes specialists on EnginesMarket today and get back on the road with confidence.",
+    "finalCta": "Find the best Mercedes C207 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "Compare Mercedes E-Class S212 Engine Prices on EnginesMarket →",
+      "label": "Compare Mercedes E‑Class C207 Engine Prices on EnginesMarket →",
       "href": "#",
       "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }

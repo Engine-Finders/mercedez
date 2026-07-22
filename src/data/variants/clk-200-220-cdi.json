@@ -527,11 +527,67 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Injector seal failure (\"Black Death\") — the defining risk on both OM611 and OM646 engines"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "OM611: 80,000–150,000 miles / OM646: 60,000–120,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£2,000–£5,000 reconditioned, supply only depending on generation【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM646 — the later, more refined CLK diesel【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring — convertible and coupe season【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (20%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz CLK 200 CDI or 220 CDI engine replacement cost in the UK?",
+        "answer": "A reconditioned OM611 or OM646 engine typically costs £2,000–£5,000 supply only depending on which generation. Used units are available from £1,500–£3,000. Fitting adds £1,000–£1,800 depending on the workshop. Use our calculator for a figure specific to your CLK."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz CLK 200 CDI / 220 CDI engine reliable?",
+        "answer": "The OM611 and OM646 are robust and economical diesels, but they have well-documented weaknesses. Injector seal failure (\"Black Death\") is the most common issue on both engines. Later OM646 engines can suffer from DPF and EGR problems. With good maintenance, these engines are capable of high mileage."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz CLK 200 CDI and 220 CDI?",
+        "answer": "Injector seal failure (\"Black Death\" — tar-like sludge around injectors), DPF and EGR clogging (OM646), inlet manifold flap problems (OM611), timing chain stretch, and oil dilution from failed DPF regenerations. The injector seals are the most critical concern."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz CLK 200/220 CDI engine, or should I scrap the car?",
+        "answer": "CLK values range from £2,000–£10,000 depending on condition and spec. A £2,000–£5,000 reconditioned engine is 20–50% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example with good bodywork, replacement is often worthwhile."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz CLK 200 CDI or 220 CDI engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. C208/A208 (1998–2002) uses OM611.962; C209/A209 (2002–2009) uses OM646.963 (200 CDI) or OM646.963/.966 (220 CDI). Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the \"Black Death\" injector seals, or does the engine need replacement?",
+        "answer": "The injector seals can be replaced — they are wear items. Replacement costs £300–£800 and requires specialist tools to re-cut the injector seats. If the injector has seized in the head, extraction can be difficult and expensive. A preventative seal replacement is far cheaper than a full engine replacement. At the first sign of ticking or black sludge around the injectors, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

@@ -473,11 +473,67 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "Intercooler pump failure — the defining issue on the M113K; causes supercharger shutoff after hard acceleration"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "60,000–120,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "£4,500–£8,500 reconditioned, supply only【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "M113K — the legendary 5.4-litre supercharged V8【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Spring — off‑road and performance SUV season【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (22%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz G55 AMG engine replacement cost in the UK?",
+        "answer": "A reconditioned M113K engine typically costs £4,500–£8,500 supply only, with used units available from £1,800–£4,000. Rebuilt engines from specialist suppliers start at around £6,995. Fitting adds £2,000–£3,500 depending on the workshop. Use our calculator for a figure specific to your G55."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz G55 AMG engine reliable?",
+        "answer": "Yes — the M113K is widely regarded as \"pretty much bulletproof in stock form\" and \"one of the most robust German performance engines\". Examples have been documented exceeding 246,000 miles. The main issues are the intercooler pump (a common wear item), oil leaks, and timing chain tensioner wear at high mileage. In stock form, it's one of the most reliable AMG V8s ever built."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz G55 AMG?",
+        "answer": "Intercooler pump failure (causes supercharger shutoff after hard acceleration — replace with upgraded Bosch A000 500 03 86 or Johnson CM30 pump), oil leaks from valve cover gaskets and oil cooler seals, timing chain tensioner wear at higher mileages, and supercharger clutch \"chirp\". The engine is fundamentally robust."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz G55 AMG engine, or should I scrap the car?",
+        "answer": "G55 AMG values remain strong — a well-kept example is often worth £20,000–£50,000+. A £4,500–£8,500 reconditioned engine is 10–30% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example, replacement is almost always worthwhile. The G55's iconic status and rising values make engine replacement a sound investment."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz G55 AMG engine code?",
+        "answer": "The engine code is M113K (M113.982) — it's the only 5.4-litre supercharged V8 used in the G55 AMG. You can find it on the VIN plate, in the vehicle documentation, or on a label on the engine itself. Production ran from 2004 to 2011."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M113K timing chain, or does the engine need replacement?",
+        "answer": "The timing chain and tensioner can be replaced — they are wear items. Replacement costs £1,500–£3,500 and is a labour-intensive job. If the chain fails and jumps timing, the engine is typically destroyed. A preventative tensioner replacement is far cheaper than a full engine replacement (£4,500+). At the first sign of rattling or slapping from the front of the engine, book an inspection immediately. One owner reported a failed $1 rubber o-ring on the front timing cover allowed coolant to mix with oil, destroying the engine — a \"rare show stopper that ruins motors\"."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

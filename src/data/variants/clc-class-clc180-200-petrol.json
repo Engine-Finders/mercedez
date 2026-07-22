@@ -472,40 +472,43 @@
       {
         "label": "Regional Demand",
         "value": "London (22%), South East (20%), Midlands (15%) [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz CLC180 / CLC200 petrol engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned M271 engine typically costs £1,200–£3,000 supply only for the CLC180, and £1,500–£4,000 for the CLC200. Fitting adds £700–£1,200. Timing chain replacement alone can cost £800–£2,500 if caught early. A replacement motor of type 271.957 costs on average £2,750. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑Benz CLC180 / CLC200 petrol engine reliable?"
-      },
-      {
-        "label": "The M271 is rated ★★½☆☆. It's a smooth, responsive engine, but it has a well‑documented reputation for premature timing chain and camshaft adjuster failure — the simplex chain can stretch, and the adjuster sprockets wear, potentially causing catastrophic engine failure. Other issues include vacuum leaks, oil leaks from camshaft position sensors, and failed thermostats.",
-        "value": "3. What are the common problems with the Mercedes‑Benz CLC180 / CLC200 petrol?"
-      },
-      {
-        "label": "Timing chain and camshaft adjuster failure (the most critical — can destroy the engine), split vacuum hoses (causing rough idle), oil leaks from camshaft position sensors (can travel to the ECU), blocked crankcase breathers, failed thermostats, and occasional supercharger issues. The 5‑speed automatic transmission is bulletproof.",
-        "value": "4. Is it worth replacing a Mercedes‑Benz CLC180 / CLC200 petrol engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and body condition. Against a well‑kept CLC worth £2,000–£5,000, a £2,200 recon is a significant investment — assess carefully. If the body is solid and the car has strong provenance, replacement can be worthwhile. Given the CLC's status as a stylish rear‑wheel‑drive coupe, good examples are worth saving.",
-        "value": "5. How do I find my Mercedes‑Benz CLC petrol engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. The CLC180 uses M271.946; the CLC200 uses M271.948 or M271.950. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the M271's timing chain, or does it need a new engine?"
-      },
-      {
-        "label": "Yes — if caught early. A timing chain, camshaft adjuster and tensioner replacement (£800–£2,500) is far cheaper than a catastrophic chain failure (£1,200–£5,000 engine replacement). At the first sign of cold‑start rattle, book an inspection immediately. The early timing chain/sprocket wear can be assessed visually without a complete engine strip‑down.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz CLC180 / CLC200 petrol engine replacement cost in the UK?",
+        "answer": "A reconditioned M271 engine typically costs £1,200–£3,000 supply only for the CLC180, and £1,500–£4,000 for the CLC200. Fitting adds £700–£1,200. Timing chain replacement alone can cost £800–£2,500 if caught early. A replacement motor of type 271.957 costs on average £2,750. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz CLC180 / CLC200 petrol engine reliable?",
+        "answer": "The M271 is rated ★★½☆☆. It's a smooth, responsive engine, but it has a well‑documented reputation for premature timing chain and camshaft adjuster failure — the simplex chain can stretch, and the adjuster sprockets wear, potentially causing catastrophic engine failure. Other issues include vacuum leaks, oil leaks from camshaft position sensors, and failed thermostats."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz CLC180 / CLC200 petrol?",
+        "answer": "Timing chain and camshaft adjuster failure (the most critical — can destroy the engine), split vacuum hoses (causing rough idle), oil leaks from camshaft position sensors (can travel to the ECU), blocked crankcase breathers, failed thermostats, and occasional supercharger issues. The 5‑speed automatic transmission is bulletproof."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes‑Benz CLC180 / CLC200 petrol engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and body condition. Against a well‑kept CLC worth £2,000–£5,000, a £2,200 recon is a significant investment — assess carefully. If the body is solid and the car has strong provenance, replacement can be worthwhile. Given the CLC's status as a stylish rear‑wheel‑drive coupe, good examples are worth saving."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz CLC petrol engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The CLC180 uses M271.946; the CLC200 uses M271.948 or M271.950. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M271's timing chain, or does it need a new engine?",
+        "answer": "Yes — if caught early. A timing chain, camshaft adjuster and tensioner replacement (£800–£2,500) is far cheaper than a catastrophic chain failure (£1,200–£5,000 engine replacement). At the first sign of cold‑start rattle, book an inspection immediately. The early timing chain/sprocket wear can be assessed visually without a complete engine strip‑down."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

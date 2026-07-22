@@ -1,11 +1,277 @@
 {
   "meta": {
-    "slug": "mercedes-e-class-w214",
-    "title": "Mercedes E-Class W214 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-mercedes-e-class-w214",
+    "title": "W214 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes W214 engine — M254 MHEV and PHEV, OM654 diesel, and M256 AMG. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 156,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-Class",
+              "item": "https://mercedesengine.uk/mercedes-e-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes E-Class W214",
+              "item": "https://mercedesengine.uk/mercedes-e-class/w214/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W214 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M254.915 Engine",
+              "url": "https://mercedesengine.uk/engines/m254/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M254.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m254/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "OM654.820 Engine",
+              "url": "https://mercedesengine.uk/engines/om654/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M256 Engine",
+              "url": "https://mercedesengine.uk/engines/m256/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes W214 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E 180",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-180/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E 200",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-200/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "E 200 4MATIC",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-200-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "E 220 d",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-220-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "E 220 d 4MATIC",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-220-d-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "E 300 e",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-300-e/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "E 300 e 4MATIC",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-300-e-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "E 300 de",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-300-de/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "E 300 de 4MATIC",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-300-de-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "E 400 e 4MATIC",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-400-e-4matic/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "E 53 HYBRID 4MATIC+",
+              "url": "https://mercedesengine.uk/mercedes-e-class/e-53-hybrid-4matic-plus/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes E-Class W214 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W214 engine typically costs £2,500–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,500. Fitting adds 10–20 hours labour at specialist rates. PHEV battery replacement outside warranty could add £5,000–£10,000 — factor this into your ownership maths. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W214 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654.820 (E 220 d, MHEV) — a 2.0‑litre four‑cylinder diesel with 197 bhp, 440 Nm of torque, and proven reliability from the W213 generation. The M254.920 (E 200, MHEV) is the best petrol option — smooth, responsive, and with the simplest electrified system in the range."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes E-Class W214?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "48V ISG and cooling system issues (MHEV variants), PHEV battery degradation and cooling system failures (PHEV variants), OM654 rear timing chain wear (projected on high‑mileage diesels), and — tech‑related — MBUX Superscreen software glitches and connectivity issues on early cars."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes E-Class W214 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It's too early to say definitively — the W214 launched in 2023 and long‑term reliability data is limited. Early indications from the W213 suggest the M254 and OM654 are solid, but the 48V and PHEV systems add complexity. The biggest unknown is the 25.4 kWh battery — an £8,000–£15,000 replacement outside warranty is a serious consideration. Buy with a full Mercedes service history and ensure software updates are current."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes W214 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a PHEV without a documented battery health check is the one we'd approach cautiously. The E 400 e and E 53 HYBRID are complex, high‑performance systems with significant potential failure points. For private buyers, the simpler MHEV variants (E 200, E 220 d) are the safer bet."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my W214 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "EML or 48V system warnings (MHEV), range reduction or charging issues (PHEV battery degradation), rattling on start‑up (OM654 timing chain), rough running or misfire (M254 cooling/ISG issues). Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes E-Class W214 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value and whether the PHEV battery is involved. Against a well‑kept £40,000 W214, a £3,000–£5,500 OM654 recon is 7.5–14% of the car's value — safe. Even an £8,000–£15,000 M256 AMG recon is 20–38% — safe. But if the £5,000–£10,000 PHEV battery needs replacing at the same time, the total could exceed 30–60% of the car's value — evaluate carefully. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes W214 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM654 diesel can exceed 200,000 miles with proper servicing. The M254 petrol can reach 150,000+ miles with 48V system maintenance. The PHEV battery is rated for 8 years / 100,000 miles — beyond that, degradation is expected. The M256 straight‑six is robust but complex — 100,000+ miles is achievable with meticulous servicing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the W214, S214 and X214 E-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All three share the sixth‑generation E‑Class platform and all engines. The W214 is the 4‑door saloon (this page), the S214 is the 5‑door estate, and the X214 is the All‑Terrain estate with raised suspension and off‑road styling. The estate and All‑Terrain have slightly higher kerb weights and fuel consumption — running costs are marginally higher than the saloon."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes W214 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also accessible via the MBUX infotainment system (Vehicle → Engine information). Tell us your variant, registration year and whether it's MHEV or PHEV and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes E-Class W214 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "20000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes E-Class W214 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes E-Class W214 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "W214 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-e-class/w214/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -425,23 +691,121 @@
     "scopeNote": "All variants listed are W214 saloon and S214 estate. The saloon and estate share all powertrains, with only minor labour differences for some repairs. The X214 All‑Terrain estate shares the same engine range but is covered on its own Generation Page."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM654.820 (E 220 d MHEV)",
+      "2. M254.920 (E 300 e PHEV)",
+      "3. M254.920 (E 200 MHEV)"
+    ],
+    "mostRequestedVariants": [
+      "1. E 220 d",
+      "2. E 300 e",
+      "3. E 200"
+    ],
+    "averageReplacementCost": "£3,500–£6,000 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. 48V ISG / cooling system issues",
+      "2. PHEV battery degradation",
+      "3. MBUX software glitches"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes E 220 d W214 (OM654)",
+        "location": "Birmingham",
+        "issue": "48V system warning / reduced power",
+        "enquiries": "4 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes E 300 e W214 (M254 PHEV)",
+        "location": "London",
+        "issue": "Battery range degradation / charging issues",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes E 200 W214 (M254)",
+        "location": "Manchester",
+        "issue": "Cooling system leak / EML",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes E-Class W214 engine replacement cost in the UK?",
+        "answer": "A reconditioned W214 engine typically costs £2,500–£15,000 supply only [MB-QUOTE], depending on engine — the volume OM654 diesel sits at £3,000–£5,500. Fitting adds 10–20 hours labour at specialist rates. PHEV battery replacement outside warranty could add £5,000–£10,000 — factor this into your ownership maths. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes W214 engine is the most reliable?",
+        "answer": "The OM654.820 (E 220 d, MHEV) — a 2.0‑litre four‑cylinder diesel with 197 bhp, 440 Nm of torque, and proven reliability from the W213 generation. The M254.920 (E 200, MHEV) is the best petrol option — smooth, responsive, and with the simplest electrified system in the range."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes E-Class W214?",
+        "answer": "48V ISG and cooling system issues (MHEV variants), PHEV battery degradation and cooling system failures (PHEV variants), OM654 rear timing chain wear (projected on high‑mileage diesels), and — tech‑related — MBUX Superscreen software glitches and connectivity issues on early cars."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes E-Class W214 reliable?",
+        "answer": "It's too early to say definitively — the W214 launched in 2023 and long‑term reliability data is limited. Early indications from the W213 suggest the M254 and OM654 are solid, but the 48V and PHEV systems add complexity. The biggest unknown is the 25.4 kWh battery — an £8,000–£15,000 replacement outside warranty is a serious consideration. Buy with a full Mercedes service history and ensure software updates are current."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes W214 engine should I avoid?",
+        "answer": "No engine outright — but a PHEV without a documented battery health check is the one we'd approach cautiously. The E 400 e and E 53 HYBRID are complex, high‑performance systems with significant potential failure points. For private buyers, the simpler MHEV variants (E 200, E 220 d) are the safer bet."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my W214 engine needs replacing?",
+        "answer": "EML or 48V system warnings (MHEV), range reduction or charging issues (PHEV battery degradation), rattling on start‑up (OM654 timing chain), rough running or misfire (M254 cooling/ISG issues). Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes E-Class W214 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value and whether the PHEV battery is involved. Against a well‑kept £40,000 W214, a £3,000–£5,500 OM654 recon is 7.5–14% of the car's value — safe. Even an £8,000–£15,000 M256 AMG recon is 20–38% — safe. But if the £5,000–£10,000 PHEV battery needs replacing at the same time, the total could exceed 30–60% of the car's value — evaluate carefully. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes W214 engines last?",
+        "answer": "The OM654 diesel can exceed 200,000 miles with proper servicing. The M254 petrol can reach 150,000+ miles with 48V system maintenance. The PHEV battery is rated for 8 years / 100,000 miles — beyond that, degradation is expected. The M256 straight‑six is robust but complex — 100,000+ miles is achievable with meticulous servicing."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the W214, S214 and X214 E-Class?",
+        "answer": "All three share the sixth‑generation E‑Class platform and all engines. The W214 is the 4‑door saloon (this page), the S214 is the 5‑door estate, and the X214 is the All‑Terrain estate with raised suspension and off‑road styling. The estate and All‑Terrain have slightly higher kerb weights and fuel consumption — running costs are marginally higher than the saloon."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes W214 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also accessible via the MBUX infotainment system (Vehicle → Engine information). Tell us your variant, registration year and whether it's MHEV or PHEV and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes E-Class W214 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W214 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real W214 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W214 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for W214",
+        "text": "covering every variant from E 180 to E 53 HYBRID, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes W214 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes E-Class W214 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

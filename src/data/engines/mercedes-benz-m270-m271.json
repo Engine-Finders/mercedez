@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "slug": "mercedes-benz-m270-m271",
+    "title": "Mercedes-Benz M270/M271 Engine — Specs, Reliability & Replacement Cost",
+    "description": "",
+    "canonical": "",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "type": "",
+      "url": "",
+      "image": "",
+      "siteName": ""
+    },
+    "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "image": ""
+    },
+    "jsonLd": {}
+  },
+  "hero": {
+    "tagPill": "Mercedes-Benz • M270/M271 • Petrol • 1.8–2.0L Turbo • 2002–2015",
+    "h1": "Mercedes-Benz M270/M271 Engine — Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes M270 and M271 are compact turbocharged four-cylinder petrols — the M271's timing chain is a known weak point, while the M270 is generally more robust. Backed by real UK enquiries [ESTIMATED].",
+    "trustStrip": [],
+    "primaryCta": {
+      "label": "Compare M270/M271 Engine Prices →",
+      "href": "#"
+    }
+  },
+  "atAGlance": {
+    "rows": [
+      {
+        "metric": "Engine Family",
+        "value": "M270 / M271"
+      },
+      {
+        "metric": "Fuel",
+        "value": "Petrol"
+      },
+      {
+        "metric": "Configuration / Displacement",
+        "value": "Inline‑4 turbo, 1.8L (M271) / 2.0L (M270)"
+      },
+      {
+        "metric": "Power Range",
+        "value": "136–211 hp"
+      },
+      {
+        "metric": "Years Produced",
+        "value": "M271: 2002–2015; M270: 2011–present"
+      },
+      {
+        "metric": "Models Fitted (Mercedes-Benz only)",
+        "value": "6 models"
+      },
+      {
+        "metric": "Cross-Brand Fitment",
+        "value": "Exclusive to Mercedes-Benz"
+      },
+      {
+        "metric": "Overall Engine Score",
+        "value": "[Score]/100"
+      }
+    ]
+  },
+  "verdictRating": {
+    "starRating": "3.5★ out of 5",
+    "confidence": "85% confidence — based on owner reports and specialist workshop feedback across both engine families.",
+    "scoreNote": "Engine Score breakdown:",
+    "scoreBreakdown": {
+      "columns": [
+        "Dimension",
+        "Score (of 20)"
+      ],
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "14 (Star rating 3.5 × 4 = 14)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "20 (Recon midpoint ~£2,000 (<£3,000 threshold) → 20)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mixed – M271 chain labour‑intensive; M270 straightforward)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "20 (Parts widely available; common across many Mercedes models)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "8 (Recon cost ~£2,000 against lowest host value ~£3,000 = 67% (60–74% band → 8))"
+        },
+        {
+          "dimension": "Total",
+          "score": "74/100 (Sum of five rows)"
+        }
+      ]
+    },
+    "oneLineVerdict": "\"The M270/M271 are fine daily‑driver petrol turbos — but the M271's timing chain can fail catastrophically without warning — avoid any M271 without recent chain work.\"",
+    "bestFor": "Buyers seeking affordable Mercedes petrol power with good parts support and simple maintenance.",
+    "avoidIf": "Considering a high‑mileage M271 without documented timing‑chain history."
+  },
+  "compatibility": {
+    "columns": [
+      "Model",
+      "Generation",
+      "Variant/Badge",
+      "Years"
+    ],
+    "rows": [
+      {
+        "model": "C-Class",
+        "generation": "W203",
+        "variantBadge": "C180 Kompressor / C200 Kompressor",
+        "years": "2002–2007"
+      },
+      {
+        "model": "C-Class",
+        "generation": "W204",
+        "variantBadge": "C180 CGI / C200 CGI (M271) / C250 (M270)",
+        "years": "2007–2014"
+      },
+      {
+        "model": "E-Class",
+        "generation": "W211",
+        "variantBadge": "E200 Kompressor / E200 CGI",
+        "years": "2002–2009"
+      },
+      {
+        "model": "CLK",
+        "generation": "C209",
+        "variantBadge": "CLK200 Kompressor",
+        "years": "2003–2009"
+      },
+      {
+        "model": "SLK",
+        "generation": "R171",
+        "variantBadge": "SLK200 Kompressor",
+        "years": "2004–2011"
+      },
+      {
+        "model": "A-Class / B-Class",
+        "generation": "W176 / W246",
+        "variantBadge": "A200 / B200 (M270)",
+        "years": "2012–present"
+      }
+    ],
+    "crossBrandNote": "(Omitted — exclusive to Mercedes-Benz.)"
+  },
+  "costGuide": {
+    "columns": [
+      "Condition",
+      "Supply Only",
+      "Fitted (Indie)",
+      "Warranty"
+    ],
+    "rows": [
+      {
+        "condition": "Used",
+        "supplyOnly": "£800–£1,500",
+        "fittedIndie": "£1,500–£2,500",
+        "warranty": "3–6 months"
+      },
+      {
+        "condition": "Reconditioned",
+        "supplyOnly": "£1,500–£2,500",
+        "fittedIndie": "£2,200–£3,500",
+        "warranty": "12 months"
+      },
+      {
+        "condition": "Rebuilt",
+        "supplyOnly": "£2,500–£4,000",
+        "fittedIndie": "£3,200–£5,000",
+        "warranty": "12–24 months"
+      }
+    ],
+    "labourEstimate": "Fitting an M270/M271 typically takes 8–12 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [ESTIMATED].",
+    "sharedCostNote": "(Omitted — exclusive to Mercedes-Benz.)",
+    "cta": {
+      "label": "→ Compare M270/M271 engine prices from UK specialists",
+      "href": "#"
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "id": 1,
+        "question": "Cost — \"How much does an M270/M271 engine replacement cost?\"",
+        "answer": "A reconditioned M270/M271 typically costs £1,500–£2,500 supply only [ESTIMATED], varying by variant (M271 1.8L vs M270 2.0L) and specification. Fitting adds £600–£1,200 depending on labour rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Reliability — \"Is the M270/M271 a reliable engine?\"",
+        "answer": "The M270 is generally reliable with proper maintenance, while the M271 has a well‑documented timing‑chain tensioner weakness that can cause catastrophic failure if ignored. Both respond well to regular oil changes and timely chain inspection."
+      },
+      {
+        "id": 3,
+        "question": "Common failure — \"What is the most common M270/M271 failure?\"",
+        "answer": "For the M271, timing‑chain stretch and tensioner failure are the most critical issues — often presenting as a rattle on cold start, typically between 60,000–100,000 miles. The M270 is much less prone to this but can suffer from camshaft adjuster wear on higher‑mileage examples."
+      },
+      {
+        "id": 4,
+        "question": "Fitment — \"Which Mercedes-Benz models use the M270/M271?\"",
+        "answer": "The M271 powers many early‑2000s C‑Class, E‑Class, CLK and SLK models with 'Kompressor' badges; the later M270 appears in W204 C‑Class, W176 A‑Class, and W246 B‑Class, from around 2011 onward."
+      },
+      {
+        "id": 5,
+        "question": "Longevity — \"How long does the M270/M271 last?\"",
+        "answer": "With regular servicing and preventative chain work on the M271, these engines can exceed 120,000 miles. M270 units are more durable and regularly reach 150,000+ miles when maintained correctly."
+      }
+    ]
+  },
+  "trustCta": {
+    "trustPoints": [
+      "Trusted Suppliers: Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M270/M271 owners, as part of the Engine Finders network.",
+      "Compare Companies: We compare genuine Mercedes-Benz M270/M271 specialist suppliers side‑by‑side — so you see real prices from real UK workshops, not generic estimates.",
+      "UK Coverage: From London to Glasgow, our network of vetted specialists covers the entire UK, with transparent pricing and no hidden fees."
+    ],
+    "finalCta": "Find the best Mercedes‑Benz M270/M271 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
+    "ctaButton": {
+      "label": "Compare Mercedes-Benz M270/M271 Engine Prices Now →",
+      "href": "#"
+    }
+  }
+}

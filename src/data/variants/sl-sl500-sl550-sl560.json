@@ -768,72 +768,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (12%) — premium roadster strongholds [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes SL500 / SL550 / SL560 engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned SL V8 engine typically costs £2,500–£6,500 supply only depending on engine generation (M117, M119, M113, M273 or M278). On average, a full engine replacement can run anywhere between £3,000 and £8,500 depending on the car model and engine type. Fitting adds £1,200–£2,000. Use our calculator for a figure specific to your vehicle.",
-        "value": "2. Is the Mercedes SL500 / SL550 / SL560 engine reliable?"
-      },
-      {
-        "label": "It depends on which generation your SL has. The M117 in the R107 is a legendary engine with near‑mythical durability — engines exceeding 250,000 miles are not unusual. The M119 in the early R129 is a masterpiece but has distributor and wiring vulnerabilities. The M113 in the late R129 and early R230 is robust but suffers from sludge and carbon build‑up. The M273 in the facelift R230 has a well‑documented timing chain idler sprocket weakness. The M278 in the R231 is a sophisticated twin‑turbo V8 with oil leak and turbo concerns. Regular oil changes (every 8,000‑10,000 miles) are essential for all these engines.",
-        "value": "3. What are the common problems with the Mercedes SL500 / SL550 / SL560?"
-      },
-      {
-        "label": "On the R107 (M117), the most common issue is timing chain guide wear. On the R129 early (M119), distributor caps and wiring harnesses are the main weaknesses. On the R129 late and R230 early (M113), sludge and carbon build‑up from short trips are the main concerns. On the R230 facelift (M273), the defining weakness is timing chain idler sprocket failure. On the R231 (M278), oil leaks and turbocharger issues are the primary concerns.",
-        "value": "4. Is it worth replacing an SL V8 engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and condition. Against a tidy £5,000–£20,000 SL, a £2,500–£6,500 recon is 15‑60% of the car's value — often worth it on well‑maintained examples. If the M273 timing chain idler has failed or the engine has suffered catastrophic failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing. The SL is a modern classic, so well‑preserved examples may justify the investment.",
-        "value": "5. How do I find my SL's engine code?"
-      },
-      {
-        "label": "The R107 560SL uses the M117.968. The R129 (1990‑1998) SL500 uses the M119.972. The R129 (1998‑2001) and R230 (2001‑2006) SL500 use the M113.963. The R230 facelift (2006‑2011) SL500/SL550 uses the M273.965. The R231 (2012‑2020) SL550 uses the M278.928. The engine code is stamped on the engine block and listed on your V5C. For the M273, check the engine serial number — later engines (above approximately 80,000) are generally safe from the idler sprocket issue.",
-        "value": "6. Can I repair an SL V8 engine issue, or does it need replacement?"
-      },
-      {
-        "label": "Most issues — M117 timing chain guides (if caught early), M119 distributor/wiring issues, M113 sludge, M273 oil leaks and timing chain idler wear (if caught early), M278 oil leaks — are repairable. However, if the M273 idler sprocket has failed or the timing chain has snapped on any engine, a full engine replacement is usually more cost‑effective than a rebuild.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), meta tags, Open Graph, Twitter Card, and complete JSON‑LD schema.",
-        "value": "* Brand: Mercedes‑Benz"
-      },
-      {
-        "label": "* Domain: mercedesengine.uk",
-        "value": "* Data tag: MB‑"
-      },
-      {
-        "label": "* Specialist count: 25+",
-        "value": "* Scrap threshold: 70%"
-      },
-      {
-        "label": "* CTA Mode: Consultative (Priority M)",
-        "value": "* Era Map rows: 8 (M117.968, M119.972, M113.963, M273.965, M278.928)"
-      },
-      {
-        "label": "* Engine codes: M117.968, M119.972, M113.963, M273.965, M278.928",
-        "value": "* Service schema price range: £1,500 (lowest used) to £6,500 (highest rebuilt) — spans full Era Map history"
-      },
-      {
-        "label": "* Model Page needed: Mercedes SL‑Class Generation Pages (R107, R129, R230, R231)",
-        "value": "* Generation Pages needed: Mercedes SL‑Class Generation Pages (for cost inheritance)"
-      },
-      {
-        "label": "Section 9 (Trust + Final CTA), meta tags, Open Graph, Twitter Card, and the comprehensive JSON-LD schema. They're following the established pattern of a two-prompt production system outlined in the original \"IBS Variant Prompt.docx\" file.",
-        "value": "My response needs to mirror the structure of the last \"Part 2\" I generated for the G63. I need to create Section 9 with three trust points, a final CTA, and the correct button text. I need the meta title and description, Open Graph tags, and the Twitter Card. Most importantly, I need to build the JSON-LD schema with the correct blocks: BreadcrumbList, two ItemList instances (one for the Era Map, one for the engine codes), FAQPage, Organization, Service, Dataset, and WebPage. The price range in the Service schema must span the full era map history, from the lowest used price to the highest rebuilt price for the M278. I also need to include the Production Note with all the required checks and confirmations, and list the live verification sources used."
-      },
-      {
-        "label": "The challenge is to ensure all the details match the data provided in Part 1. The Era Map has 8 rows across 5 engine codes (M117.968, M119.972, M113.963, M273.965, M278.928), so both ItemLists need to reflect that. The Service schema's lowPrice should be the lowest from the used engine costs in Section 2 (£1,500 for the M117/M113 era), and the highPrice should be the highest from the rebuilt costs for the M278 (£6,500). I also need to maintain the brand voice—for Mercedes, it should be \"Refinement & reassurance,\" so the trust points and final CTA should sound polished, confident, and reassuring, emphasizing the iconic nature of the SL.",
-        "value": "Mercedes SL500 / SL550 / SL560 — VARIANT PAGE, PART 2"
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes SL500 / SL550 / SL560 engine replacement cost in the UK?",
+        "answer": "A reconditioned SL V8 engine typically costs £2,500–£6,500 supply only depending on engine generation (M117, M119, M113, M273 or M278). On average, a full engine replacement can run anywhere between £3,000 and £8,500 depending on the car model and engine type. Fitting adds £1,200–£2,000. Use our calculator for a figure specific to your vehicle."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes SL500 / SL550 / SL560 engine reliable?",
+        "answer": "It depends on which generation your SL has. The M117 in the R107 is a legendary engine with near‑mythical durability — engines exceeding 250,000 miles are not unusual. The M119 in the early R129 is a masterpiece but has distributor and wiring vulnerabilities. The M113 in the late R129 and early R230 is robust but suffers from sludge and carbon build‑up. The M273 in the facelift R230 has a well‑documented timing chain idler sprocket weakness. The M278 in the R231 is a sophisticated twin‑turbo V8 with oil leak and turbo concerns. Regular oil changes (every 8,000‑10,000 miles) are essential for all these engines."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes SL500 / SL550 / SL560?",
+        "answer": "On the R107 (M117), the most common issue is timing chain guide wear. On the R129 early (M119), distributor caps and wiring harnesses are the main weaknesses. On the R129 late and R230 early (M113), sludge and carbon build‑up from short trips are the main concerns. On the R230 facelift (M273), the defining weakness is timing chain idler sprocket failure. On the R231 (M278), oil leaks and turbocharger issues are the primary concerns."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing an SL V8 engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and condition. Against a tidy £5,000–£20,000 SL, a £2,500–£6,500 recon is 15‑60% of the car's value — often worth it on well‑maintained examples. If the M273 timing chain idler has failed or the engine has suffered catastrophic failure, a full engine replacement may be necessary. Get a full diagnostic assessment before committing. The SL is a modern classic, so well‑preserved examples may justify the investment."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my SL's engine code?",
+        "answer": "The R107 560SL uses the M117.968. The R129 (1990‑1998) SL500 uses the M119.972. The R129 (1998‑2001) and R230 (2001‑2006) SL500 use the M113.963. The R230 facelift (2006‑2011) SL500/SL550 uses the M273.965. The R231 (2012‑2020) SL550 uses the M278.928. The engine code is stamped on the engine block and listed on your V5C. For the M273, check the engine serial number — later engines (above approximately 80,000) are generally safe from the idler sprocket issue."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair an SL V8 engine issue, or does it need replacement?",
+        "answer": "Most issues — M117 timing chain guides (if caught early), M119 distributor/wiring issues, M113 sludge, M273 oil leaks and timing chain idler wear (if caught early), M278 oil leaks — are repairable. However, if the M273 idler sprocket has failed or the timing chain has snapped on any engine, a full engine replacement is usually more cost‑effective than a rebuild."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes SL V8 Owners Trust MercedesEngine.uk",

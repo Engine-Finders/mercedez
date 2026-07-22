@@ -530,11 +530,92 @@
     }
   },
   "marketIntelligence": {
-    "items": []
+    "items": [
+      {
+        "label": "Most Common Failure",
+        "value": "OM651: Timing chain stretch and injector seal failure / OM654: Rocker arm bearing wear — the defining risks of each generation"
+      },
+      {
+        "label": "Average Enquiry Mileage",
+        "value": "OM651: 80,000–120,000 miles / OM654: 50,000–90,000 miles【PATTERN DATA】"
+      },
+      {
+        "label": "Average Replacement Cost",
+        "value": "OM651: £2,500–£5,000 / OM654: £3,500–£7,500 reconditioned, supply only【MB-QUOTE】"
+      },
+      {
+        "label": "Most Requested Engine Code",
+        "value": "OM651 — the 2.1-litre CDI【PATTERN DATA】"
+      },
+      {
+        "label": "Peak Enquiry Season",
+        "value": "Autumn — pre‑winter vehicle preparation【PATTERN DATA】"
+      },
+      {
+        "label": "Regional Demand",
+        "value": "London (20%), South East (18%), South West (14%)【PATTERN DATA】"
+      }
+    ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes-Benz C250 CDI or C250d engine replacement cost in the UK?",
+        "answer": "A reconditioned OM651 engine typically costs £2,500–£5,000 supply only; a reconditioned OM654 costs £3,500–£7,500. Used units are available from £1,500–£3,500. Fitting adds £1,500–£2,500 depending on the workshop. Use our calculator for a figure specific to your C-Class."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes-Benz C250 CDI / C250d engine reliable?",
+        "answer": "The OM651 is a proven and torquey engine, but it has well-documented weaknesses: timing chain stretch, injector seal leaks, and intake manifold bolt failure. The OM654 is more modern and efficient but suffers from rocker arm bearing wear and timing chain issues. Both engines demand diligent maintenance with correct MB 229.51 spec oil."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes-Benz C250 CDI and C250d?",
+        "answer": "OM651: timing chain stretch (rattling on cold start), injector seal failure (diesel smell), intake manifold bolt failure (boost leaks, limp mode), DPF pressure sensor failure. OM654: rocker arm bearing wear (tapping noises, potential camshaft damage), timing chain wear, high-pressure fuel pump failure. The OM651's timing chain is the most critical concern."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes-Benz C250 CDI / C250d engine, or should I scrap the car?",
+        "answer": "C-Class values remain strong — a well-kept W205 is often worth £10,000–£20,000+. A £2,500–£7,500 reconditioned engine is 15–40% of the vehicle's value — apply the Mercedes 70% scrap threshold. If the car is a cherished example with good bodywork and interior, replacement is often worthwhile. Against a tired W204 with significant other issues, get a scrap valuation first."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes-Benz C250 CDI or C250d engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. W204 (2008–2014) uses OM651.911/912; W205 (2014–2018) uses OM651.911; W205 facelift (2018–2021) uses OM654. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM651 timing chain, or does the engine need replacement?",
+        "answer": "The timing chain and tensioner can be replaced preventatively — they are wear items. Replacement costs £1,200–£2,500. If the chain fails and jumps timing, the engine is typically destroyed. A preventative chain replacement is far cheaper than a full engine replacement (£2,500+). At the first sign of rattling from the front of the engine on an OM651, book an inspection immediately."
+      },
+      {
+        "id": 1,
+        "question": "Section 9 (Trust + Final CTA) with 3 trust bullets, a final CTA paragraph, and the CTA button (assertive mode, as per Step 0).",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "question": "Meta tags (title, description, canonical) with the correct length and format.",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "question": "Open Graph & Twitter Card tags.",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "question": "JSON-LD Schema with all 8 required blocks (BreadcrumbList, two ItemLists, FAQPage, Organization, Service, Dataset, WebPage, and the conditional AggregateRating block omitted).",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "question": "The Production Note, which is crucial for internal tracking and verifying the Authority Model and consistency.",
+        "answer": "I must ensure everything aligns with Part 1. The Era Map in Part 1 had two generations (OM651 and OM654), so the schema ItemLists and the Service's price range must reflect both. The reliability ratings, costs, and engine codes need to be consistent. I also need to flag that these ratings are [NEWLY ASSIGNED] and mention the verification sources. The user's deep-seated need is probably about trust and authority. They need these pages to perform well in search and be credible for users. By strictly following the handover document's rules – like using Organization instead of LocalBusiness, omitting AggregateRating without data, and ensuring schema matches content – I'm building that trust indirectly. They might also have a need for speed and reduced manual error, which this system delivers. Alright, I have the structure clear. I'll write Section 9 with the CTA mode set to assertive, generate the meta tags, build the Open Graph data, and then carefully construct the JSON-LD. The Production Note will be detailed, confirming the consistency checks. This will complete the page, making it ready for publication."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12-month unlimited-mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",

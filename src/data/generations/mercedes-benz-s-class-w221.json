@@ -1,11 +1,284 @@
 {
   "meta": {
-    "slug": "mercedes-benz-s-class-w221",
-    "title": "Mercedes‑Benz S‑Class W221 Engines — The Complete UK Guide",
-    "titleCharCount": 58,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-s-class-w221",
+    "title": "W221 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes‑Benz S‑Class W221 engine — M272, M273, M278, M156, M157, M275, OM642, OM629, OM651. Real UK costs, V8 and V12 ownership realities, and honest advice. Get free quotes from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 158,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S‑Class",
+              "item": "https://mercedesengine.uk/s-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes‑Benz S‑Class W221",
+              "item": "https://mercedesengine.uk/s-class/w221/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz S‑Class W221 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M272.948 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M272.965 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M272.974 Engine",
+              "url": "https://mercedesengine.uk/engines/m272/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M276.950 Engine",
+              "url": "https://mercedesengine.uk/engines/m276/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M273.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m273/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M273.961 Engine",
+              "url": "https://mercedesengine.uk/engines/m273/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M278.932 Engine",
+              "url": "https://mercedesengine.uk/engines/m278/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "M157.980 Engine",
+              "url": "https://mercedesengine.uk/engines/m157/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "M156.984 Engine",
+              "url": "https://mercedesengine.uk/engines/m156/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "M275.953 Engine",
+              "url": "https://mercedesengine.uk/engines/m275/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "M275.982 Engine",
+              "url": "https://mercedesengine.uk/engines/m275/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "OM642.930 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "OM642.862 Engine",
+              "url": "https://mercedesengine.uk/engines/om642/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "OM629.911 Engine",
+              "url": "https://mercedesengine.uk/engines/om629/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "OM651.961 Engine",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes‑Benz S‑Class W221 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "S 350 BlueTEC",
+              "url": "https://mercedesengine.uk/s-class/s350bluetec-w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S 500",
+              "url": "https://mercedesengine.uk/s-class/s500-w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "S 65 AMG",
+              "url": "https://mercedesengine.uk/s-class/s65amg-w221/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes‑Benz S‑Class W221 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned W221 engine typically costs £2,000–£18,000 supply only, depending on engine — the volume OM642 diesel sits at £3,200–£5,500, while the V12 M275 in the S 65 AMG commands £12,000–£18,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz S‑Class W221 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 3.0‑litre V6 diesel is the most proven — it powered the W221 across its production run and has a documented reputation for longevity with oil cooler seals as the main watchpoint. Among petrols, the M278 4.7‑litre twin‑turbo V8 (facelift S 500) is the most reliable, avoiding the M272's balance shaft issues."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes‑Benz S‑Class W221?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Balance shaft sprocket wear on the M272 V6 (pre‑facelift S 350), oil cooler seal failure on the OM642 diesel, head bolt and camshaft adjuster issues on the M156 V8 (pre‑facelift S 63 AMG), coil pack and ignition module failures on the M275 V12, and — unrelated to the engine — AIRMATIC suspension wear on high‑mileage examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes‑Benz S‑Class W221 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends heavily on which engine and which side of the 2009 facelift your car sits on. The OM642 diesel and M278 V8 petrol are the most reliable choices. The pre‑facelift M272 V6 has the most well‑documented issue (balance shaft sprocket wear). The M156 and M275 AMG/V12 engines are powerful but demand maintenance budgets to match their performance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes‑Benz S‑Class W221 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pre‑facelift M272 V6 (S 350, 2005–2010) is the one we consistently advise buyers to inspect carefully — balance shaft sprocket wear is a design‑level issue that can appear at almost any mileage and costs £2,500–£5,000 to fix. Also be cautious with high‑mileage M156 V8s (S 63 AMG) without documented head bolt work."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my Mercedes‑Benz S‑Class W221 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check engine light with camshaft position codes (M272 balance shaft), oil consumption or coolant contamination (OM642 oil cooler seals), cold‑start rattle (M156 camshaft adjusters), or major mechanical knock (any engine) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes‑Benz S‑Class W221 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the engine and the car's value. A £3,200–£5,500 OM642 recon against a £6,000–£15,000 W221 is 21–92% — on a high‑mileage £6,000 example, that brushes the 70% Mercedes‑Benz threshold. A £12,000–£18,000 M275 V12 recon against a £10,000 example is 120–180% — on a high‑mileage V12, seriously question economic viability. Body condition and overall history are the deciding factors."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes‑Benz S‑Class W221 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM642 diesel can exceed 200,000 miles with proper servicing, though oil cooler seals are a recurring maintenance item. The M278 V8 petrol is similarly durable. The M272 V6 is more variable — balance shaft issues can appear at almost any mileage. The M156 and M275 AMG/V12 engines are more delicate, with 100,000+ miles considered high for these performance engines."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the pre‑facelift and facelift W221?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pre‑facelift W221 (2005–2009) used M272/M273 naturally‑aspirated V6/V8 engines, the M275 V12, and the M156 V8 in the S 63 AMG. The facelift (2009–2013) introduced the M278 twin‑turbo V8 replacing the M273, the M157 twin‑turbo V8 replacing the M156, the S 400 Hybrid, and the OM642 BlueTEC diesel. The facelift also brought updated styling and technology."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes‑Benz S‑Class W221 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (S 350, S 500, S 63 AMG, S 600, etc.) and approximate registration date (pre‑ or post‑2009) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes‑Benz S‑Class W221 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1200",
+            "highPrice": "22000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "W221 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/s-class/w221/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -598,16 +871,80 @@
     "liveFeed": []
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz S‑Class W221 engine replacement cost in the UK?",
+        "answer": "A reconditioned W221 engine typically costs £2,000–£18,000 supply only [MB‑QUOTE], depending on engine — the volume OM642 diesel sits at £3,200–£5,500, while the V12 M275 in the S 65 AMG commands £12,000–£18,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes‑Benz S‑Class W221 engine is the most reliable?",
+        "answer": "The OM642 3.0‑litre V6 diesel is the most proven — it powered the W221 across its production run and has a documented reputation for longevity with oil cooler seals as the main watchpoint. Among petrols, the M278 4.7‑litre twin‑turbo V8 (facelift S 500) is the most reliable, avoiding the M272's balance shaft issues."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz S‑Class W221?",
+        "answer": "Balance shaft sprocket wear on the M272 V6 (pre‑facelift S 350), oil cooler seal failure on the OM642 diesel, head bolt and camshaft adjuster issues on the M156 V8 (pre‑facelift S 63 AMG), coil pack and ignition module failures on the M275 V12, and — unrelated to the engine — AIRMATIC suspension wear on high‑mileage examples."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes‑Benz S‑Class W221 reliable?",
+        "answer": "It depends heavily on which engine and which side of the 2009 facelift your car sits on. The OM642 diesel and M278 V8 petrol are the most reliable choices. The pre‑facelift M272 V6 has the most well‑documented issue (balance shaft sprocket wear). The M156 and M275 AMG/V12 engines are powerful but demand maintenance budgets to match their performance."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes‑Benz S‑Class W221 engine should I avoid?",
+        "answer": "The pre‑facelift M272 V6 (S 350, 2005–2010) is the one we consistently advise buyers to inspect carefully — balance shaft sprocket wear is a design‑level issue that can appear at almost any mileage and costs £2,500–£5,000 to fix. Also be cautious with high‑mileage M156 V8s (S 63 AMG) without documented head bolt work."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my Mercedes‑Benz S‑Class W221 engine needs replacing?",
+        "answer": "Check engine light with camshaft position codes (M272 balance shaft), oil consumption or coolant contamination (OM642 oil cooler seals), cold‑start rattle (M156 camshaft adjusters), or major mechanical knock (any engine) are the key warning signs. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes‑Benz S‑Class W221 engine, or should I scrap the car?",
+        "answer": "Depends on the engine and the car's value. A £3,200–£5,500 OM642 recon against a £6,000–£15,000 W221 is 21–92% — on a high‑mileage £6,000 example, that brushes the 70% Mercedes‑Benz threshold. A £12,000–£18,000 M275 V12 recon against a £10,000 example is 120–180% — on a high‑mileage V12, seriously question economic viability. Body condition and overall history are the deciding factors."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes‑Benz S‑Class W221 engines last?",
+        "answer": "The OM642 diesel can exceed 200,000 miles with proper servicing, though oil cooler seals are a recurring maintenance item. The M278 V8 petrol is similarly durable. The M272 V6 is more variable — balance shaft issues can appear at almost any mileage. The M156 and M275 AMG/V12 engines are more delicate, with 100,000+ miles considered high for these performance engines."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the pre‑facelift and facelift W221?",
+        "answer": "The pre‑facelift W221 (2005–2009) used M272/M273 naturally‑aspirated V6/V8 engines, the M275 V12, and the M156 V8 in the S 63 AMG. The facelift (2009–2013) introduced the M278 twin‑turbo V8 replacing the M273, the M157 twin‑turbo V8 replacing the M156, the S 400 Hybrid, and the OM642 BlueTEC diesel. The facelift also brought updated styling and technology."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes‑Benz S‑Class W221 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation; block stamping is visible from below on most engines. Tell us your variant (S 350, S 500, S 63 AMG, S 600, etc.) and approximate registration date (pre‑ or post‑2009) and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes‑Benz S‑Class W221 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted W221 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real W221 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare W221 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply‑and‑fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for W221",
+        "text": "covering every variant from S 250 CDI to S 65 AMG, with supply‑only or full supply‑and‑fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes‑Benz S‑Class W221 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes‑Benz S‑Class W221 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

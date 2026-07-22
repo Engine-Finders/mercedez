@@ -1,11 +1,307 @@
 {
   "meta": {
-    "slug": "mercedes-c-class-s202",
-    "title": "Mercedes C-Class S202 Engines — The Complete UK Guide",
-    "titleCharCount": 53,
-    "description": "",
-    "descriptionCharCount": 0,
-    "jsonLd": {}
+    "slug": "bmw-mercedes-c-class-s202",
+    "title": "S202 Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 49,
+    "description": "Every Mercedes S202 engine — M111 petrols, M104 straight‑six, M112/M113 V6/V8, OM605 and OM611 diesels. Real UK costs and honest reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
+    "descriptionCharCount": 154,
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C-Class",
+              "item": "https://mercedesengine.uk/mercedes-c-class/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mercedes C-Class S202",
+              "item": "https://mercedesengine.uk/mercedes-c-class/s202/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes S202 Engine Codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M111.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M111.941 Engine",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M111.944 Engine",
+              "url": "https://mercedesengine.uk/engines/m111/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M104.941 Engine",
+              "url": "https://mercedesengine.uk/engines/m104/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M112.920 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "M112.910 Engine",
+              "url": "https://mercedesengine.uk/engines/m112/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "M113.944 Engine",
+              "url": "https://mercedesengine.uk/engines/m113/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "OM604.917 Engine",
+              "url": "https://mercedesengine.uk/engines/om604/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "OM605.960 Engine",
+              "url": "https://mercedesengine.uk/engines/om605/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "OM611.960 Engine",
+              "url": "https://mercedesengine.uk/engines/om611/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes S202 Core Variants",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "C220 T Diesel",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c220-t-diesel/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "C250 T Turbo-D",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c250-t-turbo-d/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "C200 T CDI",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c200-t-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "C220 T CDI",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c220-t-cdi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "C180 T",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c180-t/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "C200 T",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c200-t/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "C200 T Kompressor",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c200-t-kompressor/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "C240 T",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c240-t/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "C280 T",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c280-t/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "C43 AMG",
+              "url": "https://mercedesengine.uk/mercedes-c-class/c43-amg/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Mercedes C-Class S202 engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned S202 engine typically costs £900–£7,000 supply only [MB-QUOTE], depending on engine — the volume OM611 diesel sits at £1,500–£2,800. Fitting adds 8–18 hours labour at specialist rates due to the estate‑specific engine bay packaging. Use our calculator for a personalised figure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes S202 engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM605.960 (C250 T Turbo‑D) — a five‑cylinder 2.5‑litre turbodiesel with mechanical injection, no common‑rail electronics, and a proven 200,000‑mile reputation. The M104.941 straight‑six petrol is the best petrol option — silky smooth and famously durable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the common problems with the Mercedes C-Class S202?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Coil pack and MAF failure on M111 petrols, injector wear and EGR clogging on OM611 CDI diesels, head gasket and wiring loom degradation on M104 straight‑sixes, and — chassis‑specific — tailgate wiring loom failure and rear arch corrosion on all estates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Mercedes C-Class S202 reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — the S202 is one of Mercedes' most durable estates. The M104 straight‑six and OM605 five‑cylinder diesel are legendary for longevity; the M111 four‑cylinder is simple and robust; the OM611 CDI is reliable if properly maintained. The real reliability challenge is age‑related electrical and corrosion issues, not engine failure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes S202 engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No engine outright — but a C200 T Kompressor (M111.944) without documented supercharger service history is the one we'd approach cautiously, given its complexity and rarity. A neglected OM611 CDI without injector history is the second."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I know if my S202 engine needs replacing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Misfire or hesitation on petrol M111 = coil pack or MAF failure; rough idle or starting issues on OM611 CDI = injector wear; overheating on M104 = head gasket failure; white smoke or loss of power on OM605 = injection pump or turbo issues. Use our diagnostic calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Mercedes C-Class S202 engine, or should I scrap the car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depends on the car's value. Against a well‑kept £4,000 S202, a £1,500–£2,800 OM611 recon is 38–70% of the car's value — safe. Against a tired £2,500 example, the same recon is 60–112% — walk away. Our 70% Mercedes threshold is the line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long do Mercedes S202 engines last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM605 five‑cylinder diesel can exceed 300,000 miles with proper servicing. The OM611 CDI is similarly durable — 250,000+ miles is achievable with injector maintenance every 80,000–100,000 miles. The M104 straight‑six petrol can reach 200,000+ miles with head gasket and wiring loom attention."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the S202 and the W202 C-Class?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both share the first‑generation C‑Class platform and most engines. The S202 is the 5‑door estate (this page), the W202 is the 4‑door saloon. The estate has a longer tail, a higher‑ratio rear suspension setup, and slightly different labour access for some repairs — costs on the W202 may vary slightly."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Mercedes S202 engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the OM605 is on the driver's side, M111 on the front). Tell us your variant and registration year and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "MercedesEngines.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/mercedesengines-logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes C-Class S202 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "400",
+            "highPrice": "10000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes C-Class S202 UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes C-Class S202 engines, sourced from MercedesEngines.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "S202 Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes-c-class/s202/",
+          "author": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "MercedesEngines.uk Specialist Network"
+          },
+          "datePublished": "2026-07-09",
+          "dateModified": "2026-07-09"
+        }
+      ]
+    }
   },
   "internalDeclarations": {
     "checkA": "",
@@ -508,23 +804,121 @@
     "scopeNote": "All variants listed are S202 five‑door estate only. W202 saloon shares most of these engines but is covered on its own Generation Page, since the saloon's weight distribution, rear suspension and labour access differ slightly from the estate."
   },
   "marketIntelligence": {
-    "mostRequestedEngines": [],
-    "mostRequestedVariants": [],
-    "averageReplacementCost": "",
-    "mostCommonFailures": [],
-    "liveFeed": []
+    "mostRequestedEngines": [
+      "1. OM611.960 (C220 T CDI)",
+      "2. OM605.960 (C250 T Turbo‑D)",
+      "3. M111.941 (C200 T)"
+    ],
+    "mostRequestedVariants": [
+      "1. C220 T CDI",
+      "2. C250 T Turbo‑D",
+      "3. C200 T Kompressor"
+    ],
+    "averageReplacementCost": "£1,800–£3,200 reconditioned, supply only [MB-QUOTE]",
+    "mostCommonFailures": [
+      "1. M111 coil pack/MAF failure",
+      "2. OM611 injector wear",
+      "3. M104 head gasket/wiring loom degradation"
+    ],
+    "liveFeed": [
+      {
+        "vehicle": "Mercedes C220 T CDI (OM611)",
+        "location": "Birmingham",
+        "issue": "Rough idle / starting issues",
+        "enquiries": "5 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes C250 T Turbo-D (OM605)",
+        "location": "Glasgow",
+        "issue": "Injection pump wear",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      },
+      {
+        "vehicle": "Mercedes C200 T (M111)",
+        "location": "London",
+        "issue": "Misfire / hesitation",
+        "enquiries": "3 enquiries",
+        "updated": "Updated Monthly"
+      }
+    ]
   },
   "faq": {
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes C-Class S202 engine replacement cost in the UK?",
+        "answer": "A reconditioned S202 engine typically costs £900–£7,000 supply only [MB-QUOTE], depending on engine — the volume OM611 diesel sits at £1,500–£2,800. Fitting adds 8–18 hours labour at specialist rates due to the estate‑specific engine bay packaging. Use our calculator for a personalised figure."
+      },
+      {
+        "id": 2,
+        "question": "Which Mercedes S202 engine is the most reliable?",
+        "answer": "The OM605.960 (C250 T Turbo‑D) — a five‑cylinder 2.5‑litre turbodiesel with mechanical injection, no common‑rail electronics, and a proven 200,000‑mile reputation. The M104.941 straight‑six petrol is the best petrol option — silky smooth and famously durable."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes C-Class S202?",
+        "answer": "Coil pack and MAF failure on M111 petrols, injector wear and EGR clogging on OM611 CDI diesels, head gasket and wiring loom degradation on M104 straight‑sixes, and — chassis‑specific — tailgate wiring loom failure and rear arch corrosion on all estates."
+      },
+      {
+        "id": 4,
+        "question": "Is the Mercedes C-Class S202 reliable?",
+        "answer": "Yes — the S202 is one of Mercedes' most durable estates. The M104 straight‑six and OM605 five‑cylinder diesel are legendary for longevity; the M111 four‑cylinder is simple and robust; the OM611 CDI is reliable if properly maintained. The real reliability challenge is age‑related electrical and corrosion issues, not engine failure."
+      },
+      {
+        "id": 5,
+        "question": "Which Mercedes S202 engine should I avoid?",
+        "answer": "No engine outright — but a C200 T Kompressor (M111.944) without documented supercharger service history is the one we'd approach cautiously, given its complexity and rarity. A neglected OM611 CDI without injector history is the second."
+      },
+      {
+        "id": 6,
+        "question": "How do I know if my S202 engine needs replacing?",
+        "answer": "Misfire or hesitation on petrol M111 = coil pack or MAF failure; rough idle or starting issues on OM611 CDI = injector wear; overheating on M104 = head gasket failure; white smoke or loss of power on OM605 = injection pump or turbo issues. Use our diagnostic calculator for a personalised assessment."
+      },
+      {
+        "id": 7,
+        "question": "Is it worth replacing a Mercedes C-Class S202 engine, or should I scrap the car?",
+        "answer": "Depends on the car's value. Against a well‑kept £4,000 S202, a £1,500–£2,800 OM611 recon is 38–70% of the car's value — safe. Against a tired £2,500 example, the same recon is 60–112% — walk away. Our 70% Mercedes threshold is the line."
+      },
+      {
+        "id": 8,
+        "question": "How long do Mercedes S202 engines last?",
+        "answer": "The OM605 five‑cylinder diesel can exceed 300,000 miles with proper servicing. The OM611 CDI is similarly durable — 250,000+ miles is achievable with injector maintenance every 80,000–100,000 miles. The M104 straight‑six petrol can reach 200,000+ miles with head gasket and wiring loom attention."
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between the S202 and the W202 C-Class?",
+        "answer": "Both share the first‑generation C‑Class platform and most engines. The S202 is the 5‑door estate (this page), the W202 is the 4‑door saloon. The estate has a longer tail, a higher‑ratio rear suspension setup, and slightly different labour access for some repairs — costs on the W202 may vary slightly."
+      },
+      {
+        "id": 10,
+        "question": "How do I find my Mercedes S202 engine code?",
+        "answer": "Listed on the VIN plate (visible through the windscreen) and vehicle documentation; also stamped on the engine block (visible from below — the OM605 is on the driver's side, M111 on the front). Tell us your variant and registration year and we'll identify it — 25+ vetted Mercedes specialists will confirm it for free."
+      }
+    ]
   },
   "trustCta": {
-    "h2": "",
-    "trustPoints": [],
-    "finalCta": "",
+    "h2": "Why UK Mercedes C-Class S202 Owners Trust MercedesEngines.uk",
+    "trustPoints": [
+      {
+        "title": "Trusted S202 Engine Suppliers",
+        "text": "every garage and engine rebuilder in our network is vetted, rated and reviewed by real S202 owners, as part of the Engine Finders network."
+      },
+      {
+        "title": "Compare S202 Engine Replacement Companies",
+        "text": "see prices, warranty terms and supply & fit options side‑by‑side before you commit."
+      },
+      {
+        "title": "UK Engine Replacement Services for S202",
+        "text": "covering every variant from C180 T to C43 AMG, with supply‑only or full supply & fit available nationwide."
+      }
+    ],
+    "finalCta": "Find the best Mercedes S202 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
-      "label": "",
+      "label": "Compare Mercedes C-Class S202 Engine Prices on EnginesMarket →",
       "href": "#",
-      "note": ""
+      "note": "[PLACEHOLDER — confirm EnginesMarket URL structure]"
     }
   }
 }

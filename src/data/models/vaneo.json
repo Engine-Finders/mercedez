@@ -1,24 +1,209 @@
 {
   "meta": {
     "slug": "vaneo",
-    "title": "Vaneo Engines — The Complete UK Guide",
-    "titleCharCount": 37,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "Vaneo Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 51,
+    "description": "Every Vaneo engine — M166, OM668 and more. 1 generation, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "descriptionCharCount": 150,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Vaneo Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Vaneo engine — M166, OM668 and more. 1 generation, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/vaneo/",
+      "image": "https://mercedesengine.uk/images/models/mercedes-vaneo-hero.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "Vaneo Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every Vaneo engine — M166, OM668 and more. 1 generation, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vaneo",
+              "item": "https://mercedesengine.uk/vaneo/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Vaneo Generations",
+          "description": "Every generation of the Mercedes-Benz Vaneo",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W414 (2001–2005)",
+              "url": "https://mercedesengine.uk/vaneo/w414/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Vaneo Engine Codes",
+          "description": "Every engine code fitted to the Mercedes-Benz Vaneo",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "M166.961 1.6L Petrol (82 PS)",
+              "url": "https://mercedesengine.uk/engines/m166-961/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "M166.960 1.6L Petrol (102 PS)",
+              "url": "https://mercedesengine.uk/engines/m166-960/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M166.990 1.9L Petrol (125 PS)",
+              "url": "https://mercedesengine.uk/engines/m166-990/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "OM668.914 1.7L CDI Diesel",
+              "url": "https://mercedesengine.uk/engines/om668-914/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a Vaneo engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A used Vaneo engine costs £300–£1,200 depending on engine code; reconditioned units range from £800–£2,200 [PLACEHOLDER — confirm vs cost sheet]. Labour adds 6–10 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). For a precise quote on your specific Vaneo, use our diagnostic calculator."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vaneo engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M166 1.6 petrol (82 PS or 102 PS) is the most reliable Vaneo engine — simple, well-understood, and cheaper to repair than the diesel. The 1.9 petrol (125 PS) is also reliable but rarer. The OM668 1.7 CDI diesel carries a cold-start stalling risk and injector issues on higher-mileage examples — it's the one to avoid unless you're prepared for the bills."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vaneo engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM668 1.7 CDI diesel is the one to avoid — cold-start stalling is the defining complaint, and injector failure can cost £300–£800 per injector. The 1.7 CDI is also more expensive to repair than the petrol variants, and many specialists won't touch them because the repair cost often exceeds the car's value."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the Vaneo timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Vaneo's M166 and OM668 engines use timing chains, not belts — chain failure is rare on the M166, but the OM668's chain tensioner can wear on higher-mileage examples. Listen for rattling on start-up; if you hear it, get it inspected. Chain replacement: £600–£1,200 if needed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a Vaneo engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a Vaneo worth £1,200 with a £1,200 OM668 recon, that's 100% — scrap it. For a Vaneo worth £1,900 with a £1,000 M166 recon, that's 52% — borderline, assess carefully. Use our Ownership Decision Tool for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Vaneo generation/year should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The definitive answer: a 2003–2005 facelift Vaneo 1.6 petrol (102 PS) with full service history and suspension work already done. The facelift improved interior trim and introduced the more powerful 1.6 petrol — and the suspension issues are the real cost driver, not the engines. Avoid the 1.7 CDI unless you're prepared for cold-start stalling and injector bills."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my Vaneo engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The engine code is stamped on the engine block — typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common Vaneo codes: M166.961 (1.6, 82 PS), M166.960 (1.6, 102 PS), M166.990 (1.9, 125 PS), OM668.914 (1.7 CDI). If you're unsure, use our diagnostic calculator to identify it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Vaneo vs A-Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Vaneo and A-Class W168 share the same platform and engines — reliability is essentially identical, but the Vaneo is heavier and more practical, which puts more strain on the suspension and running gear. The A-Class is cheaper to repair (lighter, simpler suspension) and has a larger parts network. If you need the space, buy the Vaneo; if you don't, buy the A-Class."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Vaneo Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "300",
+            "highPrice": "2200"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Vaneo UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz Vaneo engines, sourced from mercedesengine.uk's specialist marketplace activity. Based on pattern data and specialist interviews for this niche model.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Vaneo Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/vaneo/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes • Vaneo • 2001–2005 • 1 Generation • M166 • OM668",

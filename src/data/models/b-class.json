@@ -1,24 +1,232 @@
 {
   "meta": {
     "slug": "b-class",
-    "title": "B-Class Engines — The Complete UK Guide",
-    "titleCharCount": 39,
-    "description": "",
-    "descriptionCharCount": 0,
+    "title": "B-Class Engine Replacement Cost UK — Compare Quotes",
+    "titleCharCount": 53,
+    "description": "Every B-Class engine — OM651, OM640, M270, M274. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
+    "descriptionCharCount": 157,
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
+      "title": "B-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every B-Class engine — OM651, OM640, M270, M274. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/mercedes/b-class/",
       "image": "",
-      "siteName": ""
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": ""
+      "card": "summary_large_image",
+      "title": "B-Class Engine Replacement Cost UK — Compare Quotes",
+      "description": "Every B-Class engine — OM651, OM640, M270, M274. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes."
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "B-Class",
+              "item": "https://mercedesengine.uk/mercedes/b-class/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "B-Class Generations",
+          "description": "All Mercedes-Benz B-Class generations covered on this page",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "W245 B-Class (2005–2011)",
+              "url": "https://mercedesengine.uk/mercedes/b-class/w245/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "W246 B-Class (2011–2018)",
+              "url": "https://mercedesengine.uk/mercedes/b-class/w246/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "B-Class Engine Codes",
+          "description": "All verified Mercedes-Benz B-Class engine codes",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "OM640 2.0 CDI",
+              "url": "https://mercedesengine.uk/engines/om640/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "OM651 2.1 CDI",
+              "url": "https://mercedesengine.uk/engines/om651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M266 1.5/2.0 petrol",
+              "url": "https://mercedesengine.uk/engines/m266/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "M270 1.6/2.0 turbo petrol",
+              "url": "https://mercedesengine.uk/engines/m270/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "M274 2.0 turbo petrol",
+              "url": "https://mercedesengine.uk/engines/m274/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does a B-Class engine replacement cost in the UK?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A B-Class engine replacement ranges from £2,800–£4,800 for a reconditioned unit (supply-only) [MB-QUOTE]. Labour adds 7–10 hours at £65–£95/hr independent, or £110–£160/hr at a London/SE dealer — so fitted cost is roughly £3,200–£5,800. Used engines start at £500–£1,200. The cheapest option is the W245 M266 petrol (£400–£900 used); the most expensive is the OM651 diesel recon (£2,800–£4,800). Use our calculator for a personalised quote based on your specific engine, generation and location."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which B-Class engine is the most reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM651 2.1 CDI diesel (W246 B-Class, 2011–2018) is the most reliable B-Class engine in our data — it accounts for 157 of 177 total B-Class enquiries, and the 'Black Death' injector-seal failure is a cheap, preventable fix if caught early [MB-VERIFIED]. The M270 1.6/2.0 turbo petrol is a close second; the OM640 in the W245 is the least dependable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which B-Class engine should I avoid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The OM640 2.0 CDI in the W245 (2005–2011) carries the highest risk — injector, EGR and DPF failures are all common, and the engine's EU4 emissions hardware is more sensitive than the OM651. More importantly, a £2,800–£4,800 recon cost frequently exceeds the £1,500–£5,000 vehicle value of a W245 B-Class [MB-QUOTE]. Avoid the W245 diesel unless it has a documented recent engine rebuild and you're paying sub-£2,000 for the car."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the B-Class timing chain problem real?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On the OM651 diesel, the timing chain is front-mounted (unlike the N47 BMW engine's rear-chain design), so chain wear is less frequent and less catastrophic. The main OM651 caveat is the injector-seal failure ('Black Death'), not the chain. On the M266 petrol (W245), chain tensioner wear can occur but is rare — and the chain is accessible, making inspection and replacement straightforward. If you hear a rattle on cold start from a W245 M266, have it inspected; it's unlikely to be terminal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it worth replacing a B-Class engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on generation. A W246 B-Class (2011–2018) is almost always worth fixing — £2,800–£4,800 recon against a £5,000–£14,000 vehicle value sits at 20–56% of value, well below our 70% threshold [MB-QUOTE]. A W245 B-Class (2005–2011) with a failed diesel engine is often not worth replacing — the recon cost can reach 56–96% of the car's value. Scrap it and buy a W246 instead. Use our calculator for a personalised assessment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which B-Class should I buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy a W246 B-Class from 2014 onwards with the OM651 diesel — the post-facelift electronics are better, the AdBlue system is software-manageable (not a mechanical liability), and the OM651 is the most reliable B-Class engine in our data [EM-INTERVIEW]. Avoid the W245 diesel; the W245 petrol can be a budget-friendly option if you're willing to accept 30–35 mpg and higher tax."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I find my B-Class engine code?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The easiest way is to check your VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is the first three characters of the engine number (e.g. 'OM651' for the 2.1-litre diesel). Alternatively, check your vehicle's registration document (V5C), which lists the engine number. If you're still unsure, use our identification tool — we'll match your VIN to the correct engine and show you the exact replacement cost."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "B-Class vs A-Class — which is more reliable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The B-Class (W246) and A-Class (W176/W177) share the same MFA platform and the same OM651 diesel engine — reliability is identical for the engine itself. The difference is economics: the A-Class is more common, has a wider market, and tends to hold value better; the B-Class is a more practical, family-friendly shape that's often cheaper to buy used. Buy on condition and generation, not badge. The W246 B-Class's ✅ Safe verdict is one of the strongest in the Mercedes range."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "[logo asset URL]",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          },
+          "sameAs": []
+        },
+        {
+          "@type": "Service",
+          "serviceType": "B-Class Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1800",
+            "highPrice": "4800"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz B-Class UK Engine Enquiry Data 2025",
+          "description": "Proprietary UK enquiry volumes and demand trends for Mercedes-Benz B-Class engines, sourced from mercedesengine.uk's specialist marketplace activity. 177+ real UK enquiries tracked across W245 and W246 generations.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "B-Class Engine Replacement Cost UK — Compare Quotes",
+          "url": "https://mercedesengine.uk/mercedes/b-class/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07",
+          "inLanguage": "en-GB",
+          "about": {
+            "@type": "Thing",
+            "name": "Mercedes-Benz B-Class engine replacement and reliability guide"
+          },
+          "mainEntity": {
+            "@type": "Service",
+            "name": "B-Class Engine Replacement",
+            "description": "Complete UK guide to Mercedes-Benz B-Class engine replacement, reliability, common failures and costs"
+          }
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • B-Class • 2005–present • 2 Generations • OM651 • OM640 • M270",
@@ -597,7 +805,48 @@
   },
   "faq": {
     "h2": "B-Class Frequently Asked Questions",
-    "items": []
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a B-Class engine replacement cost in the UK?",
+        "answer": "A B‑Class engine replacement ranges from £2,800–£4,800 for a reconditioned unit (supply‑only) [MB‑QUOTE]. Labour adds 7–10 hours at £65–£95/hr independent, or £110–£160/hr at a London/SE dealer — so fitted cost is roughly £3,200–£5,800. Used engines start at £500–£1,200. The cheapest option is the W245 M266 petrol (£400–£900 used); the most expensive is the OM651 diesel recon (£2,800–£4,800). Use our calculator for a personalised quote based on your specific engine, generation and location → [/fault-diagnostic-calculator?model=b-class]"
+      },
+      {
+        "id": 2,
+        "question": "Which B-Class engine is the most reliable?",
+        "answer": "The OM651 2.1 CDI diesel (W246 B‑Class, 2011–2018) is the most reliable B‑Class engine in our data — it accounts for 157 of 177 total B‑Class enquiries, and the \"Black Death\" injector‑seal failure is a cheap, preventable fix if caught early [MB‑VERIFIED]. The M270 1.6/2.0 turbo petrol is a close second; the OM640 in the W245 is the least dependable."
+      },
+      {
+        "id": 3,
+        "question": "Which B-Class engine should I avoid?",
+        "answer": "The OM640 2.0 CDI in the W245 (2005–2011) carries the highest risk — injector, EGR and DPF failures are all common, and the engine's EU4 emissions hardware is more sensitive than the OM651. More importantly, a £2,800–£4,800 recon cost frequently exceeds the £1,500–£5,000 vehicle value of a W245 B‑Class [MB‑QUOTE]. Avoid the W245 diesel unless it has a documented recent engine rebuild and you're paying sub‑£2,000 for the car."
+      },
+      {
+        "id": 4,
+        "question": "Is the B-Class timing chain problem real?",
+        "answer": "On the OM651 diesel, the timing chain is front‑mounted (unlike the N47 BMW engine's rear‑chain design), so chain wear is less frequent and less catastrophic. The main OM651 caveat is the injector‑seal failure (\"Black Death\"), not the chain. On the M266 petrol (W245), chain tensioner wear can occur but is rare — and the chain is accessible, making inspection and replacement straightforward. If you hear a rattle on cold start from a W245 M266, have it inspected; it's unlikely to be terminal."
+      },
+      {
+        "id": 5,
+        "question": "Is it worth replacing a B-Class engine?",
+        "answer": "It depends entirely on generation. A W246 B‑Class (2011–2018) is almost always worth fixing — £2,800–£4,800 recon against a £5,000–£14,000 vehicle value sits at 20–56% of value, well below our 70% threshold [MB‑QUOTE]. A W245 B‑Class (2005–2011) with a failed diesel engine is often not worth replacing — the recon cost can reach 56–96% of the car's value. Scrap it and buy a W246 instead. Use our calculator for a personalised assessment."
+      },
+      {
+        "id": 6,
+        "question": "Which B-Class should I buy?",
+        "answer": "Buy a W246 B‑Class from 2014 onwards with the OM651 diesel — the post‑facelift electronics are better, the AdBlue system is software‑manageable (not a mechanical liability), and the OM651 is the most reliable B‑Class engine in our data [EM‑INTERVIEW]. Avoid the W245 diesel; the W245 petrol can be a budget‑friendly option if you're willing to accept 30–35 mpg and higher tax."
+      },
+      {
+        "id": 7,
+        "question": "How do I find my B-Class engine code?",
+        "answer": "The easiest way is to check your VIN plate (visible through the windscreen or on the driver's door pillar) — the engine code is the first three characters of the engine number (e.g. \"OM651\" for the 2.1‑litre diesel). Alternatively, check your vehicle's registration document (V5C), which lists the engine number. If you're still unsure, use our identification tool — we'll match your VIN to the correct engine and show you the exact replacement cost → [/fault-diagnostic-calculator?model=b-class]"
+      },
+      {
+        "id": 8,
+        "question": "B-Class vs A-Class — which is more reliable?",
+        "answer": "The B‑Class (W246) and A‑Class (W176/W177) share the same MFA platform and the same OM651 diesel engine — reliability is identical for the engine itself. The difference is economics: the A‑Class is more common, has a wider market, and tends to hold value better; the B‑Class is a more practical, family‑friendly shape that's often cheaper to buy used. Buy on condition and generation, not badge. The W246 B‑Class's ✅ Safe verdict is one of the strongest in the Mercedes range. Read the full comparison: B‑Class vs A‑Class →"
+      }
+    ]
   },
   "closingActionCards": {
     "h2": "Ready to Make a Decision?",

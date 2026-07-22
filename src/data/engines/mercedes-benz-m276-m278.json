@@ -1,24 +1,259 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m276-m278",
+    "slug": "m276-m278",
     "title": "Mercedes-Benz M276/M278 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "description": "Mercedes M276/M278 V6/V8: refined and torquey, but timing chain stretch and oil leaks are the main weaknesses. Backed by UK specialist insight, explore real costs and compare vetted quotes.",
+    "canonical": "https://mercedesengine.uk/engines/m276-m278/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M276/M278 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M276/M278 V6/V8: refined and torquey, but timing chain stretch and oil leaks are the main weaknesses. Backed by UK specialist insight, explore real costs and compare vetted quotes.",
+      "type": "website",
+      "url": "https://mercedesengine.uk/engines/m276-m278/",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m276-m278.jpg",
+      "siteName": "mercedesengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M276/M278 Engine — Specs, Reliability & Replacement Cost",
+      "description": "Mercedes M276/M278 V6/V8: refined and torquey, but timing chain stretch and oil leaks are the main weaknesses. Backed by UK specialist insight, explore real costs and compare vetted quotes.",
+      "image": "https://mercedesengine.uk/images/mercedes/engines/m276-m278.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M276/M278",
+              "item": "https://mercedesengine.uk/engines/m276-m278/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M276/M278 family",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E‑Class W212 facelift E350/E400/E500 (2011–2016)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w212/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E‑Class W213 E400/E450/E500 (2016–2020)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w213/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "S‑Class W221 facelift S400/S450/S500 (2010–2013)",
+              "url": "https://mercedesengine.uk/mercedes/s-class-w221/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "S‑Class W222 S400/S450/S500/S550 (2013–2020)",
+              "url": "https://mercedesengine.uk/mercedes/s-class-w222/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "CLS C218 CLS350/400/500/550 (2011–2018)",
+              "url": "https://mercedesengine.uk/mercedes/cls-c218/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "CLS C257 CLS400/450/53 (2018–2020)",
+              "url": "https://mercedesengine.uk/mercedes/cls-c257/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "ML‑Class W166 ML350/400/500/550 (2011–2015)",
+              "url": "https://mercedesengine.uk/mercedes/ml-w166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "GLE W166 facelift GLE350/400/450/500 (2015–2019)",
+              "url": "https://mercedesengine.uk/mercedes/gle-w166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "GLS X166 GLS450/550 (2016–2019)",
+              "url": "https://mercedesengine.uk/mercedes/gls-x166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "GL‑Class X166 GL450/500 (2012–2015)",
+              "url": "https://mercedesengine.uk/mercedes/gl-x166/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "SL R231 SL350/400/500/550 (2012–2020)",
+              "url": "https://mercedesengine.uk/mercedes/sl-r231/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "G‑Class W463 G400/G500 (2010–2018)",
+              "url": "https://mercedesengine.uk/mercedes/g-class-w463/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "GLC X253 GLC43 AMG (2016–2019)",
+              "url": "https://mercedesengine.uk/mercedes/glc-x253/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "C‑Class W205 C400/C450 AMG Sport (2014–2018)",
+              "url": "https://mercedesengine.uk/mercedes/c-class-w205/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "E‑Class AMG W213 E43 (2016–2019)",
+              "url": "https://mercedesengine.uk/mercedes/e-class-w213/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M276/M278 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M276/M278 typically costs £3,500–£6,500 supply only [ESTIMATED], varying by V6 or V8 spec and whether turbos are included. Fitting adds £780–£1,300 depending on labour rates and model."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M276/M278 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M276/M278 rate 4.0★ out of 5 based on specialist feedback and UK owner data [MB-INTERVIEW]. They are refined and generally robust, but timing chain wear and oil leaks are the main areas to monitor."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M276/M278 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing chain stretch is the most common reported issue, particularly on higher-mileage M276 V6s. Oil leaks from the V‑engine valley and valve cover gaskets are also frequent as the engines age."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M276/M278?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M276/M278 powers E‑Class, S‑Class, CLS, ML/GLE, GLS, GL, SL, G‑Class, and some C‑Class and AMG models — covering a wide range from the early 2010s to around 2020."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M276/M278 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With regular oil changes and proactive timing chain inspection, the M276/M278 routinely exceeds 150,000 miles. Many specialists report V8 M278 examples at 200,000+ with proper maintenance [MB-INTERVIEW]."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesengine.uk",
+          "url": "https://mercedesengine.uk/",
+          "logo": "https://mercedesengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M276/M278 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M276/M278 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "1500",
+            "highPrice": "8500",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M276/M278 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK specialist feedback and owner-reported data for the Mercedes-Benz M276/M278, sourced from mercedesengine.uk's marketplace insights and verified interviews with Mercedes workshops.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M276/M278 Engine — Specs, Reliability & Replacement Cost",
+          "url": "https://mercedesengine.uk/engines/m276-m278/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M276/M278 • Petrol • V6/V8 Biturbo • 2010–2020",
@@ -80,135 +315,48 @@
       {
         "metric": "Overall Engine Score",
         "value": "TBC/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: M276/M278 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.0★ out of 5",
-        "value": "Confidence: 88% confidence — based on UK specialist feedback and owner-reported data across a broad range of models."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "16"
-      },
-      {
-        "metric": "Star rating (4.0★) × 4 = 16",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "12",
-        "value": "Reconditioned midpoint: £6,250 → £5,000–£6,999 bracket = 12"
-      },
-      {
-        "metric": "Repairability",
-        "value": "12"
-      },
-      {
-        "metric": "Mix of well-understood repairs (timing chain, oil leaks) and V-engine complexity",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "16",
-        "value": "Good parts availability from Mercedes and aftermarket; 4.7L V8 has strong support"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "16"
-      },
-      {
-        "metric": "Reconditioned cost 30–44% of lowest host vehicle value",
-        "value": "Total"
-      },
-      {
-        "metric": "72/100",
-        "value": "Sum of the five rows above"
-      },
-      {
-        "metric": "One-line verdict: The M276/M278 are refined, torquey V6/V8s — timing chain stretch and oil leaks are the main watch-points — buy with full service history and inspect chain health.",
-        "value": "Best for: Buyers wanting a smooth, powerful petrol Mercedes with modern features."
-      },
-      {
-        "metric": "Avoid if: You're not prepared for potential timing chain or V-engine oil leak costs.",
-        "value": "Supporting Evidence"
-      },
-      {
-        "metric": "The M276 (3.5L V6) and M278 (4.7L V8 twin-turbo) were introduced to replace the M272 and M273 engines, bringing direct injection, improved efficiency, and significant torque increases. The M278 features twin turbochargers mounted in the V of the engine, reducing lag and improving packaging.",
-        "value": "Key strengths:"
-      },
-      {
-        "metric": "* Smooth, refined power delivery — both engines deliver strong torque from low revs",
-        "value": "* Direct injection — improves efficiency and power"
-      },
-      {
-        "metric": "* Twin-turbo M278 — near-instant response with 402–577 hp",
-        "value": "* Wide application — fitted to core Mercedes models: E, S, CLS, ML, GLE, GLS, SL, etc."
-      },
-      {
-        "metric": "* Better reliability than earlier M272/M273 — timing chain issues exist but are less catastrophic",
-        "value": "Known issues:"
-      },
-      {
-        "metric": "* Timing chain stretch — M276 timing chain can stretch, leading to warning lights and potential engine damage if ignored. Symptoms include rattle on cold start.",
-        "value": "* Camshaft adjuster wear — related to timing chain issues, causing VVT faults."
-      },
-      {
-        "metric": "* Oil leaks — V-engine valley leaks, valve cover gaskets, rear main seal.",
-        "value": "* High-pressure fuel pump — can fail, particularly on M278 V8."
-      },
-      {
-        "metric": "* Turbocharger oil supply — M278 can suffer from turbo bearing wear if oil changes are skipped.",
-        "value": "* Thermostat housing — plastic housing can crack, causing coolant leaks."
-      },
-      {
-        "metric": "Models fitted (Mercedes-Benz):",
-        "value": "* E-Class: E350, E400, E450, E500 (W212, W213)"
-      },
-      {
-        "metric": "* S-Class: S400, S450, S500, S550 (W221, W222)",
-        "value": "* CLS: CLS350, CLS400, CLS500, CLS550 (C218, C257)"
-      },
-      {
-        "metric": "* ML/GLE: ML350, ML400, ML500, GLE400, GLE450, GLE500 (W166, V167)",
-        "value": "* GL/GLS: GL450, GL500, GLS450, GLS550 (X166, X167)"
-      },
-      {
-        "metric": "* SL: SL350, SL400, SL500, SL550 (R231)",
-        "value": "* G-Class: G400, G500 (W463)"
-      },
-      {
-        "metric": "* AMG GT: GT43, GT53 (M256/M177)",
-        "value": "* E-Class AMG: E43, E53 (M276-based)"
-      },
-      {
-        "metric": "* GLC: GLC43 (M276-derived)",
-        "value": "The M276/M278 represent a significant step forward in refinement and power, while being more reliable than their predecessors. Regular oil changes and proactive chain inspection are the key to longevity."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.0★ out of 5",
+    "confidence": "88% confidence — based on UK specialist feedback and owner-reported data across a broad range of models.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "16 (Star rating (4.0★) × 4 = 16)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "12 (Reconditioned midpoint: £6,250 → £5,000–£6,999 bracket = 12)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mix of well-understood repairs (timing chain, oil leaks) and V-engine complexity)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Good parts availability from Mercedes and aftermarket; 4.7L V8 has strong support)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "16 (Reconditioned cost 30–44% of lowest host vehicle value)"
+        },
+        {
+          "dimension": "Total",
+          "score": "72/100 (Sum of the five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M276/M278 are refined, torquey V6/V8s — timing chain stretch and oil leaks are the main watch-points — buy with full service history and inspect chain health.",
+    "bestFor": "Buyers wanting a smooth, powerful petrol Mercedes with modern features.",
+    "avoidIf": "You're not prepared for potential timing chain or V-engine oil leak costs."
   },
   "compatibility": {
     "columns": [

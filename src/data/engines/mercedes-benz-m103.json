@@ -1,24 +1,193 @@
 {
   "meta": {
-    "slug": "mercedes-benz-m103",
-    "title": "Mercedes-Benz M103 Engine — Specs, Reliability & Replacement Cost",
-    "description": "",
-    "canonical": "",
+    "slug": "m103",
+    "title": "Mercedes-Benz M103 Engine — Reliability & Cost",
+    "description": "The M103 is a bulletproof classic straight-six — head gasket wear is the key risk. Backed by UK specialist data. Compare quotes from vetted specialists.",
+    "canonical": "https://mercedesbenzengine.uk/engines/m103/",
     "openGraph": {
-      "title": "",
-      "description": "",
-      "type": "",
-      "url": "",
-      "image": "",
-      "siteName": ""
+      "title": "Mercedes-Benz M103 Engine — Reliability & Cost",
+      "description": "The M103 is a bulletproof classic straight-six — head gasket wear is the key risk. Backed by UK specialist data. Compare quotes from vetted specialists.",
+      "type": "website",
+      "url": "https://mercedesbenzengine.uk/engines/m103/",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m103.jpg",
+      "siteName": "mercedesbenzengine.uk"
     },
     "twitter": {
-      "card": "",
-      "title": "",
-      "description": "",
-      "image": ""
+      "card": "summary_large_image",
+      "title": "Mercedes-Benz M103 Engine — Reliability & Cost",
+      "description": "The M103 is a bulletproof classic straight-six — head gasket wear is the key risk. Backed by UK specialist data. Compare quotes from vetted specialists.",
+      "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m103.jpg"
     },
-    "jsonLd": {}
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://mercedesbenzengine.uk/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Engines",
+              "item": "https://mercedesbenzengine.uk/engines/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "M103",
+              "item": "https://mercedesbenzengine.uk/engines/m103/"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Mercedes-Benz models fitted with the M103 engine",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "E-Class W124 260 E / 300 E / 300 E‑24",
+              "url": "https://mercedesbenzengine.uk/models/e-class/w124/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "S-Class W126 260 SE / 300 SE / 300 SEL",
+              "url": "https://mercedesbenzengine.uk/models/s-class/w126/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "190 Series W201 190 E 2.6 / 190 E 3.0",
+              "url": "https://mercedesbenzengine.uk/models/190-series/w201/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "G-Class W463 G 300",
+              "url": "https://mercedesbenzengine.uk/models/g-class/w463/g-300/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does an M103 engine replacement cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A reconditioned M103 typically costs £2,000–£3,500 supply only, with fitting adding £500–£800 depending on labour rates [ESTIMATED]. Used examples can be found from £500, making it a relatively affordable classic engine replacement."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the M103 a reliable engine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M103 rates 4.0★ out of 5 — widely regarded as one of Mercedes' most robust and bulletproof engines. Its simple SOHC design and mechanical fuel injection mean fewer electronics to fail; regular oil changes and cooling system care are the keys to longevity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most common M103 failure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Head gasket failure is the most common, typically between cylinders or externally at high mileage. Timing chain guide wear (causing rattle on cold start) and distributor cap/rotor corrosion are also well-documented issues on older, high-mileage examples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which Mercedes models use the M103?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The M103 powers the W124 E‑Class (260E/300E), W126 S‑Class (260SE/300SE), W201 190E (190E 2.6/3.0), and the W463 G‑Class (G 300) — spanning 1984 to 1995 across four classic Mercedes families."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the M103 last?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With proper maintenance, 250,000–300,000+ miles is achievable. Many well-maintained W124 and W126 examples exceed 300,000 miles on original bottom ends. Cooling system neglect and neglected timing chain guides are the primary causes of premature failure."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "mercedesbenzengine.uk",
+          "url": "https://mercedesbenzengine.uk/",
+          "logo": "https://mercedesbenzengine.uk/images/logo.png",
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Engine Finders"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Mercedes-Benz M103 Engine",
+          "brand": {
+            "@type": "Brand",
+            "name": "Mercedes-Benz"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.0",
+            "bestRating": "5",
+            "ratingCount": "1",
+            "reviewCount": "1"
+          }
+        },
+        {
+          "@type": "Service",
+          "serviceType": "Mercedes-Benz M103 Engine Replacement",
+          "provider": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "areaServed": "GB",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "GBP",
+            "lowPrice": "500",
+            "highPrice": "5000",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Mercedes-Benz M103 UK Enquiry & Reliability Data 2025",
+          "description": "Proprietary UK enquiry volumes and reliability scoring data for the Mercedes-Benz M103 classic straight-six, sourced from mercedesbenzengine.uk's specialist marketplace activity.",
+          "creator": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk"
+          },
+          "temporalCoverage": "2025",
+          "spatialCoverage": "United Kingdom"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Mercedes-Benz M103 Engine — Reliability & Cost",
+          "url": "https://mercedesbenzengine.uk/engines/m103/",
+          "author": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Editorial Team"
+          },
+          "reviewedBy": {
+            "@type": "Organization",
+            "name": "mercedesbenzengine.uk Specialist Network"
+          },
+          "datePublished": "2026-07-14",
+          "dateModified": "2026-07-14"
+        }
+      ]
+    }
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M103 • Petrol • 2.6–3.0L Straight-Six • 1984–1995",
@@ -80,79 +249,44 @@
       {
         "metric": "Overall Engine Score",
         "value": "76/100"
-      },
-      {
-        "metric": "SECTION 3 — VERDICT & RATING",
-        "value": "H2: M103 — Our Verdict & Rating"
-      },
-      {
-        "metric": "Star rating: 4.0★ out of 5",
-        "value": "Confidence: 80% confidence — based on classic Mercedes specialist and enthusiast consensus, cross-referenced with owner forum reporting."
-      },
-      {
-        "metric": "Engine Score breakdown:",
-        "value": "Dimension"
-      },
-      {
-        "metric": "Score (of 20)",
-        "value": "How it's determined"
-      },
-      {
-        "metric": "Reliability",
-        "value": "16"
-      },
-      {
-        "metric": "4.0★ × 4 = 16",
-        "value": "Repair Cost"
-      },
-      {
-        "metric": "20",
-        "value": "Reconditioned supply midpoint £2,750 — under £3,000 → 20"
-      },
-      {
-        "metric": "Repairability",
-        "value": "20"
-      },
-      {
-        "metric": "Simple, accessible SOHC straight-six layout; most repairs are straightforward for any Mercedes specialist",
-        "value": "Parts Supply"
-      },
-      {
-        "metric": "16",
-        "value": "Well-supported via classic Mercedes specialists and European suppliers; some parts are classic-only but readily available"
-      },
-      {
-        "metric": "Replacement Economics",
-        "value": "4"
-      },
-      {
-        "metric": "Reconditioned cost as % of lowest host value — £2,750 on a £2,000 car = 137% → 4",
-        "value": "Total"
-      },
-      {
-        "metric": "76/100",
-        "value": "One-line verdict: \"The M103 is a famously bulletproof straight-six — but head gaskets and timing chain guides fail with age on higher-mileage examples — buy on condition, not just mileage.\""
-      },
-      {
-        "metric": "Best For: Classic Mercedes enthusiasts wanting a reliable, torque-rich six with simple, accessible mechanicals.",
-        "value": "Avoid If: Buyers who need modern fuel economy or aren't prepared for classic-car maintenance and parts-sourcing realities."
       }
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "4.0★ out of 5",
+    "confidence": "80% confidence — based on classic Mercedes specialist and enthusiast consensus, cross-referenced with owner forum reporting.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "16 (4.0★ × 4 = 16)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "20 (Reconditioned supply midpoint £2,750 — under £3,000 → 20)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "20 (Simple, accessible SOHC straight-six layout; most repairs are straightforward for any Mercedes specialist)"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Well-supported via classic Mercedes specialists and European suppliers; some parts are classic-only but readily available)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "4 (Reconditioned cost as % of lowest host value — £2,750 on a £2,000 car = 137% → 4)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "\"The M103 is a famously bulletproof straight-six — but head gaskets and timing chain guides fail with age on higher-mileage examples — buy on condition, not just mileage.\"",
+    "bestFor": "Classic Mercedes enthusiasts wanting a reliable, torque-rich six with simple, accessible mechanicals.",
+    "avoidIf": "Buyers who need modern fuel economy or aren't prepared for classic-car maintenance and parts-sourcing realities."
   },
   "compatibility": {
     "columns": [

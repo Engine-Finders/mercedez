@@ -587,52 +587,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (18%), South West (14%)【PATTERN DATA】"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes SL320 CDI engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned SL320 CDI (OM648) engine typically costs £4,500–£8,500 supply only. A replacement engine for a diesel luxury car can cost $7,000–$15,000+. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes SL320 CDI engine reliable?"
-      },
-      {
-        "label": "The OM648 is a robust cast‑iron straight‑six diesel with a ~400,000 km lifespan. It is known for its smooth power delivery, linear torque, and durability. However, it has well‑documented issues: common‑rail fuel system failures, injector problems, swirl flap motor and linkage failures, turbo VNT sticking, and DPF blockage. The R230 platform's ABC suspension and SBC brakes are the real concerns.",
-        "value": "3. What are the common problems with the Mercedes SL320 CDI?"
-      },
-      {
-        "label": "Common‑rail fuel system failures (fuel rail pressure sensor, fuel shut‑off valve), injector issues (rough idle, cold‑start misfires), swirl flap motor and linkage failure (limp mode), turbocharger VNT sticking (whistling, power loss), DPF blockage, and R230‑specific ABC suspension and SBC brake issues. See the Era Map above for detailed advice.",
-        "value": "4. Is it worth replacing a Mercedes SL320 CDI engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value. Against a well‑kept SL320 CDI (values £8,000–£20,000+ depending on condition), a £5,000–£6,000 reconditioned engine is 25–60% of the vehicle's value — often worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the SL320 CDI's rarity and status as a future classic, engine replacement is often worth it for a good example.",
-        "value": "5. How do I find my Mercedes SL320 CDI engine code?"
-      },
-      {
-        "label": "The engine code OM648 is listed on the VIN plate and vehicle documentation. The SL320 CDI was produced from 2005 to 2006 with the 3.2‑litre straight‑six diesel engine producing 224 bhp. The OM648 is also found in the S‑Class (S320 CDI), E‑Class (E320 CDI), and CLS‑Class (CLS320 CDI). Tell us your registration and we'll confirm for free.",
-        "value": "6. Can I repair the OM648 injectors, or does it require engine replacement?"
-      },
-      {
-        "label": "Injector issues are always repairable without replacing the engine — if caught early. Injector replacement costs £400–£1,200. Injectors can last 300,000–400,000 km with good maintenance. However, if a faulty injector causes engine damage, more extensive work may be required. At the first sign of rough idle or misfires, book an inspection immediately.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
-      },
-      {
-        "label": "SECTION 9, META AND SCHEMA",
-        "value": "Section 9 (Trust + Final CTA) and all the meta, Open Graph, and schema data."
-      },
-      {
-        "label": "The user's deep need here is efficiency and consistency. They're not just asking for more content; they're asking for the completion of a structured document according to a very specific, complex template. They likely manage multiple such pages and need a reliable, repeatable process. They might be an SEO specialist, a content manager, or an AI workflow operator responsible for generating large volumes of these pages. The identity could be someone in automotive marketing or a technical content generation role.",
-        "value": "My response needs to pick up exactly where Part 1 left off. I need to ensure all the information from Part 1's Era Map, Step 0 checks, and specific engine details (OM648, R230 platform) is carried forward into Part 2. The user expects accuracy and adherence to the brand voice (confident, data-led, honest for Mercedes) and the document's strict formatting rules—like the 3 trust bullets, 50-60 character meta title, 145-160 character meta description, and the complete JSON-LD schema with all required blocks."
-      },
-      {
-        "label": "I should structure Part 2 in the exact sequence the prompt dictates: Section 9 content, Meta tags, Open Graph and Twitter Card data, the full JSON-LD schema array, and finally the Production Note with all the verification checks. The Production Note is crucial—it needs to confirm that the Service schema's price range spans the full history (based on Section 1B), that all engine codes in the schema match the Era Map, and that the reliability rating is appropriately marked. I also need to ensure the brand prefix (MB-) and specialist count (25+) are correctly applied for Mercedes.",
-        "value": "The user's workflow seems to involve generating pages for a wide range of brands (Land Rover, Jaguar, BMW, Mercedes) and specific badges, as seen in the long history. They're systematically working through a Variant Page Inventory. My role is to act as a precise executor of the \"AI Handover Document 2.0\" rules, ensuring every generated page is complete, accurate, and ready for publication."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes SL320 CDI engine replacement cost in the UK?",
+        "answer": "A reconditioned SL320 CDI (OM648) engine typically costs £4,500–£8,500 supply only. A replacement engine for a diesel luxury car can cost $7,000–$15,000+. Fitting adds £1,000–£1,800 at independent specialist rates. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes SL320 CDI engine reliable?",
+        "answer": "The OM648 is a robust cast‑iron straight‑six diesel with a ~400,000 km lifespan. It is known for its smooth power delivery, linear torque, and durability. However, it has well‑documented issues: common‑rail fuel system failures, injector problems, swirl flap motor and linkage failures, turbo VNT sticking, and DPF blockage. The R230 platform's ABC suspension and SBC brakes are the real concerns."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes SL320 CDI?",
+        "answer": "Common‑rail fuel system failures (fuel rail pressure sensor, fuel shut‑off valve), injector issues (rough idle, cold‑start misfires), swirl flap motor and linkage failure (limp mode), turbocharger VNT sticking (whistling, power loss), DPF blockage, and R230‑specific ABC suspension and SBC brake issues. See the Era Map above for detailed advice."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes SL320 CDI engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value. Against a well‑kept SL320 CDI (values £8,000–£20,000+ depending on condition), a £5,000–£6,000 reconditioned engine is 25–60% of the vehicle's value — often worth it for a solid example. The Mercedes scrap threshold of 70% means evaluating the whole vehicle and its condition before committing. Given the SL320 CDI's rarity and status as a future classic, engine replacement is often worth it for a good example."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes SL320 CDI engine code?",
+        "answer": "The engine code OM648 is listed on the VIN plate and vehicle documentation. The SL320 CDI was produced from 2005 to 2006 with the 3.2‑litre straight‑six diesel engine producing 224 bhp. The OM648 is also found in the S‑Class (S320 CDI), E‑Class (E320 CDI), and CLS‑Class (CLS320 CDI). Tell us your registration and we'll confirm for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the OM648 injectors, or does it require engine replacement?",
+        "answer": "Injector issues are always repairable without replacing the engine — if caught early. Injector replacement costs £400–£1,200. Injectors can last 300,000–400,000 km with good maintenance. However, if a faulty injector causes engine damage, more extensive work may be required. At the first sign of rough idle or misfires, book an inspection immediately."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "Why UK Mercedes SL320 CDI Owners Trust MercedesEngine.uk",

@@ -444,40 +444,43 @@
       {
         "label": "Regional Demand",
         "value": "South East (22%), London (20%), South West (15%) [PATTERN DATA]"
-      },
-      {
-        "label": "SECTION 8 — FAQ",
-        "value": "1. How much does a Mercedes‑Benz CLK350 engine replacement cost in the UK?"
-      },
-      {
-        "label": "A reconditioned M272 engine typically costs £2,500–£5,000 supply only. Fitting adds £900–£1,500. Balance shaft replacement alone can cost £1,500–£4,000 if caught early. Use our calculator for a figure specific to your car.",
-        "value": "2. Is the Mercedes‑Benz CLK350 engine reliable?"
-      },
-      {
-        "label": "The M272 is rated ★★½☆☆. It's a smooth, refined V6, but it has a notorious weak point: the balance shaft sprocket. Early engines (2005–2007) were manufactured with a soft metal timing gear that wears prematurely, causing the timing chain to jump and potentially destroying the engine. Post‑2008 cars are significantly more reliable. Intake manifold flap failure and engine mount collapse are also common.",
-        "value": "3. What are the common problems with the Mercedes‑Benz CLK350?"
-      },
-      {
-        "label": "Balance shaft sprocket failure (the most critical — affects pre‑2008 cars), intake manifold flap failure (loss of power), engine mount collapse (vibrations), oil leaks, and conductor plate failure in the 7G‑Tronic transmission. The balance shaft issue is engine‑out work and can be expensive.",
-        "value": "4. Is it worth replacing a Mercedes‑Benz CLK350 engine, or should I scrap the car?"
-      },
-      {
-        "label": "Depends on vehicle value and generation. Against a well‑kept post‑2008 CLK350 worth £4,000–£8,000, a £3,500 recon is a significant but often worthwhile investment. For a pre‑2008 car with balance shaft issues, assess carefully — the repair cost can exceed the vehicle's value. Post‑2008 cars are the better investment.",
-        "value": "5. How do I find my Mercedes‑Benz CLK350 engine code?"
-      },
-      {
-        "label": "Listed on the VIN plate and vehicle documentation. The CLK350 uses the M272 (272.9) 3.5‑litre V6 engine. Tell us your registration date and we'll confirm it for free.",
-        "value": "6. Can I repair the M272's balance shaft, or does it need a new engine?"
-      },
-      {
-        "label": "Yes — if caught early. A balance shaft and timing gear replacement (£1,500–£4,000) is far cheaper than a catastrophic engine failure (£2,500–£6,500 engine replacement). Check your engine serial number — if it's in the affected range (2729..30 468993), book an inspection immediately. Post‑2008 cars are not affected.",
-        "value": "Disclaimer: All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
       }
     ]
   },
   "faq": {
-    "items": [],
-    "disclaimer": ""
+    "items": [
+      {
+        "id": 1,
+        "question": "How much does a Mercedes‑Benz CLK350 engine replacement cost in the UK?",
+        "answer": "A reconditioned M272 engine typically costs £2,500–£5,000 supply only. Fitting adds £900–£1,500. Balance shaft replacement alone can cost £1,500–£4,000 if caught early. Use our calculator for a figure specific to your car."
+      },
+      {
+        "id": 2,
+        "question": "Is the Mercedes‑Benz CLK350 engine reliable?",
+        "answer": "The M272 is rated ★★½☆☆. It's a smooth, refined V6, but it has a notorious weak point: the balance shaft sprocket. Early engines (2005–2007) were manufactured with a soft metal timing gear that wears prematurely, causing the timing chain to jump and potentially destroying the engine. Post‑2008 cars are significantly more reliable. Intake manifold flap failure and engine mount collapse are also common."
+      },
+      {
+        "id": 3,
+        "question": "What are the common problems with the Mercedes‑Benz CLK350?",
+        "answer": "Balance shaft sprocket failure (the most critical — affects pre‑2008 cars), intake manifold flap failure (loss of power), engine mount collapse (vibrations), oil leaks, and conductor plate failure in the 7G‑Tronic transmission. The balance shaft issue is engine‑out work and can be expensive."
+      },
+      {
+        "id": 4,
+        "question": "Is it worth replacing a Mercedes‑Benz CLK350 engine, or should I scrap the car?",
+        "answer": "Depends on vehicle value and generation. Against a well‑kept post‑2008 CLK350 worth £4,000–£8,000, a £3,500 recon is a significant but often worthwhile investment. For a pre‑2008 car with balance shaft issues, assess carefully — the repair cost can exceed the vehicle's value. Post‑2008 cars are the better investment."
+      },
+      {
+        "id": 5,
+        "question": "How do I find my Mercedes‑Benz CLK350 engine code?",
+        "answer": "Listed on the VIN plate and vehicle documentation. The CLK350 uses the M272 (272.9) 3.5‑litre V6 engine. Tell us your registration date and we'll confirm it for free."
+      },
+      {
+        "id": 6,
+        "question": "Can I repair the M272's balance shaft, or does it need a new engine?",
+        "answer": "Yes — if caught early. A balance shaft and timing gear replacement (£1,500–£4,000) is far cheaper than a catastrophic engine failure (£2,500–£6,500 engine replacement). Check your engine serial number — if it's in the affected range (2729..30 468993), book an inspection immediately. Post‑2008 cars are not affected."
+      }
+    ],
+    "disclaimer": "All prices are indicative UK market ranges based on historical quote data from our network of engine specialists. Actual costs vary by variant, engine code, damage severity and workshop location. Use our free comparison tool to get tailored quotes. Every engine supplied through EnginesMarket carries a minimum 12‑month unlimited‑mileage warranty — always confirm terms with your chosen supplier."
   },
   "trustCta": {
     "h2": "",
