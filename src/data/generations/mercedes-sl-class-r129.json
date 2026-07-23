@@ -351,12 +351,132 @@
   },
   "engineDatabase": {
     "h2": "Mercedes SL R129 Engine Codes — The Complete Database",
-    "subHeadline": "",
-    "columns": [],
-    "engines": [],
+    "subHeadline": "Every engine fitted to the R129 roadster specifically — spanning the full 1989–2001 production run, across three distinct engine eras.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (R129)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M103.984",
+        "family": "M103",
+        "fuel": "Petrol, SOHC I6",
+        "displacement": "3.0L",
+        "power": "188–190 PS",
+        "years": "1989–1993",
+        "model": "R129",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,000–£4,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M104.981",
+        "family": "M104",
+        "fuel": "Petrol, DOHC I6",
+        "displacement": "3.0L",
+        "power": "228 PS",
+        "years": "1989–1993",
+        "model": "R129",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,200–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M104.943",
+        "family": "M104",
+        "fuel": "Petrol, DOHC I6",
+        "displacement": "2.8L",
+        "power": "193 PS",
+        "years": "1993–1998",
+        "model": "R129",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,000–£4,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M104.991",
+        "family": "M104",
+        "fuel": "Petrol, DOHC I6",
+        "displacement": "3.2L",
+        "power": "228–231 PS",
+        "years": "1993–1998",
+        "model": "R129",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,200–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M112.923 / .943",
+        "family": "M112",
+        "fuel": "Petrol, SOHC V6",
+        "displacement": "2.8–3.2L",
+        "power": "201–224 PS",
+        "years": "1998–2001",
+        "model": "R129",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,000–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M119.960 / .972 / .982",
+        "family": "M119",
+        "fuel": "Petrol, DOHC V8",
+        "displacement": "5.0L",
+        "power": "320–326 PS",
+        "years": "1989–1998",
+        "model": "R129",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£3,500–£6,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M113.961",
+        "family": "M113",
+        "fuel": "Petrol, SOHC V8",
+        "displacement": "5.0L",
+        "power": "302–306 PS",
+        "years": "1998–2001",
+        "model": "R129",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£3,500–£6,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M120.981 / .983",
+        "family": "M120",
+        "fuel": "Petrol, DOHC V12",
+        "displacement": "6.0L",
+        "power": "389–394 PS",
+        "years": "1992–2001",
+        "model": "R129",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£6,000–£12,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M119 AMG",
+        "family": "M119",
+        "fuel": "Petrol, DOHC V8",
+        "displacement": "6.0L",
+        "power": "381–420 PS",
+        "years": "1992–1998",
+        "model": "R129 (SL 60 AMG)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£7,000–£14,000 [MB‑QUOTE]"
+      }
+    ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The M120 V12 and M119 V8 receive lower ratings due to documented coil pack / timing‑chain guide wear."
+      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The M120 V12 and M119 V8 receive lower ratings due to documented coil pack / timing‑chain guide wear. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes SL‑Class Model Page."
     },
     "dataCorrections": []
   },
@@ -367,7 +487,38 @@
     "marketIntelligenceLine": "No R129‑specific enquiry figure is available; the R129 remains a sought‑after classic, with the V8 and V12 variants generating the most enthusiast interest."
   },
   "bestWorstEngines": {
-    "items": []
+    "items": [
+      {
+        "slot": "Best Six Overall",
+        "engine": "M104.991 (SL 320, 1993–1998)",
+        "quote": "The 3.2‑litre straight‑six — 228–231 PS, robust, smooth, and without the V8's timing‑chain guide worries or the V12's coil‑pack costs. The sweet spot of R129 ownership.",
+        "whoItsFor": "buyers who want the classic SL experience with the lowest running costs."
+      },
+      {
+        "slot": "Best V8 Overall",
+        "engine": "M113.961 (SL 500, 1998–2001)",
+        "quote": "The 5.0‑litre SOHC V8 — 302–306 PS, reliable, modern, and free from the M119's chain‑guide worries. The facelift R129's best engine for daily use.",
+        "whoItsFor": "buyers who want V8 prestige with modern reliability."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M119 V8 (500 SL / SL 500, 1989–1998)",
+        "quote": "The M119 V8 delivers effortless torque but timing‑chain guide wear is a documented weakness. If your R129 V8 has over 80,000 miles and no documented guide replacement, budget for the work.",
+        "whoItsFor": "buyers who can verify timing‑chain guide history."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M120 V12 (600 SL / SL 600)",
+        "quote": "The 6.0‑litre V12 — 389–394 PS, an engineering icon. But 12 individual coil packs, engine mounts, and specialist labour add up fast. The price of V12 ownership is significant.",
+        "whoItsFor": "collectors and enthusiasts who understand V12 running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M112 V6 (SL 280 / SL 320, 1998–2001)",
+        "quote": "The 2.8–3.2‑litre V6 — 201–224 PS, cheap parts, simple maintenance, and the most affordable way into R129 ownership. The water pump is the only real weak point.",
+        "whoItsFor": "the sensible entry point for R129 buyers on a budget."
+      }
+    ]
   },
   "ownershipEconomics": {
     "h2": "Mercedes SL R129 — Ownership Economics",

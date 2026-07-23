@@ -285,12 +285,84 @@
   },
   "engineDatabase": {
     "h2": "Mercedes B‑Class W246 Engine Codes — The Complete Database",
-    "subHeadline": "",
-    "columns": [],
-    "engines": [],
+    "subHeadline": "Every engine fitted to the W246 hatchback specifically — including the Renault‑sourced OM607 diesel and the M270 petrol range.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W246)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M270DE16LA",
+        "family": "M270",
+        "fuel": "Petrol, turbo",
+        "displacement": "1.6L",
+        "power": "122–156 PS",
+        "years": "2011–2018",
+        "model": "W246",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£1,500–£3,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M270DE20LA",
+        "family": "M270",
+        "fuel": "Petrol, turbo",
+        "displacement": "2.0L",
+        "power": "156–211 PS",
+        "years": "2012–2018",
+        "model": "W246",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,000–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM607DE15LA",
+        "family": "OM607 (Renault K9K)",
+        "fuel": "Diesel, turbo",
+        "displacement": "1.5L",
+        "power": "90–109 PS",
+        "years": "2013–2018",
+        "model": "W246",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£1,200–£2,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651DE18LA",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "1.8L",
+        "power": "109 PS",
+        "years": "2011–2018",
+        "model": "W246",
+        "reliability": "★★★☆☆ [PROVISIONAL — inherited from Model Page]",
+        "enquiries": "1,250 family‑wide [MB‑VERIFIED]",
+        "avgRebuildCost": "£2,800–£4,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651DE22LA",
+        "family": "OM651",
+        "fuel": "Diesel, turbo",
+        "displacement": "2.1L",
+        "power": "136–170 PS",
+        "years": "2011–2018",
+        "model": "W246",
+        "reliability": "★★★☆☆ [PROVISIONAL — inherited from Model Page]",
+        "enquiries": "1,250 family‑wide [MB‑VERIFIED]",
+        "avgRebuildCost": "£3,200–£5,500 [MB‑QUOTE]"
+      }
+    ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "OM651 ratings: 95% confidence, inherited from the Model Page where one exists. M270 and OM607: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
+      "text": "OM651 ratings: 95% confidence, inherited from the Model Page where one exists. M270 and OM607: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes B‑Class Model Page."
     },
     "dataCorrections": []
   },
@@ -301,7 +373,38 @@
     "marketIntelligenceLine": "No W246‑specific enquiry figure is available; OM651 diesel enquiries dominate the broader Mercedes compact‑car parc, with 1,250 UK requests in 2025 [MB‑VERIFIED]."
   },
   "bestWorstEngines": {
-    "items": []
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM651DE22LA (B200 CDI / B220 CDI)",
+        "quote": "The 2.1‑litre four‑cylinder diesel — 136–170 PS, up to 350 Nm of torque, and the workhorse of the W246 diesel range. The OM651 is a proven unit but carries a timing‑chain tensioner weakness that, if caught early, is a manageable repair.",
+        "whoItsFor": "buyers who want the best balance of economy and power in their W246 diesel."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M270DE16LA (B180 / B200)",
+        "quote": "The 1.6‑litre turbo petrol — 122–156 PS, smooth, and the most dependable choice in the W246 range. It has no timing‑chain weakness and its cooling‑system issues are well‑understood and relatively inexpensive to fix.",
+        "whoItsFor": "buyers who want petrol refinement without diesel chain worries."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM651DE18LA / OM651DE22LA (pre‑2015)",
+        "quote": "The OM651's rear‑mounted timing chain and tensioner are well‑documented weak points. Cold‑start rattle is the warning sign. Pre‑2015 W246 diesels without documented chain‑tensioner replacement are the highest‑risk purchase in the range.",
+        "whoItsFor": "buyers on a tighter budget who understand the OM651's reputation and can verify chain history."
+      },
+      {
+        "slot": "Budget Diesel",
+        "engine": "OM607DE15LA (B160 CDI / B180 CDI)",
+        "quote": "The Renault‑sourced 1.5‑litre diesel is simpler and cheaper to maintain than the OM651. Injector wear is a known pattern but repairs are inexpensive. A practical choice for budget‑conscious W246 owners.",
+        "whoItsFor": "buyers who prioritise low running costs and urban economy."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M270DE16LA (B180 / B200)",
+        "quote": "The 1.6‑litre petrol turbo — reliable, no chain risk, and cheaper to buy and maintain than the 2.0‑litre. For most UK W246 buyers, this is the safest all‑round bet.",
+        "whoItsFor": "the default choice for W246 buyers who want the best balance of reliability and running costs."
+      }
+    ]
   },
   "ownershipEconomics": {
     "h2": "Mercedes B‑Class W246 — Ownership Economics",

@@ -793,15 +793,15 @@
   },
   "calculatorCta": {
     "h2": "Can I Repair My CLC-Class Engine — or Should I Replace It?",
-    "intro": "If your M271 Kompressor rattles on cold start, that's a timing chain warning — not a repair you can ignore. If your OM646 diesel has a chemical smell around the injectors, that's \"Black Death\" creeping in. Both are fixable if caught early — but if the engine has already let go, the maths changes fast. Launch the Mercedes-Benz calculator with CLC-Class pre-selected → https://mercedesengine.uk/#engine-calculator?model=clc-class We'll identify it first → https://mercedesengine.uk/#engine-calculator?model=clc-class",
+    "intro": "If your M271 Kompressor rattles on cold start, that's a timing chain warning — not a repair you can ignore. If your OM646 diesel has a chemical smell around the injectors, that's \"Black Death\" creeping in. Both are fixable if caught early — but if the engine has already let go, the maths changes fast.",
     "paths": [
       {
-        "label": "Path 1 — Know your engine?",
-        "href": "#"
+        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with CLC-Class pre-selected",
+        "href": "MercedesEngines.uk/#engine-calculator?model=clc-class"
       },
       {
-        "label": "Path 2 — Not sure which engine you have?",
-        "href": "#"
+        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "href": "MercedesEngines.uk/#engine-calculator"
       }
     ]
   },
@@ -887,7 +887,7 @@
       {
         "icon": "🩺",
         "title": "Diagnose My CLC-Class",
-        "text": "",
+        "text": "Not sure which engine you have or what's wrong? Run our Mercedes-Benz diagnostic tool for a personalised verdict. → Diagnose My CLC-Class",
         "href": "#"
       },
       {

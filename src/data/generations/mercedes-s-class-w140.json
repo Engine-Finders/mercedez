@@ -339,12 +339,108 @@
   },
   "engineDatabase": {
     "h2": "Mercedes S‑Class W140 Engine Codes — The Complete Database",
-    "subHeadline": "",
-    "columns": [],
-    "engines": [],
+    "subHeadline": "Every engine fitted to the W140 saloon specifically — spanning the full 1991–1998 production run, from the entry‑level six‑cylinder to the range‑topping V12.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W140 saloon)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M104.944",
+        "family": "M104",
+        "fuel": "Petrol, I6",
+        "displacement": "2.8L",
+        "power": "193 PS",
+        "years": "1992–1998",
+        "model": "W140",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£1,800–£3,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M104.990",
+        "family": "M104",
+        "fuel": "Petrol, I6",
+        "displacement": "3.2L",
+        "power": "231 PS",
+        "years": "1991–1998",
+        "model": "W140",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,000–£4,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M119.971 / .981",
+        "family": "M119",
+        "fuel": "Petrol, V8",
+        "displacement": "4.2L",
+        "power": "279 PS",
+        "years": "1991–1998",
+        "model": "W140",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£3,000–£5,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M119.970 / .980",
+        "family": "M119",
+        "fuel": "Petrol, V8",
+        "displacement": "5.0L",
+        "power": "320 PS",
+        "years": "1991–1998",
+        "model": "W140",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£3,500–£6,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M120.980 / .982",
+        "family": "M120",
+        "fuel": "Petrol, V12",
+        "displacement": "6.0L",
+        "power": "394 PS",
+        "years": "1991–1998",
+        "model": "W140",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£6,000–£12,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM603.971",
+        "family": "OM603",
+        "fuel": "Diesel, turbo I6",
+        "displacement": "3.5L",
+        "power": "150 PS",
+        "years": "1991–1993",
+        "model": "W140",
+        "reliability": "★★☆☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,500–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM606.961",
+        "family": "OM606",
+        "fuel": "Diesel, turbo I6",
+        "displacement": "3.0L",
+        "power": "177 PS",
+        "years": "1996–1998",
+        "model": "W140",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,500–£4,500 [MB‑QUOTE]"
+      }
+    ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The OM603 receives a lower rating due to documented connecting‑rod failure risks in early W140 applications."
+      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The OM603 receives a lower rating due to documented connecting‑rod failure risks in early W140 applications. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes S‑Class Model Page."
     },
     "dataCorrections": []
   },
@@ -355,7 +451,38 @@
     "marketIntelligenceLine": "No W140‑specific enquiry figure is available; the W140 remains a sought‑after classic, with the M120 V12 and M119 V8 variants generating the most enthusiast interest."
   },
   "bestWorstEngines": {
-    "items": []
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM606.961 (S 300 Turbodiesel, 1996–1998)",
+        "quote": "The 3.0‑litre four‑valve turbo‑diesel six — 177 PS, robust, and a significant improvement over the earlier OM603 'rod bender'. If you must have a W140 diesel, this is the one.",
+        "whoItsFor": "buyers who want diesel economy without the OM603's rod‑bender risk."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M104.990 (S 320, 3.2L I6)",
+        "quote": "The 3.2‑litre straight‑six — 231 PS, simple, robust, and the cheapest W140 engine to maintain. No major systemic weaknesses beyond normal head gasket wear at high mileages.",
+        "whoItsFor": "the most sensible W140 buyer who prioritises reliability and running costs."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM603.971 (300 SD / S 350 Turbodiesel, 1991–1993)",
+        "quote": "The 3.5‑litre turbo‑diesel has a documented connecting‑rod failure reputation — the 'rod bender'. Catastrophic failure can occur without warning. Many specialists advise avoiding these cars entirely unless the engine has been fully rebuilt.",
+        "whoItsFor": "only buyers who can verify a full engine rebuild."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M120 V12 (S 600)",
+        "quote": "The 6.0‑litre V12 — 394 PS, an engineering masterpiece. But 12 coil packs, engine mounts, and specialist labour add up fast. The price of V12 ownership is significant.",
+        "whoItsFor": "collectors and enthusiasts who understand V12 running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "M119 5.0 V8 (S 500)",
+        "quote": "The 5.0‑litre V8 — 320 PS, V8 prestige without V12 running costs. Timing‑chain guides are the only significant weak point. Budget for guide replacement and this is the W140 sweet spot.",
+        "whoItsFor": "buyers who want the flagship W140 experience at a reasonable running cost."
+      }
+    ]
   },
   "ownershipEconomics": {
     "h2": "Mercedes S‑Class W140 — Ownership Economics",

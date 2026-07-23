@@ -183,31 +183,31 @@
         "parent":  "cla",
         "type":  "variants",
         "dataFile":  "cla-class-cla250",
-        "slug":  "class-cla250"
+        "slug":  "cla250"
     },
     {
         "parent":  "cla",
         "type":  "variants",
         "dataFile":  "cla-class-cla35-amg",
-        "slug":  "class-cla35-amg"
+        "slug":  "cla35-amg"
     },
     {
         "parent":  "cla",
         "type":  "variants",
         "dataFile":  "cla-class-cla45-amg",
-        "slug":  "class-cla45-amg"
+        "slug":  "cla45-amg"
     },
     {
         "parent":  "clc",
         "type":  "variants",
         "dataFile":  "clc-class-clc180-200-petrol",
-        "slug":  "class-clc180-200-petrol"
+        "slug":  "clc180-200-petrol"
     },
     {
         "parent":  "clc",
         "type":  "variants",
         "dataFile":  "clc-class-clc200-clc220-cdi",
-        "slug":  "class-clc200-clc220-cdi"
+        "slug":  "clc200-clc220-cdi"
     },
     {
         "parent":  "clk",
@@ -399,13 +399,13 @@
         "parent":  "gla",
         "type":  "variants",
         "dataFile":  "gla-class-gla200d-220d",
-        "slug":  "class-gla200d-220d"
+        "slug":  "gla200d-220d"
     },
     {
         "parent":  "gla",
         "type":  "variants",
         "dataFile":  "gla-class-gla35-amg",
-        "slug":  "class-gla35-amg"
+        "slug":  "gla35-amg"
     },
     {
         "parent":  "glc",
@@ -417,61 +417,61 @@
         "parent":  "glc",
         "type":  "variants",
         "dataFile":  "glc-class-glc220d-250d",
-        "slug":  "class-glc220d-250d"
+        "slug":  "glc220d-250d"
     },
     {
         "parent":  "glc",
         "type":  "variants",
         "dataFile":  "glc-class-glc-300d",
-        "slug":  "class-glc-300d"
+        "slug":  "glc-300d"
     },
     {
         "parent":  "glc",
         "type":  "variants",
         "dataFile":  "glc-class-glc350d-400d",
-        "slug":  "class-glc350d-400d"
+        "slug":  "glc350d-400d"
     },
     {
         "parent":  "glc",
         "type":  "variants",
         "dataFile":  "glc-class-glc43-amg",
-        "slug":  "class-glc43-amg"
+        "slug":  "glc43-amg"
     },
     {
         "parent":  "glc",
         "type":  "variants",
         "dataFile":  "glc-class-glc63-amg",
-        "slug":  "class-glc63-amg"
+        "slug":  "glc63-amg"
     },
     {
         "parent":  "gle",
         "type":  "variants",
         "dataFile":  "gle-class-gle250d-300d",
-        "slug":  "class-gle250d-300d"
+        "slug":  "gle250d-300d"
     },
     {
         "parent":  "gle",
         "type":  "variants",
         "dataFile":  "gle-class-gle350-450-petrol",
-        "slug":  "class-gle350-450-petrol"
+        "slug":  "gle350-450-petrol"
     },
     {
         "parent":  "gle",
         "type":  "variants",
         "dataFile":  "gle-class-gle350d-400d",
-        "slug":  "class-gle350d-400d"
+        "slug":  "gle350d-400d"
     },
     {
         "parent":  "gle",
         "type":  "variants",
         "dataFile":  "gle-class-gle53-amg",
-        "slug":  "class-gle53-amg"
+        "slug":  "gle53-amg"
     },
     {
         "parent":  "gle",
         "type":  "variants",
         "dataFile":  "gle-class-gle-63-amg",
-        "slug":  "class-gle-63-amg"
+        "slug":  "gle-63-amg"
     },
     {
         "parent":  "glk",
@@ -489,13 +489,13 @@
         "parent":  "glk",
         "type":  "variants",
         "dataFile":  "glk-class-glk220-250-cdi",
-        "slug":  "class-glk220-250-cdi"
+        "slug":  "glk220-250-cdi"
     },
     {
         "parent":  "gls",
         "type":  "variants",
         "dataFile":  "gls-class-gls63-amg",
-        "slug":  "class-gls63-amg"
+        "slug":  "gls63-amg"
     },
     {
         "parent":  "gls",

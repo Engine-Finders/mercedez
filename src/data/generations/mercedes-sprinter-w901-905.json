@@ -399,12 +399,108 @@
   },
   "engineDatabase": {
     "h2": "Mercedes Sprinter W901–905 Engine Codes — The Complete Database",
-    "subHeadline": "",
-    "columns": [],
-    "engines": [],
+    "subHeadline": "Every engine fitted to the first‑generation Sprinter (T1N) — spanning Phase I (1995–2000) and Phase II (2000–2006) with the introduction of CDI common‑rail technology.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W901–905)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "OM601.943",
+        "family": "OM601",
+        "fuel": "Diesel, naturally aspirated I4",
+        "displacement": "2.3L (2,299 cc)",
+        "power": "79 PS (58 kW)",
+        "years": "1995–2000",
+        "model": "W901–905",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£1,500–£3,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM602.980",
+        "family": "OM602",
+        "fuel": "Diesel, turbo I5",
+        "displacement": "2.9L (2,874 cc)",
+        "power": "102 PS (75 kW)",
+        "years": "1995–2000",
+        "model": "W901–905",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,000–£4,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM602.980",
+        "family": "OM602",
+        "fuel": "Diesel, turbo I5",
+        "displacement": "2.9L (2,874 cc)",
+        "power": "122 PS (90 kW)",
+        "years": "1995–2000",
+        "model": "W901–905",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,200–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M111.979 / .984",
+        "family": "M111",
+        "fuel": "Petrol, I4",
+        "displacement": "2.3L (2,295 cc)",
+        "power": "143 PS (105 kW)",
+        "years": "1995–2006",
+        "model": "W901–905",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£1,800–£3,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM611.981",
+        "family": "OM611",
+        "fuel": "Diesel, turbo I4 CDI",
+        "displacement": "2.1L (2,148 cc)",
+        "power": "109 PS (80 kW)",
+        "years": "2000–2006",
+        "model": "W901–905",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,500–£4,800 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM611.987",
+        "family": "OM611",
+        "fuel": "Diesel, turbo I4 CDI",
+        "displacement": "2.1L (2,148 cc)",
+        "power": "129 PS (95 kW)",
+        "years": "2000–2006",
+        "model": "W901–905",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,800–£5,200 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM612.981",
+        "family": "OM612",
+        "fuel": "Diesel, turbo I5 CDI",
+        "displacement": "2.7L",
+        "power": "156 PS (115 kW)",
+        "years": "2000–2006",
+        "model": "W901–905",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£3,500–£6,000 [MB‑QUOTE]"
+      }
+    ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The OM601 and OM602 naturally‑aspirated/turbo units are widely regarded as among the most durable diesel engines Mercedes ever built."
+      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The OM601 and OM602 naturally‑aspirated/turbo units are widely regarded as among the most durable diesel engines Mercedes ever built. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes Sprinter Model Page."
     },
     "dataCorrections": []
   },
@@ -415,7 +511,38 @@
     "marketIntelligenceLine": "No W901–905‑specific enquiry figure is available; the first‑generation Sprinter remains a commercial‑vehicle icon, with the OM601 and OM602 diesels generating the strongest enthusiast following."
   },
   "bestWorstEngines": {
-    "items": []
+    "items": [
+      {
+        "slot": "Most Reliable Diesel",
+        "engine": "OM601.943 (208 D / 308 D / 408 D)",
+        "quote": "The 2.3‑litre naturally‑aspirated diesel — 79 PS, legendary durability, and a reputation for exceeding 300,000 miles with basic maintenance. The ultimate 'fit and forget' workhorse.",
+        "whoItsFor": "buyers who value simplicity and durability above all else."
+      },
+      {
+        "slot": "Best Diesel All‑Rounder",
+        "engine": "OM602.980 122 PS (212 D / 312 D / 412 D)",
+        "quote": "The 2.9‑litre five‑cylinder turbo‑diesel — 122 PS, strong torque for heavier payloads, and the best balance of power and durability in the pre‑CDI range. The turbo is the only real weak point.",
+        "whoItsFor": "buyers who need more power than the OM601 but want proven durability."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "OM611 / OM612 CDI (post‑2000)",
+        "quote": "The common‑rail CDI units brought common‑rail refinement but introduced electronic complexity and injector wear. High‑mileage examples without documented injector history should be approached with caution.",
+        "whoItsFor": "buyers who can verify injector service history."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "OM612.981 (216 CDI / 316 CDI / 416 CDI)",
+        "quote": "The 2.7‑litre five‑cylinder CDI — 156 PS, the most powerful first‑gen Sprinter. But injector failure and turbo wear add up fast. The highest running costs of the T1N generation.",
+        "whoItsFor": "buyers who need maximum power and are prepared for higher running costs."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM602.980 102 PS (210 D / 310 D / 410 D)",
+        "quote": "The 2.9‑litre five‑cylinder turbo‑diesel — 102 PS, proven durability, and moderate running costs. The sweet spot of pre‑CDI Sprinter ownership.",
+        "whoItsFor": "the default choice for budget‑conscious Sprinter buyers who need a reliable workhorse."
+      }
+    ]
   },
   "ownershipEconomics": {
     "h2": "Mercedes Sprinter W901–905 — Ownership Economics",

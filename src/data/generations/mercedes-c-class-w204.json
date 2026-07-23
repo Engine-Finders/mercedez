@@ -315,12 +315,108 @@
   },
   "engineDatabase": {
     "h2": "Mercedes C‑Class W204 Engine Codes — The Complete Database",
-    "subHeadline": "",
-    "columns": [],
-    "engines": [],
+    "subHeadline": "Every engine fitted to the W204 saloon specifically — including the pre‑facelift M272 V6 balance‑shaft risk and the post‑2011 M276 replacement.",
+    "columns": [
+      "Engine Code",
+      "Family",
+      "Fuel",
+      "Displacement",
+      "Power",
+      "Years (W204 saloon)",
+      "Variants (badges)",
+      "Reliability",
+      "2025 Enquiries",
+      "Avg. Recon Cost"
+    ],
+    "engines": [
+      {
+        "engineCode": "M271.820 / .952",
+        "family": "M271",
+        "fuel": "Petrol, supercharged / CGI turbo",
+        "displacement": "1.8L",
+        "power": "156–184 PS",
+        "years": "2007–2014",
+        "model": "W204",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£1,500–£3,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M272.921 / .911 / .947 / .948",
+        "family": "M272",
+        "fuel": "Petrol, naturally aspirated V6",
+        "displacement": "2.5–3.0L",
+        "power": "204–231 PS",
+        "years": "2007–2010",
+        "model": "W204",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,500–£5,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M276DE35",
+        "family": "M276",
+        "fuel": "Petrol, naturally aspirated V6",
+        "displacement": "3.5L",
+        "power": "306 PS",
+        "years": "2011–2014",
+        "model": "W204",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£3,000–£6,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "M156E63",
+        "family": "M156",
+        "fuel": "Petrol, naturally aspirated V8",
+        "displacement": "6.2L",
+        "power": "457–517 PS",
+        "years": "2008–2014",
+        "model": "W204 (C 63 AMG)",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£6,000–£12,000 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM646DE22LA",
+        "family": "OM646",
+        "fuel": "Diesel, turbo I4",
+        "displacement": "2.1L",
+        "power": "136–170 PS",
+        "years": "2007–2010",
+        "model": "W204",
+        "reliability": "★★★★☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "— (pattern data)",
+        "avgRebuildCost": "£2,500–£4,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM651DE22LA",
+        "family": "OM651",
+        "fuel": "Diesel, turbo I4",
+        "displacement": "2.1L",
+        "power": "136–204 PS",
+        "years": "2009–2014",
+        "model": "W204",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "1,250 family‑wide [MB‑VERIFIED]",
+        "avgRebuildCost": "£2,800–£5,500 [MB‑QUOTE]"
+      },
+      {
+        "engineCode": "OM642.910 / .961",
+        "family": "OM642",
+        "fuel": "Diesel, turbo V6",
+        "displacement": "3.0L",
+        "power": "224–265 PS",
+        "years": "2007–2010",
+        "model": "W204",
+        "reliability": "★★★☆☆ [PROVISIONAL — pending dedicated Engine Page]",
+        "enquiries": "880 family‑wide [MB‑VERIFIED]",
+        "avgRebuildCost": "£3,200–£6,000 [MB‑QUOTE]"
+      }
+    ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "OM651 and OM642 ratings: 95% confidence, inherited from the Model Page where one exists. M271, M272, M276, M156, and OM646: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
+      "text": "OM651 and OM642 ratings: 95% confidence, inherited from the Model Page where one exists. M271, M272, M276, M156, and OM646: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes C‑Class Model Page."
     },
     "dataCorrections": []
   },
@@ -331,7 +427,38 @@
     "marketIntelligenceLine": "No W204‑specific enquiry figure is available; OM651 diesel enquiries dominate the broader Mercedes compact‑car parc, with 1,250 UK requests in 2025 [MB‑VERIFIED]."
   },
   "bestWorstEngines": {
-    "items": []
+    "items": [
+      {
+        "slot": "Best Diesel Overall",
+        "engine": "OM646DE22LA (C 200 CDI / C 220 CDI, pre‑2010)",
+        "quote": "The 2.1‑litre four‑cylinder diesel — 136–170 PS, simple, robust, and lacking the rear‑mounted timing chain of its OM651 successor. The OM646 is the most dependable diesel in the entire W204 range.",
+        "whoItsFor": "buyers who want a proven, low‑maintenance W204 diesel."
+      },
+      {
+        "slot": "Best Petrol Overall",
+        "engine": "M276DE35 (C 350, post‑2011)",
+        "quote": "The 3.5‑litre naturally aspirated V6 — 306 PS, smooth, and a significant improvement over the balance‑shaft‑prone M272. Post‑2011 M276 V6s are the safest petrol W204s to buy.",
+        "whoItsFor": "buyers who want V6 refinement without the M272 balance‑shaft risk."
+      },
+      {
+        "slot": "Highest Risk",
+        "engine": "M272 V6 (pre‑2009, C 230 / C 280 / C 300)",
+        "quote": "Pre‑2009 M272 V6 petrols carry a well‑documented balance‑shaft gear wear issue that can be catastrophic if ignored. Always verify that the balance‑shaft gear has been replaced before buying.",
+        "whoItsFor": "buyers willing to verify full engine history before purchase."
+      },
+      {
+        "slot": "Most Expensive Failure",
+        "engine": "M156E63 (C 63 AMG)",
+        "quote": "The 6.2‑litre AMG V8 — 457–517 PS, and a genuine performance icon. But cam lifter wear and head‑bolt issues on early cars can cost £1,500–£4,000 to fix. Budget for it.",
+        "whoItsFor": "enthusiasts who understand the AMG tax."
+      },
+      {
+        "slot": "Best Value",
+        "engine": "OM651DE22LA (C 220 CDI, post‑2011)",
+        "quote": "The 2.1‑litre common‑rail diesel — 170 PS, strong economy, and the most popular W204 diesel. Provided the timing chain has been checked, this is the sweet spot of W204 ownership.",
+        "whoItsFor": "the default choice for UK W204 buyers seeking economy and value."
+      }
+    ]
   },
   "ownershipEconomics": {
     "h2": "Mercedes C‑Class W204 — Ownership Economics",
