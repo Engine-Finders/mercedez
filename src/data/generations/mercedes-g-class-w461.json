@@ -608,15 +608,36 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "290 GD",
-      "G 290 D",
-      "G 290 TD",
-      "G 280 CDI",
-      "G 300 CDI",
-      "G 350 d"
+      {
+        "name": "290 GD",
+        "url": "#"
+      },
+      {
+        "name": "G 290 D",
+        "url": "#"
+      },
+      {
+        "name": "G 290 TD",
+        "url": "#"
+      },
+      {
+        "name": "G 280 CDI",
+        "url": "#"
+      },
+      {
+        "name": "G 300 CDI",
+        "url": "#"
+      },
+      {
+        "name": "G 350 d",
+        "url": "https://mercedesengines.uk/g-class/g350d"
+      }
     ],
     "petrolVariants": [
-      "230 GE"
+      {
+        "name": "230 GE",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W461 (utilitarian/military G-Class, 1990–2021) only. The W463 (luxury G-Class) shares some engines but is covered on a separate Generation Page. The G 350 d (OM642.887) was introduced in 2015 as a more powerful Professional variant."
   },

@@ -531,15 +531,30 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "SLC 250 d"
+      {
+        "name": "SLC 250 d",
+        "url": "https://mercedesengines.uk/slc/220d-250d"
+      }
     ],
     "petrolVariants": [
-      "SLC 180",
-      "SLC 200",
-      "SLC 300",
-      "SLC 43 AMG"
+      {
+        "name": "SLC 180",
+        "url": "https://mercedesengines.uk/slc/slc180-200"
+      },
+      {
+        "name": "SLC 200",
+        "url": "https://mercedesengines.uk/slc/slc180-200"
+      },
+      {
+        "name": "SLC 300",
+        "url": "#"
+      },
+      {
+        "name": "SLC 43 AMG",
+        "url": "https://mercedesengines.uk/slc/slc43-amg"
+      }
     ],
     "scopeNote": "All variants listed are R172 SLC facelift (2016–2020) only. Pre‑facelift SLK models (2011–2015) are covered on their own Generation Page."
   },

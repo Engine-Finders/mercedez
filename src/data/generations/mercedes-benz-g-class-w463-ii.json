@@ -324,14 +324,26 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "G 350 d",
-      "G 400 d"
+      {
+        "name": "G 350 d",
+        "url": "https://mercedesengines.uk/g-class/g350d"
+      },
+      {
+        "name": "G 400 d",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "G 500",
-      "AMG G 63"
+      {
+        "name": "G 500",
+        "url": "https://mercedesengines.uk/g-class/g500-g550"
+      },
+      {
+        "name": "AMG G 63",
+        "url": "https://mercedesengines.uk/g-class/g63-amg"
+      }
     ],
     "scopeNote": ""
   },

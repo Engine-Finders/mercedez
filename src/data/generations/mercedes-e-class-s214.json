@@ -759,20 +759,50 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — S214 estate shares its MRA2-derived engine bay with the W214 saloon and X214 All-Terrain, so costs are inherited directly per the Authority Model, with no divergence note required. M256 AMG costs reflect AMG-specific parts, the electric auxiliary compressor, hybrid system components, and specialist labour requirements."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 220d",
-      "E 300de",
-      "E 450d"
+      {
+        "name": "E 220d",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 300de",
+        "url": "#"
+      },
+      {
+        "name": "E 450d",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "E 200",
-      "E 300",
-      "E 350",
-      "E 300e",
-      "E 350e",
-      "E 400e",
-      "E 450"
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 300",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 350",
+        "url": "#"
+      },
+      {
+        "name": "E 300e",
+        "url": "#"
+      },
+      {
+        "name": "E 350e",
+        "url": "#"
+      },
+      {
+        "name": "E 400e",
+        "url": "#"
+      },
+      {
+        "name": "E 450",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      }
     ],
     "scopeNote": "All variants listed are S214 estate only. W214 Saloon and X214 All-Terrain share most of these engines but are covered on their own Generation Pages, as fitment and labour access vary slightly by body style. The S214 estate's 25.4 kWh battery is shared across PHEV variants."
   },

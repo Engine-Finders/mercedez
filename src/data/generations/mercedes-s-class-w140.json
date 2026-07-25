@@ -749,22 +749,58 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — W140 shares its engine bay architecture across its long production run, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "300 SD",
-      "S 350 Turbodiesel",
-      "S 300 Turbodiesel"
+      {
+        "name": "300 SD",
+        "url": "#"
+      },
+      {
+        "name": "S 350 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "S 300 Turbodiesel",
+        "url": "https://mercedesengines.uk/s-class/s300-s320-diesel-older"
+      }
     ],
     "petrolVariants": [
-      "300 SE",
-      "S 280",
-      "S 320",
-      "400 SE / SEL",
-      "S 420",
-      "500 SE / SEL",
-      "S 500",
-      "600 SE / SEL",
-      "S 600"
+      {
+        "name": "300 SE",
+        "url": "#"
+      },
+      {
+        "name": "S 280",
+        "url": "https://mercedesengines.uk/s-class/s280-320-350-420-petrol"
+      },
+      {
+        "name": "S 320",
+        "url": "https://mercedesengines.uk/s-class/s280-320-350-420-petrol"
+      },
+      {
+        "name": "400 SE / SEL",
+        "url": "#"
+      },
+      {
+        "name": "S 420",
+        "url": "https://mercedesengines.uk/s-class/s280-320-350-420-petrol"
+      },
+      {
+        "name": "500 SE / SEL",
+        "url": "#"
+      },
+      {
+        "name": "S 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "600 SE / SEL",
+        "url": "#"
+      },
+      {
+        "name": "S 600",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      }
     ],
     "scopeNote": "All variants listed are W140 saloon only. C140 Coupé (later CL‑Class) shares most of these engines but is covered on its own Generation Page."
   },

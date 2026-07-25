@@ -805,22 +805,58 @@
     ],
     "note": "No Generation variance from the baseline figures — the CL203 shares its engine bay layout with the W203 saloon, so costs are consistent."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C200 CDI",
-      "C220 CDI",
-      "C270 CDI",
-      "C30 CDI AMG",
-      "C320 CDI"
+      {
+        "name": "C200 CDI",
+        "url": "https://mercedesengines.uk/c-class/c200-cdi"
+      },
+      {
+        "name": "C220 CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C270 CDI",
+        "url": "https://mercedesengines.uk/c-class/270-280-300-cdi"
+      },
+      {
+        "name": "C30 CDI AMG",
+        "url": "#"
+      },
+      {
+        "name": "C320 CDI",
+        "url": "https://mercedesengines.uk/c-class/c320-c350-cdi"
+      }
     ],
     "petrolVariants": [
-      "C160 Kompressor",
-      "C180 Kompressor",
-      "C200 Kompressor",
-      "C230 Kompressor",
-      "C32 AMG Kompressor",
-      "C350",
-      "C55 AMG"
+      {
+        "name": "C160 Kompressor",
+        "url": "#"
+      },
+      {
+        "name": "C180 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C230 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c220-230-petrol"
+      },
+      {
+        "name": "C32 AMG Kompressor",
+        "url": "#"
+      },
+      {
+        "name": "C350",
+        "url": "https://mercedesengines.uk/c-class/c350-c400-petrol"
+      },
+      {
+        "name": "C55 AMG",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are CL203 (C-Class SportCoupé/CLC, 2000–2011) only. The CL203 was rebadged as the CLC-Class from 2008 to 2011, but the underlying platform and engine range remained largely unchanged. The CLC 180 Kompressor (M271.950) and CLC 200 CDI (OM646.962) are included here as part of the same CL203 generation."
   },

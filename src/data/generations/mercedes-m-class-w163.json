@@ -706,18 +706,42 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M111, M112, M113, OM612 or OM628 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W163's body‑on‑frame SUV labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "ML 270 CDI",
-      "ML 400 CDI"
+      {
+        "name": "ML 270 CDI",
+        "url": "https://mercedesengines.uk/m-class/ml270-320-cdi"
+      },
+      {
+        "name": "ML 400 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "ML 230",
-      "ML 320",
-      "ML 350",
-      "ML 430",
-      "ML 500",
-      "ML 55 AMG"
+      {
+        "name": "ML 230",
+        "url": "#"
+      },
+      {
+        "name": "ML 320",
+        "url": "https://mercedesengines.uk/m-class/ml-petrol"
+      },
+      {
+        "name": "ML 350",
+        "url": "https://mercedesengines.uk/m-class/ml-petrol"
+      },
+      {
+        "name": "ML 430",
+        "url": "#"
+      },
+      {
+        "name": "ML 500",
+        "url": "https://mercedesengines.uk/m-class/ml500-ml550-ml63-amg"
+      },
+      {
+        "name": "ML 55 AMG",
+        "url": "https://mercedesengines.uk/m-class/ml500-ml550-ml63-amg"
+      }
     ],
     "scopeNote": "All variants listed are W163 five‑door SUV only. The W163 was the first‑generation M‑Class and was available exclusively as a five‑door SUV. The successor W164 launched in 2005."
   },

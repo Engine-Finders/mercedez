@@ -547,13 +547,28 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "108 CDI",
-      "110 CDI",
-      "112 CDI"
+      {
+        "name": "108 CDI",
+        "url": "https://mercedesengines.uk/citan/108-112-cdi"
+      },
+      {
+        "name": "110 CDI",
+        "url": "https://mercedesengines.uk/citan/108-112-cdi"
+      },
+      {
+        "name": "112 CDI",
+        "url": "https://mercedesengines.uk/citan/108-112-cdi"
+      }
     ],
     "petrolVariants": [
-      "110",
-      "113"
+      {
+        "name": "110",
+        "url": "https://mercedesengines.uk/citan/citan-petrol"
+      },
+      {
+        "name": "113",
+        "url": "https://mercedesengines.uk/citan/citan-petrol"
+      }
     ],
     "scopeNote": "All variants listed are W420 Citan (2021–2026) only. Pre‑facelift W415 Citan (2012–2021) is covered on its own Generation Page. The T‑Class passenger variant shares the same engine line‑up."
   },

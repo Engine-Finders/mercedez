@@ -735,19 +735,52 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "C 200 CDI",
-      "C 220 CDI",
-      "C 250 CDI",
-      "C 320 CDI"
+      {
+        "name": "C 200 CDI",
+        "url": "https://mercedesengines.uk/c-class/c200-cdi"
+      },
+      {
+        "name": "C 220 CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C 250 CDI",
+        "url": "https://mercedesengines.uk/c-class/c250-cdi"
+      },
+      {
+        "name": "C 320 CDI",
+        "url": "https://mercedesengines.uk/c-class/c320-c350-cdi"
+      }
     ],
     "petrolVariants": [
-      "C 180",
-      "C 200",
-      "C 230",
-      "C 280",
-      "C 300",
-      "C 350",
-      "C 63 AMG"
+      {
+        "name": "C 180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 200",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 230",
+        "url": "https://mercedesengines.uk/c-class/c220-230-petrol"
+      },
+      {
+        "name": "C 280",
+        "url": "https://mercedesengines.uk/c-class/c220-230-petrol"
+      },
+      {
+        "name": "C 300",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C 350",
+        "url": "https://mercedesengines.uk/c-class/c350-c400-petrol"
+      },
+      {
+        "name": "C 63 AMG",
+        "url": "https://mercedesengines.uk/c-class/c63-amg"
+      }
     ],
     "scopeNote": "All variants listed are W204 saloon only. S204 Estate and C204 Coupé share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style."
   },

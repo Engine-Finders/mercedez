@@ -552,16 +552,40 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "GL 350 CDI",
-      "GLS 350 d"
+      {
+        "name": "GL 350 CDI",
+        "url": "https://mercedesengines.uk/gls/gls350d-400d"
+      },
+      {
+        "name": "GLS 350 d",
+        "url": "https://mercedesengines.uk/gls/gls350d-400d"
+      }
     ],
     "petrolVariants": [
-      "GL 400",
-      "GLS 400",
-      "GL 500",
-      "GLS 500",
-      "GL 63 AMG",
-      "GLS 63 AMG"
+      {
+        "name": "GL 400",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "GLS 400",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "GL 500",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "GLS 500",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "GL 63 AMG",
+        "url": "https://mercedesengines.uk/gls/gls63-amg"
+      },
+      {
+        "name": "GLS 63 AMG",
+        "url": "https://mercedesengines.uk/gls/gls63-amg"
+      }
     ],
     "scopeNote": "All variants listed are X166 SUV only. The X166 was a standalone full‑size SUV with no direct sibling body styles in this generation (unlike the smaller GLE, which had a coupé variant)."
   },

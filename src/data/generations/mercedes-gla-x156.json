@@ -569,16 +569,40 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "GLA 180 CDI / d",
-      "GLA 200 CDI / d",
-      "GLA 220 CDI / d"
+      {
+        "name": "GLA 180 CDI / d",
+        "url": "https://mercedesengines.uk/gla/gla200d-220d"
+      },
+      {
+        "name": "GLA 200 CDI / d",
+        "url": "https://mercedesengines.uk/gla/gla200d-220d"
+      },
+      {
+        "name": "GLA 220 CDI / d",
+        "url": "https://mercedesengines.uk/gla/gla200d-220d"
+      }
     ],
     "petrolVariants": [
-      "GLA 180",
-      "GLA 200",
-      "GLA 250",
-      "GLA 250 4MATIC",
-      "GLA 45 AMG 4MATIC"
+      {
+        "name": "GLA 180",
+        "url": "https://mercedesengines.uk/gla/gla200-250-petrol"
+      },
+      {
+        "name": "GLA 200",
+        "url": "https://mercedesengines.uk/gla/gla200-250-petrol"
+      },
+      {
+        "name": "GLA 250",
+        "url": "https://mercedesengines.uk/gla/gla200-250-petrol"
+      },
+      {
+        "name": "GLA 250 4MATIC",
+        "url": "https://mercedesengines.uk/gla/gla200-250-petrol"
+      },
+      {
+        "name": "GLA 45 AMG 4MATIC",
+        "url": "https://mercedesengines.uk/gla/gla45"
+      }
     ],
     "scopeNote": "All variants listed are X156 first‑generation GLA only. The GLA was a new model line in 2013, so there is no direct predecessor within the GLA nameplate."
   },

@@ -611,10 +611,22 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "SLK 200 Kompressor",
-      "SLK 280",
-      "SLK 350",
-      "SLK 55 AMG"
+      {
+        "name": "SLK 200 Kompressor",
+        "url": "https://mercedesengines.uk/slk/slk200-230-kompressor"
+      },
+      {
+        "name": "SLK 280",
+        "url": "https://mercedesengines.uk/slk/slk250-350"
+      },
+      {
+        "name": "SLK 350",
+        "url": "https://mercedesengines.uk/slk/slk250-350"
+      },
+      {
+        "name": "SLK 55 AMG",
+        "url": "https://mercedesengines.uk/slk/slk-55-amg"
+      }
     ],
     "scopeNote": "All variants listed are R171 two‑door roadster only. The R171 was not available with diesel engines — only petrol four‑cylinder, V6 and V8 options were offered. The successor R172 was later renamed SLC."
   },

@@ -829,20 +829,50 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 220 d",
-      "E 350 d",
-      "E 400 d 4MATIC"
+      {
+        "name": "E 220 d",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 350 d",
+        "url": "https://mercedesengines.uk/e-class/e350d-e400d"
+      },
+      {
+        "name": "E 400 d 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e350d-e400d"
+      }
     ],
     "petrolVariants": [
-      "E 200",
-      "E 300",
-      "E 400 4MATIC",
-      "E 450 4MATIC",
-      "AMG E 53 4MATIC+",
-      "AMG E 63",
-      "AMG E 63 S"
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 300",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 400 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "E 450 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "AMG E 53 4MATIC+",
+        "url": "https://mercedesengines.uk/e-class/e53-amg"
+      },
+      {
+        "name": "AMG E 63",
+        "url": "https://mercedesengines.uk/e-class/e63-amg"
+      },
+      {
+        "name": "AMG E 63 S",
+        "url": "https://mercedesengines.uk/e-class/e63-amg"
+      }
     ],
     "scopeNote": "All variants listed are A238 cabriolet only. W213 saloon, S213 estate, and C238 coupé share most of these engines but are covered on their own Generation Pages, since body style affects weight, aerodynamics, and to some extent, labour access. The A238 was produced from June 2017 to 2023, with a facelift in 2020."
   },

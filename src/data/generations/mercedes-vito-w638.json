@@ -618,15 +618,36 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "108 D",
-      "110 D",
-      "108 CDI",
-      "110 CDI",
-      "112 CDI"
+      {
+        "name": "108 D",
+        "url": "https://mercedesengines.uk/vito/108-112-cdi-older"
+      },
+      {
+        "name": "110 D",
+        "url": "https://mercedesengines.uk/vito/108-112-cdi-older"
+      },
+      {
+        "name": "108 CDI",
+        "url": "https://mercedesengines.uk/vito/108-112-cdi-older"
+      },
+      {
+        "name": "110 CDI",
+        "url": "https://mercedesengines.uk/vito/108-112-cdi-older"
+      },
+      {
+        "name": "112 CDI",
+        "url": "https://mercedesengines.uk/vito/108-112-cdi-older"
+      }
     ],
     "petrolVariants": [
-      "113",
-      "V 230"
+      {
+        "name": "113",
+        "url": "https://mercedesengines.uk/vito/petrol"
+      },
+      {
+        "name": "V 230",
+        "url": "https://mercedesengines.uk/vito/petrol"
+      }
     ],
     "scopeNote": "All variants listed are W638 Vito van only. Viano / V‑Class passenger variants share most of these engines but are covered on their own Generation Pages."
   },

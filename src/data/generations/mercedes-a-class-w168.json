@@ -629,16 +629,34 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "A160 CDI",
-      "A170 CDI"
+      {
+        "name": "A160 CDI",
+        "url": "https://mercedesengines.uk/a-class/160-170-cdi"
+      },
+      {
+        "name": "A170 CDI",
+        "url": "https://mercedesengines.uk/a-class/160-170-cdi"
+      }
     ],
     "petrolVariants": [
-      "A140",
-      "A160",
-      "A190",
-      "A210 Evolution"
+      {
+        "name": "A140",
+        "url": "#"
+      },
+      {
+        "name": "A160",
+        "url": "https://mercedesengines.uk/a-class/a160-a180-petrol"
+      },
+      {
+        "name": "A190",
+        "url": "#"
+      },
+      {
+        "name": "A210 Evolution",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W168 five-door hatchback only. The W169 (second generation) and Vaneo (MPV variant) share some engines but are covered on their own pages."
   },

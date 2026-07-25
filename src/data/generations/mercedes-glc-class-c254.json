@@ -735,15 +735,36 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "GLC 220d 4MATIC",
-      "GLC 300d 4MATIC",
-      "GLC 300de 4MATIC"
+      {
+        "name": "GLC 220d 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc220d-250d"
+      },
+      {
+        "name": "GLC 300d 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc-300d"
+      },
+      {
+        "name": "GLC 300de 4MATIC",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "GLC 200 4MATIC",
-      "GLC 300 4MATIC",
-      "GLC 300e 4MATIC",
-      "GLC 400e 4MATIC"
+      {
+        "name": "GLC 200 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "GLC 300 4MATIC",
+        "url": "https://mercedesengines.uk/glc/250-300-petrol"
+      },
+      {
+        "name": "GLC 300e 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "GLC 400e 4MATIC",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are C254 coupé only. X254 SUV shares most of these engines but is covered on its own Generation Page, as fitment and labour access vary slightly by body style. The C254's coupé roofline and sloping tailgate give it a more dynamic appearance than the upright GLC SUV."
   },

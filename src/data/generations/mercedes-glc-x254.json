@@ -750,20 +750,50 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M254, OM654 or M139 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the X254's SUV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs — budget an additional £5,000–£10,000 for battery replacement outside warranty."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLC 220 d",
-      "GLC 300 d",
-      "GLC 300 de"
+      {
+        "name": "GLC 220 d",
+        "url": "https://mercedesengines.uk/glc/glc220d-250d"
+      },
+      {
+        "name": "GLC 300 d",
+        "url": "https://mercedesengines.uk/glc/glc-300d"
+      },
+      {
+        "name": "GLC 300 de",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "GLC 180",
-      "GLC 200",
-      "GLC 300",
-      "GLC 300 e",
-      "GLC 400 e",
-      "GLC 43 AMG",
-      "GLC 63 S E Performance"
+      {
+        "name": "GLC 180",
+        "url": "#"
+      },
+      {
+        "name": "GLC 200",
+        "url": "#"
+      },
+      {
+        "name": "GLC 300",
+        "url": "https://mercedesengines.uk/glc/250-300-petrol"
+      },
+      {
+        "name": "GLC 300 e",
+        "url": "#"
+      },
+      {
+        "name": "GLC 400 e",
+        "url": "#"
+      },
+      {
+        "name": "GLC 43 AMG",
+        "url": "https://mercedesengines.uk/glc/glc43-amg"
+      },
+      {
+        "name": "GLC 63 S E Performance",
+        "url": "https://mercedesengines.uk/glc/glc63-amg"
+      }
     ],
     "scopeNote": "All variants listed are X254 five‑door SUV only. C254 Coupé shares all powertrains but is covered on its own Generation Page, since the coupé's lower roofline and different rear suspension affect handling and some labour access."
   },

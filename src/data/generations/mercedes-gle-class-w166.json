@@ -742,19 +742,46 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures — W166 SUV shares identical engine‑bay access with its C292 GLE Coupé sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLE 250 d",
-      "GLE 350 d"
+      {
+        "name": "GLE 250 d",
+        "url": "https://mercedesengines.uk/gle/gle250d-300d"
+      },
+      {
+        "name": "GLE 350 d",
+        "url": "https://mercedesengines.uk/gle/gle350d-400d"
+      }
     ],
     "petrolVariants": [
-      "GLE 400",
-      "GLE 450 AMG",
-      "GLE 43 AMG",
-      "GLE 500",
-      "GLE 500 e",
-      "GLE 63 AMG",
-      "GLE 63 S AMG"
+      {
+        "name": "GLE 400",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "GLE 450 AMG",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "GLE 43 AMG",
+        "url": "#"
+      },
+      {
+        "name": "GLE 500",
+        "url": "https://mercedesengines.uk/gle/gle500-gle580"
+      },
+      {
+        "name": "GLE 500 e",
+        "url": "#"
+      },
+      {
+        "name": "GLE 63 AMG",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      },
+      {
+        "name": "GLE 63 S AMG",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      }
     ],
     "scopeNote": "All variants listed are W166 GLE SUV only. C292 GLE Coupé shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },

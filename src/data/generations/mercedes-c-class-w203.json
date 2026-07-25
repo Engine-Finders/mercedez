@@ -763,18 +763,42 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — W203 saloon shares identical engine-bay access with its S203 estate and CL203 SportCoupé siblings, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C200 CDI",
-      "C220 CDI",
-      "C270 CDI"
+      {
+        "name": "C200 CDI",
+        "url": "https://mercedesengines.uk/c-class/c200-cdi"
+      },
+      {
+        "name": "C220 CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C270 CDI",
+        "url": "https://mercedesengines.uk/c-class/270-280-300-cdi"
+      }
     ],
     "petrolVariants": [
-      "C180",
-      "C180 Kompressor",
-      "C200 Kompressor",
-      "C240",
-      "C320"
+      {
+        "name": "C180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C180 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C240",
+        "url": "#"
+      },
+      {
+        "name": "C320",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W203 saloon only. S203 Estate and CL203 SportCoupé share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style."
   },

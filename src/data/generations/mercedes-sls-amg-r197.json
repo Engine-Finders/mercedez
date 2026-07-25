@@ -468,9 +468,18 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "SLS AMG Roadster",
-      "SLS AMG GT Roadster",
-      "SLS AMG Black Series"
+      {
+        "name": "SLS AMG Roadster",
+        "url": "https://mercedesengines.uk/sls-amg/62-v8"
+      },
+      {
+        "name": "SLS AMG GT Roadster",
+        "url": "https://mercedesengines.uk/sls-amg/sls-amg-gt"
+      },
+      {
+        "name": "SLS AMG Black Series",
+        "url": "https://mercedesengines.uk/sls-amg/black-series"
+      }
     ],
     "scopeNote": "All variants listed are R197 (SLS AMG Roadster, 2011–2014) only. The C197 Coupé shares the same M159 engine but is covered on a separate Generation Page per the one-page-per-body-code rule. The GT variant (591 bhp) was introduced in 2012; the Black Series (631 bhp) was introduced in 2013."
   },

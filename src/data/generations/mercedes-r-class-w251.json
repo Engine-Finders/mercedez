@@ -679,19 +679,46 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "R 280 CDI",
-      "R 320 CDI",
-      "R 350 CDI"
+      {
+        "name": "R 280 CDI",
+        "url": "https://mercedesengines.uk/r-class/r280-r320-cdi"
+      },
+      {
+        "name": "R 320 CDI",
+        "url": "https://mercedesengines.uk/r-class/r280-r320-cdi"
+      },
+      {
+        "name": "R 350 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "R 280",
-      "R 350",
-      "R 350 CGI",
-      "R 400",
-      "R 500",
-      "R 63 AMG"
+      {
+        "name": "R 280",
+        "url": "#"
+      },
+      {
+        "name": "R 350",
+        "url": "https://mercedesengines.uk/r-class/r350-r500-petrol"
+      },
+      {
+        "name": "R 350 CGI",
+        "url": "https://mercedesengines.uk/r-class/r350-r500-petrol"
+      },
+      {
+        "name": "R 400",
+        "url": "#"
+      },
+      {
+        "name": "R 500",
+        "url": "https://mercedesengines.uk/r-class/r350-r500-petrol"
+      },
+      {
+        "name": "R 63 AMG",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W251/V251 (R-Class, 2005–2017) only. The R 63 AMG was produced for the 2007 model year only, featuring a handbuilt 6.2-litre M156 V8. The R 500 was offered with both the M113 5.0-litre V8 (306 bhp) and the later M273 5.5-litre V8 (388 bhp). The R 400 (M276) replaced the R 350 in some markets post-2012."
   },

@@ -780,24 +780,66 @@
     ],
     "note": "No Generation variance from the baseline figures — the S212 shares its engine bay layout with the W212 saloon, so costs are consistent."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 200 CDI",
-      "E 220 CDI",
-      "E 250 CDI",
-      "E 250 BlueTEC",
-      "E 350 CDI",
-      "E 350 BlueTEC"
+      {
+        "name": "E 200 CDI",
+        "url": "https://mercedesengines.uk/e-class/e200-cdi-e200d"
+      },
+      {
+        "name": "E 220 CDI",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 250 CDI",
+        "url": "https://mercedesengines.uk/e-class/e250-cdi-e250d"
+      },
+      {
+        "name": "E 250 BlueTEC",
+        "url": "https://mercedesengines.uk/e-class/e250-cdi-e250d"
+      },
+      {
+        "name": "E 350 CDI",
+        "url": "https://mercedesengines.uk/e-class/e320-e350-cdi"
+      },
+      {
+        "name": "E 350 BlueTEC",
+        "url": "https://mercedesengines.uk/e-class/e320-e350-cdi"
+      }
     ],
     "petrolVariants": [
-      "E 200 CGI",
-      "E 200",
-      "E 300",
-      "E 350",
-      "E 400",
-      "E 500",
-      "E 63 AMG",
-      "E 63 AMG S-Model"
+      {
+        "name": "E 200 CGI",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 300",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 350",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 400",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 500",
+        "url": "https://mercedesengines.uk/e-class/e500-e550"
+      },
+      {
+        "name": "E 63 AMG",
+        "url": "https://mercedesengines.uk/e-class/e63-amg"
+      },
+      {
+        "name": "E 63 AMG S-Model",
+        "url": "https://mercedesengines.uk/e-class/e63-amg"
+      }
     ],
     "scopeNote": "All variants listed are S212 (E-Class estate, 2009–2016) only. The W212 saloon shares the same engines but is covered on a separate Generation Page per the one-page-per-body-code rule. The E 63 AMG S-Model (585 bhp) was introduced post-facelift with 4MATIC all-wheel drive. The E 400 replaced the E 350 post-facelift (2013)."
   },

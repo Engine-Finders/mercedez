@@ -621,18 +621,42 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the C257 shares its MRA platform with the E‑Class (W213), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLS 220 d",
-      "CLS 300 d 4MATIC",
-      "CLS 350 d 4MATIC",
-      "CLS 400 d 4MATIC"
+      {
+        "name": "CLS 220 d",
+        "url": "https://mercedesengines.uk/cls/cls220-250-cdi-220d"
+      },
+      {
+        "name": "CLS 300 d 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "CLS 350 d 4MATIC",
+        "url": "https://mercedesengines.uk/cls/cls350d-400d"
+      },
+      {
+        "name": "CLS 400 d 4MATIC",
+        "url": "https://mercedesengines.uk/cls/cls350d-400d"
+      }
     ],
     "petrolVariants": [
-      "CLS 350",
-      "CLS 350 4MATIC",
-      "CLS 450 4MATIC",
-      "AMG CLS 53 4MATIC+"
+      {
+        "name": "CLS 350",
+        "url": "https://mercedesengines.uk/cls/cls350-cls500-petrol"
+      },
+      {
+        "name": "CLS 350 4MATIC",
+        "url": "https://mercedesengines.uk/cls/cls350-cls500-petrol"
+      },
+      {
+        "name": "CLS 450 4MATIC",
+        "url": "https://mercedesengines.uk/cls/cls450-500"
+      },
+      {
+        "name": "AMG CLS 53 4MATIC+",
+        "url": "https://mercedesengines.uk/cls/cls63-amg"
+      }
     ],
     "scopeNote": "All variants listed are C257 four‑door coupé only. The CLS was discontinued after the C257 generation, with no direct successor planned."
   },

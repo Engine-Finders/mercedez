@@ -720,15 +720,33 @@
     ],
     "note": "No Generation variance from the baseline figures — the C215 shares its W220 platform with the S-Class saloon, and engine-bay access is consistent across the range."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "CL 500",
-      "CL 55 AMG",
-      "CL 55 AMG Kompressor",
-      "CL 600",
-      "CL 63 AMG",
-      "CL 65 AMG"
+      {
+        "name": "CL 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "CL 55 AMG",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      },
+      {
+        "name": "CL 55 AMG Kompressor",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      },
+      {
+        "name": "CL 600",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      },
+      {
+        "name": "CL 63 AMG",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      },
+      {
+        "name": "CL 65 AMG",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      }
     ],
     "scopeNote": "All variants listed are C215 CL-Class coupé only (1998–2006). The W220 S-Class saloon (1998–2005) shares most of these engines but is covered on its own Generation Page. Note the pre-facelift (1998–2002) and post-facelift (2002–2006) engine line-up differences: pre-facelift cars use M113 V8s and M137 V12s; post-facelift cars use M113K supercharged V8s and M275 twin-turbo V12s."
   },

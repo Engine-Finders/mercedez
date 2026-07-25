@@ -641,11 +641,26 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "GT 43 4MATIC+",
-      "GT 53 4MATIC+",
-      "GT 63 4MATIC+",
-      "GT 63 S 4MATIC+",
-      "GT 63 S E Performance 4MATIC+"
+      {
+        "name": "GT 43 4MATIC+",
+        "url": "https://mercedesengines.uk/amg-gt/gt-43"
+      },
+      {
+        "name": "GT 53 4MATIC+",
+        "url": "#"
+      },
+      {
+        "name": "GT 63 4MATIC+",
+        "url": "https://mercedesengines.uk/amg-gt/gt-63"
+      },
+      {
+        "name": "GT 63 S 4MATIC+",
+        "url": "https://mercedesengines.uk/amg-gt/gt-63"
+      },
+      {
+        "name": "GT 63 S E Performance 4MATIC+",
+        "url": "https://mercedesengines.uk/amg-gt/gt-63"
+      }
     ],
     "scopeNote": "All variants listed are X290 four-door liftback only. The two-door AMG GT (C190/R190) is a separate model with different chassis and should not be confused with this generation."
   },

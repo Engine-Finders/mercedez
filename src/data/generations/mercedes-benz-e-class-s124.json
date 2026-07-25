@@ -674,26 +674,74 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "200 T D",
-      "250 T D",
-      "250 TD Turbo",
-      "300 T D",
-      "300 TD Turbo",
-      "E 250 D",
-      "E 250 TD",
-      "E 300 TD"
+      {
+        "name": "200 T D",
+        "url": "#"
+      },
+      {
+        "name": "250 T D",
+        "url": "#"
+      },
+      {
+        "name": "250 TD Turbo",
+        "url": "#"
+      },
+      {
+        "name": "300 T D",
+        "url": "#"
+      },
+      {
+        "name": "300 TD Turbo",
+        "url": "#"
+      },
+      {
+        "name": "E 250 D",
+        "url": "#"
+      },
+      {
+        "name": "E 250 TD",
+        "url": "#"
+      },
+      {
+        "name": "E 300 TD",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "200 TE",
-      "230 TE",
-      "300 TE",
-      "300 TE‑24",
-      "E 200 T",
-      "E 220 T",
-      "E 280 T",
-      "E 36 T AMG"
+      {
+        "name": "200 TE",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "230 TE",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "300 TE",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "300 TE‑24",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 200 T",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 220 T",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 280 T",
+        "url": "#"
+      },
+      {
+        "name": "E 36 T AMG",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are S124 estate only. W124 Saloon, C124 Coupé and A124 Cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and production years vary by body style."
   },

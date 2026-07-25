@@ -695,16 +695,34 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLS 350 d 4MATIC",
-      "GLS 400 d 4MATIC"
+      {
+        "name": "GLS 350 d 4MATIC",
+        "url": "https://mercedesengines.uk/gls/gls350d-400d"
+      },
+      {
+        "name": "GLS 400 d 4MATIC",
+        "url": "https://mercedesengines.uk/gls/gls350d-400d"
+      }
     ],
     "petrolVariants": [
-      "GLS 450 4MATIC",
-      "GLS 580 4MATIC",
-      "AMG GLS 63 4MATIC+",
-      "Maybach GLS 600 4MATIC"
+      {
+        "name": "GLS 450 4MATIC",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "GLS 580 4MATIC",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "AMG GLS 63 4MATIC+",
+        "url": "https://mercedesengines.uk/gls/gls63-amg"
+      },
+      {
+        "name": "Maybach GLS 600 4MATIC",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are X167 GLS only. The GLS is a standalone model with no sibling body styles in this generation. The X167 was launched in October 2019, with a 2023 facelift bringing updated power outputs and styling changes. The Maybach GLS 600 is the ultra-luxury variant."
   },

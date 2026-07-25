@@ -637,16 +637,34 @@
     ],
     "note": "No Generation variance from the baseline figures — the CL203/CLC shares its engine bay layout with the W203 C-Class, so costs are consistent."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLC 200 CDI",
-      "CLC 220 CDI",
-      "CLC 320 CDI"
+      {
+        "name": "CLC 200 CDI",
+        "url": "https://mercedesengines.uk/clc/clc200-clc220-cdi"
+      },
+      {
+        "name": "CLC 220 CDI",
+        "url": "https://mercedesengines.uk/clc/clc200-clc220-cdi"
+      },
+      {
+        "name": "CLC 320 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "CLC 180 Kompressor",
-      "CLC 200 Kompressor",
-      "CLC 350"
+      {
+        "name": "CLC 180 Kompressor",
+        "url": "https://mercedesengines.uk/clc/clc180-200-petrol"
+      },
+      {
+        "name": "CLC 200 Kompressor",
+        "url": "https://mercedesengines.uk/clc/clc180-200-petrol"
+      },
+      {
+        "name": "CLC 350",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are CLC-Class (CL203, 2008–2011) only. The CLC 180 Kompressor was offered with both the supercharged M271.921/946 (143 bhp) and, in some markets, the later M271.950 turbo (184 bhp) — check your specific car's engine code. The CLC 350 (M272 V6) is a rare and desirable variant."
   },

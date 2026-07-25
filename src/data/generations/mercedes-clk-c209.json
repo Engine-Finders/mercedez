@@ -900,22 +900,58 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M271, M112, M272, M113, M156, OM612, OM646 or OM642 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., Mercedes OM651, OM642), adjusted for the C209's coupé‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLK 270 CDI",
-      "CLK 220 CDI",
-      "CLK 320 CDI"
+      {
+        "name": "CLK 270 CDI",
+        "url": "https://mercedesengines.uk/clk/clk270-clk320-cdi"
+      },
+      {
+        "name": "CLK 220 CDI",
+        "url": "https://mercedesengines.uk/clk/200-220-cdi"
+      },
+      {
+        "name": "CLK 320 CDI",
+        "url": "https://mercedesengines.uk/clk/clk270-clk320-cdi"
+      }
     ],
     "petrolVariants": [
-      "CLK 200 Kompressor",
-      "CLK 200 CGI",
-      "CLK 240",
-      "CLK 320",
-      "CLK 280",
-      "CLK 350",
-      "CLK 500",
-      "CLK 55 AMG",
-      "CLK 63 AMG"
+      {
+        "name": "CLK 200 Kompressor",
+        "url": "#"
+      },
+      {
+        "name": "CLK 200 CGI",
+        "url": "#"
+      },
+      {
+        "name": "CLK 240",
+        "url": "#"
+      },
+      {
+        "name": "CLK 320",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 280",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 350",
+        "url": "https://mercedesengines.uk/clk/clk350"
+      },
+      {
+        "name": "CLK 500",
+        "url": "#"
+      },
+      {
+        "name": "CLK 55 AMG",
+        "url": "https://mercedesengines.uk/clk/clk55-63-amg"
+      },
+      {
+        "name": "CLK 63 AMG",
+        "url": "https://mercedesengines.uk/clk/clk55-63-amg"
+      }
     ],
     "scopeNote": "All variants listed are C209 two‑door coupé only. A209 cabriolet shares most of these engines but is covered on its own Generation Page, since the cabriolet's additional structural bracing and weight affect performance and running costs."
   },

@@ -1291,28 +1291,82 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — S211 estate shares its W211-derived engine bay with the saloon, so costs are inherited directly per the Authority Model, with no divergence note required. M156 AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 200 CDI",
-      "E 220 CDI",
-      "E 270 CDI",
-      "E 280 CDI",
-      "E 300 BlueTEC",
-      "E 320 BlueTEC",
-      "E 320 CDI",
-      "E 400 CDI",
-      "E 420 CDI"
+      {
+        "name": "E 200 CDI",
+        "url": "https://mercedesengines.uk/e-class/e200-cdi-e200d"
+      },
+      {
+        "name": "E 220 CDI",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 270 CDI",
+        "url": "https://mercedesengines.uk/e-class/e270-e280-e300-cdi"
+      },
+      {
+        "name": "E 280 CDI",
+        "url": "https://mercedesengines.uk/e-class/e270-e280-e300-cdi"
+      },
+      {
+        "name": "E 300 BlueTEC",
+        "url": "#"
+      },
+      {
+        "name": "E 320 BlueTEC",
+        "url": "#"
+      },
+      {
+        "name": "E 320 CDI",
+        "url": "https://mercedesengines.uk/e-class/e320-e350-cdi"
+      },
+      {
+        "name": "E 400 CDI",
+        "url": "#"
+      },
+      {
+        "name": "E 420 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "E 200 KOMPRESSOR",
-      "E 200 NGT BlueEFFICIENCY",
-      "E 230",
-      "E 240",
-      "E 280",
-      "E 320",
-      "E 350",
-      "E 350 CGI",
-      "E 500"
+      {
+        "name": "E 200 KOMPRESSOR",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 200 NGT BlueEFFICIENCY",
+        "url": "#"
+      },
+      {
+        "name": "E 230",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 240",
+        "url": "#"
+      },
+      {
+        "name": "E 280",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 320",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 350",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 350 CGI",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 500",
+        "url": "https://mercedesengines.uk/e-class/e500-e550"
+      }
     ],
     "scopeNote": "All variants listed are S211 estate only. W211 Saloon shares most of these engines but is covered on its own Generation Page, as fitment and labour access vary slightly by body style. The S211's self-levelling rear air suspension is unique to the estate and not present on the saloon."
   },

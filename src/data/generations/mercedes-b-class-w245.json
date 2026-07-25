@@ -590,16 +590,34 @@
     ],
     "note": "No Generation variance from the baseline figures — the W245 shares its engine bay layout with the W169 A-Class, so costs are consistent with the wider Mercedes compact platform."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "B180 CDI",
-      "B200 CDI"
+      {
+        "name": "B180 CDI",
+        "url": "#"
+      },
+      {
+        "name": "B200 CDI",
+        "url": "https://mercedesengines.uk/b-class/b200-cdi-b200d"
+      }
     ],
     "petrolVariants": [
-      "B150",
-      "B170",
-      "B180",
-      "B200 Turbo"
+      {
+        "name": "B150",
+        "url": "#"
+      },
+      {
+        "name": "B170",
+        "url": "#"
+      },
+      {
+        "name": "B180",
+        "url": "https://mercedesengines.uk/b-class/b180-b200-petrol"
+      },
+      {
+        "name": "B200 Turbo",
+        "url": "https://mercedesengines.uk/b-class/b180-b200-petrol"
+      }
     ],
     "scopeNote": "All variants listed are W245 (first-generation B-Class, 2005–2011) only. The B220 CDI (OM651) belongs to the second-generation W246 (2011–2018) and is not fitted to the W245 — despite appearing in some aftermarket catalogues, verification confirms this engine was never offered on the first-generation car."
   },

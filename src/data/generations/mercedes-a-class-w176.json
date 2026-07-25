@@ -687,18 +687,48 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "A160 CDI",
-      "A180 CDI",
-      "A200 CDI",
-      "A220 CDI",
-      "A220 d 4MATIC"
+      {
+        "name": "A160 CDI",
+        "url": "https://mercedesengines.uk/a-class/160-170-cdi"
+      },
+      {
+        "name": "A180 CDI",
+        "url": "https://mercedesengines.uk/a-class/a180-cdi"
+      },
+      {
+        "name": "A200 CDI",
+        "url": "https://mercedesengines.uk/a-class/a200-cdi"
+      },
+      {
+        "name": "A220 CDI",
+        "url": "#"
+      },
+      {
+        "name": "A220 d 4MATIC",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "A180",
-      "A200",
-      "A250",
-      "A250 4MATIC",
-      "A45 AMG 4MATIC"
+      {
+        "name": "A180",
+        "url": "https://mercedesengines.uk/a-class/a160-a180-petrol"
+      },
+      {
+        "name": "A200",
+        "url": "https://mercedesengines.uk/a-class/a200-petrol"
+      },
+      {
+        "name": "A250",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "A250 4MATIC",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "A45 AMG 4MATIC",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      }
     ],
     "scopeNote": "All variants listed are W176 5-door hatchback only. The related CLA-Class (C117), B-Class (W246), and GLA-Class (X156) share many of these engines but are covered on their own Generation Pages, as fitment and labour access vary by platform."
   },

@@ -892,27 +892,78 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any of these families. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W222's flagship‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "S 300 BlueTEC Hybrid",
-      "S 350 BlueTEC",
-      "S 350 d",
-      "S 400 d"
+      {
+        "name": "S 300 BlueTEC Hybrid",
+        "url": "#"
+      },
+      {
+        "name": "S 350 BlueTEC",
+        "url": "https://mercedesengines.uk/s-class/s350d-s400d"
+      },
+      {
+        "name": "S 350 d",
+        "url": "https://mercedesengines.uk/s-class/s350d-s400d"
+      },
+      {
+        "name": "S 400 d",
+        "url": "https://mercedesengines.uk/s-class/s350d-s400d"
+      }
     ],
     "petrolVariants": [
-      "S 400",
-      "S 400 4MATIC",
-      "S 400 HYBRID",
-      "S 500 e",
-      "S 450",
-      "S 500",
-      "S 550",
-      "S 560",
-      "S 560 4MATIC",
-      "S 600",
-      "Maybach S 600",
-      "S 63 AMG",
-      "S 65 AMG"
+      {
+        "name": "S 400",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 400 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 400 HYBRID",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 500 e",
+        "url": "#"
+      },
+      {
+        "name": "S 450",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 550",
+        "url": "#"
+      },
+      {
+        "name": "S 560",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 560 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 600",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      },
+      {
+        "name": "Maybach S 600",
+        "url": "#"
+      },
+      {
+        "name": "S 63 AMG",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      },
+      {
+        "name": "S 65 AMG",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      }
     ],
     "scopeNote": "All variants listed are W222 four‑door saloon and V222 long‑wheelbase. The C217 coupé and A217 cabriolet share most of these engines but are covered on their own Generation Pages, since the coupé and cabriolet have different body structures and labour access."
   },

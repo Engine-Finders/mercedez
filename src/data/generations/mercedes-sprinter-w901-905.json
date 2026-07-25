@@ -817,12 +817,21 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the W901–905 range shares engine bay architecture across all weight variants, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "214",
-      "314",
-      "414"
+      {
+        "name": "214",
+        "url": "#"
+      },
+      {
+        "name": "314",
+        "url": "#"
+      },
+      {
+        "name": "414",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are first‑generation Sprinter (T1N) across all body styles and weight ratings. The W901–905 codes denote gross vehicle weight (2.8t–6.0t), not distinct body styles."
   },

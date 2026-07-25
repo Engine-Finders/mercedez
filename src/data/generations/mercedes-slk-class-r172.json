@@ -779,18 +779,42 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — R172 roadster shares its W204-derived engine bay with the C-Class, so costs are inherited directly per the Authority Model, with no divergence note required. AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "SLK 250 CDI",
-      "SLC 250 d"
+      {
+        "name": "SLK 250 CDI",
+        "url": "https://mercedesengines.uk/slk/slk200-cdi"
+      },
+      {
+        "name": "SLC 250 d",
+        "url": "https://mercedesengines.uk/slc/220d-250d"
+      }
     ],
     "petrolVariants": [
-      "SLC 180",
-      "SLK 200 BlueEFFICIENCY",
-      "SLC 200",
-      "SLK 250 BlueEFFICIENCY",
-      "SLC 300",
-      "SLK 350 BlueEFFICIENCY"
+      {
+        "name": "SLC 180",
+        "url": "https://mercedesengines.uk/slc/slc180-200"
+      },
+      {
+        "name": "SLK 200 BlueEFFICIENCY",
+        "url": "https://mercedesengines.uk/slk/slk250-350"
+      },
+      {
+        "name": "SLC 200",
+        "url": "https://mercedesengines.uk/slc/slc180-200"
+      },
+      {
+        "name": "SLK 250 BlueEFFICIENCY",
+        "url": "https://mercedesengines.uk/slk/slk250-350"
+      },
+      {
+        "name": "SLC 300",
+        "url": "#"
+      },
+      {
+        "name": "SLK 350 BlueEFFICIENCY",
+        "url": "https://mercedesengines.uk/slk/slk250-350"
+      }
     ],
     "scopeNote": "All variants listed are R172 roadster only. Pre-facelift models (2011–2015) are badged SLK; facelift models (2015–2020) are badged SLC. The R172 was the last SLK/SLC generation — discontinued after the 2020 model year."
   },

@@ -786,20 +786,50 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M111, M104, M112, M113, OM604, OM605 or OM611 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., BMW N47D20C, Mercedes OM651), adjusted for the S202's estate‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C220 T Diesel",
-      "C250 T Turbo‑D",
-      "C200 T CDI",
-      "C220 T CDI"
+      {
+        "name": "C220 T Diesel",
+        "url": "https://mercedesengines.uk/c-class/c200-c220-diesel-older"
+      },
+      {
+        "name": "C250 T Turbo‑D",
+        "url": "#"
+      },
+      {
+        "name": "C200 T CDI",
+        "url": "https://mercedesengines.uk/c-class/c200-cdi"
+      },
+      {
+        "name": "C220 T CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      }
     ],
     "petrolVariants": [
-      "C180 T",
-      "C200 T",
-      "C200 T Kompressor",
-      "C240 T",
-      "C280 T",
-      "C43 AMG"
+      {
+        "name": "C180 T",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200 T",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200 T Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C240 T",
+        "url": "#"
+      },
+      {
+        "name": "C280 T",
+        "url": "#"
+      },
+      {
+        "name": "C43 AMG",
+        "url": "https://mercedesengines.uk/c-class/c43-amg"
+      }
     ],
     "scopeNote": "All variants listed are S202 five‑door estate only. W202 saloon shares most of these engines but is covered on its own Generation Page, since the saloon's weight distribution, rear suspension and labour access differ slightly from the estate."
   },

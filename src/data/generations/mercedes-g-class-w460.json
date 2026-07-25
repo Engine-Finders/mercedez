@@ -702,15 +702,36 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "240 GD",
-      "250 GD",
-      "300 GD"
+      {
+        "name": "240 GD",
+        "url": "#"
+      },
+      {
+        "name": "250 GD",
+        "url": "#"
+      },
+      {
+        "name": "300 GD",
+        "url": "https://mercedesengines.uk/g-class/g250-g300-diesel"
+      }
     ],
     "petrolVariants": [
-      "200 GE",
-      "230 G",
-      "230 GE",
-      "280 GE"
+      {
+        "name": "200 GE",
+        "url": "#"
+      },
+      {
+        "name": "230 G",
+        "url": "#"
+      },
+      {
+        "name": "230 GE",
+        "url": "#"
+      },
+      {
+        "name": "280 GE",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W460 G‑Class only. W461 military/utility variants and W463 luxury variants share some engines but are covered on their own Generation Pages."
   },

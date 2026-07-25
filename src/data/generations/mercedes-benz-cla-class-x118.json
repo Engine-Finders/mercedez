@@ -690,19 +690,46 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLA 180 d",
-      "CLA 200 d",
-      "CLA 220 d"
+      {
+        "name": "CLA 180 d",
+        "url": "https://mercedesengines.uk/a-class/a180d"
+      },
+      {
+        "name": "CLA 200 d",
+        "url": "https://mercedesengines.uk/a-class/a200d"
+      },
+      {
+        "name": "CLA 220 d",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "CLA 180",
-      "CLA 200",
-      "CLA 250",
-      "AMG CLA 35",
-      "AMG CLA 45",
-      "AMG CLA 45 S"
+      {
+        "name": "CLA 180",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 200",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 250",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "AMG CLA 35",
+        "url": "https://mercedesengines.uk/a-class/a35-amg"
+      },
+      {
+        "name": "AMG CLA 45",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      },
+      {
+        "name": "AMG CLA 45 S",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      }
     ],
     "scopeNote": "All variants listed are X118 Shooting Brake only. C118 Saloon shares most of these engines but is covered on its own Generation Page, as fitment and production years vary by body style."
   },

@@ -733,16 +733,34 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — W164 SUV shares its platform with the X164 GL-Class, so costs are inherited directly per the Authority Model, with no divergence note required. M156 AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "ML 280 CDI",
-      "ML 320 CDI",
-      "ML 350 BlueTEC",
-      "ML 420 CDI"
+      {
+        "name": "ML 280 CDI",
+        "url": "#"
+      },
+      {
+        "name": "ML 320 CDI",
+        "url": "https://mercedesengines.uk/m-class/ml270-320-cdi"
+      },
+      {
+        "name": "ML 350 BlueTEC",
+        "url": "https://mercedesengines.uk/m-class/ml250-bluetec-ml350-cdi"
+      },
+      {
+        "name": "ML 420 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "ML 350",
-      "ML 500"
+      {
+        "name": "ML 350",
+        "url": "https://mercedesengines.uk/m-class/ml-petrol"
+      },
+      {
+        "name": "ML 500",
+        "url": "https://mercedesengines.uk/m-class/ml500-ml550-ml63-amg"
+      }
     ],
     "scopeNote": "All variants listed are W164 SUV only. X164 GL-Class shares some of these engines but is covered on its own Generation Page, as it features a longer body with third-row seating."
   },

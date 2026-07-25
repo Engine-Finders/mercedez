@@ -584,21 +584,54 @@
     ],
     "note": "No Generation variance from the Model Page’s baseline figures — C117 shares its engine bay architecture with the W176 A‑Class and X156 GLA, so costs are inherited directly per the Authority Model, with no divergence note required. OM651, OM607, and M270 costs carried forward from the EM data’s Table A."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLA 180 CDI",
-      "CLA 180 d",
-      "CLA 200 CDI",
-      "CLA 200 d",
-      "CLA 220 CDI",
-      "CLA 220 d"
+      {
+        "name": "CLA 180 CDI",
+        "url": "https://mercedesengines.uk/a-class/a180-cdi"
+      },
+      {
+        "name": "CLA 180 d",
+        "url": "https://mercedesengines.uk/a-class/a180d"
+      },
+      {
+        "name": "CLA 200 CDI",
+        "url": "https://mercedesengines.uk/a-class/a200-cdi"
+      },
+      {
+        "name": "CLA 200 d",
+        "url": "https://mercedesengines.uk/a-class/a200d"
+      },
+      {
+        "name": "CLA 220 CDI",
+        "url": "#"
+      },
+      {
+        "name": "CLA 220 d",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "CLA 180",
-      "CLA 200",
-      "CLA 220",
-      "CLA 250",
-      "CLA 45 AMG"
+      {
+        "name": "CLA 180",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 200",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 220",
+        "url": "#"
+      },
+      {
+        "name": "CLA 250",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "CLA 45 AMG",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      }
     ],
     "scopeNote": "All variants listed are C117 four‑door coupé only. X117 Shooting Brake shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },

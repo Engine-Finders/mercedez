@@ -678,17 +678,38 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures — W166 M‑Class shares identical engine‑bay access with its GLE facelift successor, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "ML 250 CDI",
-      "ML 250 BlueTEC",
-      "ML 350 BlueTEC"
+      {
+        "name": "ML 250 CDI",
+        "url": "https://mercedesengines.uk/m-class/ml250-bluetec-ml350-cdi"
+      },
+      {
+        "name": "ML 250 BlueTEC",
+        "url": "https://mercedesengines.uk/m-class/ml250-bluetec-ml350-cdi"
+      },
+      {
+        "name": "ML 350 BlueTEC",
+        "url": "https://mercedesengines.uk/m-class/ml250-bluetec-ml350-cdi"
+      }
     ],
     "petrolVariants": [
-      "ML 300",
-      "ML 350",
-      "ML 500",
-      "ML 63 AMG"
+      {
+        "name": "ML 300",
+        "url": "#"
+      },
+      {
+        "name": "ML 350",
+        "url": "https://mercedesengines.uk/m-class/ml-petrol"
+      },
+      {
+        "name": "ML 500",
+        "url": "https://mercedesengines.uk/m-class/ml500-ml550-ml63-amg"
+      },
+      {
+        "name": "ML 63 AMG",
+        "url": "https://mercedesengines.uk/m-class/ml500-ml550-ml63-amg"
+      }
     ],
     "scopeNote": "All variants listed are W166 M‑Class SUV only. The post‑2015 facelift GLE shares most of these engines but is covered on its own Generation Page."
   },

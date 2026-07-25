@@ -670,11 +670,26 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "SLK 200",
-      "SLK 200 Kompressor",
-      "SLK 230 Kompressor",
-      "SLK 320",
-      "SLK 32 AMG"
+      {
+        "name": "SLK 200",
+        "url": "https://mercedesengines.uk/slk/slk200-230-kompressor"
+      },
+      {
+        "name": "SLK 200 Kompressor",
+        "url": "https://mercedesengines.uk/slk/slk200-230-kompressor"
+      },
+      {
+        "name": "SLK 230 Kompressor",
+        "url": "https://mercedesengines.uk/slk/slk200-230-kompressor"
+      },
+      {
+        "name": "SLK 320",
+        "url": "https://mercedesengines.uk/slk/slk250-350"
+      },
+      {
+        "name": "SLK 32 AMG",
+        "url": "https://mercedesengines.uk/slk/slk-55-amg"
+      }
     ],
     "scopeNote": "All variants listed are R170 roadster only. The R170 was produced from October 1995 to April 2004, with a facelift in 2000 bringing updated engines and styling. The SLK 32 AMG was introduced in 2001 as the range-topping model."
   },

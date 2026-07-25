@@ -744,12 +744,24 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "108 CDI",
-      "109 CDI",
-      "111 CDI"
+      {
+        "name": "108 CDI",
+        "url": "https://mercedesengines.uk/citan/108-112-cdi"
+      },
+      {
+        "name": "109 CDI",
+        "url": "https://mercedesengines.uk/citan/108-112-cdi"
+      },
+      {
+        "name": "111 CDI",
+        "url": "https://mercedesengines.uk/citan/108-112-cdi"
+      }
     ],
     "petrolVariants": [
-      "112"
+      {
+        "name": "112",
+        "url": "https://mercedesengines.uk/citan/citan-petrol"
+      }
     ],
     "scopeNote": "All variants listed are W415 Citan only (2012–2021). The second-generation W420 (2021–present) is covered on its own Generation Page. Note the engine power output changes between the pre-2019 OM607 and post-2019 OM608 diesel variants: 108 CDI went from 75 bhp to 80 bhp; 109 CDI from 90/95 bhp to 95 bhp; 111 CDI from 110 bhp to 116 bhp. The M200 1.2-litre petrol was not available in all markets."
   },

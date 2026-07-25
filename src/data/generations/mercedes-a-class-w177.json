@@ -742,23 +742,62 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures — W177 hatchback shares identical engine‑bay access with its V177 saloon sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "A 180 d",
-      "A 200 d",
-      "A 220 d"
+      {
+        "name": "A 180 d",
+        "url": "https://mercedesengines.uk/a-class/a180d"
+      },
+      {
+        "name": "A 200 d",
+        "url": "https://mercedesengines.uk/a-class/a200d"
+      },
+      {
+        "name": "A 220 d",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "A 160",
-      "A 180",
-      "A 200",
-      "A 220",
-      "A 220 4MATIC",
-      "A 250",
-      "A 250 4MATIC",
-      "A 35 AMG 4MATIC",
-      "A 45 AMG 4MATIC+",
-      "A 45 S AMG 4MATIC+"
+      {
+        "name": "A 160",
+        "url": "https://mercedesengines.uk/a-class/a160-a180-petrol"
+      },
+      {
+        "name": "A 180",
+        "url": "https://mercedesengines.uk/a-class/a160-a180-petrol"
+      },
+      {
+        "name": "A 200",
+        "url": "https://mercedesengines.uk/a-class/a200-petrol"
+      },
+      {
+        "name": "A 220",
+        "url": "#"
+      },
+      {
+        "name": "A 220 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "A 250",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "A 250 4MATIC",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "A 35 AMG 4MATIC",
+        "url": "https://mercedesengines.uk/a-class/a35-amg"
+      },
+      {
+        "name": "A 45 AMG 4MATIC+",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      },
+      {
+        "name": "A 45 S AMG 4MATIC+",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      }
     ],
     "scopeNote": "All variants listed are W177 hatchback only. V177 saloon and Z177 long‑wheelbase saloon share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style. The A 250 e plug‑in hybrid is covered on its own Variant Page."
   },

@@ -854,25 +854,70 @@
     ],
     "note": "No Generation variance from the Model Page’s baseline figures — W463 shares its engine bay architecture across its long production run, so costs are inherited directly per the Authority Model, with no divergence note required. OM642 and M276 costs carried forward from the EM data’s Table A."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "250 GD",
-      "300 GD",
-      "G 270 CDI",
-      "G 320 CDI",
-      "G 350 CDI",
-      "G 350 BlueTEC",
-      "G 400 CDI"
+      {
+        "name": "250 GD",
+        "url": "#"
+      },
+      {
+        "name": "300 GD",
+        "url": "https://mercedesengines.uk/g-class/g250-g300-diesel"
+      },
+      {
+        "name": "G 270 CDI",
+        "url": "#"
+      },
+      {
+        "name": "G 320 CDI",
+        "url": "#"
+      },
+      {
+        "name": "G 350 CDI",
+        "url": "#"
+      },
+      {
+        "name": "G 350 BlueTEC",
+        "url": "#"
+      },
+      {
+        "name": "G 400 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "230 GE",
-      "320 GE",
-      "G 320",
-      "G 500",
-      "G 55 AMG",
-      "G 63 AMG",
-      "G 65 AMG",
-      "G 350 (petrol)"
+      {
+        "name": "230 GE",
+        "url": "#"
+      },
+      {
+        "name": "320 GE",
+        "url": "#"
+      },
+      {
+        "name": "G 320",
+        "url": "#"
+      },
+      {
+        "name": "G 500",
+        "url": "https://mercedesengines.uk/g-class/g350-g500-petrol-older"
+      },
+      {
+        "name": "G 55 AMG",
+        "url": "https://mercedesengines.uk/g-class/g55-amg"
+      },
+      {
+        "name": "G 63 AMG",
+        "url": "https://mercedesengines.uk/g-class/g63-amg"
+      },
+      {
+        "name": "G 65 AMG",
+        "url": "https://mercedesengines.uk/g-class/g65-amg"
+      },
+      {
+        "name": "G 350 (petrol)",
+        "url": "https://mercedesengines.uk/g-class/g350-g500-petrol-older"
+      }
     ],
     "scopeNote": "All variants listed are W463 closed off‑roader. The Cabriolet (1990–2011) shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },

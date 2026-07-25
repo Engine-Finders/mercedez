@@ -802,25 +802,70 @@
     ],
     "note": "No Generation variance from the baseline figures — the S205 estate shares its MRA platform with the W205 saloon, and engine-bay access is consistent across the range. Costs are inherited from the EM data's Table A."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C 180d",
-      "C 200d",
-      "C 220d",
-      "C 250d",
-      "C 300d",
-      "C 300h BlueTEC Hybrid"
+      {
+        "name": "C 180d",
+        "url": "#"
+      },
+      {
+        "name": "C 200d",
+        "url": "#"
+      },
+      {
+        "name": "C 220d",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C 250d",
+        "url": "https://mercedesengines.uk/c-class/c250-cdi"
+      },
+      {
+        "name": "C 300d",
+        "url": "https://mercedesengines.uk/c-class/c300d"
+      },
+      {
+        "name": "C 300h BlueTEC Hybrid",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "C 180",
-      "C 200",
-      "C 250",
-      "C 300",
-      "C 400 4MATIC",
-      "C 450 AMG Sport",
-      "AMG C 43 4MATIC",
-      "AMG C 63",
-      "AMG C 63 S"
+      {
+        "name": "C 180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 200",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 250",
+        "url": "https://mercedesengines.uk/c-class/c250-petrol"
+      },
+      {
+        "name": "C 300",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C 400 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c350-c400-petrol"
+      },
+      {
+        "name": "C 450 AMG Sport",
+        "url": "#"
+      },
+      {
+        "name": "AMG C 43 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c43-amg"
+      },
+      {
+        "name": "AMG C 63",
+        "url": "https://mercedesengines.uk/c-class/c63-amg"
+      },
+      {
+        "name": "AMG C 63 S",
+        "url": "https://mercedesengines.uk/c-class/c63-amg"
+      }
     ],
     "scopeNote": "All variants listed are S205 estate only. W205 saloon, C205 coupé and A205 cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style."
   },

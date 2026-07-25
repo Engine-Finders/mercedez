@@ -672,21 +672,54 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M254, OM654 or M256 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the W214's executive‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs — budget an additional £5,000–£10,000 for battery replacement outside warranty."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 220 d",
-      "E 220 d 4MATIC",
-      "E 300 de",
-      "E 300 de 4MATIC"
+      {
+        "name": "E 220 d",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 220 d 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 300 de",
+        "url": "#"
+      },
+      {
+        "name": "E 300 de 4MATIC",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "E 180",
-      "E 200",
-      "E 200 4MATIC",
-      "E 300 e",
-      "E 300 e 4MATIC",
-      "E 400 e 4MATIC",
-      "E 53 HYBRID 4MATIC+"
+      {
+        "name": "E 180",
+        "url": "#"
+      },
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 200 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 300 e",
+        "url": "#"
+      },
+      {
+        "name": "E 300 e 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "E 400 e 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "E 53 HYBRID 4MATIC+",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W214 saloon and S214 estate. The saloon and estate share all powertrains, with only minor labour differences for some repairs. The X214 All‑Terrain estate shares the same engine range but is covered on its own Generation Page."
   },

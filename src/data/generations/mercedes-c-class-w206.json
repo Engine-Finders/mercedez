@@ -727,17 +727,38 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — W206 saloon shares identical engine-bay access with its S206 estate sibling, so costs are inherited directly per the Authority Model, with no divergence note required. M139l costs reflect AMG-specific parts, the electric turbocharger, and specialist labour requirements."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C220d",
-      "C300d"
+      {
+        "name": "C220d",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C300d",
+        "url": "https://mercedesengines.uk/c-class/c300d"
+      }
     ],
     "petrolVariants": [
-      "C180",
-      "C200",
-      "C300",
-      "C300e",
-      "C350e"
+      {
+        "name": "C180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C300",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C300e",
+        "url": "#"
+      },
+      {
+        "name": "C350e",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W206 saloon only. S206 Estate and V206 long-wheelbase saloon share most of these engines but are covered on their own Generation Pages, as fitment and labour access vary slightly by body style."
   },

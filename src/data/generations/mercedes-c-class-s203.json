@@ -914,22 +914,58 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures — S203 estate shares identical engine‑bay access with its W203 saloon sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C 220 CDI",
-      "C 270 CDI"
+      {
+        "name": "C 220 CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C 270 CDI",
+        "url": "https://mercedesengines.uk/c-class/270-280-300-cdi"
+      }
     ],
     "petrolVariants": [
-      "C 180",
-      "C 180 Kompressor",
-      "C 200 Kompressor",
-      "C 230 Kompressor",
-      "C 240",
-      "C 320",
-      "C 230",
-      "C 350",
-      "C 32 AMG Kompressor",
-      "C 55 AMG"
+      {
+        "name": "C 180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 180 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 200 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 230 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c220-230-petrol"
+      },
+      {
+        "name": "C 240",
+        "url": "#"
+      },
+      {
+        "name": "C 320",
+        "url": "#"
+      },
+      {
+        "name": "C 230",
+        "url": "https://mercedesengines.uk/c-class/c220-230-petrol"
+      },
+      {
+        "name": "C 350",
+        "url": "https://mercedesengines.uk/c-class/c350-c400-petrol"
+      },
+      {
+        "name": "C 32 AMG Kompressor",
+        "url": "#"
+      },
+      {
+        "name": "C 55 AMG",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are S203 estate only. W203 saloon and CL203 SportCoupé share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style."
   },
