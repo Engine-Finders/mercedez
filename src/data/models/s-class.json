@@ -410,6 +410,61 @@
     "subHeadline": "Seven generations of Mercedes-Benz flagship — from the bulletproof W140 to the touchscreen W223.",
     "cards": [
       {
+  "title": "A217 (2015–2020) — Cabriolet",
+  "badge": "",
+  "meta": "2015–2020 • M278 petrol • M276 petrol",
+  "rating": "★★★★☆",
+  "verdict": "The S-Class cabriolet—a flagship open-top with the same robust M278 and M276 engines. Cabriolet values (£18k–£50k) make replacement very safe.",
+  "cta": {
+    "label": "Explore A217 →",
+    "href": "https://mercedesengines.uk/s-class/a217"
+  }
+},
+      {
+  "title": "C140 (1992–1999) — Coupé",
+  "badge": "",
+  "meta": "1992–1999 • M113 petrol • M119 petrol",
+  "rating": "★★★☆☆",
+  "verdict": "The S-Class coupé—a stunning two-door flagship. M113 V8 is the reliable choice; M119 is also robust but less common. Values (£5k–£15k) make replacement borderline on sub-£6k examples.",
+  "cta": {
+    "label": "Explore C140 →",
+    "href": "https://mercedesengines.uk/s-class/c140"
+  }
+},
+{
+  "title": "C215 (1999–2006) — Coupé",
+  "badge": "",
+  "meta": "1999–2006 • M113 petrol • M275 petrol",
+  "rating": "★★★☆☆",
+  "verdict": "The CL—a flagship coupé based on the W220 platform. M113 V8 is robust; M275 V12 is a masterpiece but labour-intensive. Values (£4k–£12k) make replacement borderline on sub-£6k examples.",
+  "cta": {
+    "label": "Explore C215 →",
+    "href": "https://mercedesengines.uk/s-class/c215"
+  }
+},
+{
+  "title": "C216 (2006–2013) — Coupé",
+  "badge": "",
+  "meta": "2006–2013 • M273 petrol • M275 petrol",
+  "rating": "★★★☆☆",
+  "verdict": "The CL—a flagship coupé based on the W221 platform. M273 V8 is the reliable choice; M275 V12 is a masterpiece but labour-intensive. Values (£6k–£18k) make replacement borderline on sub-£8k examples.",
+  "cta": {
+    "label": "Explore C216 →",
+    "href": "https://mercedesengines.uk/s-class/c216"
+  }
+},
+{
+  "title": "C217 (2014–2020) — Coupé",
+  "badge": "",
+  "meta": "2014–2020 • M278 petrol • M276 petrol",
+  "rating": "★★★★☆",
+  "verdict": "The S-Class coupé—a stunning flagship two-door. M278 V8 is robust; M276 V6 is reliable. Coupé values (£15k–£45k) make replacement safe across all variants.",
+  "cta": {
+    "label": "Explore C217 →",
+    "href": "https://mercedesengines.uk/s-class/c217"
+  }
+},
+      {
         "title": "W140 (1991–1998)",
         "badge": "",
         "meta": "1991–1998 • M104, M119, OM603, OM604",

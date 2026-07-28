@@ -384,6 +384,28 @@
     "subHeadline": "Seven generations, one nameplate — from the 1954 Gullwing to the modern R232. Each generation has a distinct engine story and a clear buy/avoid verdict.",
     "cards": [
       {
+  "title": "R230 (2001–2011)",
+  "badge": "",
+  "meta": "2001–2011 • M113 petrol • M112 petrol • M275 petrol • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The SL—a classic two-seat roadster with a folding hardtop. M113 V8 is the reliable choice; M112 V6 is robust; OM642 diesel is well-understood. Values (£5k–£18k) make replacement borderline on sub-£8k examples.",
+  "cta": {
+    "label": "Explore R230 →",
+    "href": "https://mercedesengines.uk/sl/r230"
+  }
+},
+{
+  "title": "R231 (2012–2020)",
+  "badge": "",
+  "meta": "2012–2020 • M276 petrol • M278 petrol",
+  "rating": "★★★★☆",
+  "verdict": "The SL—a refined two-seat roadster with a folding hardtop. M276 V6 and M278 V8 are both robust; the SL continues its grand touring tradition. Values (£8k–£28k) make replacement safe.",
+  "cta": {
+    "label": "Explore R231 →",
+    "href": "https://mercedesengines.uk/sl/r231"
+  }
+},
+      {
         "title": "W198 (1954–1957)",
         "badge": "",
         "meta": "1954–1957 • M198 3.0L straight-six",

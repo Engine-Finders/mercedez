@@ -357,17 +357,28 @@
           "href": "https://mercedesengines.uk/amg-gt/c190"
         }
       },
-      {
-        "title": "C192 AMG GT (2024–present)",
-        "badge": "",
-        "meta": "Years: 2024–present • Key Engines: M139 2.0 four-cylinder (GT 43), M256 3.0 six-cylinder (GT 53), M178 4.0 V8 biturbo (GT 55, GT 63, GT 63 S E Performance) — 🔥 New generation — 4MATIC+ AWD standard on V8 models",
-        "rating": "★★★★☆",
-        "verdict": "The second-generation GT is a more complex car — the V8 models get 4MATIC+ AWD, the entry-level GT 43 gets a four-cylinder M139 engine (421 bhp from a 2.0-litre), and the range-topping GT 63 S E Performance is a plug-in hybrid V8 with 800+ bhp. The M139 four-cylinder is unproven in this application — it's the same engine as the A45 S but in a heavier, more expensive car. The M178 V8 remains the defining engine; the four-cylinder is a compromise. Buy the V8; the four-cylinder is for badge-chasers.",
-        "cta": {
-          "label": "Explore C192 AMG GT →",
-          "href": "#"
-        }
-      }
+     {
+  "title": "R190 (2014–2022) — Roadster",
+  "badge": "🔥 Most Enquired — 370 enquiries (2025) [MB-VERIFIED]",
+  "meta": "2014–2022 • M178 4.0 V8 biturbo",
+  "rating": "★★★★☆",
+  "verdict": "The open-top AMG GT—shares the C190's M178 V8 but with a folding fabric roof. Same robust engine architecture, but roof mechanism adds complexity on higher-mileage examples. Replacement cost high (£8k–£14k supply) but well within premium sports car values.",
+  "cta": {
+    "label": "Explore R190 →",
+    "href": "https://mercedesengines.uk/amg-gt/r190"
+  }
+},
+{
+  "title": "X290 (2018–present) — 4-Door Coupé",
+  "badge": "",
+  "meta": "2018–present • M177 4.0 V8 biturbo",
+  "rating": "★★★★☆",
+  "verdict": "The AMG GT 4-Door Coupé—a Porsche Panamera rival sharing the M177 V8 from the E-Class and S-Class. The engine is robust, but the 48V mild-hybrid system adds complexity. Flagship values (£40k–£120k) comfortably absorb replacement costs.",
+  "cta": {
+    "label": "Explore X290 →",
+    "href": "https://mercedesengines.uk/amg-gt/x290"
+  }
+}
     ],
     "rangeTable": {
       "title": "",

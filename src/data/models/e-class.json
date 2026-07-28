@@ -372,6 +372,160 @@
     "subHeadline": "Five generations, one nameplate — from the W124 that launched the E-Class badge to the all-new W214. Each has a clear buy/avoid verdict.",
     "cards": [
       {
+  "title": "A207 (2010–2017) — Cabriolet",
+  "badge": "",
+  "meta": "2010–2017 • M271 petrol • M276 petrol • OM651 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The E-Class cabriolet—a stylish open-top based on the W204 platform. M276 V6 petrol is the reliable choice; OM651 diesel is common but carries injector seal risk. Cabriolet values are strong, making replacement viable.",
+  "cta": {
+    "label": "Explore A207 →",
+    "href": "https://mercedesengines.uk/e-class/a207"
+  }
+},
+{
+  "title": "A238 (2017–2023) — Cabriolet",
+  "badge": "",
+  "meta": "2017–2023 • M274 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The E-Class cabriolet—a stylish open-top with the same reliable engine range. OM654 diesel is the pick; M274 petrol is robust. Cabriolet values (£18k–£40k) make replacement very safe.",
+  "cta": {
+    "label": "Explore A238 →",
+    "href": "https://mercedesengines.uk/e-class/a238"
+  }
+},
+      {
+  "title": "C207 (2009–2017) — Coupé",
+  "badge": "",
+  "meta": "2009–2017 • M271 petrol • M276 petrol • OM651 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The E-Class coupé—based on the W204 platform with a distinctive two-door body. M276 V6 petrol is the reliable choice; OM651 diesel carries injector seal risk. Values (£6k–£16k) make replacement viable.",
+  "cta": {
+    "label": "Explore C207 →",
+    "href": "https://mercedesengines.uk/e-class/c207"
+  }
+},
+{
+  "title": "C238 (2017–2023) — Coupé",
+  "badge": "",
+  "meta": "2017–2023 • M274 petrol • M276 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The E-Class coupé—a sleek two-door with the same excellent engines. OM654 diesel is reliable; M274 petrol is robust. Coupé values (£15k–£35k) make replacement very safe.",
+  "cta": {
+    "label": "Explore C238 →",
+    "href": "https://mercedesengines.uk/e-class/c238"
+  }
+},
+      {
+  "title": "S124 (1993–1996) — Estate",
+  "badge": "",
+  "meta": "1993–1996 • M111 petrol • M104 petrol • OM602 diesel • OM603 diesel",
+  "rating": "★★☆☆☆",
+  "verdict": "The W124 estate—a genuine Mercedes legend with bulletproof engineering. M104 straight-six is the pick; OM602 diesel is indestructible. Values for well-maintained examples are rising, but daily-driver examples at sub-£3,000 rarely justify replacement.",
+  "cta": {
+    "label": "Explore S124 →",
+    "href": "https://mercedesengines.uk/e-class/s124"
+  }
+},
+{
+  "title": "S210 (1996–2003) — Estate",
+  "badge": "",
+  "meta": "1996–2003 • M112 petrol • M113 petrol • OM611 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The W210 estate—practical and well-built, sharing the same robust engines. Estate body adds slight value, but the same economics apply: sub-£5k examples make replacement borderline.",
+  "cta": {
+    "label": "Explore S210 →",
+    "href": "https://mercedesengines.uk/e-class/s210"
+  }
+},
+{
+  "title": "S211 (2003–2009) — Estate",
+  "badge": "",
+  "meta": "2003–2009 • M271 petrol • OM646 diesel • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The W211 estate—a practical workhorse with the same engines. Estate values are slightly stronger, but the same economics apply: OM642 recon borderline on sub-£8k examples.",
+  "cta": {
+    "label": "Explore S211 →",
+    "href": "https://mercedesengines.uk/e-class/s211"
+  }
+},
+{
+  "title": "S212 (2009–2016) — Estate",
+  "badge": "",
+  "meta": "2009–2016 • M271 petrol • M276 petrol • OM651 diesel • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The W212 estate—a practical and capable load-lugger with the same engine range. Estate values are strong, and replacement is viable on most examples.",
+  "cta": {
+    "label": "Explore S212 →",
+    "href": "https://mercedesengines.uk/e-class/s212"
+  }
+},
+{
+  "title": "S213 (2016–2023) — Estate",
+  "badge": "",
+  "meta": "2016–2023 • M274 petrol • OM654 diesel • OM642 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The W213 estate—a practical and refined load-lugger with the same excellent engine range. OM654 diesel is the pick; M274 petrol is robust. Estate values are strong, making replacement very safe.",
+  "cta": {
+    "label": "Explore S213 →",
+    "href": "https://mercedesengines.uk/e-class/s213"
+  }
+},
+{
+  "title": "S214 (2023–present) — Estate",
+  "badge": "",
+  "meta": "2023–present • M254 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The W214 estate—practical, refined, and modern. OM654 diesel remains the reliable choice; M254 petrol includes mild-hybrid tech. Estate values (£25k+) make replacement very safe.",
+  "cta": {
+    "label": "Explore S214 →",
+    "href": "https://mercedesengines.uk/e-class/s214"
+  }
+},
+{
+  "title": "W210 (1995–2003)",
+  "badge": "🔥 Most Enquired — 234 enquiries (2025) [MB-VERIFIED]",
+  "meta": "1995–2003 • M111 petrol • M112 petrol • M113 petrol • OM606 diesel • OM611 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The second-generation E-Class—a significant improvement in refinement. M112 V6 and M113 V8 are robust; OM606 diesel is legendary. W210 values (£2.5k–£9k) mean OM642 recon on sub-£5k examples approaches scrap threshold.",
+  "cta": {
+    "label": "Explore W210 →",
+    "href": "https://mercedesengines.uk/e-class/w210"
+  }
+},
+{
+  "title": "W211 (2002–2009)",
+  "badge": "🔥 Most Enquired — 338 enquiries (2025) [MB-VERIFIED]",
+  "meta": "2002–2009 • M271 petrol • M112 petrol • M113 petrol • OM646 diesel • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The third-generation E-Class—a significant step forward in quality. M271 petrol has timing chain issues; OM646 diesel is reliable; OM642 V6 diesel is well-understood but labour-intensive. W211 values (£5k–£18k) make OM642 recon borderline on sub-£8k examples.",
+  "cta": {
+    "label": "Explore W211 →",
+    "href": "https://mercedesengines.uk/e-class/w211"
+  }
+},
+{
+  "title": "W212 (2009–2016)",
+  "badge": "🔥 Most Enquired — 338 enquiries (2025) [MB-VERIFIED]",
+  "meta": "2009–2016 • M271 petrol • M276 petrol • OM651 diesel • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The fourth-generation E-Class—a robust and well-engineered car. M276 V6 petrol is the most reliable; OM651 diesel is common but carries injector seal risk; OM642 V6 diesel is well-understood. W212 values (£5k–£18k) make replacement viable on most examples.",
+  "cta": {
+    "label": "Explore W212 →",
+    "href": "https://mercedesengines.uk/e-class/w212"
+  }
+},
+{
+  "title": "W213 (2016–2023)",
+  "badge": "🔥 Most Enquired — 214 enquiries (2025) [MB-VERIFIED]",
+  "meta": "2016–2023 • M274 petrol • M276 petrol • OM654 diesel • OM642 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The fifth-generation E-Class—a significant leap in quality and technology. OM654 diesel is a cleaner, more reliable design than OM651; M274 petrol is robust. W213 values (£14k–£35k) make replacement safe across all variants.",
+  "cta": {
+    "label": "Explore W213 →",
+    "href": "https://mercedesengines.uk/e-class/w213"
+  }
+},
+      {
         "title": "W124 (1984–1995) (pre‑1993 cars carried the \"E\" as a suffix, e.g. 300 E; the E‑Class badge formally appeared on the 1993 facelift)",
         "badge": "",
         "meta": "1993–1995 • M104 straight-six petrols, OM602/OM605 diesels",

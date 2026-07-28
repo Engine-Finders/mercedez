@@ -361,6 +361,61 @@
     "subHeadline": "Four generations of Mercedes' best-selling saloon — the W203's diesel problems, the W204's facelift improvement, the W205's sweet spot, and the W206's modern safety.",
     "cards": [
       {
+  "title": "A205 (2014–2021) — Cabriolet",
+  "badge": "",
+  "meta": "2014–2021 • M274 petrol • M276 petrol • OM651 diesel • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The open-top W205—shares the excellent M274 petrol and the later OM654 diesel. Cabriolet values are strong, and the engines are well-supported. A genuine premium car that warrants replacement when needed.",
+  "cta": {
+    "label": "Explore A205 →",
+    "href": "https://mercedesengines.uk/c-class/a205"
+  }
+},
+      {
+  "title": "CL203 (2000–2002) — SportCoupé",
+  "badge": "",
+  "meta": "2000–2002 • M111 petrol • OM611 diesel",
+  "rating": "★★☆☆☆",
+  "verdict": "The C-Class SportCoupé—a three-door hatchback variant with a distinctive wedge shape. Rare and now very low-value; most examples sub-£2,000. Replacement cost frequently exceeds vehicle value.",
+  "cta": {
+    "label": "Explore CL203 →",
+    "href": "https://mercedesengines.uk/c-class/cl203"
+  }
+},
+{
+  "title": "C204 (2011–2015) — Coupé",
+  "badge": "",
+  "meta": "2011–2015 • M271 petrol • M276 petrol • OM651 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The C-Class Coupé based on the W204 platform—shares the OM651 diesel and M276 V6 petrol. The C204 coupé adds a sportier image but retains the same engine reliability profile. Values (£6k–£15k) make replacement viable on most examples.",
+  "cta": {
+    "label": "Explore C204 →",
+    "href": "https://mercedesengines.uk/c-class/c204"
+  }
+},
+{
+  "title": "C205 (2014–2021) — Coupé",
+  "badge": "",
+  "meta": "2014–2021 • M274 petrol • M276 petrol • OM651 diesel • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The W205 coupé—a sleek two-door with the same M274 petrol and OM654 diesel as the saloon. Coupé premium adds to resale value, making replacement viable across most examples.",
+  "cta": {
+    "label": "Explore C205 →",
+    "href": "https://mercedesengines.uk/c-class/c205"
+  }
+},
+      {
+  "title": "W202 (1993–2000)",
+  "badge": "",
+  "meta": "1993–2000 • M111 petrol • M112 petrol • OM604 diesel • OM605 diesel • OM606 diesel",
+  "rating": "★★☆☆☆",
+  "verdict": "The first-generation C-Class—built to replace the 190E. M111 petrol and OM606 diesel are robust, but 25-year-old examples now suffer from rust and electrical gremlins. Replacement cost frequently exceeds vehicle value on sub-£2,000 examples.",
+  "cta": {
+    "label": "Explore W202 →",
+    "href": "https://mercedesengines.uk/c-class/w202"
+  }
+},
+      {
         "title": "W203 (2000–2007)",
         "badge": "",
         "meta": "[Years] 2000–2007 • OM646 • OM647 • M271",
@@ -404,6 +459,58 @@
           "href": "https://mercedesengines.uk/c-class/w206"
         }
       },
+      {
+  "title": "S202 (1996–2000) — Estate",
+  "badge": "",
+  "meta": "1996–2000 • M111 petrol • OM605 diesel • OM606 diesel",
+  "rating": "★★☆☆☆",
+  "verdict": "The W202 estate—offered with the same robust M111 petrol and OM606 diesel engines. Rust and rear suspension wear are the main concerns on 25-year-old examples. Most hosts now sub-£2,500; replacement rarely viable.",
+  "cta": {
+    "label": "Explore S202 →",
+    "href": "https://mercedesengines.uk/c-class/s202"
+  }
+},
+{
+  "title": "S203 (2000–2007) — Estate",
+  "badge": "",
+  "meta": "2000–2007 • M271 petrol • OM646 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The W203 estate—practical and well-built, sharing the same M271 timing chain concerns and OM646 reliability. Estate body adds slight value premium but not enough to alter the watch/scrap analysis on sub-£4k examples.",
+  "cta": {
+    "label": "Explore S203 →",
+    "href": "https://mercedesengines.uk/c-class/s203"
+  }
+},{
+  "title": "S204 (2007–2014) — Estate",
+  "badge": "",
+  "meta": "2007–2014 • M271 petrol • M276 petrol • OM651 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The W204 estate—practical and popular, sharing the same OM651 diesel reliability concerns. Estate body holds value slightly better than saloon, but the same watch/scrap analysis applies on sub-£6k examples.",
+  "cta": {
+    "label": "Explore S204 →",
+    "href": "https://mercedesengines.uk/c-class/s204"
+  }
+},{
+  "title": "S205 (2014–2021) — Estate",
+  "badge": "",
+  "meta": "2014–2021 • M274 petrol • M276 petrol • OM651 diesel • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The W205 estate—arguably the most well-rounded compact estate. M274 petrol is reliable; OM654 diesel is a significant improvement over OM651. W205 values (£8k–£22k) make replacement safe across most examples.",
+  "cta": {
+    "label": "Explore S205 →",
+    "href": "https://mercedesengines.uk/c-class/s205"
+  }
+},{
+  "title": "S206 (2021–present) — Estate",
+  "badge": "",
+  "meta": "2021–present • M254 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The W206 estate—modern, efficient, and well-engineered. M254 petrol includes mild-hybrid tech; OM654 diesel remains the reliable choice. High values (£20k+) mean replacement is very safe.",
+  "cta": {
+    "label": "Explore S206 →",
+    "href": "https://mercedesengines.uk/c-class/s206"
+  }
+},
       {
         "title": "W203 vs W204 — The Facelift That Matters",
         "badge": "",

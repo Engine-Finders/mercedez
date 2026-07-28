@@ -419,9 +419,41 @@
     ]
   },
   "generations": {
-    "h2": "",
+    "h2": "Sprinter Generations — Find Your Vehicle",
     "subHeadline": "",
-    "cards": [],
+    "cards": [{
+  "title": "W901-905 (1995–2006)",
+  "badge": "",
+  "meta": "1995–2006 • OM601 diesel • OM602 diesel • OM611 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The first-generation Sprinter—a legend of the van world. OM602 and OM611 diesels are robust and well-understood. Commercial use often justifies replacement; personal use, evaluate carefully.",
+  "cta": {
+    "label": "Explore W901-905 →",
+    "href": "https://mercedesengines.uk/sprinter/w901-905"
+  }
+},
+{
+  "title": "W906 (2006–2018)",
+  "badge": "",
+  "meta": "2006–2018 • OM651 diesel • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The second-generation Sprinter—improved and refined. OM651 diesel is common and well-supported; OM642 V6 diesel is also well-understood. Commercial use justifies replacement; high-mileage examples may trigger economics review.",
+  "cta": {
+    "label": "Explore W906 →",
+    "href": "https://mercedesengines.uk/sprinter/w906"
+  }
+},
+{
+  "title": "W907 (2018–present)",
+  "badge": "",
+  "meta": "2018–present • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The third-generation Sprinter—modern, efficient, and reliable. OM654 diesel is the cleanest and most advanced Sprinter engine yet. Commercial use justifies replacement; high-values make replacement viable.",
+  "cta": {
+    "label": "Explore W907 →",
+    "href": "https://mercedesengines.uk/sprinter/w907"
+  }
+}],
     "rangeTable": {
       "title": "",
       "columns": [],
