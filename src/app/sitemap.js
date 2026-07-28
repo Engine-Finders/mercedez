@@ -18,6 +18,7 @@ function getUrls(folder, routePrefix = "") {
 
 export default function sitemap() {
     return [
+        {url: `${BASE_URL}`, lastModified: new Date()},
         ...getUrls("models"),
         ...getUrls("generations"),
         ...getUrls("engines", "/engine"),
