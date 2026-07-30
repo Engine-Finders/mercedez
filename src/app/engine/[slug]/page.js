@@ -21,6 +21,8 @@ export async function generateStaticParams() {
   return pages.map((page) => ({ slug: page.slug }));
 }
 
+const BASE_URL = "https://mercedesengines.uk";
+
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const entry = pages.find((page) => page.slug === slug);
@@ -32,9 +34,7 @@ export async function generateMetadata({ params }) {
   return {
     title: meta.title,
     description: meta.description,
-    alternates: meta.canonical
-      ? { canonical: meta.canonical }
-      : undefined,
+    alternates: { canonical: `${BASE_URL}/engine/${slug}` },
     openGraph: meta.openGraph?.type
       ? {
           title: meta.openGraph.title,

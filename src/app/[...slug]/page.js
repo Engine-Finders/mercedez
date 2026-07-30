@@ -92,6 +92,12 @@ export async function generateStaticParams() {
   return params;
 }
 
+const BASE_URL = "https://mercedesengines.uk";
+
+function canonicalFromSlug(slug) {
+  return `${BASE_URL}/${slug.join("/")}`;
+}
+
 export async function generateMetadata({ params }) {
   const { slug } = await params;
 
@@ -104,6 +110,7 @@ export async function generateMetadata({ params }) {
         return {
           title: meta.title || undefined,
           description: meta.description || undefined,
+          alternates: { canonical: canonicalFromSlug(slug) },
           openGraph: meta.openGraph
             ? {
                 title: meta.openGraph.title || undefined,
@@ -133,6 +140,7 @@ export async function generateMetadata({ params }) {
         return {
           title: meta.title,
           description: meta.description,
+          alternates: { canonical: canonicalFromSlug(slug) },
           openGraph: meta.openGraph
             ? {
                 title: meta.openGraph.title,
@@ -164,6 +172,7 @@ export async function generateMetadata({ params }) {
         return {
           title: meta.title,
           description: meta.description,
+          alternates: { canonical: canonicalFromSlug(slug) },
           openGraph: meta.openGraph
             ? {
                 title: meta.openGraph.title,
@@ -193,7 +202,7 @@ export async function generateMetadata({ params }) {
         return {
           title: meta.title,
           description: meta.description,
-          alternates: meta.canonical ? { canonical: meta.canonical } : undefined,
+          alternates: { canonical: canonicalFromSlug(slug) },
           openGraph: meta.openGraph?.type
             ? {
                 title: meta.openGraph.title,
