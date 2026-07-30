@@ -420,18 +420,42 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C 200 CDI",
-      "C 220 CDI",
-      "C 250 CDI"
+      {
+        "name": "C 200 CDI",
+        "url": "https://mercedesengines.uk/c-class/c200-cdi"
+      },
+      {
+        "name": "C 220 CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C 250 CDI",
+        "url": "https://mercedesengines.uk/c-class/c250-cdi"
+      }
     ],
     "petrolVariants": [
-      "C 180",
-      "C 180 CGI",
-      "C 200 CGI",
-      "C 250 CGI",
-      "C 350"
+      {
+        "name": "C 180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 180 CGI",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 200 CGI",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 250 CGI",
+        "url": "https://mercedesengines.uk/c-class/c250-petrol"
+      },
+      {
+        "name": "C 350",
+        "url": "https://mercedesengines.uk/c-class/c350-c400-petrol"
+      }
     ],
     "scopeNote": ""
   },

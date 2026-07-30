@@ -734,20 +734,50 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures — C219 shares the W211 E‑Class platform and engine‑bay access, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLS 320 CDI",
-      "CLS 350 CDI"
+      {
+        "name": "CLS 320 CDI",
+        "url": "https://mercedesengines.uk/cls/cls320-cls350-cdi"
+      },
+      {
+        "name": "CLS 350 CDI",
+        "url": "https://mercedesengines.uk/cls/cls320-cls350-cdi"
+      }
     ],
     "petrolVariants": [
-      "CLS 280",
-      "CLS 300",
-      "CLS 350",
-      "CLS 350 CGI",
-      "CLS 500",
-      "CLS 550",
-      "CLS 55 AMG",
-      "CLS 63 AMG"
+      {
+        "name": "CLS 280",
+        "url": "#"
+      },
+      {
+        "name": "CLS 300",
+        "url": "#"
+      },
+      {
+        "name": "CLS 350",
+        "url": "https://mercedesengines.uk/cls/cls350-cls500-petrol"
+      },
+      {
+        "name": "CLS 350 CGI",
+        "url": "https://mercedesengines.uk/cls/cls350-cls500-petrol"
+      },
+      {
+        "name": "CLS 500",
+        "url": "https://mercedesengines.uk/cls/cls350-cls500-petrol"
+      },
+      {
+        "name": "CLS 550",
+        "url": "#"
+      },
+      {
+        "name": "CLS 55 AMG",
+        "url": "#"
+      },
+      {
+        "name": "CLS 63 AMG",
+        "url": "https://mercedesengines.uk/cls/cls63-amg"
+      }
     ],
     "scopeNote": "All variants listed are C219 four‑door coupé only. The C218 and C257 are separate generations covered on their own Generation Pages."
   },

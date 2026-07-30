@@ -985,21 +985,54 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — A209 cabriolet shares its W203-derived engine bay with the C209 coupé, so costs are inherited directly per the Authority Model, with no divergence note required. M156 AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
-  "coreVariants": {
+ "coreVariants": {
     "dieselVariants": [
-      "CLK 220 CDI",
-      "CLK 270 CDI",
-      "CLK 320 CDI"
+      {
+        "name": "CLK 220 CDI",
+        "url": "https://mercedesengines.uk/clk/200-220-cdi"
+      },
+      {
+        "name": "CLK 270 CDI",
+        "url": "https://mercedesengines.uk/clk/clk270-clk320-cdi"
+      },
+      {
+        "name": "CLK 320 CDI",
+        "url": "https://mercedesengines.uk/clk/clk270-clk320-cdi"
+      }
     ],
     "petrolVariants": [
-      "CLK 200 Kompressor",
-      "CLK 200 CGI",
-      "CLK 240",
-      "CLK 280",
-      "CLK 320",
-      "CLK 350",
-      "CLK 500",
-      "CLK 550"
+      {
+        "name": "CLK 200 Kompressor",
+        "url": "#"
+      },
+      {
+        "name": "CLK 200 CGI",
+        "url": "#"
+      },
+      {
+        "name": "CLK 240",
+        "url": "#"
+      },
+      {
+        "name": "CLK 280",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 320",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 350",
+        "url": "https://mercedesengines.uk/clk/clk350"
+      },
+      {
+        "name": "CLK 500",
+        "url": "#"
+      },
+      {
+        "name": "CLK 550",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are A209 cabriolet only. C209 Coupé shares most of these engines but is covered on its own Generation Page, as fitment and labour access vary slightly by body style."
   },

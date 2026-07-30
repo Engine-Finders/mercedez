@@ -578,13 +578,25 @@
     ],
     "note": "No Generation variance from the baseline figures — the R232 shares its MSA platform with the second-generation AMG GT, and engine-bay access is consistent across the range."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "SL 43",
-      "SL 55 4MATIC+",
-      "SL 63 4MATIC+",
-      "SL 63 S E Performance 4MATIC+"
+      {
+        "name": "SL 43",
+        "url": "#"
+      },
+      {
+        "name": "SL 55 4MATIC+",
+        "url": "https://mercedesengines.uk/sl/sl55-sl63-amg"
+      },
+      {
+        "name": "SL 63 4MATIC+",
+        "url": "https://mercedesengines.uk/sl/sl55-sl63-amg"
+      },
+      {
+        "name": "SL 63 S E Performance 4MATIC+",
+        "url": "https://mercedesengines.uk/sl/sl55-sl63-amg"
+      }
     ],
     "scopeNote": "All variants listed are R232 SL roadster only (2022–present). The previous-generation R231 SL (2012–2021) is covered on its own Generation Page. The Mercedes-Maybach SL (introduced August 2024) is a separate variant not covered here."
   },

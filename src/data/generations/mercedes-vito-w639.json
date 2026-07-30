@@ -733,18 +733,48 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "109 CDI",
-      "110 CDI",
-      "111 CDI",
-      "115 CDI",
-      "113 CDI",
-      "116 CDI",
-      "120 CDI",
-      "122 CDI"
+      {
+        "name": "109 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "110 CDI",
+        "url": "https://mercedesengines.uk/vito/108-112-cdi-older"
+      },
+      {
+        "name": "111 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "115 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "113 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "116 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "120 CDI",
+        "url": "#"
+      },
+      {
+        "name": "122 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "119",
-      "123"
+      {
+        "name": "119",
+        "url": "https://mercedesengines.uk/vito/petrol"
+      },
+      {
+        "name": "123",
+        "url": "https://mercedesengines.uk/vito/petrol"
+      }
     ],
     "scopeNote": "All variants listed are W639 (Vito, 2003–2014) only. The Viano luxury MPV shares the same W639 platform and engine range but is covered on a separate Generation Page per the one-page-per-body-code rule. The 109 CDI was offered with both OM646.980 (88 bhp) and OM646.981 (95 bhp) depending on production date. The post-2010 facelift models use the OM651.940 engine across the 109 CDI, 113 CDI and 116 CDI variants, with power outputs of 95 bhp, 136 bhp and 163 bhp respectively. The 120 CDI (204 bhp) and 122 CDI (224 bhp) use the OM642 V6 diesel. Petrol variants (119 and 123) are rare in the UK market."
   },

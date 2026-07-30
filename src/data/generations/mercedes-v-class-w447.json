@@ -724,19 +724,46 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any OM651, OM642, OM654, M274 or M254 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W447's MPV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "V 200 CDI",
-      "V 220 CDI",
-      "V 250 BlueTEC",
-      "V 350 BlueTEC",
-      "V 220 d",
-      "V 250 d",
-      "V 300 d"
+      {
+        "name": "V 200 CDI",
+        "url": "https://mercedesengines.uk/v-class/v200d-v220d"
+      },
+      {
+        "name": "V 220 CDI",
+        "url": "https://mercedesengines.uk/v-class/v200d-v220d"
+      },
+      {
+        "name": "V 250 BlueTEC",
+        "url": "https://mercedesengines.uk/v-class/v250d-v300d"
+      },
+      {
+        "name": "V 350 BlueTEC",
+        "url": "#"
+      },
+      {
+        "name": "V 220 d",
+        "url": "https://mercedesengines.uk/v-class/v200d-v220d"
+      },
+      {
+        "name": "V 250 d",
+        "url": "https://mercedesengines.uk/v-class/v250d-v300d"
+      },
+      {
+        "name": "V 300 d",
+        "url": "https://mercedesengines.uk/v-class/v250d-v300d"
+      }
     ],
     "petrolVariants": [
-      "V 250",
-      "V 300"
+      {
+        "name": "V 250",
+        "url": "https://mercedesengines.uk/v-class/v200-250-petrol"
+      },
+      {
+        "name": "V 300",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W447 MPV only. The Vito commercial van shares the platform and most powertrains but is covered on its own Generation Page. The V 250 petrol is the only pre‑facelift petrol option; the V 300 PHEV was introduced in 2024."
   },

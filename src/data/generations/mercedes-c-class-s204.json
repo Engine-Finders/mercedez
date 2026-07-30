@@ -702,21 +702,54 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the S204 shares its engine bay with the W204 saloon, so labour times and costs are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C180 CDI",
-      "C200 CDI",
-      "C220 CDI",
-      "C250 CDI",
-      "C350 CDI"
+      {
+        "name": "C180 CDI",
+        "url": "#"
+      },
+      {
+        "name": "C200 CDI",
+        "url": "https://mercedesengines.uk/c-class/c200-cdi"
+      },
+      {
+        "name": "C220 CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C250 CDI",
+        "url": "https://mercedesengines.uk/c-class/c250-cdi"
+      },
+      {
+        "name": "C350 CDI",
+        "url": "https://mercedesengines.uk/c-class/c320-c350-cdi"
+      }
     ],
     "petrolVariants": [
-      "C180 CGI",
-      "C200 Kompressor",
-      "C200 CGI",
-      "C250 CGI",
-      "C300",
-      "C350"
+      {
+        "name": "C180 CGI",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200 CGI",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C250 CGI",
+        "url": "https://mercedesengines.uk/c-class/c250-petrol"
+      },
+      {
+        "name": "C300",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C350",
+        "url": "https://mercedesengines.uk/c-class/c350-c400-petrol"
+      }
     ],
     "scopeNote": "All variants listed are S204 estate only. The W204 saloon and C204 coupé share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style."
   },

@@ -912,25 +912,70 @@
     ],
     "note": "No Generation variance from the baseline figures — the S213 estate shares its MRA platform with the W213 saloon, and engine-bay access is consistent across the range."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 200 d",
-      "E 220 d",
-      "E 220 d 4MATIC",
-      "E 300 d",
-      "E 300 d 4MATIC",
-      "E 400 d 4MATIC"
+      {
+        "name": "E 200 d",
+        "url": "https://mercedesengines.uk/e-class/e200-cdi-e200d"
+      },
+      {
+        "name": "E 220 d",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 220 d 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 300 d",
+        "url": "https://mercedesengines.uk/e-class/e300d"
+      },
+      {
+        "name": "E 300 d 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e300d"
+      },
+      {
+        "name": "E 400 d 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e350d-e400d"
+      }
     ],
     "petrolVariants": [
-      "E 200",
-      "E 200 4MATIC",
-      "E 300",
-      "E 300 4MATIC",
-      "E 400 4MATIC",
-      "E 450 4MATIC",
-      "E 53 AMG 4MATIC+",
-      "E 63 4MATIC+",
-      "E 63 S 4MATIC+"
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 200 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 300",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 300 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 400 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "E 450 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 53 AMG 4MATIC+",
+        "url": "https://mercedesengines.uk/e-class/e53-amg"
+      },
+      {
+        "name": "E 63 4MATIC+",
+        "url": "https://mercedesengines.uk/e-class/e63-amg"
+      },
+      {
+        "name": "E 63 S 4MATIC+",
+        "url": "https://mercedesengines.uk/e-class/e63-amg"
+      }
     ],
     "scopeNote": "All variants listed are S213 estate only (2016–2023). W213 saloon, C238 coupé and A238 cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style. The E 300 e and E 350 e are plug-in hybrids; the E 300 de is a diesel plug-in hybrid."
   },

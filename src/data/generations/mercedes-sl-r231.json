@@ -626,16 +626,29 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the R231 is a standalone model with no direct platform‑sharing for engine bay access, so labour times are specific to this generation. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
-    "dieselVariants": [
-      "none (R231 was petrol‑only)"
-    ],
+"coreVariants": {
+    "dieselVariants": [],
     "petrolVariants": [
-      "SL 350",
-      "SL 400",
-      "SL 500",
-      "SL 63 AMG",
-      "SL 65 AMG"
+      {
+        "name": "SL 350",
+        "url": "https://mercedesengines.uk/sl/sl350-sl400-sl450"
+      },
+      {
+        "name": "SL 400",
+        "url": "https://mercedesengines.uk/sl/sl350-sl400-sl450"
+      },
+      {
+        "name": "SL 500",
+        "url": "https://mercedesengines.uk/sl/sl500-sl550-sl560"
+      },
+      {
+        "name": "SL 63 AMG",
+        "url": "https://mercedesengines.uk/sl/sl55-sl63-amg"
+      },
+      {
+        "name": "SL 65 AMG",
+        "url": "https://mercedesengines.uk/sl/sl600-sl65-v12"
+      }
     ],
     "scopeNote": "All variants listed are R231 sixth‑generation SL only. The R231 was not available with a non‑AMG V12 — the SL 600 was discontinued. The SL 400 replaced the SL 350 from November 2014, and the facelift in 2016 brought power upgrades to both the SL 400 (367 bhp) and SL 500 (455 bhp)."
   },

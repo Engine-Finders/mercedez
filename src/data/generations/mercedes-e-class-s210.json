@@ -1023,24 +1023,66 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 200 D",
-      "E 220 D",
-      "E 220 CDI",
-      "E 250 D",
-      "E 250 Turbodiesel",
-      "E 290 Turbodiesel",
-      "E 300 Turbodiesel"
+      {
+        "name": "E 200 D",
+        "url": "https://mercedesengines.uk/e-class/e200-e220-diesel-older"
+      },
+      {
+        "name": "E 220 D",
+        "url": "https://mercedesengines.uk/e-class/e200-e220-diesel-older"
+      },
+      {
+        "name": "E 220 CDI",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 250 D",
+        "url": "#"
+      },
+      {
+        "name": "E 250 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "E 290 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "E 300 Turbodiesel",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "E 200 T",
-      "E 200 T Kompressor",
-      "E 230 T",
-      "E 240 T",
-      "E 320 T",
-      "E 430 T",
-      "E 55 T AMG"
+      {
+        "name": "E 200 T",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 200 T Kompressor",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 230 T",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 240 T",
+        "url": "#"
+      },
+      {
+        "name": "E 320 T",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 430 T",
+        "url": "#"
+      },
+      {
+        "name": "E 55 T AMG",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are S210 estate only. W210 saloon shares most of these engines but is covered on its own Generation Page, since body style affects weight, aerodynamics, and to some extent, labour access. The S210 was produced from May 1995 to December 2002."
   },

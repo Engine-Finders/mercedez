@@ -423,9 +423,54 @@
     ]
   },
   "generations": {
-    "h2": "",
+    "h2": "CLA Generations — Find Your Vehicle",
     "subHeadline": "",
-    "cards": [],
+    "cards":[
+  {
+    "title": "C117 (2013–2019)",
+    "badge": "",
+    "meta": "2013–2019 • M270 petrol • OM651 diesel",
+    "rating": "★★★☆☆",
+    "verdict": "The first-generation CLA—a four-door coupé with a sleek profile. M270 petrol is the reliable choice; OM651 diesel carries the same injector seal risk as other OM651 applications. Values (£5k–£15k) make replacement viable.",
+    "cta": {
+      "label": "Explore C117 →",
+      "href": "https://mercedesengines.uk/cla/c117"
+    }
+  },
+  {
+    "title": "C118 (2019–present)",
+    "badge": "",
+    "meta": "2019–present • M282 petrol • M260 petrol • OM608 diesel",
+    "rating": "★★★★☆",
+    "verdict": "The second-generation CLA—shares the M282 petrol and OM608 diesel with the W177 A-Class. The OM608 is a much cleaner diesel design than the OM651 it replaced. Modern, reliable, and well-supported.",
+    "cta": {
+      "label": "Explore C118 →",
+      "href": "https://mercedesengines.uk/cla/c118"
+    }
+  },
+  {
+    "title": "X117 (2013–2019) — Shooting Brake",
+    "badge": "",
+    "meta": "2013–2019 • M270 petrol • OM651 diesel",
+    "rating": "★★★☆☆",
+    "verdict": "The CLA Shooting Brake—a stylish estate variant with the same M270 petrol and OM651 diesel engines. Shooting Brake values are slightly stronger than the saloon, improving replacement viability.",
+    "cta": {
+      "label": "Explore X117 →",
+      "href": "https://mercedesengines.uk/cla/x117"
+    }
+  },
+  {
+    "title": "X118 (2019–present) — Shooting Brake",
+    "badge": "",
+    "meta": "2019–present • M282 petrol • OM608 diesel",
+    "rating": "★★★★☆",
+    "verdict": "The CLA Shooting Brake—now with the same M282 petrol and OM608 diesel as the C118. The OM608 is reliable, the M282 is economical. Shooting Brake values (£10k–£28k) make replacement very safe.",
+    "cta": {
+      "label": "Explore X118 →",
+      "href": "https://mercedesengines.uk/cla/x118"
+    }
+  }
+],
     "rangeTable": {
       "title": "",
       "columns": [],

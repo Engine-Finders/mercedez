@@ -392,6 +392,50 @@
     "subHeadline": "Two generations, two very different platforms, one unforgettable design. Choose wisely.",
     "cards": [
       {
+  "title": "A208 (1998–2003) — Cabriolet",
+  "badge": "",
+  "meta": "1998–2003 • M112 petrol • M113 petrol • OM611 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The CLK cabriolet—a stylish two-door based on the W202 platform. M112 and M113 V6/V8 engines are robust; OM611 diesel is reliable but rare in the UK. Values (£3k–£9k) make replacement borderline on sub-£5k examples.",
+  "cta": {
+    "label": "Explore A208 →",
+    "href": "https://mercedesengines.uk/clk/a208"
+  }
+},
+{
+  "title": "A209 (2002–2009) — Cabriolet",
+  "badge": "",
+  "meta": "2002–2009 • M271 petrol • M272 petrol • OM646 diesel • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The second-generation CLK cabriolet—based on the W203 platform. M272 V6 is the most reliable; OM642 V6 diesel is well-understood. Cabriolet values (£4k–£12k) make replacement borderline on sub-£6k examples.",
+  "cta": {
+    "label": "Explore A209 →",
+    "href": "https://mercedesengines.uk/clk/a209"
+  }
+},
+{
+  "title": "C208 (1997–2003) — Coupé",
+  "badge": "",
+  "meta": "1997–2003 • M112 petrol • M113 petrol • OM611 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The CLK coupé—a stylish W202-based two-door with a distinctive look. M112 V6 and M113 V8 are robust; OM611 diesel is reliable but uncommon. Values (£3k–£8k) make replacement borderline on sub-£4k examples.",
+  "cta": {
+    "label": "Explore C208 →",
+    "href": "https://mercedesengines.uk/clk/c208"
+  }
+},
+{
+  "title": "C209 (2002–2009) — Coupé",
+  "badge": "",
+  "meta": "2002–2009 • M271 petrol • M272 petrol • OM646 diesel • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The second-generation CLK coupé—shares the W203 platform and engine range. M272 V6 is the pick; OM642 V6 diesel is robust but labour-intensive. Values (£4k–£10k) make replacement borderline on sub-£5k examples.",
+  "cta": {
+    "label": "Explore C209 →",
+    "href": "https://mercedesengines.uk/clk/c209"
+  }
+},
+      {
         "title": "W208 (1997–2003)",
         "badge": "🔥 Most Enquired — 120+ enquiries (2025) [PATTERN DATA]",
         "meta": "1997–2003 • M111 I4 • M112 V6 • M113 V8",
@@ -399,7 +443,7 @@
         "verdict": "The original CLK — based on the W202 C-Class, styled like the E-Class. The M112 V6 is the one to buy; the M113 V8 is the one to want. But age means everything now — most W208s are sub-£4,000 cars, and a full engine replacement rarely makes financial sense. Buy as a weekend car, not a daily driver.",
         "cta": {
           "label": "Explore W208 CLK →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/clk/c208"
         }
       },
       {
@@ -410,7 +454,7 @@
         "verdict": "The second-generation CLK — based on the W203 C-Class platform, better built, better to drive. The later cars (2006–2009) with the M272 V6 are the best buy, provided the balance shaft issue has been addressed. The CLK 55 AMG is a future classic; the CLK 63 AMG is a legend. The diesel CLKs (270 CDI, 320 CDI) are rare in the UK but offer genuine economy.",
         "cta": {
           "label": "Explore W209 CLK →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/clk/a209"
         }
       },
       {

@@ -405,9 +405,32 @@
     ]
   },
   "generations": {
-    "h2": "",
+    "h2": "Citan Generations — Find Your Vehicle",
     "subHeadline": "",
-    "cards": [],
+    "cards": [
+      {
+  "title": "W415 (2012–2020)",
+  "badge": "",
+  "meta": "2012–2020 • Renault K9K 1.5 dCi",
+  "rating": "★★★☆☆",
+  "verdict": "The Mercedes Citan—a Renault Kangoo-based city van. Shares the K9K 1.5 dCi engine with Renault, which is well-known and well-supported. Commercial use may justify replacement; personal use warrants careful cost analysis.",
+  "cta": {
+    "label": "Explore W415 →",
+    "href": "https://mercedesengines.uk/citan/w415"
+  }
+},
+{
+  "title": "W420 (2020–present)",
+  "badge": "",
+  "meta": "2020–present • Renault K9K 1.5 dCi",
+  "rating": "★★★☆☆",
+  "verdict": "The second-generation Citan—still Kangoo-based but improved significantly. The K9K diesel remains the workhorse; now with better refinement. Commercial use often justifies replacement; personal use, evaluate carefully.",
+  "cta": {
+    "label": "Explore W420 →",
+    "href": "https://mercedesengines.uk/citan/w420"
+  }
+}
+    ],
     "rangeTable": {
       "title": "",
       "columns": [],

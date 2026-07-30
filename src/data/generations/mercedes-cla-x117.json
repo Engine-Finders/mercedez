@@ -567,19 +567,46 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the X117 shares its MFA platform with the A‑Class (W176) and B‑Class (W246), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLA 180 d",
-      "CLA 200 d",
-      "CLA 220 d"
+      {
+        "name": "CLA 180 d",
+        "url": "https://mercedesengines.uk/cla/cla180d-200d"
+      },
+      {
+        "name": "CLA 200 d",
+        "url": "https://mercedesengines.uk/cla/cla180d-200d"
+      },
+      {
+        "name": "CLA 220 d",
+        "url": "https://mercedesengines.uk/cla/cla220d"
+      }
     ],
     "petrolVariants": [
-      "CLA 180",
-      "CLA 200",
-      "CLA 220 4MATIC",
-      "CLA 250",
-      "CLA 250 4MATIC",
-      "CLA 45 AMG 4MATIC"
+      {
+        "name": "CLA 180",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 200",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 220 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "CLA 250",
+        "url": "https://mercedesengines.uk/cla/cla250"
+      },
+      {
+        "name": "CLA 250 4MATIC",
+        "url": "https://mercedesengines.uk/cla/cla250"
+      },
+      {
+        "name": "CLA 45 AMG 4MATIC",
+        "url": "https://mercedesengines.uk/cla/cla45-amg"
+      }
     ],
     "scopeNote": "All variants listed are X117 Shooting Brake only. The C117 Coupé/Saloon shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },

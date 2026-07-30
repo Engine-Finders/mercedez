@@ -732,16 +732,40 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "GL 320 CDI",
-      "GL 350 BlueTEC",
-      "GL 350 CDI",
-      "GL 420 CDI",
-      "GL 450 CDI"
+      {
+        "name": "GL 320 CDI",
+        "url": "#"
+      },
+      {
+        "name": "GL 350 BlueTEC",
+        "url": "#"
+      },
+      {
+        "name": "GL 350 CDI",
+        "url": "https://mercedesengines.uk/gls/gls350d-400d"
+      },
+      {
+        "name": "GL 420 CDI",
+        "url": "#"
+      },
+      {
+        "name": "GL 450 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "GL 450",
-      "GL 500",
-      "GL 550"
+      {
+        "name": "GL 450",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "GL 500",
+        "url": "https://mercedesengines.uk/gls/gls450-500-580"
+      },
+      {
+        "name": "GL 550",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are X164 GL-Class only (2006–2012). The X166 GL-Class (2012–2015) and X167 GLS (2015–present) are separate generations. The GL 400 CDI was produced for non-UK markets and is not covered here. Note that the GL 350 CDI (265 bhp) was introduced post-2010 as a higher-output version of the OM642."
   },

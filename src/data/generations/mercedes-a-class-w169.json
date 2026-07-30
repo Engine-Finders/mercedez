@@ -661,16 +661,40 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "A160 CDI",
-      "A180 CDI",
-      "A200 CDI"
+      {
+        "name": "A160 CDI",
+        "url": "https://mercedesengines.uk/a-class/160-170-cdi"
+      },
+      {
+        "name": "A180 CDI",
+        "url": "https://mercedesengines.uk/a-class/a180-cdi"
+      },
+      {
+        "name": "A200 CDI",
+        "url": "https://mercedesengines.uk/a-class/a200-cdi"
+      }
     ],
     "petrolVariants": [
-      "A150",
-      "A160",
-      "A170",
-      "A200",
-      "A200 Turbo"
+      {
+        "name": "A150",
+        "url": "#"
+      },
+      {
+        "name": "A160",
+        "url": "https://mercedesengines.uk/a-class/a160-a180-petrol"
+      },
+      {
+        "name": "A170",
+        "url": "https://mercedesengines.uk/a-class/a160-a180-petrol"
+      },
+      {
+        "name": "A200",
+        "url": "https://mercedesengines.uk/a-class/a200-petrol"
+      },
+      {
+        "name": "A200 Turbo",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W169 five‑door hatchback only. C169 three‑door Coupé shares all these engines but is covered on its own Generation Page, since labour access varies slightly by body style and the C169's sportier positioning attracts a different ownership profile."
   },

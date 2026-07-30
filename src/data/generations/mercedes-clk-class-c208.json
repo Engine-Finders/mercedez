@@ -778,16 +778,37 @@
     ],
     "note": "No Generation variance from the baseline figures — the C208 coupé shares its W202 platform with the C-Class of the era, and engine-bay access is consistent across the range."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "CLK 200",
-      "CLK 200 Kompressor",
-      "CLK 230 Kompressor",
-      "CLK 240",
-      "CLK 320",
-      "CLK 430",
-      "CLK 55 AMG"
+      {
+        "name": "CLK 200",
+        "url": "#"
+      },
+      {
+        "name": "CLK 200 Kompressor",
+        "url": "#"
+      },
+      {
+        "name": "CLK 230 Kompressor",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 240",
+        "url": "#"
+      },
+      {
+        "name": "CLK 320",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 430",
+        "url": "#"
+      },
+      {
+        "name": "CLK 55 AMG",
+        "url": "https://mercedesengines.uk/clk/clk55-63-amg"
+      }
     ],
     "scopeNote": "All variants listed are C208 coupé only (1997–2002). A208 cabriolet (1998–2003) shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style. Note that the CLK 200 Kompressor was detuned from 192 PS to 163 PS in the 2000 engine refresh."
   },

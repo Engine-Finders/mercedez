@@ -454,9 +454,18 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "GT",
-      "GT S",
-      "GT R"
+      {
+        "name": "GT",
+        "url": "https://mercedesengines.uk/amg-gt/gt-s-c"
+      },
+      {
+        "name": "GT S",
+        "url": "https://mercedesengines.uk/amg-gt/gt-s-c"
+      },
+      {
+        "name": "GT R",
+        "url": "https://mercedesengines.uk/amg-gt/gt-r-pro"
+      }
     ],
     "scopeNote": "All variants listed are R190 roadster only. C190 coupé shares the same M178 engine line‑up but is covered on its own Generation Page, as fitment and production years vary by body style."
   },

@@ -648,31 +648,94 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "200 D",
-      "250 D",
-      "300 D",
-      "300 D Turbo",
-      "E 200 D",
-      "E 250 D",
-      "E 300 D"
+      {
+        "name": "200 D",
+        "url": "#"
+      },
+      {
+        "name": "250 D",
+        "url": "#"
+      },
+      {
+        "name": "300 D",
+        "url": "#"
+      },
+      {
+        "name": "300 D Turbo",
+        "url": "#"
+      },
+      {
+        "name": "E 200 D",
+        "url": "#"
+      },
+      {
+        "name": "E 250 D",
+        "url": "#"
+      },
+      {
+        "name": "E 300 D",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "200",
-      "200 E",
-      "230 E",
-      "260 E",
-      "280 E",
-      "300 E",
-      "300 E-24",
-      "E 200",
-      "E 220",
-      "E 280",
-      "E 320",
-      "500 E",
-      "E 500",
-      "E 60 AMG"
+      {
+        "name": "200",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "200 E",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "230 E",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "260 E",
+        "url": "#"
+      },
+      {
+        "name": "280 E",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "300 E",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "300 E-24",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 220",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 280",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 320",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "500 E",
+        "url": "https://mercedesengines.uk/e-class/e500-e550"
+      },
+      {
+        "name": "E 500",
+        "url": "https://mercedesengines.uk/e-class/e500-e550"
+      },
+      {
+        "name": "E 60 AMG",
+        "url": "#"
+      }
     ],
     "scopeNote": ""
   },

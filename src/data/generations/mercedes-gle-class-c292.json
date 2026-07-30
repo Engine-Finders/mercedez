@@ -609,17 +609,38 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLE 350 d"
+      {
+        "name": "GLE 350 d",
+        "url": "https://mercedesengines.uk/gle/gle350d-400d"
+      }
     ],
     "petrolVariants": [
-      "GLE 400 4MATIC",
-      "GLE 450 AMG 4MATIC",
-      "GLE 43 AMG 4MATIC",
-      "GLE 500 4MATIC",
-      "GLE 63 AMG 4MATIC",
-      "GLE 63 S AMG 4MATIC"
+      {
+        "name": "GLE 400 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "GLE 450 AMG 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "GLE 43 AMG 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "GLE 500 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle500-gle580"
+      },
+      {
+        "name": "GLE 63 AMG 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      },
+      {
+        "name": "GLE 63 S AMG 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      }
     ],
     "scopeNote": "All variants listed are C292 (GLE Coupé, 2015–2019) only. The W166 GLE SUV shares the same engines but is covered on a separate Generation Page per the one-page-per-body-code rule. The GLE 450 AMG (367 bhp) was replaced by the GLE 43 AMG (390 bhp) in some markets, though both use the M276.821 engine."
   },

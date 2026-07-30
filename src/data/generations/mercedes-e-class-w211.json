@@ -934,25 +934,84 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M271, M112, M272, M113, M156, OM646, OM647, OM648 or OM642 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W211's executive‑car labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 200 CDI",
-      "E 220 CDI",
-      "E 270 CDI",
-      "E 280 CDI",
-      "E 320 CDI"
+      {
+        "name": "E 220 Diesel",
+        "url": "https://mercedesengines.uk/e-class/e200-e220-diesel-older"
+      },
+      {
+        "name": "E 250 Diesel",
+        "url": "#"
+      },
+      {
+        "name": "E 220 CDI",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 270 CDI",
+        "url": "https://mercedesengines.uk/e-class/e270-e280-e300-cdi"
+      },
+      {
+        "name": "E 290 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "E 300 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "E 320 CDI",
+        "url": "https://mercedesengines.uk/e-class/e320-e350-cdi"
+      }
     ],
     "petrolVariants": [
-      "E 200 Kompressor",
-      "E 240",
-      "E 280",
-      "E 320",
-      "E 350",
-      "E 500",
-      "E 55 AMG",
-      "E 63 AMG"
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 200 Kompressor",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 230",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 240",
+        "url": "#"
+      },
+      {
+        "name": "E 280",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 320",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 420",
+        "url": "#"
+      },
+      {
+        "name": "E 430",
+        "url": "#"
+      },
+      {
+        "name": "E 36 AMG",
+        "url": "#"
+      },
+      {
+        "name": "E 50 AMG",
+        "url": "#"
+      },
+      {
+        "name": "E 55 AMG",
+        "url": "#"
+      }
     ],
-    "scopeNote": "All variants listed are W211 saloon and S211 estate. The saloon and estate share all engines, with only minor labour differences for some repairs. The estate's additional weight and rear suspension setup can affect fuel economy and running costs."
+    "scopeNote": "All variants listed are W210 saloon only (1995–2002). S210 estate (1996–2003) shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style. Note the E 200 Kompressor was not sold in Germany and was primarily an export model."
   },
   "marketIntelligence": {
     "mostRequestedEngines": [

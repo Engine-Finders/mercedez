@@ -619,18 +619,42 @@
     ],
     "note": "No Generation variance from the Model Page’s baseline figures — W246 shares its engine bay architecture with the W176 A‑Class and X156 GLA, so costs are inherited directly per the Authority Model, with no divergence note required. OM651 costs carried forward from the EM data’s Table A."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "B160 CDI",
-      "B180 CDI",
-      "B200 CDI",
-      "B220 CDI"
+      {
+        "name": "B160 CDI",
+        "url": "#"
+      },
+      {
+        "name": "B180 CDI",
+        "url": "#"
+      },
+      {
+        "name": "B200 CDI",
+        "url": "https://mercedesengines.uk/b-class/b200-cdi-b200d"
+      },
+      {
+        "name": "B220 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "B180",
-      "B200",
-      "B220 4MATIC",
-      "B250"
+      {
+        "name": "B180",
+        "url": "https://mercedesengines.uk/b-class/b180-b200-petrol"
+      },
+      {
+        "name": "B200",
+        "url": "https://mercedesengines.uk/b-class/b180-b200-petrol"
+      },
+      {
+        "name": "B220 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "B250",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W246 5‑door hatchback only. The W242 Electric Drive is a separate model and is not covered on this page."
   },

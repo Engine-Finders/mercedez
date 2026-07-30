@@ -740,24 +740,66 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures — S206 estate shares identical engine‑bay access with its W206 saloon sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C 200 d",
-      "C 220 d",
-      "C 220 d 4MATIC",
-      "C 300 d",
-      "C 300 d 4MATIC"
+      {
+        "name": "C 200 d",
+        "url": "#"
+      },
+      {
+        "name": "C 220 d",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C 220 d 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C 300 d",
+        "url": "https://mercedesengines.uk/c-class/c300d"
+      },
+      {
+        "name": "C 300 d 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c300d"
+      }
     ],
     "petrolVariants": [
-      "C 180",
-      "C 200",
-      "C 200 4MATIC",
-      "C 300",
-      "C 300 4MATIC",
-      "C 300 e",
-      "C 350 e",
-      "AMG C 43 4MATIC",
-      "AMG C 63 S E Performance 4MATIC+"
+      {
+        "name": "C 180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 200",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 200 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C 300",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C 300 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C 300 e",
+        "url": "#"
+      },
+      {
+        "name": "C 350 e",
+        "url": "#"
+      },
+      {
+        "name": "AMG C 43 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c43-amg"
+      },
+      {
+        "name": "AMG C 63 S E Performance 4MATIC+",
+        "url": "https://mercedesengines.uk/c-class/c63-se-performance"
+      }
     ],
     "scopeNote": "All variants listed are S206 estate only. W206 saloon and V206 long‑wheelbase saloon share most of these engines but are covered on their own Generation Pages, since fitment and labour access vary slightly by body style. The All‑Terrain variant (raised estate) shares the same engine range."
   },

@@ -713,15 +713,33 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "CLK 200",
-      "CLK 200 Kompressor",
-      "CLK 230 Kompressor",
-      "CLK 320",
-      "CLK 430",
-      "CLK 55 AMG"
+      {
+        "name": "CLK 200",
+        "url": "#"
+      },
+      {
+        "name": "CLK 200 Kompressor",
+        "url": "#"
+      },
+      {
+        "name": "CLK 230 Kompressor",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 320",
+        "url": "https://mercedesengines.uk/clk/230-280-320"
+      },
+      {
+        "name": "CLK 430",
+        "url": "#"
+      },
+      {
+        "name": "CLK 55 AMG",
+        "url": "https://mercedesengines.uk/clk/clk55-63-amg"
+      }
     ],
     "scopeNote": "All variants listed are A208 cabriolet only. C208 coupé shares most of these engines but is covered on its own Generation Page, since body style affects weight, aerodynamics, and to some extent, labour access. Production of the A208 cabriolet continued until March 2003, one year longer than the coupé."
   },

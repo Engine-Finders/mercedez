@@ -868,21 +868,54 @@
     ],
     "note": "No Generation variance from the baseline figures — the H247 shares its MFA2 platform with the A-Class and GLB, and engine-bay access is consistent across the range."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLA 180 d",
-      "GLA 200 d",
-      "GLA 220 d 4MATIC"
+      {
+        "name": "GLA 180 d",
+        "url": "https://mercedesengines.uk/a-class/a180d"
+      },
+      {
+        "name": "GLA 200 d",
+        "url": "https://mercedesengines.uk/a-class/a200d"
+      },
+      {
+        "name": "GLA 220 d 4MATIC",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "GLA 180",
-      "GLA 200",
-      "GLA 200 4MATIC",
-      "GLA 250",
-      "GLA 250 4MATIC",
-      "AMG GLA 35 4MATIC",
-      "AMG GLA 45 4MATIC+",
-      "AMG GLA 45 S 4MATIC+"
+      {
+        "name": "GLA 180",
+        "url": "https://mercedesengines.uk/gla/gla200-250-petrol"
+      },
+      {
+        "name": "GLA 200",
+        "url": "https://mercedesengines.uk/gla/gla200-250-petrol"
+      },
+      {
+        "name": "GLA 200 4MATIC",
+        "url": "https://mercedesengines.uk/gla/gla200-250-petrol"
+      },
+      {
+        "name": "GLA 250",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "GLA 250 4MATIC",
+        "url": "https://mercedesengines.uk/a-class/a250"
+      },
+      {
+        "name": "AMG GLA 35 4MATIC",
+        "url": "https://mercedesengines.uk/a-class/a35-amg"
+      },
+      {
+        "name": "AMG GLA 45 4MATIC+",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      },
+      {
+        "name": "AMG GLA 45 S 4MATIC+",
+        "url": "https://mercedesengines.uk/a-class/a45-amg"
+      }
     ],
     "scopeNote": "All variants listed are H247 SUV only (2020–present). The previous-generation X156 (2014–2020) is covered on its own Generation Page. Note that the GLA 250 e and 250 de are plug-in hybrids; the 250 e combines the 1.3-litre petrol engine with an electric motor, while the 250 de pairs the 2.0-litre diesel with electric drive."
   },

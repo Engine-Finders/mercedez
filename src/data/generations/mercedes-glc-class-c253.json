@@ -939,21 +939,54 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLC 220 d 4MATIC",
-      "GLC 250 d 4MATIC",
-      "GLC 300 d 4MATIC",
-      "GLC 350 d 4MATIC",
-      "GLC 400 d 4MATIC"
+      {
+        "name": "GLC 220 d 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc220d-250d"
+      },
+      {
+        "name": "GLC 250 d 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc220d-250d"
+      },
+      {
+        "name": "GLC 300 d 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc-300d"
+      },
+      {
+        "name": "GLC 350 d 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc350d-400d"
+      },
+      {
+        "name": "GLC 400 d 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc350d-400d"
+      }
     ],
     "petrolVariants": [
-      "GLC 200 4MATIC",
-      "GLC 250 4MATIC",
-      "GLC 300 4MATIC",
-      "AMG GLC 43 4MATIC",
-      "AMG GLC 63 4MATIC+",
-      "AMG GLC 63 S 4MATIC+"
+      {
+        "name": "GLC 200 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "GLC 250 4MATIC",
+        "url": "https://mercedesengines.uk/glc/250-300-petrol"
+      },
+      {
+        "name": "GLC 300 4MATIC",
+        "url": "https://mercedesengines.uk/glc/250-300-petrol"
+      },
+      {
+        "name": "AMG GLC 43 4MATIC",
+        "url": "https://mercedesengines.uk/glc/glc43-amg"
+      },
+      {
+        "name": "AMG GLC 63 4MATIC+",
+        "url": "https://mercedesengines.uk/glc/glc63-amg"
+      },
+      {
+        "name": "AMG GLC 63 S 4MATIC+",
+        "url": "https://mercedesengines.uk/glc/glc63-amg"
+      }
     ],
     "scopeNote": "All variants listed are C253 coupé SUV only. X253 SUV shares most of these engines but is covered on its own Generation Page, since body style affects weight, aerodynamics, and to some extent, labour access. The C253 was produced from June 2016 to 2022, with a facelift in 2019."
   },

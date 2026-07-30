@@ -716,22 +716,58 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 220 d",
-      "E 220 d 4MATIC",
-      "E 300 d",
-      "E 400 d 4MATIC",
-      "E 400 d 4MATIC+"
+      {
+        "name": "E 220 d",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 220 d 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 300 d",
+        "url": "https://mercedesengines.uk/e-class/e300d"
+      },
+      {
+        "name": "E 400 d 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e350d-e400d"
+      },
+      {
+        "name": "E 400 d 4MATIC+",
+        "url": "https://mercedesengines.uk/e-class/e350d-e400d"
+      }
     ],
     "petrolVariants": [
-      "E 200",
-      "E 200 4MATIC",
-      "E 300",
-      "E 300 EQ Boost",
-      "E 400 4MATIC",
-      "E 450 EQ Boost 4MATIC",
-      "AMG E 53 EQ Boost 4MATIC+"
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 200 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 300",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 300 EQ Boost",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "E 400 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "E 450 EQ Boost 4MATIC",
+        "url": "https://mercedesengines.uk/e-class/e300-e450"
+      },
+      {
+        "name": "AMG E 53 EQ Boost 4MATIC+",
+        "url": "https://mercedesengines.uk/e-class/e53-amg"
+      }
     ],
     "scopeNote": "All variants listed are C238 coupé only. W213 Saloon, S213 Estate and A238 Cabriolet share most of these engines but are covered on their own Generation Pages, since fitment and production years vary by body style."
   },

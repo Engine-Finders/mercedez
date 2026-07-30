@@ -411,7 +411,7 @@
         "verdict": "The original four-door coupé — a design masterpiece whose OM642 V6 diesel is reliable but labour-intensive, with oil cooler seal jobs costing £800–£1,500. The 5.4 V8 (OM629) sounds glorious but drinks fuel and parts are increasingly scarce. Buy only with full documented history and a £2,000 maintenance buffer.",
         "cta": {
           "label": "Explore C219 CLS →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/cls/c219"
         }
       },
       {
@@ -422,7 +422,7 @@
         "verdict": "The CLS that sold in greatest numbers — and the one with the widest reliability spread. Pre-2014 OM651 units carry the \"Black Death\" injector seal risk; post-2014 facelift cars with OM651 or OM654 are materially safer. The M276 V6 petrol is a fine engine with one caveat: timing chain stretch on earlier examples. Buy a 2014–2016 facelift with OM654 diesel for the sweet spot of style, reliability, and value.",
         "cta": {
           "label": "Explore C218 CLS →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/cls/c218"
         }
       },
       {
@@ -433,9 +433,20 @@
         "verdict": "The modern CLS — sleek, tech-filled, and running Mercedes' most dependable recent diesel (OM654) or the silky M256 straight-six. No major mechanical caveats beyond standard Mercedes electronic complexity. The catch? Values start at £18,000, so the cost-of-entry is high, but the ownership experience is also the most trouble-free of any CLS generation.",
         "cta": {
           "label": "Explore C257 CLS →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/cls/c257"
         }
       },
+      {
+  "title": "X218 (2012–2017) — Shooting Brake",
+  "badge": "",
+  "meta": "2012–2017 • M276 petrol • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The CLS Shooting Brake—a stylish estate with the same M276 petrol and OM642 diesel. Shooting Brake values are strong, and the M276 is robust. Replacement is viable on most examples.",
+  "cta": {
+    "label": "Explore X218 →",
+    "href": "https://mercedesengines.uk/cls/x218"
+  }
+},
       {
         "title": "Comparison Sub-Block: The CLS Diesel Divide",
         "badge": "",

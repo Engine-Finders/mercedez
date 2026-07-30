@@ -573,13 +573,28 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "1.7 CDI (75 PS)",
-      "1.7 CDI (91 PS)"
+      {
+        "name": "1.7 CDI (75 PS)",
+        "url": "https://mercedesengines.uk/vaneo/17-cdi"
+      },
+      {
+        "name": "1.7 CDI (91 PS)",
+        "url": "https://mercedesengines.uk/vaneo/17-cdi"
+      }
     ],
     "petrolVariants": [
-      "1.6 (102 PS)",
-      "1.6 (82 PS)",
-      "1.9 (125 PS)"
+      {
+        "name": "1.6 (102 PS)",
+        "url": "https://mercedesengines.uk/vaneo/16-19-petrol"
+      },
+      {
+        "name": "1.6 (82 PS)",
+        "url": "https://mercedesengines.uk/vaneo/16-19-petrol"
+      },
+      {
+        "name": "1.9 (125 PS)",
+        "url": "https://mercedesengines.uk/vaneo/16-19-petrol"
+      }
     ],
     "scopeNote": "All variants listed are W414 five-door MPV only. The Vaneo shares its platform and engines with the W168 A-Class but is a standalone model. Production ran from 2001 to 2005, with the Vaneo replaced by the B-Class and later the Citan."
   },

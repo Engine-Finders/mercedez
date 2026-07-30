@@ -560,21 +560,54 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — W447 shares its engine bay architecture across body styles, so costs are inherited directly per the Authority Model, with no divergence note required. OM651 and OM654 costs carried forward from the EM data's Table A."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "109 CDI",
-      "111 CDI",
-      "114 CDI",
-      "116 CDI",
-      "119 CDI",
-      "200 CDI",
-      "220 CDI",
-      "250 CDI",
-      "300 CDI"
+      {
+        "name": "109 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "111 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "114 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "116 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "119 CDI",
+        "url": "https://mercedesengines.uk/vito/vito-109-119-cdi"
+      },
+      {
+        "name": "200 CDI",
+        "url": "#"
+      },
+      {
+        "name": "220 CDI",
+        "url": "#"
+      },
+      {
+        "name": "250 CDI",
+        "url": "#"
+      },
+      {
+        "name": "300 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "Vito 200",
-      "Vito 200 4x4"
+      {
+        "name": "Vito 200",
+        "url": "https://mercedesengines.uk/vito/petrol"
+      },
+      {
+        "name": "Vito 200 4x4",
+        "url": "https://mercedesengines.uk/vito/petrol"
+      }
     ],
     "scopeNote": "All variants listed are W447 across all body styles (panel van, Tourer, Mixto). The W447 chassis code covers the full range regardless of configuration."
   },

@@ -673,14 +673,29 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — C217 coupé shares its W222-derived engine bay with the A217 convertible and W222 saloon, so costs are inherited directly per the Authority Model, with no divergence note required. AMG and V12 costs reflect specialist parts and labour requirements."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "S 400 4MATIC",
-      "S 450 4MATIC",
-      "S 500",
-      "S 500 4MATIC",
-      "S 560 4MATIC"
+      {
+        "name": "S 400 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 450 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 500 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 560 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      }
     ],
     "scopeNote": "All variants listed are C217 coupé only. A217 Convertible shares most of these engines but is covered on its own Generation Page, as fitment and labour access vary slightly by body style. The C217 was the last V12-powered Mercedes coupé ever produced."
   },

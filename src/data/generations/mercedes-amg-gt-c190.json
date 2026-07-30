@@ -307,12 +307,30 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "GT",
-      "GT S",
-      "GT C",
-      "GT R",
-      "GT R Pro",
-      "GT R Black Series"
+      {
+        "name": "GT",
+        "url": "https://mercedesengines.uk/amg-gt/gt-s-c"
+      },
+      {
+        "name": "GT S",
+        "url": "https://mercedesengines.uk/amg-gt/gt-s-c"
+      },
+      {
+        "name": "GT C",
+        "url": "https://mercedesengines.uk/amg-gt/gt-s-c"
+      },
+      {
+        "name": "GT R",
+        "url": "https://mercedesengines.uk/amg-gt/gt-r-pro"
+      },
+      {
+        "name": "GT R Pro",
+        "url": "https://mercedesengines.uk/amg-gt/gt-r-pro"
+      },
+      {
+        "name": "GT R Black Series",
+        "url": "https://mercedesengines.uk/amg-gt/gt-r-pro"
+      }
     ],
     "scopeNote": ""
   },

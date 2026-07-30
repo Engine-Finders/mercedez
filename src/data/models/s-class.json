@@ -410,6 +410,61 @@
     "subHeadline": "Seven generations of Mercedes-Benz flagship — from the bulletproof W140 to the touchscreen W223.",
     "cards": [
       {
+  "title": "A217 (2015–2020) — Cabriolet",
+  "badge": "",
+  "meta": "2015–2020 • M278 petrol • M276 petrol",
+  "rating": "★★★★☆",
+  "verdict": "The S-Class cabriolet—a flagship open-top with the same robust M278 and M276 engines. Cabriolet values (£18k–£50k) make replacement very safe.",
+  "cta": {
+    "label": "Explore A217 →",
+    "href": "https://mercedesengines.uk/s-class/a217"
+  }
+},
+      {
+  "title": "C140 (1992–1999) — Coupé",
+  "badge": "",
+  "meta": "1992–1999 • M113 petrol • M119 petrol",
+  "rating": "★★★☆☆",
+  "verdict": "The S-Class coupé—a stunning two-door flagship. M113 V8 is the reliable choice; M119 is also robust but less common. Values (£5k–£15k) make replacement borderline on sub-£6k examples.",
+  "cta": {
+    "label": "Explore C140 →",
+    "href": "https://mercedesengines.uk/s-class/c140"
+  }
+},
+{
+  "title": "C215 (1999–2006) — Coupé",
+  "badge": "",
+  "meta": "1999–2006 • M113 petrol • M275 petrol",
+  "rating": "★★★☆☆",
+  "verdict": "The CL—a flagship coupé based on the W220 platform. M113 V8 is robust; M275 V12 is a masterpiece but labour-intensive. Values (£4k–£12k) make replacement borderline on sub-£6k examples.",
+  "cta": {
+    "label": "Explore C215 →",
+    "href": "https://mercedesengines.uk/s-class/c215"
+  }
+},
+{
+  "title": "C216 (2006–2013) — Coupé",
+  "badge": "",
+  "meta": "2006–2013 • M273 petrol • M275 petrol",
+  "rating": "★★★☆☆",
+  "verdict": "The CL—a flagship coupé based on the W221 platform. M273 V8 is the reliable choice; M275 V12 is a masterpiece but labour-intensive. Values (£6k–£18k) make replacement borderline on sub-£8k examples.",
+  "cta": {
+    "label": "Explore C216 →",
+    "href": "https://mercedesengines.uk/s-class/c216"
+  }
+},
+{
+  "title": "C217 (2014–2020) — Coupé",
+  "badge": "",
+  "meta": "2014–2020 • M278 petrol • M276 petrol",
+  "rating": "★★★★☆",
+  "verdict": "The S-Class coupé—a stunning flagship two-door. M278 V8 is robust; M276 V6 is reliable. Coupé values (£15k–£45k) make replacement safe across all variants.",
+  "cta": {
+    "label": "Explore C217 →",
+    "href": "https://mercedesengines.uk/s-class/c217"
+  }
+},
+      {
         "title": "W140 (1991–1998)",
         "badge": "",
         "meta": "1991–1998 • M104, M119, OM603, OM604",
@@ -417,7 +472,7 @@
         "verdict": "The S-Class that built the reputation. The 3.0 OM603 diesel will outlast most of its owners, but values are now collector-driven, not daily-driver economics. Buy for passion, not pound-stretching.",
         "cta": {
           "label": "Explore W140 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/s-class/w140"
         }
       },
       {
@@ -428,7 +483,7 @@
         "verdict": "The first S-Class to bring buyer remorse. Air suspension, SBC brakes, and early electronics make this the most expensive generation to keep on the road. OM613 diesel is the pick if you must, but W220 ownership is a specialist's game.",
         "cta": {
           "label": "Explore W220 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/s-class/w220"
         }
       },
       {
@@ -439,7 +494,7 @@
         "verdict": "The sweet spot for value — £5,000 buys a lot of S-Class. OM642 V6 diesel is the sensible pick; the oil cooler seal is £800–£1,500 and well-understood. M276 petrol variants are smooth, but chain stretch is real. Check history, buy on condition.",
         "cta": {
           "label": "Explore W221 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/s-class/w221"
         }
       },
       {
@@ -450,7 +505,7 @@
         "verdict": "The S-Class to buy. W222 values have absorbed the steepest depreciation, build quality is materially better than the W221, and the OM654 diesel (2016+) is the cleanest modern option. W222 is the generation that most S-Class specialists recommend — and our 2025 enquiry data agrees.",
         "cta": {
           "label": "Explore W222 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/s-class/w222"
         }
       },
       {
@@ -461,7 +516,7 @@
         "verdict": "The most technologically advanced S-Class ever built, but the W223 is still establishing its long-term reputation. Early examples are £30,000–£60,000 — well above the scrap threshold — and the OM654 diesel and M176 V8 have strong early records. Buy with confidence, but check the infotainment recall history.",
         "cta": {
           "label": "Explore W223 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/s-class/w223"
         }
       },
       {

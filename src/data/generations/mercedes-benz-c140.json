@@ -408,15 +408,30 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "S 300 Turbo-D",
-      "S 350 Turbo-D (rare in UK)"
+      {
+        "name": "S 300 Turbo-D",
+        "url": "https://mercedesengines.uk/s-class/s300-s320-diesel-older"
+      },
+      {
+        "name": "S 350 Turbo-D (rare in UK)",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "420 SEC / CL 420",
-      "500 SEC / S 500 / CL 500",
-      "600 SEC / S 600 / CL 600"
+      {
+        "name": "420 SEC / CL 420",
+        "url": "https://mercedesengines.uk/s-class/s280-320-350-420-petrol"
+      },
+      {
+        "name": "500 SEC / S 500 / CL 500",
+        "url": "#"
+      },
+      {
+        "name": "600 SEC / S 600 / CL 600",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      }
     ],
     "scopeNote": ""
   },

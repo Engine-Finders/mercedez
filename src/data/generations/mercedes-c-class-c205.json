@@ -871,19 +871,46 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C200d",
-      "C220d",
-      "C250d"
+      {
+        "name": "C200d",
+        "url": "#"
+      },
+      {
+        "name": "C220d",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C250d",
+        "url": "https://mercedesengines.uk/c-class/c250-cdi"
+      }
     ],
     "petrolVariants": [
-      "C180",
-      "C300",
-      "C400 4MATIC",
-      "AMG C43 4MATIC",
-      "AMG C63",
-      "AMG C63 S"
+      {
+        "name": "C180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C300",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C400 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c350-c400-petrol"
+      },
+      {
+        "name": "AMG C43 4MATIC",
+        "url": "https://mercedesengines.uk/c-class/c43-amg"
+      },
+      {
+        "name": "AMG C63",
+        "url": "https://mercedesengines.uk/c-class/c63-amg"
+      },
+      {
+        "name": "AMG C63 S",
+        "url": "https://mercedesengines.uk/c-class/c63-amg"
+      }
     ],
     "scopeNote": "All variants listed are C205 coupé only. W205 saloon, S205 estate, and A205 cabriolet share most of these engines but are covered on their own Generation Pages, since body style affects weight, aerodynamics, and to some extent, labour access. The CLE (C236) succeeded the C205 from 2023."
   },

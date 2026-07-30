@@ -353,6 +353,50 @@
     "subHeadline": "The GLC runs in two generations — the first-generation X253 (2015–2022) and the second-generation X254 (2022–present). Both are safe buys, but the dividing line matters for engine choice and value.",
     "cards": [
       {
+  "title": "C167 (2019–present) — GLE Coupé",
+  "badge": "",
+  "meta": "2019–present • M256 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The GLE coupé—a sportier version of the V167 with the same M256 and OM654 engines. OM654 is the reliable choice; M256 is a sophisticated modern unit. Coupé values (£35k–£70k) make replacement very safe.",
+  "cta": {
+    "label": "Explore C167 →",
+    "href": "https://mercedesengines.uk/gle/c167"
+  }
+},
+      {
+  "title": "C253 (2015–2022) — Coupé",
+  "badge": "",
+  "meta": "2015–2022 • M274 petrol • M276 petrol • OM651 diesel • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The GLC coupé—a sportier SUV with the same excellent engine range. OM654 diesel is the pick; M274 petrol is robust. Coupé values (£14k–£38k) make replacement safe.",
+  "cta": {
+    "label": "Explore C253 →",
+    "href": "https://mercedesengines.uk/glc/c253"
+  }
+},
+{
+  "title": "C254 (2022–present) — Coupé",
+  "badge": "",
+  "meta": "2022–present • M254 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The second-generation GLC coupé—now with M254 mild-hybrid petrol and OM654 diesel. OM654 is proven and reliable; M254 is the new benchmark. High values (£28k–£55k) make replacement very safe.",
+  "cta": {
+    "label": "Explore C254 →",
+    "href": "https://mercedesengines.uk/glc/c254"
+  }
+},
+{
+  "title": "C292 (2015–2019) — GLE Coupé",
+  "badge": "",
+  "meta": "2015–2019 • M276 petrol • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The GLE coupé—a sportier version of the W166 with M276 and OM642 engines. M276 is reliable; OM642 is well-understood. Coupé values (£10k–£28k) make replacement viable.",
+  "cta": {
+    "label": "Explore C292 →",
+    "href": "https://mercedesengines.uk/glc/c292"
+  }
+},
+      {
         "title": "X253 GLC (2015–2022)",
         "badge": "",
         "meta": "Years: 2015–2022 • Key Engines: OM651 2.1 CDI (pre-2018), OM654 2.0 CDI (post-2018), M274 2.0 turbo petrol, M276 3.0 V6 petrol — 🔥 Most Enquired — 304 enquiries (2025) [MB‑VERIFIED]",
@@ -371,9 +415,31 @@
         "verdict": "The new-generation GLC is the safest Mercedes SUV in our data — the OM654‑only diesel range carries none of the OM651's caveats, and £28,000–£55,000 vehicle value against £3,000–£5,000 recon cost makes replacement almost trivial [MB‑QUOTE]. If your budget stretches to a used X254, buy it with confidence. This is the Mercedes SUV that makes the most sense in 2026.",
         "cta": {
           "label": "Explore X254 GLC →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/glc/x254"
         }
-      }
+      },
+      {
+  "title": "V167 (2019–present) — GLE",
+  "badge": "",
+  "meta": "2019–present • M256 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The modern GLE—a large, capable SUV with M256 straight-six petrol and OM654 diesel. The OM654 is reliable and well-supported; the M256 is a smooth, modern unit. High values (£30k–£65k) make replacement very safe.",
+  "cta": {
+    "label": "Explore V167 →",
+    "href": "https://mercedesengines.uk/gle/v167"
+  }
+},
+{
+  "title": "W166 (2012–2019) — GLE",
+  "badge": "",
+  "meta": "2012–2019 • M276 petrol • M278 petrol • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The GLE—a large SUV with M276 V6 and M278 V8 petrol, plus OM642 V6 diesel. M276 is reliable; OM642 is well-understood but labour-intensive. GLE values (£12k–£32k) make replacement viable.",
+  "cta": {
+    "label": "Explore W166 →",
+    "href": "https://mercedesengines.uk/glc/w166"
+  }
+}
     ],
     "rangeTable": {
       "title": "",

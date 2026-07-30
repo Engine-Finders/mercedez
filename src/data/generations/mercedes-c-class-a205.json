@@ -732,21 +732,54 @@
     ],
     "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M274, M264, OM651, OM654 or M177 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., BMW B58B30, Mercedes OM642), adjusted for the A205's cabriolet‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C220d",
-      "C250d (pre‑facelift)",
-      "C220d (facelift)"
+      {
+        "name": "C220d",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      },
+      {
+        "name": "C250d (pre‑facelift)",
+        "url": "https://mercedesengines.uk/c-class/c250-cdi"
+      },
+      {
+        "name": "C220d (facelift)",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      }
     ],
     "petrolVariants": [
-      "C180",
-      "C200",
-      "C250",
-      "C300 (pre‑facelift)",
-      "C200",
-      "C300 (facelift)",
-      "C63",
-      "C63 S"
+      {
+        "name": "C180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C250",
+        "url": "https://mercedesengines.uk/c-class/c250-petrol"
+      },
+      {
+        "name": "C300 (pre‑facelift)",
+        "url": "#"
+      },
+      {
+        "name": "C200",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C300 (facelift)",
+        "url": "https://mercedesengines.uk/c-class/c300-petrol"
+      },
+      {
+        "name": "C63",
+        "url": "https://mercedesengines.uk/c-class/c63-amg"
+      },
+      {
+        "name": "C63 S",
+        "url": "https://mercedesengines.uk/c-class/c63-amg"
+      }
     ],
     "scopeNote": "All variants listed are A205 two‑door cabriolet only. W205 saloon, S205 estate and C205 coupé share most of these engines but are covered on their own Generation Pages, since the cabriolet's additional structural bracing and roof mechanism affect weight, performance and labour access."
   },

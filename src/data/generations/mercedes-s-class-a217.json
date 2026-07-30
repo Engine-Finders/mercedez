@@ -674,14 +674,29 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures — A217 Convertible shares engine‑bay access with its C217 Coupé sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "S 400 4MATIC",
-      "S 500",
-      "S 560",
-      "AMG S 63",
-      "AMG S 65"
+      {
+        "name": "S 400 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 560",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "AMG S 63",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      },
+      {
+        "name": "AMG S 65",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      }
     ],
     "scopeNote": "All variants listed are A217 Convertible only. C217 Coupé shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },

@@ -504,28 +504,88 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "209 CDI",
-      "211 CDI",
-      "213 CDI",
-      "309 CDI",
-      "311 CDI",
-      "313 CDI",
-      "316 CDI",
-      "318 CDI",
-      "319 CDI",
-      "409 CDI",
-      "411 CDI",
-      "413 CDI",
-      "416 CDI",
-      "418 CDI",
-      "419 CDI",
-      "509 CDI",
-      "511 CDI",
-      "513 CDI",
-      "516 CDI",
-      "519 CDI"
+      {
+        "name": "209 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "211 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "213 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "309 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "311 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "313 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "316 CDI",
+        "url": "https://mercedesengines.uk/sprinter/208-316-cdi"
+      },
+      {
+        "name": "318 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "319 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "409 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "411 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "413 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "416 CDI",
+        "url": "https://mercedesengines.uk/sprinter/208-316-cdi"
+      },
+      {
+        "name": "418 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "419 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "509 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "511 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "513 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "516 CDI",
+        "url": "https://mercedesengines.uk/sprinter/208-316-cdi"
+      },
+      {
+        "name": "519 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      }
     ],
     "petrolVariants": [],
     "scopeNote": ""

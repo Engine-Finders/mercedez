@@ -583,17 +583,38 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the W247 shares its MFA2 platform with the A-Class and CLA, so engine-bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "B180d",
-      "B200d",
-      "B220d"
+      {
+        "name": "B180d",
+        "url": "#"
+      },
+      {
+        "name": "B200d",
+        "url": "https://mercedesengines.uk/b-class/b200-cdi-b200d"
+      },
+      {
+        "name": "B220d",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "B180",
-      "B200",
-      "B220 4MATIC",
-      "B250 4MATIC"
+      {
+        "name": "B180",
+        "url": "https://mercedesengines.uk/b-class/b180-b200-petrol"
+      },
+      {
+        "name": "B200",
+        "url": "https://mercedesengines.uk/b-class/b180-b200-petrol"
+      },
+      {
+        "name": "B220 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "B250 4MATIC",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W247 Sports Tourer only. The W247 shares its engine range with the A-Class (W177) and CLA (C118), but each has its own Generation Page for body-specific details."
   },

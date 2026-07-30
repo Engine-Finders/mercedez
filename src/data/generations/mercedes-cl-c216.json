@@ -714,12 +714,30 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "CL 500",
-      "CL 550",
-      "CL 550 4MATIC",
-      "CL 600",
-      "CL 63 AMG",
-      "CL 65 AMG"
+      {
+        "name": "CL 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "CL 550",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "CL 550 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "CL 600",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      },
+      {
+        "name": "CL 63 AMG",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      },
+      {
+        "name": "CL 65 AMG",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      }
     ],
     "scopeNote": "All variants listed are C216 coupé only. There were no diesel or hybrid variants offered in the CL-Class range. The C216 was produced from May 2006 to 2014, with a facelift in 2010. The CL 550 was the RHD (UK) designation for the CL 500."
   },

@@ -384,6 +384,28 @@
     "subHeadline": "Seven generations, one nameplate — from the 1954 Gullwing to the modern R232. Each generation has a distinct engine story and a clear buy/avoid verdict.",
     "cards": [
       {
+  "title": "R230 (2001–2011)",
+  "badge": "",
+  "meta": "2001–2011 • M113 petrol • M112 petrol • M275 petrol • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The SL—a classic two-seat roadster with a folding hardtop. M113 V8 is the reliable choice; M112 V6 is robust; OM642 diesel is well-understood. Values (£5k–£18k) make replacement borderline on sub-£8k examples.",
+  "cta": {
+    "label": "Explore R230 →",
+    "href": "https://mercedesengines.uk/sl/r230"
+  }
+},
+{
+  "title": "R231 (2012–2020)",
+  "badge": "",
+  "meta": "2012–2020 • M276 petrol • M278 petrol",
+  "rating": "★★★★☆",
+  "verdict": "The SL—a refined two-seat roadster with a folding hardtop. M276 V6 and M278 V8 are both robust; the SL continues its grand touring tradition. Values (£8k–£28k) make replacement safe.",
+  "cta": {
+    "label": "Explore R231 →",
+    "href": "https://mercedesengines.uk/sl/r231"
+  }
+},
+      {
         "title": "W198 (1954–1957)",
         "badge": "",
         "meta": "1954–1957 • M198 3.0L straight-six",
@@ -424,7 +446,7 @@
         "verdict": "The modern classic SL — beautifully engineered, well-understood, and values are finally rising. The M119 V8 is one of the most robust engines Mercedes ever built. The R129 is the SL to buy if you want a usable classic that will appreciate. Avoid the diesel (OM606) — rare and parts are hard to find.",
         "cta": {
           "label": "Explore R129 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/sl/r129"
         }
       },
       {
@@ -435,7 +457,7 @@
         "verdict": "The ABC suspension is the bigger cost driver than the engines — hydraulic suspension failures routinely cost £2,000–£5,000. The M113 V8 is robust; the M156 AMG V8 is the one to avoid without documented camshaft adjuster work. The R230 is a bargain to buy but expensive to keep.",
         "cta": {
           "label": "Explore R230 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/sl/r230"
         }
       },
       {
@@ -446,7 +468,7 @@
         "verdict": "The modern sweet spot. The M276 V6 biturbo is the pick — well-understood, timing chain stretch is the only real caveat, and it's significantly less catastrophic than the M156's camshaft issues. The R231 has absorbed the steepest depreciation and is the SL to buy for modern driving.",
         "cta": {
           "label": "Explore R231 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/sl/r231"
         }
       },
       {
@@ -457,7 +479,7 @@
         "verdict": "The all-new SL — fully modern, mild-hybrid V8, with the M177 carrying the AMG GT's proven reliability. Too new for long-term data, but the M177 is well-understood. Premium pricing reflects the new-generation tech. If you can afford it, you won't be disappointed.",
         "cta": {
           "label": "Explore R232 →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/sl/r232"
         }
       }
     ],

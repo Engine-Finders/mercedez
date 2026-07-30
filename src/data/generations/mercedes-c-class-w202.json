@@ -957,24 +957,66 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "C200 Diesel",
-      "C220 Diesel",
-      "C250 Diesel",
-      "C250 Turbodiesel",
-      "C220 CDI"
+      {
+        "name": "C200 Diesel",
+        "url": "https://mercedesengines.uk/c-class/c200-c220-diesel-older"
+      },
+      {
+        "name": "C220 Diesel",
+        "url": "https://mercedesengines.uk/c-class/c200-c220-diesel-older"
+      },
+      {
+        "name": "C250 Diesel",
+        "url": "#"
+      },
+      {
+        "name": "C250 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "C220 CDI",
+        "url": "https://mercedesengines.uk/c-class/c220-cdi-c220d"
+      }
     ],
     "petrolVariants": [
-      "C180",
-      "C200",
-      "C220",
-      "C230",
-      "C230 Kompressor",
-      "C240",
-      "C280",
-      "C36 AMG",
-      "C43 AMG"
+      {
+        "name": "C180",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C200",
+        "url": "https://mercedesengines.uk/c-class/c180-c200-petrol"
+      },
+      {
+        "name": "C220",
+        "url": "#"
+      },
+      {
+        "name": "C230",
+        "url": "https://mercedesengines.uk/c-class/c220-230-petrol"
+      },
+      {
+        "name": "C230 Kompressor",
+        "url": "https://mercedesengines.uk/c-class/c220-230-petrol"
+      },
+      {
+        "name": "C240",
+        "url": "#"
+      },
+      {
+        "name": "C280",
+        "url": "#"
+      },
+      {
+        "name": "C36 AMG",
+        "url": "#"
+      },
+      {
+        "name": "C43 AMG",
+        "url": "https://mercedesengines.uk/c-class/c43-amg"
+      }
     ],
     "scopeNote": "All variants listed are W202 saloon and S202 estate. The C36 AMG (1994–1997) and C43 AMG (1997–2000) are the high-performance models. The C220 CDI (OM611) was introduced in 1999 as the first common-rail diesel in the C-Class."
   },

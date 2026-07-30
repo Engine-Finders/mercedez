@@ -616,21 +616,54 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — V167 shares its engine bay architecture with the C167 GLE Coupé, so costs are inherited directly per the Authority Model, with no divergence note required. OM654 and M256 costs carried forward from the EM data's Table A."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLE 300 d 4MATIC",
-      "GLE 350 d 4MATIC",
-      "GLE 400 d 4MATIC",
-      "GLE 350 de 4MATIC (PHEV)"
+      {
+        "name": "GLE 300 d 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle250d-300d"
+      },
+      {
+        "name": "GLE 350 d 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle350d-400d"
+      },
+      {
+        "name": "GLE 400 d 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle350d-400d"
+      },
+      {
+        "name": "GLE 350 de 4MATIC (PHEV)",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "GLE 350 4MATIC",
-      "GLE 450 4MATIC",
-      "GLE 580 4MATIC",
-      "AMG GLE 53 4MATIC+",
-      "GLE 63 AMG 4MATIC+",
-      "GLE 63 S AMG 4MATIC+",
-      "GLE 350 e 4MATIC (PHEV)"
+      {
+        "name": "GLE 350 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "GLE 450 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "GLE 580 4MATIC",
+        "url": "https://mercedesengines.uk/gle/gle500-gle580"
+      },
+      {
+        "name": "AMG GLE 53 4MATIC+",
+        "url": "https://mercedesengines.uk/gle/gle53-amg"
+      },
+      {
+        "name": "GLE 63 AMG 4MATIC+",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      },
+      {
+        "name": "GLE 63 S AMG 4MATIC+",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      },
+      {
+        "name": "GLE 350 e 4MATIC (PHEV)",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are V167 SUV only. C167 GLE Coupé shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },

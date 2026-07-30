@@ -833,13 +833,25 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — R129 shares its engine bay architecture across its long production run, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "SL 280",
-      "SL 320",
-      "SL 500",
-      "SL 600"
+      {
+        "name": "SL 280",
+        "url": "https://mercedesengines.uk/sl/sl280-320-350-petrol"
+      },
+      {
+        "name": "SL 320",
+        "url": "https://mercedesengines.uk/sl/sl280-320-350-petrol"
+      },
+      {
+        "name": "SL 500",
+        "url": "https://mercedesengines.uk/sl/sl500-sl550-sl560"
+      },
+      {
+        "name": "SL 600",
+        "url": "https://mercedesengines.uk/sl/sl600-sl65-v12"
+      }
     ],
     "scopeNote": "All variants listed are R129 roadster only. The R129 was produced as a single body style throughout its production run."
   },

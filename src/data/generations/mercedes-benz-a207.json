@@ -576,20 +576,50 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 220 CDI",
-      "E 250 CDI",
-      "E 350 CDI"
+      {
+        "name": "E 220 CDI",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 250 CDI",
+        "url": "https://mercedesengines.uk/e-class/e250-cdi-e250d"
+      },
+      {
+        "name": "E 350 CDI",
+        "url": "https://mercedesengines.uk/e-class/e320-e350-cdi"
+      }
     ],
     "petrolVariants": [
-      "E 200 CGI",
-      "E 250 CGI",
-      "E 200",
-      "E 250",
-      "E 350",
-      "E 400",
-      "E 500"
+      {
+        "name": "E 200 CGI",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 250 CGI",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 250",
+        "url": "https://mercedesengines.uk/e-class/e200-e250-petrol"
+      },
+      {
+        "name": "E 350",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 400",
+        "url": "#"
+      },
+      {
+        "name": "E 500",
+        "url": "https://mercedesengines.uk/e-class/e500-e550"
+      }
     ],
     "scopeNote": ""
   },

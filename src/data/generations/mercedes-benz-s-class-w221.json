@@ -842,24 +842,66 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "S 250 CDI",
-      "S 320 CDI",
-      "S 350 BlueTEC",
-      "S 420 CDI",
-      "S 450 CDI"
+      {
+        "name": "S 250 CDI",
+        "url": "#"
+      },
+      {
+        "name": "S 320 CDI",
+        "url": "https://mercedesengines.uk/s-class/s320-s350-cdi"
+      },
+      {
+        "name": "S 350 BlueTEC",
+        "url": "https://mercedesengines.uk/s-class/s320-s350-cdi"
+      },
+      {
+        "name": "S 420 CDI",
+        "url": "#"
+      },
+      {
+        "name": "S 450 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "S 300",
-      "S 350",
-      "S 350 CGI",
-      "S 400 Hybrid",
-      "S 450",
-      "S 500",
-      "S 600",
-      "S 63 AMG",
-      "S 65 AMG"
+      {
+        "name": "S 300",
+        "url": "#"
+      },
+      {
+        "name": "S 350",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 350 CGI",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 400 Hybrid",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 450",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 600",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      },
+      {
+        "name": "S 63 AMG",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      },
+      {
+        "name": "S 65 AMG",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      }
     ],
     "scopeNote": "All variants listed are W221 saloon only. C216 CL‑Class shares some of these engines but is covered on its own Generation Page."
   },

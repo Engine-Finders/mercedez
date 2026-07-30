@@ -493,9 +493,18 @@
   "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
-      "SLS AMG",
-      "SLS AMG GT",
-      "SLS AMG Black Series"
+      {
+        "name": "SLS AMG",
+        "url": "https://mercedesengines.uk/sls-amg/62-v8"
+      },
+      {
+        "name": "SLS AMG GT",
+        "url": "https://mercedesengines.uk/sls-amg/sls-amg-gt"
+      },
+      {
+        "name": "SLS AMG Black Series",
+        "url": "https://mercedesengines.uk/sls-amg/black-series"
+      }
     ],
     "scopeNote": "All variants listed are C197 Coupé only. R197 Roadster shares the same engine but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },

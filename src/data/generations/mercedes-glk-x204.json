@@ -690,19 +690,46 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the X204 shares its platform with the C‑Class (W204), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLK 200 CDI",
-      "GLK 220 CDI",
-      "GLK 250 CDI",
-      "GLK 320 CDI",
-      "GLK 350 CDI"
+      {
+        "name": "GLK 200 CDI",
+        "url": "https://mercedesengines.uk/glk/glk220-250-cdi"
+      },
+      {
+        "name": "GLK 220 CDI",
+        "url": "https://mercedesengines.uk/glk/glk220-250-cdi"
+      },
+      {
+        "name": "GLK 250 CDI",
+        "url": "https://mercedesengines.uk/glk/glk220-250-cdi"
+      },
+      {
+        "name": "GLK 320 CDI",
+        "url": "https://mercedesengines.uk/glk/320-350-cdi"
+      },
+      {
+        "name": "GLK 350 CDI",
+        "url": "https://mercedesengines.uk/glk/320-350-cdi"
+      }
     ],
     "petrolVariants": [
-      "GLK 200",
-      "GLK 250 4MATIC",
-      "GLK 300 4MATIC",
-      "GLK 350 4MATIC"
+      {
+        "name": "GLK 200",
+        "url": "https://mercedesengines.uk/glk/glk200-250-petrol"
+      },
+      {
+        "name": "GLK 250 4MATIC",
+        "url": "https://mercedesengines.uk/glk/glk200-250-petrol"
+      },
+      {
+        "name": "GLK 300 4MATIC",
+        "url": "#"
+      },
+      {
+        "name": "GLK 350 4MATIC",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are X204 first‑generation GLK only. The GLK was replaced by the GLC‑Class (X253) in 2015."
   },

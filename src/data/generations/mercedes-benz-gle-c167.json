@@ -528,20 +528,50 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "GLE 300 d",
-      "GLE 350 d",
-      "GLE 400 d",
-      "GLE 450 d"
+      {
+        "name": "GLE 300 d",
+        "url": "https://mercedesengines.uk/gle/gle250d-300d"
+      },
+      {
+        "name": "GLE 350 d",
+        "url": "https://mercedesengines.uk/gle/gle350d-400d"
+      },
+      {
+        "name": "GLE 400 d",
+        "url": "https://mercedesengines.uk/gle/gle350d-400d"
+      },
+      {
+        "name": "GLE 450 d",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "GLE 350",
-      "GLE 350 e",
-      "GLE 450",
-      "AMG GLE 53",
-      "AMG GLE 63",
-      "AMG GLE 63 S"
+      {
+        "name": "GLE 350",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "GLE 350 e",
+        "url": "#"
+      },
+      {
+        "name": "GLE 450",
+        "url": "https://mercedesengines.uk/gle/gle350-450-petrol"
+      },
+      {
+        "name": "AMG GLE 53",
+        "url": "https://mercedesengines.uk/gle/gle53-amg"
+      },
+      {
+        "name": "AMG GLE 63",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      },
+      {
+        "name": "AMG GLE 63 S",
+        "url": "https://mercedesengines.uk/gle/gle-63-amg"
+      }
     ],
     "scopeNote": ""
   },

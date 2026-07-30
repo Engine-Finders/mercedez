@@ -436,20 +436,50 @@
     ],
     "note": ""
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "CLA 180 d",
-      "CLA 200 d",
-      "CLA 220 d"
+      {
+        "name": "CLA 180 d",
+        "url": "https://mercedesengines.uk/cla/cla180d-200d"
+      },
+      {
+        "name": "CLA 200 d",
+        "url": "https://mercedesengines.uk/cla/cla180d-200d"
+      },
+      {
+        "name": "CLA 220 d",
+        "url": "https://mercedesengines.uk/cla/cla220d"
+      }
     ],
     "petrolVariants": [
-      "CLA 180",
-      "CLA 200",
-      "CLA 250",
-      "CLA 250 e",
-      "CLA 35 AMG",
-      "CLA 45 AMG",
-      "CLA 45 S AMG"
+      {
+        "name": "CLA 180",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 200",
+        "url": "https://mercedesengines.uk/cla/cla180-cla200-petrol"
+      },
+      {
+        "name": "CLA 250",
+        "url": "https://mercedesengines.uk/cla/cla250"
+      },
+      {
+        "name": "CLA 250 e",
+        "url": "#"
+      },
+      {
+        "name": "CLA 35 AMG",
+        "url": "https://mercedesengines.uk/cla/cla35-amg"
+      },
+      {
+        "name": "CLA 45 AMG",
+        "url": "https://mercedesengines.uk/cla/cla45-amg"
+      },
+      {
+        "name": "CLA 45 S AMG",
+        "url": "https://mercedesengines.uk/cla/cla45-amg"
+      }
     ],
     "scopeNote": ""
   },

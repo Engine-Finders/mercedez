@@ -771,17 +771,44 @@
   },
   "coreVariants": {
     "dieselVariants": [
-      "2.0 CDI",
-      "2.2 CDI",
-      "2.0 CDI BlueEFFICIENCY",
-      "2.2 CDI BlueEFFICIENCY",
-      "3.0 CDI",
-      "3.0 CDI BlueEFFICIENCY"
+      {
+        "name": "2.0 CDI",
+        "url": "https://mercedesengines.uk/viano/22-cdi"
+      },
+      {
+        "name": "2.2 CDI",
+        "url": "https://mercedesengines.uk/viano/22-cdi"
+      },
+      {
+        "name": "2.0 CDI BlueEFFICIENCY",
+        "url": "https://mercedesengines.uk/viano/22-cdi"
+      },
+      {
+        "name": "2.2 CDI BlueEFFICIENCY",
+        "url": "https://mercedesengines.uk/viano/22-cdi"
+      },
+      {
+        "name": "3.0 CDI",
+        "url": "https://mercedesengines.uk/viano/3-0-3-5-cdi"
+      },
+      {
+        "name": "3.0 CDI BlueEFFICIENCY",
+        "url": "https://mercedesengines.uk/viano/3-0-3-5-cdi"
+      }
     ],
     "petrolVariants": [
-      "3.2",
-      "3.7",
-      "3.5"
+      {
+        "name": "3.2",
+        "url": "https://mercedesengines.uk/viano/32-37-petrol"
+      },
+      {
+        "name": "3.7",
+        "url": "https://mercedesengines.uk/viano/32-37-petrol"
+      },
+      {
+        "name": "3.5",
+        "url": "https://mercedesengines.uk/viano/32-37-petrol"
+      }
     ],
     "scopeNote": "All variants listed are W639 Viano MPV only. Vito commercial van shares most of these engines but is covered on its own Generation Page. The W639 was available in three body lengths — short, long, and extra‑long — with the engine range consistent across all lengths."
   },

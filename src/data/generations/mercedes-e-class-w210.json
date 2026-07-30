@@ -1106,28 +1106,82 @@
     ],
     "note": "No Generation variance from the baseline figures — the W210 saloon shares its platform with the S210 estate, and engine-bay access is consistent across the range."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "E 220 Diesel",
-      "E 250 Diesel",
-      "E 220 CDI",
-      "E 270 CDI",
-      "E 290 Turbodiesel",
-      "E 300 Turbodiesel",
-      "E 320 CDI"
+      {
+        "name": "E 220 Diesel",
+        "url": "https://mercedesengines.uk/e-class/e200-e220-diesel-older"
+      },
+      {
+        "name": "E 250 Diesel",
+        "url": "#"
+      },
+      {
+        "name": "E 220 CDI",
+        "url": "https://mercedesengines.uk/e-class/e220-cdi-e220d"
+      },
+      {
+        "name": "E 270 CDI",
+        "url": "https://mercedesengines.uk/e-class/e270-e280-e300-cdi"
+      },
+      {
+        "name": "E 290 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "E 300 Turbodiesel",
+        "url": "#"
+      },
+      {
+        "name": "E 320 CDI",
+        "url": "https://mercedesengines.uk/e-class/e320-e350-cdi"
+      }
     ],
     "petrolVariants": [
-      "E 200",
-      "E 200 Kompressor",
-      "E 230",
-      "E 240",
-      "E 280",
-      "E 320",
-      "E 420",
-      "E 430",
-      "E 36 AMG",
-      "E 50 AMG",
-      "E 55 AMG"
+      {
+        "name": "E 200",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 200 Kompressor",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 230",
+        "url": "https://mercedesengines.uk/e-class/e200-e230-petrol"
+      },
+      {
+        "name": "E 240",
+        "url": "#"
+      },
+      {
+        "name": "E 280",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 320",
+        "url": "https://mercedesengines.uk/e-class/e280-e320-e350-petrol"
+      },
+      {
+        "name": "E 420",
+        "url": "#"
+      },
+      {
+        "name": "E 430",
+        "url": "#"
+      },
+      {
+        "name": "E 36 AMG",
+        "url": "#"
+      },
+      {
+        "name": "E 50 AMG",
+        "url": "#"
+      },
+      {
+        "name": "E 55 AMG",
+        "url": "#"
+      }
     ],
     "scopeNote": "All variants listed are W210 saloon only (1995–2002). S210 estate (1996–2003) shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style. Note the E 200 Kompressor was not sold in Germany and was primarily an export model."
   },

@@ -487,16 +487,40 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the W907 is a standalone commercial vehicle platform with specific engine‑bay access considerations. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "311 CDI",
-      "314 CDI",
-      "315 CDI",
-      "316 CDI",
-      "317 CDI",
-      "319 CDI",
-      "419 CDI",
-      "519 CDI"
+      {
+        "name": "311 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "314 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "315 CDI",
+        "url": "#"
+      },
+      {
+        "name": "316 CDI",
+        "url": "https://mercedesengines.uk/sprinter/208-316-cdi"
+      },
+      {
+        "name": "317 CDI",
+        "url": "https://mercedesengines.uk/sprinter/211-317-cdi"
+      },
+      {
+        "name": "319 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "419 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      },
+      {
+        "name": "519 CDI",
+        "url": "https://mercedesengines.uk/sprinter/209-319-cdi"
+      }
     ],
     "petrolVariants": [],
     "scopeNote": "All variants listed are W907 third‑generation Sprinter only. The W910 front‑wheel‑drive variant shares most of these engines but is covered on its own Generation Page, since drivetrain configuration affects labour access and costs."

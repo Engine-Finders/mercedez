@@ -354,7 +354,7 @@
         "verdict": "The first-generation B-Class is a spacious, practical MPV, but its engines are now old enough that replacement cost can exceed vehicle value. The OM640 diesel in particular carries a watch‑and‑check caveat — injector and EGR failures are common, and a full recon at £2,800–£4,800 can easily exceed the sub‑£4k W245 market value [MB‑QUOTE]. Buy only if you're handy with a spanner, or if the car has a documented recent engine rebuild.",
         "cta": {
           "label": "Explore W245 B-Class →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/b-class/w245"
         }
       },
       {
@@ -365,9 +365,20 @@
         "verdict": "This is the B-Class to buy. The OM651 diesel is a known, well-understood engine — the \"Black Death\" injector seal risk is the main caveat, but it's manageable, preventable, and cheap to fix if caught early [PATTERN DATA]. At £5,000–£14,000 vehicle value against £2,800–£4,800 recon cost, replacement makes solid sense [MB‑QUOTE]. The W246 carries a ✅ Safe verdict for most examples — it's the family MPV that actually works.",
         "cta": {
           "label": "Explore W246 B-Class →",
-          "href": "#"
+          "href": "https://mercedesengines.uk/b-class/w246"
         }
-      }
+      },
+      {
+  "title": "W247 (2019–present)",
+  "badge": "",
+  "meta": "2019–present • M282 petrol • OM608 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The modern B-Class—shares the M282 petrol and OM608 diesel from the W177 A-Class. Both engines are significantly more reliable than the OM651 it replaced. A sensible, well-built compact MPV with strong resale values.",
+  "cta": {
+    "label": "Explore W247 →",
+    "href": "https://mercedesengines.uk/b-class/w247"
+  }
+}
     ],
     "rangeTable": {
       "title": "",

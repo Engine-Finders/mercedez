@@ -812,21 +812,54 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures — the W220 shares its platform with the C215 CL‑Class, so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-  "coreVariants": {
+"coreVariants": {
     "dieselVariants": [
-      "S 320 CDI",
-      "S 400 CDI"
+      {
+        "name": "S 320 CDI",
+        "url": "https://mercedesengines.uk/s-class/s320-s350-cdi"
+      },
+      {
+        "name": "S 400 CDI",
+        "url": "#"
+      }
     ],
     "petrolVariants": [
-      "S 280",
-      "S 320",
-      "S 350",
-      "S 430",
-      "S 500",
-      "S 500 4MATIC",
-      "S 55 AMG",
-      "S 600",
-      "S 63 AMG"
+      {
+        "name": "S 280",
+        "url": "https://mercedesengines.uk/s-class/s280-320-350-420-petrol"
+      },
+      {
+        "name": "S 320",
+        "url": "https://mercedesengines.uk/s-class/s280-320-350-420-petrol"
+      },
+      {
+        "name": "S 350",
+        "url": "https://mercedesengines.uk/s-class/s350-400-450-petrol"
+      },
+      {
+        "name": "S 430",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 500",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 500 4MATIC",
+        "url": "https://mercedesengines.uk/s-class/s430-s500-s560-s580"
+      },
+      {
+        "name": "S 55 AMG",
+        "url": "#"
+      },
+      {
+        "name": "S 600",
+        "url": "https://mercedesengines.uk/s-class/s600-s65-v12"
+      },
+      {
+        "name": "S 63 AMG",
+        "url": "https://mercedesengines.uk/s-class/s63-amg"
+      }
     ],
     "scopeNote": "All variants listed are W220 saloon only. The C215 CL‑Class shares most of these engines but is covered on its own Generation Page, since fitment and labour access vary slightly by body style."
   },
