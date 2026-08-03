@@ -368,7 +368,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes S-Class W222 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the W222 specifically — from the pre‑facelift M276 V6, M278 V8 and OM642 V6 diesel to the facelift M256 straight‑six, M176 V8 and OM656 straight‑six diesel, plus the M157, M177 and M279 AMG V8s and V12.",
+    "subHeadline": "Every engine fitted to the W222 specifically — from the pre‑facelift M276 V6, M278 V8 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel to the facelift M256 straight‑six, M176 V8 and OM656 straight‑six diesel, plus the M157, M177 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M279</a> AMG V8s and V12.",
     "columns": [
       "Engine Code",
       "Family",
@@ -541,13 +541,13 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "All engine families are in Case B — no dedicated Engine Page exists yet for any of these families. Ratings are derived from forum and specialist sources. The OM642 V6 diesel is well‑proven but has known oil cooler seal issues. The OM656 straight‑six diesel (2017+) has reported camshaft and rocker wear around 100,000 miles. The M276 V6 and M278 V8 are generally solid; the M157 AMG V8 is robust but has oil vapor separator and rear‑main seal failure risks. All ratings are provisional pending dedicated Engine Pages."
+      "text": "All engine families are in Case B — no dedicated Engine Page exists yet for any of these families. Ratings are derived from forum and specialist sources. The OM642 V6 diesel is well‑proven but has known oil cooler seal issues. The OM656 straight‑six diesel (2017+) has reported camshaft and rocker wear around 100,000 miles. The M276 V6 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 are generally solid; the M157 AMG V8 is robust but has oil vapor separator and rear‑main seal failure risks. All ratings are provisional pending dedicated Engine Pages."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes S-Class W222 — Overview",
-    "intro": "The W222 is the sixth generation of the Mercedes‑Benz S‑Class, produced from 2013 to 2020 as the successor to the W221. Designed during 2009 by Il‑hun Yoon and Robert Lešnik, it set new benchmarks for luxury, technology and refinement. A significant facelift in April 2017 brought new powertrains: the M256 straight‑six petrol with 48V mild‑hybrid technology, the M176 4.0‑litre V8 and the OM656 straight‑six diesel. At the top of the range sat the V12‑powered S 600, Maybach S 600 and S 65 AMG.",
+    "intro": "The W222 is the sixth generation of the Mercedes‑Benz S‑Class, produced from 2013 to 2020 as the successor to the W221. Designed during 2009 by Il‑hun Yoon and Robert Lešnik, it set new benchmarks for luxury, technology and refinement. A significant facelift in April 2017 brought new powertrains: the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> straight‑six petrol with 48V mild‑hybrid technology, the M176 4.0‑litre V8 and the OM656 straight‑six diesel. At the top of the range sat the V12‑powered S 600, Maybach S 600 and S 65 AMG.",
     "keyFacts": "Platform: Mercedes W221/W222 • Predecessor: W221 • Successor: W223 • Sibling body styles in this generation: V222 (long wheelbase), X222 (Maybach), C217 (coupé), A217 (cabriolet)",
     "marketIntelligenceLine": "The W222 S‑Class generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the S 350 d and S 400 d diesel variants as these flagship saloons enter more affordable second‑hand ownership."
   },
@@ -562,7 +562,7 @@
       {
         "slot": "Best Petrol Overall",
         "engine": "M256 (S 500, facelift)",
-        "quote": "The 3.0‑litre straight‑six with 48V mild‑hybrid technology — 367 bhp plus 21 bhp EQ Boost, 500 Nm of torque, and the first straight‑six petrol from Mercedes since the M104. It's smooth, responsive and technologically advanced, with the 48V system making stop‑start virtually undetectable.",
+        "quote": "The 3.0‑litre straight‑six with 48V mild‑hybrid technology — 367 bhp plus 21 bhp EQ Boost, 500 Nm of torque, and the first straight‑six petrol from Mercedes since the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a>. It's smooth, responsive and technologically advanced, with the 48V system making stop‑start virtually undetectable.",
         "whoItsFor": "buyers who want modern straight‑six refinement with mild‑hybrid efficiency."
       },
       {
@@ -581,7 +581,7 @@
         "slot": "Best Value",
         "engine": "OM642 LS (S 350 BlueTEC)",
         "quote": "The 3.0‑litre V6 diesel — 258 bhp, 620 Nm of torque, and the most common diesel in the pre‑facelift UK W222 parc. The OM642 is a proven unit with well‑documented fixes, and the 7G‑TRONIC gearbox is robust. Oil cooler seals are the only real weakness — a £800–£1,400 job.",
-        "whoItsFor": "buyers who want proven diesel V6 refinement without the facelift OM656's higher complexity or purchase price."
+        "whoItsFor": "buyers who want proven diesel V6 refinement without the facelift <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a>'s higher complexity or purchase price."
       },
       {
         "slot": "Most Overlooked",

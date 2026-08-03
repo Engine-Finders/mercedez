@@ -275,7 +275,7 @@
   "hero": {
     "tagPill": "Mercedes M-Class W164 • SUV • 2005–2011",
     "h1": "Mercedes M-Class W164 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the W164 SUV — from the OM642 V6 diesel to the M272 and M273 V6/V8 petrols, and the fire-breathing M156 V8 in the ML 63 AMG. Real UK replacement costs, honest failure data, and the balance-shaft issues that still haunt early V6-powered cars. Backed by real UK W164 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the W164 SUV — from the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel to the M272 and M273 V6/V8 petrols, and the fire-breathing M156 V8 in the ML 63 AMG. Real UK replacement costs, honest failure data, and the balance-shaft issues that still haunt early V6-powered cars. Backed by real UK W164 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -421,7 +421,7 @@
   },
   "overview": {
     "h2": "Mercedes M-Class W164 — Overview",
-    "intro": "The W164 is the second-generation M-Class, launched in January 2005 at the North American International Auto Show in Detroit. Built at the US plant in Tuscaloosa, Alabama, it replaced the W163 and introduced a unibody construction instead of the ladder-type frame used previously. The engine range spans the OM642 V6 diesel in two output levels, the M272 V6 petrol, the M113 and M273 V8 petrols, the M156 V8 in the ML 63 AMG, and the OM629 V8 diesel. A 2008 facelift brought revised styling, interior updates, and mechanical improvements.",
+    "intro": "The W164 is the second-generation M-Class, launched in January 2005 at the North American International Auto Show in Detroit. Built at the US plant in Tuscaloosa, Alabama, it replaced the W163 and introduced a unibody construction instead of the ladder-type frame used previously. The engine range spans the OM642 V6 diesel in two output levels, the M272 V6 petrol, the <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> and M273 V8 petrols, the M156 V8 in the ML 63 AMG, and the OM629 V8 diesel. A 2008 facelift brought revised styling, interior updates, and mechanical improvements.",
     "keyFacts": "Platform: Mercedes W164 (unibody, shared with GL-Class X164) • Predecessor: W163 • Successor: W166 • Sibling platform: GL-Class (X164).",
     "marketIntelligenceLine": "The W164 M-Class generated real UK engine enquiries in 2025 [MB-VERIFIED], concentrated on the OM642 diesel and M272 petrol as these cars enter enthusiast-owner territory."
   },

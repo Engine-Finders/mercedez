@@ -278,7 +278,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes CLS C257 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the C257 specifically — including the M264 four-cylinder petrol, the M256 inline-six petrol, and the OM654/OM656 diesel range.",
+    "subHeadline": "Every engine fitted to the C257 specifically — including the M264 four-cylinder petrol, the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> inline-six petrol, and the OM654/OM656 diesel range.",
     "columns": [
       "Engine Code",
       "Family",
@@ -385,7 +385,7 @@
   },
   "overview": {
     "h2": "Mercedes CLS C257 — Overview",
-    "intro": "The C257 is the third generation of the Mercedes‑Benz CLS, a four‑door coupé launched in 2018 as the successor to the C218. Built on the Mercedes MRA platform shared with the E‑Class (W213), it introduced a new range of electrified engines — from the 2.0‑litre M264 four‑cylinder petrol to the 3.0‑litre M256 inline‑six petrol and the OM656 inline‑six diesel, all featuring EQ Boost mild‑hybrid technology (48V) for improved efficiency and response. A facelift arrived in 2021, bringing a new OM654 M mild‑hybrid diesel for the CLS 300 d. Production ended in August 2023.",
+    "intro": "The C257 is the third generation of the Mercedes‑Benz CLS, a four‑door coupé launched in 2018 as the successor to the C218. Built on the Mercedes MRA platform shared with the E‑Class (W213), it introduced a new range of electrified engines — from the 2.0‑litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a> four‑cylinder petrol to the 3.0‑litre M256 inline‑six petrol and the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> inline‑six diesel, all featuring EQ Boost mild‑hybrid technology (48V) for improved efficiency and response. A facelift arrived in 2021, bringing a new OM654 M mild‑hybrid diesel for the CLS 300 d. Production ended in August 2023.",
     "keyFacts": "Platform: Mercedes MRA (shared with E‑Class W213, S‑Class W222) • Predecessor: C218 (2010–2018) • Successor: none (CLS discontinued after C257) • Sibling body styles in this generation: none (CLS is a standalone four‑door coupé)",
     "marketIntelligenceLine": "The C257 CLS generated 520+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM654 diesel as the most‑requested powertrain."
   },
@@ -746,7 +746,7 @@
       {
         "id": 9,
         "question": "What is the difference between the C257 and the previous C218?",
-        "answer": "The C257 is the third‑generation CLS, built on the newer MRA platform (shared with the E‑Class W213). It introduced a new range of electrified engines (M264, M256, OM654, OM656) with EQ Boost mild‑hybrid technology, improved interior quality, and updated technology. The C218 (2010–2018) used older M276 and OM642 engines and is covered on its own generation page."
+        "answer": "The C257 is the third‑generation CLS, built on the newer MRA platform (shared with the E‑Class W213). It introduced a new range of electrified engines (M264, M256, OM654, OM656) with EQ Boost mild‑hybrid technology, improved interior quality, and updated technology. The C218 (2010–2018) used older M276 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> engines and is covered on its own generation page."
       },
       {
         "id": 10,

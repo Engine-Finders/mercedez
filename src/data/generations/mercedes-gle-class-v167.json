@@ -314,7 +314,7 @@
     "engines": [],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "OM654 and M256 ratings: 95% confidence, inherited from the Model Page where one exists. OM656, M274, M176, and M177: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
+      "text": "OM654 and M256 ratings: 95% confidence, inherited from the Model Page where one exists. OM656, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a>, M176, and M177: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
     },
     "dataCorrections": []
   },
@@ -505,7 +505,7 @@
         "title": "OM656 Oil‑Cooler Seal Leak",
         "affectedModels": "V167 GLE 350 d, GLE 400 d (OM656 six‑cylinder diesel).",
         "typicalFailureMileage": "80,000–150,000 miles.",
-        "rootCause": "The oil‑cooler O‑rings in the V of the OM656 engine can degrade with heat cycling, causing oil leaks that can drip onto the exhaust and create a burning smell. Labour is intensive as the intake manifold must be removed.",
+        "rootCause": "The oil‑cooler O‑rings in the V of the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> engine can degrade with heat cycling, causing oil leaks that can drip onto the exhaust and create a burning smell. Labour is intensive as the intake manifold must be removed.",
         "tieredCosts": [
           {
             "tier": "Preventative (Repair)",
@@ -614,7 +614,7 @@
         "labourHours": "12–16 hrs"
       }
     ],
-    "note": "No Generation variance from the Model Page's baseline figures — V167 shares its engine bay architecture with the C167 GLE Coupé, so costs are inherited directly per the Authority Model, with no divergence note required. OM654 and M256 costs carried forward from the EM data's Table A."
+    "note": "No Generation variance from the Model Page's baseline figures — V167 shares its engine bay architecture with the C167 GLE Coupé, so costs are inherited directly per the Authority Model, with no divergence note required. OM654 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> costs carried forward from the EM data's Table A."
   },
 "coreVariants": {
     "dieselVariants": [

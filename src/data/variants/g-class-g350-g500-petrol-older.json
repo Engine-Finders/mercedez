@@ -281,7 +281,7 @@
     "problems": [
       {
         "id": 1,
-        "title": "Valve Stem Seal Wear (M113 & M112 — All Years)",
+        "title": "Valve Stem Seal Wear (M113 & <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> — All Years)",
         "symptoms": "Blue smoke on startup (particularly after idling), excessive oil consumption (1L per 1,000 miles+), fouled spark plugs, occasional misfire.",
         "typicalMileage": "80,000–150,000 miles",
         "repairCost": "£1,500–£4,000 (valve stem seal replacement)",
@@ -309,7 +309,7 @@
           "label": "Monitor",
           "text": "book inspection soon"
         },
-        "recommendation": "Oil leaks are a common issue on the M113 as it ages. Camshaft position sensors can leak oil into the wiring harness, potentially causing electrical gremlins. Valve cover gaskets also degrade over time. If you notice oil spots or a burning smell, have the engine inspected. Replacing gaskets and seals promptly prevents more serious damage and expensive wiring harness repairs.",
+        "recommendation": "Oil leaks are a common issue on the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> as it ages. Camshaft position sensors can leak oil into the wiring harness, potentially causing electrical gremlins. Valve cover gaskets also degrade over time. If you notice oil spots or a burning smell, have the engine inspected. Replacing gaskets and seals promptly prevents more serious damage and expensive wiring harness repairs.",
         "failureLink": {
           "label": "",
           "href": "/failures/oil-leak/"

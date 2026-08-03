@@ -217,7 +217,7 @@
   "hero": {
     "tagPill": "Mercedes GLA200 / GLA250 Petrol • 2013–present • M270 / M260 / M282",
     "h1": "Mercedes GLA200 / GLA250 Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "Get quotes today from trusted UK Mercedes GLA200 and GLA250 petrol specialists. Compare reconditioned, rebuilt and used M270, M260 and M282 engines — supply & fit available nationwide for Mercedes‑Benz's stylish compact SUV.",
+    "subHeadline": "Get quotes today from trusted UK Mercedes GLA200 and GLA250 petrol specialists. Compare reconditioned, rebuilt and used M270, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260</a> and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m282'>M282</a> engines — supply & fit available nationwide for Mercedes‑Benz's stylish compact SUV.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12‑Month Warranty",
@@ -368,7 +368,7 @@
           "label": "Check",
           "text": "book inspection urgently if coolant loss or temperature fluctuations occur"
         },
-        "recommendation": "Thermostat housing failure is a common issue on the M270. The plastic housing can crack, causing coolant loss and engine overcooling symptoms. The most common problem with the M270/M274 engine family is a failed thermostat, which is costly to repair compared to thermostat replacement costs on other engines. If you notice the engine taking longer than usual to warm up or temperature fluctuations, have the thermostat inspected.",
+        "recommendation": "Thermostat housing failure is a common issue on the M270. The plastic housing can crack, causing coolant loss and engine overcooling symptoms. The most common problem with the M270/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> engine family is a failed thermostat, which is costly to repair compared to thermostat replacement costs on other engines. If you notice the engine taking longer than usual to warm up or temperature fluctuations, have the thermostat inspected.",
         "failureLink": {
           "label": "",
           "href": "/failures/thermostat-failure/"
@@ -422,7 +422,7 @@
           "label": "Immediate",
           "text": "if you experience rough running or misfires, book an inspection today"
         },
-        "recommendation": "The M260 engine suffers from cylinder head failure due to manufacturing defects causing excessive wear in the valve guides. Similar to the M264, this leads to valve seat damage and compression loss. Complete replacement of the cylinder head with an updated part is required — a major repair that should only be performed by a qualified specialist. Mercedes‑Benz has extended warranty coverage for some M260 cylinder head failures.",
+        "recommendation": "The M260 engine suffers from cylinder head failure due to manufacturing defects causing excessive wear in the valve guides. Similar to the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, this leads to valve seat damage and compression loss. Complete replacement of the cylinder head with an updated part is required — a major repair that should only be performed by a qualified specialist. Mercedes‑Benz has extended warranty coverage for some M260 cylinder head failures.",
         "failureLink": {
           "label": "",
           "href": "/failures/cylinder-head-failure/"

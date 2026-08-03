@@ -217,7 +217,7 @@
   "hero": {
     "tagPill": "Mercedes-Benz Vito Petrol • 1996–present • 3 Engine Families",
     "h1": "Mercedes-Benz Vito Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "The Vito petrol range spans three decades and three distinct engine families — the robust M111 four-cylinder, the smooth M112 V6, and the modern M274 turbo. Each has its own character, running costs and common issues. Get quotes from UK specialists for reconditioned, rebuilt and used units today.",
+    "subHeadline": "The Vito petrol range spans three decades and three distinct engine families — the robust <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> four-cylinder, the smooth M112 V6, and the modern M274 turbo. Each has its own character, running costs and common issues. Get quotes from UK specialists for reconditioned, rebuilt and used units today.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12-Month Warranty",
@@ -288,7 +288,7 @@
         "bestFor": "Insurance jobs, warranty claims"
       }
     ],
-    "figuresNote": "Figures above reflect the current Vito petrol market. The M111 is the most affordable to replace; the M274 commands the highest premium. Reconditioned engines from specialist suppliers typically start from around £1,500 supply only. See the Era Map above for generation-specific context.",
+    "figuresNote": "Figures above reflect the current Vito petrol market. The M111 is the most affordable to replace; the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> commands the highest premium. Reconditioned engines from specialist suppliers typically start from around £1,500 supply only. See the Era Map above for generation-specific context.",
     "labourEstimate": "Fitting a Vito petrol engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). The longitudinal layout makes access relatively straightforward, though the V6 and turbocharged engines add complexity.",
     "cta": {
       "label": "→ Compare Vito petrol engine prices from UK specialists",

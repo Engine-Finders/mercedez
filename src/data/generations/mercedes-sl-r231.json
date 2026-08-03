@@ -257,7 +257,7 @@
   "hero": {
     "tagPill": "Mercedes SL R231 • Roadster • 2012–2020",
     "h1": "Mercedes SL R231 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the sixth-generation SL roadster — from the 3.0-litre M276 V6 to the 4.7-litre M278 V8 and the fire-breathing M157 and M279 AMG V8s. Real UK costs, honest reliability data, and the aluminium-bodied grand tourer that redefined the SL for the modern era. Backed by 880+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the sixth-generation SL roadster — from the 3.0-litre M276 V6 to the 4.7-litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 and the fire-breathing M157 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M279</a> AMG V8s. Real UK costs, honest reliability data, and the aluminium-bodied grand tourer that redefined the SL for the modern era. Backed by 880+ real UK enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -738,7 +738,7 @@
       {
         "id": 9,
         "question": "What is the difference between the R231 and the previous R230?",
-        "answer": "The R231 is the sixth‑generation SL, built on an all‑aluminium space‑frame bodyshell that's 140 kg lighter than the R230. It introduced new engines including the M276 V6, M278 V8, and M157 AMG V8. The R230 (2001–2012) used older M112, M113, M272, and M273 engines and is covered on its own generation page."
+        "answer": "The R231 is the sixth‑generation SL, built on an all‑aluminium space‑frame bodyshell that's 140 kg lighter than the R230. It introduced new engines including the M276 V6, M278 V8, and M157 AMG V8. The R230 (2001–2012) used older <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a>, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, M272, and M273 engines and is covered on its own generation page."
       },
       {
         "id": 10,

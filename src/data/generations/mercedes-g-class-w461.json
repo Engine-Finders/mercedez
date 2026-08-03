@@ -425,7 +425,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "The W461's engine range is defined by one legendary powerplant and several worthy successors. The OM602.942/947 naturally aspirated 2.9-litre five-cylinder diesel (290 GD) is the undisputed king of reliability — known as the \"million-mile\" engine, it's mechanically simple, under-stressed and virtually indestructible. The turbocharged OM602.983 (G 290 TD) offers more power without sacrificing the robust character of its naturally aspirated sibling. The later OM642 V6 diesels (G 280 CDI, G 300 CDI, G 350 d) bring modern refinement and significantly more power, but with added complexity — the oil cooler seal leak is a well-documented weakness on higher-mileage units, and specialist knowledge is required for repairs. The petrol M102 2.3-litre (230 GE) is the least common and least celebrated engine in the W461 range — it offers adequate power for civilian use but lacks the diesel's legendary durability and is more prone to fuelling issues. Buying instruction: for ultimate reliability, prioritise the OM602 diesel (290 GD or 290 GDT) — it's the engine that built the G-Class's reputation. For those needing modern power and refinement, the OM642 V6 diesels are strong choices, but budget for oil cooler seal work on higher-mileage examples.",
+        "quote": "The W461's engine range is defined by one legendary powerplant and several worthy successors. The OM602.942/947 naturally aspirated 2.9-litre five-cylinder diesel (290 GD) is the undisputed king of reliability — known as the \"million-mile\" engine, it's mechanically simple, under-stressed and virtually indestructible. The turbocharged OM602.983 (G 290 TD) offers more power without sacrificing the robust character of its naturally aspirated sibling. The later <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesels (G 280 CDI, G 300 CDI, G 350 d) bring modern refinement and significantly more power, but with added complexity — the oil cooler seal leak is a well-documented weakness on higher-mileage units, and specialist knowledge is required for repairs. The petrol M102 2.3-litre (230 GE) is the least common and least celebrated engine in the W461 range — it offers adequate power for civilian use but lacks the diesel's legendary durability and is more prone to fuelling issues. Buying instruction: for ultimate reliability, prioritise the OM602 diesel (290 GD or 290 GDT) — it's the engine that built the G-Class's reputation. For those needing modern power and refinement, the OM642 V6 diesels are strong choices, but budget for oil cooler seal work on higher-mileage examples.",
         "whoItsFor": ""
       }
     ]
@@ -673,7 +673,7 @@
       {
         "id": 5,
         "question": "Which Mercedes W461 engine should I avoid?",
-        "answer": "The petrol M102 2.3-litre (230 GE) is the least common and least celebrated engine in the W461 range — it offers adequate power but lacks the diesel's legendary durability and is more prone to fuelling issues. For ultimate reliability, always choose the OM602 diesel."
+        "answer": "The petrol <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m102'>M102</a> 2.3-litre (230 GE) is the least common and least celebrated engine in the W461 range — it offers adequate power but lacks the diesel's legendary durability and is more prone to fuelling issues. For ultimate reliability, always choose the OM602 diesel."
       },
       {
         "id": 6,

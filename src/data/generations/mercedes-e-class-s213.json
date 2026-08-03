@@ -356,7 +356,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes E-Class S213 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the S213 estate specifically — including the 2020 facelift that brought the M256 inline-six and M264 four-cylinder with EQ Boost.",
+    "subHeadline": "Every engine fitted to the S213 estate specifically — including the 2020 facelift that brought the M256 inline-six and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a> four-cylinder with EQ Boost.",
     "columns": [
       "Engine Code",
       "Family",
@@ -541,7 +541,7 @@
     ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "OM654: 85% confidence — 520 [MB-VERIFIED] enquiries in 2025; well-documented engine. M276: 90% confidence — 390 [MB-VERIFIED] enquiries; documented timing chain stretch issues. M177: 90% confidence — 370 [MB-VERIFIED] enquiries; well-understood V8. OM656: 75% confidence — newer six-cylinder diesel with emerging pattern data. M256/M264: 70% confidence — pattern-data tier; newer engines with limited long-term data."
+      "text": "OM654: 85% confidence — 520 [MB-VERIFIED] enquiries in 2025; well-documented engine. M276: 90% confidence — 390 [MB-VERIFIED] enquiries; documented timing chain stretch issues. M177: 90% confidence — 370 [MB-VERIFIED] enquiries; well-understood V8. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a>: 75% confidence — newer six-cylinder diesel with emerging pattern data. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>/M264: 70% confidence — pattern-data tier; newer engines with limited long-term data."
     },
     "dataCorrections": []
   },
@@ -1025,7 +1025,7 @@
       {
         "id": 1,
         "question": "How much does a Mercedes E-Class S213 engine replacement cost in the UK?",
-        "answer": "A reconditioned S213 engine typically costs £1,800–£16,000 supply only [MB-QUOTE], depending on engine — the M274 and M264 four-cylinders sit at £1,800–£4,000, the OM654 diesel at £2,800–£5,000, the M276 V6 at £3,800–£6,500, the M256 inline-six at £4,000–£9,000, the OM656 six-cylinder diesel at £4,500–£7,500, and the M177 V8 at £8,000–£16,000. Fitting adds £520–£1,300 depending on engine complexity."
+        "answer": "A reconditioned S213 engine typically costs £1,800–£16,000 supply only [MB-QUOTE], depending on engine — the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> and M264 four-cylinders sit at £1,800–£4,000, the OM654 diesel at £2,800–£5,000, the M276 V6 at £3,800–£6,500, the M256 inline-six at £4,000–£9,000, the OM656 six-cylinder diesel at £4,500–£7,500, and the M177 V8 at £8,000–£16,000. Fitting adds £520–£1,300 depending on engine complexity."
       },
       {
         "id": 2,

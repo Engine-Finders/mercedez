@@ -308,7 +308,7 @@
           "label": "Immediate",
           "text": "if the coolant warning appears or the engine overheats, stop driving immediately"
         },
-        "recommendation": "The electric line for the power supply of the engine coolant pump might contact the engine fan and chafe on it, leading to electrical faults. Coolant pump and 48V hybrid system issues are a known weakness on the M256. A recall (NHTSA campaign number: 22V733000) affects certain vehicles. If you experience erratic cooling or warning lights, have the coolant pump and wiring inspected immediately.",
+        "recommendation": "The electric line for the power supply of the engine coolant pump might contact the engine fan and chafe on it, leading to electrical faults. Coolant pump and 48V hybrid system issues are a known weakness on the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>. A recall (NHTSA campaign number: 22V733000) affects certain vehicles. If you experience erratic cooling or warning lights, have the coolant pump and wiring inspected immediately.",
         "failureLink": {
           "label": "Read the full coolant pump failure guide → /failures/m256-coolant-pump-failure/ [NEW FAILURE PAGE NEEDED]",
           "href": "#"

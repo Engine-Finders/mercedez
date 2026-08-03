@@ -391,7 +391,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM651.901 and OM651.930: 80% confidence — the OM651 family is one of the most documented Mercedes diesel families in the UK. M270.910 and M270.920: 80% confidence — well-documented turbo-petrol family with a strong reliability record. M133.980: 75% confidence — AMG performance unit with higher running costs; reliability is good for a 360bhp+ four-cylinder but maintenance is expensive. OM607.951: 70% confidence — entry-level Renault-sourced diesel; less documented in the EM dataset but appears in the W176 parts catalogues."
+      "text": "OM651.901 and OM651.930: 80% confidence — the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om651'>OM651</a> family is one of the most documented Mercedes diesel families in the UK. M270.910 and M270.920: 80% confidence — well-documented turbo-petrol family with a strong reliability record. M133.980: 75% confidence — AMG performance unit with higher running costs; reliability is good for a 360bhp+ four-cylinder but maintenance is expensive. OM607.951: 70% confidence — entry-level Renault-sourced diesel; less documented in the EM dataset but appears in the W176 parts catalogues."
     },
     "dataCorrections": []
   },

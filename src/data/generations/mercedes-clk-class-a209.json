@@ -583,13 +583,13 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "M112 V6 and M113 V8 families: 85% confidence — among the most durable Mercedes engines ever built, with a well-documented reputation for reliability when maintained . OM646: 80% confidence — proven common-rail diesel with strong longevity . OM642: 80% confidence — robust V6 diesel with good reputation. M271: 75% confidence — known for timing chain and supercharger issues . M272 and M273: 75% confidence — balance shaft issues affect early units (pre-September 2006) . M156: 75% confidence — high-performance AMG V8 with higher running costs but good reliability for a 500bhp+ engine."
+      "text": "M112 V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 families: 85% confidence — among the most durable Mercedes engines ever built, with a well-documented reputation for reliability when maintained . OM646: 80% confidence — proven common-rail diesel with strong longevity . OM642: 80% confidence — robust V6 diesel with good reputation. M271: 75% confidence — known for timing chain and supercharger issues . M272 and M273: 75% confidence — balance shaft issues affect early units (pre-September 2006) . M156: 75% confidence — high-performance AMG V8 with higher running costs but good reliability for a 500bhp+ engine."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes CLK A209 — Overview",
-    "intro": "The A209 is the convertible body style of the second-generation CLK-Class, launched in February 2002 as the successor to the A208 cabriolet . Based on the Mercedes W203 C-Class platform, it uses rack-and-pinion steering instead of the recirculating-ball design of the previous generation . The engine range evolved significantly: early cars offered M112 V6 petrols, M113 V8s, and OM612 five-cylinder diesels . A 2005 facelift brought revised styling, the M272 and M273 V6/V8 petrols, and the OM646 and OM642 diesels . The range-topping CLK 63 AMG, introduced in 2006, used the M156 6.2-litre V8 producing 474bhp . The A209 was the last complete car built by Karmann before the facility closed .",
+    "intro": "The A209 is the convertible body style of the second-generation CLK-Class, launched in February 2002 as the successor to the A208 cabriolet . Based on the Mercedes W203 C-Class platform, it uses rack-and-pinion steering instead of the recirculating-ball design of the previous generation . The engine range evolved significantly: early cars offered M112 V6 petrols, M113 V8s, and OM612 five-cylinder diesels . A 2005 facelift brought revised styling, the M272 and M273 V6/V8 petrols, and the OM646 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> diesels . The range-topping CLK 63 AMG, introduced in 2006, used the M156 6.2-litre V8 producing 474bhp . The A209 was the last complete car built by Karmann before the facility closed .",
     "keyFacts": "Platform: Mercedes W203 (shared with C-Class) • Predecessor: A208 • Successor: A207 E-Class Cabriolet • Sibling body style in this generation: C209 Coupé.",
     "marketIntelligenceLine": "The CLK A209 generated 252 real UK engine enquiries in 2025 [MB-VERIFIED], concentrated on the M112/M272 V6 petrols and OM646 diesel as these cars enter enthusiast-owner territory."
   },
@@ -622,7 +622,7 @@
       {
         "slot": "Best Value",
         "engine": "M112.912 (CLK 240, 2.6-litre V6)",
-        "quote": "Often overlooked in favour of the more powerful CLK 320, the 2.6-litre M112 offers 170bhp, the same bulletproof reliability, and significantly better fuel economy. It's cheaper to buy, cheaper to insure, and cheaper to run — the sweet spot in the A209 petrol range.",
+        "quote": "Often overlooked in favour of the more powerful CLK 320, the 2.6-litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> offers 170bhp, the same bulletproof reliability, and significantly better fuel economy. It's cheaper to buy, cheaper to insure, and cheaper to run — the sweet spot in the A209 petrol range.",
         "whoItsFor": "buyers who want V6 refinement without the running costs of a larger engine."
       },
       {

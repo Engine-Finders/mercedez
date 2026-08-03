@@ -251,7 +251,7 @@
   "hero": {
     "tagPill": "Mercedes‑Benz C‑Class W205 • Saloon • 2014–2021",
     "h1": "Mercedes‑Benz C‑Class W205 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the W205 saloon — from the 1.6‑litre M274 to the 4.0‑litre M177 V8. Real UK replacement costs, honest reliability data, and the OM651‑to‑OM654 diesel switch that defines this generation. Backed by 368+ real UK W205 enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the W205 saloon — from the 1.6‑litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> to the 4.0‑litre M177 V8. Real UK replacement costs, honest reliability data, and the OM651‑to‑OM654 diesel switch that defines this generation. Backed by 368+ real UK W205 enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -283,13 +283,13 @@
     "engines": [],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM651 and OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M274, M264, M276 and M177: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. OM651 reliability: known for timing chain tensioner wear and injector seal failure (\"Black Death\"). OM654: generally reliable, with AdBlue system issues the main concern. M177: known for occasional sensor‑derived misfire issues; tight engine bay packaging means sensor replacement can lead to costly labour."
+      "text": "<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om651'>OM651</a> and OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M274, M264, M276 and M177: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. OM651 reliability: known for timing chain tensioner wear and injector seal failure (\"Black Death\"). OM654: generally reliable, with AdBlue system issues the main concern. M177: known for occasional sensor‑derived misfire issues; tight engine bay packaging means sensor replacement can lead to costly labour."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes‑Benz C‑Class W205 — Overview",
-    "intro": "The W205 is the fourth generation of the Mercedes‑Benz C‑Class, launched in 2014 as the successor to the W204. It introduced a significantly lighter body structure using aluminium and high‑strength steel, resulting in a 100kg weight saving. A major September 2018 facelift brought more than cosmetic changes: it replaced the ageing OM651 diesel four with the all‑new OM654, and introduced the M264 mild‑hybrid petrol engine — splitting this generation's ownership story into two genuinely different mechanical eras under one body code.",
+    "intro": "The W205 is the fourth generation of the Mercedes‑Benz C‑Class, launched in 2014 as the successor to the W204. It introduced a significantly lighter body structure using aluminium and high‑strength steel, resulting in a 100kg weight saving. A major September 2018 facelift brought more than cosmetic changes: it replaced the ageing OM651 diesel four with the all‑new OM654, and introduced the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a> mild‑hybrid petrol engine — splitting this generation's ownership story into two genuinely different mechanical eras under one body code.",
     "keyFacts": "Platform: Mercedes‑Benz MRA (Modular Rear Architecture) • Predecessor: W204 • Successor: W206 • Sibling body styles in this generation: S205 Estate, C205 Coupé, A205 Cabriolet.",
     "marketIntelligenceLine": "The W205 saloon generated 368 real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM651 diesel as the parc exits warranty age."
   },
@@ -316,7 +316,7 @@
       {
         "slot": "Most Expensive Failure",
         "engine": "M177 4.0‑litre V8 (AMG C 63/S)",
-        "quote": "The hot‑vee twin‑turbo V8 shares the M178's cooling demands. Sensor‑derived misfire issues are the main electrical headache, and tight engine bay packaging makes even sensor replacement labour‑intensive.",
+        "quote": "The hot‑vee twin‑turbo V8 shares the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m159-m178-gt'>M178</a>'s cooling demands. Sensor‑derived misfire issues are the main electrical headache, and tight engine bay packaging makes even sensor replacement labour‑intensive.",
         "whoItsFor": "AMG buyers with deep pockets and a trusted specialist."
       },
       {
@@ -644,7 +644,7 @@
       {
         "id": 1,
         "question": "How much does a Mercedes‑Benz C‑Class W205 engine replacement cost in the UK?",
-        "answer": "A reconditioned W205 engine typically costs £1,500–£14,000 supply only [MB‑QUOTE], depending on engine — the volume M274 four‑cylinder petrol sits at £1,500–£2,800, while the AMG M177 V8 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+        "answer": "A reconditioned W205 engine typically costs £1,500–£14,000 supply only [MB‑QUOTE], depending on engine — the volume M274 four‑cylinder petrol sits at £1,500–£2,800, while the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/amg-m176-m177'>AMG M177</a> V8 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
       },
       {
         "id": 2,

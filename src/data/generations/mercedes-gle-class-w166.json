@@ -251,7 +251,7 @@
   "hero": {
     "tagPill": "Mercedes GLE W166 • SUV • 2015–2018",
     "h1": "Mercedes GLE W166 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the first‑generation GLE — from the OM651 four‑cylinder diesel to the OM642 V6 diesel, the M276 V6 petrol range, the M278 V8, and the M157 AMG V8. Real UK costs, honest failure data, and the 2015 rebadge that turned the M‑Class into the GLE. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the first‑generation GLE — from the OM651 four‑cylinder diesel to the OM642 V6 diesel, the M276 V6 petrol range, the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8, and the M157 AMG V8. Real UK costs, honest failure data, and the 2015 rebadge that turned the M‑Class into the GLE. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -523,7 +523,7 @@
     ],
     "economicsRule": {
       "title": "The W166 rule",
-      "text": "A £4,500 OM642 recon against a £15,000 GLE sits at 30% — safe. A £10,000 M157 recon against a £25,000 GLE 63 is 40% — viable if you have the warranty, but a financial event regardless. Our 70% Mercedes threshold is rarely crossed on W166s with strong values, but running costs — especially on AMG variants — tell a different story. Value the service history first."
+      "text": "A £4,500 <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> recon against a £15,000 GLE sits at 30% — safe. A £10,000 M157 recon against a £25,000 GLE 63 is 40% — viable if you have the warranty, but a financial event regardless. Our 70% Mercedes threshold is rarely crossed on W166s with strong values, but running costs — especially on AMG variants — tell a different story. Value the service history first."
     },
     "keyTakeaways": [
       {

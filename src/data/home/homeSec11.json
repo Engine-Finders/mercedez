@@ -13,12 +13,12 @@
     },
     {
       "era": "1980s",
-      "engines": "M102, M103, OM615, OM616",
+      "engines": "<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m102'>M102</a>, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m103'>M103</a>, OM615, OM616",
       "models": "W123, W124, W201 190E"
     },
     {
       "era": "1990s",
-      "engines": "M104, M111, M112, M113",
+      "engines": "<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a>, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a>, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a>, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>",
       "models": "W124, W202, W210, R129"
     },
     {
@@ -33,9 +33,9 @@
     },
     {
       "era": "2020s",
-      "engines": "OM654, OM656, M256, M264, M177/M178",
+      "engines": "OM654, OM656, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>M256, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, M177/M178",
       "models": "W206, W214, GLC X254, AMG GT"
     }
   ],
-  "keyTakeaway": "The OM616/OM617 built Mercedes' \"will run forever\" diesel reputation — but the OM651's \"Black Death\" injector story reversed that perception for a generation. The OM654 has largely restored it. The M156/M157/M177 lineage remains AMG's defining V8 story."
+  "keyTakeaway": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om615-om616-om617'>OM616</a>/OM617 built Mercedes' \"will run forever\" diesel reputation — but the OM651's \"Black Death\" injector story reversed that perception for a generation. The OM654 has largely restored it. The M156/M157/M177 lineage remains AMG's defining V8 story."
 }

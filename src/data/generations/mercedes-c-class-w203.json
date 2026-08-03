@@ -293,7 +293,7 @@
   "hero": {
     "tagPill": "Mercedes C-Class W203 • Saloon • 2000–2007",
     "h1": "Mercedes C-Class W203 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the W203 saloon — from the M111 petrol to the M271 Kompressor units, the OM611 and OM646 diesels, and the V6 petrols that defined Mercedes' second-generation compact executive. Real UK replacement costs, honest failure data, and the rust and balance-shaft issues that still haunt early cars. Backed by 252+ real UK W203 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the W203 saloon — from the M111 petrol to the M271 Kompressor units, the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> and OM646 diesels, and the V6 petrols that defined Mercedes' second-generation compact executive. Real UK replacement costs, honest failure data, and the rust and balance-shaft issues that still haunt early cars. Backed by 252+ real UK W203 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -445,7 +445,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM611 and OM646 diesel families: 80% confidence — well-documented Mercedes diesel families with strong UK specialist support. M271 Kompressor: 80% confidence — proven supercharged four-cylinder family. M112 V6: 80% confidence — robust and well-understood. M111: 75% confidence — earlier four-cylinder with some known issues. All ratings are provisional pending dedicated Engine Pages."
+      "text": "OM611 and OM646 diesel families: 80% confidence — well-documented Mercedes diesel families with strong UK specialist support. M271 Kompressor: 80% confidence — proven supercharged four-cylinder family. M112 V6: 80% confidence — robust and well-understood. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a>: 75% confidence — earlier four-cylinder with some known issues. All ratings are provisional pending dedicated Engine Pages."
     },
     "dataCorrections": []
   },
@@ -677,7 +677,7 @@
             "note": ""
           }
         ],
-        "recommendation": "If your M112 V6 develops a rattle or timing noise, get it inspected immediately — £600–£1,000 now is far cheaper than the £3,000+ replacement that follows a complete failure.",
+        "recommendation": "If your <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> V6 develops a rattle or timing noise, get it inspected immediately — £600–£1,000 now is far cheaper than the £3,000+ replacement that follows a complete failure.",
         "cta": {
           "label": "Compare M112 engine prices for your W203 C240/C320 →",
           "href": "#"

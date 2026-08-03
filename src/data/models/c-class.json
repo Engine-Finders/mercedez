@@ -146,7 +146,7 @@
               "name": "Which C-Class engine should I avoid?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The OM646/OM647 fitted to W203 and pre-2011 W204 C-Class models carries the highest risk in our data — the original 'Black Death' generation with the worst injector seal design and the highest proportion of catastrophic failures. We don't say 'avoid entirely' — a well-maintained W204 OM651 (2011+) is a good car — but a W203 diesel with undocumented history is a genuine risk. The W203's age and value make engine replacement economically questionable for most owners."
+                "text": "The OM646/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om646-om647'>OM647</a> fitted to W203 and pre-2011 W204 C-Class models carries the highest risk in our data — the original 'Black Death' generation with the worst injector seal design and the highest proportion of catastrophic failures. We don't say 'avoid entirely' — a well-maintained W204 OM651 (2011+) is a good car — but a W203 diesel with undocumented history is a genuine risk. The W203's age and value make engine replacement economically questionable for most owners."
               }
             },
             {
@@ -398,7 +398,7 @@
   "badge": "",
   "meta": "2014–2021 • M274 petrol • M276 petrol • OM651 diesel • OM654 diesel",
   "rating": "★★★★☆",
-  "verdict": "The W205 coupé—a sleek two-door with the same M274 petrol and OM654 diesel as the saloon. Coupé premium adds to resale value, making replacement viable across most examples.",
+  "verdict": "The W205 coupé—a sleek two-door with the same <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> petrol and OM654 diesel as the saloon. Coupé premium adds to resale value, making replacement viable across most examples.",
   "cta": {
     "label": "Explore C205 →",
     "href": "https://mercedesengines.uk/c-class/c205"
@@ -407,9 +407,9 @@
       {
   "title": "W202 (1993–2000)",
   "badge": "",
-  "meta": "1993–2000 • M111 petrol • M112 petrol • OM604 diesel • OM605 diesel • OM606 diesel",
+  "meta": "1993–2000 • M111 petrol • <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> petrol • OM604 diesel • OM605 diesel • OM606 diesel",
   "rating": "★★☆☆☆",
-  "verdict": "The first-generation C-Class—built to replace the 190E. M111 petrol and OM606 diesel are robust, but 25-year-old examples now suffer from rust and electrical gremlins. Replacement cost frequently exceeds vehicle value on sub-£2,000 examples.",
+  "verdict": "The first-generation C-Class—built to replace the 190E. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> petrol and OM606 diesel are robust, but 25-year-old examples now suffer from rust and electrical gremlins. Replacement cost frequently exceeds vehicle value on sub-£2,000 examples.",
   "cta": {
     "label": "Explore W202 →",
     "href": "https://mercedesengines.uk/c-class/w202"
@@ -505,7 +505,7 @@
   "badge": "",
   "meta": "2021–present • M254 petrol • OM654 diesel",
   "rating": "★★★★☆",
-  "verdict": "The W206 estate—modern, efficient, and well-engineered. M254 petrol includes mild-hybrid tech; OM654 diesel remains the reliable choice. High values (£20k+) mean replacement is very safe.",
+  "verdict": "The W206 estate—modern, efficient, and well-engineered. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> petrol includes mild-hybrid tech; OM654 diesel remains the reliable choice. High values (£20k+) mean replacement is very safe.",
   "cta": {
     "label": "Explore S206 →",
     "href": "https://mercedesengines.uk/c-class/s206"
@@ -648,7 +648,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM651, OM654, OM642 and M276 ratings: 85% confidence — based on 1,250, 520, 880 and 390 [MB-VERIFIED] enquiries respectively [MB-VERIFIED], cross-referenced against specialist interview data and manufacturer TSBs. M264, OM646, OM647 and M271 ratings: Expert-knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: The W209 CLK (2003–2009) shares the W203 platform and engine range, but is not a C-Class itself. This Engine Database covers W203, W204, W205 and W206 C-Class models only — the W209 CLK will be covered separately on its own page. The 28 enquiries for \"Mercedes CLK\" in the source data [MB-VERIFIED] should not be folded into the C-Class enquiry total; the hero figure of 865+ is calculated from W203/W204/W205/W206 combined only. Correction applied: OM651 enquiry volume of 1,250 [MB-VERIFIED] is the brand-wide figure for all Mercedes models, not C-Class-specific. The 1,250 figure appears in the Engine Codes table because it is the best available per-engine volume for OM651 in the proprietary data file. C-Class-specific enquiry figures appear in Section 4 (252 for W204, 368 for W205, etc.) and Section 7 (model-level ranking). No further corrections needed — all engine codes, production years and fuel types were verified against manufacturer technical data and Parkers.co.uk before inclusion."
+      "text": "OM651, OM654, OM642 and M276 ratings: 85% confidence — based on 1,250, 520, 880 and 390 [MB-VERIFIED] enquiries respectively [MB-VERIFIED], cross-referenced against specialist interview data and manufacturer TSBs. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, OM646, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om646-om647'>OM647</a> and M271 ratings: Expert-knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: The W209 CLK (2003–2009) shares the W203 platform and engine range, but is not a C-Class itself. This Engine Database covers W203, W204, W205 and W206 C-Class models only — the W209 CLK will be covered separately on its own page. The 28 enquiries for \"Mercedes CLK\" in the source data [MB-VERIFIED] should not be folded into the C-Class enquiry total; the hero figure of 865+ is calculated from W203/W204/W205/W206 combined only. Correction applied: OM651 enquiry volume of 1,250 [MB-VERIFIED] is the brand-wide figure for all Mercedes models, not C-Class-specific. The 1,250 figure appears in the Engine Codes table because it is the best available per-engine volume for OM651 in the proprietary data file. C-Class-specific enquiry figures appear in Section 4 (252 for W204, 368 for W205, etc.) and Section 7 (model-level ranking). No further corrections needed — all engine codes, production years and fuel types were verified against manufacturer technical data and Parkers.co.uk before inclusion."
     },
     "dataCorrections": []
   },
@@ -694,7 +694,7 @@
       {
         "id": 3,
         "issue": "OM642 Oil Cooler Seal Leak",
-        "description": "The V6 diesel's primary weak point — an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. Common on W204 and W205 OM642 units. £800–£1,500 repair [MB-QUOTE].",
+        "description": "The V6 diesel's primary weak point — an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. Common on W204 and W205 <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> units. £800–£1,500 repair [MB-QUOTE].",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",

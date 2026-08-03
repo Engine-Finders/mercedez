@@ -287,7 +287,7 @@
   "hero": {
     "tagPill": "Mercedes M-Class W163 • SUV • 1997–2005",
     "h1": "Mercedes M-Class W163 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the Mercedes M-Class W163 — from the 2.3-litre M111 four-cylinder to the 5.4-litre M113 AMG V8, plus the OM612 five-cylinder and OM628 V8 diesels that powered the first Mercedes SUV. Real UK replacement costs, honest reliability data, and the 2001 facelift that brought V8 power to the range. Backed by 276+ real UK W163 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the Mercedes M-Class W163 — from the 2.3-litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> four-cylinder to the 5.4-litre M113 AMG V8, plus the OM612 five-cylinder and OM628 V8 diesels that powered the first Mercedes SUV. Real UK replacement costs, honest reliability data, and the 2001 facelift that brought V8 power to the range. Backed by 276+ real UK W163 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -581,7 +581,7 @@
         "typicalFailureMileage": "",
         "rootCause": "",
         "tieredCosts": [],
-        "recommendation": "On any M112 W163, inspect the thermostat and valve cover gaskets regularly — £300–£600 now is far cheaper than the £2,200–£3,800 replacement that follows if oil leakage causes damage.",
+        "recommendation": "On any <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> W163, inspect the thermostat and valve cover gaskets regularly — £300–£600 now is far cheaper than the £2,200–£3,800 replacement that follows if oil leakage causes damage.",
         "cta": {
           "label": "",
           "href": "#"
@@ -704,7 +704,7 @@
         "labourHours": "12–16 hrs"
       }
     ],
-    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M111, M112, M113, OM612 or OM628 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W163's body‑on‑frame SUV labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M111, M112, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, OM612 or OM628 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W163's body‑on‑frame SUV labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
 "coreVariants": {
     "dieselVariants": [

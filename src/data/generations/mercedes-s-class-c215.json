@@ -269,7 +269,7 @@
   "hero": {
     "tagPill": "Mercedes S-Class C215 • Coupé • 1998–2006",
     "h1": "Mercedes S-Class C215 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the second-generation CL-Class coupé — from the bulletproof M113 V8 to the thunderous M275 twin-turbo V12 and the rare 6.3-litre M137. Real UK replacement costs, honest reliability data, and the pre- and post-facelift engine changes that defined this flagship. Backed by 880+ real UK M113-related enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the second-generation CL-Class coupé — from the bulletproof <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 to the thunderous M275 twin-turbo V12 and the rare 6.3-litre M137. Real UK replacement costs, honest reliability data, and the pre- and post-facelift engine changes that defined this flagship. Backed by 880+ real UK M113-related enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -296,7 +296,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes S-Class C215 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the C215 coupé — including the 2002 facelift that brought the M275 twin-turbo V12 and the M113K supercharged V8.",
+    "subHeadline": "Every engine fitted to the C215 coupé — including the 2002 facelift that brought the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M275</a> twin-turbo V12 and the M113K supercharged V8.",
     "columns": [
       "Engine Code",
       "Family",
@@ -397,7 +397,7 @@
     ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "M113: 90% confidence — widely regarded as one of the most reliable modern Mercedes engines; well-documented failure patterns. M275: 85% confidence — robust twin-turbo V12 with established pattern data. M137: 70% confidence — known for oil cooler O-ring failures and considered one of Mercedes' less reliable engines."
+      "text": "M113: 90% confidence — widely regarded as one of the most reliable modern Mercedes engines; well-documented failure patterns. M275: 85% confidence — robust twin-turbo V12 with established pattern data. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m137'>M137</a>: 70% confidence — known for oil cooler O-ring failures and considered one of Mercedes' less reliable engines."
     },
     "dataCorrections": []
   },

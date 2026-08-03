@@ -314,13 +314,13 @@
     "engines": [],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "OM651 and OM654 ratings: 95% confidence, inherited from the Model Page where one exists. OM622 and M274: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
+      "text": "OM651 and OM654 ratings: 95% confidence, inherited from the Model Page where one exists. OM622 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a>: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes Vito W447 — Overview",
-    "intro": "The W447 is the third generation of the Mercedes‑Benz Vito, a light commercial vehicle produced from 2014. It introduced front‑wheel drive to the Vito range for the first time alongside traditional rear‑wheel drive, with a 1.6‑litre diesel powering front‑drive models. The range includes panel van, Tourer minibus (up to nine seats), and Mixto (two rows of seats with a cargo area) configurations. A significant facelift in March 2020 brought engine changes: the 2.1‑litre OM651 was replaced by the 2.0‑litre OM654 on rear‑ and all‑wheel‑drive models, while front‑drive models received an enlarged 1.7‑litre version of the OM622.",
+    "intro": "The W447 is the third generation of the Mercedes‑Benz Vito, a light commercial vehicle produced from 2014. It introduced front‑wheel drive to the Vito range for the first time alongside traditional rear‑wheel drive, with a 1.6‑litre diesel powering front‑drive models. The range includes panel van, Tourer minibus (up to nine seats), and Mixto (two rows of seats with a cargo area) configurations. A significant facelift in March 2020 brought engine changes: the 2.1‑litre OM651 was replaced by the 2.0‑litre OM654 on rear‑ and all‑wheel‑drive models, while front‑drive models received an enlarged 1.7‑litre version of the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om621-om622-om626'>OM622</a>.",
     "keyFacts": "Platform: Mercedes‑Benz W447 • Predecessor: W639 • Successor: Current (facelift ongoing) • Sibling body styles in this generation: Panel van, Tourer minibus, Mixto.",
     "marketIntelligenceLine": "No W447‑specific enquiry figure is available; OM651 diesel enquiries dominate the broader Mercedes van parc, with 1,250 UK requests in 2025 [MB‑VERIFIED]."
   },

@@ -288,7 +288,7 @@
   "hero": {
     "tagPill": "Mercedes‑Benz S‑Class W221 • Saloon • 2005–2013",
     "h1": "Mercedes‑Benz S‑Class W221 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the W221 saloon — from the 3.0‑litre OM642 diesel to the 6.0‑litre M275 V12 in the S 65 AMG. Real UK replacement costs, honest reliability data, and the S‑Class ownership realities that define this generation. Backed by real UK W221 enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the W221 saloon — from the 3.0‑litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> diesel to the 6.0‑litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M275</a> V12 in the S 65 AMG. Real UK replacement costs, honest reliability data, and the S‑Class ownership realities that define this generation. Backed by real UK W221 enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -512,7 +512,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM642: 90% confidence — well‑documented V6 diesel with oil cooler seal and swirl flap issues. OM629: 85% confidence — robust V8 diesel with 320hp. M272/M273: 85% confidence — proven V6/V8 petrols with balance shaft and timing chain issues. M278: 80% confidence — twin‑turbo V8 successor to M273; generally robust. M157: 85% confidence — AMG twin‑turbo V8 with carbon buildup and oil consumption documented. M275: 85% confidence — V12 biturbo with 517–630hp. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family."
+      "text": "OM642: 90% confidence — well‑documented V6 diesel with oil cooler seal and swirl flap issues. OM629: 85% confidence — robust V8 diesel with 320hp. M272/M273: 85% confidence — proven V6/V8 petrols with balance shaft and timing chain issues. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a>: 80% confidence — twin‑turbo V8 successor to M273; generally robust. M157: 85% confidence — AMG twin‑turbo V8 with carbon buildup and oil consumption documented. M275: 85% confidence — V12 biturbo with 517–630hp. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family."
     },
     "dataCorrections": []
   },
@@ -638,7 +638,7 @@
         "ownershipVerdict": "V8 Diesel — rare and torquey"
       },
       {
-        "engine": "OM651 I4 diesel (204hp)",
+        "engine": "<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om651'>OM651</a> I4 diesel (204hp)",
         "typicalMileage": "60k–120k",
         "commonMajorFailure": "Timing chain, injectors",
         "repairCostSpecialist": "£500–£1,200",

@@ -371,7 +371,7 @@
         "badge": "",
         "meta": "[Years] 1996–2003 • OM601 • OM611 • M111",
         "rating": "★★☆☆☆",
-        "verdict": "The original Vito — simple, utilitarian, and now very old. The OM611 diesel is the workhorse; the M111 petrol is the simpler option. Parts are cheap and widely available, but rust and age-related issues are the real enemy. Only buy a W638 if you're handy with a spanner or need a cheap runabout. [PATTERN DATA]",
+        "verdict": "The original Vito — simple, utilitarian, and now very old. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> diesel is the workhorse; the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</aetrol is the simpler option. Parts are cheap and widely available, but rust and age-related issues are the real enemy. Only buy a W638 if you're handy with a spanner or need a cheap runabout. [PATTERN DATA]",
         "cta": {
           "label": "Explore W638 →",
           "href": "https://mercedesengines.uk/vito/w638"
@@ -382,7 +382,7 @@
         "badge": "",
         "meta": "[Years] 2003–2014 • OM646 • OM651 • OM642 • M112 • M272",
         "rating": "★★★☆☆",
-        "verdict": "The generation that defined the modern Vito — the OM646 is the simpler, more reliable diesel choice; the OM651 brings more power but carries the rear-mounted timing chain risk; the OM642 V6 diesel is the torque monster but expensive to fix. The facelift (2010+) brought improvements to the OM651. Buy a 2009+ van with an OM646 if you want reliability; buy an OM651 only with documented chain history. [PATTERN DATA]",
+        "verdict": "The generation that defined the modern Vito — the OM646 is the simpler, more reliable diesel choice; the OM651 brings more power but carries the rear-mounted timing chain risk; the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel is the torque monster but expensive to fix. The facelift (2010+) brought improvements to the OM651. Buy a 2009+ van with an OM646 if you want reliability; buy an OM651 only with documented chain history. [PATTERN DATA]",
         "cta": {
           "label": "Explore W639 →",
           "href": "https://mercedesengines.uk/vito/w639"
@@ -393,7 +393,7 @@
         "badge": "",
         "meta": "[Years] 2014–present • OM651 • OM654 • M274",
         "rating": "★★★★☆",
-        "verdict": "The modern Vito — the OM654 (2019+) is the engine to buy: cleaner, quieter, more efficient, and with far fewer reported issues than the OM651. Early W447s with the OM651 carry the same timing chain risks as the W639. The M274 petrol is rare but available for select markets. Buy a 2019+ OM654 if your budget stretches; buy a well-documented OM651 if you must. [PATTERN DATA]",
+        "verdict": "The modern Vito — the OM654 (2019+) is the engine to buy: cleaner, quieter, more efficient, and with far fewer reported issues than the OM651. Early W447s with the OM651 carry the same timing chain risks as the W639. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> petrol is rare but available for select markets. Buy a 2019+ OM654 if your budget stretches; buy a well-documented OM651 if you must. [PATTERN DATA]",
         "cta": {
           "label": "Explore W447 →",
           "href": "https://mercedesengines.uk/vito/w447"
@@ -549,7 +549,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM651 and OM642 ratings: 85% confidence — based on 1,250 and 880 [MB-VERIFIED] enquiries respectively across the Mercedes range, cross-referenced against specialist interview data and manufacturer TSBs. OM654 rating: Expert-knowledge tier — documented as a significant improvement over the OM651, with fewer reported failure patterns. OM646, OM611, OM601 and petrol engine ratings: Expert-knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: The Vito does not have a dedicated model-level enquiry figure in the EM_Proprietary_Data file. The hero section and Section 7 use [PATTERN DATA] for the Vito-specific enquiry figure, reflecting that Vito enquiry data is aggregated with Sprinter and other commercial vehicles. Engine-level figures (OM651, OM642) are brand-wide Mercedes figures [MB-VERIFIED]. Correction applied: The OM654 replaced the OM651 in the W447 Vito from approximately 2019 onward. Early W447s (2014–2019) continued with the OM651. The OM654 is Euro 6d-TEMP compliant and features Nanoslide cylinder coating, multi-way EGR, and AdBlue after-treatment. No further corrections needed — all engine codes, production years and fuel types were verified against manufacturer technical data and specialist sources before inclusion."
+      "text": "OM651 and OM642 ratings: 85% confidence — based on 1,250 and 880 [MB-VERIFIED] enquiries respectively across the Mercedes range, cross-referenced against specialist interview data and manufacturer TSBs. OM654 rating: Expert-knowledge tier — documented as a significant improvement over the OM651, with fewer reported failure patterns. OM646, OM611, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om601-om608'>OM601</a> and petrol engine ratings: Expert-knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: The Vito does not have a dedicated model-level enquiry figure in the EM_Proprietary_Data file. The hero section and Section 7 use [PATTERN DATA] for the Vito-specific enquiry figure, reflecting that Vito enquiry data is aggregated with Sprinter and other commercial vehicles. Engine-level figures (OM651, OM642) are brand-wide Mercedes figures [MB-VERIFIED]. Correction applied: The OM654 replaced the OM651 in the W447 Vito from approximately 2019 onward. Early W447s (2014–2019) continued with the OM651. The OM654 is Euro 6d-TEMP compliant and features Nanoslide cylinder coating, multi-way EGR, and AdBlue after-treatment. No further corrections needed — all engine codes, production years and fuel types were verified against manufacturer technical data and specialist sources before inclusion."
     },
     "dataCorrections": []
   },
@@ -763,7 +763,7 @@
       {
         "era": "Second Generation (W639)",
         "years": "2003–2014",
-        "keyEngines": "OM646, OM651, OM642, M112, M272",
+        "keyEngines": "OM646, OM651, OM642, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</aM272",
         "whyBmwChanged": "The W639 brought a more car-like driving experience and a wider engine range. The OM646 was the simpler, more reliable diesel; the OM651 brought more power but rear-mounted timing chain risk; the OM642 V6 was the torque monster.",
         "worthKnowing": "The OM646 is the generation's reliability champion — some specialists recommend it over the OM651 for this reason. The OM651's rear-chain design is the defining weakness."
       },

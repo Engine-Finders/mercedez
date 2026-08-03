@@ -410,7 +410,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M274, M264, M256, M276 and OM656: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. M256: Mercedes' new straight‑six with 48V mild‑hybrid technology — generally robust, with cooling system and 48V battery as primary watchpoints. OM654: proven modern diesel with AdBlue system issues as the main concern. OM656: the most powerful diesel six Mercedes has built — complex but well‑regarded."
+      "text": "OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a>, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, M256, M276 and OM656: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. M256: Mercedes' new straight‑six with 48V mild‑hybrid technology — generally robust, with cooling system and 48V battery as primary watchpoints. OM654: proven modern diesel with AdBlue system issues as the main concern. OM656: the most powerful diesel six Mercedes has built — complex but well‑regarded."
     },
     "dataCorrections": []
   },
@@ -425,7 +425,7 @@
       {
         "slot": "Best Diesel Overall",
         "engine": "OM656 2.9‑litre straight‑six diesel (E 400 d, 330–340hp)",
-        "quote": "The most powerful diesel six Mercedes has ever built — 340hp and 700Nm from a 2.9‑litre straight‑six. Smooth, effortless, and fundamentally robust, with none of the AdBlue system issues that plague the OM654. The OM656 is a genuine modern classic in the making.",
+        "quote": "The most powerful diesel six Mercedes has ever built — 340hp and 700Nm from a 2.9‑litre straight‑six. Smooth, effortless, and fundamentally robust, with none of the AdBlue system issues that plague the OM654. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> is a genuine modern classic in the making.",
         "whoItsFor": "buyers who want diesel refinement and effortless torque without the four‑cylinder's compromises."
       },
       {
@@ -455,7 +455,7 @@
       {
         "slot": "Most Overlooked",
         "engine": "M264 2.0‑litre mild‑hybrid (E 300 EQ Boost, 258hp)",
-        "quote": "The facelift replacement for the M274 — 258hp, 48V mild‑hybrid, and none of the M274's timing chain concerns. It sits in a sweet spot between the four and the six, offering genuine performance without the M256's running costs. Often overlooked in favour of the sixes.",
+        "quote": "The facelift replacement for the M274 — 258hp, 48V mild‑hybrid, and none of the M274's timing chain concerns. It sits in a sweet spot between the four and the six, offering genuine performance without the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>'s running costs. Often overlooked in favour of the sixes.",
         "whoItsFor": "buyers who want modern petrol efficiency without the six‑cylinder's fuel consumption."
       }
     ]
@@ -783,7 +783,7 @@
       {
         "id": 1,
         "question": "How much does a Mercedes‑Benz GLC‑Class X253 engine replacement cost in the UK?",
-        "answer": "A reconditioned X253 engine typically costs £1,500–£14,000 supply only [MB‑QUOTE], depending on engine — the volume OM651 diesel sits at £2,800–£4,800, while the AMG M177 V8 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
+        "answer": "A reconditioned X253 engine typically costs £1,500–£14,000 supply only [MB‑QUOTE], depending on engine — the volume OM651 diesel sits at £2,800–£4,800, while the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/amg-m176-m177'>AMG M177</a8 commands £8,000–£14,000. Fitting adds £650–£1,500. Use our calculator for a personalised figure."
       },
       {
         "id": 2,

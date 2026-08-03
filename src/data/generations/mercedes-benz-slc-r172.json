@@ -222,7 +222,7 @@
   "hero": {
     "tagPill": "Mercedes‑Benz SLC R172 • Roadster • 2016–2020",
     "h1": "Mercedes‑Benz SLC R172 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the R172 roadster — from the 1.6‑litre M274 to the 3.0‑litre V6 M276 in the SLC 43 AMG. Real UK replacement costs, honest reliability data, and the two‑seat roadster ownership realities that define this generation. Backed by real UK R172 enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the R172 roadster — from the 1.6‑litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> to the 3.0‑litre V6 M276 in the SLC 43 AMG. Real UK replacement costs, honest reliability data, and the two‑seat roadster ownership realities that define this generation. Backed by real UK R172 enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -454,7 +454,7 @@
         "title": "OM651 Timing Chain & Injector Seal Failure",
         "affectedModels": "R172 SLC 250 d (OM651.980).",
         "typicalFailureMileage": "60,000–120,000 miles.",
-        "rootCause": "The OM651 diesel four‑cylinder is known for two issues: timing chain tensioner wear (shared with the OM651 across the Mercedes range) and injector seal failure (\"Black Death\") — both are well‑documented and expensive to address if ignored.",
+        "rootCause": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om651'>OM651</a> diesel four‑cylinder is known for two issues: timing chain tensioner wear (shared with the OM651 across the Mercedes range) and injector seal failure (\"Black Death\") — both are well‑documented and expensive to address if ignored.",
         "tieredCosts": [],
         "recommendation": "A £500–£1,200 injector seal or chain inspection is dramatically cheaper than the £2,800–£4,800 replacement that follows if ignored — address it proactively.",
         "cta": {

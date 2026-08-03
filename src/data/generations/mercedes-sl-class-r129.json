@@ -476,13 +476,13 @@
     ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The M120 V12 and M119 V8 receive lower ratings due to documented coil pack / timing‑chain guide wear. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes SL‑Class Model Page."
+      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m120'>M120</a> V12 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> V8 receive lower ratings due to documented coil pack / timing‑chain guide wear. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes SL‑Class Model Page."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes SL R129 — Overview",
-    "intro": "The R129 is the fourth generation of the Mercedes‑Benz SL‑Class, a two‑seat roadster produced from May 1988 to 2001. Designed by Bruno Sacco and Johann Tomforde, the R129 replaced the long‑running R107 and introduced several innovations including a fully automated electro‑hydraulic fabric roof and pop‑up roll hoops. The engine range evolved across three distinct eras — from the original M103/M104 straight‑sixes and M119 V8, through the M104 updates and M120 V12 addition, to the final‑facelift M112 V6 and M113 V8 engines. The R129 was replaced by the R230 in 2002.",
+    "intro": "The R129 is the fourth generation of the Mercedes‑Benz SL‑Class, a two‑seat roadster produced from May 1988 to 2001. Designed by Bruno Sacco and Johann Tomforde, the R129 replaced the long‑running R107 and introduced several innovations including a fully automated electro‑hydraulic fabric roof and pop‑up roll hoops. The engine range evolved across three distinct eras — from the original <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m103'>M103</a>/M104 straight‑sixes and M119 V8, through the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> updates and M120 V12 addition, to the final‑facelift M112 V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 engines. The R129 was replaced by the R230 in 2002.",
     "keyFacts": "Platform: Mercedes‑Benz R129 • Predecessor: R107 • Successor: R230 • Sibling body styles in this generation: none (single roadster body style).",
     "marketIntelligenceLine": "No R129‑specific enquiry figure is available; the R129 remains a sought‑after classic, with the V8 and V12 variants generating the most enthusiast interest."
   },
@@ -714,7 +714,7 @@
         "title": "M113 / M112 Water Pump Failure",
         "affectedModels": "R129 SL 280, SL 320, SL 500 (M112 V6, M113 V8, 1998–2001).",
         "typicalFailureMileage": "80,000–150,000 miles.",
-        "rootCause": "The plastic water pump impeller on M112 and M113 engines can degrade, leading to coolant loss and potential overheating.",
+        "rootCause": "The plastic water pump impeller on <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> and M113 engines can degrade, leading to coolant loss and potential overheating.",
         "tieredCosts": [
           {
             "tier": "Preventative (Repair)",

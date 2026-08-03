@@ -282,7 +282,7 @@
           "label": "Immediate",
           "text": "if you notice any of these symptoms, stop driving immediately"
         },
-        "recommendation": "The M256 engine has a known coolant leak issue. In late 2022, Mercedes-Benz initiated a safety recall affecting S-Class W223 models with the M256 engine, impacting approximately 8,500 vehicles in the UK. The defect involves a potential coolant leak from the engine's cooling system, which could lead to complete engine failure or, in extreme cases, increase fire risk. Continued operation can destroy your engine in under 20 minutes. If your GLE53 AMG exhibits any of these symptoms, have the cooling system inspected immediately and check if your vehicle is affected by any recalls.",
+        "recommendation": "The M256 engine has a known coolant leak issue. In late 2022, Mercedes-Benz initiated a safety recall affecting S-Class W223 models with the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> engine, impacting approximately 8,500 vehicles in the UK. The defect involves a potential coolant leak from the engine's cooling system, which could lead to complete engine failure or, in extreme cases, increase fire risk. Continued operation can destroy your engine in under 20 minutes. If your GLE53 AMG exhibits any of these symptoms, have the cooling system inspected immediately and check if your vehicle is affected by any recalls.",
         "failureLink": {
           "label": "Read the full coolant leak guide",
           "href": "/failures/coolant-leak/"

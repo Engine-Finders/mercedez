@@ -748,7 +748,7 @@
         "labourHours": "16–20 hrs"
       }
     ],
-    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M254, OM654 or M139 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the X254's SUV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs — budget an additional £5,000–£10,000 for battery replacement outside warranty."
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a>, OM654 or M139 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the X254's SUV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs — budget an additional £5,000–£10,000 for battery replacement outside warranty."
   },
 "coreVariants": {
     "dieselVariants": [

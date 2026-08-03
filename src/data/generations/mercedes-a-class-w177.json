@@ -251,7 +251,7 @@
   "hero": {
     "tagPill": "Mercedes A‑Class W177 • Hatchback • 2018–present",
     "h1": "Mercedes A‑Class W177 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the fourth‑generation A‑Class hatchback — from the Renault‑developed M282 1.3‑litre petrol to the 421PS AMG M139 and the OM608/OM654 diesel range that splits this generation’s ownership story. Backed by real UK costs, honest failure data, and the cylinder‑head warranty that defines the M260’s reputation. Backed by 520+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the fourth‑generation A‑Class hatchback — from the Renault‑developed M282 1.3‑litre petrol to the 421PS AMG M139 and the OM608/OM654 diesel range that splits this generation’s ownership story. Backed by real UK costs, honest failure data, and the cylinder‑head warranty that defines the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260's</a> reputation. Backed by 520+ real UK enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -278,7 +278,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes A‑Class W177 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the W177 hatchback specifically — including the OM608 diesel (Renault K9K‑based), the M282 Renault‑Nissan‑Mercedes co‑development, and the M139 that powers the most powerful production four‑cylinder in the world.",
+    "subHeadline": "Every engine fitted to the W177 hatchback specifically — including the OM608 diesel (Renault K9K‑based), the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m282'>M282</a> Renault‑Nissan‑Mercedes co‑development, and the M139 that powers the most powerful production four‑cylinder in the world.",
     "columns": [
       "Engine Code",
       "Family",

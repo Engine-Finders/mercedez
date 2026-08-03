@@ -399,7 +399,7 @@
         "value": "First Generation — W163 M‑Class (1997–2005)"
       },
       {
-        "metric": "[1997–2005] • M112 3.2 V6 petrol • M113 4.3/5.0 V8 petrol • OM612/OM647 2.7/3.2 diesel",
+        "metric": "[1997–2005] • <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> 3.2 V6 petrol • <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> 4.3/5.0 V8 petrol • OM612/OM647 2.7/3.2 diesel",
         "value": "★★★☆☆"
       },
       {
@@ -523,7 +523,7 @@
         "avgRebuildCost": "£2,000–£4,000 [MB-QUOTE]"
       },
       {
-        "engineCode": "OM612/OM647",
+        "engineCode": "OM612/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om646-om647'>OM647</a>",
         "family": "OM612",
         "fuel": "Diesel",
         "displacement": "2.7/3.2L",
@@ -669,7 +669,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM642, OM651, M276 and M177 ratings: 95% confidence — based on 880, 1,250, 390 and 370 [MB-VERIFIED] enquiries respectively, cross‑referenced with Mercedes TSBs and specialist interviews. OM654 rating: 90% confidence — based on 520 [MB-VERIFIED] enquiries. OM656, M256 and heritage engine ratings: Expert‑knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: OM642 was listed in some sources as a 3.0L V6 diesel for the W164 only — verified as spanning W164, W166 and Sprinter, with 880 UK enquiries in 2025 [MB-VERIFIED]. [Fix at source: update generation coverage.] Correction applied: M276 is the correct V6 petrol for the W166 GLE 400/450 — not M278 (which is the 4.7L V8 fitted to the GLE 500). M276 generated 390 UK enquiries in 2025 [MB-VERIFIED]. [Fix at source: update engine code attribution.] No further corrections needed — source data matched live verification for all other engine codes."
+      "text": "OM642, OM651, M276 and M177 ratings: 95% confidence — based on 880, 1,250, 390 and 370 [MB-VERIFIED] enquiries respectively, cross‑referenced with Mercedes TSBs and specialist interviews. OM654 rating: 90% confidence — based on 520 [MB-VERIFIED] enquiries. OM656, M256 and heritage engine ratings: Expert‑knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: OM642 was listed in some sources as a 3.0L V6 diesel for the W164 only — verified as spanning W164, W166 and Sprinter, with 880 UK enquiries in 2025 [MB-VERIFIED]. [Fix at source: update generation coverage.] Correction applied: M276 is the correct V6 petrol for the W166 GLE 400/450 — not <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a> (which is the 4.7L V8 fitted to the GLE 500). M276 generated 390 UK enquiries in 2025 [MB-VERIFIED]. [Fix at source: update engine code attribution.] No further corrections needed — source data matched live verification for all other engine codes."
     },
     "dataCorrections": []
   },
@@ -825,7 +825,7 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We’d Tell Every GLE Buyer",
-    "quote": "Buy a 2015–2019 W166 GLE 350d with the OM642 V6 diesel — it’s the most reliable, best‑value GLE you can own. The oil cooler seal is a known, manageable £800–£1,500 repair, not a reason to avoid the car. If your budget stretches to a V167, choose the OM654 diesel and insist on full service history — the more complex OM656 and M256 engines are impressive but untested long‑term."
+    "quote": "Buy a 2015–2019 W166 GLE 350d with the OM642 V6 diesel — it’s the most reliable, best‑value GLE you can own. The oil cooler seal is a known, manageable £800–£1,500 repair, not a reason to avoid the car. If your budget stretches to a V167, choose the OM654 diesel and insist on full service history — the more complex <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> and M256 engines are impressive but untested long‑term."
   },
   "replacementCosts": {
     "h2": "GLE Engine Replacement Costs — By Generation",
@@ -844,7 +844,7 @@
         "rows": []
       }
     ],
-    "figuresNote": "Labour estimate: Fitting a GLE engine typically takes 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The GLE rule — generation and engine are everything: A £3,200–£5,500 OM642 recon against a £6,000–£22,000 W166 GLE sits at 25–50% of the car's value — well below our 70% threshold for Mercedes-Benz. That's why the W166 350d is our top used recommendation. By contrast, a £3,200–£5,500 OM642 recon against a £3,000–£6,000 W164 M‑Class sits at 50–90% of the car's value — borderline to terminal on lower-value examples. An OM651 recon against a £4,000–£8,000 W166 GLE 250d sits at 60–80% — watch the numbers. The V167's £8,000–£14,000 M177 AMG recon against a £30,000–£80,000+ car is comfortably safe. In short: fix a W166 350d, evaluate a W164 diesel carefully, and walk away from a W163 with a major failure unless it's a keeper or project.",
+    "figuresNote": "Labour estimate: Fitting a GLE engine typically takes 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The GLE rule — generation and engine are everything: A £3,200–£5,500 OM642 recon against a £6,000–£22,000 W166 GLE sits at 25–50% of the car's value — well below our 70% threshold for Mercedes-Benz. That's why the W166 350d is our top used recommendation. By contrast, a £3,200–£5,500 <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> recon against a £3,000–£6,000 W164 M‑Class sits at 50–90% of the car's value — borderline to terminal on lower-value examples. An OM651 recon against a £4,000–£8,000 W166 GLE 250d sits at 60–80% — watch the numbers. The V167's £8,000–£14,000 M177 AMG recon against a £30,000–£80,000+ car is comfortably safe. In short: fix a W166 350d, evaluate a W164 diesel carefully, and walk away from a W163 with a major failure unless it's a keeper or project.",
     "labourEstimate": "Fitting a GLE engine typically takes 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The GLE rule — generation and engine are everything: A £3,200–£5,500 OM642 recon against a £6,000–£22,000 W166 GLE sits at 25–50% of the car's value — well below our 70% threshold for Mercedes-Benz. That's why the W166 350d is our top used recommendation. By contrast, a £3,200–£5,500 OM642 recon against a £3,000–£6,000 W164 M‑Class sits at 50–90% of the car's value — borderline to terminal on lower-value examples. An OM651 recon against a £4,000–£8,000 W166 GLE 250d sits at 60–80% — watch the numbers. The V167's £8,000–£14,000 M177 AMG recon against a £30,000–£80,000+ car is comfortably safe. In short: fix a W166 350d, evaluate a W164 diesel carefully, and walk away from a W163 with a major failure unless it's a keeper or project.",
     "economicsBox": {
       "title": "",
@@ -864,7 +864,7 @@
       {
         "era": "First Generation — Body‑on‑Frame Off‑Roader",
         "years": "1997–2005",
-        "keyEngines": "M112 3.2 V6, M113 4.3/5.0 V8, OM612/OM647 2.7/3.2 diesel",
+        "keyEngines": "M112 3.2 V6, M113 4.3/5.0 V8, OM612/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om646-om647'>OM647</a> 2.7/3.2 diesel",
         "whyBmwChanged": "Mercedes launched the M‑Class as its first SUV, built in Alabama with body‑on‑frame construction — engines were carried over from the E‑Class and S‑Class of the era, tuned for off‑road torque rather than on‑road performance",
         "worthKnowing": "The OM612 2.7 CDI is the engine to seek in a W163 — it's the most fuel‑efficient and has the fewest major failure reports. The V8s are thirsty and expensive to fix if they go wrong"
       },
@@ -887,7 +887,7 @@
         "years": "2020–present",
         "keyEngines": "OM654 2.0, OM656 3.0 I6, M256 3.0 I6, M177 4.0 V8, EQ Hybrids",
         "whyBmwChanged": "The V167 is an all‑new platform with electrification baked in — 48V mild hybrid across the range, plus plug‑in hybrids. The OM656 inline‑six diesel and M256 inline‑six petrol are new, replacing the V6s. Complexity has increased significantly",
-        "worthKnowing": "The OM654 four‑cylinder diesel is the safest V167 engine choice — simpler, proven, and with lower running costs. The OM656 and M256 are impressive but specialist‑only territory. 48V system issues are increasingly common and expensive"
+        "worthKnowing": "The OM654 four‑cylinder diesel is the safest V167 engine choice — simpler, proven, and with lower running costs. The OM656 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> are impressive but specialist‑only territory. 48V system issues are increasingly common and expensive"
       },
       {
         "era": "SECTION 10 — WHO SHOULD BUY A GLE? — <WhoShouldBuy>",
@@ -987,7 +987,7 @@
       {
         "id": 5,
         "question": "Is it worth replacing a GLE engine?",
-        "answer": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your car's current market value, get a scrap valuation before committing. * W163 M‑Class — £1,500–£4,000 recon against a £1,500–£5,000 car = 40–80% — borderline to non‑viable. * W164 M‑Class (OM642) — £3,200–£5,500 recon against a £3,000–£10,000 car = 50–90% — borderline on lower‑value examples, safe on better cars. * W166 GLE (OM642) — £3,200–£5,500 recon against a £6,000–£22,000 car = 25–50% — worth replacing. * W166 GLE (OM651) — £2,800–£4,800 recon against a £4,000–£12,000 car = 40–80% — borderline. * V167 GLE — £3,000–£14,000 recon against an £18,000–£80,000+ car = 10–40% — worth replacing (AMG M177 is specialist territory but within the car's value). Use our Ownership Decision Tool for a personalised assessment."
+        "answer": "Apply the 70% rule: if a reconditioned engine costs 70% or more of your car's current market value, get a scrap valuation before committing. * W163 M‑Class — £1,500–£4,000 recon against a £1,500–£5,000 car = 40–80% — borderline to non‑viable. * W164 M‑Class (OM642) — £3,200–£5,500 recon against a £3,000–£10,000 car = 50–90% — borderline on lower‑value examples, safe on better cars. * W166 GLE (OM642) — £3,200–£5,500 recon against a £6,000–£22,000 car = 25–50% — worth replacing. * W166 GLE (OM651) — £2,800–£4,800 recon against a £4,000–£12,000 car = 40–80% — borderline. * V167 GLE — £3,000–£14,000 recon against an £18,000–£80,000+ car = 10–40% — worth replacing (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/amg-m176-m177'>AMG M177</a> is specialist territory but within the car's value). Use our Ownership Decision Tool for a personalised assessment."
       },
       {
         "id": 6,

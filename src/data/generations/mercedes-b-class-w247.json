@@ -272,7 +272,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes B-Class W247 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the W247 specifically — including the Renault-sourced M282 petrol, the Mercedes-developed M260, and the OM654 diesel family.",
+    "subHeadline": "Every engine fitted to the W247 specifically — including the Renault-sourced <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m282'>M282</a> petrol, the Mercedes-developed <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260</a>, and the OM654 diesel family.",
     "columns": [
       "Engine Code",
       "Family",
@@ -364,7 +364,7 @@
       {
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (B200d/B220d)",
-        "quote": "Mercedes' own 2.0-litre diesel, introduced in 2016, replaces the ageing OM651 with a lighter, more efficient design. It's the pick of the W247 range — smooth, torquey, and backed by a strong reliability record.",
+        "quote": "Mercedes' own 2.0-litre diesel, introduced in 2016, replaces the ageing <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om651'>OM651</a> with a lighter, more efficient design. It's the pick of the W247 range — smooth, torquey, and backed by a strong reliability record.",
         "whoItsFor": "buyers who want a modern, efficient diesel without the Renault-sourced compromises."
       },
       {

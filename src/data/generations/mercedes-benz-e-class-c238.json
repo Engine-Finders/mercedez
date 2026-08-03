@@ -234,7 +234,7 @@
   "hero": {
     "tagPill": "Mercedes‑Benz E‑Class C238 • Coupé • 2017–2023",
     "h1": "Mercedes‑Benz E‑Class C238 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the C238 coupé — from the 2.0‑litre M274 petrol to the 3.0‑litre straight‑six M256 in the E 450 and AMG E 53. Real UK replacement costs, honest reliability data, and the coupe‑specific running costs that define this generation. Backed by real UK C238 enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the C238 coupé — from the 2.0‑litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> petrol to the 3.0‑litre straight‑six M256 in the E 450 and AMG E 53. Real UK replacement costs, honest reliability data, and the coupe‑specific running costs that define this generation. Backed by real UK C238 enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -410,13 +410,13 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M274, M264, M256, M276 and OM656: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. M256: Mercedes' new straight‑six with 48V mild‑hybrid technology — generally robust, with cooling system and 48V battery as primary watchpoints. OM654: proven modern diesel with AdBlue system issues as the main concern. OM656: the most powerful diesel six Mercedes has built — complex but well‑regarded."
+      "text": "OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M274, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, M256, M276 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a>: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. M256: Mercedes' new straight‑six with 48V mild‑hybrid technology — generally robust, with cooling system and 48V battery as primary watchpoints. OM654: proven modern diesel with AdBlue system issues as the main concern. OM656: the most powerful diesel six Mercedes has built — complex but well‑regarded."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes‑Benz E‑Class C238 — Overview",
-    "intro": "The C238 is the coupé bodystyle of the tenth‑generation Mercedes‑Benz E‑Class, launched in spring 2017 as the successor to the C207. It marked a significant shift: unlike its predecessor and the CLK before it, the C238 shared its proper executive‑sized platform with the W213 E‑Class saloon — making it substantially larger and more sophisticated. A major 2020 facelift brought mild‑hybrid technology to the petrol line‑up, replacing the V6 with the M256 straight‑six and introducing the OM654 M diesel with integrated starter‑generator. Every C238 is powered by a longitudinally‑mounted four or six‑cylinder engine, driving the rear wheels or 4MATIC all‑wheel drive.",
+    "intro": "The C238 is the coupé bodystyle of the tenth‑generation Mercedes‑Benz E‑Class, launched in spring 2017 as the successor to the C207. It marked a significant shift: unlike its predecessor and the CLK before it, the C238 shared its proper executive‑sized platform with the W213 E‑Class saloon — making it substantially larger and more sophisticated. A major 2020 facelift brought mild‑hybrid technology to the petrol line‑up, replacing the V6 with the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> straight‑six and introducing the OM654 M diesel with integrated starter‑generator. Every C238 is powered by a longitudinally‑mounted four or six‑cylinder engine, driving the rear wheels or 4MATIC all‑wheel drive.",
     "keyFacts": "Platform: Mercedes‑Benz MRA (Modular Rear Architecture) • Predecessor: C207 • Successor: C236 (CLE) • Sibling body styles in this generation: W213 Saloon, S213 Estate, A238 Cabriolet.",
     "marketIntelligenceLine": "The E‑Class range (W213/S213/C238/A238 combined) generated real UK engine enquiries in 2025 [MB‑VERIFIED], with the OM654 diesel and M256 petrol commanding the strongest specialist interest."
   },

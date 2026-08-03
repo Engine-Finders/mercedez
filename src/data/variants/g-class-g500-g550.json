@@ -217,7 +217,7 @@
   "hero": {
     "tagPill": "Mercedes G500 / G550 • 1998–present • 4 Engine Generations (M113, M273, M176 & M256)",
     "h1": "Mercedes G500 / G550 Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "Get quotes today from trusted UK Mercedes G-Class specialists. The G500 and G550 badges span four V8 and inline-six engine generations — from the bulletproof M113 to the modern M256 with mild hybrid — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "subHeadline": "Get quotes today from trusted UK Mercedes G-Class specialists. The G500 and G550 badges span four V8 and inline-six engine generations — from the bulletproof M113 to the modern <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> with mild hybrid — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12-Month Warranty",
@@ -471,7 +471,7 @@
         "* Check engine light with timing-related codes"
       ]
     },
-    "closingVerdict": "The G500/G550 badge spans four very different engine generations. The M113 (1998–2008) is widely regarded as \"rock solid\" and \"bulletproof\" — the M113 motor found on the G500 from 2002 to 2013 is known to be rock solid from a reliability standpoint. The M273 (2009–2015) introduced balance shaft and camshaft adjuster problems. The M176 (2016–2024) is a modern biturbo V8 with documented timing chain stretch and camshaft adjuster failures. The M256 (2025–present) adds 48V mild-hybrid complexity. Buy a pre-2009 M113 if you want the most durable option. Buy a well-maintained later engine with documented service history. Buy on documented history, not on generation alone.",
+    "closingVerdict": "The G500/G550 badge spans four very different engine generations. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> (1998–2008) is widely regarded as \"rock solid\" and \"bulletproof\" — the M113 motor found on the G500 from 2002 to 2013 is known to be rock solid from a reliability standpoint. The M273 (2009–2015) introduced balance shaft and camshaft adjuster problems. The M176 (2016–2024) is a modern biturbo V8 with documented timing chain stretch and camshaft adjuster failures. The M256 (2025–present) adds 48V mild-hybrid complexity. Buy a pre-2009 M113 if you want the most durable option. Buy a well-maintained later engine with documented service history. Buy on documented history, not on generation alone.",
     "cta": {
       "label": "→ Compare G500 / G550 engine prices before you buy",
       "href": "#"

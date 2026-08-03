@@ -274,9 +274,9 @@
     }
   },
   "hero": {
-    "tagPill": "Mercedes-Benz • CLK • 1997–2009 • 2 Generations • M111 • M112 • M113 • OM612 • OM642 • M272 • M156",
+    "tagPill": "Mercedes-Benz • CLK • 1997–2009 • 2 Generations • M111 • <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> • M113 • OM612 • OM642 • M272 • M156",
     "h1": "CLK Engines — The Complete UK Guide",
-    "subHeadline": "Every CLK engine — from the M111 Kompressor four-cylinder to the M156 V8 in the 63 AMG. Two generations (W208 1997–2003 and W209 2002–2009), complete cost data, and honest verdicts on which CLK is still worth owning. Backed by real UK enquiry data [PATTERN DATA].",
+    "subHeadline": "Every CLK engine — from the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> Kompressor four-cylinder to the M156 V8 in the 63 AMG. Two generations (W208 1997–2003 and W209 2002–2009), complete cost data, and honest verdicts on which CLK is still worth owning. Backed by real UK enquiry data [PATTERN DATA].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -407,7 +407,7 @@
   "badge": "",
   "meta": "2002–2009 • M271 petrol • M272 petrol • OM646 diesel • OM642 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The second-generation CLK cabriolet—based on the W203 platform. M272 V6 is the most reliable; OM642 V6 diesel is well-understood. Cabriolet values (£4k–£12k) make replacement borderline on sub-£6k examples.",
+  "verdict": "The second-generation CLK cabriolet—based on the W203 platform. M272 V6 is the most reliable; <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel is well-understood. Cabriolet values (£4k–£12k) make replacement borderline on sub-£6k examples.",
   "cta": {
     "label": "Explore A209 →",
     "href": "https://mercedesengines.uk/clk/a209"
@@ -418,7 +418,7 @@
   "badge": "",
   "meta": "1997–2003 • M112 petrol • M113 petrol • OM611 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The CLK coupé—a stylish W202-based two-door with a distinctive look. M112 V6 and M113 V8 are robust; OM611 diesel is reliable but uncommon. Values (£3k–£8k) make replacement borderline on sub-£4k examples.",
+  "verdict": "The CLK coupé—a stylish W202-based two-door with a distinctive look. M112 V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 are robust; OM611 diesel is reliable but uncommon. Values (£3k–£8k) make replacement borderline on sub-£4k examples.",
   "cta": {
     "label": "Explore C208 →",
     "href": "https://mercedesengines.uk/clk/c208"

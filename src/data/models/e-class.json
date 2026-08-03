@@ -256,7 +256,7 @@
   "hero": {
     "tagPill": "Mercedes • E-Class • 1993–present • 5 Generations • OM651 • OM642 • OM654 • M276",
     "h1": "E-Class Engines — The Complete UK Guide",
-    "subHeadline": "Every E-Class engine — from the W210's M104 straight-six to the W214's electrified OM654 and M254 — covered across five generations. Real UK replacement costs, known failure patterns including OM651 \"Black Death\" and OM642 oil cooler seals, and honest repair-vs-replace economics. Backed by 1,018+ real UK E-Class engine enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every E-Class engine — from the W210's <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</atraight-six to the W214's electrified OM654 and M254 — covered across five generations. Real UK replacement costs, known failure patterns including OM651 \"Black Death\" and OM642 oil cooler seals, and honest repair-vs-replace economics. Backed by 1,018+ real UK E-Class engine enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -442,7 +442,7 @@
   "badge": "",
   "meta": "2003–2009 • M271 petrol • OM646 diesel • OM642 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The W211 estate—a practical workhorse with the same engines. Estate values are slightly stronger, but the same economics apply: OM642 recon borderline on sub-£8k examples.",
+  "verdict": "The W211 estate—a practical workhorse with the same engines. Estate values are slightly stronger, but the same economics apply: <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> recon borderline on sub-£8k examples.",
   "cta": {
     "label": "Explore S211 →",
     "href": "https://mercedesengines.uk/e-class/s211"
@@ -484,9 +484,9 @@
 {
   "title": "W210 (1995–2003)",
   "badge": "🔥 Most Enquired — 234 enquiries (2025) [MB-VERIFIED]",
-  "meta": "1995–2003 • M111 petrol • M112 petrol • M113 petrol • OM606 diesel • OM611 diesel",
+  "meta": "1995–2003 • M111 petrol • <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</aetrol • M113 petrol • OM606 diesel • OM611 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The second-generation E-Class—a significant improvement in refinement. M112 V6 and M113 V8 are robust; OM606 diesel is legendary. W210 values (£2.5k–£9k) mean OM642 recon on sub-£5k examples approaches scrap threshold.",
+  "verdict": "The second-generation E-Class—a significant improvement in refinement. M112 V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 are robust; OM606 diesel is legendary. W210 values (£2.5k–£9k) mean OM642 recon on sub-£5k examples approaches scrap threshold.",
   "cta": {
     "label": "Explore W210 →",
     "href": "https://mercedesengines.uk/e-class/w210"
@@ -519,7 +519,7 @@
   "badge": "🔥 Most Enquired — 214 enquiries (2025) [MB-VERIFIED]",
   "meta": "2016–2023 • M274 petrol • M276 petrol • OM654 diesel • OM642 diesel",
   "rating": "★★★★☆",
-  "verdict": "The fifth-generation E-Class—a significant leap in quality and technology. OM654 diesel is a cleaner, more reliable design than OM651; M274 petrol is robust. W213 values (£14k–£35k) make replacement safe across all variants.",
+  "verdict": "The fifth-generation E-Class—a significant leap in quality and technology. OM654 diesel is a cleaner, more reliable design than OM651; <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> petrol is robust. W213 values (£14k–£35k) make replacement safe across all variants.",
   "cta": {
     "label": "Explore W213 →",
     "href": "https://mercedesengines.uk/e-class/w213"
@@ -539,7 +539,7 @@
       {
         "title": "W210 (1995–2003)",
         "badge": "",
-        "meta": "1995–2003 • M104 inline-six, M119 V8, OM606 diesel",
+        "meta": "1995–2003 • M104 inline-six, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> V8, OM606 diesel",
         "rating": "★★★☆☆",
         "verdict": "The \"Eyes\" E-Class — distinctive quad-headlamps, but rust is the real enemy now, not the engines. Low values mean most engine replacements fail the economics test. Buy only if rust-free and fully documented.",
         "cta": {
@@ -583,7 +583,7 @@
       {
         "title": "W214 (2023–present)",
         "badge": "",
-        "meta": "2023–present • OM654 (mild-hybrid diesel), M254 (mild-hybrid petrol), plug-in hybrids",
+        "meta": "2023–present • OM654 (mild-hybrid diesel), <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> (mild-hybrid petrol), plug-in hybrids",
         "rating": "★★★★★",
         "verdict": "The all-new E-Class — fully electrified powertrain line-up, all inline-four configurations. Too new for long-term reliability data, but the OM654's track record suggests it's a safe bet. Premium pricing reflects the new-generation tech.",
         "cta": {
@@ -1003,7 +1003,7 @@
       {
         "buyerProfile": "Towing & Working Use",
         "rating": "★★★★★",
-        "verdict": "The E-Class estate and the OM654/OM656 diesels are exceptional for towing — 2,000 kg braked towing capacity, 500+ Nm of torque, and the 9G-Tronic gearbox handles load effortlessly. The W213 with the OM656 straight-six is the pick."
+        "verdict": "The E-Class estate and the OM654/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> diesels are exceptional for towing — 2,000 kg braked towing capacity, 500+ Nm of torque, and the 9G-Tronic gearbox handles load effortlessly. The W213 with the OM656 straight-six is the pick."
       },
       {
         "buyerProfile": "Long-Term Keeper",

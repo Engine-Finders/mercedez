@@ -251,7 +251,7 @@
   "hero": {
     "tagPill": "Mercedes CLS C219 • Coupé • 2004–2010",
     "h1": "Mercedes CLS C219 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the first‑generation four‑door coupé — from the M272 V6 petrol to the M113 and M156 V8s and the OM642 V6 diesel. Real UK costs, honest failure data, and the AMG‑tuned engines that made this the pioneer of the four‑door coupé segment. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the first‑generation four‑door coupé — from the M272 V6 petrol to the <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> and M156 V8s and the OM642 V6 diesel. Real UK costs, honest failure data, and the AMG‑tuned engines that made this the pioneer of the four‑door coupé segment. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -442,7 +442,7 @@
       {
         "slot": "Best Value",
         "engine": "OM642 (CLS 320 CDI)",
-        "quote": "“The entry‑level diesel shares the same robust OM642 architecture as the more powerful 350 CDI — but costs less to buy and less to replace. Oil cooler seals and swirl flaps are the only real demands.” Who it’s for: Buyers who want diesel economy on a tighter budget.",
+        "quote": "“The entry‑level diesel shares the same robust <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> architecture as the more powerful 350 CDI — but costs less to buy and less to replace. Oil cooler seals and swirl flaps are the only real demands.” Who it’s for: Buyers who want diesel economy on a tighter budget.",
         "whoItsFor": ""
       },
       {

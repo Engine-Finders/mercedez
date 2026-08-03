@@ -308,7 +308,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes C-Class A205 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the A205 cabriolet specifically — from the pre‑facelift M274 and OM651 units to the facelift M264 and OM654 families, plus the M177 V8 that powers the C63 AMG.",
+    "subHeadline": "Every engine fitted to the A205 cabriolet specifically — from the pre‑facelift <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> and OM651 units to the facelift <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a> and OM654 families, plus the M177 V8 that powers the C63 AMG.",
     "columns": [
       "Engine Code",
       "Family",
@@ -730,7 +730,7 @@
         "labourHours": "16–20 hrs"
       }
     ],
-    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M274, M264, OM651, OM654 or M177 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., BMW B58B30, Mercedes OM642), adjusted for the A205's cabriolet‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M274, M264, OM651, OM654 or M177 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines (e.g., BMW B58B30, Mercedes <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a>), adjusted for the A205's cabriolet‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
 "coreVariants": {
     "dieselVariants": [

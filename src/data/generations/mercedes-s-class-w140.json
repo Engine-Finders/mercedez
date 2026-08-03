@@ -446,7 +446,7 @@
   },
   "overview": {
     "h2": "Mercedes S‑Class W140 — Overview",
-    "intro": "The W140 is the third generation of the Mercedes‑Benz S‑Class, a flagship full‑size luxury saloon produced from April 1991 to September 1998. Unveiled at the Geneva International Motor Show in March 1991, it succeeded the W126 and introduced a V12 engine for the first time in a post‑war Mercedes‑Benz passenger car. The W140 is renowned for its over‑engineered build quality, advanced technology, and the legendary M120 V12 — developed after BMW's surprise V12 announcement forced Mercedes to delay the W140's launch by 18 months. The range included short‑ and long‑wheelbase saloons, with the coupé (C140) later spun off as the CL‑Class in 1996.",
+    "intro": "The W140 is the third generation of the Mercedes‑Benz S‑Class, a flagship full‑size luxury saloon produced from April 1991 to September 1998. Unveiled at the Geneva International Motor Show in March 1991, it succeeded the W126 and introduced a V12 engine for the first time in a post‑war Mercedes‑Benz passenger car. The W140 is renowned for its over‑engineered build quality, advanced technology, and the legendary <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m120'>M120</a> V12 — developed after BMW's surprise V12 announcement forced Mercedes to delay the W140's launch by 18 months. The range included short‑ and long‑wheelbase saloons, with the coupé (C140) later spun off as the CL‑Class in 1996.",
     "keyFacts": "Platform: Mercedes‑Benz W140 • Predecessor: W126 • Successor: W220 • Sibling body styles in this generation: C140 Coupé (1992–1998, later CL‑Class).",
     "marketIntelligenceLine": "No W140‑specific enquiry figure is available; the W140 remains a sought‑after classic, with the M120 V12 and M119 V8 variants generating the most enthusiast interest."
   },
@@ -559,7 +559,7 @@
       },
       {
         "question": "Which W140 Is Best Value?",
-        "answer": "S 500 (M119 5.0 V8) — V8 prestige without V12 running costs."
+        "answer": "S 500 (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> 5.0 V8) — V8 prestige without V12 running costs."
       }
     ]
   },
@@ -654,7 +654,7 @@
         "title": "M104 Head Gasket Failure",
         "affectedModels": "W140 300 SE, S 280, S 320 (M104 straight‑six petrol).",
         "typicalFailureMileage": "100,000–200,000 miles.",
-        "rootCause": "The M104 straight‑six can develop head gasket leaks, particularly if the cooling system has been neglected. Early signs include coolant loss and oil contamination.",
+        "rootCause": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> straight‑six can develop head gasket leaks, particularly if the cooling system has been neglected. Early signs include coolant loss and oil contamination.",
         "tieredCosts": [
           {
             "tier": "Preventative (Repair)",

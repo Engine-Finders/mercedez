@@ -294,7 +294,7 @@
   "hero": {
     "tagPill": "Mercedes R-Class W251 • MPV • 2005–2017",
     "h1": "Mercedes R-Class W251 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the Grand Sports Tourer — from the OM642 V6 diesel to the M272/M276 V6 petrols, the M113/M273 V8s and the fire-breathing R 63 AMG. Backed by real UK enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the Grand Sports Tourer — from the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel to the M272/M276 V6 petrols, the M113/M273 V8s and the fire-breathing R 63 AMG. Backed by real UK enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -461,7 +461,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "The R-Class engine range is defined by variety — and some notable pitfalls. For most buyers, the OM642 V6 diesel (R 280/320/350 CDI) is the standout: smooth, refined and robust with few major failure modes beyond the well-documented oil cooler seal leak and injector seal issues. The M272 V6 petrol (R 280/R 350) is a solid choice, but early examples suffer from the infamous balance shaft sprocket wear — a costly repair that can exceed £2,000. The later M276 V6 is a significant improvement, addressing many of the M272's weaknesses. The M113/M273 V8s (R 500) deliver effortless V8 grunt, with the M273's 5.5-litre unit offering 388 bhp — but running costs are high and the M273 can suffer from timing chain and cam adjuster issues. The R 63 AMG (M156 V8) is a genuine rarity: 510 bhp from a handbuilt 6.2-litre V8, but it was produced for just one model year and is both rare and expensive to maintain. Buying instruction: for long-term ownership, the OM642 diesel is the most reliable choice; for petrol buyers, prioritise post-2012 M276-engined cars and avoid early M272 examples without documented balance shaft work.",
+        "quote": "The R-Class engine range is defined by variety — and some notable pitfalls. For most buyers, the OM642 V6 diesel (R 280/320/350 CDI) is the standout: smooth, refined and robust with few major failure modes beyond the well-documented oil cooler seal leak and injector seal issues. The M272 V6 petrol (R 280/R 350) is a solid choice, but early examples suffer from the infamous balance shaft sprocket wear — a costly repair that can exceed £2,000. The later M276 V6 is a significant improvement, addressing many of the M272's weaknesses. The <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>/M273 V8s (R 500) deliver effortless V8 grunt, with the M273's 5.5-litre unit offering 388 bhp — but running costs are high and the M273 can suffer from timing chain and cam adjuster issues. The R 63 AMG (M156 V8) is a genuine rarity: 510 bhp from a handbuilt 6.2-litre V8, but it was produced for just one model year and is both rare and expensive to maintain. Buying instruction: for long-term ownership, the OM642 diesel is the most reliable choice; for petrol buyers, prioritise post-2012 M276-engined cars and avoid early M272 examples without documented balance shaft work.",
         "whoItsFor": ""
       }
     ]

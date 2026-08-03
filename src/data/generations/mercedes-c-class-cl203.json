@@ -251,7 +251,7 @@
               "name": "How long do Mercedes CL203 engines last?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The OM642 V6 diesel can exceed 200,000 miles with proper servicing and oil cooler maintenance. The M111 petrols can reach 150,000+ miles. The M271's life is limited by the timing chain; addressed proactively, it can also reach high mileages. The CL203's rust issues often end the car's life before the engine."
+                "text": "The OM642 V6 diesel can exceed 200,000 miles with proper servicing and oil cooler maintenance. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> petrols can reach 150,000+ miles. The M271's life is limited by the timing chain; addressed proactively, it can also reach high mileages. The CL203's rust issues often end the car's life before the engine."
               }
             },
             {
@@ -530,7 +530,7 @@
   },
   "overview": {
     "h2": "Mercedes C-Class CL203 — Overview",
-    "intro": "The Mercedes-Benz C-Class SportCoupé — internally designated CL203 — launched in October 2000 as a three-door hatchback-coupé based on the W203 C-Class platform. Designed to compete with the BMW 3 Series Compact, the CL203 offered coupé styling with hatchback practicality. A major facelift in spring 2004 refreshed the engine line-up, introducing the M271 supercharged four-cylinders and the OM642 V6 diesel. From 2008, the car was rebadged as the CLC-Class and continued in production until February 2011. Around 370,000 examples were produced.",
+    "intro": "The Mercedes-Benz C-Class SportCoupé — internally designated CL203 — launched in October 2000 as a three-door hatchback-coupé based on the W203 C-Class platform. Designed to compete with the BMW 3 Series Compact, the CL203 offered coupé styling with hatchback practicality. A major facelift in spring 2004 refreshed the engine line-up, introducing the M271 supercharged four-cylinders and the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel. From 2008, the car was rebadged as the CLC-Class and continued in production until February 2011. Around 370,000 examples were produced.",
     "keyFacts": "Platform: Mercedes W203 (shared with saloon/estate) • Predecessor: None (new model line) • Successor: C204 (W204-based coupé) • Sibling body styles in this generation: W203 Saloon, S203 Estate.",
     "marketIntelligenceLine": "No [MB-VERIFIED] enquiry data exists for the CL203 — the model is absent from EM_Proprietary_Data's per-model table, reflecting its lower-volume UK status compared to the C-Class saloon."
   },
@@ -539,7 +539,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "The CL203's engine range offers genuine variety — and genuine pitfalls. For diesel buyers, the OM642 V6 in the C320 CDI (post-2005) is the standout: smooth, refined and robust with few major failure modes. The M271 four-cylinder petrols (C180/C200 Kompressor) are the volume choice, but they carry a significant risk: timing chain and camshaft adjuster wear that can lead to catastrophic engine failure from as early as 45,000 miles. The M111 engines in pre-facelift cars (C180/C230 Kompressor) are simpler and more durable than the M271, but they're older and less refined. The C32 AMG (M112 supercharged V6) and C55 AMG (M113 V8) are genuine performance icons — rapid, charismatic and well-supported — but running costs are substantial. The rare C30 CDI AMG is a collector's piece: the only diesel AMG ever made, with 231 bhp from a 3.0-litre five-cylinder, but parts are now scarce. Buying instruction: prioritise post-2005 C320 CDI diesels or well-maintained C180 Kompressors with documented timing chain history — and avoid any M271-engined car without proof of chain and cam adjuster work.",
+        "quote": "The CL203's engine range offers genuine variety — and genuine pitfalls. For diesel buyers, the OM642 V6 in the C320 CDI (post-2005) is the standout: smooth, refined and robust with few major failure modes. The M271 four-cylinder petrols (C180/C200 Kompressor) are the volume choice, but they carry a significant risk: timing chain and camshaft adjuster wear that can lead to catastrophic engine failure from as early as 45,000 miles. The M111 engines in pre-facelift cars (C180/C230 Kompressor) are simpler and more durable than the M271, but they're older and less refined. The C32 AMG (M112 supercharged V6) and C55 AMG (<Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8) are genuine performance icons — rapid, charismatic and well-supported — but running costs are substantial. The rare C30 CDI AMG is a collector's piece: the only diesel AMG ever made, with 231 bhp from a 3.0-litre five-cylinder, but parts are now scarce. Buying instruction: prioritise post-2005 C320 CDI diesels or well-maintained C180 Kompressors with documented timing chain history — and avoid any M271-engined car without proof of chain and cam adjuster work.",
         "whoItsFor": ""
       }
     ]
@@ -627,7 +627,7 @@
     "keyTakeaways": [
       {
         "question": "Which CL203 Costs Least To Own?",
-        "answer": "C200 CDI (OM611) — simple diesel, robust, cheap parts."
+        "answer": "C200 CDI (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a>) — simple diesel, robust, cheap parts."
       },
       {
         "question": "Which CL203 Costs Most To Own?",

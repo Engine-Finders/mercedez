@@ -396,7 +396,7 @@
           "label": "Monitor",
           "text": "book inspection if throttle response issues develop"
         },
-        "recommendation": "The M112 and M113 are known for faulty accelerator pedal sensors. Symptoms include delayed throttle response, particularly when the engine is warm. The engine may enter limp mode with very slow revving. Replacing the pedal sensor is a relatively inexpensive fix. If you experience throttle response issues, have the pedal sensor checked.",
+        "recommendation": "The M112 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> are known for faulty accelerator pedal sensors. Symptoms include delayed throttle response, particularly when the engine is warm. The engine may enter limp mode with very slow revving. Replacing the pedal sensor is a relatively inexpensive fix. If you experience throttle response issues, have the pedal sensor checked.",
         "failureLink": {
           "label": "Read the full accelerator pedal sensor guide → /failures/accelerator-pedal-sensor/ [NEW FAILURE PAGE NEEDED]",
           "href": "#"

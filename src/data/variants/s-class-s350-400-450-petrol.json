@@ -211,7 +211,7 @@
   "hero": {
     "tagPill": "Mercedes-Benz S-Class S350 / S400 / S450 Petrol • 2011–present • 2 Engine Generations",
     "h1": "Mercedes-Benz S-Class S350 / S400 / S450 Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "The S350, S400 and S450 petrol badges span two generations of Mercedes flagship engines — the naturally aspirated and turbocharged M276 V6, and the modern M256 turbocharged straight-six with 48V mild-hybrid technology. Get quotes from trusted UK Mercedes specialists for both eras, supply & fit available nationwide.",
+    "subHeadline": "The S350, S400 and S450 petrol badges span two generations of Mercedes flagship engines — the naturally aspirated and turbocharged M276 V6, and the modern <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> turbocharged straight-six with 48V mild-hybrid technology. Get quotes from trusted UK Mercedes specialists for both eras, supply & fit available nationwide.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12-Month Warranty",
@@ -262,7 +262,7 @@
         "engineCode": "M256 (3.0L I6)",
         "reliability": "★★★★☆ [NEWLY ASSIGNED — see Data Note]",
         "reconCost": "£5,500–£12,000 [PLACEHOLDER — confirm vs cost sheet]",
-        "eraNote": "362–367 PS — first straight-six since M104, 48V EQ Boost, coolant recalls"
+        "eraNote": "362–367 PS — first straight-six since <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a>, 48V EQ Boost, coolant recalls"
       },
       {
         "generation": "S-Class W223 (S450)",
