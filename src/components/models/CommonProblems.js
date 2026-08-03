@@ -19,12 +19,12 @@ export default function CommonProblems({ data }) {
             <tr key={row.id}>
               <td dangerouslySetInnerHTML={{ __html: row.id }} />
               <td dangerouslySetInnerHTML={{ __html: row.issue }} />
-              <td dangerouslySetInnerHTML={{ __html: row.description }} />
+              <td dangerouslySetInnerHTML={{__html: row.description }} />
               <td>
                 {row.severity?.icon} <span dangerouslySetInnerHTML={{ __html: row.severity?.label }} />
               </td>
               <td>
-                {row.link && <a style='font-weight: bold;' href={row.link.href} dangerouslySetInnerHTML={{ __html: row.link.label }} />}
+                {row.link && <a  href={row.link.href} dangerouslySetInnerHTML={{ __html: row.link.label }} />}
               </td>
             </tr>
           ))}

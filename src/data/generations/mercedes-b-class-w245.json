@@ -505,7 +505,7 @@
         "title": "OM640 Diesel Injector Seal Failure (\"Black Death\")",
         "affectedModels": "W245 B180 CDI, B200 CDI (OM640.940/941).",
         "typicalFailureMileage": "80,000–130,000 miles.",
-        "rootCause": "The injector seals on the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om640'>OM640</a> diesel engine degrade over time, allowing combustion gases to escape past the seal. This causes a characteristic black, tar-like carbon buildup around the injector — known in Mercedes circles as \"Black Death\" — which can eventually seize the injector in the cylinder head.",
+        "rootCause": "The injector seals on the <a  href='https://mercedesengines.uk/engine/om640'>OM640</a> diesel engine degrade over time, allowing combustion gases to escape past the seal. This causes a characteristic black, tar-like carbon buildup around the injector — known in Mercedes circles as \"Black Death\" — which can eventually seize the injector in the cylinder head.",
         "tieredCosts": [],
         "recommendation": "At the first sign of a diesel smell in the cabin or visible black residue around injectors, get the seals inspected immediately — a £400–£800 seal replacement is far cheaper than the £900–£1,500 head repair that follows if ignored.",
         "cta": {
@@ -518,7 +518,7 @@
         "title": "M266 Petrol Timing Chain Stretch",
         "affectedModels": "W245 B150, B170, B180, B200 Turbo (M266.920/940/960/980).",
         "typicalFailureMileage": "80,000–120,000 miles (earlier on B170).",
-        "rootCause": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m266'>M266</a> petrol engines use a single-row timing chain that can stretch over time. Critical signs include rattling on cold start, misfiring, or a sudden drop in oil pressure. The B170 (M266.940) is particularly prone to this issue.",
+        "rootCause": "The <a  href='https://mercedesengines.uk/engine/m266'>M266</a> petrol engines use a single-row timing chain that can stretch over time. Critical signs include rattling on cold start, misfiring, or a sudden drop in oil pressure. The B170 (M266.940) is particularly prone to this issue.",
         "tieredCosts": [],
         "recommendation": "On any W245 petrol over 80,000 miles with no documented chain history, budget for a timing chain inspection. A cold-start rattle is your warning — a £600–£1,200 preventative repair is dramatically cheaper than the £2,200–£3,800 replacement that follows if ignored.",
         "cta": {

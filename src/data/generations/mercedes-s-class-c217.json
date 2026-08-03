@@ -269,7 +269,7 @@
   "hero": {
     "tagPill": "Mercedes S-Class C217 • Coupé • 2014–2020",
     "h1": "Mercedes S-Class C217 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the C217 coupé — from the M276 3.0-litre twin-turbo V6 to the M278 4.7-litre and M176/M177 4.0-litre twin-turbo V8s, and the fire-breathing M157 5.5-litre V8 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M279</a> 6.0-litre V12 in the AMG S 63 and S 65. Real UK replacement costs, honest failure data, and the oil-leak and timing-chain issues that define this generation's ownership story. Backed by real UK C217 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the C217 coupé — from the M276 3.0-litre twin-turbo V6 to the M278 4.7-litre and M176/M177 4.0-litre twin-turbo V8s, and the fire-breathing M157 5.5-litre V8 and <a  href='https://mercedesengines.uk/engine/m275-m279'>M279</a> 6.0-litre V12 in the AMG S 63 and S 65. Real UK replacement costs, honest failure data, and the oil-leak and timing-chain issues that define this generation's ownership story. Backed by real UK C217 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -385,7 +385,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "M276 V6: 80% confidence — a well-regarded twin-turbo V6 with good reliability, though some timing chain and oil leak issues affect higher-mileage examples. M278 V8: 75% confidence — known for timing chain and camshaft adjuster issues, plus oil leaks from the rear main seal. M176 V8: 80% confidence — the newer hot-vee V8 with improved reliability over the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a>. M157 V8: 75% confidence — high-performance AMG V8 with good reliability for a 585 hp engine, but expensive when it fails. M177 V8: 75% confidence — AMG's 4.0-litre hot-vee V8 with electric turbochargers; reliable but complex. M279 V12: 70% confidence — the last Mercedes V12, a masterpiece of engineering but eye-wateringly expensive to maintain."
+      "text": "M276 V6: 80% confidence — a well-regarded twin-turbo V6 with good reliability, though some timing chain and oil leak issues affect higher-mileage examples. M278 V8: 75% confidence — known for timing chain and camshaft adjuster issues, plus oil leaks from the rear main seal. M176 V8: 80% confidence — the newer hot-vee V8 with improved reliability over the <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a>. M157 V8: 75% confidence — high-performance AMG V8 with good reliability for a 585 hp engine, but expensive when it fails. M177 V8: 75% confidence — AMG's 4.0-litre hot-vee V8 with electric turbochargers; reliable but complex. M279 V12: 70% confidence — the last Mercedes V12, a masterpiece of engineering but eye-wateringly expensive to maintain."
     },
     "dataCorrections": []
   },

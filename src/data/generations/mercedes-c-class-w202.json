@@ -375,7 +375,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes C-Class W202 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the W202 saloon and S202 estate — including the full <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> petrol range, the M104 straight-six, and the OM60x diesel family.",
+    "subHeadline": "Every engine fitted to the W202 saloon and S202 estate — including the full <a  href='https://mercedesengines.uk/engine/m111'>M111</a> petrol range, the M104 straight-six, and the OM60x diesel family.",
     "columns": [
       "Engine Code",
       "Family",
@@ -566,7 +566,7 @@
   },
   "overview": {
     "h2": "Mercedes C-Class W202 — Overview",
-    "intro": "The W202 is the first-generation Mercedes-Benz C-Class, produced from 1992 to 2000 as the successor to the 190E (W201). It established the C-Class as Mercedes' compact executive offering, available as a four-door saloon and, from 1995, a five-door estate (S202). The engine range spanned M111 four-cylinder petrol units from 1.8 to 2.3 litres, M104 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> six-cylinder petrols, the <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 in AMG guise, plus OM604, OM605 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> diesel units. A mild facelift in 1997 brought revised styling and mechanical updates.",
+    "intro": "The W202 is the first-generation Mercedes-Benz C-Class, produced from 1992 to 2000 as the successor to the 190E (W201). It established the C-Class as Mercedes' compact executive offering, available as a four-door saloon and, from 1995, a five-door estate (S202). The engine range spanned M111 four-cylinder petrol units from 1.8 to 2.3 litres, M104 and <a  href='https://mercedesengines.uk/engine/m112'>M112</a> six-cylinder petrols, the <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 in AMG guise, plus OM604, OM605 and <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> diesel units. A mild facelift in 1997 brought revised styling and mechanical updates.",
     "keyFacts": "Platform: Mercedes W202 (first generation) • Predecessor: Mercedes-Benz 190E (W201) • Successor: Mercedes-Benz C-Class (W203) • Sibling body styles in this generation: S202 estate (1995–2001).",
     "marketIntelligenceLine": "The W202 C-Class generated UK engine enquiries in 2025 [PATTERN DATA], with the M111 petrol fours and OM605 diesel five-cylinders remaining the most commonly discussed among specialists."
   },
@@ -575,7 +575,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "Thin-Data Fallback mode — one paragraph: The W202's most dependable engine is the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> 2.8-litre straight-six (C280) — the 193 PS six-cylinder is widely considered the pick of the range for its smooth power delivery and proven durability, though early cars (pre-1997) suffer from biodegradable wiring harness failure. The M111 four-cylinder range is generally robust — the 1.8L C180 and 2.0L C200 are simple, reliable units with minimal electronic complexity. The OM605 five-cylinder diesel (C250 Turbodiesel) is the best diesel option, offering 150 PS with the legendary Mercedes over-engineered build quality. The OM611 CDI (C220 CDI) introduced common-rail technology in 1999 and is a significant step forward in refinement and economy. Avoid early OM604 diesels — they are underpowered and suffer from indirect-injection drawbacks, and avoid any pre-1997 car without documented wiring harness replacement, as the biodegradable looms are a known failure point.",
+        "quote": "Thin-Data Fallback mode — one paragraph: The W202's most dependable engine is the <a  href='https://mercedesengines.uk/engine/m104'>M104</a> 2.8-litre straight-six (C280) — the 193 PS six-cylinder is widely considered the pick of the range for its smooth power delivery and proven durability, though early cars (pre-1997) suffer from biodegradable wiring harness failure. The M111 four-cylinder range is generally robust — the 1.8L C180 and 2.0L C200 are simple, reliable units with minimal electronic complexity. The OM605 five-cylinder diesel (C250 Turbodiesel) is the best diesel option, offering 150 PS with the legendary Mercedes over-engineered build quality. The OM611 CDI (C220 CDI) introduced common-rail technology in 1999 and is a significant step forward in refinement and economy. Avoid early OM604 diesels — they are underpowered and suffer from indirect-injection drawbacks, and avoid any pre-1997 car without documented wiring harness replacement, as the biodegradable looms are a known failure point.",
         "whoItsFor": ""
       }
     ]

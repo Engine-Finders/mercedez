@@ -215,9 +215,9 @@
     }
   },
   "hero": {
-    "tagPill": "Mercedes S‑Class S280 / S320 / S350 / S420 Petrol • 1993–2005 • <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> / M112 / M113 / M119",
+    "tagPill": "Mercedes S‑Class S280 / S320 / S350 / S420 Petrol • 1993–2005 • <a  href='https://mercedesengines.uk/engine/m104'>M104</a> / M112 / M113 / M119",
     "h1": "Mercedes S‑Class S280 / S320 / S350 / S420 Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "Get quotes today from trusted UK Mercedes S‑Class specialists. Compare reconditioned, rebuilt and used M104, M112, M113 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> petrol engines — supply & fit available nationwide for Mercedes‑Benz's flagship saloon.",
+    "subHeadline": "Get quotes today from trusted UK Mercedes S‑Class specialists. Compare reconditioned, rebuilt and used M104, M112, M113 and <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> petrol engines — supply & fit available nationwide for Mercedes‑Benz's flagship saloon.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12‑Month Warranty",
@@ -432,7 +432,7 @@
           "label": "Monitor",
           "text": "book inspection soon; oil leaks can damage other components"
         },
-        "recommendation": "Oil leaks are a common concern for the M113 engine, often stemming from worn gaskets or seals. The most frequently affected areas include valve cover gaskets, oil filter housing gaskets, and the front crankshaft seal. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> V8 is known for developing slow leaks over time. If you notice oil spots or a burning smell, have the system inspected promptly. Regular seal replacements are part of the cost of running an M113‑equipped vehicle.",
+        "recommendation": "Oil leaks are a common concern for the M113 engine, often stemming from worn gaskets or seals. The most frequently affected areas include valve cover gaskets, oil filter housing gaskets, and the front crankshaft seal. The <a  href='https://mercedesengines.uk/engine/m113'>M113</a> V8 is known for developing slow leaks over time. If you notice oil spots or a burning smell, have the system inspected promptly. Regular seal replacements are part of the cost of running an M113‑equipped vehicle.",
         "failureLink": {
           "label": "",
           "href": "/failures/oil-leak/"
@@ -536,7 +536,7 @@
       "* M104 Head Gasket (S280/S320) — Any oil leaks from the front of the engine or oil pooling? Any coolant loss? (allow £2,500 for this work)",
       "* M104 Fan Bracket (S280/S320) — Any unusual noises from the front of the engine?",
       "* M104 Oil Level (S280/S320) — Check dipstick; any oil loss indicates rear main seal or head gasket issues",
-      "* <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> Oil Leaks (S350) — Check for oil around the top of the engine (breather covers, valve covers)",
+      "* <a  href='https://mercedesengines.uk/engine/m112'>M112</a> Oil Leaks (S350) — Check for oil around the top of the engine (breather covers, valve covers)",
       "* M113 Timing Chain (S420) — Any cold‑start rattle? Timing chain tensioner may be failing",
       "* M113 Oil Leaks (S420) — Check for oil around valve covers and oil filter housing",
       "* W220 Platform — Early (2000–2002) cars have more issues than facelift (2003+) cars",

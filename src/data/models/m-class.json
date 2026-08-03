@@ -299,7 +299,7 @@
   "hero": {
     "tagPill": "Mercedes-Benz • M-Class (ML) • 1997–2015 • 3 Generations • OM642 • M272 • M113 • M156",
     "h1": "M-Class Engines — The Complete UK Guide",
-    "subHeadline": "Every M-Class engine covered — from the original W163 (1997–2005) through the W164 (2005–2011) to the W166 (2011–2015) that became the GLE. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel oil cooler seal failures, M272 balance shaft wear, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> timing chain issues, and the legendary M156 AMG V8 — with real UK costs, honest economics and vetted specialist insight [PATTERN DATA].",
+    "subHeadline": "Every M-Class engine covered — from the original W163 (1997–2005) through the W164 (2005–2011) to the W166 (2011–2015) that became the GLE. <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel oil cooler seal failures, M272 balance shaft wear, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> timing chain issues, and the legendary M156 AMG V8 — with real UK costs, honest economics and vetted specialist insight [PATTERN DATA].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -419,7 +419,7 @@
         "badge": "",
         "meta": "1997–2005 • M111 • M112 • M113 • OM611 • OM612 • OM613",
         "rating": "★★★☆☆",
-        "verdict": "The original — built on a ladder-frame chassis in Tuscaloosa, Alabama. Rust is the biggest enemy; post-2001 facelift cars are better protected. The OM612 diesel and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a6 are the sensible picks; the M113 V8s are thirsty but robust. Buy on condition, not mileage — and budget for rust remediation.",
+        "verdict": "The original — built on a ladder-frame chassis in Tuscaloosa, Alabama. Rust is the biggest enemy; post-2001 facelift cars are better protected. The OM612 diesel and <a  href='https://mercedesengines.uk/engine/m112'>M112</a6 are the sensible picks; the M113 V8s are thirsty but robust. Buy on condition, not mileage — and budget for rust remediation.",
         "cta": {
           "label": "Explore W163 M-Class →",
           "href": "https://mercedesengines.uk/m-class/w163"
@@ -887,14 +887,14 @@
       {
         "era": "W163 launch era",
         "years": "1997–2001",
-        "keyEngines": "<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a2.3L), M112 (3.2L V6), OM611 (2.2L diesel), OM612 (2.7L diesel)",
+        "keyEngines": "<a  href='https://mercedesengines.uk/engine/m111'>M111</a2.3L), M112 (3.2L V6), OM611 (2.2L diesel), OM612 (2.7L diesel)",
         "whyBmwChanged": "Mercedes launched the M-Class as its first SUV — built in Tuscaloosa, Alabama with a ladder-frame chassis. Early engines were carryovers from the E-Class and C-Class ranges.",
         "worthKnowing": "The OM612 2.7-litre 5-cylinder diesel was the pick of the early range — robust and economical."
       },
       {
         "era": "W163 facelift",
         "years": "2001–2005",
-        "keyEngines": "M112 E37 (3.7L V6), M113 E43/E50 (4.3–5.0L V8), M113.981 (5.4L AMG), <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM613</a> (2.7L diesel)",
+        "keyEngines": "M112 E37 (3.7L V6), M113 E43/E50 (4.3–5.0L V8), M113.981 (5.4L AMG), <a  href='https://mercedesengines.uk/engine/om611-om613'>OM613</a> (2.7L diesel)",
         "whyBmwChanged": "The facelift brought more powerful engines and improved rust protection. The 5.0-litre V8 and the 5.4-litre AMG V8 arrived for the ML 55 AMG.",
         "worthKnowing": "The M113 V8 is regarded as one of Mercedes' most durable V8 engines — timing chain tensioners are the only real weak point."
       },

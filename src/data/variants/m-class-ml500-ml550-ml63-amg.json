@@ -381,7 +381,7 @@
           "label": "Immediate",
           "text": "if you hear piston slap or knocking, book an inspection today"
         },
-        "recommendation": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a> twin‑turbo V8 has a well‑documented cylinder scoring issue. Deep scratches can appear in the cylinder walls, causing increased oil consumption and eventual engine failure. A bore‑scope inspection is the only way to confirm cylinder condition. If buying a W166 ML550, listen carefully for piston slap on startup and consider having the cylinders bore‑scoped.",
+        "recommendation": "The <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> twin‑turbo V8 has a well‑documented cylinder scoring issue. Deep scratches can appear in the cylinder walls, causing increased oil consumption and eventual engine failure. A bore‑scope inspection is the only way to confirm cylinder condition. If buying a W166 ML550, listen carefully for piston slap on startup and consider having the cylinders bore‑scoped.",
         "failureLink": {
           "label": "",
           "href": "/failures/cylinder-scoring/"
@@ -456,7 +456,7 @@
         "* M278: piston slap on startup — cylinder scoring likely — walk away"
       ]
     },
-    "closingVerdict": "The M‑Class V8 badges cover five distinct Mercedes‑Benz and AMG engines across three generations. The W163's <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> is the most robust, the W164's M273 and M156 have timing chain and head bolt weaknesses, and the W166's M278 and M157 have cylinder scoring and oil leak issues. Buy on full service history — and never ignore a cold‑start rattle, blue smoke or coolant loss.",
+    "closingVerdict": "The M‑Class V8 badges cover five distinct Mercedes‑Benz and AMG engines across three generations. The W163's <a  href='https://mercedesengines.uk/engine/m113'>M113</a> is the most robust, the W164's M273 and M156 have timing chain and head bolt weaknesses, and the W166's M278 and M157 have cylinder scoring and oil leak issues. Buy on full service history — and never ignore a cold‑start rattle, blue smoke or coolant loss.",
     "cta": {
       "label": "→ Compare M‑Class V8 engine prices before you buy",
       "href": "#"

@@ -500,7 +500,7 @@
     ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om601-om608'>OM601</a> and OM602 naturally‑aspirated/turbo units are widely regarded as among the most durable diesel engines Mercedes ever built. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes Sprinter Model Page."
+      "text": "All ratings: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing. The <a  href='https://mercedesengines.uk/engine/om601-om608'>OM601</a> and OM602 naturally‑aspirated/turbo units are widely regarded as among the most durable diesel engines Mercedes ever built. Data sources note: Enquiry volumes: EM_Proprietary_Data_2025.txt [MB‑VERIFIED]. Costs: Table A — Engine Replacement Economics [MB‑QUOTE]. Reliability ratings: provisional — no dedicated Engine Page exists for any of these families; ratings should be reconciled against the published Mercedes Sprinter Model Page."
     },
     "dataCorrections": []
   },
@@ -712,7 +712,7 @@
       {
         "id": 4,
         "title": "M111 Timing Chain Stretch",
-        "affectedModels": "W901–905 214, 314, 414 (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> petrol).",
+        "affectedModels": "W901–905 214, 314, 414 (<a  href='https://mercedesengines.uk/engine/m111'>M111</a> petrol).",
         "typicalFailureMileage": "100,000–150,000 miles.",
         "rootCause": "The timing chain on M111 petrol engines can stretch over time, leading to rattling on start‑up and potential valve‑to‑piston contact if ignored.",
         "tieredCosts": [
@@ -857,7 +857,7 @@
       {
         "id": 3,
         "question": "What are the common problems with the Mercedes Sprinter W901–905?",
-        "answer": "Phase I (1995–2000) OM601/OM602 diesels can suffer injection pump wear; Phase II (2000–2006) <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a>/OM612 CDI units have injector failure and EGR clogging issues; OM602 turbochargers can wear over time; and M111 petrol engines can develop timing chain stretch. Regular servicing is critical across all engines."
+        "answer": "Phase I (1995–2000) OM601/OM602 diesels can suffer injection pump wear; Phase II (2000–2006) <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a>/OM612 CDI units have injector failure and EGR clogging issues; OM602 turbochargers can wear over time; and M111 petrol engines can develop timing chain stretch. Regular servicing is critical across all engines."
       },
       {
         "id": 4,

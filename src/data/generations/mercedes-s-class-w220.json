@@ -293,7 +293,7 @@
   "hero": {
     "tagPill": "Mercedes S-Class W220 • Saloon • 1998–2005",
     "h1": "Mercedes S-Class W220 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the fourth-generation S-Class flagship — from the V6 M112 and V8 <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> to the V12 <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m137'>M137</a> and the OM648 straight-six diesel. Real UK costs, honest reliability data, and the engine range that defined Mercedes' luxury saloon at the turn of the millennium. Backed by 880+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the fourth-generation S-Class flagship — from the V6 M112 and V8 <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> to the V12 <a  href='https://mercedesengines.uk/engine/m137'>M137</a> and the OM648 straight-six diesel. Real UK costs, honest reliability data, and the engine range that defined Mercedes' luxury saloon at the turn of the millennium. Backed by 880+ real UK enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -366,7 +366,7 @@
         "power": "245 bhp",
         "years": "2002–2005",
         "variants": "S 350",
-        "reliability": "★★★☆☆ [PROVISIONAL — larger <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a>; timing chain and oil leak concerns]",
+        "reliability": "★★★☆☆ [PROVISIONAL — larger <a  href='https://mercedesengines.uk/engine/m112'>M112</a>; timing chain and oil leak concerns]",
         "enquiries": "— (pattern data)",
         "avgReconCost": "£2,000–£4,200 [MB-QUOTE]"
       },
@@ -493,13 +493,13 @@
     ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "* M112/M113 families: 85% confidence — well‑documented Mercedes V6/V8 engines; pattern data. * M137 family: 70% confidence — short production run; known reliability issues; pattern data. * M275: 75% confidence — complex twin-turbo V12; pattern data. * <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM613</a>/OM648: 80% confidence — well‑documented CDI engines; pattern data. * OM628: 70% confidence — rare V8 diesel; limited data."
+      "text": "* M112/M113 families: 85% confidence — well‑documented Mercedes V6/V8 engines; pattern data. * M137 family: 70% confidence — short production run; known reliability issues; pattern data. * M275: 75% confidence — complex twin-turbo V12; pattern data. * <a  href='https://mercedesengines.uk/engine/om611-om613'>OM613</a>/OM648: 80% confidence — well‑documented CDI engines; pattern data. * OM628: 70% confidence — rare V8 diesel; limited data."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes S-Class W220 — Overview",
-    "intro": "The W220 is the fourth generation of the Mercedes‑Benz S‑Class, launched in 1998 as the successor to the W140. Built on a new platform that was slightly smaller externally than its predecessor but offered greater interior volume, it introduced a range of advanced technologies including the COMAND infotainment system and Keyless-Go. The engine range spanned from the 2.8‑litre M112 V6 to the 6.3‑litre M137 V12, with AMG variants delivering up to 444 bhp. A significant facelift arrived in 2002, bringing new engines including the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M275</a> biturbo V12 and the improved OM648 straight-six diesel. Production ended in July 2005, succeeded by the W221.",
+    "intro": "The W220 is the fourth generation of the Mercedes‑Benz S‑Class, launched in 1998 as the successor to the W140. Built on a new platform that was slightly smaller externally than its predecessor but offered greater interior volume, it introduced a range of advanced technologies including the COMAND infotainment system and Keyless-Go. The engine range spanned from the 2.8‑litre M112 V6 to the 6.3‑litre M137 V12, with AMG variants delivering up to 444 bhp. A significant facelift arrived in 2002, bringing new engines including the <a  href='https://mercedesengines.uk/engine/m275-m279'>M275</a> biturbo V12 and the improved OM648 straight-six diesel. Production ended in July 2005, succeeded by the W221.",
     "keyFacts": "Platform: Mercedes W220 (shared with C215 CL-Class) • Predecessor: W140 (1991–1998) • Successor: W221 (2005–2013) • Sibling body styles in this generation: C215 (CL-Class coupé)",
     "marketIntelligenceLine": "The W220 S‑Class generated 880+ real UK engine enquiries in 2025 [MB‑VERIFIED], concentrated on the OM648 diesel and M113 V8 as the most‑requested powertrains."
   },
@@ -629,7 +629,7 @@
     ],
     "economicsRule": {
       "title": "The W220 rule",
-      "text": "A £2,200–£4,500 <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om648'>OM648</a> recon against a £3,000–£10,000 W220 sits at 22–150% of the car's value. On a sub‑£4,000 W220, that approaches or exceeds our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well‑kept £8,000+ example, the same recon drops to a routine 28–56% — a repair decision, not a financial one. The V12 cars are a different proposition entirely — their replacement costs often exceed the vehicle's value."
+      "text": "A £2,200–£4,500 <a  href='https://mercedesengines.uk/engine/om648'>OM648</a> recon against a £3,000–£10,000 W220 sits at 22–150% of the car's value. On a sub‑£4,000 W220, that approaches or exceeds our 70% Mercedes threshold — we'll honestly tell you to walk away. Against a well‑kept £8,000+ example, the same recon drops to a routine 28–56% — a repair decision, not a financial one. The V12 cars are a different proposition entirely — their replacement costs often exceed the vehicle's value."
     },
     "keyTakeaways": [
       {
@@ -949,7 +949,7 @@
       {
         "id": 9,
         "question": "What is the difference between the W220 and the previous W140?",
-        "answer": "The W220 is the fourth‑generation S‑Class, built on a lighter platform than the W140. It introduced COMAND, Keyless‑Go, and a range of new engines including the M137 V12 and OM648 diesel. The W140 (1991–1998) used older <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a>, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m120'>M120</a>, and OM603 engines and is covered on its own generation page."
+        "answer": "The W220 is the fourth‑generation S‑Class, built on a lighter platform than the W140. It introduced COMAND, Keyless‑Go, and a range of new engines including the M137 V12 and OM648 diesel. The W140 (1991–1998) used older <a  href='https://mercedesengines.uk/engine/m104'>M104</a>, <a  href='https://mercedesengines.uk/engine/m120'>M120</a>, and OM603 engines and is covered on its own generation page."
       },
       {
         "id": 10,

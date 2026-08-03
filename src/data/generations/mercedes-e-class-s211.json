@@ -437,7 +437,7 @@
   "hero": {
     "tagPill": "Mercedes E-Class S211 • Estate • 2002–2009",
     "h1": "Mercedes E-Class S211 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the S211 estate — from the M271 Kompressor four-cylinders to the M112 and M272 V6 petrols, the M113 and M156 V8s, and the OM646, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om646-om647'>OM647</a>, OM648 and OM642 diesels. Real UK replacement costs, honest failure data, and the balance-shaft and injector issues that define this generation's ownership story. Backed by 338+ real UK E-Class enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the S211 estate — from the M271 Kompressor four-cylinders to the M112 and M272 V6 petrols, the M113 and M156 V8s, and the OM646, <a  href='https://mercedesengines.uk/engine/om646-om647'>OM647</a>, OM648 and OM642 diesels. Real UK replacement costs, honest failure data, and the balance-shaft and injector issues that define this generation's ownership story. Backed by 338+ real UK E-Class enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -793,13 +793,13 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel: 90% confidence — widely regarded as the best engine of the entire S211 generation, with mileages regularly exceeding 400,000 kilometres. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8: 85% confidence — among the most durable Mercedes engines ever built. OM646 and OM648: 80% confidence — proven diesel families with strong longevity. M272 V6: 75% confidence — early units (pre-September 2006) suffer from balance shaft issues. M273 V8: 75% confidence — similar balance shaft concerns to the M272. M271: 75% confidence — known for timing chain and supercharger issues. OM647: 75% confidence — five-cylinder diesel with injector and fuel pump concerns. OM628/OM629 V8 diesels: 70% confidence — rare and specialist, with higher running costs."
+      "text": "<a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel: 90% confidence — widely regarded as the best engine of the entire S211 generation, with mileages regularly exceeding 400,000 kilometres. <a  href='https://mercedesengines.uk/engine/m112'>M112</a> V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8: 85% confidence — among the most durable Mercedes engines ever built. OM646 and OM648: 80% confidence — proven diesel families with strong longevity. M272 V6: 75% confidence — early units (pre-September 2006) suffer from balance shaft issues. M273 V8: 75% confidence — similar balance shaft concerns to the M272. M271: 75% confidence — known for timing chain and supercharger issues. OM647: 75% confidence — five-cylinder diesel with injector and fuel pump concerns. OM628/OM629 V8 diesels: 70% confidence — rare and specialist, with higher running costs."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes E-Class S211 — Overview",
-    "intro": "The S211 is the estate body style of the third-generation E-Class, launched in February 2002 as the successor to the S210 estate. Based on the W211 platform, it offered a wider range of engines than its predecessor, with petrol and diesel options spanning four-cylinder, V6, V8 and even V8 diesel configurations. A major 2006 facelift brought revised styling, the M272 and M273 V6/V8 petrols, and the OM642 V6 diesel that replaced the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om648'>OM648</a> straight-six. The range-topping E 63 AMG, introduced in 2006, used the M156 6.2-litre V8 producing 514 PS. The S211 estate features self-levelling rear air suspension as standard, a system that requires careful maintenance on higher-mileage examples.",
+    "intro": "The S211 is the estate body style of the third-generation E-Class, launched in February 2002 as the successor to the S210 estate. Based on the W211 platform, it offered a wider range of engines than its predecessor, with petrol and diesel options spanning four-cylinder, V6, V8 and even V8 diesel configurations. A major 2006 facelift brought revised styling, the M272 and M273 V6/V8 petrols, and the OM642 V6 diesel that replaced the <a  href='https://mercedesengines.uk/engine/om648'>OM648</a> straight-six. The range-topping E 63 AMG, introduced in 2006, used the M156 6.2-litre V8 producing 514 PS. The S211 estate features self-levelling rear air suspension as standard, a system that requires careful maintenance on higher-mileage examples.",
     "keyFacts": "Platform: Mercedes W211 • Predecessor: S210 • Successor: S212 • Sibling body style in this generation: W211 Saloon.",
     "marketIntelligenceLine": "The S211 E-Class estate generated 338 real UK engine enquiries in 2025 [MB-VERIFIED], concentrated on the OM642 diesel and M112/M272 V6 petrols as these cars enter enthusiast-owner territory."
   },
@@ -1436,7 +1436,7 @@
       {
         "id": 5,
         "question": "Which S211 engine should I avoid?",
-        "answer": "No engine outright — but pre-September 2006 M272/M273 engines (E 280, E 350, E 500) need careful checking for balance shaft history. The M271 Kompressor (E 200) has timing chain and supercharger issues that are expensive to fix. If you buy one, ensure the chain and tensioner have been replaced. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om646-om647'>OM647</a> five-cylinder diesel is less refined than the OM646 and has injector and fuel pump concerns."
+        "answer": "No engine outright — but pre-September 2006 M272/M273 engines (E 280, E 350, E 500) need careful checking for balance shaft history. The M271 Kompressor (E 200) has timing chain and supercharger issues that are expensive to fix. If you buy one, ensure the chain and tensioner have been replaced. The <a  href='https://mercedesengines.uk/engine/om646-om647'>OM647</a> five-cylinder diesel is less refined than the OM646 and has injector and fuel pump concerns."
       },
       {
         "id": 6,

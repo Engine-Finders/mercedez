@@ -485,7 +485,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "The W223 S-Class engine range represents the pinnacle of Mercedes powertrain technology, with electrification now standard across the board. For most buyers, the S 350 d (OM656 diesel) is the sensible choice: a refined, economical straight-six that delivers 286 bhp and 600 Nm of torque — more than adequate for wafting duties. The S 500 (M256 petrol) offers 435 bhp from a smooth straight-six with 48V mild-hybrid assistance — a genuinely effortless drivetrain. The S 580 (M176 V8) delivers 503 bhp from the 4.0-litre biturbo V8, combining effortless power with surprising efficiency thanks to cylinder deactivation and mild-hybrid tech. The AMG S 63 E Performance is a technological tour-de-force: 603 bhp from the V8 plus 188 bhp from the electric motor, producing a combined 750 Nm of torque — but it's complex and expensive. The S 680 (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M279</a> V12) is the range-topper: 612 bhp and 830 Nm of torque from a 6.0-litre biturbo V12, but it's reserved for the armoured S 680 Guard and Mercedes-Maybach variants. Buying instruction: for most buyers, the S 350 d offers the best balance of refinement, economy and reliability; the S 500 petrol is the pick for those who want the smoothest straight-six experience. The V8 and V12 variants are for those who value the badge and the experience over running costs.",
+        "quote": "The W223 S-Class engine range represents the pinnacle of Mercedes powertrain technology, with electrification now standard across the board. For most buyers, the S 350 d (OM656 diesel) is the sensible choice: a refined, economical straight-six that delivers 286 bhp and 600 Nm of torque — more than adequate for wafting duties. The S 500 (M256 petrol) offers 435 bhp from a smooth straight-six with 48V mild-hybrid assistance — a genuinely effortless drivetrain. The S 580 (M176 V8) delivers 503 bhp from the 4.0-litre biturbo V8, combining effortless power with surprising efficiency thanks to cylinder deactivation and mild-hybrid tech. The AMG S 63 E Performance is a technological tour-de-force: 603 bhp from the V8 plus 188 bhp from the electric motor, producing a combined 750 Nm of torque — but it's complex and expensive. The S 680 (<a  href='https://mercedesengines.uk/engine/m275-m279'>M279</a> V12) is the range-topper: 612 bhp and 830 Nm of torque from a 6.0-litre biturbo V12, but it's reserved for the armoured S 680 Guard and Mercedes-Maybach variants. Buying instruction: for most buyers, the S 350 d offers the best balance of refinement, economy and reliability; the S 500 petrol is the pick for those who want the smoothest straight-six experience. The V8 and V12 variants are for those who value the badge and the experience over running costs.",
         "whoItsFor": ""
       }
     ]
@@ -573,7 +573,7 @@
       },
       {
         "question": "Which W223 Is Best Value?",
-        "answer": "S 350 d (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a>) — the most sensible engine in the range with strong economy and refinement."
+        "answer": "S 350 d (<a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a>) — the most sensible engine in the range with strong economy and refinement."
       }
     ]
   },
@@ -772,7 +772,7 @@
         "url": "#"
       }
     ],
-    "scopeNote": "All variants listed are W223/V223 (S-Class, 2020–present) only. The S 450 4MATIC (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>, 367 bhp) is available in select markets but omitted from the UK core listing due to limited availability; UK-market S-Class models typically start with the S 500. The S 680 Guard 4MATIC is the armoured variant; the Mercedes-Maybach S-Class (Z223) shares the same engine codes but is covered on a separate Maybach Generation Page where body-specific parts and costs differ. The AMG S 63 E Performance was introduced in 2023."
+    "scopeNote": "All variants listed are W223/V223 (S-Class, 2020–present) only. The S 450 4MATIC (<a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>, 367 bhp) is available in select markets but omitted from the UK core listing due to limited availability; UK-market S-Class models typically start with the S 500. The S 680 Guard 4MATIC is the armoured variant; the Mercedes-Maybach S-Class (Z223) shares the same engine codes but is covered on a separate Maybach Generation Page where body-specific parts and costs differ. The AMG S 63 E Performance was introduced in 2023."
   },
   "marketIntelligence": {
     "mostRequestedEngines": [],

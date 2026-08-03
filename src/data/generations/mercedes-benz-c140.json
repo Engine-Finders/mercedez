@@ -161,7 +161,7 @@
   },
   "overview": {
     "h2": "Mercedes-Benz C140 — Overview",
-    "intro": "The Mercedes-Benz C140 is the two-door coupé variant of the W140 S-Class, unveiled alongside the saloon at the Geneva Motor Show in March 1991. Production of the coupé began in October 1992, with the C140 initially badged as the SEC (e.g., 500 SEC, 600 SEC), renamed the S-Class Coupé from 1993, and finally given its own CL-Class identity from 1996. The C140 was a genuine four-seat grand tourer with no continuous B-pillars and frameless doors, designed as a flagship statement of Mercedes-Benz engineering. Engine choice ranged from the 4.2-litre and 5.0-litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> V8s — the latter widely regarded as one of Mercedes' finest V8s — to the M120 6.0-litre V12, Mercedes' first production V12 and the most powerful Mercedes car engine of its era. Rare diesel variants (S 350 Turbo-D, S 300 Turbo-D) were also available in some markets, though UK uptake was minimal.",
+    "intro": "The Mercedes-Benz C140 is the two-door coupé variant of the W140 S-Class, unveiled alongside the saloon at the Geneva Motor Show in March 1991. Production of the coupé began in October 1992, with the C140 initially badged as the SEC (e.g., 500 SEC, 600 SEC), renamed the S-Class Coupé from 1993, and finally given its own CL-Class identity from 1996. The C140 was a genuine four-seat grand tourer with no continuous B-pillars and frameless doors, designed as a flagship statement of Mercedes-Benz engineering. Engine choice ranged from the 4.2-litre and 5.0-litre <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> V8s — the latter widely regarded as one of Mercedes' finest V8s — to the M120 6.0-litre V12, Mercedes' first production V12 and the most powerful Mercedes car engine of its era. Rare diesel variants (S 350 Turbo-D, S 300 Turbo-D) were also available in some markets, though UK uptake was minimal.",
     "keyFacts": "Platform: Mercedes-Benz C140 (coupé) • Predecessor: C126 SEC • Successor: C215 CL-Class • Sibling body styles in this generation: W140 Saloon.",
     "marketIntelligenceLine": "The C140 coupé attracts strong specialist interest in the UK classic car market, with M119 V8 and M120 V12 enquiries dominating pre-purchase inspections and restoration planning [PATTERN DATA]."
   },
@@ -242,7 +242,7 @@
     "problems": [
       {
         "id": 1,
-        "title": "M119/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m120'>M120</a> Wiring Harness Degradation (1992–1995)",
+        "title": "M119/<a  href='https://mercedesengines.uk/engine/m120'>M120</a> Wiring Harness Degradation (1992–1995)",
         "affectedModels": "All C140 models — particularly 1992–1995 production.",
         "typicalFailureMileage": "60,000–120,000 miles (age-related, not mileage).",
         "rootCause": "Mercedes used biodegradable insulation for engine wiring harnesses in the early 1990s — the insulation becomes brittle, cracks and exposes copper wiring, causing intermittent faults, engine management issues and, in extreme cases, engine fires. This affects both M119 V8 and M120 V12 engines.",

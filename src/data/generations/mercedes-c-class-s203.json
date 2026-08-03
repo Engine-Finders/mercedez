@@ -275,7 +275,7 @@
   "hero": {
     "tagPill": "Mercedes C‑Class S203 • Estate • 2001–2007",
     "h1": "Mercedes C‑Class S203 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the second‑generation C‑Class estate — from the supercharged <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> and M271 four‑cylinders to the V6 petrol range and the OM611/OM646 diesel family. Real UK costs, honest failure data, and the facelift that brought new engines and improved reliability. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the second‑generation C‑Class estate — from the supercharged <a  href='https://mercedesengines.uk/engine/m111'>M111</a> and M271 four‑cylinders to the V6 petrol range and the OM611/OM646 diesel family. Real UK costs, honest failure data, and the facelift that brought new engines and improved reliability. Backed by 1,250+ real UK enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -517,7 +517,7 @@
   },
   "overview": {
     "h2": "Mercedes C‑Class S203 — Overview",
-    "intro": "The S203 is the estate body of Mercedes‑Benz's second‑generation C‑Class, arriving in 2001 as the successor to the S202. It introduced the 'four‑eyed' twin‑headlight design language, a longer wheelbase, and a more extensive standard equipment list than its rivals. A significant 2004 facelift brought revised styling, new engine families (M271 petrol, OM646/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om648'>OM648</a> diesel), and the arrival of the C 55 AMG V8. The S203 shares its platform and engines with the W203 saloon but offers up to 1,500 litres of load space.",
+    "intro": "The S203 is the estate body of Mercedes‑Benz's second‑generation C‑Class, arriving in 2001 as the successor to the S202. It introduced the 'four‑eyed' twin‑headlight design language, a longer wheelbase, and a more extensive standard equipment list than its rivals. A significant 2004 facelift brought revised styling, new engine families (M271 petrol, OM646/<a  href='https://mercedesengines.uk/engine/om648'>OM648</a> diesel), and the arrival of the C 55 AMG V8. The S203 shares its platform and engines with the W203 saloon but offers up to 1,500 litres of load space.",
     "keyFacts": "Platform: W203 (Mercedes‑Benz second‑generation C‑Class platform) • Predecessor: S202 (first‑generation C‑Class estate) • Successor: S204 (third‑generation C‑Class estate) • Sibling body styles in this generation: W203 (saloon), CL203 (SportCoupé)",
     "marketIntelligenceLine": "The S203 estate generated significant UK engine enquiry demand in 2025 [MB‑VERIFIED], concentrated on the OM611/OM646 diesel and M271 supercharged petrol variants as these cars enter their third decade of service."
   },
@@ -526,7 +526,7 @@
       {
         "slot": "Best Diesel Overall",
         "engine": "OM646 (C 220 CDI, facelift, 2004–2007)",
-        "quote": "“The facelift OM646 improved on the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> with better injector design and common‑rail refinement. 150 PS and 340 Nm of torque deliver effortless estate‑car performance with genuine 200,000+ mile potential.” Who it’s for: Buyers who want a proven, efficient diesel estate without the 5‑cylinder’s higher running costs.",
+        "quote": "“The facelift OM646 improved on the <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> with better injector design and common‑rail refinement. 150 PS and 340 Nm of torque deliver effortless estate‑car performance with genuine 200,000+ mile potential.” Who it’s for: Buyers who want a proven, efficient diesel estate without the 5‑cylinder’s higher running costs.",
         "whoItsFor": ""
       },
       {
@@ -538,7 +538,7 @@
       {
         "slot": "Highest Risk",
         "engine": "M272 V6 (C 230 / C 350, 2005–2007)",
-        "quote": "“The M272's balance shaft sprocket wear is this generation's defining risk — a design flaw that can lead to catastrophic engine failure. Mercedes acknowledged the issue but didn't extend the warranty as widely as with the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260</a>.” Who it’s for: Buyers who understand the risk and have documented balance shaft history.",
+        "quote": "“The M272's balance shaft sprocket wear is this generation's defining risk — a design flaw that can lead to catastrophic engine failure. Mercedes acknowledged the issue but didn't extend the warranty as widely as with the <a  href='https://mercedesengines.uk/engine/m260-m264'>M260</a>.” Who it’s for: Buyers who understand the risk and have documented balance shaft history.",
         "whoItsFor": ""
       },
       {
@@ -556,7 +556,7 @@
       {
         "slot": "Most Overlooked",
         "engine": "M112 V6 (C 240, pre‑facelift)",
-        "quote": "“The 170 PS C 240 is often dismissed in favour of the C 320, but it shares the same robust <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> V6 architecture with lower running costs — and none of the M272's balance shaft anxiety.” Who it’s for: Buyers who want V6 ownership without the V8 tax.",
+        "quote": "“The 170 PS C 240 is often dismissed in favour of the C 320, but it shares the same robust <a  href='https://mercedesengines.uk/engine/m112'>M112</a> V6 architecture with lower running costs — and none of the M272's balance shaft anxiety.” Who it’s for: Buyers who want V6 ownership without the V8 tax.",
         "whoItsFor": ""
       }
     ]

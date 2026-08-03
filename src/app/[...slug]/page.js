@@ -304,7 +304,7 @@ export default async function CatchAllPage({ params }) {
             />
           )}
           <GenModelHero data={data.hero} />
-          <GenEngineDatabase data={data.engineDatabase} />
+          {/* <GenEngineDatabase data={data.engineDatabase} />
           <Overview data={data.overview} />
           <BestWorstEngines data={data.bestWorstEngines} />
           <OwnershipEconomics data={data.ownershipEconomics} />
@@ -313,7 +313,7 @@ export default async function CatchAllPage({ params }) {
           <CoreVariants data={data.coreVariants} />
           <GenMarketIntelligence data={data.marketIntelligence} />
           <GenFAQAccordion data={data.faq} />
-          <GenTrustCta data={data.trustCta} />
+          <GenTrustCta data={data.trustCta} /> */}
         </main>
       );
     }

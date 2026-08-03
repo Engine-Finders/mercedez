@@ -381,7 +381,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes E-Class S210 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the S210 estate specifically — including the full <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> petrol four-cylinder range, the M112 V6, the M113 V8, and the comprehensive diesel line-up from four-cylinder to six-cylinder.",
+    "subHeadline": "Every engine fitted to the S210 estate specifically — including the full <a  href='https://mercedesengines.uk/engine/m111'>M111</a> petrol four-cylinder range, the M112 V6, the M113 V8, and the comprehensive diesel line-up from four-cylinder to six-cylinder.",
     "columns": [
       "Engine Code",
       "Family",
@@ -608,7 +608,7 @@
   },
   "overview": {
     "h2": "Mercedes E-Class S210 — Overview",
-    "intro": "The S210 is the estate variant of the second-generation Mercedes-Benz E-Class, produced from 1996 to 2003 as the successor to the S124. It shared the W210 saloon's distinctive four-headlight design and introduced a more spacious interior with a 70-litre increase in cargo volume. The engine range spanned M111 four-cylinder petrols, the M112 V6 introduced in 1997, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8s in the E 430 and E 55 AMG, plus OM604, OM605, OM606 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> diesel units. A major engine modernisation in 1997 brought the M112 V6 and updated four-cylinder engines.",
+    "intro": "The S210 is the estate variant of the second-generation Mercedes-Benz E-Class, produced from 1996 to 2003 as the successor to the S124. It shared the W210 saloon's distinctive four-headlight design and introduced a more spacious interior with a 70-litre increase in cargo volume. The engine range spanned M111 four-cylinder petrols, the M112 V6 introduced in 1997, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8s in the E 430 and E 55 AMG, plus OM604, OM605, OM606 and <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> diesel units. A major engine modernisation in 1997 brought the M112 V6 and updated four-cylinder engines.",
     "keyFacts": "Platform: Mercedes W210/S210 (second generation) • Predecessor: Mercedes-Benz E-Class Estate (S124) • Successor: Mercedes-Benz E-Class Estate (S211) • Sibling body styles in this generation: W210 saloon (1995–2003).",
     "marketIntelligenceLine": "The S210 E-Class Estate generated UK engine enquiries in 2025 [PATTERN DATA], with the M112 V6 petrol and OM606 diesel six remaining the most commonly discussed among specialists."
   },
@@ -617,7 +617,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "Thin-Data Fallback mode — one paragraph: The S210's most dependable engine is the OM606 3.0-litre straight-six diesel (E 300 Turbodiesel, 177 PS) — legendary Mercedes over-engineering with mechanical injection, proven durability, and 300,000+ mile potential. The M112 3.2-litre V6 (E 320, 224 PS) is the best petrol option — smooth, refined, and introduced in 1997 with significant weight savings over the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> straight-six. The M113 V8 in the E 430 (279 PS) offers effortless V8 performance but carries higher running costs, while the E 55 AMG (354 PS) is a genuine modern classic — epic V8 soundtrack but eye-watering maintenance bills. Avoid early OM604 diesels — they are underpowered and suffer from indirect-injection drawbacks. Also avoid any car with neglected cooling systems, as the M112 and M113 V8s are sensitive to overheating, and pre-1997 cars may suffer from biodegradable wiring harness issues.",
+        "quote": "Thin-Data Fallback mode — one paragraph: The S210's most dependable engine is the OM606 3.0-litre straight-six diesel (E 300 Turbodiesel, 177 PS) — legendary Mercedes over-engineering with mechanical injection, proven durability, and 300,000+ mile potential. The M112 3.2-litre V6 (E 320, 224 PS) is the best petrol option — smooth, refined, and introduced in 1997 with significant weight savings over the <a  href='https://mercedesengines.uk/engine/m104'>M104</a> straight-six. The M113 V8 in the E 430 (279 PS) offers effortless V8 performance but carries higher running costs, while the E 55 AMG (354 PS) is a genuine modern classic — epic V8 soundtrack but eye-watering maintenance bills. Avoid early OM604 diesels — they are underpowered and suffer from indirect-injection drawbacks. Also avoid any car with neglected cooling systems, as the M112 and M113 V8s are sensitive to overheating, and pre-1997 cars may suffer from biodegradable wiring harness issues.",
         "whoItsFor": ""
       }
     ]
@@ -780,7 +780,7 @@
         "title": "M112 & M113 V8 Cooling System Leaks",
         "affectedModels": "S210 E 240 T, E 320 T, E 430 T, E 55 T AMG (all M112 and M113 petrol variants).",
         "typicalFailureMileage": "60,000–100,000 miles.",
-        "rootCause": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> V6 and M113 V8's cooling systems — particularly the water pump, thermostat housing, and coolant crossover pipes — are prone to leaks. The V6 and V8 layouts make access tight, increasing labour costs. The M112 was introduced in 1997 with lightweight materials and three-valve technology, but cooling system neglect remains the primary cause of engine failure.",
+        "rootCause": "The <a  href='https://mercedesengines.uk/engine/m112'>M112</a> V6 and M113 V8's cooling systems — particularly the water pump, thermostat housing, and coolant crossover pipes — are prone to leaks. The V6 and V8 layouts make access tight, increasing labour costs. The M112 was introduced in 1997 with lightweight materials and three-valve technology, but cooling system neglect remains the primary cause of engine failure.",
         "tieredCosts": [
           {
             "tier": "Preventative (Repair)",

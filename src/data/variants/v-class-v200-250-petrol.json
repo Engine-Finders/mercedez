@@ -199,7 +199,7 @@
   "hero": {
     "tagPill": "Mercedes V‑Class V200 / V250 Petrol • 1997–present • M111 / M274",
     "h1": "Mercedes V‑Class V200 / V250 Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "Get quotes today from trusted UK Mercedes V‑Class petrol specialists. Compare reconditioned, rebuilt and used M111 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> petrol engines — supply & fit available nationwide for Mercedes‑Benz's premium MPV.",
+    "subHeadline": "Get quotes today from trusted UK Mercedes V‑Class petrol specialists. Compare reconditioned, rebuilt and used M111 and <a  href='https://mercedesengines.uk/engine/m274'>M274</a> petrol engines — supply & fit available nationwide for Mercedes‑Benz's premium MPV.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12‑Month Warranty",
@@ -316,7 +316,7 @@
           "label": "Immediate",
           "text": "if you notice oil in wiring connectors, book an inspection today"
         },
-        "recommendation": "A well‑known issue with the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> engine is oil leaking from the camshaft adjuster magnet (or its seal), allowing oil to ingress into the wiring harness. If left unaddressed, the oil can travel through the loom and reach the ECU, causing expensive electrical failures. Regularly check the wiring harness connectors for oil contamination. At the first sign of oil in the loom, have the camshaft adjuster seal replaced and the wiring cleaned or replaced.",
+        "recommendation": "A well‑known issue with the <a  href='https://mercedesengines.uk/engine/m111'>M111</a> engine is oil leaking from the camshaft adjuster magnet (or its seal), allowing oil to ingress into the wiring harness. If left unaddressed, the oil can travel through the loom and reach the ECU, causing expensive electrical failures. Regularly check the wiring harness connectors for oil contamination. At the first sign of oil in the loom, have the camshaft adjuster seal replaced and the wiring cleaned or replaced.",
         "failureLink": {
           "label": "",
           "href": "/failures/oil-leak-wiring-loom/"

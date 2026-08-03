@@ -13,7 +13,7 @@
 //       {data.finalCta && <p>{data.finalCta}</p>}
 //       {data.ctaButton && (
 //         <p>
-//           <a style='font-weight: bold;' href={data.ctaButton.href}>{data.ctaButton.label}</a>
+//           <a  href={data.ctaButton.href}>{data.ctaButton.label}</a>
 //         </p>
 //       )}
 //       <hr />

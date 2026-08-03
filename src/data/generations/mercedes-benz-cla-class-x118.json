@@ -228,7 +228,7 @@
   "hero": {
     "tagPill": "Mercedes‑Benz CLA‑Class X118 • Shooting Brake • 2019–2025",
     "h1": "Mercedes‑Benz CLA‑Class X118 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the X118 Shooting Brake — from the 1.3‑litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m282'>M282</a> to the 2.0‑litre M139 in the AMG 45 S. Real UK replacement costs, honest reliability data, and the powertrain choices that define Mercedes' compact estate. Backed by real UK X118 enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the X118 Shooting Brake — from the 1.3‑litre <a  href='https://mercedesengines.uk/engine/m282'>M282</a> to the 2.0‑litre M139 in the AMG 45 S. Real UK replacement costs, honest reliability data, and the powertrain choices that define Mercedes' compact estate. Backed by real UK X118 enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -392,7 +392,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M282, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260</a>, M139 and OM608: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. M282 (Renault‑developed 1.3‑litre): known for occasional oil consumption and timing chain issues; generally robust for a small turbo petrol. OM654: generally reliable, with AdBlue system issues the main concern. M139: the most powerful four‑cylinder production engine; known for high‑strung nature and tight engine bay packaging."
+      "text": "OM654: 95% confidence — inherited from the EM_Proprietary_Data Known Failure Patterns table. M282, <a  href='https://mercedesengines.uk/engine/m260-m264'>M260</a>, M139 and OM608: Expert‑knowledge tier, derived from specialist consensus. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family. M282 (Renault‑developed 1.3‑litre): known for occasional oil consumption and timing chain issues; generally robust for a small turbo petrol. OM654: generally reliable, with AdBlue system issues the main concern. M139: the most powerful four‑cylinder production engine; known for high‑strung nature and tight engine bay packaging."
     },
     "dataCorrections": []
   },
@@ -407,7 +407,7 @@
       {
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (CLA 220 d, 190hp)",
-        "quote": "The modern 2.0‑litre diesel that replaced the ageing <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om651'>OM651</a>. Excellent fuel economy, strong torque (400Nm), and none of the injector seal issues that plagued its predecessor. AdBlue system niggles are its only real demand.",
+        "quote": "The modern 2.0‑litre diesel that replaced the ageing <a  href='https://mercedesengines.uk/engine/om651'>OM651</a>. Excellent fuel economy, strong torque (400Nm), and none of the injector seal issues that plagued its predecessor. AdBlue system niggles are its only real demand.",
         "whoItsFor": "buyers who want genuine diesel efficiency without the OM608's compromises."
       },
       {

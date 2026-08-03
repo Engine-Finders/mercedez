@@ -239,7 +239,7 @@
   "hero": {
     "tagPill": "Mercedes‑Benz • CLA • 2013–present • 2 Generations • M270 • M282 • OM651 • OM654 • M139",
     "h1": "CLA Engines — The Complete UK Guide",
-    "subHeadline": "Every CLA engine — M270 petrol, OM651 diesel, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m282'>M282</a> petrol, OM654 diesel, and the AMG M139 — across two generations of Mercedes’ four-door coupé. Real UK costs, reliability data and ownership verdicts for the C117 (2013–2019) and C118 (2019–2025). Backed by real UK enquiry data from Mercedes-Benz owners in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every CLA engine — M270 petrol, OM651 diesel, <a  href='https://mercedesengines.uk/engine/m282'>M282</a> petrol, OM654 diesel, and the AMG M139 — across two generations of Mercedes’ four-door coupé. Real UK costs, reliability data and ownership verdicts for the C117 (2013–2019) and C118 (2019–2025). Backed by real UK enquiry data from Mercedes-Benz owners in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -596,7 +596,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM651 and OM654 ratings: 95% confidence — based on 1,250 and 520 [MB-VERIFIED] enquiries respectively, cross‑referenced with Mercedes TSBs and specialist interviews. M270, M282, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260</a>, M139 and OM608 ratings: Expert‑knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: OM654 was incorrectly listed in some sources as a 1.5‑litre unit for the CLA — verified as 2.0‑litre (1,950cc) for the CLA 200d/220d, with OM608 as the 1.5‑litre diesel. [Fix at source: update engine displacement fields.] Correction applied: M139 is the correct AMG engine code for the CLA 45 — not M133 (which belongs to the previous‑generation A45/CLA45). [Fix at source: update AMG engine code references.] No further corrections needed — source data matched live verification for all other engine codes."
+      "text": "OM651 and OM654 ratings: 95% confidence — based on 1,250 and 520 [MB-VERIFIED] enquiries respectively, cross‑referenced with Mercedes TSBs and specialist interviews. M270, M282, <a  href='https://mercedesengines.uk/engine/m260-m264'>M260</a>, M139 and OM608 ratings: Expert‑knowledge tier — documented failure patterns and specialist interviews, not proprietary volume data [PATTERN DATA]. Data note (internal): Correction applied: OM654 was incorrectly listed in some sources as a 1.5‑litre unit for the CLA — verified as 2.0‑litre (1,950cc) for the CLA 200d/220d, with OM608 as the 1.5‑litre diesel. [Fix at source: update engine displacement fields.] Correction applied: M139 is the correct AMG engine code for the CLA 45 — not M133 (which belongs to the previous‑generation A45/CLA45). [Fix at source: update AMG engine code references.] No further corrections needed — source data matched live verification for all other engine codes."
     },
     "dataCorrections": []
   },

@@ -26,7 +26,7 @@
 //           {problem.recommendation && <p>{problem.recommendation}</p>}
 //           {problem.failureLink && (
 //             <p>
-//               <a style='font-weight: bold;' href={problem.failureLink.href}>
+//               <a  href={problem.failureLink.href}>
 //                 {problem.failureLink.label}
 //               </a>
 //             </p>

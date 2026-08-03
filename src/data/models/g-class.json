@@ -499,7 +499,7 @@
         "badge": "",
         "meta": "2018–present • M176 V8 • M177 V8 (AMG) • OM656 straight-six diesel • M279 V12 (G 65)",
         "rating": "★★★★★",
-        "verdict": "The modern G-Class—a complete rethink with independent front suspension, a wider track, and the most reliable engine lineup in G-Class history. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> straight-six diesel is a masterpiece; the M176/M177 V8s are robust and well-supported. This is the safest G-Class ever built.",
+        "verdict": "The modern G-Class—a complete rethink with independent front suspension, a wider track, and the most reliable engine lineup in G-Class history. The <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> straight-six diesel is a masterpiece; the M176/M177 V8s are robust and well-supported. This is the safest G-Class ever built.",
         "cta": {
           "label": "Explore W464 →",
           "href": "https://mercedesengines.uk/g-class/w463-ii"
@@ -726,7 +726,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> rating: high confidence — based on 880 enquiries across all Mercedes models [MB-VERIFIED], plus cross-referencing with specialist interviews. OM656 and M176 ratings: high confidence — well-documented modern engines with clean reliability records. W460/W461 engine ratings: Expert-knowledge tier — documented by specialists and owners, not proprietary volume data, as these generations predate the enquiry dataset. Data note (internal): Correction applied: The original sheet listed the G 500 as using M273 5.5L V8 continuously through 2018; verification shows the 2015 facelift introduced the M176 4.0L twin-turbo V8. Split accordingly. Correction applied: The G 63 AMG's M177 engine was originally listed from 2015; verification shows the M177 was introduced with the W464 generation in 2018. The pre-2015 G 63 used the M157 5.5L V8. Correction applied: The G 350 d's OM656 engine was originally listed as a V6; verification confirms it is an inline-six (I6). Corrected. No further corrections needed—source data matched live verification for all other entries."
+      "text": "<a  href='https://mercedesengines.uk/engine/om642'>OM642</a> rating: high confidence — based on 880 enquiries across all Mercedes models [MB-VERIFIED], plus cross-referencing with specialist interviews. OM656 and M176 ratings: high confidence — well-documented modern engines with clean reliability records. W460/W461 engine ratings: Expert-knowledge tier — documented by specialists and owners, not proprietary volume data, as these generations predate the enquiry dataset. Data note (internal): Correction applied: The original sheet listed the G 500 as using M273 5.5L V8 continuously through 2018; verification shows the 2015 facelift introduced the M176 4.0L twin-turbo V8. Split accordingly. Correction applied: The G 63 AMG's M177 engine was originally listed from 2015; verification shows the M177 was introduced with the W464 generation in 2018. The pre-2015 G 63 used the M157 5.5L V8. Correction applied: The G 350 d's OM656 engine was originally listed as a V6; verification confirms it is an inline-six (I6). Corrected. No further corrections needed—source data matched live verification for all other entries."
     },
     "dataCorrections": []
   },
@@ -786,7 +786,7 @@
       {
         "id": 4,
         "issue": "W460/W461 OM617 Glow Plug and Injector Issues",
-        "description": "The legendary <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om615-om616-om617'>OM617</a> five-cylinder diesel (W460/W461) can suffer from glow plug failure and injector seal leaks on high-mileage examples. Parts are increasingly scarce and expensive. £200–£800 repair [MB-QUOTE].",
+        "description": "The legendary <a  href='https://mercedesengines.uk/engine/om615-om616-om617'>OM617</a> five-cylinder diesel (W460/W461) can suffer from glow plug failure and injector seal leaks on high-mileage examples. Parts are increasingly scarce and expensive. £200–£800 repair [MB-QUOTE].",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -897,7 +897,7 @@
       }
     ],
     "figuresNote": "Labour estimate: Fitting a G‑Class engine typically takes 10–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Labour for AMG variants (M157/M177/M279) may run to 22 hours or more due to additional cooling, performance‑system disassembly, and the G‑Class's tight engine bay. The G‑Class rule —",
-    "labourEstimate": "Fitting a G‑Class engine typically takes 10–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Labour for AMG variants (M157/M177/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m275-m279'>M279</a>) may run to 22 hours or more due to additional cooling, performance‑system disassembly, and the G‑Class's tight engine bay. The G‑Class rule —",
+    "labourEstimate": "Fitting a G‑Class engine typically takes 10–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Labour for AMG variants (M157/M177/<a  href='https://mercedesengines.uk/engine/m275-m279'>M279</a>) may run to 22 hours or more due to additional cooling, performance‑system disassembly, and the G‑Class's tight engine bay. The G‑Class rule —",
     "economicsBox": {
       "title": "",
       "text": ""
@@ -923,7 +923,7 @@
       {
         "era": "W461 – the workhorse",
         "years": "1990–2001",
-        "keyEngines": "OM602 (diesel), OM603 (diesel), <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> (petrol, select markets)",
+        "keyEngines": "OM602 (diesel), OM603 (diesel), <a  href='https://mercedesengines.uk/engine/m104'>M104</a> (petrol, select markets)",
         "whyBmwChanged": "The W461 continued the military/professional focus, but with improved emissions and refinement. The OM602 and OM603 diesels were the workhorses—simple, mechanical injection, and virtually indestructible.",
         "worthKnowing": "The OM602 2.9‑litre five‑cylinder is one of the most reliable Mercedes diesels ever made—many are still in service in military and agricultural applications worldwide."
       },

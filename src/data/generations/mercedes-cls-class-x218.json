@@ -356,7 +356,7 @@
     "engines": [],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "OM651, OM642, M276, and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a> ratings: 95% confidence, inherited from the Model Page where one exists. M157: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
+      "text": "OM651, OM642, M276, and <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> ratings: 95% confidence, inherited from the Model Page where one exists. M157: Expert‑knowledge tier, derived from cross‑referencing specialist and owner sources — confirm against the Model Page before publishing."
     },
     "dataCorrections": []
   },
@@ -455,7 +455,7 @@
         "title": "OM642 Oil‑Cooler Seal Leak",
         "affectedModels": "X218 CLS 350 CDI, CLS 350 BlueTEC, CLS 350 d (OM642 V6 diesel).",
         "typicalFailureMileage": "80,000–150,000 miles.",
-        "rootCause": "The oil‑cooler O‑rings in the V of the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> engine degrade with heat cycling, causing oil leaks that can drip onto the exhaust and create a burning smell. Labour is intensive as the intake manifold must be removed.",
+        "rootCause": "The oil‑cooler O‑rings in the V of the <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> engine degrade with heat cycling, causing oil leaks that can drip onto the exhaust and create a burning smell. Labour is intensive as the intake manifold must be removed.",
         "tieredCosts": [
           {
             "tier": "Preventative (Repair)",

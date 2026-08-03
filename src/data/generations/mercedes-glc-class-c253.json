@@ -321,7 +321,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes GLC-Class C253 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the C253 coupé SUV specifically — including pre-facelift M274/M276/OM651 units and post-facelift <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a>/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>/OM654 replacements.",
+    "subHeadline": "Every engine fitted to the C253 coupé SUV specifically — including pre-facelift M274/M276/OM651 units and post-facelift <a  href='https://mercedesengines.uk/engine/m260-m264'>M264</a>/<a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>/OM654 replacements.",
     "columns": [
       "Engine Code",
       "Family",
@@ -524,7 +524,7 @@
   },
   "overview": {
     "h2": "Mercedes GLC-Class C253 — Overview",
-    "intro": "The C253 is the coupé variant of the first-generation Mercedes-Benz GLC-Class, produced from 2016 to 2022 as the sleeker, more sporting counterpart to the X253 SUV. Built on the MRA platform shared with the C-Class, it combines GLC practicality with a raked roofline. The engine range spanned <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> four-cylinder petrols, M276 V6 petrols in AMG GLC 43 guise, the M177 V8 in GLC 63 variants, plus OM651, OM654, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> diesel units. A 2019 facelift brought M264 engines with EQ Boost mild-hybrid technology, the OM654 diesel, and the range-topping GLC 400 d.",
+    "intro": "The C253 is the coupé variant of the first-generation Mercedes-Benz GLC-Class, produced from 2016 to 2022 as the sleeker, more sporting counterpart to the X253 SUV. Built on the MRA platform shared with the C-Class, it combines GLC practicality with a raked roofline. The engine range spanned <a  href='https://mercedesengines.uk/engine/m274'>M274</a> four-cylinder petrols, M276 V6 petrols in AMG GLC 43 guise, the M177 V8 in GLC 63 variants, plus OM651, OM654, <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> and <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> diesel units. A 2019 facelift brought M264 engines with EQ Boost mild-hybrid technology, the OM654 diesel, and the range-topping GLC 400 d.",
     "keyFacts": "Platform: Mercedes MRA (Modular Rear Architecture) • Predecessor: None (first GLC Coupé) • Successor: Mercedes-Benz GLC Coupé (X254/C254) • Sibling body styles in this generation: X253 SUV (2015–2022).",
     "marketIntelligenceLine": "The C253 GLC Coupé generated UK engine enquiries in 2025 [PATTERN DATA], with the M274 petrol fours and OM651 diesels remaining the most commonly discussed among specialists."
   },

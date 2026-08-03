@@ -281,7 +281,7 @@
   "hero": {
     "tagPill": "Mercedes E-Class S214 • Estate • 2023–present",
     "h1": "Mercedes E-Class S214 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the S214 estate — from the OM654 2.0-litre four-cylinder diesels to the M254 2.0-litre petrols, the M256 3.0-litre straight-sixes, and the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>-based AMG E53 Hybrid. All S214 engines are four- or six-cylinder units with 48V mild-hybrid or plug-in hybrid assistance — Mercedes has electrified the entire E-Class range. Backed by real UK S214 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the S214 estate — from the OM654 2.0-litre four-cylinder diesels to the M254 2.0-litre petrols, the M256 3.0-litre straight-sixes, and the <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>-based AMG E53 Hybrid. All S214 engines are four- or six-cylinder units with 48V mild-hybrid or plug-in hybrid assistance — Mercedes has electrified the entire E-Class range. Backed by real UK S214 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -433,13 +433,13 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "M256 straight-six: 80% confidence — proven engine since 2017 with a strong reputation for refinement and reliability. OM654 four-cylinder diesel: 80% confidence — introduced in 2016 as Mercedes' first all-aluminium diesel, significantly lighter than its predecessor. M254 four-cylinder petrol: 75% confidence — newer engine replacing the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, with some reported issues being understood. OM656 straight-six diesel: 80% confidence — introduced in 2017, one of the most powerful diesel engines Mercedes has produced. PHEV variants: 70% confidence — the 25.4 kWh battery and complex hybrid systems are still being proven in the real world."
+      "text": "M256 straight-six: 80% confidence — proven engine since 2017 with a strong reputation for refinement and reliability. OM654 four-cylinder diesel: 80% confidence — introduced in 2016 as Mercedes' first all-aluminium diesel, significantly lighter than its predecessor. M254 four-cylinder petrol: 75% confidence — newer engine replacing the <a  href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, with some reported issues being understood. OM656 straight-six diesel: 80% confidence — introduced in 2017, one of the most powerful diesel engines Mercedes has produced. PHEV variants: 70% confidence — the 25.4 kWh battery and complex hybrid systems are still being proven in the real world."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes E-Class S214 — Overview",
-    "intro": "The S214 is the estate body style of the sixth-generation E-Class, launched in May 2023 as the successor to the S213 estate. Based on the MRA2 platform, it features a longer wheelbase and increased interior space. For the first time, every S214 E-Class is equipped with an electrified powertrain — 48V mild hybrid or plug-in hybrid — with no purely combustion-engined options available. The engine range spans the OM654 2.0-litre four-cylinder diesel, the M254 2.0-litre four-cylinder petrol, the M256 3.0-litre straight-six petrol, and the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> 3.0-litre straight-six diesel. Plug-in hybrid options (E 300e, E 350e, E 400e, E 300de, AMG E 53 Hybrid) use a 25.4 kWh battery offering up to 71 miles of all-electric range.",
+    "intro": "The S214 is the estate body style of the sixth-generation E-Class, launched in May 2023 as the successor to the S213 estate. Based on the MRA2 platform, it features a longer wheelbase and increased interior space. For the first time, every S214 E-Class is equipped with an electrified powertrain — 48V mild hybrid or plug-in hybrid — with no purely combustion-engined options available. The engine range spans the OM654 2.0-litre four-cylinder diesel, the M254 2.0-litre four-cylinder petrol, the M256 3.0-litre straight-six petrol, and the <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> 3.0-litre straight-six diesel. Plug-in hybrid options (E 300e, E 350e, E 400e, E 300de, AMG E 53 Hybrid) use a 25.4 kWh battery offering up to 71 miles of all-electric range.",
     "keyFacts": "Platform: Mercedes MRA2 • Predecessor: S213 • Successor: — (current generation) • Sibling body styles in this generation: W214 Saloon, X214 All-Terrain.",
     "marketIntelligenceLine": "The S214 E-Class estate is the current-generation model; enquiry volumes are growing as early 2023–2024 cars exit manufacturer warranty and enter the used market."
   },
@@ -454,7 +454,7 @@
       {
         "slot": "Best Petrol Overall",
         "engine": "M256.830 (E 450, 3.0-litre straight-six petrol)",
-        "quote": "The 3.0-litre M256 straight-six is a masterpiece of modern engineering — 381 hp, 500 Nm of torque, and the smoothest six-cylinder petrol Mercedes has made since the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a>. Introduced in 2017, it replaced the M276 V6 and has proven itself as a refined, reliable powerplant. The 48V mild-hybrid system and integrated starter-generator deliver seamless start-stop and electric boost.",
+        "quote": "The 3.0-litre M256 straight-six is a masterpiece of modern engineering — 381 hp, 500 Nm of torque, and the smoothest six-cylinder petrol Mercedes has made since the <a  href='https://mercedesengines.uk/engine/m104'>M104</a>. Introduced in 2017, it replaced the M276 V6 and has proven itself as a refined, reliable powerplant. The 48V mild-hybrid system and integrated starter-generator deliver seamless start-stop and electric boost.",
         "whoItsFor": "buyers who want the pinnacle of petrol refinement in an E-Class estate."
       },
       {
@@ -553,7 +553,7 @@
     ],
     "economicsRule": {
       "title": "The S214 rule",
-      "text": "A £3,500–£5,500 OM654 recon against a £30,000 S214 sits at 12–18% of the car's value — comfortably safe. Even the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> at £3,000–£6,000 against a £28,000 E 200 is 11–21% — well within our 70% Mercedes threshold. The S214 is a current-generation car with strong retained values; engine replacement is financially viable across the range. The only exception is the AMG E 53 Hybrid — but if you can afford a £70,000+ car, you can afford the maintenance. For PHEV variants, battery health is the bigger long-term concern."
+      "text": "A £3,500–£5,500 OM654 recon against a £30,000 S214 sits at 12–18% of the car's value — comfortably safe. Even the <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> at £3,000–£6,000 against a £28,000 E 200 is 11–21% — well within our 70% Mercedes threshold. The S214 is a current-generation car with strong retained values; engine replacement is financially viable across the range. The only exception is the AMG E 53 Hybrid — but if you can afford a £70,000+ car, you can afford the maintenance. For PHEV variants, battery health is the bigger long-term concern."
     },
     "keyTakeaways": []
   },

@@ -25,7 +25,7 @@
   "hero": {
     "tagPill": "Mercedes-Benz E-Class E300 / E450 • 2017–present • 2 Engine Generations",
     "h1": "Mercedes-Benz E-Class E300 / E450 Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz E300 and E450 specialists. Compare reconditioned, rebuilt and used 2.0-litre turbo four-cylinder and 3.0-litre turbo six-cylinder engines — M274, M276, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> and M256 variants across the W213 generation — supply & fit available nationwide.",
+    "subHeadline": "Get quotes today from trusted UK Mercedes-Benz E300 and E450 specialists. Compare reconditioned, rebuilt and used 2.0-litre turbo four-cylinder and 3.0-litre turbo six-cylinder engines — M274, M276, <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> and M256 variants across the W213 generation — supply & fit available nationwide.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12-Month Warranty",
@@ -254,7 +254,7 @@
     "buyingChecks": {
       "title": "Buying This E300 / E450? Check These First",
       "buyIf": [
-        "* Facelift E450 with <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> recall work completed (check VIN with Mercedes)",
+        "* Facelift E450 with <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> recall work completed (check VIN with Mercedes)",
         "* Pre-facelift E450 with the M276 V6 (considered one of MB's most reliable engines)",
         "* Full Mercedes service history with regular oil changes (critical for timing chain longevity)",
         "* No cold-start rattling (timing chain health)",
@@ -271,7 +271,7 @@
         "* Cabrio models with roof cord issues and no warranty — £6,000 repair out of pocket"
       ]
     },
-    "closingVerdict": "The modern E-Class E300 and E450 represent Mercedes-Benz's premium petrol offerings in the W213 generation — combining luxury, performance and advanced technology. The pre-facelift E450 with the M276 V6 is widely considered one of Mercedes' most reliable engines, making it a strong used buy. The facelift E450 with the M256 straight-six is a \"really nice\" engine, but owners must be vigilant about the coolant leak recall and timing chain wear. The E300 (both <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> and M254) offers strong performance from a 2.0-litre four-cylinder, but the M254 has reported cylinder head failures. With typical E-Class values ranging from £20,000 (pre-facelift) to £50,000+ (facelift), an engine replacement is a major financial commitment — a well-maintained pre-facelift E450 M276 with full service history is the safest choice for reliability-focused buyers.",
+    "closingVerdict": "The modern E-Class E300 and E450 represent Mercedes-Benz's premium petrol offerings in the W213 generation — combining luxury, performance and advanced technology. The pre-facelift E450 with the M276 V6 is widely considered one of Mercedes' most reliable engines, making it a strong used buy. The facelift E450 with the M256 straight-six is a \"really nice\" engine, but owners must be vigilant about the coolant leak recall and timing chain wear. The E300 (both <a  href='https://mercedesengines.uk/engine/m274'>M274</a> and M254) offers strong performance from a 2.0-litre four-cylinder, but the M254 has reported cylinder head failures. With typical E-Class values ranging from £20,000 (pre-facelift) to £50,000+ (facelift), an engine replacement is a major financial commitment — a well-maintained pre-facelift E450 M276 with full service history is the safest choice for reliability-focused buyers.",
     "cta": {
       "label": "→ Compare E300 / E450 engine prices before you buy",
       "href": "#"

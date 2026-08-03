@@ -7,7 +7,7 @@
 //       {data.supportingLine && <p>{data.supportingLine}</p>}
 //       {data.button && (
 //         <p>
-//           <a style='font-weight: bold;' href={data.button.href}>{data.button.label}</a>
+//           <a  href={data.button.href}>{data.button.label}</a>
 //         </p>
 //       )}
 //       <hr />

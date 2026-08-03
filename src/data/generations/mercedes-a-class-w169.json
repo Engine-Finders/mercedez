@@ -281,7 +281,7 @@
   "hero": {
     "tagPill": "Mercedes A-Class W169 • Hatchback • 2004–2012",
     "h1": "Mercedes A-Class W169 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the Mercedes A-Class W169 — from the 1.5-litre M266 petrol to the 2.0-litre <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om640'>OM640</a> turbodiesel, plus the rare A200 Turbo. Real UK replacement costs, honest failure data, and the sandwich‑concept packaging that makes every repair a specialist job. Backed by 250+ real UK enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the Mercedes A-Class W169 — from the 1.5-litre M266 petrol to the 2.0-litre <a  href='https://mercedesengines.uk/engine/om640'>OM640</a> turbodiesel, plus the rare A200 Turbo. Real UK replacement costs, honest failure data, and the sandwich‑concept packaging that makes every repair a specialist job. Backed by 250+ real UK enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -409,7 +409,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "All seven engines are in Case B — no dedicated Engine Page exists yet for any Mercedes M266 or OM640 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data and cross‑referenced against specialist/owner sources. The OM640 diesel family (82–140 bhp) is widely regarded as the more durable option; the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m266'>M266</a> petrols are simple, low‑stress units with few major failure modes, though the A200 Turbo's added complexity drops its rating to ★★★☆☆. All ratings are provisional pending dedicated Engine Pages."
+      "text": "All seven engines are in Case B — no dedicated Engine Page exists yet for any Mercedes M266 or OM640 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data and cross‑referenced against specialist/owner sources. The OM640 diesel family (82–140 bhp) is widely regarded as the more durable option; the <a  href='https://mercedesengines.uk/engine/m266'>M266</a> petrols are simple, low‑stress units with few major failure modes, though the A200 Turbo's added complexity drops its rating to ★★★☆☆. All ratings are provisional pending dedicated Engine Pages."
     },
     "dataCorrections": []
   },

@@ -344,7 +344,7 @@
       },
       {
         "metric": "Best Used Buy",
-        "ourCall": "H247 (2021+) with <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m282'>M282</a> petrol or OM654 diesel—the generation that finally gave the GLA a truly reliable engine lineup"
+        "ourCall": "H247 (2021+) with <a  href='https://mercedesengines.uk/engine/m282'>M282</a> petrol or OM654 diesel—the generation that finally gave the GLA a truly reliable engine lineup"
       },
       {
         "metric": "Average Engine Replacement",
@@ -593,7 +593,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM651 and OM654 ratings: high confidence — based on 1,250 and 520 enquiries respectively [MB-VERIFIED], plus cross-referencing with specialist interviews and manufacturer TSBs. M270 and M282 petrol ratings: high confidence — well-documented engines with clean reliability records. X156 AMG M133 and H247 AMG M139 ratings: Expert-knowledge tier — documented by specialists and owners, with proprietary data still developing for these higher-performance variants. Data note (internal): Correction applied: The original sheet listed OM651 as a GLA engine from 2013–2020; verification confirms OM651 was fitted to the X156 GLA 200 CDI and GLA 220 CDI, but the H247 generation uses OM654 instead. Split accordingly. Correction applied: The GLA 250e PHEV's <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a> engine was originally listed without the hybrid designation; verification confirms it's a 1.3-litre petrol with electric motor assist. Added PHEV designation. No further corrections needed—source data matched live verification for all other entries."
+      "text": "OM651 and OM654 ratings: high confidence — based on 1,250 and 520 enquiries respectively [MB-VERIFIED], plus cross-referencing with specialist interviews and manufacturer TSBs. M270 and M282 petrol ratings: high confidence — well-documented engines with clean reliability records. X156 AMG M133 and H247 AMG M139 ratings: Expert-knowledge tier — documented by specialists and owners, with proprietary data still developing for these higher-performance variants. Data note (internal): Correction applied: The original sheet listed OM651 as a GLA engine from 2013–2020; verification confirms OM651 was fitted to the X156 GLA 200 CDI and GLA 220 CDI, but the H247 generation uses OM654 instead. Split accordingly. Correction applied: The GLA 250e PHEV's <a  href='https://mercedesengines.uk/engine/m260-m264'>M264</a> engine was originally listed without the hybrid designation; verification confirms it's a 1.3-litre petrol with electric motor assist. Added PHEV designation. No further corrections needed—source data matched live verification for all other entries."
     },
     "dataCorrections": []
   },
@@ -790,7 +790,7 @@
       {
         "era": "H247 — the modern era",
         "years": "2020–present",
-        "keyEngines": "M282 (petrol), <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260</a>/M139 (petrol), OM654 (diesel), M264 (PHEV)",
+        "keyEngines": "M282 (petrol), <a  href='https://mercedesengines.uk/engine/m260-m264'>M260</a>/M139 (petrol), OM654 (diesel), M264 (PHEV)",
         "whyBmwChanged": "Emissions regulations (Euro 6d) and the need for hybridisation forced Mercedes to downsize and modularise. The M282 1.3‑litre petrol (co‑developed with Renault) replaced the M270, and the OM654 replaced the OM651—both significantly more reliable. The GLA 250e PHEV added hybrid complexity.",
         "worthKnowing": "The OM654 is the cleanest diesel ever fitted to a GLA—it's also used in the C‑Class and E‑Class, so parts and expertise are widely available. The M139 in the GLA 45 S AMG is the most powerful four‑cylinder production engine in the world (416 hp)."
       }

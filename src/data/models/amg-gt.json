@@ -284,7 +284,7 @@
       },
       {
         "metric": "Average Engine Replacement",
-        "ourCall": "£6,000–£10,000 (recon, supply-only) for <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m159-m178-gt'>M178</a>; £8,000–£14,000 for rebuilt; £4,000–£8,000 for M256/M139 【MB‑QUOTE】"
+        "ourCall": "£6,000–£10,000 (recon, supply-only) for <a  href='https://mercedesengines.uk/engine/m159-m178-gt'>M178</a>; £8,000–£14,000 for rebuilt; £4,000–£8,000 for M256/M139 【MB‑QUOTE】"
       },
       {
         "metric": "Most Common Failure Enquiry",
@@ -481,7 +481,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "M178 ratings: 85% confidence — based on documented failure patterns across the AMG V8 family, cross‑referenced with specialist interviews and owner‑forum data [PATTERN DATA]. M139 ratings: Expert‑knowledge tier — the engine is proven in the A45 S but relatively new in the GT application; longer‑term reliability data is still emerging. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> ratings: Expert‑knowledge tier — the straight‑six is used across the Mercedes range and is well‑understood. Data note (internal) — corrections applied: * Correction applied: The AMG GT's defining V8 engine is the M178 (4.0-litre biturbo), not the M157 (5.5-litre biturbo from the E63/CLS63). The M178 is a different engine family — dry‑sump, lighter, more compact, and specifically designed for the front‑mid‑engined GT layout. The M157 was never fitted to the AMG GT. * Correction applied: The C192 AMG GT 43 uses the M139 four‑cylinder engine (2.0‑litre turbo, 421 bhp) — the same engine as the A45 S — not a V6. The M256 straight‑six is used in the GT 53 (4‑door) and some other AMG applications, but the C192 coupe's entry model is the M139 four‑cylinder. * Correction applied: The C192 AMG GT's M178 V8 variants are GT 55 (476 bhp) and GT 63 (585 bhp) — not the same power outputs as the C190 generation. The range‑topping GT 63 S E Performance is a plug‑in hybrid V8 with 843 bhp, using the M177 (the same V8 as the GT 4‑door). * Verification check: The C190 AMG GT was produced from October 2014 to September 2022 for the coupe (C190) and 2016–2023 for the roadster (R190). The Black Series was produced in 2021–2023 with 1,700 units. * No further corrections needed — source data matched live verification."
+      "text": "M178 ratings: 85% confidence — based on documented failure patterns across the AMG V8 family, cross‑referenced with specialist interviews and owner‑forum data [PATTERN DATA]. M139 ratings: Expert‑knowledge tier — the engine is proven in the A45 S but relatively new in the GT application; longer‑term reliability data is still emerging. <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> ratings: Expert‑knowledge tier — the straight‑six is used across the Mercedes range and is well‑understood. Data note (internal) — corrections applied: * Correction applied: The AMG GT's defining V8 engine is the M178 (4.0-litre biturbo), not the M157 (5.5-litre biturbo from the E63/CLS63). The M178 is a different engine family — dry‑sump, lighter, more compact, and specifically designed for the front‑mid‑engined GT layout. The M157 was never fitted to the AMG GT. * Correction applied: The C192 AMG GT 43 uses the M139 four‑cylinder engine (2.0‑litre turbo, 421 bhp) — the same engine as the A45 S — not a V6. The M256 straight‑six is used in the GT 53 (4‑door) and some other AMG applications, but the C192 coupe's entry model is the M139 four‑cylinder. * Correction applied: The C192 AMG GT's M178 V8 variants are GT 55 (476 bhp) and GT 63 (585 bhp) — not the same power outputs as the C190 generation. The range‑topping GT 63 S E Performance is a plug‑in hybrid V8 with 843 bhp, using the M177 (the same V8 as the GT 4‑door). * Verification check: The C190 AMG GT was produced from October 2014 to September 2022 for the coupe (C190) and 2016–2023 for the roadster (R190). The Black Series was produced in 2021–2023 with 1,700 units. * No further corrections needed — source data matched live verification."
     },
     "dataCorrections": []
   },
@@ -513,7 +513,7 @@
       {
         "id": 2,
         "issue": "M178 Oil Cooler Seal Leak (early C190, pre-2018)",
-        "description": "Early M178 engines can suffer oil cooler seal failure in the V of the engine — similar to the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> diesel's issue but less common. Symptoms: oil smell, oil consumption, visible oil leak from the top of the engine. Repair cost £1,200–£2,500; access is labour‑intensive. Post‑2018 M178 examples are revised and less prone .",
+        "description": "Early M178 engines can suffer oil cooler seal failure in the V of the engine — similar to the <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> diesel's issue but less common. Symptoms: oil smell, oil consumption, visible oil leak from the top of the engine. Repair cost £1,200–£2,500; access is labour‑intensive. Post‑2018 M178 examples are revised and less prone .",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",

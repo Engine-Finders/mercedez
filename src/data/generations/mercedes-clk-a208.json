@@ -264,7 +264,7 @@
   "hero": {
     "tagPill": "Mercedes CLK A208 • Convertible • 1998–2003",
     "h1": "Mercedes CLK A208 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the first-generation CLK Cabriolet — from the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> four-cylinder Kompressor to the M112 V6 and the M113 V8 that powers the CLK 55 AMG. Real UK costs, honest reliability data, and the 2000 engine refresh explained. Backed by real UK enquiries in 2025 [PATTERN DATA].",
+    "subHeadline": "Every engine fitted to the first-generation CLK Cabriolet — from the <a  href='https://mercedesengines.uk/engine/m111'>M111</a> four-cylinder Kompressor to the M112 V6 and the M113 V8 that powers the CLK 55 AMG. Real UK costs, honest reliability data, and the 2000 engine refresh explained. Backed by real UK enquiries in 2025 [PATTERN DATA].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -419,7 +419,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "Thin-Data Fallback mode — one paragraph: The A208's most dependable engine is the M112 3.2-litre V6 (CLK 320, 218 PS) — smooth, torquey, and widely considered the pick of the range for its refined power delivery and proven durability. The post-facelift M111.982 2.3-litre Kompressor (CLK 230, 197 PS) is the best four-cylinder option — the 2000 refresh addressed many of the earlier M111's issues with a reinforced block and improved cylinder head. The M113 V8 in the CLK 430 (279 PS) offers effortless performance but carries higher running costs, while the CLK 55 AMG (347 PS) is a genuine modern classic — epic V8 soundtrack but eye-watering maintenance bills. Avoid early M111.944 200 Kompressor (192 PS) cars without documented supercharger service history — the Eaton M62 unit can be expensive to rebuild. Also avoid any car with neglected cooling systems, as the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> and M113 V8s are sensitive to overheating.",
+        "quote": "Thin-Data Fallback mode — one paragraph: The A208's most dependable engine is the M112 3.2-litre V6 (CLK 320, 218 PS) — smooth, torquey, and widely considered the pick of the range for its refined power delivery and proven durability. The post-facelift M111.982 2.3-litre Kompressor (CLK 230, 197 PS) is the best four-cylinder option — the 2000 refresh addressed many of the earlier M111's issues with a reinforced block and improved cylinder head. The M113 V8 in the CLK 430 (279 PS) offers effortless performance but carries higher running costs, while the CLK 55 AMG (347 PS) is a genuine modern classic — epic V8 soundtrack but eye-watering maintenance bills. Avoid early M111.944 200 Kompressor (192 PS) cars without documented supercharger service history — the Eaton M62 unit can be expensive to rebuild. Also avoid any car with neglected cooling systems, as the <a  href='https://mercedesengines.uk/engine/m112'>M112</a> and M113 V8s are sensitive to overheating.",
         "whoItsFor": ""
       }
     ]

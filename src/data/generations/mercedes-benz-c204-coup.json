@@ -158,7 +158,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "Thin-Data Fallback mode applied — compressed to a single paragraph. Best & Worst Engines: The C204's engine range splits into three distinct reliability tiers. At the top sits the OM651 2.1-litre diesel (C 220 CDI/C 250 CDI) — widely regarded as Mercedes' most durable modern four-cylinder diesel, with fewer timing chain concerns than its OM646 predecessor and strong fuel economy. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> 1.6-litre turbo petrol (C 180, 2012-on) is the pick of the petrol fours — a more modern design than the M271, with better reliability and lower running costs. The M271 1.8-litre turbo family (C 180 CGI/C 200 CGI/C 250 CGI) sits in the middle — strong performers but documented timing chain and turbocharger issues as mileage climbs. The M276 3.5-litre V6 (C 350) offers smooth refinement and genuine performance, but its complexity makes it the most expensive to maintain outside warranty. For most buyers, the OM651 diesel represents the best ownership proposition — strong torque, excellent economy and proven durability. Who it's for: buyers who want the sweet spot between performance and running costs.",
+        "quote": "Thin-Data Fallback mode applied — compressed to a single paragraph. Best & Worst Engines: The C204's engine range splits into three distinct reliability tiers. At the top sits the OM651 2.1-litre diesel (C 220 CDI/C 250 CDI) — widely regarded as Mercedes' most durable modern four-cylinder diesel, with fewer timing chain concerns than its OM646 predecessor and strong fuel economy. The <a  href='https://mercedesengines.uk/engine/m274'>M274</a> 1.6-litre turbo petrol (C 180, 2012-on) is the pick of the petrol fours — a more modern design than the M271, with better reliability and lower running costs. The M271 1.8-litre turbo family (C 180 CGI/C 200 CGI/C 250 CGI) sits in the middle — strong performers but documented timing chain and turbocharger issues as mileage climbs. The M276 3.5-litre V6 (C 350) offers smooth refinement and genuine performance, but its complexity makes it the most expensive to maintain outside warranty. For most buyers, the OM651 diesel represents the best ownership proposition — strong torque, excellent economy and proven durability. Who it's for: buyers who want the sweet spot between performance and running costs.",
         "whoItsFor": ""
       }
     ]
@@ -230,7 +230,7 @@
       },
       {
         "question": "Which C204 Is Best Value?",
-        "answer": "C 220 CDI (<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om651'>OM651</a>) — the sweet spot between economy and performance."
+        "answer": "C 220 CDI (<a  href='https://mercedesengines.uk/engine/om651'>OM651</a>) — the sweet spot between economy and performance."
       }
     ]
   },

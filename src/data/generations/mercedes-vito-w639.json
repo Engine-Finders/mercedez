@@ -321,7 +321,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes Vito W639 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the W639 chassis — from the pre-facelift OM646 diesels to the post-2010 OM651 replacements, the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel and the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a>/M272 petrol V6s.",
+    "subHeadline": "Every engine fitted to the W639 chassis — from the pre-facelift OM646 diesels to the post-2010 OM651 replacements, the <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel and the <a  href='https://mercedesengines.uk/engine/m112'>M112</a>/M272 petrol V6s.",
     "columns": [
       "Engine Code",
       "Family",
@@ -497,7 +497,7 @@
       {
         "slot": "Thin-Data Summary",
         "engine": "",
-        "quote": "The Vito W639's engine range spans from workhorse diesels to refined V6s. For most buyers, the OM646 115 CDI (150 bhp) is the standout — a robust, proven four-cylinder diesel with good power and excellent durability. Injector problems typically appear from 200,000 km (124,000 miles) and turbocharger damage from 250,000 km (155,000 miles). The post-2010 OM651 116 CDI (163 bhp) offers more power and better economy but carries a significant risk: simplex timing chain and tensioner wear — a costly repair that can exceed £1,500. The OM642 V6 diesel (120 CDI and 122 CDI) delivers smooth V6 refinement and 204–224 bhp, but shares the oil cooler seal leak and injector seal issues common to all <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> applications. The petrol V6s (M112.951 3.2L and M272.945 3.5L) are rare in the UK and generally reliable, but the M272 carries balance shaft risk and fuel costs are high. Buying instruction: for commercial use, the OM646 115 CDI is the most sensible choice — proven, durable and well-supported. The OM651 offers newer emissions compliance but budget for timing chain inspection. The OM642 V6 diesel is the pick for those needing maximum power and refinement, but factor in oil cooler seal work on higher-mileage examples.",
+        "quote": "The Vito W639's engine range spans from workhorse diesels to refined V6s. For most buyers, the OM646 115 CDI (150 bhp) is the standout — a robust, proven four-cylinder diesel with good power and excellent durability. Injector problems typically appear from 200,000 km (124,000 miles) and turbocharger damage from 250,000 km (155,000 miles). The post-2010 OM651 116 CDI (163 bhp) offers more power and better economy but carries a significant risk: simplex timing chain and tensioner wear — a costly repair that can exceed £1,500. The OM642 V6 diesel (120 CDI and 122 CDI) delivers smooth V6 refinement and 204–224 bhp, but shares the oil cooler seal leak and injector seal issues common to all <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> applications. The petrol V6s (M112.951 3.2L and M272.945 3.5L) are rare in the UK and generally reliable, but the M272 carries balance shaft risk and fuel costs are high. Buying instruction: for commercial use, the OM646 115 CDI is the most sensible choice — proven, durable and well-supported. The OM651 offers newer emissions compliance but budget for timing chain inspection. The OM642 V6 diesel is the pick for those needing maximum power and refinement, but factor in oil cooler seal work on higher-mileage examples.",
         "whoItsFor": ""
       }
     ]

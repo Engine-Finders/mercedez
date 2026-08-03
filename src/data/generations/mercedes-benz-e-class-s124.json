@@ -288,7 +288,7 @@
   "hero": {
     "tagPill": "Mercedes‑Benz E‑Class S124 • Estate • 1985–1996",
     "h1": "Mercedes‑Benz E‑Class S124 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the S124 estate — from the 72hp <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om601-om608'>OM601</a> diesel to the 220hp <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> six‑cylinder and the rare AMG 3.6. Real UK costs, classic‑car running realities, and the bulletproof diesel‑six legend that defines this generation. Backed by real UK S124 enquiries in 2025 [MB‑VERIFIED].",
+    "subHeadline": "Every engine fitted to the S124 estate — from the 72hp <a  href='https://mercedesengines.uk/engine/om601-om608'>OM601</a> diesel to the 220hp <a  href='https://mercedesengines.uk/engine/m104'>M104</a> six‑cylinder and the rare AMG 3.6. Real UK costs, classic‑car running realities, and the bulletproof diesel‑six legend that defines this generation. Backed by real UK S124 enquiries in 2025 [MB‑VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -320,7 +320,7 @@
     "engines": [],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "OM60x diesel series: 95% confidence — these are widely regarded as among the most durable diesel engines ever built. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m102'>M102</a>/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m103'>M103</a>/M104 petrol: 85% confidence — robust but with known head gasket and oil leak issues on early examples. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a>: 85% confidence — one of Mercedes' most durable modern four‑cylinders. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family."
+      "text": "OM60x diesel series: 95% confidence — these are widely regarded as among the most durable diesel engines ever built. <a  href='https://mercedesengines.uk/engine/m102'>M102</a>/<a  href='https://mercedesengines.uk/engine/m103'>M103</a>/M104 petrol: 85% confidence — robust but with known head gasket and oil leak issues on early examples. <a  href='https://mercedesengines.uk/engine/m111'>M111</a>: 85% confidence — one of Mercedes' most durable modern four‑cylinders. All ratings are PROVISIONAL — pending dedicated Engine Pages for each family."
     },
     "dataCorrections": []
   },
@@ -777,7 +777,7 @@
       {
         "id": 5,
         "question": "Which Mercedes‑Benz E‑Class S124 engine should I avoid?",
-        "answer": "No engine outright — but avoid the early carburettor <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m102'>M102</a> (200 TE) unless you're comfortable with classic‑car carburettor maintenance. Also be cautious with the M104 3.0 24‑valve without documented wiring harness replacement — the biodegradable looms can cause electrical nightmares."
+        "answer": "No engine outright — but avoid the early carburettor <a  href='https://mercedesengines.uk/engine/m102'>M102</a> (200 TE) unless you're comfortable with classic‑car carburettor maintenance. Also be cautious with the M104 3.0 24‑valve without documented wiring harness replacement — the biodegradable looms can cause electrical nightmares."
       },
       {
         "id": 6,

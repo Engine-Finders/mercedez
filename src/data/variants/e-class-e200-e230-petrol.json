@@ -259,7 +259,7 @@
   "hero": {
     "tagPill": "Mercedes E-Class E200 / E230 Petrol • 1996–2023 • 4 Engine Generations (M111, M271, M272, M274 & M264)",
     "h1": "Mercedes E200 / E230 Petrol Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "Get quotes today from trusted UK Mercedes E-Class specialists. The E200 and E230 badges span four generations of petrol engines — from the robust <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a> to the modern <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M264</a> with mild hybrid — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
+    "subHeadline": "Get quotes today from trusted UK Mercedes E-Class specialists. The E200 and E230 badges span four generations of petrol engines — from the robust <a  href='https://mercedesengines.uk/engine/m111'>M111</a> to the modern <a  href='https://mercedesengines.uk/engine/m260-m264'>M264</a> with mild hybrid — compare reconditioned, rebuilt and used engines with supply & fit available nationwide.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12-Month Warranty",
@@ -396,7 +396,7 @@
       }
     ],
     "figuresNote": "",
-    "labourEstimate": "Fitting an E-Class petrol engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Timing chain and camshaft adjuster work on M271 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> engines requires specialist attention.",
+    "labourEstimate": "Fitting an E-Class petrol engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). Timing chain and camshaft adjuster work on M271 and <a  href='https://mercedesengines.uk/engine/m274'>M274</a> engines requires specialist attention.",
     "cta": {
       "label": "→ Compare E200 / E230 Petrol engine prices from UK specialists",
       "href": "#"

@@ -43,7 +43,7 @@
 
 //       {data.cta && (
 //         <p>
-//           <a style='font-weight: bold;' href={data.cta.href}>{data.cta.label}</a>
+//           <a  href={data.cta.href}>{data.cta.label}</a>
 //         </p>
 //       )}
 //       <hr />

@@ -347,7 +347,7 @@
   "hero": {
     "tagPill": "Mercedes E-Class W211 • Saloon/Estate • 2002–2009",
     "h1": "Mercedes E-Class W211 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the Mercedes E-Class W211 — from the 1.8‑litre M271 Kompressor four‑cylinder to the 6.2‑litre M156 AMG V8, plus the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om648'>OM648</a> straight‑six and OM642 V6 diesels that made this generation a legend in the UK taxi and fleet trades. Real UK replacement costs, honest failure data, and the 2006 facelift that dropped the troublesome SBC brakes and brought new V6s. Backed by 276+ real UK W211 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the Mercedes E-Class W211 — from the 1.8‑litre M271 Kompressor four‑cylinder to the 6.2‑litre M156 AMG V8, plus the <a  href='https://mercedesengines.uk/engine/om648'>OM648</a> straight‑six and OM642 V6 diesels that made this generation a legend in the UK taxi and fleet trades. Real UK replacement costs, honest failure data, and the 2006 facelift that dropped the troublesome SBC brakes and brought new V6s. Backed by 276+ real UK W211 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -567,7 +567,7 @@
     "h2": "Mercedes E-Class W211 — Overview",
     "intro": "The W211 is the third generation of the Mercedes‑Benz E‑Class, produced from 2001 to 2009 and offered in saloon (W211) and estate (S211) body styles. Launched as the successor to the W210, it introduced a more aerodynamic design, a longer wheelbase, and a range of new engines including the OM648 straight‑six diesel that would become a favourite of UK taxi fleets. A significant April 2006 facelift brought new powertrains (M272 V6, OM642 V6 diesel), the deletion of the troublesome SBC brake system, and updated styling. At the top of the range sat the E 55 AMG — a 476bhp supercharged V8 executive express — later replaced by the 514bhp E 63 AMG with the naturally aspirated M156 V8.",
     "keyFacts": "Platform: Mercedes W211 (shared with S211 estate) • Predecessor: W210 • Successor: W212 • Sibling body styles in this generation: S211 (estate)",
-    "marketIntelligenceLine": "The W211 E‑Class generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> and OM648 diesel variants as these ageing executive cars enter high‑mileage third‑or‑fourth‑owner territory."
+    "marketIntelligenceLine": "The W211 E‑Class generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> and OM648 diesel variants as these ageing executive cars enter high‑mileage third‑or‑fourth‑owner territory."
   },
   "bestWorstEngines": {
     "items": [
@@ -604,7 +604,7 @@
       {
         "slot": "Most Overlooked",
         "engine": "M112.912 (E 240, pre‑facelift)",
-        "quote": "The 2.6‑litre V6 is often overshadowed by the 3.2‑litre E 320, but it's the same durable <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> family with lower running costs. No balance‑shaft issues, no SBC problems — just honest V6 motoring. The M112 and M113 need some maintenance, being 14 or more years old, but they remain some of the most reliable Mercedes engines ever built.",
+        "quote": "The 2.6‑litre V6 is often overshadowed by the 3.2‑litre E 320, but it's the same durable <a  href='https://mercedesengines.uk/engine/m112'>M112</a> family with lower running costs. No balance‑shaft issues, no SBC problems — just honest V6 motoring. The M112 and M113 need some maintenance, being 14 or more years old, but they remain some of the most reliable Mercedes engines ever built.",
         "whoItsFor": "buyers who want V6 refinement on a budget."
       }
     ]
@@ -932,7 +932,7 @@
         "labourHours": "12–16 hrs"
       }
     ],
-    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M271, M112, M272, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, M156, OM646, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om646-om647'>OM647</a>, OM648 or OM642 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W211's executive‑car labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any M271, M112, M272, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, M156, OM646, <a  href='https://mercedesengines.uk/engine/om646-om647'>OM647</a>, OM648 or OM642 family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W211's executive‑car labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
 "coreVariants": {
     "dieselVariants": [

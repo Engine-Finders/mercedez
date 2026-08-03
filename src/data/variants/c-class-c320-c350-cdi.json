@@ -373,7 +373,7 @@
       "buyIf": [
         "* Full Mercedes service history with documented oil changes (using MB 229.52 spec oil)",
         "* Evidence of oil cooler seal replacement — this is the number one preventative item",
-        "* Post‑2013 build (the later <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a>s had many issues resolved)",
+        "* Post‑2013 build (the later <a  href='https://mercedesengines.uk/engine/om642'>OM642</a>s had many issues resolved)",
         "* No AdBlue system (earlier cars without AdBlue are generally more reliable)"
       ],
       "avoidIf": [

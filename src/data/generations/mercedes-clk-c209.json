@@ -368,7 +368,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes CLK C209 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the C209 coupé specifically — from the pre‑facelift M112 V6 and OM612 diesel to the facelift M272 V6 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel, plus the M113 and M156 V8s that powered the AMG range.",
+    "subHeadline": "Every engine fitted to the C209 coupé specifically — from the pre‑facelift M112 V6 and OM612 diesel to the facelift M272 V6 and <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel, plus the M113 and M156 V8s that powered the AMG range.",
     "columns": [
       "Engine Code",
       "Family",
@@ -541,7 +541,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "All thirteen engine families are in Case B — no dedicated Engine Page exists yet for any Mercedes M271, M112, M272, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, M156, OM612, OM646 or OM642 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data (where available — OM642 and OM651 are covered) and cross‑referenced against specialist/owner sources. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> V6 is widely regarded as durable; the M272 has balance‑shaft issues on early units; the M113 V8 is robust but carries high running costs; the OM642 V6 diesel is well‑regarded but has oil cooler seal issues. All ratings are provisional pending dedicated Engine Pages."
+      "text": "All thirteen engine families are in Case B — no dedicated Engine Page exists yet for any Mercedes M271, M112, M272, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, M156, OM612, OM646 or OM642 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data (where available — OM642 and OM651 are covered) and cross‑referenced against specialist/owner sources. The <a  href='https://mercedesengines.uk/engine/m112'>M112</a> V6 is widely regarded as durable; the M272 has balance‑shaft issues on early units; the M113 V8 is robust but carries high running costs; the OM642 V6 diesel is well‑regarded but has oil cooler seal issues. All ratings are provisional pending dedicated Engine Pages."
     },
     "dataCorrections": []
   },

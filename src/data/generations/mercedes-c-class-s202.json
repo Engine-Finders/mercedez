@@ -311,7 +311,7 @@
   "hero": {
     "tagPill": "Mercedes C-Class S202 • Estate • 1996–2001",
     "h1": "Mercedes C-Class S202 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the Mercedes C-Class S202 estate — from the 1.8-litre M111 petrol to the 4.3-litre V8 AMG, plus the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> and OM605 diesels that powered the UK's favourite load‑luggers. Real UK replacement costs, honest reliability data, and the AMG‑engined estate that turned a family car into a 155‑mph wolf in sheep's clothing. Backed by 276+ real UK S202 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the Mercedes C-Class S202 estate — from the 1.8-litre M111 petrol to the 4.3-litre V8 AMG, plus the <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> and OM605 diesels that powered the UK's favourite load‑luggers. Real UK replacement costs, honest reliability data, and the AMG‑engined estate that turned a family car into a 155‑mph wolf in sheep's clothing. Backed by 276+ real UK S202 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -475,13 +475,13 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "All ten engines are in Case B — no dedicated Engine Page exists yet for any Mercedes <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a>, M104, M112, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, OM604, OM605 or OM611 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data and cross‑referenced against specialist/owner sources. The M104 straight‑six is widely regarded as one of Mercedes' most reliable engines ever; the M113 AMG V8 is similarly robust but carries high replacement costs; the M111 is a simple, durable four‑cylinder; the OM605 is a proven five‑cylinder diesel. All ratings are provisional pending dedicated Engine Pages."
+      "text": "All ten engines are in Case B — no dedicated Engine Page exists yet for any Mercedes <a  href='https://mercedesengines.uk/engine/m111'>M111</a>, M104, M112, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, OM604, OM605 or OM611 family. Ratings are derived from the Known Failure Patterns table in EM_Proprietary_Data and cross‑referenced against specialist/owner sources. The M104 straight‑six is widely regarded as one of Mercedes' most reliable engines ever; the M113 AMG V8 is similarly robust but carries high replacement costs; the M111 is a simple, durable four‑cylinder; the OM605 is a proven five‑cylinder diesel. All ratings are provisional pending dedicated Engine Pages."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes C-Class S202 — Overview",
-    "intro": "The S202 is the estate body of Mercedes‑Benz's first‑generation C‑Class, launched in March 1995 as the load‑lugging companion to the W202 saloon. It introduced the C‑Class range to estate buyers for the first time, offering 465–1,510 litres of cargo space and a rear‑wheel‑drive chassis that made it the default choice for UK families, fleet operators and dog owners alike. A significant 1997 facelift brought revised styling, the introduction of the OM611 CDI common‑rail diesel family, and the replacement of the M104 straight‑six petrol with the new <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> V6. At the top of the range sat the C43 AMG — a 306bhp V8‑powered estate that could hit 155 mph and carry the weekly shop at the same time.",
+    "intro": "The S202 is the estate body of Mercedes‑Benz's first‑generation C‑Class, launched in March 1995 as the load‑lugging companion to the W202 saloon. It introduced the C‑Class range to estate buyers for the first time, offering 465–1,510 litres of cargo space and a rear‑wheel‑drive chassis that made it the default choice for UK families, fleet operators and dog owners alike. A significant 1997 facelift brought revised styling, the introduction of the OM611 CDI common‑rail diesel family, and the replacement of the M104 straight‑six petrol with the new <a  href='https://mercedesengines.uk/engine/m112'>M112</a> V6. At the top of the range sat the C43 AMG — a 306bhp V8‑powered estate that could hit 155 mph and carry the weekly shop at the same time.",
     "keyFacts": "Platform: Mercedes W202 (shared with W202 saloon) • Predecessor: None (first C‑Class estate) • Successor: S203 • Sibling body styles in this generation: W202 (saloon)",
     "marketIntelligenceLine": "The S202 estate generated an estimated 276+ UK engine enquiries in 2025 [MB-VERIFIED — PLACEHOLDER], concentrated on the OM611 CDI diesels as these ageing estates enter high‑mileage third‑or‑fourth‑owner territory."
   },
@@ -520,7 +520,7 @@
       {
         "slot": "Most Overlooked",
         "engine": "M112.920 (C280 T, facelift)",
-        "quote": "The 2.8‑litre V6 — 197 bhp, 270 Nm, and the first V6 in a C‑Class. It's smoother than the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a> it replaced, more refined than the four‑cylinder M111, and carries none of the Kompressor's supercharger worries. Most buyers overlook it in favour of the diesel or the AMG.",
+        "quote": "The 2.8‑litre V6 — 197 bhp, 270 Nm, and the first V6 in a C‑Class. It's smoother than the <a  href='https://mercedesengines.uk/engine/m104'>M104</a> it replaced, more refined than the four‑cylinder M111, and carries none of the Kompressor's supercharger worries. Most buyers overlook it in favour of the diesel or the AMG.",
         "whoItsFor": "buyers who want six‑cylinder refinement without the AMG price tag."
       }
     ]

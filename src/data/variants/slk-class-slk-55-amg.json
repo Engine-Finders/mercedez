@@ -309,7 +309,7 @@
           "label": "Monitor",
           "text": "book inspection soon"
         },
-        "recommendation": "Oil leaks are common on the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> as it ages. Rear main seal and rocker cover gaskets are the most frequent sources. If you notice oil spots or a burning smell, have the engine inspected. Replacing gaskets promptly prevents more serious damage and expensive repairs.",
+        "recommendation": "Oil leaks are common on the <a  href='https://mercedesengines.uk/engine/m113'>M113</a> as it ages. Rear main seal and rocker cover gaskets are the most frequent sources. If you notice oil spots or a burning smell, have the engine inspected. Replacing gaskets promptly prevents more serious damage and expensive repairs.",
         "failureLink": {
           "label": "",
           "href": "/failures/oil-leak/"

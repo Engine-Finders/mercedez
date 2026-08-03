@@ -315,7 +315,7 @@
           "label": "Check",
           "text": "book inspection urgently"
         },
-        "recommendation": "Despite the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> being \"one of the most reliable engines I've ever encountered\", all of the seals are bad on these engines — valve stem seals, oil pickup O-ring, and front cover coolant O-rings. The oil pickup O-ring is a \"single point of failure\" that can destroy the engine if it fails. If your M113 is older, replace this O-ring preventatively. The rear main seal is also prone to failure. Check for oil spots regularly and investigate any unexplained oil consumption.",
+        "recommendation": "Despite the <a  href='https://mercedesengines.uk/engine/m113'>M113</a> being \"one of the most reliable engines I've ever encountered\", all of the seals are bad on these engines — valve stem seals, oil pickup O-ring, and front cover coolant O-rings. The oil pickup O-ring is a \"single point of failure\" that can destroy the engine if it fails. If your M113 is older, replace this O-ring preventatively. The rear main seal is also prone to failure. Check for oil spots regularly and investigate any unexplained oil consumption.",
         "failureLink": {
           "label": "Read the full oil leak guide",
           "href": "/failures/oil-leak/"

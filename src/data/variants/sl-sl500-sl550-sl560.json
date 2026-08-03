@@ -229,7 +229,7 @@
   "hero": {
     "tagPill": "Mercedes SL500 / SL550 / SL560 • 1986–2020 • 5 Engine Families",
     "h1": "Mercedes SL500 / SL550 / SL560 Engine Replacement — Compare Prices & Get Quotes",
-    "subHeadline": "Get quotes today from trusted UK Mercedes specialists. Compare reconditioned, rebuilt and used M117, <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a>, M113, M273 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 engines for the SL500, SL550 and SL560 — the legendary V8 powerplants that have defined Mercedes' iconic roadster for over three decades. Supply & fit available nationwide.",
+    "subHeadline": "Get quotes today from trusted UK Mercedes specialists. Compare reconditioned, rebuilt and used M117, <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a>, M113, M273 and <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 engines for the SL500, SL550 and SL560 — the legendary V8 powerplants that have defined Mercedes' iconic roadster for over three decades. Supply & fit available nationwide.",
     "trustBadges": [
       "🔧 Supply & Fit Available",
       "✅ 12‑Month Warranty",
@@ -362,7 +362,7 @@
           "label": "Check",
           "text": "book inspection urgently if you notice tapping noises, oil consumption, or sludge."
         },
-        "recommendation": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m113'>M113</a> engine doesn't like short trips — it needs to get hot to burn off moisture and prevent sludge. A gooey black sludge can build up on internal parts and oil ways. Using the wrong oil or deferred maintenance will accelerate this issue. Regular oil changes (every 8,000‑10,000 miles) using the correct MB‑spec oil are essential. If you hear tapping on start‑up, have the engine inspected immediately.",
+        "recommendation": "The <a  href='https://mercedesengines.uk/engine/m113'>M113</a> engine doesn't like short trips — it needs to get hot to burn off moisture and prevent sludge. A gooey black sludge can build up on internal parts and oil ways. Using the wrong oil or deferred maintenance will accelerate this issue. Regular oil changes (every 8,000‑10,000 miles) using the correct MB‑spec oil are essential. If you hear tapping on start‑up, have the engine inspected immediately.",
         "failureLink": {
           "label": "",
           "href": "/failures/engine-sludge/"
@@ -434,7 +434,7 @@
           "label": "Immediate",
           "text": "if you hear rattling, book an inspection immediately."
         },
-        "recommendation": "The M117's timing chain guides are a known wear item. While the <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M117</a> is a robust engine capable of high mileage, the plastic guides can become brittle with age. If the chain breaks, it can cause catastrophic engine damage. A preventative chain and guide replacement is far cheaper than a full engine replacement. Regular oil changes are essential to prolong chain life. As one owner noted: \"they all need prompt chain and guide maintenance, frequent oil changes, and hate being overheated\".",
+        "recommendation": "The M117's timing chain guides are a known wear item. While the <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M117</a> is a robust engine capable of high mileage, the plastic guides can become brittle with age. If the chain breaks, it can cause catastrophic engine damage. A preventative chain and guide replacement is far cheaper than a full engine replacement. Regular oil changes are essential to prolong chain life. As one owner noted: \"they all need prompt chain and guide maintenance, frequent oil changes, and hate being overheated\".",
         "failureLink": {
           "label": "",
           "href": "/failures/timing-chain-failure/"

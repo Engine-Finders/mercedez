@@ -308,7 +308,7 @@
   },
   "engineDatabase": {
     "h2": "Mercedes V-Class W447 Engine Codes — The Complete Database",
-    "subHeadline": "Every engine fitted to the W447 specifically — from the 2014‑era OM651 four‑cylinder and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 to the 2019‑onwards OM654 diesel family and petrol M274/M254 options.",
+    "subHeadline": "Every engine fitted to the W447 specifically — from the 2014‑era OM651 four‑cylinder and <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 to the 2019‑onwards OM654 diesel family and petrol M274/M254 options.",
     "columns": [
       "Engine Code",
       "Family",
@@ -445,7 +445,7 @@
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "All ten engine families are in Case B — no dedicated Engine Page exists yet for these families. Ratings are derived from forum and specialist sources. The OM642 V6 is a proven, durable unit from the W164/W212 era. The OM651 has well‑documented timing chain issues. The OM654 is the newer, improved diesel. The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m274'>M274</a> petrol is generally solid. All ratings are provisional pending dedicated Engine Pages."
+      "text": "All ten engine families are in Case B — no dedicated Engine Page exists yet for these families. Ratings are derived from forum and specialist sources. The OM642 V6 is a proven, durable unit from the W164/W212 era. The OM651 has well‑documented timing chain issues. The OM654 is the newer, improved diesel. The <a  href='https://mercedesengines.uk/engine/m274'>M274</a> petrol is generally solid. All ratings are provisional pending dedicated Engine Pages."
     },
     "dataCorrections": []
   },
@@ -722,7 +722,7 @@
         "labourHours": "12–16 hrs"
       }
     ],
-    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any OM651, OM642, OM654, M274 or <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W447's MPV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
+    "note": "No Generation variance from the Engine Page baseline — no Engine Page exists yet for any OM651, OM642, OM654, M274 or <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> family. These costs are derived from the EM_Proprietary_Data Table A — Engine Replacement Economics for comparable engines, adjusted for the W447's MPV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
 "coreVariants": {
     "dieselVariants": [

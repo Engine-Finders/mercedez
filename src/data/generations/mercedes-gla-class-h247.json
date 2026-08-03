@@ -293,7 +293,7 @@
   "hero": {
     "tagPill": "Mercedes GLA-Class H247 • SUV • 2020–2026",
     "h1": "Mercedes GLA-Class H247 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the second-generation GLA crossover — from the Renault-sourced <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m282'>M282</a> 1.3-litre petrol to the hand-built M139 in the AMG GLA 45 S. Real UK replacement costs, honest reliability data, and the 48V mild-hybrid system that defines the facelift. Backed by 520+ real UK OM654 enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the second-generation GLA crossover — from the Renault-sourced <a  href='https://mercedesengines.uk/engine/m282'>M282</a> 1.3-litre petrol to the hand-built M139 in the AMG GLA 45 S. Real UK replacement costs, honest reliability data, and the 48V mild-hybrid system that defines the facelift. Backed by 520+ real UK OM654 enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -505,7 +505,7 @@
     ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "OM654: 85% confidence — 520 [MB-VERIFIED] enquiries in 2025; well-documented engine. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m260-m264'>M260</a>: 75% confidence — pattern-data tier; well-understood 2.0-litre turbo. M139: 75% confidence — pattern-data tier; AMG hand-built engine with proven durability. M282: 70% confidence — pattern-data tier; Renault-sourced engine with emerging reliability data. Hybrid variants: 65% confidence — pattern-data tier; additional complexity from electric systems."
+      "text": "OM654: 85% confidence — 520 [MB-VERIFIED] enquiries in 2025; well-documented engine. <a  href='https://mercedesengines.uk/engine/m260-m264'>M260</a>: 75% confidence — pattern-data tier; well-understood 2.0-litre turbo. M139: 75% confidence — pattern-data tier; AMG hand-built engine with proven durability. M282: 70% confidence — pattern-data tier; Renault-sourced engine with emerging reliability data. Hybrid variants: 65% confidence — pattern-data tier; additional complexity from electric systems."
     },
     "dataCorrections": []
   },

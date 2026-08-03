@@ -371,7 +371,7 @@
   "hero": {
     "tagPill": "Mercedes E-Class W210 • Saloon • 1995–2002",
     "h1": "Mercedes E-Class W210 Engines — The Complete UK Guide",
-    "subHeadline": "Every engine fitted to the second-generation E-Class saloon — from the frugal OM604 diesel to the thundering 5.4-litre V8 in the E 55 AMG. Real UK replacement costs, honest reliability data, and the facelift that brought common-rail diesel and the V6 revolution. Backed by 890+ real UK <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m112'>M112</a> enquiries in 2025 [MB-VERIFIED].",
+    "subHeadline": "Every engine fitted to the second-generation E-Class saloon — from the frugal OM604 diesel to the thundering 5.4-litre V8 in the E 55 AMG. Real UK replacement costs, honest reliability data, and the facelift that brought common-rail diesel and the V6 revolution. Backed by 890+ real UK <a  href='https://mercedesengines.uk/engine/m112'>M112</a> enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -631,13 +631,13 @@
     ],
     "confidenceScore": {
       "title": "Confidence Score",
-      "text": "M112: 90% confidence — 890 [MB-VERIFIED] enquiries in 2025; failure patterns well-documented. <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>: 85% confidence — well-understood V8 with documented failure patterns. <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m111'>M111</a>: 70% confidence — pattern-data tier. M104/<a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a>: 70% confidence — older engines with pattern data. OM604/OM605: 70% confidence — older indirect-injection diesels. OM611/612/613: 75% confidence — common-rail diesels with emerging pattern data."
+      "text": "M112: 90% confidence — 890 [MB-VERIFIED] enquiries in 2025; failure patterns well-documented. <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>: 85% confidence — well-understood V8 with documented failure patterns. <a  href='https://mercedesengines.uk/engine/m111'>M111</a>: 70% confidence — pattern-data tier. M104/<a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a>: 70% confidence — older engines with pattern data. OM604/OM605: 70% confidence — older indirect-injection diesels. OM611/612/613: 75% confidence — common-rail diesels with emerging pattern data."
     },
     "dataCorrections": []
   },
   "overview": {
     "h2": "Mercedes E-Class W210 — Overview",
-    "intro": "The W210 is the second generation of the Mercedes-Benz E-Class, introduced in 1995 as the successor to the W124. It brought a more aerodynamic, modern design with the distinctive four-headlamp face that defined 1990s Mercedes — and a raft of engineering improvements including a multi-link rear suspension. A major 1999 facelift revised more than 1,800 components, bringing the V6 M112 engines to replace the inline <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/m104'>M104</a>, and common-rail diesel technology with the OM611, OM612 and <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM613</a> families.",
+    "intro": "The W210 is the second generation of the Mercedes-Benz E-Class, introduced in 1995 as the successor to the W124. It brought a more aerodynamic, modern design with the distinctive four-headlamp face that defined 1990s Mercedes — and a raft of engineering improvements including a multi-link rear suspension. A major 1999 facelift revised more than 1,800 components, bringing the V6 M112 engines to replace the inline <a  href='https://mercedesengines.uk/engine/m104'>M104</a>, and common-rail diesel technology with the OM611, OM612 and <a  href='https://mercedesengines.uk/engine/om611-om613'>OM613</a> families.",
     "keyFacts": "Platform: Mercedes-Benz W210 • Predecessor: Mercedes-Benz E-Class W124 • Successor: Mercedes-Benz E-Class W211 • Sibling body styles in this generation: S210 estate (1996–2003).",
     "marketIntelligenceLine": "The M112 V6 engine family generated 890 real UK enquiries in 2025 [MB-VERIFIED], concentrated on the E 320 and E 240 as these executive saloons enter classic-car territory."
   },
@@ -948,7 +948,7 @@
             "note": ""
           }
         ],
-        "recommendation": "The <a style='font-weight: bold;' href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> common-rail diesel that replaced these engines was a massive improvement — if you're considering a pre-facelift diesel W210, budget for injector work, or look for a post-1998 CDI instead.",
+        "recommendation": "The <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> common-rail diesel that replaced these engines was a massive improvement — if you're considering a pre-facelift diesel W210, budget for injector work, or look for a post-1998 CDI instead.",
         "cta": {
           "label": "Compare OM604 engine prices for your W210 E 220 Diesel →",
           "href": "#"
