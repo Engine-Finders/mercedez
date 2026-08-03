@@ -23,10 +23,10 @@ export default function EngineDatabase({ data }) {
               <td dangerouslySetInnerHTML={{ __html: row.displacement }} />
               <td dangerouslySetInnerHTML={{ __html: row.power }} />
               <td dangerouslySetInnerHTML={{ __html: row.years }} />
-              <td dangerouslySetInnerHTML={{ __html: row.variants }} />
-              <td dangerouslySetInnerHTML={{ __html: row.reliability }} />
-              <td dangerouslySetInnerHTML={{ __html: row.enquiries }} />
-              <td dangerouslySetInnerHTML={{ __html: row.avgReconCost }} />
+              <td dangerouslySetInnerHTML={{ __html: row.variants || row.model || "" }} />
+              <td dangerouslySetInnerHTML={{ __html: row.reliability || "" }} />
+              <td dangerouslySetInnerHTML={{ __html: row.enquiries || "" }} />
+              <td dangerouslySetInnerHTML={{ __html: row.avgReconCost || row.avgRebuildCost || "" }} />
             </tr>
           ))}
         </tbody>
