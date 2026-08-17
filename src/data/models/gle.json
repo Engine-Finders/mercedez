@@ -469,9 +469,54 @@
     ]
   },
   "generations": {
-    "h2": "",
-    "subHeadline": "",
-    "cards": [],
+    "h2": "GLE Generations — Find Your Vehicle",
+    "subHeadline": "Four generations, four very different ownership stories — from the body‑on‑frame original to the latest high‑tech luxury SUV.",
+    "cards": [
+      {
+  "title": "V167 (2019–present) — GLE",
+  "badge": "",
+  "meta": "2019–present • M256 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The modern GLE—a large, capable SUV with M256 straight-six petrol and OM654 diesel. The OM654 is reliable and well-supported; the M256 is a smooth, modern unit. High values (£30k–£65k) make replacement very safe.",
+  "cta": {
+    "label": "Explore V167 →",
+    "href": "https://mercedesengines.uk/gle/v167"
+  }
+},
+{
+  "title": "C167 (2019–present) — GLE Coupé",
+  "badge": "",
+  "meta": "2019–present • M256 petrol • OM654 diesel",
+  "rating": "★★★★☆",
+  "verdict": "The GLE coupé—a sportier version of the V167 with the same M256 and OM654 engines. OM654 is the reliable choice; M256 is a sophisticated modern unit. Coupé values (£35k–£70k) make replacement very safe.",
+  "cta": {
+    "label": "Explore C167 →",
+    "href": "https://mercedesengines.uk/gle/c167"
+  }
+},
+{
+  "title": "W166 (2012–2019) — GLE",
+  "badge": "",
+  "meta": "2012–2019 • M276 petrol • M278 petrol • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The GLE—a large SUV with M276 V6 and M278 V8 petrol, plus OM642 V6 diesel. M276 is reliable; OM642 is well-understood but labour-intensive. GLE values (£12k–£32k) make replacement viable.",
+  "cta": {
+    "label": "Explore W166 →",
+    "href": "https://mercedesengines.uk/glc/w166"
+  }
+},
+{
+  "title": "C292 (2015–2019) — GLE Coupé",
+  "badge": "",
+  "meta": "2015–2019 • M276 petrol • OM642 diesel",
+  "rating": "★★★☆☆",
+  "verdict": "The GLE coupé—a sportier version of the W166 with M276 and OM642 engines. M276 is reliable; OM642 is well-understood. Coupé values (£10k–£28k) make replacement viable.",
+  "cta": {
+    "label": "Explore C292 →",
+    "href": "https://mercedesengines.uk/glc/c292"
+  }
+}
+    ],
     "rangeTable": {
       "title": "",
       "columns": [],
@@ -890,34 +935,6 @@
         "worthKnowing": "The OM654 four‑cylinder diesel is the safest V167 engine choice — simpler, proven, and with lower running costs. The OM656 and <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> are impressive but specialist‑only territory. 48V system issues are increasingly common and expensive"
       },
       {
-        "era": "SECTION 10 — WHO SHOULD BUY A GLE? — <WhoShouldBuy>",
-        "years": "H2: Who Should Buy a GLE?",
-        "keyEngines": "Buyer Profile",
-        "whyBmwChanged": "Rating",
-        "worthKnowing": "Our Verdict"
-      },
-      {
-        "era": "Family Buyer",
-        "years": "★★★★☆",
-        "keyEngines": "The GLE is one of the best family SUVs Mercedes makes — 5‑seat standard, optional 7‑seat on the W166 and V167, massive boot, and excellent towing capability. Buy a W166 350d (OM642) for the sweet spot of space, safety and value. The V167 is more luxurious but more expensive to maintain.",
-        "whyBmwChanged": "Daily Commuter",
-        "worthKnowing": "★★★★☆"
-      },
-      {
-        "era": "The GLE is a large, comfortable cruiser — not a city car. If your commute is motorway miles, the OM642 diesel (W166) or OM654 diesel (V167) will return 35–45 mpg and eat the miles in silence. For urban commutes, consider a GLC instead — the GLE is too big for tight city streets.",
-        "years": "Budget Owner",
-        "keyEngines": "⚠️ ★★★☆☆",
-        "whyBmwChanged": "A W163 or W164 M‑Class is the most affordable way into a luxury SUV — but a £2,000–£4,000 W164 with an OM642 can be a genuine bargain if it's been well‑maintained. Buy on condition and service history, not mileage. Avoid W163 V8s unless you can afford the fuel and repair bills.",
-        "worthKnowing": "Towing & Working Use"
-      },
-      {
-        "era": "★★★★★",
-        "years": "The GLE is a towing champion — the OM642 diesel and OM656 diesel produce 500–700Nm of torque, and the W166/V167 have 3,500kg towing capacity. If you're towing a caravan, horsebox or trailer, the GLE 350d is one of the best SUVs on the market. Keep the servicing strict and it will tow for decades.",
-        "keyEngines": "Collector / Keeper",
-        "whyBmwChanged": "★★★★☆",
-        "worthKnowing": "If you're keeping a GLE long‑term, buy a 2015–2019 W166 350d with the OM642 V6 diesel — it's the last of the simple, proven, non‑hybrid V6 diesels. The electronic complexity of the V167 is a long‑term risk; the W164 is too old for daily use. The W166 350d is the Goldilocks GLE."
-      },
-      {
         "era": "SECTION 11 — REPAIR OR REPLACE? — <CalculatorCTA>",
         "years": "H2: Can I Repair My GLE Engine — or Should I Replace It?",
         "keyEngines": "If you've got a W164 M‑Class with an OM642 V6 diesel, the numbers can be tight — a £3,200–£5,500 recon against a £3,000–£6,000 car means replacement cost can exceed 70% of the car's value. For a W166 GLE 350d, replacement is comfortably within the car's value. Use our diagnostic calculator to get a personalised verdict.",
@@ -926,10 +943,40 @@
       }
     ]
   },
-  "whoShouldBuy": {
-    "h2": "",
-    "columns": [],
-    "profiles": []
+"whoShouldBuy": {
+    "h2": "Who Should Buy a GLE?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Family Buyer",
+        "rating": "★★★★☆",
+        "verdict": "The GLE is one of the best family SUVs Mercedes makes — 5‑seat standard, optional 7‑seat on the W166 and V167, massive boot, and excellent towing capability. Buy a W166 350d (OM642) for the sweet spot of space, safety and value. The V167 is more luxurious but more expensive to maintain."
+      },
+      {
+        "buyerProfile": "Daily Commuter",
+        "rating": "★★★★☆",
+        "verdict": "The GLE is a large, comfortable cruiser — not a city car. If your commute is motorway miles, the OM642 diesel (W166) or OM654 diesel (V167) will return 35–45 mpg and eat the miles in silence. For urban commutes, consider a GLC instead — the GLE is too big for tight city streets."
+      },
+      {
+        "buyerProfile": "Budget Owner",
+        "rating": "⚠️ ★★★☆☆",
+        "verdict": "A W163 or W164 M‑Class is the most affordable way into a luxury SUV — but a £2,000–£4,000 W164 with an OM642 can be a genuine bargain if it's been well‑maintained. Buy on condition and service history, not mileage. Avoid W163 V8s unless you can afford the fuel and repair bills."
+      },
+      {
+        "buyerProfile": "Towing & Working Use",
+        "rating": "★★★★★",
+        "verdict": "The GLE is a towing champion — the OM642 diesel and OM656 diesel produce 500–700Nm of torque, and the W166/V167 have 3,500kg towing capacity. If you're towing a caravan, horsebox or trailer, the GLE 350d is one of the best SUVs on the market. Keep the servicing strict and it will tow for decades."
+      },
+      {
+        "buyerProfile": "Collector / Keeper",
+        "rating": "★★★★☆",
+        "verdict": "If you're keeping a GLE long‑term, buy a 2015–2019 W166 350d with the OM642 V6 diesel — it's the last of the simple, proven, non‑hybrid V6 diesels. The electronic complexity of the V167 is a long‑term risk; the W164 is too old for daily use. The W166 350d is the Goldilocks GLE."
+      }
+    ]
   },
   "calculatorCta": {
     "h2": "",

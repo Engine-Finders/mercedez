@@ -832,9 +832,39 @@
     ]
   },
   "whoShouldBuy": {
-    "h2": "",
-    "columns": [],
-    "profiles": []
+    "h2": "Who Should Buy a Sprinter?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Commercial Fleet Operator",
+        "rating": "★★★★★",
+        "verdict": "The Sprinter is the UK's favourite large van for a reason — the OM651 NCV3 is the fleet champion. Buy 2013–2018 NCV3s with OM651 engines, maintain them strictly, and they'll deliver 300,000+ miles with predictable, manageable repairs. Avoid the OM642 V6 unless you genuinely need the extra torque for heavy towing or payload."
+      },
+      {
+        "buyerProfile": "Self‑Employed Tradesperson",
+        "rating": "★★★★☆",
+        "verdict": "An NCV3 Sprinter with the OM651 2.1 CDI is a solid investment — it's reliable, parts are cheap, and every specialist in the country knows how to fix it. Budget for an EGR valve and fuel filter housing inspection before purchase; factor £400–£1,200 for preventative replacements. A VS30 is more expensive to buy and maintain — only upgrade if your business can justify the cost."
+      },
+      {
+        "buyerProfile": "Campervan Converter",
+        "rating": "★★★★☆",
+        "verdict": "The Sprinter is a campervan conversion favourite — the NCV3 is the sweet spot: robust, spacious, and the OM651 engine is proven. Pre‑2013 NCV3s are cheaper but have the OM646 engine (more injector issues); 2013–2018 is the conversion sweet spot. Budget for an EGR and injector check before the conversion starts."
+      },
+      {
+        "buyerProfile": "Budget Owner",
+        "rating": "⚠️ ★★★☆☆",
+        "verdict": "A T1N Sprinter is the cheapest way into a large van — but a £1,500–£4,000 T1N with an OM602 engine is a project, not a daily driver. Buy it if you can work on it yourself or if you need a cheap occasional workhorse. For reliable daily use, an NCV3 with the OM651 is worth the extra £2,000–£4,000 purchase price."
+      },
+      {
+        "buyerProfile": "First‑Time Van Buyer",
+        "rating": "★★★★☆",
+        "verdict": "A 2013–2018 NCV3 Sprinter with the OM651 2.1 CDI is an excellent first van — it's reliable, easy to drive, and you'll find specialists everywhere. Buy on condition and service history, not mileage. Avoid the OM642 V6 (higher fuel and repair costs) and avoid T1N vans unless you're a confident diy‑mechanic."
+      }
+    ]
   },
   "calculatorCta": {
     "h2": "",
