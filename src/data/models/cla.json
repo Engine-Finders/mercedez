@@ -812,34 +812,6 @@
         "worthKnowing": "The new generation splits into two architectures: the C178 is the combustion/hybrid version; the C174 is the full‑electric CLA — they share a platform but have completely different powertrains"
       },
       {
-        "era": "SECTION 10 — WHO SHOULD BUY A CLA? — <WhoShouldBuy>",
-        "years": "H2: Who Should Buy a CLA?",
-        "keyEngines": "Buyer Profile",
-        "whyBmwChanged": "Rating",
-        "worthKnowing": "Our Verdict"
-      },
-      {
-        "era": "Family Buyer",
-        "years": "★★★☆☆",
-        "keyEngines": "The CLA is a four‑door coupé — not a family car. The sloping roofline compromises rear headroom, and the boot is smaller than a C‑Class Estate. If you need family space, buy a C‑Class or GLC instead. If you want coupé styling and don't regularly carry rear passengers, the CLA works.",
-        "whyBmwChanged": "Daily Commuter",
-        "worthKnowing": "★★★★☆"
-      },
-      {
-        "era": "The C118 CLA 200 with the M282 1.3 petrol is an excellent commuter — 50+ mpg, cheap tax, and the facelift (2023+) electronics are sorted. The C117 diesel is less recommendable due to the OM651's injector‑seal risk — if you must have a diesel, choose a C118 with the OM654.",
-        "years": "Budget Owner",
-        "keyEngines": "⚠️ ★★★☆☆",
-        "whyBmwChanged": "The C117 CLA is the most affordable way into Mercedes‑Benz ownership — but the OM651 diesel is a genuine caveat. A sub‑£5k C117 diesel without documented injector‑seal history is a gamble; a C117 petrol (M270) is the safer budget bet. Budget another £400–£1,200 for a pre‑purchase injector‑seal inspection if you're looking at a diesel.",
-        "worthKnowing": "Performance Buyer"
-      },
-      {
-        "era": "★★★★☆",
-        "years": "The CLA 45 AMG (C118, M139 engine) is a genuine fire‑breather — 382–421hp from a 2.0‑litre four‑cylinder, with the world's most powerful production four‑pot. It's specialist‑only territory: full service history is non‑negotiable, and running costs are high. Buy it for the experience, not for economy.",
-        "keyEngines": "Long‑Term Keeper",
-        "whyBmwChanged": "★★★★☆",
-        "worthKnowing": "If you're keeping a CLA long‑term, buy a 2023+ C118 CLA 200 with the M282 1.3 petrol — the facelift electronics are sorted, the engine is robust, and the C118 platform is well‑understood. The OM654 diesel is also a keeper if you do regular motorway miles. Avoid any C117 as a long‑term keeper — the platform is ageing and the OM651's reputation is well‑earned."
-      },
-      {
         "era": "SECTION 11 — REPAIR OR REPLACE? — <CalculatorCTA>",
         "years": "H2: Can I Repair My CLA Engine — or Should I Replace It?",
         "keyEngines": "If you've got an OM651 diesel in a C117 CLA, the numbers are brutal — a £2,800–£4,800 recon against a £3,000–£6,000 car means replacement cost can exceed 70% of the car's value. For a C118 CLA with the OM654 or M282, replacement is comfortably within the car's value. Use our diagnostic calculator to get a personalised verdict.",
@@ -848,10 +820,40 @@
       }
     ]
   },
-  "whoShouldBuy": {
-    "h2": "",
-    "columns": [],
-    "profiles": []
+    "whoShouldBuy": {
+    "h2": "Who Should Buy a CLA?",
+    "columns": [
+      "Buyer Profile",
+      "Rating",
+      "Our Verdict"
+    ],
+    "profiles": [
+      {
+        "buyerProfile": "Family Buyer",
+        "rating": "⭐⭐⭐☆☆",
+        "verdict": "The CLA is a four‑door coupé — not a family car. The sloping roofline compromises rear headroom, and the boot is smaller than a C‑Class Estate. If you need family space, buy a C‑Class or GLC instead. If you want coupé styling and don't regularly carry rear passengers, the CLA works."
+      },
+      {
+        "buyerProfile": "Daily Commuter",
+        "rating": "⭐⭐⭐⭐☆",
+        "verdict": "The C118 CLA 200 with the M282 1.3 petrol is an excellent commuter — 50+ mpg, cheap tax, and the facelift (2023+) electronics are sorted. The C117 diesel is less recommendable due to the OM651's injector‑seal risk — if you must have a diesel, choose a C118 with the OM654."
+      },
+      {
+        "buyerProfile": "Budget Owner",
+        "rating": "⚠️ ⭐⭐⭐☆☆",
+        "verdict": "The C117 CLA is the most affordable way into Mercedes‑Benz ownership — but the OM651 diesel is a genuine caveat. A sub‑£5k C117 diesel without documented injector‑seal history is a gamble; a C117 petrol (M270) is the safer budget bet."
+      },
+      {
+        "buyerProfile": "Performance Buyer",
+        "rating": "⭐⭐⭐⭐☆",
+        "verdict": "The CLA 45 AMG (C118, M139 engine) is a genuine fire‑breather — 382–421hp from a 2.0‑litre four‑cylinder, with the world's most powerful production four‑pot. It's specialist‑only territory: full service history is non‑negotiable, and running costs are high. Buy it for the experience, not for economy."
+      },
+      {
+        "buyerProfile": "Long‑Term Keeper",
+        "rating": "⭐⭐⭐⭐☆",
+        "verdict": "If you're keeping a CLA long‑term, buy a 2023+ C118 CLA 200 with the M282 1.3 petrol — the facelift electronics are sorted, the engine is robust, and the C118 platform is well‑understood. The OM654 diesel is also a keeper if you do regular motorway miles. Avoid any C117 as a long‑term keeper — the platform is ageing and the OM651's reputation is well‑earned."
+      }
+    ]
   },
   "calculatorCta": {
     "h2": "",
