@@ -1,6 +1,10 @@
 "use client";
 
-import { ComposableMap, Geographies, Geography } from "react-simple-maps";
+import {
+  ComposableMap,
+  Geographies,
+  Geography,
+} from "@vnedyalk0v/react19-simple-maps";
 import MStripe from "@/components/reusableComponents/MStripe";
 import GenIcon from "../generation/GenIcons";
 
