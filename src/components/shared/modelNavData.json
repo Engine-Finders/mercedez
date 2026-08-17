@@ -1,0 +1,213 @@
+{
+  "groups": [
+    {
+      "title": "SUVs & Crossovers",
+      "items": [
+        {
+          "label": "E-Pace",
+          "href": "/e-pace",
+          "variants": [
+            { "label": "D150", "href": "/e-pace/d150" },
+            { "label": "D165", "href": "/e-pace/d165" },
+            { "label": "D180", "href": "/e-pace/d180" },
+            { "label": "D200", "href": "/e-pace/d200" },
+            { "label": "D240", "href": "/e-pace/d240" },
+            { "label": "P200", "href": "/e-pace/p200" },
+            { "label": "P250", "href": "/e-pace/p250" },
+            { "label": "P300", "href": "/e-pace/p300" },
+            { "label": "P300e", "href": "/e-pace/p300e" }
+          ],
+          "generations": [
+            { "label": "X540", "href": "/e-pace/x540" }
+          ],
+          "variantCount": 9,
+          "generationCount": 1
+        },
+        {
+          "label": "F-Pace",
+          "href": "/f-pace",
+          "variants": [
+            { "label": "20d", "href": "/f-pace/20d" },
+            { "label": "25t P250", "href": "/f-pace/25t-p250" },
+            { "label": "25d 30d", "href": "/f-pace/25d-30d" },
+            { "label": "D300", "href": "/f-pace/d300" },
+            { "label": "P300", "href": "/f-pace/p300" },
+            { "label": "P400", "href": "/f-pace/p400" },
+            { "label": "P400e", "href": "/f-pace/p400e" },
+            { "label": "SVR", "href": "/f-pace/svr" }
+          ],
+          "generations": [
+            { "label": "X761", "href": "/f-pace/x761" }
+          ],
+          "variantCount": 8,
+          "generationCount": 1
+        },
+        {
+          "label": "I-Pace Drive Unit Guide",
+          "href": "/i-pace-drive-unit-guide",
+          "variants": [
+            { "label": "EV400", "href": "/i-pace/ev400" }
+          ],
+          "generations": [
+            { "label": "X590", "href": "/i-pace/x590" }
+          ],
+          "variantCount": 1,
+          "generationCount": 1
+        }
+      ]
+    },
+    {
+      "title": "Sports & GT",
+      "items": [
+        {
+          "label": "F-Type",
+          "href": "/f-type",
+          "variants": [
+            { "label": "3.0 V6 (340)", "href": "/f-type/3-0-v6-340" },
+            { "label": "30 V6 S", "href": "/f-type/30-v6-s" },
+            { "label": "P300", "href": "/f-type/p300" },
+            { "label": "P450", "href": "/f-type/p450" },
+            { "label": "R", "href": "/f-type/r" },
+            { "label": "SVR", "href": "/f-type/svr" }
+          ],
+          "generations": [
+            { "label": "X152", "href": "/f-type/x152" }
+          ],
+          "variantCount": 6,
+          "generationCount": 1
+        },
+        {
+          "label": "XK",
+          "href": "/xk",
+          "variants": [
+            { "label": "40", "href": "/xk/40" },
+            { "label": "42", "href": "/xk/42" },
+            { "label": "50 V8", "href": "/xk/50-v8" },
+            { "label": "XKR-S", "href": "/xk/xkr-s" },
+            { "label": "XKR", "href": "/xk/xkr" }
+          ],
+          "generations": [
+            { "label": "X100", "href": "/xk/x100" },
+            { "label": "X150", "href": "/xk/x150" }
+          ],
+          "variantCount": 5,
+          "generationCount": 2
+        }
+      ]
+    },
+    {
+      "title": "Saloons & Executive",
+      "items": [
+        {
+          "label": "XE",
+          "href": "/xe",
+          "variants": [
+            { "label": "20d", "href": "/xe/20d" },
+            { "label": "20t 25t", "href": "/xe/20t-25t" },
+            { "label": "P250", "href": "/xe/p250" },
+            { "label": "P300 30t", "href": "/xe/p300-30t" },
+            { "label": "S", "href": "/xe/s" },
+            { "label": "SV Project 8", "href": "/xe/sv-project-8" }
+          ],
+          "generations": [
+            { "label": "X760", "href": "/xe/x760" }
+          ],
+          "variantCount": 6,
+          "generationCount": 1
+        },
+        {
+          "label": "XF",
+          "href": "/xf",
+          "variants": [
+            { "label": "20 Petrol", "href": "/xf/20-petrol" },
+            { "label": "20d D200", "href": "/xf/20d-d200" },
+            { "label": "22d", "href": "/xf/22d" },
+            { "label": "27d", "href": "/xf/27d" },
+            { "label": "30 SC", "href": "/xf/30-sc" },
+            { "label": "30d", "href": "/xf/30d" },
+            { "label": "42 V8", "href": "/xf/42-v8" },
+            { "label": "5.0 V8 XFR", "href": "/xf/5-0-v8-xfr" }
+          ],
+          "generations": [
+            { "label": "X250", "href": "/xf/x250" },
+            { "label": "X260", "href": "/xf/x260" }
+          ],
+          "variantCount": 8,
+          "generationCount": 2
+        },
+        {
+          "label": "XJ",
+          "href": "/xj",
+          "variants": [
+            { "label": "27d", "href": "/xj/27d" },
+            { "label": "28 34 XK6", "href": "/xj/28-34-xk6" },
+            { "label": "3.0 V6", "href": "/xj/3-0-v6" },
+            { "label": "30 SC Petrol", "href": "/xj/30-sc-petrol" },
+            { "label": "30d", "href": "/xj/30d" },
+            { "label": "32 V8", "href": "/xj/32-v8" },
+            { "label": "32", "href": "/xj/32" },
+            { "label": "35 V8", "href": "/xj/35-v8" },
+            { "label": "36 AJ6", "href": "/xj/36-aj6" },
+            { "label": "40 V8", "href": "/xj/40-v8" },
+            { "label": "40", "href": "/xj/40" },
+            { "label": "4.2 V8", "href": "/xj/4-2-v8" },
+            { "label": "4.2 XK6", "href": "/xj/4-2-xk6" },
+            { "label": "50 V8", "href": "/xj/50-v8" },
+            { "label": "53 V12", "href": "/xj/53-v12" },
+            { "label": "60 V12", "href": "/xj/60-v12" }
+          ],
+          "generations": [
+            { "label": "XJ Series 1", "href": "/xj/xj-series-1" },
+            { "label": "XJ Series 2", "href": "/xj/xj-series-2" },
+            { "label": "XJ Series 3", "href": "/xj/xj-series-3" },
+            { "label": "X300", "href": "/xj/x300" },
+            { "label": "X308", "href": "/xj/x308" },
+            { "label": "X350 X358", "href": "/xj/x350-x358" },
+            { "label": "X351", "href": "/xj/x351" },
+            { "label": "XJ40", "href": "/xj/xj40" }
+          ],
+          "variantCount": 16,
+          "generationCount": 8
+        }
+      ]
+    },
+    {
+      "title": "Classic Saloons",
+      "items": [
+        {
+          "label": "S-Type",
+          "href": "/s-type",
+          "variants": [
+            { "label": "2.7d", "href": "/s-type/2-7d" },
+            { "label": "2.5 V6", "href": "/s-type/2-5-v6" },
+            { "label": "30 V6", "href": "/s-type/30-v6" },
+            { "label": "40 V8", "href": "/s-type/40-v8" },
+            { "label": "42 V8", "href": "/s-type/42-v8" },
+            { "label": "R", "href": "/s-type/r" }
+          ],
+          "generations": [
+            { "label": "X200", "href": "/s-type/x200" }
+          ],
+          "variantCount": 6,
+          "generationCount": 1
+        },
+        {
+          "label": "X-Type",
+          "href": "/x-type",
+          "variants": [
+            { "label": "2.2d", "href": "/x-type/2-2d" },
+            { "label": "20 V6", "href": "/x-type/20-v6" },
+            { "label": "20d", "href": "/x-type/20d" },
+            { "label": "25 V6", "href": "/x-type/25-v6" },
+            { "label": "30 V6", "href": "/x-type/30-v6" }
+          ],
+          "generations": [
+            { "label": "X400", "href": "/x-type/x400" }
+          ],
+          "variantCount": 5,
+          "generationCount": 1
+        }
+      ]
+    }
+  ]
+}

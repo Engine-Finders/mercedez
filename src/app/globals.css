@@ -1,8 +1,43 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: var(--color-page);
+  --foreground: var(--color-text);
+  color-scheme: light;
+  --color-page: #f7f5f1;
+  --color-page-soft: #efebe4;
+  --color-surface: #ffffff;
+  --color-surface-raised: rgba(255, 255, 255, 0.95);
+  --color-surface-glass: rgba(255, 253, 249, 0.82);
+  --color-table-surface: rgba(255, 255, 255, 0.97);
+  --color-text: #171511;
+  --color-text-muted: #514b42;
+  --color-text-soft: #7b7368;
+  --color-border: #ded8ce;
+  --color-border-strong: #b9aa94;
+  --color-primary: #99651f;
+  --color-primary-strong: #704411;
+  --color-primary-soft: #f3e8d6;
+  --color-on-primary: #ffffff;
+  --color-chrome: #0a0a09;
+  --color-accent: #b27a2a;
+  --color-accent-soft: #f7eddd;
+  --color-accent-red: #a3272e;
+  --color-accent-red-soft: #f7e8e8;
+  --color-accent-green: #397553;
+  --color-accent-green-soft: #e7f1eb;
+  --color-shadow: rgba(37, 28, 17, 0.14);
+  --color-hero-overlay: rgba(248, 246, 242, 0.74);
+  --color-hero-fade: rgba(248, 246, 242, 0.98);
+  --color-navbar: rgba(255, 255, 255, 0.97);
+  --color-glass-border: rgba(112, 68, 17, 0.18);
+  --color-glass-shadow: rgba(37, 28, 17, 0.1);
+  --color-btn-hover: rgba(34, 20, 6, 0.22);
+  --color-btn-hover-text: #ffffff;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
 }
 
 @theme inline {
@@ -15,10 +50,69 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
 }
 
+::selection {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+}
 
+.glass-panel {
+  background: var(--color-surface-glass);
+  border: 1px solid var(--color-glass-border);
+  box-shadow: 0 8px 24px var(--color-glass-shadow);
+  backdrop-filter: blur(24px) saturate(160%);
+  -webkit-backdrop-filter: blur(24px) saturate(160%);
+}
+
+button,
 a {
-  font-weight: 900;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+@layer base {
+  a {
+    font-weight: 900;
+    text-decoration: none;
+  }
+}
+
+/* Keep underlines only in Find Your Vehicle (homeSec2) */
+.find-your-vehicle a {
   text-decoration: underline;
+}
+
+/* Accent spans inside headings loaded from JSON */
+.heading-accent {
+  color: var(--color-primary);
+}
+
+.heading-accent-red {
+  color: var(--color-accent-red);
+}
+
+/* CTA button — warm bronze, matching the Mercedes reference palette */
+.btn-cta {
+  color: var(--color-on-primary);
+  transition: all 0.2s ease;
+}
+.btn-cta:hover {
+  box-shadow: inset 0 0 0 9999px var(--color-btn-hover);
+  color: var(--color-btn-hover-text);
+}
+
+[data-theme="dark"] .btn-cta {
+  color: var(--color-on-primary);
+}
+
+[data-theme="dark"] .btn-cta:hover {
+  color: var(--color-btn-hover-text);
 }
