@@ -9,10 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@vnedyalk0v/react19-simple-maps": "^2.0.10",
     "next": "16.2.10",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "react-simple-maps": "^3.0.0",
     "resend": "^6.20.0"
   },
   "devDependencies": {
