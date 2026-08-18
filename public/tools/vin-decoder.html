@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free Mercedes VIN Decoder | mercedesengines.uk</title>
+  <meta name="description" content="Free Mercedes VIN decoder for UK owners. Enter your VIN to identify your model series, engine family and manufacturing details — no email required.">
+  <link rel="canonical" href="https://mercedesengines.uk/tools/vin-decoder">
+  <link rel="stylesheet" href="/assets/mercedes/style.css">
+  <link rel="preload" href="/assets/mercedes/fonts/display.woff2" as="font" type="font/woff2" crossorigin>
+  <script src="/assets/mercedes/effects.js" defer></script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mercedesengines.uk/#organization",
+      "name": "MercedesEngines.uk",
+      "url": "https://mercedesengines.uk",
+      "description": "Independent editorial resource covering Mercedes-Benz engine reliability, replacement costs and ownership decisions. Part of the Engine Finders network.",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://mercedesengines.uk/assets/mercedes/images/logo.png"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mercedesengines.uk/#website",
+      "name": "MercedesEngines.uk",
+      "url": "https://mercedesengines.uk",
+      "publisher": {
+        "@id": "https://mercedesengines.uk/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mercedesengines.uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tools",
+          "item": "https://mercedesengines.uk/tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "VIN Decoder",
+          "item": "https://mercedesengines.uk/tools/vin-decoder"
+        }
+      ]
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://mercedesengines.uk/tools/vin-decoder#webapp",
+      "name": "Mercedes VIN Decoder",
+      "description": "Free Mercedes VIN decoder for UK owners. Enter your VIN to identify your model series, engine family and manufacturing details — no email required.",
+      "url": "https://mercedesengines.uk/tools/vin-decoder",
+      "applicationCategory": "UtilityApplication",
+      "operatingSystem": "Web",
+      "browserRequirements": "Requires JavaScript",
+      "author": {
+        "@id": "https://mercedesengines.uk/#organization"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "GBP"
+      },
+      "featureList": [
+        "Decodes all 17 VIN characters",
+        "Identifies model series and chassis code",
+        "Cross-references engine fitment database",
+        "Flags multi-engine badges with confirmation step",
+        "No email or account required"
+      ],
+      "datePublished": "2026-02-01",
+      "dateModified": "2026-08-14"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://mercedesengines.uk/tools/vin-decoder#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the Mercedes VIN decoder free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, completely free with no email required to see your result. The tool processes your VIN instantly and shows the full decode without any signup or payment gate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a Mercedes VIN tell me the exact engine code?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not directly. Mercedes-Benz encodes the model series and body type in the VIN but not the specific engine code. The engine is identified via the data card (build sheet). Our decoder shows the most probable engine family based on model and production period, then directs you to confirm via the engine number stamp."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do I find my Mercedes VIN?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The VIN appears in three locations: on a metal plate at the base of the windscreen (driver's side), on a sticker in the driver's door jamb, and on your V5C registration document. All three should match exactly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my VIN isn't recognised?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If the decoder cannot parse your VIN, check that all 17 characters are entered correctly with no spaces. If it still fails, use our Fitment Matrix to identify your engine manually by model and build year, or check the engine number stamp directly using our Engine Number Location guide."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero hero--tool">
+    <p class="hero__eyebrow">Tools · Free · No Email Required</p>
+    <h1 class="hero__h1">Mercedes VIN Decoder</h1>
+    <p class="hero__sub">Enter your 17-character VIN below. No email required to see your result — we'll show you the model series, body type, manufacturing plant, and the engine family fitted to your specific vehicle.</p>
+
+    <!-- TOOL INPUT -->
+    <div class="tool-input-block">
+      <label for="vin-input" class="tool-label">Enter your Mercedes-Benz VIN</label>
+      <div class="tool-input-row">
+        <input type="text" id="vin-input" class="tool-input" maxlength="17" placeholder="e.g. WDD2050242A123456" autocomplete="off" spellcheck="false">
+        <button class="btn btn--primary" id="vin-submit">DECODE VIN</button>
+      </div>
+      <p class="tool-hint">Demo tool — try WDD205, WDB211, or W1K213 to see sample results. The production version integrates a live Mercedes-Benz data card lookup.</p>
+    </div>
+
+    <!-- STAT STRIP -->
+    <div class="stat-strip">
+      <div class="stat-cell">
+        <span class="stat-cell__icon">⚡</span>
+        <span class="stat-cell__numeral">Instant</span>
+        <span class="stat-cell__label">No email required</span>
+      </div>
+      <div class="stat-cell">
+        <span class="stat-cell__icon">📊</span>
+        <span class="stat-cell__numeral">9,000+</span>
+        <span class="stat-cell__label">Real UK enquiries informing our data</span>
+      </div>
+      <div class="stat-cell">
+        <span class="stat-cell__icon">🔧</span>
+        <span class="stat-cell__numeral">15+</span>
+        <span class="stat-cell__label">Vetted Mercedes-Benz engine specialists</span>
+      </div>
+      <div class="stat-cell">
+        <span class="stat-cell__icon">🏆</span>
+        <span class="stat-cell__numeral">100%</span>
+        <span class="stat-cell__label">Independent — no manufacturer affiliation</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- SUMMARY BOX -->
+  <div class="summary-box">
+    <p class="summary-box__lead"><strong>Our free Mercedes VIN decoder identifies your vehicle's model series, chassis code, manufacturing plant and engine family in seconds — no account, no email, no obligation.</strong></p>
+    <ul>
+      <li>Decodes all 17 characters of your Mercedes-Benz VIN to identify model series and production details</li>
+      <li>Cross-references against our fitment database to show the engine family most likely fitted to your vehicle</li>
+      <li>Flags whether your badge spans multiple engines across the production run, with a confirmation step</li>
+      <li>Routes directly to our <a href="/tools/engine-compatibility-checker">engine compatibility checker</a> for replacement enquiries</li>
+    </ul>
+    <p class="summary-box__next">Try it above — result appears instantly. For the full picture of all eight free tools, see our <a href="/tools">Tools hub</a>.</p>
+  </div>
+
+  <!-- TOC BAR -->
+  <nav class="toc-bar" aria-label="On this page">
+    <span class="toc-label">On this page</span>
+    <ul>
+      <li><a href="#how">How It Works</a></li>
+      <li><a href="#vin-structure">VIN Structure</a></li>
+      <li><a href="#results">Results</a></li>
+      <li><a href="#source">Data Source</a></li>
+      <li><a href="#related">Related Tools</a></li>
+      <li><a href="#faq">FAQ</a></li>
+    </ul>
+  </nav>
+
+  <!-- SECTION 1: How It Works -->
+  <section class="section" id="how">
+    <div class="section-inner fade-up">
+      <h2>How It Works</h2>
+      <div class="steps-grid steps-grid--3">
+        <div class="step-card">
+          <span class="step-card__number">1</span>
+          <h3>You Enter Your VIN</h3>
+          <p>Your 17-character Vehicle Identification Number is found on the driver's side door jamb, the base of the windscreen, or your V5C logbook. No account, no email required to see your result.</p>
+        </div>
+        <div class="step-card">
+          <span class="step-card__number">2</span>
+          <h3>We Decode the Structure</h3>
+          <p>Your VIN is parsed against Mercedes-Benz WMI codes, model series identifiers and production plant data to establish your exact chassis code — such as <a href="/c-class/w205">W205</a> or <a href="/e-class/w213">W213</a>.</p>
+        </div>
+        <div class="step-card">
+          <span class="step-card__number">3</span>
+          <h3>You Get an Instant Result</h3>
+          <p>Model series, body type, manufacturing plant, production year, and the engine family most commonly fitted to that configuration. From there, confirm the exact engine on our <a href="/technical/engine-number-location">engine number location guide</a>, or run a full check with our <a href="/tools/registration-lookup">registration lookup</a>.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 2: What Your Mercedes VIN Tells You -->
+  <section class="section section-alt" id="vin-structure">
+    <div class="section-inner fade-down">
+      <h2>What a Mercedes VIN Can and Can't Tell You</h2>
+      <p>Every Mercedes-Benz VIN is 17 characters long and follows the international ISO 3779 standard, but Mercedes encodes specific information in predictable positions. Understanding the structure helps you interpret your result and know what to confirm separately.</p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Position</th>
+              <th>Contains</th>
+              <th>Example</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1–3</td>
+              <td>World Manufacturer Identifier (WMI)</td>
+              <td>WDD = Mercedes-Benz Germany, W1K = Mercedes-Benz passenger cars [PATTERN DATA]</td>
+            </tr>
+            <tr>
+              <td>4–8</td>
+              <td>Vehicle Descriptor Section (model series, body type, restraint system)</td>
+              <td>Identifies W205, W213, W167 etc. [PATTERN DATA]</td>
+            </tr>
+            <tr>
+              <td>9</td>
+              <td>Check digit (mathematical validation)</td>
+              <td>Used to verify VIN authenticity [PATTERN DATA]</td>
+            </tr>
+            <tr>
+              <td>10</td>
+              <td>Model year</td>
+              <td>Letter or digit encoding the model year [PATTERN DATA]</td>
+            </tr>
+            <tr>
+              <td>11</td>
+              <td>Assembly plant</td>
+              <td>Sindelfingen, Bremen, Rastatt, Tuscaloosa etc. [PATTERN DATA]</td>
+            </tr>
+            <tr>
+              <td>12–17</td>
+              <td>Production sequence number</td>
+              <td>Unique serial for your specific vehicle [PATTERN DATA]</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p><strong>What the VIN cannot tell you:</strong> Unlike some manufacturers, Mercedes-Benz does not encode the exact engine code directly in the VIN. The engine is specified on the vehicle's data card (build sheet) using option codes. Our decoder cross-references the model series and production period against our fitment database to show the most probable engine family, but for absolute confirmation — particularly when sourcing a replacement engine — you should verify using the <a href="/technical/engine-number-location">engine number stamp</a> or request the data card from a Mercedes-Benz dealer [PATTERN DATA].</p>
+      <p>This distinction matters when ordering parts or a replacement engine. The difference between an <a href="/engine/om651">OM651</a> and an <a href="/engine/om654">OM654</a> in the same C-Class badge is significant for compatibility — see our <a href="/fitment/om-vs-m-series-identification">OM vs M Series identification guide</a> for how to confirm which you have.</p>
+    </div>
+  </section>
+
+  <!-- SECTION 3: What the Results Mean -->
+  <section class="section" id="results" data-lazy-section>
+    <div class="section-inner fade-left">
+      <h2>What the Results Mean</h2>
+      <p>Your result shows five fields. Here's how to read each one:</p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Field</th>
+              <th>What It Tells You</th>
+              <th>What To Do With It</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Model Series</td>
+              <td>Your chassis code (W205, W213, W167 etc.) and the model name it corresponds to</td>
+              <td>Use it to navigate to the correct model page on this site for engine-specific guidance</td>
+            </tr>
+            <tr>
+              <td>Body Type</td>
+              <td>Saloon, estate, coupe, SUV etc. derived from positions 4–8</td>
+              <td>Confirms you're looking at the right variant — important for parts compatibility</td>
+            </tr>
+            <tr>
+              <td>Engine Family</td>
+              <td>The engine code most commonly fitted to your model series and production period</td>
+              <td>Use as a starting point. Confirm via engine number stamp or data card before ordering parts</td>
+            </tr>
+            <tr>
+              <td>Production Plant</td>
+              <td>Where your vehicle was assembled</td>
+              <td>Useful for import history checks and understanding specification differences</td>
+            </tr>
+            <tr>
+              <td>Model Year</td>
+              <td>The model year encoded in position 10 (may differ from registration year)</td>
+              <td>Important for identifying mid-production revisions and TSB applicability</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>For badges that span two engines across a production run — such as certain C-Class W205 variants that moved from <a href="/engine/om651">OM651</a> to <a href="/engine/om654">OM654</a> mid-cycle — the decoder will flag this and direct you to confirm via the engine number. This is the same approach used in our <a href="/fitment/matrix">full Fitment Matrix</a>.</p>
+    </div>
+  </section>
+
+  <!-- SECTION 4: Where Our Data Comes From -->
+  <section class="section section-alt" id="source" data-lazy-section>
+    <div class="section-inner fade-right">
+      <h2>Where Our Data Comes From</h2>
+      <p>WMI and model series decoding data is cross-referenced against Mercedes-Benz published build structure documentation and independent parts supplier catalogues [PATTERN DATA]. Engine-to-model fitment data is drawn from the same 24,650-vehicle 2025 UK enquiry dataset that powers every other page on this site — full methodology on our <a href="/data/methodology">Data Methodology page</a> [EM-VERIFIED].</p>
+      <p>Where our fitment confidence is below 95% for a given model-year combination, we state this explicitly in the result and recommend the <a href="/technical/engine-number-location">physical engine number check</a> as the definitive confirmation. We never guess silently — honest uncertainty is a core editorial principle. See our <a href="/about/editorial-standards">Editorial Standards</a> for the full commitment.</p>
+      <p>This tool is one of eight free tools on the site. It does not require an email address, does not store your VIN, and does not gate the result behind any signup. The VIN you enter is processed locally and never transmitted to a third party [PATTERN DATA].</p>
+    </div>
+  </section>
+
+  <!-- SECTION 5: Related Tools -->
+  <section class="section" id="related" data-lazy-section>
+    <div class="section-inner fade-up">
+      <h2>Other Tools That Might Help</h2>
+      <p>The VIN decoder is your starting point. Depending on what you need next, one of these tools will take you further:</p>
+      <div class="card-grid card-grid--3">
+        <div class="card">
+          <h3><a href="/tools/registration-lookup">Registration Lookup</a></h3>
+          <p>Enter your number plate instead of a VIN for a faster engine identification, including known faults and a repair-or-replace verdict.</p>
+        </div>
+        <div class="card">
+          <h3><a href="/tools/engine-compatibility-checker">Engine Compatibility Checker</a></h3>
+          <p>Already know your engine code? Confirm which replacement units are compatible before requesting a quote.</p>
+        </div>
+        <div class="card">
+          <h3><a href="/tools/repair-vs-replace-calculator">Repair vs Replace Calculator</a></h3>
+          <p>Apply the 70% Mercedes threshold to your specific vehicle value and get a clear recommendation.</p>
+        </div>
+      </div>
+      <p>For a manual approach, our <a href="/fitment/matrix">Fitment Matrix</a> lets you browse every engine-to-model combination by chassis code, and the <a href="/fitment/engine-code-guide">Engine Code Guide</a> explains how Mercedes codes work across the OM and M families.</p>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-alt" id="faq" data-lazy-section>
+    <div class="section-inner fade-down">
+      <h2>Frequently Asked Questions</h2>
+
+      <div class="faq-item">
+        <h3>Is the Mercedes VIN decoder free?</h3>
+        <p>Yes, completely free with no email required to see your result. The tool processes your VIN instantly and shows the full decode without any signup or payment gate.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>Can a Mercedes VIN tell me the exact engine code?</h3>
+        <p>Not directly. Mercedes-Benz encodes the model series and body type in the VIN but not the specific engine code. The engine is identified via the data card (build sheet). Our decoder shows the most probable engine family based on model and production period, then directs you to confirm via the engine number stamp.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>Where do I find my Mercedes VIN?</h3>
+        <p>The VIN appears in three locations: on a metal plate at the base of the windscreen (driver's side), on a sticker in the driver's door jamb, and on your V5C registration document. All three should match exactly.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>What if my VIN isn't recognised?</h3>
+        <p>If the decoder cannot parse your VIN, check that all 17 characters are entered correctly with no spaces. If it still fails, use our <a href="/fitment/matrix">Fitment Matrix</a> to identify your engine manually by model and build year, or check the engine number stamp directly using our <a href="/technical/engine-number-location">Engine Number Location guide</a>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRUST STRIP + CTA -->
+  <section class="section section--trust" data-lazy-section>
+    <div class="section-inner fade-left">
+      <div class="trust-strip">
+        <div class="trust-cell">
+          <span class="trust-cell__numeral">✓</span>
+          <span class="trust-cell__label">No Email Gate — your result is free and immediate, always</span>
+        </div>
+        <div class="trust-cell">
+          <span class="trust-cell__numeral">✓</span>
+          <span class="trust-cell__label">Honest Uncertainty — where we're not certain, we say so and point you to the fitment matrix</span>
+        </div>
+        <div class="trust-cell">
+          <span class="trust-cell__numeral">✓</span>
+          <span class="trust-cell__label">15+ Vetted Mercedes-Benz Specialists — every result routes to a specialist who can confirm and quote</span>
+        </div>
+        <div class="trust-cell">
+          <span class="trust-cell__numeral">✓</span>
+          <span class="trust-cell__label">100% Independent — no sponsors, no manufacturer influence</span>
+        </div>
+      </div>
+      <div class="cta-block cta-block--consultative">
+        <h2>Got Your Result? Check Compatibility Next</h2>
+        <p>Whatever your VIN reveals, the next step is confirming engine compatibility or comparing replacement quotes from our vetted specialist network.</p>
+        <a href="/tools/engine-compatibility-checker" class="btn btn--primary">Engine Compatibility Checker</a>
+        <a href="/tools/repair-vs-replace-calculator" class="btn btn--secondary">Repair vs Replace Calculator</a>
+      </div>
+      <p class="trust-footnote">MercedesEngines.uk is part of the Engine Finders network. Independent editorial content; not affiliated with Mercedes-Benz AG or any manufacturer franchise. Read our <a href="/about/editorial-standards">Editorial Standards</a> and <a href="/about/data-verification">Data Verification</a> methodology.</p>
+    </div>
+  </section>
+
+</body>
+</html>

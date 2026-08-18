@@ -1,32 +1,101 @@
-/** Full navbar inventory: dynamic MODELS + ENGINES, plus every static public HTML page. */
-import modelNavData from "@/components/shared/modelNavData.json";
+/** Full navbar inventory: dynamic MODELS + ENGINES built from the registry, plus static public HTML pages. */
+import modelPages from "@/data/registery/models/pages.json";
+import genPages from "@/data/registery/generations/pages.json";
+import varPages from "@/data/registery/variants/pages.json";
+import engPages from "@/data/registery/engines/pages.json";
 import staticNavData from "@/components/shared/staticNavData.json";
 
+function titleCase(slug = "") {
+  return slug
+    .split("-")
+    .filter(Boolean)
+    .map((part) => {
+      const lower = part.toLowerCase();
+      if (/^(m|om)\d/.test(lower)) return lower.toUpperCase();
+      if (/^\d/.test(lower)) return lower.toUpperCase();
+      if (lower === "amg") return "AMG";
+      if (lower === "cdi") return "CDI";
+      if (lower === "d") return "d";
+      if (lower === "gt") return "GT";
+      if (lower === "slk" || lower === "slc" || lower === "sl") return lower.toUpperCase();
+      return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase();
+    })
+    .join(" ");
+}
+
+function parentAliases(slug) {
+  if (slug === "clc-class") return new Set(["clc-class", "clc"]);
+  if (slug === "slk-slc") return new Set(["slk-slc", "slk", "slc"]);
+  return new Set([slug]);
+}
+
+const modelGroupsConfig = [
+  {
+    title: "Compact & Small",
+    slugs: ["a-class", "b-class", "cla", "citan", "vaneo"],
+  },
+  {
+    title: "Saloons & Executive",
+    slugs: ["c-class", "e-class", "s-class", "cls", "clc-class", "clk", "r-class"],
+  },
+  {
+    title: "SUVs & Crossovers",
+    slugs: ["g-class", "gla", "glc", "gle", "glk", "gls", "m-class"],
+  },
+  {
+    title: "Sports & Roadsters",
+    slugs: ["amg-gt", "sl", "slk-slc", "sls-amg"],
+  },
+  {
+    title: "Vans & Commercial",
+    slugs: ["sprinter", "v-class", "viano", "vito", "vario"],
+  },
+];
+
+const modelGroups = modelGroupsConfig.map((group) => ({
+  title: group.title,
+  items: group.slugs.map((slug) => {
+    const accepted = parentAliases(slug);
+
+    const variants = varPages
+      .filter((page) => accepted.has(page.parent))
+      .map((page) => ({
+        label: titleCase(page.slug),
+        href: `/${page.parent}/${page.slug}`,
+      }));
+
+    const generations = genPages
+      .filter((page) => accepted.has(page.parent))
+      .map((page) => ({
+        label: titleCase(page.slug),
+        href: page.parent === page.slug ? `/${page.slug}` : `/${page.parent}/${page.slug}`,
+      }));
+
+    return {
+      label: titleCase(slug),
+      href: `/${slug}`,
+      variants,
+      generations,
+    };
+  }),
+}));
+
+const petrolEngines = [];
+const dieselEngines = [];
+
+for (const page of engPages) {
+  const item = {
+    label: titleCase(page.slug),
+    href: `/engine/${page.slug}`,
+  };
+
+  if (page.slug.startsWith("om")) dieselEngines.push(item);
+  else petrolEngines.push(item);
+}
+
 const enginesGroups = [
-  {
-    title: "Petrol",
-    links: [
-      { label: "AJ-V6 Petrol", href: "/engine/aj-v6-petrol" },
-      { label: "AJ-V8 4.0 / 4.2", href: "/engine/aj-v8-4-0-4-2" },
-      { label: "AJ133", href: "/engine/aj133" },
-      { label: "AJ20P6", href: "/engine/aj20p6" },
-      { label: "AJ6 / AJ16", href: "/engine/aj6-aj16" },
-      { label: "Ingenium 2.0 Petrol", href: "/engine/ingenium-20-petrol" },
-      { label: "P510", href: "/engine/p510" },
-      { label: "XK Straight Six", href: "/engine/xk-straight-six" },
-      { label: "V12 HE", href: "/engine/v12-he" },
-    ],
-  },
-  {
-    title: "Diesel",
-    links: [
-      { label: "AJD-V6 Diesel", href: "/engine/ajd-v6-diesel" },
-      { label: "306DT / 306PS", href: "/engine/306dt-306ps" },
-      { label: "AJ20D6", href: "/engine/aj20d6" },
-      { label: "AJD4 / 204DTD", href: "/engine/ajd4-204dtd" },
-      { label: "Ingenium 2.0 Diesel", href: "/engine/ingenium-2-0-diesel" },
-    ],
-  },
+  { title: "Petrol", links: petrolEngines },
+  { title: "Diesel", links: dieselEngines },
 ];
 
 export const navMenus = [
@@ -34,10 +103,7 @@ export const navMenus = [
     id: "models",
     label: "MODELS",
     kind: "models",
-    groups: modelNavData.groups.map((group) => ({
-      title: group.title,
-      items: group.items.map(({ variantCount, generationCount, ...item }) => item),
-    })),
+    groups: modelGroups,
   },
   {
     id: "engines",
@@ -85,7 +151,6 @@ export const navMenus = [
       { title: "Tools", links: staticNavData.tools },
       { title: "About", links: staticNavData.about },
       { title: "Contact", links: staticNavData.contact },
-      { title: "Engine Pages", links: staticNavData.engine },
     ],
   },
 ];

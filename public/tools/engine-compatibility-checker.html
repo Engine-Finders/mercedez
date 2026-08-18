@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free Mercedes Engine Compatibility Checker Online</title>
+  <meta name="description" content="Check which Mercedes engine fits your vehicle instantly. Free compatibility checker covering 40+ engine codes and 200+ chassis variants. No email required.">
+  <link rel="canonical" href="https://mercedesengines.uk/tools/engine-compatibility-checker">
+  <link rel="stylesheet" href="/assets/mercedes/style.css">
+  <link rel="preload" href="/assets/mercedes/fonts/display.woff2" as="font" type="font/woff2" crossorigin>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mercedesengines.uk/#organization",
+      "name": "Mercedes Engines",
+      "url": "https://mercedesengines.uk",
+      "description": "Independent editorial resource for Mercedes-Benz engine knowledge, replacement cost data and ownership guidance.",
+      "sameAs": []
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mercedesengines.uk/#website",
+      "url": "https://mercedesengines.uk",
+      "name": "Mercedes Engines",
+      "publisher": { "@id": "https://mercedesengines.uk/#organization" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://mercedesengines.uk/tools/engine-compatibility-checker#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mercedesengines.uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tools",
+          "item": "https://mercedesengines.uk/tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Engine Compatibility Checker",
+          "item": "https://mercedesengines.uk/tools/engine-compatibility-checker"
+        }
+      ]
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://mercedesengines.uk/tools/engine-compatibility-checker#webapplication",
+      "name": "Mercedes Engine Compatibility Checker",
+      "url": "https://mercedesengines.uk/tools/engine-compatibility-checker",
+      "description": "Free online tool to check which Mercedes engine fits your vehicle by model, chassis code and production year. Returns matched engine codes, supply-only replacement cost ranges and a repair-to-value flag instantly.",
+      "applicationCategory": "UtilityApplication",
+      "operatingSystem": "Any",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "GBP"
+      },
+      "publisher": { "@id": "https://mercedesengines.uk/#organization" },
+      "isPartOf": { "@id": "https://mercedesengines.uk/#website" },
+      "author": {
+        "@type": "Organization",
+        "name": "Mercedes Engines Editorial Team",
+        "url": "https://mercedesengines.uk/about"
+      },
+      "datePublished": "2026-02-14",
+      "dateModified": "2026-08-14",
+      "mainEntityOfPage": "https://mercedesengines.uk/tools/engine-compatibility-checker"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://mercedesengines.uk/tools/engine-compatibility-checker#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is this Mercedes engine compatibility checker free to use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, completely free with no email gate, no account creation and no usage limit. Results appear instantly. If you then want to compare quotes from vetted specialists, that routing is handled by EnginesMarket — but the checker itself is an independent editorial tool."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I check compatibility without knowing my chassis code?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Select your model and production year first — the chassis dropdown will narrow automatically. If you want to confirm the chassis code physically, it appears on the VIN plate (visible at the base of the windscreen on most Mercedes models) and in your V5C logbook. Our Engine Code Guide walks through every location."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my Mercedes has had an engine swap already?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The checker returns the factory-original fitment. If a previous owner has swapped the engine, the physical unit may differ from the result shown. Confirm the actual engine code stamped on the block — the Engine Number Location reference shows where to look for each family."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does this cover AMG and performance variants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. AMG engines including the M156, M157, M177 and M178 are included in the database. However, AMG replacement costs are substantially higher — the M177 reconditioned supply alone runs £8,000–£14,000 — so the repair-to-value flag is especially important for AMG hosts."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<!-- NAVIGATION -->
+<nav class="site-nav" aria-label="Main navigation">
+  <div class="nav-inner">
+    <a href="/" class="nav-brand">MERCEDES <span>ENGINES</span></a>
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
+    <ul class="nav-links">
+      <li><a href="/c-class">C-Class</a></li>
+      <li><a href="/e-class">E-Class</a></li>
+      <li><a href="/glc">GLC</a></li>
+      <li><a href="/engine/om651">OM651</a></li>
+      <li><a href="/data">Data</a></li>
+      <li><a href="/tools">Tools</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- BREADCRUMB -->
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="/">Home</a> <span class="sep">/</span>
+  <a href="/tools">Tools</a> <span class="sep">/</span>
+  <span class="current">Engine Compatibility Checker</span>
+</nav>
+
+<!-- HERO -->
+<header class="hero hero-tool">
+  <p class="eyebrow">Free Tool · No Email Required</p>
+  <h1>Mercedes Engine Compatibility Checker</h1>
+  <p class="sub-headline">Select your model, chassis code and year. Get a matched engine code, real replacement cost data, and a repair-to-value verdict — instantly.</p>
+</header>
+
+<!-- STAT STRIP -->
+<div class="stat-strip">
+  <div class="stat-cell">
+    <span class="stat-icon">🔧</span>
+    <span class="stat-number">40+</span>
+    <span class="stat-label">Mercedes Engine Codes Covered</span>
+  </div>
+  <div class="stat-cell">
+    <span class="stat-icon">🚗</span>
+    <span class="stat-number">200+</span>
+    <span class="stat-label">Chassis &amp; Variant Combinations</span>
+  </div>
+  <div class="stat-cell">
+    <span class="stat-icon">📊</span>
+    <span class="stat-number">9,000+</span>
+    <span class="stat-label">Real UK Enquiries Informing Data</span>
+  </div>
+  <div class="stat-cell">
+    <span class="stat-icon">✓</span>
+    <span class="stat-number">Free</span>
+    <span class="stat-label">No Account · No Email Gate</span>
+  </div>
+</div>
+
+<!-- SUMMARY BOX -->
+<div class="summary-box">
+  <p><strong>The Engine Compatibility Checker tells you which Mercedes engine code fits your specific vehicle, based on model, chassis and production year.</strong></p>
+  <ul>
+    <li>Select your vehicle below and receive a matched engine code, typical supply cost range, and a repair-to-value flag [EM-QUOTE]</li>
+    <li>Covers 40+ Mercedes engine families from the OM601 through to the OM656 and M256 [EM-VERIFIED]</li>
+    <li>Cost data drawn from real supplier quotes across 9,000+ UK enquiries [EM-VERIFIED]</li>
+    <li>No email, no account, no charge — results appear instantly</li>
+  </ul>
+  <p>If you already know your engine code, use the <a href="/technical/engine-code-decoder">Engine Code Decoder</a> for full specification detail.</p>
+</div>
+
+<!-- TOC BAR -->
+<nav class="toc-bar" aria-label="On this page">
+  <span class="toc-label">On this page</span>
+  <ul>
+    <li><a href="#how-it-works">How It Works</a></li>
+    <li><a href="#checker">The Checker</a></li>
+    <li><a href="#results">What Results Mean</a></li>
+    <li><a href="#data-source">Our Data</a></li>
+    <li><a href="#faq">FAQ</a></li>
+  </ul>
+</nav>
+
+<!-- SECTION 1: HOW IT WORKS -->
+<section class="section" id="how-it-works">
+  <div class="section-inner fade-up">
+    <h2>How the Compatibility Checker Works</h2>
+    <p>Three inputs produce your result. No registration, no VIN required for a basic match — though adding your VIN via our <a href="/tools/vin-decoder">VIN Decoder</a> narrows the result to a single engine variant where production-year overlaps exist.</p>
+
+    <div class="steps-grid">
+      <div class="step-card">
+        <span class="step-number">1</span>
+        <h3>Select Your Model &amp; Chassis</h3>
+        <p>Choose your Mercedes model (C-Class, E-Class, Sprinter, etc.) and the chassis code — W205, W212, X253, W906 — from the dropdown. If you are unsure of the chassis code, our <a href="/fitment/engine-code-guide">Engine Code Guide</a> explains where to find it on your vehicle.</p>
+      </div>
+      <div class="step-card">
+        <span class="step-number">2</span>
+        <h3>Confirm Year &amp; Badge</h3>
+        <p>Enter the production year and, if known, the badge designation (C220d, E350d, GLC300, etc.). This resolves mid-cycle engine changes — for example, the <a href="/engine/om651">OM651</a> was replaced by the <a href="/engine/om654">OM654</a> in W205 C-Class models from 2016 onward [EM-VERIFIED].</p>
+      </div>
+      <div class="step-card">
+        <span class="step-number">3</span>
+        <h3>Receive Your Match</h3>
+        <p>The checker returns the correct engine code, a supply-only cost range for used, reconditioned and rebuilt units [EM-QUOTE], and a repair-to-value flag based on our <a href="/economics/repair-replace-scrap-framework">70% scrap threshold framework</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 2: THE TOOL ITSELF -->
+<section class="section section-alt" id="checker">
+  <div class="section-inner fade-down">
+    <h2>Check Your Engine Compatibility</h2>
+    <p>Select your vehicle below. Results appear instantly beneath the form.</p>
+
+    <div class="tool-container">
+      <form class="compatibility-form" id="compatForm" aria-label="Engine compatibility checker">
+        <div class="form-row">
+          <div class="form-group">
+            <label for="model-select">Model</label>
+            <select id="model-select" required>
+              <option value="">Select model…</option>
+              <option value="a-class">A-Class</option>
+              <option value="b-class">B-Class</option>
+              <option value="c-class">C-Class</option>
+              <option value="e-class">E-Class</option>
+              <option value="s-class">S-Class</option>
+              <option value="cla">CLA</option>
+              <option value="cls">CLS</option>
+              <option value="gla">GLA</option>
+              <option value="glc">GLC</option>
+              <option value="gle">GLE / M-Class</option>
+              <option value="gls">GLS / GL-Class</option>
+              <option value="g-class">G-Class</option>
+              <option value="slk">SLK / SLC</option>
+              <option value="sl">SL</option>
+              <option value="sprinter">Sprinter</option>
+              <option value="vito">Vito</option>
+              <option value="v-class">V-Class / Viano</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="chassis-select">Chassis Code</label>
+            <select id="chassis-select" required>
+              <option value="">Select chassis…</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="year-select">Production Year</label>
+            <select id="year-select" required>
+              <option value="">Select year…</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="badge-input">Badge (optional)</label>
+            <input type="text" id="badge-input" placeholder="e.g. C220d, E350d, GLC300">
+          </div>
+        </div>
+        <button type="submit" class="btn-primary">Check Compatibility</button>
+      </form>
+
+      <div class="tool-results" id="tool-results" aria-live="polite">
+        <p class="results-placeholder">Your result will appear here.</p>
+      </div>
+    </div>
+
+    <p class="tool-note">Need help identifying your engine? Check the <a href="/technical/engine-number-location">engine number location guide</a> or use the <a href="/fitment/om-vs-m-series-identification">OM vs M Series Identification</a> reference to confirm whether your unit is a diesel (OM) or petrol (M) engine.</p>
+  </div>
+</section>
+
+<!-- SECTION 3: WHAT THE RESULTS MEAN -->
+<section class="section" id="results" data-lazy-section>
+  <div class="section-inner fade-left">
+    <h2>What the Results Mean</h2>
+    <p>Each result contains three data points. Understanding them helps you make a confident replacement decision without a workshop visit.</p>
+
+    <h3>The Engine Code</h3>
+    <p>The primary identifier Mercedes assigns to each engine family. For diesel engines, the prefix "OM" stands for <em>Öl-Motor</em> (oil engine); petrol units carry an "M" prefix. A single chassis code can span multiple engine codes across a production run — the W212 E-Class, for example, used both the <a href="/engine/om651">OM651</a> four-cylinder and the <a href="/engine/om642">OM642</a> V6 diesel depending on badge and year [EM-VERIFIED]. Our <a href="/fitment/matrix">full fitment matrix</a> maps every combination.</p>
+
+    <h3>The Cost Range</h3>
+    <p>Supply-only pricing for three condition grades: used (lowest cost, highest risk), reconditioned (stripped, machined and rebuilt with new wearing components), and rebuilt (blueprinted to factory specification). All figures are drawn from actual supplier quotes routed through our platform [EM-QUOTE]. Labour for removal and refitting is separate — typically 8–16 hours depending on engine complexity [EM-QUOTE].</p>
+
+    <h3>The Repair-to-Value Flag</h3>
+    <p>Our 70% threshold [PATTERN DATA] indicates whether replacement is financially sound for the typical host vehicle. If the lowest viable replacement cost exceeds approximately 70% of the vehicle's current market value, we flag it and recommend evaluating scrap value first using our <a href="/tools/repair-vs-replace-calculator">Repair vs Replace Calculator</a>. The three flags are:</p>
+    <ul>
+      <li><span class="flag flag-safe">✅ Safe</span> — replacement cost well within vehicle value</li>
+      <li><span class="flag flag-watch">⚠️ Watch</span> — replacement may represent 40–70% of value; evaluate carefully</li>
+      <li><span class="flag flag-scrap">🔴 Scrap Threshold</span> — replacement risks exceeding value; assess scrap first</li>
+    </ul>
+  </div>
+</section>
+
+<!-- SECTION 4: WHERE OUR DATA COMES FROM -->
+<section class="section section-alt" id="data-source" data-lazy-section>
+  <div class="section-inner fade-right">
+    <h2>Where Our Data Comes From</h2>
+    <p>Every figure in this checker traces back to verified sources. The compatibility mapping is built from manufacturer production data, cross-referenced against our internal enquiry database of 9,000+ real UK Mercedes engine replacement requests [EM-VERIFIED]. Cost ranges reflect actual supplier quotes sent to customers through our platform in 2025 [EM-QUOTE].</p>
+    <p>The Mercedes engines generating the highest enquiry volumes in our dataset are the <a href="/engine/om651">OM651</a> (1,250 requests), the <a href="/engine/om642">OM642</a> (880 requests), the <a href="/engine/om654">OM654</a> (520 requests), the <a href="/engine/m276">M276</a> (390 requests) and the M177 AMG V8 (370 requests) [EM-VERIFIED]. These five engines account for the majority of Mercedes-specific replacements we handle.</p>
+    <p>For full methodology and limitations, see our <a href="/about/data-verification">Data Verification</a> page. For the annual ranking, see the <a href="/data/engine-failure-index-2026">Engine Failure Index 2026</a>.</p>
+  </div>
+</section>
+
+<!-- SECTION 5: FAQ -->
+<section class="section" id="faq" data-lazy-section>
+  <div class="section-inner fade-up">
+    <h2>Frequently Asked Questions</h2>
+
+    <div class="faq-item">
+      <h3>Is this Mercedes engine compatibility checker free to use?</h3>
+      <p>Yes, completely free with no email gate, no account creation and no usage limit. Results appear instantly. If you then want to compare quotes from vetted specialists, that routing is handled by EnginesMarket — but the checker itself is an independent editorial tool.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Can I check compatibility without knowing my chassis code?</h3>
+      <p>Yes. Select your model and production year first — the chassis dropdown will narrow automatically. If you want to confirm the chassis code physically, it appears on the VIN plate (visible at the base of the windscreen on most Mercedes models) and in your V5C logbook. Our <a href="/fitment/engine-code-guide">Engine Code Guide</a> walks through every location.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>What if my Mercedes has had an engine swap already?</h3>
+      <p>The checker returns the factory-original fitment. If a previous owner has swapped the engine, the physical unit may differ from the result shown. Confirm the actual engine code stamped on the block — the <a href="/technical/engine-number-location">Engine Number Location</a> reference shows where to look for each family.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Does this cover AMG and performance variants?</h3>
+      <p>Yes. AMG engines including the M156, M157, M177 and M178 are included in the database. However, AMG replacement costs are substantially higher — the M177 reconditioned supply alone runs £8,000–£14,000 [EM-QUOTE] — so the repair-to-value flag is especially important for AMG hosts. See our <a href="/economics/most-expensive-amg-repairs">Most Expensive AMG Repairs</a> analysis for context.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 6: TRUST STRIP + CTA -->
+<section class="section section-dark" id="cta" data-lazy-section>
+  <div class="section-inner fade-down">
+    <div class="trust-strip">
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">15+</span>
+        <span class="trust-label">Vetted Mercedes Specialists</span>
+      </div>
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">9,000+</span>
+        <span class="trust-label">Real UK Enquiries Analysed</span>
+      </div>
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">100%</span>
+        <span class="trust-label">Independent — No Manufacturer Ties</span>
+      </div>
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">70%</span>
+        <span class="trust-label">Repair-to-Value Threshold Applied</span>
+      </div>
+    </div>
+
+    <div class="cta-block">
+      <h2>Found Your Engine? Compare Supply Quotes.</h2>
+      <p>Once you have your engine code, compare used, reconditioned and rebuilt supply prices from vetted UK Mercedes engine specialists. Enter your registration and receive matched quotes within one working day.</p>
+      <div class="cta-form">
+        <input type="text" placeholder="Enter your registration — e.g. AB12 CDE" aria-label="Vehicle registration">
+        <a href="/tools/registration-lookup" class="btn-primary">Compare Quotes Now</a>
+      </div>
+      <p class="cta-note">Part of the Engine Finders network. Quotes routed via EnginesMarket.</p>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <p>Mercedes Engines — part of the Engine Finders network. Independent editorial resource; not affiliated with Mercedes-Benz AG or Daimler Truck AG.</p>
+  <nav class="footer-links" aria-label="Footer">
+    <a href="/about/editorial-standards">Editorial Standards</a>
+    <a href="/about/data-verification">Data Verification</a>
+    <a href="/about/corrections">Corrections Log</a>
+    <a href="/contact">Contact</a>
+  </nav>
+</footer>
+
+<script src="/assets/mercedes/effects.js"></script>
+</body>
+</html>

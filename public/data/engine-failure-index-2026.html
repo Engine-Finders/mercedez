@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercedes Engine Failure Index 2026 — The Annual Report</title>
+    <meta name="description" content="Which Mercedes engines fail most, at what mileage, and at what cost — our 2026 annual report, built from real 2025 UK enquiry data.">
+    <link rel="canonical" href="https://mercedesengines.uk/data/engine-failure-index-2026">
+
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Mercedes Engines UK — Independent Ownership Guide">
+    <meta property="og:title" content="Mercedes Engine Failure Index 2026 — The Annual Report">
+    <meta property="og:description" content="Real UK engine failure and replacement cost data across the Mercedes range, published annually.">
+    <meta property="og:url" content="https://mercedesengines.uk/data/engine-failure-index-2026">
+    <meta property="og:locale" content="en_GB">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Mercedes Engine Failure Index 2026">
+    <meta name="twitter:description" content="Real UK engine failure and replacement cost data, published annually.">
+
+    <link rel="stylesheet" href="/assets/mercedes/style.css">
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mercedesengines.uk/#organization",
+      "name": "Mercedes-Benz Ownership Guide",
+      "url": "https://mercedesengines.uk/",
+      "sameAs": [
+        "https://www.facebook.com/Mercedes-Benz-Ownership-Guide"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mercedesengines.uk/#website",
+      "url": "https://mercedesengines.uk/",
+      "name": "Mercedes-Benz Ownership Guide",
+      "publisher": {
+        "@id": "https://mercedesengines.uk/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mercedesengines.uk/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Data & Research",
+          "item": "https://mercedesengines.uk/data"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Engine Failure Index 2026",
+          "item": "https://mercedesengines.uk/data/engine-failure-index-2026"
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "Mercedes Engine Failure Index 2026",
+      "description": "Enquiry-volume-based engine failure and replacement cost index across the Mercedes-Benz range, built from 2025 UK CRM data.",
+      "creator": {
+        "@id": "https://mercedesengines.uk/#organization"
+      },
+      "temporalCoverage": "2025-01-01/2025-12-31",
+      "spatialCoverage": "GB",
+      "variableMeasured": [
+        "Engine enquiry volume",
+        "Typical mileage at failure",
+        "Reconditioned replacement cost",
+        "Repair-to-value flag"
+      ],
+      "license": "https://mercedesengines.uk/about/editorial-standards",
+      "datePublished": "2026-02-01",
+      "dateModified": "2026-02-15",
+      "mainEntityOfPage": "https://mercedesengines.uk/data/engine-failure-index-2026",
+      "url": "https://mercedesengines.uk/data/engine-failure-index-2026"
+    },
+    {
+      "@type": "Article",
+      "headline": "Mercedes Engine Failure Index 2026 — The Annual Report",
+      "description": "Which Mercedes engines fail most, at what mileage, and at what cost — built from real 2025 UK enquiry data.",
+      "author": {
+        "@type": "Organization",
+        "name": "Mercedes-Benz Ownership Guide Editorial Team"
+      },
+      "publisher": {
+        "@id": "https://mercedesengines.uk/#organization"
+      },
+      "datePublished": "2026-02-01",
+      "dateModified": "2026-02-15",
+      "mainEntityOfPage": "https://mercedesengines.uk/data/engine-failure-index-2026",
+      "url": "https://mercedesengines.uk/data/engine-failure-index-2026"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Which Mercedes engine generates the most enquiries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The OM651 four-cylinder diesel leads with 1,250 enquiries in our 2025 data, followed by the OM642 V6 diesel at 880. This reflects both engines' popularity across the C-Class, E-Class and SUV ranges, not a claim that either is unreliable by design."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a high enquiry count mean an engine is unreliable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not on its own. Enquiry volume reflects how many vehicles are on the road with that engine as much as it reflects failure frequency. We pair enquiry data with our separate Known Failure Patterns research to distinguish popularity from reliability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this data representative of all Mercedes on UK roads?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, and we want to be upfront about that. Our dataset reflects people who contacted us about a replacement engine, which naturally over-represents engines that fail and under-represents ones that don't. Full methodology and limitations are set out in this report."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often is this report updated?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Annually, each February, covering the prior full calendar year. This is our first published edition and establishes the baseline every future report will be measured against."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the difference between the OM651 and OM654?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The OM651 is the older 2.1-litre four-cylinder diesel found in W204/W205 C-Class, W212/W213 E-Class and earlier SUVs — it has well-documented balance shaft wear issues. The OM654 is the newer 2.0-litre modular diesel introduced from 2016 onward, with a more robust design and fewer known failure modes. The OM654 has lower absolute enquiry volume (520 vs 1,250) but that partly reflects it being fitted to fewer, newer vehicles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which Mercedes engine should I avoid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We don't make blanket 'avoid' recommendations — every engine's viability depends on the host vehicle value and your ownership horizon. For a data-informed view, check the per-engine R-to-V flag and read the full Economics pages for the model you're considering."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<!-- ========== SITE NAV ========== -->
+<nav class="site-nav">
+    <a href="/" class="brand">MERCEDES ENGINES <span style="font-weight:300; color:var(--mb-silver);">UK</span></a>
+    <ul>
+        <li><a href="/c-class">C-Class</a></li>
+        <li><a href="/e-class">E-Class</a></li>
+        <li><a href="/s-class">S-Class</a></li>
+        <li><a href="/data" class="active">Data</a></li>
+        <li><a href="/about">About</a></li>
+    </ul>
+    <a href="/tools/registration-lookup" class="cta-btn">CHECK YOUR ENGINE →</a>
+</nav>
+
+<div class="breadcrumb">
+    <a href="/">Home</a> <span>/</span>
+    <a href="/data">Data &amp; Research</a> <span>/</span>
+    Engine Failure Index 2026
+</div>
+
+<!-- ========== HERO ========== -->
+<header class="hero">
+    <div class="hero-inner" style="text-align:center; padding:60px 24px 40px;">
+        <span class="eyebrow">Annual Report · 2026 Edition</span>
+        <h1 style="font-weight:400; letter-spacing:0.02em;">The Mercedes Engine Failure Index <span style="color:var(--mb-silver);">2026</span></h1>
+        <p class="sub" style="max-width:720px; margin:0 auto;">
+            The OM651 2.1 diesel generated more UK replacement enquiries in 2025 than any other Mercedes engine — 1,250 in total. The full ranking, real cost data, and what it means if you own one.
+        </p>
+        <hr style="width:80px; margin:24px auto; border:0; border-top:2px solid var(--mb-silver);">
+    </div>
+    <!-- stat strip -->
+    <div class="stat-strip" style="background:var(--mb-graphite);">
+        <div class="stat-strip-inner">
+            <div class="stat-cell">
+                <div class="stat-icon">📊</div>
+                <div>
+                    <div class="stat-num">4,500+</div>
+                    <div class="stat-label">Mercedes Engine<br>Enquiries, 2025</div>
+                </div>
+            </div>
+            <div class="stat-cell">
+                <div class="stat-icon">🥇</div>
+                <div>
+                    <div class="stat-num">OM651</div>
+                    <div class="stat-label">Most-Enquired<br>Engine</div>
+                </div>
+            </div>
+            <div class="stat-cell">
+                <div class="stat-icon">📅</div>
+                <div>
+                    <div class="stat-num">2026</div>
+                    <div class="stat-label">First Edition —<br>Our Baseline Year</div>
+                </div>
+            </div>
+            <div class="stat-cell">
+                <div class="stat-icon">🏆</div>
+                <div>
+                    <div class="stat-num">Part of</div>
+                    <div class="stat-label">Engine Finders<br>Network</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- ========== SUMMARY BOX ========== -->
+<div class="summary-box">
+    <p>Across 4,500+ real UK Mercedes engine enquiries in 2025, the <strong>OM651</strong> 2.1 diesel leads at 1,250 requests, followed by the <strong>OM642</strong> V6 diesel at 880 — together accounting for nearly half of all Mercedes engine enquiries we handled last year.</p>
+    <ul>
+        <li>Total Mercedes-specific enquiries across all engines: <strong>4,500+</strong> <span class="tag">[EM-VERIFIED]</span>, part of 24,650 across our full 2025 dataset</li>
+        <li><strong>OM651</strong> (1,250) and <strong>OM642</strong> (880) together represent <strong>47%</strong> of all Mercedes engine enquiries</li>
+        <li>Reconditioned replacement across the range spans from <strong>£2,800</strong> (OM651) to <strong>£14,000</strong> (M177 AMG) <span class="tag">[EM-QUOTE]</span></li>
+        <li>This is our <strong>first published edition</strong> — 2026 is the baseline year every future report will be measured against</li>
+    </ul>
+    <p>Full methodology, the complete ranking, and what changed in this baseline year below.</p>
+</div>
+
+<!-- ========== TOC BAR ========== -->
+<nav class="toc-bar" aria-label="On this page">
+    <span class="toc-label">On this page</span>
+    <ul>
+        <li><a href="#methodology">Methodology</a></li>
+        <li><a href="#findings">Headline Findings</a></li>
+        <li><a href="#table">Full Data Table</a></li>
+        <li><a href="#changes">What Changed</a></li>
+        <li><a href="#meaning">What This Means</a></li>
+        <li><a href="#cite">How to Cite</a></li>
+        <li><a href="#faq">FAQ</a></li>
+    </ul>
+</nav>
+
+<!-- ========== SECTION 1 — METHODOLOGY ========== -->
+<section class="section" id="methodology">
+    <div class="section-inner fade-up">
+        <h2>Methodology</h2>
+        <p class="lede">What this data is, what it isn't, and how we built it.</p>
+        <div class="methodology-callout">
+            <p><strong>Source:</strong> Internal CRM quote-request data from EnginesMarket.co.uk and EngineFinders.co.uk, combined. Full calendar year 2025. 24,650 unique quote requests across all brands we cover; over 4,500 of these relate specifically to Mercedes engines.</p>
+            <p><strong>What counts as an "enquiry":</strong> a unique customer quote request specifying a particular engine code or vehicle. Repeat requests from the same customer for the same engine are not double-counted.</p>
+            <p><strong>What this data cannot tell you:</strong> our dataset reflects people who contacted us about a replacement engine — it is not a random sample of every Mercedes on UK roads. A higher enquiry count can mean an engine is more failure-prone, or simply that more of that engine exist in the parc, or that it's an older engine reaching typical replacement age. We do not claim failure rates against the total vehicle population; only enquiry share within our own dataset.</p>
+            <p><strong>Refresh cycle:</strong> annually, each February, covering the prior full calendar year. Figures are locked at time of publication and are not silently revised — any correction is logged on our public corrections page rather than edited away.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ========== SECTION 2 — HEADLINE FINDINGS ========== -->
+<section class="section section-alt" id="findings">
+    <div class="section-inner fade-down">
+        <h2>Headline Findings</h2>
+        <p class="lede">The engines that generate the most enquiries, and what it means.</p>
+
+        <div class="bar-chart" style="max-width:760px; margin:0 auto;">
+            <div class="bar-row"><span class="bar-label">OM651</span><div class="bar-track"><div class="bar-fill" style="width:100%; background:var(--mb-cyan);"></div></div><span class="bar-value">1,250</span></div>
+            <div class="bar-row"><span class="bar-label">OM642</span><div class="bar-track"><div class="bar-fill" style="width:70%; background:var(--mb-cyan);"></div></div><span class="bar-value">880</span></div>
+            <div class="bar-row"><span class="bar-label">OM654</span><div class="bar-track"><div class="bar-fill" style="width:42%; background:var(--mb-silver);"></div></div><span class="bar-value">520</span></div>
+            <div class="bar-row"><span class="bar-label">M276</span><div class="bar-track"><div class="bar-fill" style="width:31%; background:var(--mb-silver);"></div></div><span class="bar-value">390</span></div>
+            <div class="bar-row"><span class="bar-label">M272</span><div class="bar-track"><div class="bar-fill" style="width:31%; background:var(--mb-silver);"></div></div><span class="bar-value">390</span></div>
+            <div class="bar-row"><span class="bar-label">M177</span><div class="bar-track"><div class="bar-fill" style="width:30%; background:var(--mb-silver-lt);"></div></div><span class="bar-value">370</span></div>
+        </div>
+        <p style="font-size:13px; color:var(--mb-grey-600); text-align:center; margin-top:12px;">All figures <span class="tag">[EM-VERIFIED]</span>, full year 2025.</p>
+
+        <p style="max-width:760px; margin:24px auto 0;">The OM651 is the most-enquired Mercedes engine by a significant margin — 1,250 requests, well ahead of the OM642 at 880. This reflects the OM651's sheer popularity across C‑Class, E‑Class, GLA, and Sprinter vehicles, as well as its known weak points: timing chain tensioner wear and injector seal leaks. The OM654, a newer 2.0 diesel, already sits at 520 enquiries, indicating that as the vehicle parc ages, we expect this number to grow.</p>
+    </div>
+</section>
+
+<!-- ========== SECTION 3 — FULL DATA TABLE ========== -->
+<section class="section" id="table" data-lazy-section>
+    <div class="section-inner fade-left">
+        <h2>The Full Data Table</h2>
+        <p class="lede">Every Mercedes engine in our 2025 enquiry data, ranked, with real cost and vehicle-value context.</p>
+        <div class="data-table-wrap">
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Engine</th>
+                        <th>2025 Enquiries</th>
+                        <th>Recon Supply &amp; Fit</th>
+                        <th>Typical Host Value</th>
+                        <th>R-to-V Flag</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td><a href="/engine/om651">OM651</a></td>
+                        <td>1,250 <span class="tag">[EM-VERIFIED]</span></td>
+                        <td>£3,500–£5,500</td>
+                        <td>£5,000–£18,000</td>
+                        <td><span class="sev-dot sev-low"></span> ✅ Safe</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td><a href="/engine/om642">OM642</a></td>
+                        <td>880 <span class="tag">[EM-VERIFIED]</span></td>
+                        <td>£4,000–£6,500</td>
+                        <td>£5,000–£22,000</td>
+                        <td><span class="sev-dot sev-low"></span> ✅ Safe</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td><a href="/engine/om654">OM654</a></td>
+                        <td>520 <span class="tag">[EM-VERIFIED]</span></td>
+                        <td>£3,700–£5,800</td>
+                        <td>£8,000–£30,000</td>
+                        <td><span class="sev-dot sev-low"></span> ✅ Safe</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td><a href="/engine/m276">M276</a></td>
+                        <td>390 <span class="tag">[EM-VERIFIED]</span></td>
+                        <td>£4,800–£7,800</td>
+                        <td>£8,000–£35,000</td>
+                        <td><span class="sev-dot sev-low"></span> ✅ Safe</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td><a href="/engine/m272">M272</a></td>
+                        <td>390 <span class="tag">[EM-VERIFIED]</span></td>
+                        <td>£4,800–£7,800</td>
+                        <td>£8,000–£35,000</td>
+                        <td><span class="sev-dot sev-medium"></span> ⚠️ Watch</td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td><a href="/engine/m177">M177</a></td>
+                        <td>370 <span class="tag">[EM-VERIFIED]</span></td>
+                        <td>£9,000–£15,500</td>
+                        <td>£30,000–£120,000</td>
+                        <td><span class="sev-dot sev-low"></span> ✅ Safe</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td><a href="/engine/m274">M274</a></td>
+                        <td>— <span class="tag">[ESTIMATED]</span></td>
+                        <td>£3,700–£5,800</td>
+                        <td>£8,000–£30,000</td>
+                        <td><span class="sev-dot sev-low"></span> ✅ Safe</td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td><a href="/engine/om656">OM656</a></td>
+                        <td>— <span class="tag">[ESTIMATED]</span></td>
+                        <td>£6,000–£9,500</td>
+                        <td>£15,000–£55,000</td>
+                        <td><span class="sev-dot sev-low"></span> ✅ Safe</td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td><a href="/engine/m273">M273</a></td>
+                        <td>— <span class="tag">[ESTIMATED]</span></td>
+                        <td>£5,000–£8,000</td>
+                        <td>£8,000–£35,000</td>
+                        <td><span class="sev-dot sev-medium"></span> ⚠️ Watch</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p style="margin-top:14px; font-size:13px; color:var(--mb-grey-600);">
+            All enquiry figures <span class="tag">[EM-VERIFIED]</span>. Cost and value bands <span class="tag">[EM-QUOTE / EM-INTERVIEW / THIRD-PARTY]</span> per our data legend — full source detail on the <a href="/about/data-verification">Data Verification page</a>.
+        </p>
+    </div>
+</section>
+
+<!-- ========== SECTION 4 — WHAT CHANGED ========== -->
+<section class="section section-alt" id="changes" data-lazy-section>
+    <div class="section-inner fade-right">
+        <h2>What Changed Since Last Year</h2>
+        <p class="lede">This is our first edition — establishing the baseline for future comparisons.</p>
+        <p style="max-width:760px; color:var(--mb-grey-600);">
+            As we are publishing this report for the first time in 2026, there is no prior year to compare against. However, we have built a robust methodology that will allow us to track changes year on year — for example, whether the OM654 starts to overtake the OM651 in enquiry volume as more C‑Class and GLC models age into the replacement window.
+        </p>
+        <p style="max-width:760px; color:var(--mb-grey-600); margin-top:16px;">
+            In future editions, we will highlight shifts such as:
+        </p>
+        <ul style="max-width:760px; color:var(--mb-grey-600); margin:12px 0 0 20px; list-style:disc;">
+            <li><strong>Changes in ranking</strong> — which engines are rising or falling in enquiry volume.</li>
+            <li><strong>Cost inflation</strong> — whether reconditioned OM651 prices are rising due to parts scarcity.</li>
+            <li><strong>New failure patterns</strong> — emerging issues that weren't common in 2025.</li>
+        </ul>
+        <p style="max-width:760px; color:var(--mb-grey-600); margin-top:16px;">For now, this report serves as the definitive benchmark for Mercedes engine failure in the UK, based on our 2025 enquiry data.</p>
+    </div>
+</section>
+
+<!-- ========== SECTION 5 — WHAT THIS MEANS ========== -->
+<section class="section" id="meaning" data-lazy-section>
+    <div class="section-inner fade-up">
+        <h2>What This Means For Owners</h2>
+        <p class="lede">How to use this data when buying, maintaining, or repairing a Mercedes.</p>
+        <p style="max-width:760px; color:var(--mb-grey-600);">
+            The two most-enquired engines, OM651 and OM642, are not necessarily the two "worst" Mercedes engines — they are simply the most common ones reaching typical replacement mileage across a large vehicle parc. What's more informative is the R-to-V (repair‑to‑value) column: almost every engine on this list clears our 70% safety threshold, meaning replacement is financially sound on the typical host vehicle.
+        </p>
+        <p style="max-width:760px; color:var(--mb-grey-600); margin-top:16px;">
+            The engines flagged ⚠️ Watch — M272 and M273 — are older V6 and V8 units where the cost of replacement can be a significant portion of the vehicle's value. On sub‑£8k W204 or W211 examples, it's worth checking the decision carefully using our <a href="/tools/repair-vs-replace-calculator">Repair vs Replace Calculator</a>.
+        </p>
+        <p style="max-width:760px; color:var(--mb-grey-600); margin-top:16px;">
+            For the full breakdown behind any single figure on this page, see <a href="/data/failure-rate-by-engine">Failure Rate by Engine</a>, <a href="/data/average-mileage-at-failure">Average Mileage at Failure</a>, and <a href="/data/most-enquired-models">Most Enquired Models</a>.
+        </p>
+    </div>
+</section>
+
+<!-- ========== SECTION 6 — HOW TO CITE ========== -->
+<section class="section section-alt" id="cite" data-lazy-section>
+    <div class="section-inner fade-down">
+        <h2>How to Cite This Report</h2>
+        <p class="lede">Feel free to reference this data in press coverage, forum discussion, or your own research. Suggested attribution:</p>
+        <div class="cite-box">
+            <span class="label">Suggested citation</span>
+            "Mercedes Engine Failure Index 2026," Mercedes Engines UK, published August 2026, mercedesengines.uk/data/engine-failure-index-2026
+        </div>
+        <p style="margin-top:16px; font-size:13.5px; color:var(--mb-grey-600);">For press enquiries or the full underlying dataset, contact us via our <a href="/about">About</a> page. We're happy to provide additional context or breakdowns for journalists working on a related story.</p>
+    </div>
+</section>
+
+<!-- ========== SECTION 7 — FAQ ========== -->
+<section class="section" id="faq" data-lazy-section>
+    <div class="section-inner fade-left">
+        <h2>Frequently Asked Questions</h2>
+
+        <details class="faq-item" open>
+            <summary>Which Mercedes engine generates the most enquiries?</summary>
+            <p>The OM651 2.1 diesel leads with 1,250 enquiries in our 2025 data, followed by the OM642 V6 diesel at 880. This reflects both engines' popularity across the range, not a claim that either is unreliable by design <span class="tag">[EM-VERIFIED]</span>.</p>
+        </details>
+
+        <details class="faq-item">
+            <summary>Does a high enquiry count mean an engine is unreliable?</summary>
+            <p>Not on its own. Enquiry volume reflects how many vehicles are on the road with that engine as much as it reflects failure frequency. We pair enquiry data with our separate Known Failure Patterns research to distinguish popularity from reliability <span class="tag">[PATTERN DATA]</span>.</p>
+        </details>
+
+        <details class="faq-item">
+            <summary>Is this data representative of all Mercedes on UK roads?</summary>
+            <p>No, and we want to be upfront about that. Our dataset reflects people who contacted us about a replacement engine, which naturally over-represents engines that fail and under-represents ones that don't. Full methodology and limitations are set out in this report.</p>
+        </details>
+
+        <details class="faq-item">
+            <summary>How often is this report updated?</summary>
+            <p>Annually, each February, covering the prior full calendar year. This is our first published edition and establishes the baseline every future report will be measured against.</p>
+        </details>
+
+        <details class="faq-item">
+            <summary>What is the 70% scrap threshold for Mercedes?</summary>
+            <p>Our 70% threshold means a replacement is financially sound if the fitted cost is less than 70% of the vehicle's current market value. For example, a £4,500 engine in a £7,000 C‑Class is borderline; a £6,000 engine in an £8,000 E‑Class is a decision point <span class="tag">[PATTERN DATA]</span>.</p>
+        </details>
+
+        <details class="faq-item">
+            <summary>Is the OM651 a reliable engine?</summary>
+            <p>The OM651 is a robust diesel when maintained well, but it has known weak points: timing chain tensioner wear and injector seal leaks (Black Death). Many examples exceed 200,000 miles, but the failures that do occur tend to happen between 80,000 and 150,000 miles <span class="tag">[PATTERN DATA]</span>.</p>
+        </details>
+    </div>
+</section>
+
+<!-- ========== TRUST STRIP ========== -->
+<div class="trust-strip">
+    <div class="trust-grid">
+        <div class="trust-item">
+            <span class="dot">✓</span>
+            <p><strong>4,500+ Real Enquiries</strong> The full Mercedes-specific dataset behind every figure on this page.</p>
+        </div>
+        <div class="trust-item">
+            <span class="dot">✓</span>
+            <p><strong>Limitations Disclosed</strong> We state plainly what this data can't tell you, not just what it can.</p>
+        </div>
+        <div class="trust-item">
+            <span class="dot">✓</span>
+            <p><strong>Annual Publication</strong> Refreshed every February — this is our founding baseline year.</p>
+        </div>
+        <div class="trust-item">
+            <span class="dot">✓</span>
+            <p><strong>100% Independent</strong> No sponsors, no manufacturer influence. Part of the Engine Finders network.</p>
+        </div>
+    </div>
+</div>
+
+<!-- ========== FINAL CTA ========== -->
+<section class="final-cta" id="quote">
+    <h2>Check Your Own Engine Against This Data</h2>
+    <p>See where your specific engine and vehicle sit, and compare quotes from our vetted specialist network.</p>
+    <a href="/tools/registration-lookup" class="btn-primary">REGISTRATION LOOKUP →</a>
+    <a href="/tools/repair-vs-replace-calculator" class="btn-outline" style="margin-left:12px;">REPAIR CALCULATOR</a>
+</section>
+
+<!-- ========== FOOTER ========== -->
+<footer>
+    <p>Mercedes Engines UK — part of the Engine Finders network. Independent editorial content; not affiliated with Mercedes‑Benz AG.</p>
+    <p>
+        <a href="/about/editorial-standards">Editorial Standards</a> ·
+        <a href="/about/data-verification">Data Verification</a> ·
+        <a href="/about/corrections">Corrections Log</a> ·
+        <a href="/contact">Contact</a>
+    </p>
+</footer>
+
+<script src="/assets/mercedes/effects.js"></script>
+
+</body>
+</html>

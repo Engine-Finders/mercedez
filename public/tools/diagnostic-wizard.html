@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free Mercedes Diagnostic Wizard | Engine Fault Finder UK</title>
+  <meta name="description" content="Free Mercedes diagnostic wizard — answer 5 questions about your engine fault and get a ranked diagnosis with real UK repair costs. No registration required.">
+  <link rel="canonical" href="https://mercedesengines.uk/tools/diagnostic-wizard">
+  <link rel="stylesheet" href="/assets/mercedes/style.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mercedesengines.uk/#organization",
+      "name": "Mercedes Engines UK",
+      "url": "https://mercedesengines.uk",
+      "description": "Independent editorial resource covering Mercedes-Benz engine reliability, replacement costs, and specialist routing. Part of the Engine Finders network."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mercedesengines.uk/#website",
+      "url": "https://mercedesengines.uk",
+      "name": "Mercedes Engines UK",
+      "publisher": { "@id": "https://mercedesengines.uk/#organization" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://mercedesengines.uk/tools/diagnostic-wizard#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mercedesengines.uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tools",
+          "item": "https://mercedesengines.uk/tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Diagnostic Wizard",
+          "item": "https://mercedesengines.uk/tools/diagnostic-wizard"
+        }
+      ]
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://mercedesengines.uk/tools/diagnostic-wizard#webapplication",
+      "name": "Mercedes Diagnostic Wizard",
+      "url": "https://mercedesengines.uk/tools/diagnostic-wizard",
+      "description": "Free Mercedes-Benz engine diagnostic wizard. Answer five guided questions about your engine fault and receive a ranked list of likely causes with UK repair cost bands. No registration required.",
+      "applicationCategory": "UtilityApplication",
+      "operatingSystem": "Any",
+      "browserRequirements": "Requires JavaScript",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "GBP"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Mercedes Engines Editorial Team",
+        "url": "https://mercedesengines.uk/about/editorial-standards"
+      },
+      "publisher": { "@id": "https://mercedesengines.uk/#organization" },
+      "datePublished": "2026-08-14",
+      "dateModified": "2026-08-14",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://mercedesengines.uk/tools/diagnostic-wizard"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://mercedesengines.uk/tools/diagnostic-wizard#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the Mercedes diagnostic wizard actually free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, completely. No email address, no phone number, no account. You select your symptoms, answer the narrowing questions, and receive your ranked result immediately. If you then want a repair quote, we route you to our specialist network — but the diagnosis itself costs nothing and carries no obligation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can this replace a proper OBD code read?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The wizard works at the symptom level — before any code reader is plugged in. It helps you understand what's likely wrong and what it might cost, so you walk into a workshop conversation informed. A specialist will still plug in a diagnostic tool, read stored fault codes, and confirm the finding. Think of this as the first five minutes of that process, done from your kitchen table."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which Mercedes models does the wizard cover?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All major Mercedes engine families in our dataset: OM651 and OM654 diesels (C-Class, E-Class, GLC, Sprinter), OM642 V6 diesel (E-Class, GLE, ML), M276 V6 petrol, M274 four-cylinder turbo petrol, and AMG variants where we hold sufficient data [EM-VERIFIED]. If your engine isn't covered, the wizard tells you so and routes you to our general symptom hub instead."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens after I get my result?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Three options: read the full explanation page linked in your result; use our repair vs replace calculator to check whether the repair makes financial sense for your car's value; or request quotes from our vetted Mercedes specialist network. The wizard never pressures you toward any single option."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <nav class="main-nav" aria-label="Primary">
+    <a href="/" class="brand-link">MERCEDES <span class="brand-accent">ENGINES</span></a>
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
+    <ul class="nav-links">
+      <li><a href="/c-class">C-Class</a></li>
+      <li><a href="/e-class">E-Class</a></li>
+      <li><a href="/sprinter">Sprinter</a></li>
+      <li><a href="/data">Data</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="#tool" class="nav-cta">Start Diagnosis →</a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- HERO -->
+<header class="hero hero-tool">
+  <div class="hero-content">
+    <p class="eyebrow">Free Tool · No Registration Required</p>
+    <h1>Mercedes <span class="h1-accent">Diagnostic Wizard</span></h1>
+    <p class="hero-sub">Answer five guided questions about what your Mercedes is doing — the noise, the smoke, the warning light, the behaviour — and receive a ranked list of the most likely causes with real UK repair cost bands. Built from 9,000+ real UK enquiries [EM-VERIFIED]. No email required. No account needed.</p>
+  </div>
+</header>
+
+<!-- SUMMARY BOX -->
+<div class="summary-box">
+  <p><strong>The free Mercedes diagnostic wizard narrows your engine fault to a ranked shortlist of likely causes in under two minutes.</strong></p>
+  <ul>
+    <li>Covers all major Mercedes engine families: OM651, OM642, OM654, M276, M274, and more [EM-VERIFIED]</li>
+    <li>Draws on 9,000+ real UK replacement enquiries handled through our network [EM-VERIFIED]</li>
+    <li>Returns cost bands per likely cause, tagged to our verified supplier data [EM-QUOTE]</li>
+    <li>Routes directly to fault code pages, failure explanations, and specialist quotes</li>
+  </ul>
+  <p>Scroll down and start the wizard — results appear instantly, no sign-up required.</p>
+</div>
+
+<!-- TOC BAR -->
+<nav class="toc-bar" aria-label="On this page">
+  <span class="toc-label">On this page</span>
+  <ul>
+    <li><a href="#how-it-works">How It Works</a></li>
+    <li><a href="#tool">The Wizard</a></li>
+    <li><a href="#results">Reading Results</a></li>
+    <li><a href="#data-source">Our Data</a></li>
+    <li><a href="#faq">FAQ</a></li>
+  </ul>
+</nav>
+
+<!-- SECTION 1: HOW IT WORKS -->
+<section class="section" id="how-it-works">
+  <div class="section-inner fade-up">
+    <h2>How the Mercedes Engine Diagnostic Wizard Works</h2>
+    <p>This is not a generic car fault finder. The wizard is built specifically around Mercedes-Benz engine behaviour — the failure patterns our specialist network sees most often across C-Class, E-Class, GLC, Sprinter, and the full range. It works in three steps:</p>
+
+    <div class="step-grid">
+      <div class="step-card">
+        <span class="step-number">1</span>
+        <h3>Describe the Symptom</h3>
+        <p>Select what your Mercedes is doing from the options below — a noise, a smoke colour, a warning light, a performance change. Plain language, no jargon.</p>
+      </div>
+      <div class="step-card">
+        <span class="step-number">2</span>
+        <h3>Narrow the Context</h3>
+        <p>Answer four follow-up questions: when it happens, which engine you believe you have, mileage range, and whether it's getting worse. This narrows from 40+ possible causes to your top three.</p>
+      </div>
+      <div class="step-card">
+        <span class="step-number">3</span>
+        <h3>Get Your Ranked Result</h3>
+        <p>Receive a ranked shortlist of likely causes, each with a typical UK cost band [EM-QUOTE], a severity rating, and a direct link to the full explanation page. Then route to a specialist quote if you need one.</p>
+      </div>
+    </div>
+
+    <p>The wizard covers the same diagnostic logic a Mercedes-independent specialist uses in the first ten minutes with your car — before anything goes on a lift, before any code reader is plugged in. It triages. It does not replace professional diagnosis, and it says so in every result.</p>
+  </div>
+</section>
+
+<!-- SECTION 2: THE TOOL -->
+<section class="section section-alt" id="tool">
+  <div class="section-inner fade-down">
+    <h2>Start Your Mercedes Diagnosis</h2>
+    <p>Select the symptom category that best matches what you're experiencing. The wizard will then guide you through narrowing questions.</p>
+
+    <div class="tool-container" id="diagnostic-tool" data-tool="diagnostic-wizard">
+      <!-- Step 1: Symptom selection -->
+      <fieldset class="tool-step" id="step-1">
+        <legend>What is your Mercedes doing?</legend>
+        <div class="tool-options">
+          <label class="tool-option"><input type="radio" name="symptom" value="knocking"> Engine knocking or tapping noise</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="white-smoke"> White smoke from exhaust</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="black-smoke"> Black smoke from exhaust</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="blue-smoke"> Blue smoke from exhaust</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="coolant-loss"> Losing coolant but no visible leak</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="misfire"> Misfire, rough idle, or juddering</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="overheating"> Engine overheating</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="power-loss"> Loss of power or limp mode</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="rattle-accel"> Rattle under acceleration</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="wont-start"> Won't start or hard starting</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="oil-consumption"> Using more oil than usual</label>
+          <label class="tool-option"><input type="radio" name="symptom" value="cold-rattle"> Cold start rattle that fades</label>
+        </div>
+      </fieldset>
+
+      <!-- Step 2: When does it happen? -->
+      <fieldset class="tool-step" id="step-2" hidden>
+        <legend>When does it happen most?</legend>
+        <div class="tool-options">
+          <label class="tool-option"><input type="radio" name="timing" value="cold-start"> Only or mainly on cold start</label>
+          <label class="tool-option"><input type="radio" name="timing" value="warm"> When engine is warm</label>
+          <label class="tool-option"><input type="radio" name="timing" value="under-load"> Under acceleration or load</label>
+          <label class="tool-option"><input type="radio" name="timing" value="idle"> At idle or stationary</label>
+          <label class="tool-option"><input type="radio" name="timing" value="constant"> Constantly, regardless of conditions</label>
+        </div>
+      </fieldset>
+
+      <!-- Step 3: Engine family -->
+      <fieldset class="tool-step" id="step-3" hidden>
+        <legend>Which engine do you think you have? (Check your V5C or engine bay plate)</legend>
+        <div class="tool-options">
+          <label class="tool-option"><input type="radio" name="engine" value="om651"> OM651 (4-cyl diesel — most C/E/GLC/Sprinter 2010–2019)</label>
+          <label class="tool-option"><input type="radio" name="engine" value="om642"> OM642 (V6 diesel — E-Class, ML, GLE, R-Class)</label>
+          <label class="tool-option"><input type="radio" name="engine" value="om654"> OM654 (4-cyl diesel — C/E/GLC 2016+)</label>
+          <label class="tool-option"><input type="radio" name="engine" value="m276"> M276 (V6 petrol — E-Class, CLS, GLE)</label>
+          <label class="tool-option"><input type="radio" name="engine" value="m274"> M274 (4-cyl turbo petrol — C/E-Class, GLC)</label>
+          <label class="tool-option"><input type="radio" name="engine" value="unsure"> Not sure / don't know</label>
+        </div>
+      </fieldset>
+
+      <!-- Step 4: Mileage -->
+      <fieldset class="tool-step" id="step-4" hidden>
+        <legend>What's the approximate mileage?</legend>
+        <div class="tool-options">
+          <label class="tool-option"><input type="radio" name="mileage" value="under-60k"> Under 60,000 miles</label>
+          <label class="tool-option"><input type="radio" name="mileage" value="60-100k"> 60,000 – 100,000 miles</label>
+          <label class="tool-option"><input type="radio" name="mileage" value="100-150k"> 100,000 – 150,000 miles</label>
+          <label class="tool-option"><input type="radio" name="mileage" value="over-150k"> Over 150,000 miles</label>
+        </div>
+      </fieldset>
+
+      <!-- Step 5: Progression -->
+      <fieldset class="tool-step" id="step-5" hidden>
+        <legend>Is it getting worse?</legend>
+        <div class="tool-options">
+          <label class="tool-option"><input type="radio" name="progression" value="new"> Just started (last few days)</label>
+          <label class="tool-option"><input type="radio" name="progression" value="gradual"> Gradually worsening over weeks</label>
+          <label class="tool-option"><input type="radio" name="progression" value="stable"> Same for a while, not getting worse</label>
+          <label class="tool-option"><input type="radio" name="progression" value="sudden"> Sudden onset, noticeably bad</label>
+        </div>
+      </fieldset>
+
+      <!-- Results area -->
+      <div class="tool-results" id="tool-results" hidden>
+        <h3>Your Ranked Likely Causes</h3>
+        <div id="results-output"></div>
+        <p class="tool-disclaimer">This wizard provides guidance based on common failure patterns. It does not replace professional diagnosis. Always consult a qualified specialist before committing to repairs.</p>
+        <div class="tool-cta">
+          <a href="/tools/repair-vs-replace-calculator" class="btn-secondary">Check if repair is worth it →</a>
+          <a href="#quote" class="btn-primary">Get Specialist Quotes →</a>
+        </div>
+      </div>
+
+      <!-- Progress / Navigation -->
+      <div class="tool-nav">
+        <button class="btn-secondary" id="tool-back" disabled>← Back</button>
+        <button class="btn-primary" id="tool-next" disabled>Next →</button>
+      </div>
+    </div>
+
+    <p class="tool-note">The wizard draws on failure pattern data from our <a href="/data/engine-failure-index-2026">2026 Engine Failure Index</a> and known fault profiles for each Mercedes engine family. Results link directly to our full <a href="/fault-codes">fault code reference</a> and <a href="/failures">failure explanation pages</a> for deeper reading.</p>
+  </div>
+</section>
+
+<!-- SECTION 3: WHAT RESULTS MEAN -->
+<section class="section" id="results" data-lazy-section>
+  <div class="section-inner fade-left">
+    <h2>How to Read Your Diagnostic Results</h2>
+    <p>Each result the wizard returns contains four pieces of information. Understanding what they mean helps you decide the next step.</p>
+
+    <div class="results-legend">
+      <div class="legend-item">
+        <h3>Likelihood Ranking</h3>
+        <p>Causes are ordered by how frequently our specialist network encounters them for your specific symptom, engine, and mileage combination. Rank 1 is the most statistically likely cause — not a certainty.</p>
+      </div>
+      <div class="legend-item">
+        <h3>Severity Rating</h3>
+        <p>Each cause carries a fixed severity indicator using our universal scale: <span class="sev-critical">Catastrophic</span> (engine at risk), <span class="sev-high">Immediate</span> (needs attention within days), <span class="sev-medium">Monitor</span> (watch and re-check), or <span class="sev-low">Low</span> (unlikely to worsen quickly).</p>
+      </div>
+      <div class="legend-item">
+        <h3>Cost Band</h3>
+        <p>The typical UK independent-specialist repair cost range for that specific fix, drawn from actual supplier quotes processed through our network [EM-QUOTE]. Main dealer rates are typically 30–50% higher [PATTERN DATA].</p>
+      </div>
+      <div class="legend-item">
+        <h3>Next Step Link</h3>
+        <p>Every result links to either a full failure explanation page, a fault code page, or a symptom hub where you can read the mechanism, see what a specialist will check, and understand whether the repair is financially sensible for your vehicle's value.</p>
+      </div>
+    </div>
+
+    <p>If your result shows a <a href="/symptoms/engine-knocking-noise">knocking noise</a> with OM651 at high mileage, for instance, the top-ranked cause will typically be <a href="/failures/om651-balance-shaft">balance shaft or timing chain wear</a> — and the wizard will tell you that directly, with the cost band attached. If it shows <a href="/symptoms/misfire-rough-idle">misfire or rough idle</a> on an M274, the ranking shifts toward injector or coil pack issues. The context changes everything.</p>
+
+    <p>Where a symptom could indicate something urgent — <a href="/symptoms/engine-overheating">overheating</a> or <a href="/symptoms/coolant-loss-no-leak">coolant loss with no visible leak</a> — the wizard flags this explicitly and advises you not to drive the car until a specialist has looked at it. It will always err on the side of caution.</p>
+  </div>
+</section>
+
+<!-- SECTION 4: DATA SOURCE -->
+<section class="section section-alt" id="data-source" data-lazy-section>
+  <div class="section-inner fade-right">
+    <h2>Where Our Diagnostic Data Comes From</h2>
+    <p>The wizard's logic is not generic automotive knowledge scraped from forums. It is built on three proprietary data sources, combined and cross-referenced:</p>
+
+    <ul class="data-source-list">
+      <li><strong>9,000+ real UK Mercedes engine enquiries</strong> processed through our network in 2025 [EM-VERIFIED] — each one describing a real fault, a real engine code, and a real vehicle. These tell us which failures are most common on which engines at which mileages.</li>
+      <li><strong>Supplier quote notes and mechanic feedback</strong> from our vetted specialist network [EM-INTERVIEW] — workshops listing the specific fault they found, what it cost to fix, and what the customer chose to do. This gives us real repair cost data, not manufacturer list prices.</li>
+      <li><strong>Manufacturer TSBs and known failure patterns</strong> cross-referenced with public owner forums and independent testing [THIRD-PARTY] — validating that what our data shows matches what the wider Mercedes community reports.</li>
+    </ul>
+
+    <p>The full methodology, sample limitations, and refresh cycle are documented on our <a href="/data/methodology">methodology page</a>. We publish our <a href="/data/engine-failure-index-2026">annual Engine Failure Index</a> every February, and the wizard's logic is updated alongside it.</p>
+
+    <p>Our vetting process for the 15+ specialist workshops in the Mercedes network is detailed on the <a href="/about/specialist-vetting">specialist vetting page</a>. The diagnostic wizard routes you to these same specialists when you need a quote — never to a call centre, never to an unvetted garage.</p>
+  </div>
+</section>
+
+<!-- SECTION 5: FAQ -->
+<section class="section" id="faq" data-lazy-section>
+  <div class="section-inner fade-up">
+    <h2>Frequently Asked Questions</h2>
+
+    <div class="faq-list">
+      <details class="faq-item" open>
+        <summary>Is the Mercedes diagnostic wizard actually free?</summary>
+        <p>Yes, completely. No email address, no phone number, no account. You select your symptoms, answer the narrowing questions, and receive your ranked result immediately. If you then want a repair quote, we route you to our specialist network — but the diagnosis itself costs nothing and carries no obligation.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Can this replace a proper OBD code read?</summary>
+        <p>No. The wizard works at the symptom level — before any code reader is plugged in. It helps you understand what's likely wrong and what it might cost, so you walk into a workshop conversation informed. A specialist will still plug in a diagnostic tool, read stored fault codes, and confirm the finding. Think of this as the first five minutes of that process, done from your kitchen table.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Which Mercedes models does the wizard cover?</summary>
+        <p>All major Mercedes engine families in our dataset: OM651 and OM654 diesels (C-Class, E-Class, GLC, Sprinter), OM642 V6 diesel (E-Class, GLE, ML), M276 V6 petrol, M274 four-cylinder turbo petrol, and AMG variants where we hold sufficient data [EM-VERIFIED]. If your engine isn't covered, the wizard tells you so and routes you to our general <a href="/symptoms">symptom hub</a> instead.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>What happens after I get my result?</summary>
+        <p>Three options: read the full explanation page linked in your result; use our <a href="/tools/repair-vs-replace-calculator">repair vs replace calculator</a> to check whether the repair makes financial sense for your car's value; or request quotes from our vetted Mercedes specialist network. The wizard never pressures you toward any single option.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 6: TRUST STRIP + CTA -->
+<section class="section section-dark" id="quote" data-lazy-section>
+  <div class="section-inner fade-down">
+    <div class="trust-strip">
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">9,000+</span>
+        <span class="trust-label">Real UK Mercedes enquiries informing this tool</span>
+      </div>
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">15+</span>
+        <span class="trust-label">Vetted Mercedes specialists in our network</span>
+      </div>
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">100%</span>
+        <span class="trust-label">Independent — no manufacturer affiliation</span>
+      </div>
+      <div class="trust-cell">
+        <span class="trust-icon">✓</span>
+        <span class="trust-number">70%</span>
+        <span class="trust-label">Our scrap threshold for Mercedes — we tell you when not to repair</span>
+      </div>
+    </div>
+
+    <div class="cta-block">
+      <h2>Got Your Result? Get Quotes From Vetted Mercedes Specialists</h2>
+      <p>Part of the Engine Finders network. We route your enquiry to vetted, rated, and reviewed Mercedes engine specialists — independent workshops who know these engines properly. No call centres. No pushy sales.</p>
+      <form class="quote-form" aria-label="Request quotes">
+        <label for="reg-input" class="sr-only">Your vehicle registration</label>
+        <input type="text" id="reg-input" name="registration" placeholder="Enter your registration — e.g. AB12 CDE" autocomplete="off">
+        <button type="submit" class="btn-primary">Compare Quotes Now →</button>
+      </form>
+      <p class="cta-note">Or explore your options first: <a href="/economics/repair-replace-scrap-framework">read our repair-replace-scrap framework</a> to understand the 70% threshold we apply to every Mercedes recommendation.</p>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <p>Mercedes Engines — part of the Engine Finders network. Independent editorial content; not affiliated with Mercedes-Benz AG or Daimler AG.</p>
+  <nav class="footer-links" aria-label="Footer">
+    <a href="/about/editorial-standards">Editorial Standards</a> ·
+    <a href="/about/data-verification">Data Verification</a> ·
+    <a href="/about/corrections">Corrections Log</a> ·
+    <a href="/contact">Contact</a>
+  </nav>
+</footer>
+
+<script src="/assets/mercedes/effects.js"></script>
+<script src="/assets/mercedes/diagnostic-wizard.js"></script>
+</body>
+</html>

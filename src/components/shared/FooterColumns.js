@@ -65,14 +65,14 @@ export const footerLegal = {
   links: [],
 };
 
-function LogoMark({ isDark }) {
+function LogoMark() {
   return (
     <Image
-      src="/jaguar-logo.png"
-      alt="Jaguar"
-      width={124}
-      height={63}
-      className={`h-auto w-[124px] object-contain ${isDark ? "brightness-0 invert" : ""}`}
+      src="/mercedes-benz-seeklogo.png"
+      alt="Mercedes-Benz"
+      width={160}
+      height={160}
+      className="h-20 w-20 object-contain object-center"
     />
   );
 }
@@ -92,7 +92,7 @@ export default function FooterColumns() {
   return (
     <div className="mx-auto w-full max-w-8xl px-4 py-6 md:px-8 md:py-8">
       <Link href="/" className={`mb-6 inline-flex items-center gap-3 no-underline ${brandTextClass}`}>
-        <LogoMark isDark={isDark} />
+        <LogoMark />
       </Link>
 
       <div className="grid grid-cols-2 gap-x-4 gap-y-6 lg:grid-cols-4 lg:gap-6">

@@ -42,12 +42,12 @@ function ThemeIcon({ theme }) {
 function LogoMark({ isDark }) {
   return (
     <Image
-      src="/jaguar-logo.png"
-      alt="Jaguar"
-      width={124}
-      height={63}
+      src="/navbar-logo.png"
+      alt="Mercedes-Benz"
+      width={941}
+      height={912}
       priority
-      className={`h-auto w-[104px] object-contain md:w-[124px] ${isDark ? "brightness-0 invert" : ""}`}
+      className={`h-12 w-12 object-contain object-center md:h-16 md:w-16 ${isDark ? "" : "invert"}`}
     />
   );
 }
