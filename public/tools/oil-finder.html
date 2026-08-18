@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mercedes Oil Finder — Free Engine Oil Lookup Tool</title>
+<meta name="description" content="Use our free Mercedes oil finder to match your engine code to the exact MB oil approval standard, UK viscosity and DPF guidance. No email required.">
+<link rel="canonical" href="https://mercedesengines.uk/tools/oil-finder">
+<link rel="stylesheet" href="/assets/mercedes/style.css">
+<script src="/assets/mercedes/effects.js" defer></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- STAGE 2 — SCHEMA (insert immediately before </head>) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mercedesengines.uk/#organization",
+      "name": "Mercedes Engines UK",
+      "url": "https://mercedesengines.uk",
+      "description": "Independent editorial resource covering Mercedes-Benz engine reliability, replacement costs and ownership economics. Part of the Engine Finders network."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mercedesengines.uk/#website",
+      "url": "https://mercedesengines.uk",
+      "name": "Mercedes Engines UK",
+      "description": "Independent Mercedes-Benz engine ownership guide: failure data, replacement costs, diagnostics, tools and vetted specialist routing.",
+      "publisher": { "@id": "https://mercedesengines.uk/#organization" },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://mercedesengines.uk/tools/oil-finder#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mercedesengines.uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tools",
+          "item": "https://mercedesengines.uk/tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Oil Finder",
+          "item": "https://mercedesengines.uk/tools/oil-finder"
+        }
+      ]
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://mercedesengines.uk/tools/oil-finder#webapplication",
+      "name": "Mercedes Oil Finder",
+      "url": "https://mercedesengines.uk/tools/oil-finder",
+      "mainEntityOfPage": "https://mercedesengines.uk/tools/oil-finder",
+      "description": "Free online tool that matches a Mercedes-Benz engine code to the correct MB oil approval standard, UK viscosity band and DPF requirement, with a route to the exact fill volume. No email address or account required.",
+      "applicationCategory": "UtilityApplication",
+      "operatingSystem": "Any",
+      "browserRequirements": "Requires JavaScript",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "GBP",
+        "description": "Free to use. No email gate, no account required."
+      },
+      "featureList": [
+        "Engine-code to MB approval standard matching",
+        "DPF low-SAPS oil guidance for diesel engines",
+        "Typical UK viscosity band per engine",
+        "Route to exact fill volume on each engine's Technical Reference page",
+        "Route to specialist quotes via the EnginesMarket network"
+      ],
+      "creator": { "@id": "https://mercedesengines.uk/#organization" },
+      "author": {
+        "@type": "Organization",
+        "name": "Mercedes Engines Editorial Team",
+        "url": "https://mercedesengines.uk/about/editorial-standards"
+      },
+      "publisher": { "@id": "https://mercedesengines.uk/#organization" },
+      "datePublished": "2026-02-12",
+      "dateModified": "2026-08-14",
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://mercedesengines.uk/tools/oil-finder#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I find the right oil for my Mercedes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the finder above, selecting your engine code. The result gives the required MB approval standard and viscosity band; your owner's handbook confirms both for your exact model. If you don't know your engine code, our engine code decoder shows where it's stamped."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between MB 229.5 and MB 229.51 oil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MB 229.5 is a full-SAPS oil for petrol engines; MB 229.51 is a low-SAPS oil for diesels with a DPF. Putting 229.5 in a DPF-equipped diesel accelerates ash build-up in the filter, which is why the approval marking matters more than brand or viscosity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use any 5W-30 oil in my Mercedes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Viscosity is only half the requirement — the bottle must also carry the correct MB approval for your engine. A 5W-30 without MB 229.5 or 229.51 (as applicable) is not the right oil, whatever the brand name on the label."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much oil does my Mercedes engine take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It varies by engine — from around 6 litres for four-cylinder units to over 9 litres for AMG V8s. Each engine's exact fill volume is on its dedicated page, for example the OM642 oil capacity reference. Fill to spec, then verify with the dipstick."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+    <div class="container header-inner">
+        <div class="brand-row">
+            <a href="/" class="brand">MERCEDES-BENZ <span class="brand-sub">ENGINE OWNERSHIP GUIDE</span></a>
+        </div>
+        <nav class="main-nav" aria-label="Main navigation">
+            <a href="/c-class">C-Class</a>
+            <a href="/e-class">E-Class</a>
+            <a href="/gle">GLE</a>
+            <a href="/data">Data</a>
+            <a href="/tools">Tools</a>
+            <a href="/about">About</a>
+        </nav>
+        <a href="/tools/registration-lookup" class="header-cta">START YOUR RESEARCH →</a>
+    </div>
+</header>
+
+<!-- BREADCRUMB -->
+<nav class="breadcrumb-bar" aria-label="Breadcrumb">
+    <div class="container breadcrumbs">
+        <a href="/">Home</a> / <a href="/tools">Tools</a> / <span>Oil Finder</span>
+    </div>
+</nav>
+
+<!-- HERO (tool above the fold — no scroll) -->
+<header class="hero">
+    <div class="container hero-inner">
+        <div class="hero-content">
+            <span class="eyebrow">Free Tool</span>
+            <h1>Mercedes Oil Finder: <span class="accent">What Oil Does Your Mercedes Take?</span></h1>
+            <p class="sub-headline">Select your engine below and get the exact Mercedes-Benz oil approval standard, UK viscosity and DPF guidance in seconds. No email, no account — built on official MB oil specifications.</p>
+
+            <div class="hero-tool-panel">
+                <form class="oil-finder-form" id="oil-finder-form">
+                    <label for="oil-engine-select">Select your engine</label>
+                    <select id="oil-engine-select" required>
+                        <option value="" selected disabled>Choose your engine…</option>
+                        <optgroup label="Diesel engines (OM)">
+                            <option value="om642">OM642 — 3.0 V6 CDI</option>
+                            <option value="om646">OM646 — 2.1 4-cyl CDI (older)</option>
+                            <option value="om651">OM651 — 2.1 4-cyl CDI</option>
+                            <option value="om654">OM654 — 2.0 4-cyl diesel</option>
+                            <option value="om656">OM656 — 3.0 6-cyl diesel</option>
+                        </optgroup>
+                        <optgroup label="Petrol engines (M)">
+                            <option value="m270">M270 — 1.6/2.0 4-cyl turbo</option>
+                            <option value="m272">M272 — 2.5/3.0/3.5 V6</option>
+                            <option value="m273">M273 — 4.7/5.5 V8</option>
+                            <option value="m274">M274 — 1.6/2.0 4-cyl turbo</option>
+                            <option value="m276">M276 — 3.0/3.5 V6</option>
+                        </optgroup>
+                        <optgroup label="AMG engines">
+                            <option value="m157">M157 — 5.5 V8 biturbo AMG</option>
+                            <option value="m178">M178 — 4.0 V8 biturbo AMG</option>
+                        </optgroup>
+                    </select>
+                    <button type="submit" class="btn btn-primary">FIND MY OIL →</button>
+                </form>
+
+                <div class="result-panel" id="oil-result" hidden>
+                    <h3 id="result-title">Your result</h3>
+                    <div class="result-grid">
+                        <div class="result-cell"><span class="result-label">Typically fitted to</span><span id="result-fitment">—</span></div>
+                        <div class="result-cell"><span class="result-label">Required MB approval</span><span id="result-spec">—</span></div>
+                        <div class="result-cell"><span class="result-label">Typical UK viscosity</span><span id="result-visc">—</span></div>
+                        <div class="result-cell"><span class="result-label">DPF requirement</span><span id="result-dpf">—</span></div>
+                    </div>
+                    <p class="result-links">
+                        <a id="result-capacity-link" href="#">Full oil capacity →</a>
+                        <a id="result-engine-link" href="#">Engine Knowledge Centre →</a>
+                        <a href="/technical/engine-code-decoder">Confirm your engine code →</a>
+                    </p>
+                    <p class="result-disclaimer">Always confirm against your owner's handbook — it overrides this tool.</p>
+                </div>
+
+                <p class="tool-disclosure">Demo tool — 12 of the most-enquired Mercedes engines are loaded. The production version will cover the full range, including Sprinter and Vito units.</p>
+            </div>
+        </div>
+        <div class="hero-image-container">
+            <!-- Image 1 Placeholder: Hero image will be added in Stage 3 -->
+        </div>
+    </div>
+</header>
+
+<!-- STAT STRIP -->
+<div class="stat-strip">
+    <div class="container stat-inner">
+        <div class="stat-cell">
+            <span class="stat-icon">🛢️</span>
+            <strong>MB Approval Standards</strong>
+            <p>Every result built on official Mercedes-Benz oil specifications</p>
+        </div>
+        <div class="stat-cell">
+            <span class="stat-icon">⚡</span>
+            <strong>Instant. No Email.</strong>
+            <p>Your result appears immediately — no account, no gate</p>
+        </div>
+        <div class="stat-cell">
+            <span class="stat-icon">🔧</span>
+            <strong>15+ Vetted Specialists</strong>
+            <p>Mercedes-focused UK engine specialists in our network</p>
+        </div>
+        <div class="stat-cell">
+            <span class="stat-icon">🏆</span>
+            <strong>9,000+ UK Enquiries</strong>
+            <p>The enquiry base behind our cost and failure data</p>
+        </div>
+    </div>
+</div>
+
+<!-- SUMMARY BOX -->
+<div class="summary-box container">
+    <p><strong>This free Mercedes oil finder matches your engine code to the exact Mercedes-Benz oil approval standard it requires — the approval matters more than the brand.</strong></p>
+    <ul>
+        <li>Diesel engines fitted with a DPF must run low-SAPS oil approved to MB 229.51, 229.52 or 229.71 [THIRD-PARTY]</li>
+        <li>Most Mercedes petrol engines — M270, M272, M273, M274, M276, M157, M178 — call for MB 229.5 [THIRD-PARTY]</li>
+        <li>The typical UK viscosity band is 5W-30 for most engines, 0W-30 for the newest diesels, and 5W-40 for the M157 AMG V8 [THIRD-PARTY]</li>
+        <li>This demo covers 12 of our most-enquired engines; exact fill volumes live on each engine's oil capacity page</li>
+    </ul>
+    <p>Use the finder above — and if you're unsure which engine you have, our engine code decoder shows where to look.</p>
+</div>
+
+<!-- HORIZONTAL TOC BAR -->
+<nav class="toc-bar" aria-label="On this page">
+    <div class="container toc-inner">
+        <span class="toc-label">On this page</span>
+        <ul>
+            <li><a href="#how">How It Works</a></li>
+            <li><a href="#specs">MB Oil Specs</a></li>
+            <li><a href="#results">Reading Results</a></li>
+            <li><a href="#source">Data Source</a></li>
+            <li><a href="#verdict">Verdict</a></li>
+            <li><a href="#faq">FAQ</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- SECTION 1: HOW IT WORKS -->
+<section class="section" id="how">
+    <div class="section-inner fade-up">
+        <h2>How the Oil Finder Works — Three Steps</h2>
+        <div class="steps-grid">
+            <div class="step-card">
+                <span class="step-number">1</span>
+                <h3>Select Your Engine</h3>
+                <p>Choose your engine code from the dropdown above the fold. No account, no email — the result is free and immediate, every time.</p>
+            </div>
+            <div class="step-card">
+                <span class="step-number">2</span>
+                <h3>We Match the Manufacturer Spec</h3>
+                <p>Your engine is matched against Mercedes-Benz operating-fluid requirements: the approval standard it needs, the viscosity band for UK conditions, and whether the DPF imposes a low-SAPS obligation.</p>
+            </div>
+            <div class="step-card">
+                <span class="step-number">3</span>
+                <h3>You Get the Fill Details</h3>
+                <p>The result gives you the approval and viscosity, then routes you to the exact fill volume for your engine and — if you need parts or a replacement — on to a quote.</p>
+            </div>
+        </div>
+        <p>Not sure which engine is in your car? The engine code is stamped into the block and encoded in your VIN — our <a href="/technical/engine-code-decoder">engine code decoder</a> explains where to look, and the <a href="/fitment/engine-code-guide">engine code guide</a> shows you how to read what you find. Alternatively, run your registration through our <a href="/tools/registration-lookup">registration lookup</a> and it will identify the engine for you.</p>
+    </div>
+</section>
+
+<!-- SECTION 2: MB OIL APPROVAL STANDARDS -->
+<section class="section section-alt" id="specs">
+    <div class="section-inner fade-down">
+        <h2>Mercedes Oil Approval Standards Explained</h2>
+        <p>Mercedes-Benz does not simply recommend a viscosity — it approves oils against its own operating-fluid specifications (Betriebsstoff-Vorschriften). The approval printed on the bottle is the contract: it certifies the oil's chemistry, its behaviour under extended service intervals, and its compatibility with your engine's emissions hardware. A premium brand without the right approval is a worse choice than a budget brand with it [THIRD-PARTY].</p>
+
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>MB Approval</th>
+                    <th>Applies To</th>
+                    <th>What It Means</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>MB 229.5</td>
+                    <td>Most petrol engines (and older non-DPF diesels)</td>
+                    <td>Full-SAPS long-life oil; the standard for M-series petrol engines from M270 through the AMG V8s [THIRD-PARTY]</td>
+                </tr>
+                <tr>
+                    <td>MB 229.51</td>
+                    <td>Diesel engines with DPF</td>
+                    <td>Low-SAPS chemistry that protects the particulate filter from ash accumulation [THIRD-PARTY]</td>
+                </tr>
+                <tr>
+                    <td>MB 229.52</td>
+                    <td>Newer DPF diesels</td>
+                    <td>Revised low-SAPS specification; supersedes 229.51 in many OM651 and later applications [THIRD-PARTY]</td>
+                </tr>
+                <tr>
+                    <td>MB 229.71</td>
+                    <td>OM654 / OM656-generation diesels</td>
+                    <td>Low-viscosity fuel-economy specification for the newest diesel generation [THIRD-PARTY]</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p>The DPF point is the one that costs owners real money. Low-SAPS oils burn with far less sulphated ash, and ash is what gradually blocks a particulate filter that regeneration cannot clear. The blockage patterns we see described in enquiries typically combine short urban trips with incorrect oil — our <a href="/failures/dpf-blockage">DPF blockage failure page</a> covers the full mechanism and the repair costs involved.</p>
+    </div>
+</section>
+
+<!-- SECTION 3: WHAT THE RESULTS MEAN -->
+<section class="section" id="results" data-lazy-section>
+    <div class="section-inner fade-left">
+        <h2>What the Oil Finder Results Mean</h2>
+        <p>Each result carries three pieces of information, and they answer three different questions:</p>
+        <ul>
+            <li><strong>The approval standard</strong> is the chemistry contract — the non-negotiable. Whatever brand you buy, this is the marking to look for on the bottle [THIRD-PARTY].</li>
+            <li><strong>The viscosity band</strong> is the oil's thickness behaviour across temperatures. Where we list two approved options, either is safe; the handbook's recommendation takes precedence [THIRD-PARTY].</li>
+            <li><strong>The fill volume</strong> is how much to buy. Exact capacities live on the Technical Reference page for each engine — the <a href="/technical/om642-oil-capacity">OM642 oil capacity page</a>, for example, carries the figure for every output of that V6.</li>
+        </ul>
+        <p>One note on service intervals: Mercedes' flexible ASSYST servicing assumes an approved oil is in the sump. Run an unapproved oil and the interval logic no longer applies in your favour — if in doubt, revert to a fixed annual interval [THIRD-PARTY].</p>
+    </div>
+</section>
+
+<!-- SECTION 4: WHERE OUR DATA COMES FROM -->
+<section class="section section-alt" id="source" data-lazy-section>
+    <div class="section-inner fade-right">
+        <h2>Where Our Data Comes From</h2>
+        <p>The approval standards and viscosity bands in this tool are drawn from Mercedes-Benz operating-fluid specifications as published in each model's owner's handbook [THIRD-PARTY]. Fill volumes are maintained per-engine on our Technical Reference pages — the <a href="/technical/om651-oil-capacity">OM651 oil capacity page</a>, for instance, holds the exact figure for every power output of that engine.</p>
+        <p>The enquiry and cost context elsewhere on this site comes from 9,000+ real UK enquiries [EM-VERIFIED], documented in full on our <a href="/about/data-verification">Data Verification page</a> and the <a href="/data/methodology">data methodology</a>. This demo version covers 12 of the most-enquired Mercedes engines; the production tool will extend to the full range, including AMG, Sprinter and Vito applications.</p>
+        <p>We are an independent editorial resource, not a workshop and not affiliated with Mercedes-Benz AG. If a result ever disagrees with your handbook, the handbook wins — and we'd like to know, via our <a href="/about/corrections">corrections page</a>.</p>
+    </div>
+</section>
+
+<!-- SECTION 5: VERDICT -->
+<section class="section" id="verdict" data-lazy-section>
+    <div class="section-inner fade-up">
+        <h2>Which Oil Should You Actually Buy?</h2>
+        <div class="verdict-block">
+            <p class="verdict-statement">Buy to the approval standard, never to the brand, and never to the price. If your Mercedes is a diesel with a DPF, nothing below MB 229.51 goes in — full stop.</p>
+        </div>
+        <p>For petrol engines from the M270 through the M276, MB 229.5 is the standard; the AMG V8s run the same approval in a heavier viscosity — 5W-40 for the M157, 0W-40 for the M178 [THIRD-PARTY]. Where two approved specifications appear on the bottle, either satisfies the requirement, but if you are between choices and want certainty, match the handbook exactly.</p>
+        <p>If your engine is already drinking oil between services, sort that before obsessing over brand — our <a href="/symptoms/excessive-oil-consumption">excessive oil consumption guide</a> ranks the likely causes, and the <a href="/tools/vin-decoder">VIN decoder</a> and <a href="/tools/engine-compatibility-checker">engine compatibility checker</a> help if you're buying parts. Full engine background lives on the <a href="/engine/om642">OM642 Knowledge Centre</a> and its siblings.</p>
+    </div>
+</section>
+
+<!-- FAQ -->
+<section class="section section-alt" id="faq" data-lazy-section>
+    <div class="section-inner fade-down">
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="faq-item">
+            <h3>How do I find the right oil for my Mercedes?</h3>
+            <p>Use the finder above, selecting your engine code. The result gives the required MB approval standard and viscosity band; your owner's handbook confirms both for your exact model. If you don't know your engine code, our <a href="/technical/engine-code-decoder">engine code decoder</a> shows where it's stamped [THIRD-PARTY].</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>What is the difference between MB 229.5 and MB 229.51 oil?</h3>
+            <p>MB 229.5 is a full-SAPS oil for petrol engines; MB 229.51 is a low-SAPS oil for diesels with a DPF. Putting 229.5 in a DPF-equipped diesel accelerates ash build-up in the filter, which is why the approval marking matters more than brand or viscosity [THIRD-PARTY].</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>Can I use any 5W-30 oil in my Mercedes?</h3>
+            <p>No. Viscosity is only half the requirement — the bottle must also carry the correct MB approval for your engine. A 5W-30 without MB 229.5 or 229.51 (as applicable) is not the right oil, whatever the brand name on the label [THIRD-PARTY].</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>How much oil does my Mercedes engine take?</h3>
+            <p>It varies by engine — from around 6 litres for four-cylinder units to over 9 litres for AMG V8s [THIRD-PARTY]. Each engine's exact fill volume is on its dedicated page, for example the <a href="/technical/om642-oil-capacity">OM642 oil capacity</a> reference. Fill to spec, then verify with the dipstick.</p>
+        </div>
+    </div>
+</section>
+
+<!-- TRUST STRIP + CTA -->
+<section class="trust-strip">
+    <div class="container trust-inner">
+        <div class="trust-cell">
+            <span class="trust-icon">✓</span>
+            <strong>No Email Gate</strong>
+            <p>Your result is free and immediate, always</p>
+        </div>
+        <div class="trust-cell">
+            <span class="trust-icon">✓</span>
+            <strong>Manufacturer Specs Only</strong>
+            <p>Every approval standard traced to Mercedes-Benz operating-fluid specifications</p>
+        </div>
+        <div class="trust-cell">
+            <span class="trust-icon">✓</span>
+            <strong>15+ Vetted Specialists</strong>
+            <p>Mercedes-focused UK engine specialists in our network</p>
+        </div>
+        <div class="trust-cell">
+            <span class="trust-icon">✓</span>
+            <strong>100% Independent</strong>
+            <p>Part of the Engine Finders network — no manufacturer influence</p>
+        </div>
+    </div>
+</section>
+
+<section class="cta-section">
+    <div class="container cta-inner">
+        <h2>Got Your Oil Spec? Take It Further</h2>
+        <p>Whatever your engine turns out to need, compare quotes from our vetted Mercedes specialist network — or check your vehicle against our full data.</p>
+        <a href="/tools/registration-lookup" class="btn btn-primary">COMPARE QUOTES NOW →</a>
+        <a href="/tools/repair-vs-replace-calculator" class="btn btn-secondary">REPAIR VS REPLACE CALCULATOR</a>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+    <div class="container">
+        <p>Mercedes Engines UK — part of the Engine Finders network. Independent editorial content; not affiliated with Mercedes-Benz AG. Commercial enquiries routed via EnginesMarket.</p>
+        <p><a href="/about/editorial-standards">Editorial Standards</a> · <a href="/about/data-verification">Data Verification</a> · <a href="/about/corrections">Corrections Log</a></p>
+    </div>
+</footer>
+
+<!-- TOOL LOGIC (demo dataset) -->
+<script>
+(function () {
+    var oilData = {
+        om642: { title: "OM642 · 3.0 V6 CDI Diesel", fitment: "E-Class (W211/W212), ML/GLE (W166), GL/GLS, CLS (C218), S-Class (W221/W222)", spec: "MB 229.51", visc: "5W-30", dpf: "Fitted — low-SAPS oil mandatory", cap: "/technical/om642-oil-capacity", eng: "/engine/om642" },
+        om646: { title: "OM646 · 2.1 4-cyl CDI Diesel (Older)", fitment: "C-Class (W203/W204), E-Class (W211) — C200/220 CDI", spec: "MB 229.51 (DPF-equipped cars); MB 229.5 for early non-DPF units", visc: "5W-30", dpf: "Later cars fitted — check your V5/handbook", cap: "/technical/om646-oil-capacity", eng: "/engine/om646" },
+        om651: { title: "OM651 · 2.1 4-cyl CDI Diesel", fitment: "C-Class, E-Class, GLA, Sprinter, Vito — 200/220/250 CDI", spec: "MB 229.51 or MB 229.52", visc: "5W-30", dpf: "Fitted — low-SAPS oil mandatory", cap: "/technical/om651-oil-capacity", eng: "/engine/om651" },
+        om654: { title: "OM654 · 2.0 4-cyl Diesel", fitment: "C-Class, E-Class, GLC — 200d/220d/300d", spec: "MB 229.71 (MB 229.52 acceptable)", visc: "0W-30", dpf: "Fitted — low-SAPS oil mandatory", cap: "/technical/om654-oil-capacity", eng: "/engine/om654" },
+        om656: { title: "OM656 · 3.0 6-cyl Diesel", fitment: "E 350d/400d, GLE, GLS, S-Class", spec: "MB 229.71 (MB 229.52 acceptable)", visc: "0W-30", dpf: "Fitted — low-SAPS oil mandatory", cap: "/technical/om656-oil-capacity", eng: "/engine/om656" },
+        m270: { title: "M270 · 1.6/2.0 4-cyl Petrol Turbo", fitment: "A-Class, B-Class, CLA, GLA", spec: "MB 229.5", visc: "5W-30", dpf: "Not applicable (petrol)", cap: "/technical/m270-oil-capacity", eng: "/engine/m270" },
+        m272: { title: "M272 · 2.5/3.0/3.5 V6 Petrol", fitment: "C-Class, E-Class, CLK, ML, R-Class", spec: "MB 229.5", visc: "5W-30", dpf: "Not applicable (petrol)", cap: "/technical/m272-oil-capacity", eng: "/engine/m272" },
+        m273: { title: "M273 · 4.7/5.5 V8 Petrol", fitment: "E500/E550, S500/S550, ML500, GL500", spec: "MB 229.5", visc: "5W-30 or 5W-40", dpf: "Not applicable (petrol)", cap: "/technical/m273-oil-capacity", eng: "/engine/m273" },
+        m274: { title: "M274 · 1.6/2.0 4-cyl Petrol Turbo", fitment: "C-Class (W205), E-Class, GLC", spec: "MB 229.5", visc: "5W-30", dpf: "Not applicable (petrol)", cap: "/technical/m274-oil-capacity", eng: "/engine/m274" },
+        m276: { title: "M276 · 3.0/3.5 V6 Petrol", fitment: "E-Class, CLS, GLE, SL, S-Class", spec: "MB 229.5", visc: "5W-30", dpf: "Not applicable (petrol)", cap: "/technical/m276-oil-capacity", eng: "/engine/m276" },
+        m157: { title: "M157 · 5.5 V8 Biturbo AMG", fitment: "E63, CLS63, ML63, G63, S63 AMG", spec: "MB 229.5", visc: "5W-40", dpf: "Not applicable (petrol)", cap: "/technical/m157-oil-capacity", eng: "/engine/m157" },
+        m178: { title: "M178 · 4.0 V8 Biturbo AMG", fitment: "AMG GT, C63 (W205)", spec: "MB 229.5", visc: "0W-40", dpf: "Not applicable (petrol)", cap: "/technical/m178-oil-capacity", eng: "/engine/m178" }
+    };
+
+    var form = document.getElementById("oil-finder-form");
+    var select = document.getElementById("oil-engine-select");
+    var panel = document.getElementById("oil-result");
+
+    function showResult() {
+        var d = oilData[select.value];
+        if (!d) { return; }
+        document.getElementById("result-title").textContent = d.title;
+        document.getElementById("result-fitment").textContent = d.fitment;
+        document.getElementById("result-spec").textContent = d.spec;
+        document.getElementById("result-visc").textContent = d.visc;
+        document.getElementById("result-dpf").textContent = d.dpf;
+        document.getElementById("result-capacity-link").href = d.cap;
+        document.getElementById("result-engine-link").href = d.eng;
+        panel.hidden = false;
+        panel.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
+
+    select.addEventListener("change", showResult);
+    form.addEventListener("submit", function (e) {
+        e.preventDefault();
+        showResult();
+    });
+})();
+</script>
+</body>
+</html>

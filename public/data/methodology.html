@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mercedes Engine Data Methodology — How We Build Our Reports</title>
+<meta name="description" content="Our methodology for Mercedes engine data — sources, sample size, limitations, and how we verify every figure published on mercedesengines.uk.">
+<link rel="canonical" href="https://mercedesengines.uk/data/methodology">
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Mercedes-Benz Ownership Guide">
+<meta property="og:title" content="Mercedes Engine Data Methodology">
+<meta property="og:description" content="How we collect, verify, and present Mercedes engine data — full transparency on sources, limitations, and our editorial standards.">
+<meta property="og:url" content="https://mercedesengines.uk/data/methodology">
+<meta property="og:image" content="https://mercedesengines.uk/assets/mercedes/images/methodology-hero.webp">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Mercedes Engine Data Methodology">
+<meta name="twitter:description" content="How we collect, verify, and present Mercedes engine data.">
+<meta name="twitter:image" content="https://mercedesengines.uk/assets/mercedes/images/methodology-hero.webp">
+
+<link rel="stylesheet" href="/assets/mercedes/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mercedesengines.uk/#organization",
+      "name": "Mercedes-Benz Ownership Guide",
+      "url": "https://mercedesengines.uk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mercedesengines.uk/#website",
+      "url": "https://mercedesengines.uk/",
+      "name": "Mercedes-Benz Ownership Guide",
+      "publisher": {
+        "@id": "https://mercedesengines.uk/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mercedesengines.uk/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Data & Research",
+          "item": "https://mercedesengines.uk/data"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Methodology",
+          "item": "https://mercedesengines.uk/data/methodology"
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "Mercedes Engine Data Methodology",
+      "description": "Methodology, data sources, verification process, limitations, and refresh cycle for the Mercedes engine data published on mercedesengines.uk.",
+      "creator": {
+        "@id": "https://mercedesengines.uk/#organization"
+      },
+      "temporalCoverage": "2025-01-01/2025-12-31",
+      "spatialCoverage": "GB",
+      "variableMeasured": [
+        "Engine enquiry volume",
+        "Model request counts",
+        "Reconditioned supply costs",
+        "Failure patterns",
+        "Vehicle value bands"
+      ],
+      "license": "https://mercedesengines.uk/about/editorial-standards",
+      "datePublished": "2026-02-01",
+      "dateModified": "2026-02-15",
+      "mainEntityOfPage": "https://mercedesengines.uk/data/methodology",
+      "url": "https://mercedesengines.uk/data/methodology"
+    },
+    {
+      "@type": "Article",
+      "headline": "Mercedes Engine Data Methodology — How We Build Our Reports",
+      "description": "Our methodology for Mercedes engine data — sources, sample size, limitations, and how we verify every figure published on mercedesengines.uk.",
+      "author": {
+        "@type": "Organization",
+        "name": "Mercedes-Benz Ownership Guide Editorial Team"
+      },
+      "publisher": {
+        "@id": "https://mercedesengines.uk/#organization"
+      },
+      "datePublished": "2026-02-01",
+      "dateModified": "2026-02-15",
+      "mainEntityOfPage": "https://mercedesengines.uk/data/methodology",
+      "url": "https://mercedesengines.uk/data/methodology"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How many Mercedes engine enquiries did you analyse in 2025?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We analysed 5,920 Mercedes-specific enquiries from our total of 24,650 across all brands. This covers every engine code and model that generated at least one enquiry in our CRM data. The full year 2025, Jan–Dec."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this data representative of all Mercedes on UK roads?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, and we're upfront about that. Our dataset reflects people who contacted us about a replacement engine — it over-represents engines that fail and under-represents ones that don't. We pair enquiry data with specialist interviews and third-party sources to build a fuller picture, but we never claim our dataset is a random sample of the total Mercedes parc."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you verify cost figures?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cost figures are cross-checked through three channels: supplier quotes sent through our CRM, direct interviews with 100+ UK specialists, and marketplaces (eBay Motors, PistonHeads). All cost figures are marked [EM-QUOTE] and we disclose the source range. Main dealer costs may be 30–50% higher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often is your data updated?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Annually, each February, covering the prior full calendar year. Figures are locked at publication and not silently revised. Corrections are logged on our Corrections Log. Supplementary reports may be published between annual cycles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use this data in my own research?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — our data is free to use with attribution. Use the citation format provided on this page. For commercial use or large-scale reproduction, please contact us via our About page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why don't you use a larger sample size?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "24,650 total enquiries across all brands is a substantial dataset — it represents real customers with real engine problems, not a synthetic or modelled dataset. We prioritise data quality and verification over sample size. A verified figure from 24,650 enquiries is more useful than an unverified figure from 100,000."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="/" class="brand">MERCEDES-BENZ<br><span style="color:var(--mb-silver); font-weight:400;">OWNERSHIP GUIDE</span></a>
+  <ul>
+    <li><a href="/c-class">C-Class</a></li>
+    <li><a href="/e-class">E-Class</a></li>
+    <li><a href="/s-class">S-Class</a></li>
+    <li><a href="/data">Data</a></li>
+    <li><a href="/about">About</a></li>
+  </ul>
+  <a href="#quote" class="cta-btn">START YOUR RESEARCH →</a>
+</nav>
+
+<div class="breadcrumb">
+  <a href="/">Home</a><span>/</span>
+  <a href="/data">Data &amp; Research</a><span>/</span>
+  Methodology
+</div>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div>
+      <span class="eyebrow">Data Transparency · 2026</span>
+      <h1>Our <span class="accent">Methodology</span></h1>
+      <p class="sub">Every figure on this site is sourced, verified, and tagged. We don't guess, we don't invent, and we don't edit the data to fit a narrative. Here's exactly how we build our Mercedes engine reports — from the data we collect to how we present it.</p>
+    </div>
+    <div class="hero-image">
+      <img src="/assets/mercedes/images/methodology-hero.webp" width="640" height="340" fetchpriority="high"
+           alt="A data visualisation styled hero image representing the Mercedes methodology report"
+           title="Mercedes Engine Data Methodology — Full Transparency">
+    </div>
+  </div>
+  <div class="stat-strip">
+    <div class="stat-strip-inner">
+      <div class="stat-cell"><div class="stat-icon">📊</div><div><div class="stat-num">24,650</div><div class="stat-label">Total Enquiries<br>Analysed, 2025</div></div></div>
+      <div class="stat-cell"><div class="stat-icon">📅</div><div><div class="stat-num">2025</div><div class="stat-label">Full Calendar<br>Year</div></div></div>
+      <div class="stat-cell"><div class="stat-icon">🔍</div><div><div class="stat-num">5 Layers</div><div class="stat-label">Data<br>Verification</div></div></div>
+      <div class="stat-cell"><div class="stat-icon">🏆</div><div><div class="stat-num">15+</div><div class="stat-label">Vetted Specialists<br>UK-Wide</div></div></div>
+    </div>
+  </div>
+</header>
+
+<div class="summary-box">
+  <p>Our Mercedes engine data is built on <strong>24,650 real UK engine replacement enquiries</strong> from 2025, with <strong>5,920</strong> specifically relating to Mercedes-Benz. Every figure you see carries a data tag — <span class="tag">[EM-VERIFIED]</span>, <span class="tag">[EM-QUOTE]</span>, <span class="tag">[PATTERN DATA]</span> or <span class="tag">[THIRD-PARTY]</span> — so you always know the source and confidence level. We don't invent numbers, we don't guess, and we don't edit data to fit a narrative. This page sets out exactly how we collect, verify and present every claim on this site.</p>
+  <ul>
+    <li><strong>Source:</strong> Internal CRM data from EnginesMarket.co.uk and EngineFinders.co.uk — <strong>24,650</strong> unique quote requests in 2025 <span class="tag">[EM-VERIFIED]</span></li>
+    <li><strong>Mercedes-specific:</strong> <strong>5,920</strong> enquiries <span class="tag">[EM-VERIFIED]</span> — the foundation of every Mercedes engine report on this site</li>
+    <li><strong>Verification:</strong> <strong>5 layers</strong> of cross-checking — internal data, specialist interviews, third-party sources, market validation, and editorial review</li>
+    <li><strong>Refresh cycle:</strong> Annually, each February — covering the prior full calendar year</li>
+  </ul>
+  <p>Full details on data sources, verification, limitations, and how to cite our work below.</p>
+</div>
+
+<nav class="toc-bar" aria-label="On this page">
+  <span class="toc-label">On this page</span>
+  <ul>
+    <li><a href="#sources">Data Sources</a></li>
+    <li><a href="#verification">Verification Process</a></li>
+    <li><a href="#tags">Data Tags</a></li>
+    <li><a href="#limitations">Limitations</a></li>
+    <li><a href="#refresh">Refresh Cycle</a></li>
+    <li><a href="#cite">How to Cite</a></li>
+    <li><a href="#faq">FAQ</a></li>
+  </ul>
+</nav>
+
+<section class="section" id="sources">
+  <div class="section-inner fade-up">
+    <h2>Data Sources</h2>
+    <p class="lede">Where every number on this site comes from.</p>
+    <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:20px; max-width:960px;">
+      <div style="background:var(--mb-bg-alt); padding:18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <h4 style="font-size:15px; margin:0 0 6px; color:var(--mb-cyan);">Proprietary CRM Data</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">24,650 unique engine replacement enquiries from EnginesMarket.co.uk and EngineFinders.co.uk, combined. Full calendar year 2025. Every enquiry includes: engine code, vehicle model, mileage, customer postcode, and the specific fault described where supplied.</p>
+      </div>
+      <div style="background:var(--mb-bg-alt); padding:18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <h4 style="font-size:15px; margin:0 0 6px; color:var(--mb-cyan);">Specialist Interviews</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">100+ UK engine specialists and workshop owners — direct interviews about failure patterns, repair costs, labour times, and common pitfalls. These are the people who actually rebuild these engines every day.</p>
+      </div>
+      <div style="background:var(--mb-bg-alt); padding:18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <h4 style="font-size:15px; margin:0 0 6px; color:var(--mb-cyan);">Third-Party Market Data</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">Vehicle value bands from AutoTrader, Motors.co.uk, and CarGurus UK market data 2025. Manufacturer Technical Service Bulletins (TSBs) where available. Used for repair-to-value calculations and validation.</p>
+      </div>
+    </div>
+    <p style="max-width:760px; margin-top:16px; font-size:14px; color:var(--mb-grey-600);">All data is <strong>UK-specific</strong>. The UK Mercedes market has its own fleet composition, ownership patterns, and repair economics — we don't use US or European data unless explicitly stated and marked as <span class="tag">[THIRD-PARTY]</span>.</p>
+  </div>
+</section>
+
+<section class="section section-alt" id="verification" data-lazy-section>
+  <div class="section-inner fade-down">
+    <h2>Verification Process</h2>
+    <p class="lede">The five layers of verification every figure passes before publication.</p>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px; max-width:900px;">
+      <div style="background:var(--mb-bg); padding:16px; border-radius:6px; border-left:4px solid var(--mb-cyan);">
+        <h4 style="margin:0 0 4px; font-size:15px;">1. Internal Data Extraction</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">Raw CRM data is extracted, cleaned, and checked for anomalies. Duplicate entries are removed. Incomplete or invalid records are flagged but not discarded unless they can't be verified.</p>
+      </div>
+      <div style="background:var(--mb-bg); padding:16px; border-radius:6px; border-left:4px solid var(--mb-silver);">
+        <h4 style="margin:0 0 4px; font-size:15px;">2. Specialist Cross-Referencing</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">All failure pattern claims are cross-referenced with specialist interviews. A claim that appears in the data but isn't corroborated by workshops is marked as provisional or omitted.</p>
+      </div>
+      <div style="background:var(--mb-bg); padding:16px; border-radius:6px; border-left:4px solid var(--mb-silver);">
+        <h4 style="margin:0 0 4px; font-size:15px;">3. Third-Party Validation</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">Key findings are checked against manufacturer TSBs, MOT test data, and market sources. If three independent sources agree, it's published as verified.</p>
+      </div>
+      <div style="background:var(--mb-bg); padding:16px; border-radius:6px; border-left:4px solid var(--mb-silver);">
+        <h4 style="margin:0 0 4px; font-size:15px;">4. Market Validation</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">Cost figures are cross-checked against eBay Motors, PistonHeads classifieds, and actual supplier quotes sent through our CRM. If the market disagrees with our data, we re-investigate.</p>
+      </div>
+      <div style="background:var(--mb-bg); padding:16px; border-radius:6px; border-left:4px solid var(--mb-cyan); grid-column: span 2;">
+        <h4 style="margin:0 0 4px; font-size:15px;">5. Editorial Review</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">Every published page is reviewed by an editorial team member with automotive experience. The reviewer checks: data tagging accuracy, logical consistency, and whether the page's verdict is supported by the evidence presented. No page publishes until this review is complete.</p>
+      </div>
+    </div>
+    <p style="max-width:760px; margin-top:16px; font-size:14px; color:var(--mb-grey-600);">We don't use AI to generate or verify data. Every figure on this site is sourced, checked, and signed off by humans. Our <a href="/about/editorial-standards">Editorial Standards</a> page sets out the full policy.</p>
+  </div>
+</section>
+
+<section class="section" id="tags" data-lazy-section>
+  <div class="section-inner fade-left">
+    <h2>Data Tags — What Each One Means</h2>
+    <p class="lede">Every number on this site carries a tag telling you exactly where it came from.</p>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px; max-width:900px;">
+      <div style="background:var(--mb-bg-alt); padding:14px 18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <span style="display:inline-block; background:#4E9A51; color:#fff; padding:2px 10px; border-radius:3px; font-size:12px; font-weight:600; letter-spacing:0.05em;">[EM-VERIFIED]</span>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:6px 0 0;">Exact count or percentage from our internal CRM — enquiry volumes, model requests, condition split. From 24,650 quote requests, Jan–Dec 2025.</p>
+      </div>
+      <div style="background:var(--mb-bg-alt); padding:14px 18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <span style="display:inline-block; background:#0078D7; color:#fff; padding:2px 10px; border-radius:3px; font-size:12px; font-weight:600; letter-spacing:0.05em;">[EM-QUOTE]</span>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:6px 0 0;">Pricing ranges derived from actual supplier quotes sent through our CRM, cross-checked with marketplaces. Source: supplier quotes + interviews.</p>
+      </div>
+      <div style="background:var(--mb-bg-alt); padding:14px 18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <span style="display:inline-block; background:#E07B2C; color:#fff; padding:2px 10px; border-radius:3px; font-size:12px; font-weight:600; letter-spacing:0.05em;">[PATTERN DATA]</span>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:6px 0 0;">Qualitative failure patterns derived from enquiry descriptions, specialist interviews, and TSBs. Not a verified volume claim — but consistently observed.</p>
+      </div>
+      <div style="background:var(--mb-bg-alt); padding:14px 18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <span style="display:inline-block; background:#8E9092; color:#fff; padding:2px 10px; border-radius:3px; font-size:12px; font-weight:600; letter-spacing:0.05em;">[THIRD-PARTY]</span>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:6px 0 0;">External data — AutoTrader, Parkers, manufacturer TSBs, MOT data. Named source and date are always provided in the citation.</p>
+      </div>
+      <div style="background:var(--mb-bg-alt); padding:14px 18px; border-radius:6px; border:1px solid var(--mb-silver-lt); grid-column: span 2;">
+        <span style="display:inline-block; background:#C0392B; color:#fff; padding:2px 10px; border-radius:3px; font-size:12px; font-weight:600; letter-spacing:0.05em;">[PLACEHOLDER — confirm vs cost sheet]</span>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:6px 0 0;">This tag appears <strong>only in draft</strong>. A page with this tag does not publish. It means the figure needs sourcing before the page can go live. If you see this tag on a published page, it's a build failure — <a href="/about/corrections">please tell us</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt" id="limitations" data-lazy-section>
+  <div class="section-inner fade-right">
+    <h2>Limitations — What Our Data Cannot Tell You</h2>
+    <p class="lede">Honesty about limitations is part of our editorial standard. Here's what our data can't do.</p>
+    <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:20px; max-width:960px;">
+      <div style="background:var(--mb-bg); padding:18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <h4 style="font-size:15px; margin:0 0 6px;">Enquiry Volume ≠ Failure Rate</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">A high enquiry count doesn't necessarily mean an engine is unreliable — it can mean it's fitted to a large number of vehicles, or that those vehicles are at the age where failures become common. We don't claim to know the total vehicle parc for each engine, so we don't claim per-vehicle failure rates.</p>
+      </div>
+      <div style="background:var(--mb-bg); padding:18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <h4 style="font-size:15px; margin:0 0 6px;">Not a Random Sample</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">Our dataset reflects people who contacted us about a replacement engine — not a random sample of all Mercedes owners. It over-represents engines that fail and under-represents ones that don't. We're transparent about this in every data report.</p>
+      </div>
+      <div style="background:var(--mb-bg); padding:18px; border-radius:6px; border:1px solid var(--mb-silver-lt);">
+        <h4 style="font-size:15px; margin:0 0 6px;">No Prediction</h4>
+        <p style="font-size:13px; color:var(--mb-grey-600); margin:0;">We don't predict future failures. We report on what has happened in our data. We don't say "Engine X will fail at Y miles" — we say "Engine X has been reported to us at Y miles in our 2025 dataset." The future may be different.</p>
+      </div>
+    </div>
+    <p style="max-width:760px; margin-top:16px; font-size:14px; color:var(--mb-grey-600);">We state these limitations explicitly on every data page — not as a disclaimer, but as a foundation for trust. A number without a limitation is a number without integrity.</p>
+  </div>
+</section>
+
+<section class="section" id="refresh" data-lazy-section>
+  <div class="section-inner fade-up">
+    <h2>Refresh Cycle</h2>
+    <p class="lede">How often we update our data and how we handle changes.</p>
+    <div style="background:var(--mb-bg-alt); padding:20px; border-radius:8px; max-width:860px; border:1px solid var(--mb-silver-lt);">
+      <p style="color:var(--mb-grey-600);"><strong>Annual refresh:</strong> Our core data is refreshed <strong>annually, each February</strong>, covering the prior full calendar year. The 2026 edition covers 2025 data. The 2027 edition will cover 2026 data and will include a year-on-year comparison.</p>
+      <p style="color:var(--mb-grey-600);"><strong>Fixed baseline:</strong> Figures are locked at time of publication and are <strong>not silently revised</strong>. If we need to correct an error, it's logged on our <a href="/about/corrections">Corrections Log</a> rather than edited away.</p>
+      <p style="color:var(--mb-grey-600); margin-bottom:0;"><strong>Supplementary updates:</strong> We may publish supplementary reports (e.g., regional breakdowns, new engine families) between annual cycles. These are clearly marked as additional analysis, not replacements for the core annual dataset.</p>
+    </div>
+    <p style="max-width:760px; margin-top:16px; font-size:14px; color:var(--mb-grey-600);">This refresh cycle ensures our data is current enough to be useful, stable enough to be cited, and honest about its vintage. A data point from 2025 is a data point from 2025 — not pretending to be 2026.</p>
+  </div>
+</section>
+
+<section class="section section-alt" id="cite" data-lazy-section>
+  <div class="section-inner fade-down">
+    <h2>How to Cite This Methodology</h2>
+    <p class="lede">If you're referencing our data in press coverage, academic work, or forum discussion, please use the following format.</p>
+    <div class="cite-box">
+      <span class="label">Suggested citation</span>
+      "Mercedes Engine Data Methodology," Mercedes-Benz Ownership Guide, published February 2026, mercedesengines.uk/data/methodology
+    </div>
+    <p style="margin-top:16px; font-size:13.5px; color:var(--mb-grey-600);">For individual data points, include the specific page and the date. Example: "The M276 generated 390 enquiries in 2025 (Mercedes-Benz Ownership Guide, February 2026)." If you're using a specific figure with a data tag, please retain the tag in your citation.</p>
+    <p style="margin-top:8px; font-size:13.5px; color:var(--mb-grey-600);">For press enquiries or the full underlying dataset, contact us via our <a href="/about">About</a> page. We're happy to provide additional context or breakdowns for journalists working on a related story.</p>
+  </div>
+</section>
+
+<section class="section" id="faq" data-lazy-section>
+  <div class="section-inner fade-left">
+    <h2>Frequently Asked Questions</h2>
+    <details class="faq-item" open>
+      <summary>How many Mercedes engine enquiries did you analyse in 2025?</summary>
+      <p>We analysed 5,920 Mercedes-specific enquiries from our total of 24,650 across all brands. This covers every engine code and model that generated at least one enquiry in our CRM data. The full year 2025, Jan–Dec.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Is this data representative of all Mercedes on UK roads?</summary>
+      <p>No, and we're upfront about that. Our dataset reflects people who contacted us about a replacement engine — it over-represents engines that fail and under-represents ones that don't. We pair enquiry data with specialist interviews and third-party sources to build a fuller picture, but we never claim our dataset is a random sample of the total Mercedes parc.</p>
+    </details>
+    <details class="faq-item">
+      <summary>How do you verify cost figures?</summary>
+      <p>Cost figures are cross-checked through three channels: supplier quotes sent through our CRM, direct interviews with 100+ UK specialists, and marketplaces (eBay Motors, PistonHeads). All cost figures are marked <span class="tag">[EM-QUOTE]</span> and we disclose the source range. Main dealer costs may be 30–50% higher.</p>
+    </details>
+    <details class="faq-item">
+      <summary>How often is your data updated?</summary>
+      <p>Annually, each February, covering the prior full calendar year. Figures are locked at publication and not silently revised. Corrections are logged on our Corrections Log. Supplementary reports may be published between annual cycles.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I use this data in my own research?</summary>
+      <p>Yes — our data is free to use with attribution. Use the citation format provided on this page. For commercial use or large-scale reproduction, please contact us via our About page.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Why don't you use a larger sample size?</summary>
+      <p>24,650 total enquiries across all brands is a substantial dataset — it represents real customers with real engine problems, not a synthetic or modelled dataset. We prioritise data quality and verification over sample size. A verified figure from 24,650 enquiries is more useful than an unverified figure from 100,000.</p>
+    </details>
+  </div>
+</section>
+
+<div class="trust-strip">
+  <div class="trust-grid">
+    <div class="trust-item">
+      <span class="dot">✓</span>
+      <p><strong>24,650 Enquiries</strong>The full 2025 dataset behind every Mercedes figure on this site.</p>
+    </div>
+    <div class="trust-item">
+      <span class="dot">✓</span>
+      <p><strong>5-Layer Verification</strong>Every figure passes five independent checks before publication.</p>
+    </div>
+    <div class="trust-item">
+      <span class="dot">✓</span>
+      <p><strong>Annual Refresh</strong>Updated each February — this is the 2026 edition.</p>
+    </div>
+    <div class="trust-item">
+      <span class="dot">✓</span>
+      <p><strong>100% Independent</strong>No manufacturer sponsorship or influence.</p>
+    </div>
+  </div>
+</div>
+
+<section class="final-cta" id="quote">
+  <h2>Explore Our Data</h2>
+  <p>Browse our full Mercedes engine data reports — from failure rates by engine to regional enquiry patterns.</p>
+  <a href="/data" class="btn-primary">VIEW ALL DATA REPORTS →</a>
+  <a href="/data/engine-failure-index-2026" class="btn-outline">ENGINE FAILURE INDEX 2026</a>
+</section>
+
+<footer>
+  <p>Mercedes-Benz Ownership Guide — part of the Engine Finders network. Independent editorial content; not affiliated with Mercedes-Benz or any manufacturer.</p>
+  <p><a href="/about/editorial-standards">Editorial Standards</a> · <a href="/about/data-verification">Data Verification</a> · <a href="/about/corrections">Corrections Log</a></p>
+</footer>
+
+<script src="/assets/mercedes/effects.js"></script>
+</body>
+</html>

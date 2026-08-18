@@ -15,12 +15,12 @@
   --color-text-soft: #7b7368;
   --color-border: #ded8ce;
   --color-border-strong: #b9aa94;
-  --color-primary: #99651f;
-  --color-primary-strong: #704411;
-  --color-primary-soft: #f3e8d6;
+  --color-primary: #b07526;
+  --color-primary-strong: #8a5518;
+  --color-primary-soft: #f5ead4;
   --color-on-primary: #ffffff;
   --color-chrome: #0a0a09;
-  --color-accent: #b27a2a;
+  --color-accent: #c48a36;
   --color-accent-soft: #f7eddd;
   --color-accent-red: #a3272e;
   --color-accent-red-soft: #f7e8e8;
@@ -30,7 +30,7 @@
   --color-hero-overlay: rgba(248, 246, 242, 0.74);
   --color-hero-fade: rgba(248, 246, 242, 0.98);
   --color-navbar: rgba(255, 255, 255, 0.97);
-  --color-glass-border: rgba(112, 68, 17, 0.18);
+  --color-glass-border: rgba(176, 117, 38, 0.18);
   --color-glass-shadow: rgba(37, 28, 17, 0.1);
   --color-btn-hover: rgba(34, 20, 6, 0.22);
   --color-btn-hover-text: #ffffff;

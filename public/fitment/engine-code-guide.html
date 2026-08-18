@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Engine Code Guide – Mercedes Fitment & Identification</title>
+    <meta name="description" content="Complete Mercedes engine code guide. Learn which engine is in your Mercedes, how to find the engine number, and decode chassis fitment for every model.">
+    <link rel="canonical" href="https://mercedesengines.uk/fitment/engine-code-guide">
+    <link rel="stylesheet" href="/assets/mercedes/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    </noscript>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mercedesengines.uk/#organization",
+      "name": "MercedesEngines.uk",
+      "url": "https://mercedesengines.uk",
+      "logo": "https://mercedesengines.uk/assets/mercedes/logo.png",
+      "description": "Independent editorial resource for Mercedes-Benz engine information, part of the Engine Finders network.",
+      "sameAs": []
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mercedesengines.uk/#website",
+      "url": "https://mercedesengines.uk",
+      "name": "MercedesEngines.uk",
+      "publisher": {
+        "@id": "https://mercedesengines.uk/#organization"
+      },
+      "description": "Expert guides, reliability data, and cost advice for Mercedes-Benz engines."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://mercedesengines.uk/fitment/engine-code-guide#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mercedesengines.uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Fitment",
+          "item": "https://mercedesengines.uk/fitment"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Engine Code Guide",
+          "item": "https://mercedesengines.uk/fitment/engine-code-guide"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://mercedesengines.uk/fitment/engine-code-guide#article",
+      "headline": "Engine Code Guide — Fitment & Identification Guide",
+      "description": "Complete Mercedes engine code guide. Learn which engine is in your Mercedes, how to find the engine number, and decode chassis fitment for every model.",
+      "mainEntityOfPage": "https://mercedesengines.uk/fitment/engine-code-guide",
+      "author": {
+        "@type": "Organization",
+        "name": "Mercedes Engine Editorial Team"
+      },
+      "publisher": {
+        "@id": "https://mercedesengines.uk/#organization"
+      },
+      "datePublished": "2026-08-12",
+      "dateModified": "2026-08-12",
+      "about": {
+        "@type": "Thing",
+        "name": "Mercedes-Benz engine code identification and fitment"
+      },
+      "keywords": "Mercedes engine code, engine identification, fitment guide, OM651, OM642, M276, engine number location, Mercedes VIN decoder"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://mercedesengines.uk/fitment/engine-code-guide#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I find the engine code on my Mercedes without lifting the car?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The easiest method is to check the 8th character of your VIN. Use our VIN decoder to get a full breakdown. You can also look at the V5C registration document, which lists the engine number. The engine code is usually the first part of that number."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does \"OM\" stand for in Mercedes engine codes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "\"OM\" stands for Öl-Motor, which is German for oil engine – i.e., diesel. \"M\" stands for Motor and is used for petrol engines. This naming convention has been in place for decades."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I fit an engine from a different Mercedes model into my car?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only if the engine code is listed for your chassis in the fitment matrix. For example, an OM651 from a W204 C-Class will also fit a W212 E-Class or X253 GLC, but you must check the specific variant and ECU compatibility. Always consult a specialist before buying."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the most common Mercedes engine in the UK?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Based on our 2025 enquiry data, the OM651 2.1 diesel is the most requested, with 1,250 quotes [EM-VERIFIED]. It appears in the C-Class, E-Class, GLC, and Sprinter. The OM642 V6 diesel follows with 880 requests."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does it cost to replace a Mercedes engine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Costs vary widely. A reconditioned OM651 supply-only is around £2,800–£4,800, while an OM642 V6 is £3,200–£5,500, and an M276 petrol V6 is £3,800–£6,500 [EM-QUOTE]. See the replacement cost guide for a full breakdown."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does the 70% scrap threshold mean for Mercedes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If the cost of a replacement engine (supply + fitting) exceeds approximately 70% of your car's current market value, it may be more economical to scrap the car. This threshold is a genuine guideline based on our proprietary data. For worked examples, see the repair/replace/scrap framework."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+    <header class="hero hero--fitment">
+        <div class="hero__content">
+            <div class="hero__eyebrow">
+                <span>Mercedes-Benz Engine Identification</span>
+                <span class="hero__rule"></span>
+            </div>
+            <h1>Engine Code Guide — Fitment &amp; Identification Guide</h1>
+            <p class="hero__subheadline">
+                Every Mercedes has an engine code stamped on the block, encoded in the VIN, and listed on the registration document. This guide explains how to find your engine code, what it means, and why it matters when buying a replacement or checking fitment.
+            </p>
+        </div>
+        <div class="hero__stat-strip">
+            <div class="stat-cell">
+                <span class="stat-icon">🔧</span>
+                <span class="stat-number">15+</span>
+                <span class="stat-label">Vetted Specialists</span>
+            </div>
+            <div class="stat-cell">
+                <span class="stat-icon">📊</span>
+                <span class="stat-number">9,000+</span>
+                <span class="stat-label">Real UK Enquiries</span>
+            </div>
+            <div class="stat-cell">
+                <span class="stat-icon">🔍</span>
+                <span class="stat-number">70%</span>
+                <span class="stat-label">Repair-or-Scrap Threshold</span>
+            </div>
+            <div class="stat-cell">
+                <span class="stat-icon">⚙️</span>
+                <span class="stat-number">30+</span>
+                <span class="stat-label">Engine Families Covered</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- SUMMARY BOX -->
+    <div class="summary-box">
+        <h2>The Short Answer</h2>
+        <p><strong>Your Mercedes engine code is a combination of letters and numbers that uniquely identifies the engine family, displacement, and configuration.</strong> It is stamped on the engine block, encoded in the 8th character of your VIN, and listed on the V5C logbook. Common codes include OM651 (2.1 diesel), OM642 (3.0 V6 diesel), M276 (3.0 V6 petrol), and M177 (4.0 V8 biturbo).</p>
+        <ul>
+            <li><strong>Where to find it:</strong> Engine block label, timing cover sticker, VIN (8th digit), or registration document.</li>
+            <li><strong>Why it matters:</strong> The wrong engine won't fit, won't talk to the ECU, and can cause MOT or insurance issues.</li>
+            <li><strong>Most requested engines in 2025:</strong> OM651 (1,250 enquiries), OM642 (880), OM654 (520), M276 (390) [EM-VERIFIED].</li>
+            <li><strong>Next step:</strong> Use our <a href="/tools/vin-decoder">VIN decoder</a> or <a href="/fitment/matrix">full fitment matrix</a> to confirm compatibility.</li>
+        </ul>
+        <p>If you already have a failed engine, the <a href="/economics/replacement-cost-by-engine-code">cost guide</a> will help you understand the financial impact.</p>
+    </div>
+
+    <!-- STICKY TABLE OF CONTENTS -->
+    <nav class="toc-bar" aria-label="On this page">
+        <span class="toc-label">On this page</span>
+        <ul>
+            <li><a href="#what-is-engine-code">What Is an Engine Code?</a></li>
+            <li><a href="#where-to-find">Where to Find Your Code</a></li>
+            <li><a href="#how-to-decode">How to Decode It</a></li>
+            <li><a href="#common-engine-families">Common Engine Families</a></li>
+            <li><a href="#why-matters">Why Correct ID Matters</a></li>
+            <li><a href="#misidentification">Common Misidentifications</a></li>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#verdict">Verdict</a></li>
+        </ul>
+    </nav>
+
+    <!-- BODY SECTIONS -->
+
+    <!-- Section 1: What Is an Engine Code? -->
+    <section class="section" id="what-is-engine-code">
+        <div class="section-inner fade-up">
+            <h2>What Is a Mercedes Engine Code?</h2>
+            <p>A Mercedes engine code is a short alphanumeric identifier that tells you exactly which engine is fitted to your car. It reveals the fuel type, displacement, cylinder configuration, and generation. For example, <strong>OM651</strong> means a 2.1‑litre four‑cylinder diesel (the "OM" stands for Öl-Motor – diesel in German), while <strong>M276</strong> is a 3.0‑litre V6 petrol.</p>
+            <p>Every chassis – from the A‑Class (W176) to the S‑Class (W222) – is designed for a specific set of engine codes. Installing an engine that isn't listed for your chassis will not fit mechanically, will not communicate with the ECU, and will fail an MOT. This is why knowing your code is the first and most important step before any replacement or swap.</p>
+            <p>In our 2025 enquiry data, the top requested Mercedes engines were OM651 (1,250 requests), OM642 (880), OM654 (520), and M276 (390) <span class="data-tag">[EM-VERIFIED]</span>. These represent the most common fitments across the C‑Class, E‑Class, GLC, and GLE ranges.</p>
+        </div>
+    </section>
+
+    <!-- Section 2: Where to Find Your Engine Code -->
+    <section class="section section-alt" id="where-to-find">
+        <div class="section-inner fade-down">
+            <h2>Where to Find Your Mercedes Engine Code</h2>
+            <p>There are four reliable ways to locate your engine code. Use the one that suits your situation best.</p>
+            <ol class="numbered-list">
+                <li>
+                    <strong>On the engine block itself.</strong>
+                    <p>Most Mercedes engines have a stamped metal plate or a machined pad on the cylinder block. For OM651, it's on the left side near the oil filter housing. For M276, it's on the front face behind the intake manifold. For detailed diagrams and photos, see our <a href="/technical/engine-number-location">engine number location guide</a>.</p>
+                </li>
+                <li>
+                    <strong>On the timing cover or camshaft cover label.</strong>
+                    <p>Many modern engines have a sticker on the timing cover with the engine code and other details. This is often the quickest spot to check without any disassembly.</p>
+                </li>
+                <li>
+                    <strong>From the VIN (Vehicle Identification Number).</strong>
+                    <p>The 8th character of your VIN indicates the engine family. For example, a VIN with the 8th character "9" often points to an OM651 diesel, while "6" may indicate an M276 petrol. Use our free <a href="/tools/vin-decoder">Mercedes VIN decoder</a> for a full breakdown.</p>
+                </li>
+                <li>
+                    <strong>On your V5C registration document.</strong>
+                    <p>The logbook includes the engine number, which can be cross‑referenced with our <a href="/fitment/matrix">fitment matrix</a> to confirm the code.</p>
+                </li>
+            </ol>
+            <p>If you cannot find the code using these methods, a <a href="/about/specialist-vetting">vetted Mercedes specialist</a> can locate it for you during a service or inspection.</p>
+        </div>
+    </section>
+
+    <!-- Section 3: How to Decode It -->
+    <section class="section" id="how-to-decode" data-lazy-section>
+        <div class="section-inner fade-left">
+            <h2>How to Decode Your Mercedes Engine Code</h2>
+            <p>Mercedes engine codes follow a consistent pattern. The first two letters indicate the fuel type: <strong>OM</strong> for diesel (<em>Öl-Motor</em>) and <strong>M</strong> for petrol (<em>Motor</em>). The following numbers usually denote displacement (in litres x 10) and configuration, though the exact meaning varies by generation.</p>
+            <div class="table-wrapper">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Code Prefix</th>
+                            <th>Fuel Type</th>
+                            <th>Typical Displacement</th>
+                            <th>Common Models</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>OM</td><td>Diesel</td><td>2.1 – 3.0</td><td>C‑Class, E‑Class, GLC, Sprinter</td></tr>
+                        <tr><td>M</td><td>Petrol</td><td>1.6 – 6.0</td><td>All models, including AMG</td></tr>
+                        <tr><td>OM65x</td><td>Diesel (modern 4‑cyl)</td><td>2.0</td><td>W213, X253, V167</td></tr>
+                        <tr><td>M27x</td><td>Petrol (V6)</td><td>3.0 – 3.5</td><td>E‑Class, CLS, GLE</td></tr>
+                        <tr><td>M17x</td><td>Petrol (V8 biturbo)</td><td>4.0</td><td>AMG GT, C63, E63</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <p>For a full breakdown of every engine code and its specifications, see our <a href="/engine">Engine Knowledge Centre</a> pages.</p>
+        </div>
+    </section>
+
+    <!-- Section 4: Common Engine Families and Fitments -->
+    <section class="section section-alt" id="common-engine-families" data-lazy-section>
+        <div class="section-inner fade-right">
+            <h2>Common Mercedes Engine Families and Their Fitments</h2>
+            <p>The table below summarises the most frequently encountered engine families and the chassis they were fitted to. For a complete list, visit the <a href="/fitment/matrix">full fitment matrix</a>.</p>
+            <div class="table-wrapper">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Engine Code</th>
+                            <th>Type</th>
+                            <th>Chassis Codes</th>
+                            <th>Key Models</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><a href="/engine/om651">OM651</a></td><td>2.1 Diesel</td><td>W204, W205, W212, W213, X253, W447, W906</td><td>C‑Class, E‑Class, GLC, Sprinter</td></tr>
+                        <tr><td><a href="/engine/om654">OM654</a></td><td>2.0 Diesel</td><td>W205, W206, W213, W214, X253, X254, V167</td><td>C‑Class, E‑Class, GLC, GLE</td></tr>
+                        <tr><td><a href="/engine/om642">OM642</a></td><td>3.0 V6 Diesel</td><td>W211, W212, W164, W166, X204, W251, W906</td><td>E‑Class, ML/GLE, GLK, Sprinter</td></tr>
+                        <tr><td><a href="/engine/m276">M276</a></td><td>3.0 V6 Petrol</td><td>W212, W213, W166, C218, X166</td><td>E‑Class, CLS, GLE, GLS</td></tr>
+                        <tr><td><a href="/engine/m274">M274</a></td><td>2.0 Petrol</td><td>W205, W213, X253</td><td>C‑Class, E‑Class, GLC</td></tr>
+                        <tr><td><a href="/engine/m177">M177</a></td><td>4.0 V8 Biturbo</td><td>W205, W213, W222, X166, V167</td><td>C63, E63, S‑Class, GLE AMG</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <p>Always confirm the exact variant (e.g., OM651 DE22 LA vs. OM651 DE22 LA EVO) because ECU programming and ancillaries differ.</p>
+        </div>
+    </section>
+
+    <!-- Section 5: Why Correct Identification Matters -->
+    <section class="section" id="why-matters" data-lazy-section>
+        <div class="section-inner fade-up">
+            <h2>Why Correct Engine Identification Matters</h2>
+            <p>Installing the wrong engine is one of the most expensive mistakes you can make. Here's why getting the code right is non‑negotiable:</p>
+            <ul class="checklist">
+                <li><strong>ECU compatibility:</strong> The engine control unit is programmed for a specific engine family, fuel system, and emissions setup. A mismatched engine will not run correctly or may not start at all.</li>
+                <li><strong>Physical fitment:</strong> Engine mounts, exhaust manifolds, cooling pipes, and wiring looms differ between engine families. Even within the same family, variant‑specific parts can prevent a direct swap.</li>
+                <li><strong>Legal compliance:</strong> Fitting an engine not originally homologated for your chassis can cause MOT failure, insurance invalidation, or DVLA issues.</li>
+                <li><strong>Warranty and specialist support:</strong> Most vetted specialists will refuse to work on a mismatched combination. Always check the <a href="/fitment/matrix">fitment matrix</a> and consult a specialist before purchasing.</li>
+            </ul>
+            <p>Once you know your engine code, you can use our <a href="/tools/engine-compatibility-checker">Engine Compatibility Checker</a> to see which other chassis share the same unit.</p>
+        </div>
+    </section>
+
+    <!-- Section 6: Common Misidentifications -->
+    <section class="section section-alt" id="misidentification" data-lazy-section>
+        <div class="section-inner fade-down">
+            <h2>Common Misidentifications and Mistakes</h2>
+            <p>Even experienced owners sometimes confuse similar codes. Avoid these pitfalls:</p>
+            <ul class="checklist">
+                <li><strong>OM651 vs. OM654:</strong> Both are 2.0‑ish diesels, but OM651 is the older 2.1‑litre unit (2008–2019), while OM654 is the newer 2.0‑litre modular engine (2016+). They are not interchangeable. Check the VIN 8th character or the engine block label.</li>
+                <li><strong>M272 vs. M276:</strong> Both are V6 petrols, but M272 is a 3.5‑litre (2004–2011) with a balance‑shaft issue, while M276 is a 3.0‑litre (2011+) with a different timing chain design. They have different engine mounts and ECU pinouts.</li>
+                <li><strong>M157 vs. M177:</strong> Both are biturbo V8s. M157 is a 5.5‑litre (2012–2018) found in E63, S63, and CLS63. M177 is a 4.0‑litre (2015+) used in C63, E63, and AMG GT. They share some architecture but are not physically identical; replacement parts are not cross‑compatible.</li>
+                <li><strong>Om642 vs. OM651:</strong> The V6 diesel (OM642) is physically larger and has a different bellhousing pattern than the four‑cylinder OM651. Fitting a 651 into a V6 chassis would require custom mounts and adapters – not a practical DIY job.</li>
+            </ul>
+            <p>If you are unsure, use the <a href="/fitment/om-vs-m-series-identification">OM vs. M‑series identification guide</a> or contact a specialist.</p>
+        </div>
+    </section>
+
+    <!-- Section 7: FAQ -->
+    <section class="section" id="faq" data-lazy-section>
+        <div class="section-inner fade-left">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq-item">
+                <h3>How do I find the engine code on my Mercedes without lifting the car?</h3>
+                <p>The easiest method is to check the 8th character of your VIN. Use our <a href="/tools/vin-decoder">VIN decoder</a> to get a full breakdown. You can also look at the V5C registration document, which lists the engine number. The engine code is usually the first part of that number.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What does "OM" stand for in Mercedes engine codes?</h3>
+                <p>"OM" stands for <em>Öl-Motor</em>, which is German for oil engine – i.e., diesel. "M" stands for <em>Motor</em> and is used for petrol engines. This naming convention has been in place for decades.</p>
+            </div>
+            <div class="faq-item">
+                <h3>Can I fit an engine from a different Mercedes model into my car?</h3>
+                <p>Only if the engine code is listed for your chassis in the <a href="/fitment/matrix">fitment matrix</a>. For example, an OM651 from a W204 C‑Class will also fit a W212 E‑Class or X253 GLC, but you must check the specific variant and ECU compatibility. Always consult a specialist before buying.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What is the most common Mercedes engine in the UK?</h3>
+                <p>Based on our 2025 enquiry data, the OM651 2.1 diesel is the most requested, with 1,250 quotes [EM-VERIFIED]. It appears in the C‑Class, E‑Class, GLC, and Sprinter. The OM642 V6 diesel follows with 880 requests.</p>
+            </div>
+            <div class="faq-item">
+                <h3>How much does it cost to replace a Mercedes engine?</h3>
+                <p>Costs vary widely. A reconditioned OM651 supply‑only is around £2,800–£4,800, while an OM642 V6 is £3,200–£5,500, and an M276 petrol V6 is £3,800–£6,500 [EM-QUOTE]. See the <a href="/economics/replacement-cost-by-engine-code">replacement cost guide</a> for a full breakdown.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What does the 70% scrap threshold mean for Mercedes?</h3>
+                <p>If the cost of a replacement engine (supply + fitting) exceeds approximately 70% of your car's current market value, it may be more economical to scrap the car. This threshold is a genuine guideline based on our proprietary data. For worked examples, see the <a href="/economics/repair-replace-scrap-framework">repair/replace/scrap framework</a>.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 8: Verdict -->
+    <section class="section section-alt" id="verdict" data-lazy-section>
+        <div class="section-inner fade-right">
+            <h2>Our Verdict: Start Here Before Any Engine Work</h2>
+            <div class="verdict-block">
+                <div class="verdict-badge verdict--safe">✅ Essential</div>
+                <p><strong>Knowing your engine code is the single most important step before ordering a replacement, checking compatibility, or even diagnosing a fault.</strong> Use this guide to locate your code, decode it, and confirm that it matches your chassis. Then use the <a href="/tools/vin-decoder">VIN decoder</a> and <a href="/fitment/matrix">fitment matrix</a> to double‑check.</p>
+                <p>Once you have confirmed the correct engine, the next step is to understand the cost. Visit the <a href="/economics/replacement-cost-by-engine-code">replacement cost guide</a> and use the <a href="/tools/repair-vs-replace-calculator">repair vs. replace calculator</a> to make a financially sound decision.</p>
+                <a href="/tools/registration-lookup" class="cta-button cta-button--assertive">Check Your Engine with Registration Lookup</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- TRUST STRIP + CTA -->
+    <section class="section trust-strip" data-lazy-section>
+        <div class="section-inner fade-up">
+            <div class="trust-grid">
+                <div class="trust-cell">
+                    <span class="trust-icon">🔍</span>
+                    <span class="trust-number">15+</span>
+                    <span class="trust-label">Vetted Mercedes Specialists</span>
+                </div>
+                <div class="trust-cell">
+                    <span class="trust-icon">📞</span>
+                    <span class="trust-number">9,000+</span>
+                    <span class="trust-label">Real UK Enquiries</span>
+                </div>
+                <div class="trust-cell">
+                    <span class="trust-icon">⚖️</span>
+                    <span class="trust-label">Independent Editorial</span>
+                </div>
+                <div class="trust-cell">
+                    <span class="trust-icon">📊</span>
+                    <span class="trust-label">Data-Backed Guidance</span>
+                </div>
+            </div>
+            <div class="cta-block">
+                <p>Ready to identify your engine or get a quote? Compare prices from vetted Mercedes specialists.</p>
+                <form class="registration-lookup" action="/tools/registration-lookup" method="get">
+                    <input type="text" name="reg" placeholder="Enter your registration" aria-label="Enter your vehicle registration">
+                    <button type="submit" class="cta-button cta-button--commercial">Check Now</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 MercedesEngines.uk — Part of the Engine Finders network. All rights reserved.</p>
+        <p><a href="/about/how-it-works">How it works</a> · <a href="/about/editorial-standards">Editorial standards</a> · <a href="/about/data-verification">Data verification</a></p>
+    </footer>
+
+    <script src="/assets/mercedes/effects.js" defer></script>
+</body>
+</html>
