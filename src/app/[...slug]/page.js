@@ -112,6 +112,13 @@ export async function generateStaticParams() {
   return paths;
 }
 
+const BASE_URL = "https://mercedesengines.uk";
+
+function buildCanonical(slugSegments) {
+  const path = slugSegments.filter(Boolean).join("/");
+  return path ? `${BASE_URL}/${path}` : BASE_URL;
+}
+
 export async function generateMetadata({ params }) {
   const { slug: slugSegments } = await params;
   const result = findEntry(slugSegments);
@@ -129,7 +136,8 @@ export async function generateMetadata({ params }) {
   const { meta } = data;
   const og = meta.openGraph;
   const hasOg = og && (og.title || og.description || og.url || og.image || og.siteName || og.type);
-  const canonical = meta.canonical || `https://bmwengines.uk/${slugSegments.join("/")}`;
+  // Always build from the live slug so we never ship BMW hosts or trailing slashes from JSON.
+  const canonical = buildCanonical(slugSegments);
 
   return {
     title: meta.title || undefined,
@@ -140,9 +148,9 @@ export async function generateMetadata({ params }) {
           title: og.title || undefined,
           description: og.description || undefined,
           type: og.type || "website",
-          url: og.url || undefined,
+          url: canonical,
           images: og.image ? [og.image] : undefined,
-          siteName: og.siteName || undefined,
+          siteName: og.siteName || "Mercedes Engines UK",
         }
       : undefined,
     twitter: meta.twitter?.title || meta.twitter?.description
