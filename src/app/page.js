@@ -27,6 +27,31 @@ import homeSec12Data from "@/data/home/homeSec12.json";
 import homeSec13Data from "@/data/home/homeSec13.json";
 import homeSec14Data from "@/data/home/homeSec14.json";
 
+const BASE_URL = "https://mercedesengines.uk";
+
+export const metadata = {
+  title: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
+  description:
+    "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG sold in the UK.",
+  alternates: {
+    canonical: BASE_URL,
+  },
+  openGraph: {
+    title: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
+    description:
+      "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG sold in the UK.",
+    url: BASE_URL,
+    siteName: "Mercedes Engines UK",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
+    description:
+      "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz model sold in the UK.",
+  },
+};
+
 export default function Home() {
   return (
     <main>

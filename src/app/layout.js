@@ -3,9 +3,33 @@ import Navbar from "@/components/shared/Navbar";
 import Footer from "@/components/shared/Footer";
 import { ThemeProvider } from "@/components/shared/themeProvider";
 
+const BASE_URL = "https://mercedesengines.uk";
+
 export const metadata = {
-  title: "BMW Reliability Guide",
-  description: "The UK's Most Trusted BMW Ownership Guide",
+  metadataBase: new URL(BASE_URL),
+  title: {
+    default: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
+    template: "%s | Mercedes Engines UK",
+  },
+  description:
+    "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG sold in the UK.",
+  openGraph: {
+    title: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
+    description:
+      "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG sold in the UK.",
+    siteName: "Mercedes Engines UK",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
+    description:
+      "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz model sold in the UK.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({ children }) {
