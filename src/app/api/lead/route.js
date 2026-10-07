@@ -1,5 +1,7 @@
-import { sendLeadToCRM, toCrmLeadPayload } from "@/components/shared/sendLeadToCRM";
-import { sendLeadEmail } from "@/components/shared/sendLeadEmail";
+import { toCrmLeadPayload } from "@/app/api/lib/buildLeadPayload";
+import { sendLeadToCRM } from "@/app/api/lib/sendLeadToCRM";
+import { sendLeadEmail } from "@/app/api/lib/sendLeadEmail";
+import { LEAD_SOURCE } from "@/app/api/lib/leadConfig";
 
 export async function POST(request) {
   try {
@@ -9,16 +11,24 @@ export async function POST(request) {
       return Response.json({ success: true, skipped: true });
     }
 
-    if (!payload?.name || !payload?.email || !payload?.number) {
-      return Response.json({ error: "Name, email and phone are required" }, { status: 400 });
+    if (!payload?.name || (!payload?.email && !payload?.number)) {
+      return Response.json(
+        { error: "Name and either email or phone are required" },
+        { status: 400 },
+      );
     }
 
+    const withSource = {
+      ...payload,
+      source: payload.source || LEAD_SOURCE,
+    };
+
     // CRM: contact + vehicle only. Email: full payload including calculator.
-    const crmPayload = toCrmLeadPayload(payload);
+    const crmPayload = toCrmLeadPayload(withSource);
 
     const [crmResult, emailResult] = await Promise.allSettled([
       sendLeadToCRM(crmPayload),
-      sendLeadEmail(payload),
+      sendLeadEmail(withSource),
     ]);
 
     if (crmResult.status === "rejected") {

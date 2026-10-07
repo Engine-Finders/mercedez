@@ -2,8 +2,8 @@ import { Suspense } from "react";
 import QuoteForm from "@/components/shared/QuoteForm";
 
 export const metadata = {
-  title: "Get a Quote | BMW Reliability Guide",
-  description: "Request free BMW engine guidance and a quote.",
+  title: "Get a Quote",
+  description: "Request free Mercedes-Benz engine guidance and a quote.",
 };
 
 export default function QuotePage() {
