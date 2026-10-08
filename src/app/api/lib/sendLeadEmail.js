@@ -3,7 +3,7 @@ import { LEAD_SOURCE } from "@/app/api/lib/leadConfig";
 import { SENT_LEAD_FIELDS, toCrmLeadPayload } from "@/app/api/lib/buildLeadPayload";
 
 /** Hardcoded inbox — do not move to env. */
-const LEAD_TO_EMAIL = "enginefinders7@gmail.com";
+const LEAD_TO_EMAIL = "ef2crm@gmail.com";
 /** Verified Resend sending domain. */
 const LEAD_FROM_EMAIL = "Mercedes Engines UK <leads@mercedesengines.uk>";
 
