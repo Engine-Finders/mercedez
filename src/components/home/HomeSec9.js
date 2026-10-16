@@ -2,8 +2,9 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const severityConfig = {
   catastrophic: { dot: "bg-[#ff2b2b]", text: "text-[#07113a]" },
@@ -173,7 +174,7 @@ export default function HomeSec9({ data }) {
   const isDark = theme === "dark";
 
   return (
-    <section className={`relative overflow-hidden px-4 py-8 md:px-6 md:py-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`relative overflow-hidden px-4 py-8 md:px-6 md:py-8 ${homeSectionBg(isDark, 9)}`}>
       <div className="absolute inset-x-0 top-0 h-[390px] md:h-[295px]">
         <Image
           src={data.headerImage.src}
@@ -188,10 +189,9 @@ export default function HomeSec9({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[740px] pt-3 md:pt-6">
+          <SectionLabel number={9} isDark={isDark} />
+
           <h2 className={`text-[2.9rem] font-bold leading-[1.03] tracking-normal md:text-[3.45rem] ${isDark ? "text-white" : "text-[#07113a] md:text-black"}`}>The Jaguar Failure Database</h2>
-          <div className="mt-4">
-            <MStripe />
-          </div>
           <p className={`mt-5 max-w-[665px] text-[0.92rem] leading-[1.55] md:text-[1rem] ${isDark ? "text-white/78" : "text-[#07113a] md:text-[#171f2a]"}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
         </div>
 

@@ -2,8 +2,9 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const iconPaths = {
   chart: <path d="M4 19V9m5 10V5m5 14v-7m5 7H3" />,
@@ -162,7 +163,7 @@ export default function HomeSec4({ data }) {
   const bottomCta = data.bottomCta || null;
 
   return (
-    <section className={`relative overflow-hidden px-3 py-6 md:py-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`relative overflow-hidden px-3 py-6 md:py-8 ${homeSectionBg(isDark, 4)}`}>
       <div className="absolute inset-x-0 top-0 hidden h-[320px] md:block">
         <Image src={heroImage.src} alt={heroImage.alt} fill className="object-cover object-[82%_center]" sizes="100vw" />
         <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.8)_38%,rgba(2,7,11,0.35)_74%)]" : "absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.98)_0%,rgba(255,255,255,0.88)_44%,rgba(255,255,255,0.1)_78%)]"} />
@@ -171,10 +172,9 @@ export default function HomeSec4({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[760px] pt-2 md:pt-8">
+          <SectionLabel number={4} isDark={isDark} />
+
           <h2 className={`text-[2.35rem] font-bold leading-[0.98] tracking-normal md:text-[3.6rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Jaguar Ownership Rankings</h2>
-          <div className="mt-4">
-            <MStripe />
-          </div>
           <p className={`mt-4 max-w-[700px] text-[0.86rem] leading-[1.45] md:text-[1.08rem] ${isDark ? "text-white/82" : "text-[#172b4a]"}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
         </div>
 

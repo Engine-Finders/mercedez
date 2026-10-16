@@ -1,8 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 function PlusIcon() {
   return (
@@ -22,14 +23,13 @@ export default function HomeSec13({ data }) {
   const faqHub = data.faqHub || null;
 
   return (
-    <section className={`px-3 pb-2 pt-7 md:px-6 md:pt-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`px-3 pb-2 pt-7 md:px-6 md:pt-8 ${homeSectionBg(isDark, 13)}`}>
       <div className="mx-auto w-full max-w-8xl">
         <div className="mb-3 flex flex-col gap-2 md:flex-row md:items-start md:justify-between">
           <div>
+            <SectionLabel number={13} isDark={isDark} />
+
             <h2 className={`text-[1.55rem] font-bold leading-tight tracking-normal md:text-[2rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Frequently Asked Questions</h2>
-            <div className="mt-3">
-              <MStripe />
-            </div>
           </div>
           {faqHub?.href ? (
             <p className={`text-[0.9rem] md:pt-1 ${isDark ? "text-white/74" : "text-[#172334]"}`}>

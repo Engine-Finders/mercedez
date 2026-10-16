@@ -15,13 +15,13 @@
   --color-text-soft: #7b7368;
   --color-border: #ded8ce;
   --color-border-strong: #b9aa94;
-  --color-primary: #b07526;
-  --color-primary-strong: #8a5518;
+  --color-primary: #ab8450;
+  --color-primary-strong: #8f6b3d;
   --color-primary-soft: #f5ead4;
   --color-on-primary: #ffffff;
   --color-chrome: #0a0a09;
-  --color-accent: #c48a36;
-  --color-accent-soft: #f7eddd;
+  --color-accent: #ab8450;
+  --color-accent-soft: #f5ead4;
   --color-accent-red: #a3272e;
   --color-accent-red-soft: #f7e8e8;
   --color-accent-green: #397553;
@@ -55,6 +55,10 @@ body {
     color 0.2s ease;
 }
 
+.font-lora {
+  font-family: var(--font-lora), Georgia, "Times New Roman", serif;
+}
+
 ::selection {
   background: var(--color-primary);
   color: var(--color-on-primary);
@@ -85,9 +89,14 @@ a {
   }
 }
 
-/* Keep underlines only in Find Your Vehicle (homeSec2) */
+/* Find Your Vehicle cards — no underline, normal link weight */
 .find-your-vehicle a {
-  text-decoration: underline;
+  font-weight: inherit;
+  text-decoration: none;
+}
+
+.find-your-vehicle a:hover {
+  text-decoration: none;
 }
 
 /* Accent spans inside headings loaded from JSON */

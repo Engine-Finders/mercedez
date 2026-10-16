@@ -3,8 +3,9 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const iconPaths = {
   check: <path d="m5 12 4 4L19 6" />,
@@ -62,7 +63,7 @@ export default function HomeSec14({ data }) {
   }, []);
 
   return (
-    <section className={`px-3 pb-7 pt-2 md:px-6 md:pb-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`px-3 pb-7 pt-2 md:px-6 md:pb-8 ${homeSectionBg(isDark, 14)}`}>
       <div className={`relative mx-auto w-full max-w-8xl overflow-hidden rounded-lg border ${isDark ? "border-[var(--color-border)] bg-[var(--color-surface)]" : "border-[#dfe5ed] bg-white"}`}>
         {showDesktopImage && image?.src ? (
           <div className="absolute inset-y-0 right-0 hidden w-[42%] md:block">
@@ -73,10 +74,9 @@ export default function HomeSec14({ data }) {
 
         <div className="relative px-5 py-5 md:grid md:grid-cols-[minmax(0,1fr)_34%] md:gap-5 md:px-10 md:py-6">
           <div>
+            <SectionLabel number={14} isDark={isDark} />
+
             <h2 className={`text-[2rem] font-bold leading-tight tracking-normal md:text-[2.18rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Not Sure Where to Start?</h2>
-            <div className="mt-3">
-              <MStripe />
-            </div>
             <p className={`mt-2 text-[1rem] leading-snug md:text-[1.08rem] ${isDark ? "text-white/78" : "text-[#172334]"}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
 
             {stats.length ? (

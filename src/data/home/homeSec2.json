@@ -1,320 +1,219 @@
 {
   "subHeadline": "Choose your model to explore reliability, common faults and real running costs.",
-  "headerImage": {
-    "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=900&q=80",
-    "alt": "Mercedes-Benz front detail"
-  },
-  "searchPlaceholder": "Search model...",
-  "filters": [
-    { "label": "ALL MODELS", "value": "all" },
-    { "label": "A-CLASS / B / CLA", "value": "compact" },
-    { "label": "C / E / S", "value": "saloon" },
-    { "label": "SUV", "value": "suv" },
-    { "label": "AMG / COUPE", "value": "amg" }
+  "legend": [
+    { "label": "Good Choice", "icon": "safe-buy" },
+    { "label": "Top Choice", "icon": "top-choice" },
+    { "label": "Check / Watch", "icon": "check-watch" },
+    { "label": "Niche / Style", "icon": "niche-style" },
+    { "label": "Commercial", "icon": "wrench" }
   ],
-  "columns": ["MODEL", "GENERATIONS", "VERDICT"],
-"models": [
+  "models": [
     {
       "model": "A-Class",
       "generations": "W168, W169, W176, W177",
-      "verdict": { "icon": "⚠️", "text": "Check Value (pre-2012 examples)", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes A-Class"
-      },
-      "href": "https://mercedesengines.uk/a-class"
+      "verdict": { "text": "Check Value (pre-2012 examples)", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes A-Class" },
+      "href": "/a-class"
     },
     {
       "model": "B-Class",
       "generations": "W245, W246, W247",
-      "verdict": { "icon": "✅", "text": "Safe Family Buy", "type": "success" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes B-Class"
-      },
-      "href": "https://mercedesengines.uk/b-class"
+      "verdict": { "text": "Safe Family Buy", "type": "success" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes B-Class" },
+      "href": "/b-class"
     },
     {
       "model": "CLA",
       "generations": "C117, C118",
-      "verdict": { "icon": "✅", "text": "Modern Choice", "type": "success" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes CLA"
-      },
-      "href": "https://mercedesengines.uk/cla"
+      "verdict": { "text": "Modern Choice", "type": "success" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes CLA" },
+      "href": "/cla"
     },
     {
       "model": "C-Class",
       "generations": "W202, W203, W204, W205, W206",
-      "verdict": {
-        "icon": "🏆",
-        "text": "Most Enquired (W205: 368 enquiries [MB-VERIFIED])",
-        "type": "trophy"
-      },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes C-Class"
-      },
-      "href": "https://mercedesengines.uk/c-class"
+      "verdict": { "text": "Most Enquired (W205: 368 enquiries [MB-VERIFIED])", "type": "trophy" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes C-Class" },
+      "href": "/c-class"
     },
     {
       "model": "CLK",
       "generations": "C208, C209",
-      "verdict": { "icon": "💎", "text": "Coupe Style [PATTERN DATA]", "type": "diamond" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes CLK"
-      },
-      "href": "https://mercedesengines.uk/clk"
+      "verdict": { "text": "Coupe Style [PATTERN DATA]", "type": "diamond" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes CLK" },
+      "href": "/clk"
     },
     {
       "model": "CLC-Class",
       "generations": "CL203",
-      "verdict": { "icon": "💎", "text": "Niche Coupe [PATTERN DATA]", "type": "diamond" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes CLC-Class"
-      },
-      "href": "https://mercedesengines.uk/clc-class"
+      "verdict": { "text": "Niche Coupe [PATTERN DATA]", "type": "diamond" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes CLC-Class" },
+      "href": "/clc-class"
     },
     {
       "model": "CLS",
       "generations": "C219, C218, C257",
-      "verdict": { "icon": "💎", "text": "Style Over Practicality", "type": "diamond" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes CLS"
-      },
-      "href": "https://mercedesengines.uk/cls"
+      "verdict": { "text": "Style Over Practicality", "type": "diamond" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes CLS" },
+      "href": "/cls"
     },
     {
       "model": "E-Class",
       "generations": "W210, W211, W212, W213, W214",
-      "verdict": {
-        "icon": "✅",
-        "text": "Best Executive Buy (W212: 338 enquiries [MB-VERIFIED])",
-        "type": "success"
-      },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes E-Class"
-      },
-      "href": "https://mercedesengines.uk/e-class"
+      "verdict": { "text": "Best Executive Buy (W212: 338 enquiries [MB-VERIFIED])", "type": "success" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes E-Class" },
+      "href": "/e-class"
     },
     {
       "model": "S-Class",
       "generations": "W140, W220, W221, W222, W223",
-      "verdict": { "icon": "👑", "text": "Flagship Choice", "type": "crown" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes S-Class"
-      },
-      "href": "https://mercedesengines.uk/s-class"
+      "verdict": { "text": "Flagship Choice", "type": "crown" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes S-Class" },
+      "href": "/s-class"
     },
     {
       "model": "G-Class",
       "generations": "W460, W461, W463",
-      "verdict": { "icon": "🏆", "text": "Legend, Watch the Bills [PATTERN DATA]", "type": "trophy" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes G-Class"
-      },
-      "href": "https://mercedesengines.uk/g-class"
+      "verdict": { "text": "Legend, Watch the Bills [PATTERN DATA]", "type": "trophy" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes G-Class" },
+      "href": "/g-class"
     },
     {
       "model": "GLA",
       "generations": "X156, H247",
-      "verdict": { "icon": "✅", "text": "Compact SUV Safe Buy", "type": "success" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes GLA"
-      },
-      "href": "https://mercedesengines.uk/gla"
+      "verdict": { "text": "Compact SUV Safe Buy", "type": "success" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes GLA" },
+      "href": "/gla"
     },
     {
       "model": "GLC",
       "generations": "X253, X254",
-      "verdict": {
-        "icon": "🔥",
-        "text": "Most Enquired SUV (X253: 304 enquiries [MB-VERIFIED])",
-        "type": "fire"
-      },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes GLC"
-      },
-      "href": "https://mercedesengines.uk/glc"
+      "verdict": { "text": "Most Enquired SUV (X253: 304 enquiries [MB-VERIFIED])", "type": "fire" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes GLC" },
+      "href": "/glc"
     },
     {
       "model": "GLE",
       "generations": "W166, V167",
-      "verdict": { "icon": "✅", "text": "Large SUV Value", "type": "success" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes GLE"
-      },
-      "href": "https://mercedesengines.uk/gle"
+      "verdict": { "text": "Large SUV Value", "type": "success" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes GLE" },
+      "href": "/gle"
     },
     {
       "model": "GLK",
       "generations": "X204",
-      "verdict": { "icon": "⚠️", "text": "Watch (OM642 on lower values)", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes GLK"
-      },
-      "href": "https://mercedesengines.uk/glk"
+      "verdict": { "text": "Watch (OM642 on lower values)", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes GLK" },
+      "href": "/glk"
     },
     {
-      "model": "GLS (formerly GL)",
-      "generations": "X164, X166 (GL), X166 (GLS), X167",
-      "verdict": { "icon": "👑", "text": "Large 7-Seat Flagship", "type": "crown" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes GLS"
-      },
-      "href": "https://mercedesengines.uk/gls"
+      "model": "GLS",
+      "note": "formerly GL — renamed 2016, same X166 chassis continued",
+      "generations": "X164, X166 (as GL, 2007–15), X166 (as GLS, 2016–19), X167",
+      "verdict": { "text": "Large 7-Seat Flagship", "type": "crown" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes GLS" },
+      "href": "/gls"
     },
     {
       "model": "M-Class (ML)",
       "generations": "W163, W164",
-      "verdict": { "icon": "⚠️", "text": "Watch (ageing OM642 hosts) [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes M-Class"
-      },
-      "href": "https://mercedesengines.uk/m-class"
+      "verdict": { "text": "Watch (ageing OM642 hosts) [PATTERN DATA]", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes M-Class" },
+      "href": "/m-class"
     },
     {
       "model": "R-Class",
       "generations": "W251",
-      "verdict": { "icon": "⚠️", "text": "Niche, Check Value [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes R-Class"
-      },
-      "href": "https://mercedesengines.uk/r-class"
+      "verdict": { "text": "Niche, Check Value [PATTERN DATA]", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes R-Class" },
+      "href": "/r-class"
     },
     {
       "model": "SL",
       "generations": "R129, R230, R231, R232",
-      "verdict": { "icon": "💎", "text": "Roadster Icon [PATTERN DATA]", "type": "diamond" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes SL"
-      },
-      "href": "https://mercedesengines.uk/sl"
+      "verdict": { "text": "Roadster Icon [PATTERN DATA]", "type": "diamond" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes SL" },
+      "href": "/sl"
     },
     {
       "model": "SLC / SLK",
       "generations": "R170, R171, R172",
-      "verdict": { "icon": "💎", "text": "Affordable Roadster [PATTERN DATA]", "type": "diamond" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes SLC / SLK"
-      },
-      "href": "https://mercedesengines.uk/slk-slc"
+      "verdict": { "text": "Affordable Roadster [PATTERN DATA]", "type": "diamond" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes SLC / SLK" },
+      "href": "/slk-slc"
     },
     {
       "model": "SLS AMG",
       "generations": "C197, R197",
-      "verdict": { "icon": "🏆", "text": "Halo Car [PATTERN DATA]", "type": "trophy" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes SLS AMG"
-      },
-      "href": "https://mercedesengines.uk/sls-amg"
+      "verdict": { "text": "Halo Car [PATTERN DATA]", "type": "trophy" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes SLS AMG" },
+      "href": "/sls-amg"
     },
     {
       "model": "AMG GT",
       "generations": "C190, R190, X290",
-      "verdict": { "icon": "🏆", "text": "Performance Icon [PATTERN DATA]", "type": "trophy" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes AMG GT"
-      },
-      "href": "https://mercedesengines.uk/amg-gt"
+      "verdict": { "text": "Performance Icon [PATTERN DATA]", "type": "trophy" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes AMG GT" },
+      "href": "/amg-gt"
     },
     {
       "model": "Sprinter",
       "generations": "W901–905, W906, W907",
-      "verdict": { "icon": "🔧", "text": "Commercial Workhorse [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes Sprinter"
-      },
-      "href": "https://mercedesengines.uk/sprinter"
+      "verdict": { "text": "Commercial Workhorse [PATTERN DATA]", "type": "commercial" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes Sprinter" },
+      "href": "/sprinter"
     },
     {
       "model": "Vito",
       "generations": "W638, W639, W447",
-      "verdict": { "icon": "🔧", "text": "Commercial Workhorse [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes Vito"
-      },
-      "href": "https://mercedesengines.uk/vito"
+      "verdict": { "text": "Commercial Workhorse [PATTERN DATA]", "type": "commercial" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes Vito" },
+      "href": "/vito"
     },
     {
       "model": "V-Class",
+      "note": "2014–present, distinct model from Viano",
       "generations": "W447",
-      "verdict": { "icon": "✅", "text": "MPV Safe Buy — OM622/OM651/OM654 [PATTERN DATA]", "type": "success" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes V-Class"
-      },
-      "href": "https://mercedesengines.uk/v-class"
+      "verdict": { "text": "MPV Safe Buy — OM622/OM651/OM654 [PATTERN DATA]", "type": "success" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes V-Class" },
+      "href": "/v-class"
     },
     {
       "model": "Viano",
+      "note": "2003–2014, predecessor model, not a V-Class variant",
       "generations": "W639",
-      "verdict": { "icon": "⚠️", "text": "Discontinued, Check Value — OM642/OM646 [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes Viano"
-      },
-      "href": "https://mercedesengines.uk/viano"
+      "verdict": { "text": "Discontinued, Check Value — OM642/OM646 [PATTERN DATA]", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes Viano" },
+      "href": "/viano"
     },
     {
       "model": "Citan",
+      "note": "rebadged Renault Kangoo",
       "generations": "W415, W420",
-      "verdict": { "icon": "⚠️", "text": "Niche, Renault-Sourced Engines [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes Citan"
-      },
-      "href": "https://mercedesengines.uk/citan"
+      "verdict": { "text": "Niche, Renault-Sourced Engines [PATTERN DATA]", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes Citan" },
+      "href": "/citan"
     },
     {
       "model": "Vaneo",
+      "note": "A-Class-platform compact MPV, discontinued 2005",
       "generations": "W414",
-      "verdict": { "icon": "⚠️", "text": "Niche, Limited Data [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes Vaneo"
-      },
-      "href": "https://mercedesengines.uk/vaneo"
+      "verdict": { "text": "Niche, Limited Data [PATTERN DATA]", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes Vaneo" },
+      "href": "/vaneo"
     },
     {
       "model": "Vario",
+      "note": "truck-derived chassis-cab, OM366/OM904 truck engines — not passenger-car architecture",
       "generations": "T2",
-      "verdict": { "icon": "🔍", "text": "Scope Decision Needed — likely excluded [PATTERN DATA]", "type": "warning" },
-      "image": {
-        "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=200&q=80",
-        "alt": "Mercedes Vario"
-      },
-      "href": "https://mercedesengines.uk/vario"
+      "verdict": { "text": "Scope Decision Needed — likely excluded [PATTERN DATA]", "type": "warning" },
+      "image": { "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=400&q=80", "alt": "Mercedes Vario" },
+      "href": "/vario"
     }
   ],
-  "viewAll": {
-    "label": "View all models",
-    "href": "#"
-  },
+  "dataNote": "11 model lines carry real [MB-VERIFIED] enquiry data from the proprietary file. The remaining 18 — mostly coupes, roadsters, AMG halo cars, and commercial vans — are marked [PATTERN DATA]: built on documented failure patterns and specialist knowledge rather than proprietary volume data. Flag for data-team attention if enquiry tracking should be extended to these lines.",
   "cta": {
-    "title": "Not sure which Mercedes-Benz to buy?",
-    "text": "Start with our research tools — rankings, faults and real running costs.",
-    "buttonLabel": "START YOUR RESEARCH",
-    "href": "#"
+    "label": "START YOUR RESEARCH →",
+    "href": "/quote"
   }
 }
