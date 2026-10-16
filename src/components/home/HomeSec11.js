@@ -1,8 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const iconPaths = {
   timeline: <path d="M12 8v8M8 12h8M5 5h14v14H5z" />,
@@ -48,7 +49,7 @@ function HeaderImage({ data, isDark }) {
           sizes="(max-width: 768px) 100vw, 48vw"
         />
         <div className={isDark ? "absolute inset-0 bg-[linear-gradient(180deg,rgba(2,7,11,0.14)_0%,rgba(2,7,11,0.32)_100%)] md:hidden" : "absolute inset-0 bg-[linear-gradient(180deg,rgba(255,255,255,0.03)_0%,rgba(255,255,255,0.06)_100%)] md:hidden"} />
-        <div className={`absolute left-[-28px] top-0 hidden h-full w-18 skew-x-[-22deg] md:block ${isDark ? "bg-[#02070b]" : "bg-white"}`} />
+        <div className={`absolute left-[-28px] top-0 hidden h-full w-18 skew-x-[-22deg] md:block ${homeSectionBg(isDark, 11)}`} />
         <div className="absolute left-[-10px] top-0 hidden h-full w-2 skew-x-[-22deg] bg-[var(--color-primary)] md:block" />
       </div>
     </div>
@@ -59,10 +60,9 @@ function DesktopHeader({ data, isDark }) {
   return (
     <div className="hidden md:grid md:grid-cols-[minmax(0,1fr)_48%] md:items-start">
       <div className="relative z-10 max-w-[640px] pt-6">
+        <SectionLabel number={11} isDark={isDark} />
+
         <h2 className={`text-[3.35rem] font-bold leading-[1.05] tracking-normal ${isDark ? "text-white" : "text-[#071827]"}`}>Every Model. Every Generation. Honestly Rated.</h2>
-        <div className="mt-4">
-          <MStripe />
-        </div>
         <p className={`mt-5 max-w-[520px] text-[0.96rem] leading-[1.55] ${isDark ? "text-white/78" : "text-[#172334]"}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
       </div>
       <HeaderImage data={data} isDark={isDark} />
@@ -73,10 +73,9 @@ function DesktopHeader({ data, isDark }) {
 function MobileHeader({ data, isDark }) {
   return (
     <div className="md:hidden">
+      <SectionLabel number={11} isDark={isDark} />
+
       <h2 className={`mt-3 text-[2rem] font-bold leading-[1.06] tracking-normal sm:text-[2.35rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Every Model. Every Generation. Honestly Rated.</h2>
-      <div className="mt-4">
-        <MStripe />
-      </div>
       <p className={`mt-4 max-w-[380px] text-[0.94rem] leading-[1.5] sm:text-[0.98rem] ${isDark ? "text-white/78" : "text-[#172334]"}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
       <HeaderImage data={data} isDark={isDark} />
     </div>
@@ -210,7 +209,7 @@ export default function HomeSec11({ data }) {
   const isDark = theme === "dark";
 
   return (
-    <section className={`relative overflow-hidden px-4 py-7 md:px-6 md:py-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`relative overflow-hidden px-4 py-7 md:px-6 md:py-8 ${homeSectionBg(isDark, 11)}`}>
       <div className="absolute inset-x-0 top-0 hidden h-[318px] md:block">
         <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,#02070b_0%,rgba(2,7,11,0.96)_44%,rgba(2,7,11,0)_70%)]" : "absolute inset-0 bg-[linear-gradient(90deg,white_0%,rgba(255,255,255,0.96)_44%,rgba(255,255,255,0)_70%)]"} />
       </div>

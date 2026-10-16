@@ -5,70 +5,98 @@
     "alt": "Mercedes-Benz for diagnostic calculator"
   },
   "trustStrip": [
-    { "icon": "📊", "label": "Powered by 4,200+ real UK enquiries" },
-    { "icon": "🔧", "label": "25+ vetted Mercedes-Benz specialists" },
-    { "icon": "📖", "label": "OEM part references included" },
-    { "icon": "🏆", "label": "Part of Engine Finders" }
+    { "icon": "chart", "label": "Powered by 4,200+ real UK enquiries" },
+    { "icon": "wrench", "label": "25+ vetted Mercedes-Benz specialists" },
+    { "icon": "book", "label": "OEM part references included" },
+    { "icon": "trophy", "label": "Part of Engine Finders" }
   ],
   "howItWorks": {
+    "title": "How It Works",
     "steps": [
       {
         "step": 1,
+        "icon": "clipboard",
         "title": "Tell us your symptoms",
         "text": "Select from common failure categories or use the shortcut grid if you already know the fault."
       },
       {
         "step": 2,
+        "icon": "car",
         "title": "Tell us about your vehicle",
         "text": "Age and estimated value help us calculate whether repair or replacement makes financial sense."
       },
       {
         "step": 3,
+        "icon": "diagnosis",
         "title": "Get your diagnosis",
         "text": "We'll show you the likely fault, OEM part numbers, severity level, and a transparent cost breakdown."
       }
     ]
   },
   "calculator": {
-    "stepLabel": "STEP 1 OF 3",
-    "title": "Tell us your symptoms",
-    "instruction": "Select from common failure categories or use the shortcut grid if you already know the fault.",
-    "symptoms": [
-      { "icon": "⚙️", "label": "Engine Performance Issues", "href": "#" },
-      { "icon": "🛢️", "label": "Oil Leaks & Consumption", "href": "#" },
-      { "icon": "🌡️", "label": "Cooling System", "href": "#" },
-      { "icon": "⏱️", "label": "Timing Chain / Injectors", "href": "#" },
-      { "icon": "💨", "label": "Turbocharger", "href": "#" },
-      { "icon": "🔋", "label": "Battery / Electrical", "href": "#" },
-      { "icon": "⚡", "label": "Glow Plug / Ignition", "href": "#" },
-      { "icon": "🌫️", "label": "Exhaust / Emissions", "href": "#" },
-      { "icon": "🔊", "label": "Noise / Vibration", "href": "#" },
-      { "icon": "❓", "label": "Other / Not Sure", "href": "#" }
+    "idleTitle": "Start Your Diagnosis",
+    "secureLine": "Secure • Private • No Obligation",
+    "startLabel": "START DIAGNOSIS →",
+    "fields": [
+      { "id": "model", "placeholder": "Select Your Model" },
+      { "id": "engine", "placeholder": "Select Engine Code" },
+      { "id": "category", "placeholder": "Select Failure Category" }
     ],
-    "cta": {
-      "label": "CONTINUE TO STEP 2",
-      "href": "#"
-    }
+    "modelOptions": ["A-Class", "C-Class", "E-Class", "S-Class", "GLC", "GLE", "G-Class", "AMG GT", "Other"],
+    "engineOptions": ["OM651", "OM642", "OM654", "M276", "M177", "Not sure"],
+    "categoryOptions": [
+      "Engine Performance Issues",
+      "Oil Leaks & Consumption",
+      "Cooling System",
+      "Timing Chain / Injectors",
+      "Turbocharger",
+      "Battery / Electrical",
+      "Glow Plug / Ignition",
+      "Exhaust / Emissions",
+      "Noise / Vibration",
+      "Other / Not Sure"
+    ],
+    "symptoms": [
+      { "icon": "engine", "label": "Engine Performance Issues" },
+      { "icon": "fuel", "label": "Oil Leaks & Consumption" },
+      { "icon": "droplet", "label": "Cooling System" },
+      { "icon": "chain", "label": "Timing Chain / Injectors" },
+      { "icon": "flame", "label": "Turbocharger" },
+      { "icon": "electrical", "label": "Battery / Electrical" },
+      { "icon": "bulb", "label": "Glow Plug / Ignition" },
+      { "icon": "pulse", "label": "Exhaust / Emissions" },
+      { "icon": "gear", "label": "Noise / Vibration" },
+      { "icon": "alert", "label": "Other / Not Sure" }
+    ],
+    "vehicleFields": [
+      { "id": "age", "placeholder": "Vehicle age (years)" },
+      { "id": "value", "placeholder": "Estimated value (£)" },
+      { "id": "mileage", "placeholder": "Approx. mileage" }
+    ],
+    "continueLabel": "CONTINUE →",
+    "backLabel": "← BACK",
+    "finishLabel": "SEE DIAGNOSIS →"
   },
   "whyTrust": {
+    "title": "Why Trust This Diagnosis?",
     "signals": [
       {
-        "icon": "🛡️",
+        "icon": "shield",
         "title": "EM-VERIFIED Data",
         "text": "Every cost range and enquiry volume comes from real 2025 UK data — not estimates or guesswork."
       },
       {
-        "icon": "⚙️",
+        "icon": "engine",
         "title": "Mercedes-Specific Knowledge",
-        "text": "We use exact factory terminology (OM651, <a  href='https://mercedesengines.uk/engine/om642'>OM642</a>, M276, \"Black Death\") and OEM part numbers."
+        "text": "We use exact factory terminology (OM651, OM642, M276, \"Black Death\") and OEM part numbers."
       },
       {
-        "icon": "👥",
+        "icon": "users",
         "title": "Vetted Specialist Network",
         "text": "Our recommendations route you to 25+ Mercedes-Benz specialists who work on these engines daily."
       },
       {
-        "icon": "🏆",
+        "icon": "scales",
         "title": "Honest Verdict System",
         "text": "We tell you when replacement isn't worth it — not every site does that."
       }
@@ -85,11 +113,30 @@
     "replaceCost": "£2,800–£4,800",
     "footer": "Based on verified UK enquiries"
   },
-  "bottomCta": {
-    "title": "Get your exact verdict",
-    "text": "Answer a few questions for a diagnosis matched to your Mercedes-Benz.",
-    "buttonLabel": "START DIAGNOSIS",
-    "href": "#",
-    "trustLine": "100% Independent • No Sponsorship • Completely Unbiased"
-  }
+  "bottomStats": [
+    {
+      "icon": "users-team",
+      "value": "4,200+",
+      "label": "Real UK Enquiries",
+      "sub": "From Mercedes owners in 2025"
+    },
+    {
+      "icon": "shield",
+      "value": "25+",
+      "label": "Vetted Specialists",
+      "sub": "Mercedes-Benz engine experts"
+    },
+    {
+      "icon": "book",
+      "value": "150+",
+      "label": "Engine Codes Covered",
+      "sub": "Petrol, Diesel, Hybrid & AMG"
+    },
+    {
+      "icon": "independent",
+      "value": "100%",
+      "label": "Data-Driven Truth",
+      "sub": "No marketing. Just real-world data."
+    }
+  ]
 }

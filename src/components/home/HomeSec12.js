@@ -1,8 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const iconPaths = {
   chart: <path d="M4 19V9m5 10V5m5 14v-7m5 7H3" />,
@@ -42,7 +43,7 @@ export default function HomeSec12({ data }) {
   const isDark = theme === "dark";
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-6 md:py-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`relative overflow-hidden px-3 py-7 md:px-6 md:py-8 ${homeSectionBg(isDark, 12)}`}>
       <div className="absolute inset-x-0 top-0 h-[320px] md:h-[260px]">
         <Image src={data.headerImage.src} alt={data.headerImage.alt} fill className="object-cover object-[72%_center]" sizes="100vw" />
         <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,#02070b_0%,rgba(2,7,11,0.92)_42%,rgba(2,7,11,0.24)_78%)]" : "absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.99)_0%,rgba(255,255,255,0.92)_42%,rgba(255,255,255,0.24)_78%)]"} />
@@ -51,10 +52,9 @@ export default function HomeSec12({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[680px] pt-4 md:pt-7">
+          <SectionLabel number={12} isDark={isDark} />
+
           <h2 className={`text-[2.7rem] font-bold leading-[1.04] tracking-normal md:text-[3.25rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Why Jaguar Owners Trust This Site</h2>
-          <div className="mt-4">
-            <MStripe />
-          </div>
           <p className={`mt-5 max-w-[620px] text-[0.9rem] leading-[1.58] md:text-[1rem] ${isDark ? "text-white/78" : "text-[#27384a]"}`} dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} />
         </div>
 

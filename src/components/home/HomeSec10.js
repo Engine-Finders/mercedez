@@ -1,8 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const riskClass = {
   catastrophic: "bg-[#ed1c24] text-white",
@@ -229,7 +230,7 @@ export default function HomeSec10({ data }) {
   const isDark = theme === "dark";
 
   return (
-    <section className={`relative overflow-hidden px-4 py-7 md:px-6 md:py-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`relative overflow-hidden px-4 py-7 md:px-6 md:py-8 ${homeSectionBg(isDark, 10)}`}>
       <div className="absolute inset-x-0 top-0 hidden h-[330px] md:block">
         <Image src={data.headerImage.src} alt={data.headerImage.alt} fill className="object-cover object-center" sizes="100vw" />
         <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,#02070b_0%,rgba(2,7,11,0.94)_34%,rgba(2,7,11,0.42)_62%,rgba(2,7,11,0.92)_92%)]" : "absolute inset-0 bg-[linear-gradient(90deg,white_0%,rgba(255,255,255,0.94)_34%,rgba(255,255,255,0.42)_62%,rgba(255,255,255,0.92)_92%)]"} />
@@ -239,10 +240,9 @@ export default function HomeSec10({ data }) {
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="grid gap-6 md:grid-cols-[minmax(0,1fr)_280px] md:items-start">
           <div className="max-w-[690px]">
+            <SectionLabel number={10} isDark={isDark} />
+
             <h2 className={`text-[2.55rem] font-bold leading-[1.08] tracking-normal md:text-[3rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Jaguar Market Intelligence</h2>
-            <div className="mt-4">
-              <MStripe />
-            </div>
             <p className={`mt-4 max-w-[620px] text-[0.92rem] leading-[1.55] ${isDark ? "text-white/78" : "text-[#172334]"}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
           </div>
 

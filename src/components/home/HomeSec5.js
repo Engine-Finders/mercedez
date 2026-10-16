@@ -2,8 +2,9 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const iconPaths = {
   check: <path d="m5 12 4 4L19 6" />,
@@ -113,7 +114,7 @@ export default function HomeSec5({ data }) {
     (isDark ? data.heroImages?.dark : data.heroImages?.light) || fallbackImage;
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:py-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`relative overflow-hidden px-3 py-7 md:py-8 ${homeSectionBg(isDark, 5)}`}>
       <div className="absolute inset-x-0 top-0 hidden h-[330px] md:block">
         <Image src={heroImage.src} alt={heroImage.alt} fill className="object-cover object-[82%_center]" sizes="100vw" />
         <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.8)_38%,rgba(2,7,11,0.24)_76%)]" : "absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.98)_0%,rgba(255,255,255,0.9)_42%,rgba(255,255,255,0.08)_78%)]"} />
@@ -122,10 +123,9 @@ export default function HomeSec5({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-1 md:pt-9">
+          <SectionLabel number={5} isDark={isDark} />
+
           <h2 className={`text-[2.1rem] font-bold leading-[1.03] tracking-normal md:text-[3.3rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Comparison Hub — Head-to-Head Verdicts</h2>
-          <div className="mt-4">
-            <MStripe />
-          </div>
           <p className={`mt-4 max-w-[690px] text-[0.85rem] leading-[1.55] md:text-[1.02rem] ${isDark ? "text-white/82" : "text-[#172b4a]"}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
         </div>
 

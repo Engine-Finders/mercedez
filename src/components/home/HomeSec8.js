@@ -2,8 +2,9 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+import { homeSectionBg } from "@/components/home/sectionBg";
 
 const iconPaths = {
   link: <path d="M10 13a5 5 0 0 0 7.1 0l1.4-1.4a5 5 0 0 0-7.1-7.1l-.8.8M14 11a5 5 0 0 0-7.1 0l-1.4 1.4a5 5 0 0 0 7.1 7.1l.8-.8" />,
@@ -71,7 +72,7 @@ export default function HomeSec8({ data }) {
   const isDark = theme === "dark";
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:py-8 ${isDark ? "bg-[#02070b]" : "bg-white"}`}>
+    <section className={`relative overflow-hidden px-3 py-7 md:py-8 ${homeSectionBg(isDark, 8)}`}>
       <div className="absolute inset-x-0 top-0 h-[520px] md:h-[330px]">
         <Image src={data.headerImage.src} alt={data.headerImage.alt} fill className="object-cover object-[82%_center]" sizes="100vw" />
         <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.98)_0%,rgba(2,7,11,0.82)_40%,rgba(2,7,11,0.22)_78%)]" : "absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.99)_0%,rgba(255,255,255,0.9)_43%,rgba(255,255,255,0.32)_78%)]"} />
@@ -82,9 +83,10 @@ export default function HomeSec8({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[680px] pt-4 md:pt-8">
+          <SectionLabel number={8} isDark={isDark} />
+
           <h2 className={`text-[2.75rem] font-bold leading-[1.04] tracking-normal md:text-[3.25rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Knowledge Centres</h2>
           <div className="mt-5">
-            <MStripe />
           </div>
           <p className={`mt-6 max-w-[610px] whitespace-pre-line text-[0.9rem] leading-[1.6] md:text-[1rem] ${isDark ? "text-white/80" : "text-[#27384a]"}`} dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline).replace(". Every guide", ".\n\nEvery guide") }} />
         </div>

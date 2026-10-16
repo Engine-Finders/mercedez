@@ -1,7 +1,15 @@
+import { Lora } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/shared/Navbar";
 import Footer from "@/components/shared/Footer";
 import { ThemeProvider } from "@/components/shared/themeProvider";
+
+const lora = Lora({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-lora",
+  display: "swap",
+});
 
 const BASE_URL = "https://mercedesengines.uk";
 
@@ -34,7 +42,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className="h-full">
+    <html lang="en" className={`h-full ${lora.variable}`}>
       <body className="min-h-full flex flex-col bg-white text-black antialiased">
         <ThemeProvider>
           <Navbar />
