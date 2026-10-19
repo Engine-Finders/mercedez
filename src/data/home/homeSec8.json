@@ -1,101 +1,107 @@
 {
   "subHeadline": "Deep, permanent reference hubs for the engines Mercedes-Benz owners research most — not blog posts, not one-off articles. Every guide is built on real UK enquiry data and Mercedes-specific expertise.",
   "headerImage": {
-    "src": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=900&q=80",
-    "alt": "Mercedes-Benz engine knowledge"
+    "src": "/sec2-bg.webp",
+    "alt": "Mercedes-Benz knowledge centres"
   },
+  "trustStrip": [
+    {
+      "icon": "chart",
+      "title": "4,200+ Real UK Enquiries",
+      "text": "2025 data [MB-VERIFIED]"
+    },
+    {
+      "icon": "wrench",
+      "title": "25+ Vetted Specialists",
+      "text": "Mercedes-Benz experts"
+    },
+    {
+      "icon": "book",
+      "title": "OEM Part References Included",
+      "text": "Exact part numbers"
+    },
+    {
+      "icon": "shield",
+      "title": "Real Data, Real Owners",
+      "text": "Not estimates — Independent & transparent"
+    }
+  ],
   "centres": [
     {
       "id": 1,
       "title": "OM651 Knowledge Centre",
-      "icon": "⛓️",
-      "description": "Every variant, the \"Black Death\" injector seal story, and the rear-chain access problem — the definitive OM651 guide. 1,250 enquiries in 2025 [MB-VERIFIED].",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=400&q=80",
-        "alt": "OM651 Knowledge Centre"
-      },
-      "link": { "label": "Explore →", "href": "#" }
+      "icon": "chain",
+      "description": "Every variant, the \"Black Death\" injector seal story, and the rear-chain access problem — the definitive OM651 guide.",
+      "meta": "1,250 enquiries in 2025 [MB-VERIFIED]",
+      "link": { "label": "Explore →", "href": "/engine/om651" }
     },
     {
       "id": 2,
       "title": "OM654 Knowledge Centre",
-      "icon": "🔧",
-      "description": "The modern diesel's full ownership profile — what changed, what improved, and what to watch. 520 enquiries in 2025 [MB-VERIFIED].",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=400&q=80",
-        "alt": "OM654 Knowledge Centre"
-      },
-      "link": { "label": "Explore →", "href": "#" }
+      "icon": "engine",
+      "description": "The modern diesel's full ownership profile — what changed, what improved, and what to watch.",
+      "meta": "520 enquiries in 2025 [MB-VERIFIED]",
+      "link": { "label": "Explore →", "href": "/engine/om654" }
     },
     {
       "id": 3,
       "title": "OM642 Knowledge Centre",
-      "icon": "🔧",
-      "description": "The V6 diesel's complete guide — oil cooler seals, swirl flaps, and the models it powers. 880 enquiries in 2025 [MB-VERIFIED].",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=400&q=80",
-        "alt": "OM642 Knowledge Centre"
-      },
-      "link": { "label": "Explore →", "href": "#" }
+      "icon": "wrench",
+      "description": "The V6 diesel's complete guide — oil cooler seals, swirl flaps, and the models it powers.",
+      "meta": "880 enquiries in 2025 [MB-VERIFIED]",
+      "link": { "label": "Explore →", "href": "/engine/om642" }
     },
     {
       "id": 4,
       "title": "M276/M177 Knowledge Centre",
-      "icon": "🏆",
-      "description": "The modern V6/V8 petrol story — from the E-Class to full AMG spec. 390 + 370 enquiries in 2025 [MB-VERIFIED].",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=400&q=80",
-        "alt": "M276/M177 Knowledge Centre"
-      },
+      "icon": "amg",
+      "description": "The modern V6/V8 petrol story — from the E-Class to full AMG spec.",
+      "meta": "390 + 370 enquiries in 2025 [MB-VERIFIED]",
       "link": { "label": "Explore →", "href": "#" }
     },
     {
       "id": 5,
       "title": "\"Black Death\" Knowledge Centre",
-      "icon": "⚠️",
-      "description": "The complete guide to Mercedes diesel injector seal failure — history, symptoms, prevention, and repair cost. The #1 failure category in our 2025 diesel data.",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=400&q=80",
-        "alt": "Black Death Knowledge Centre"
-      },
+      "icon": "warning",
+      "description": "The complete guide to Mercedes diesel injector seal failure — history, symptoms, prevention, and repair cost.",
+      "meta": "The #1 failure category in our 2025 diesel data",
       "link": { "label": "Explore →", "href": "#" }
     },
     {
       "id": 6,
       "title": "OM617 Classic Diesel Guide",
-      "icon": "🏆",
-      "description": "The legendary W123-era diesel — why it's the keeper engine, what goes wrong, and why values are rising. The classic Mercedes engine hub.",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=400&q=80",
-        "alt": "OM617 Classic Diesel Guide"
-      },
+      "icon": "trophy",
+      "description": "The legendary W123-era diesel — why it's the keeper engine, what goes wrong, and why values are rising.",
+      "meta": "The classic Mercedes engine hub",
       "link": { "label": "Explore →", "href": "#" }
     },
     {
       "id": 7,
       "title": "AMG Engine Knowledge Centre",
-      "icon": "🏆",
-      "description": "From the naturally-aspirated M156 to the modern M177/<a  href='https://mercedesengines.uk/engine/m159-m178-gt'>M178</a> biturbo V8s — the complete AMG engine story.",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=400&q=80",
-        "alt": "AMG Engine Knowledge Centre"
-      },
+      "icon": "amg",
+      "description": "From the naturally-aspirated M156 to the modern M177/M178 biturbo V8s — the complete AMG engine story.",
+      "meta": "AMG performance engines",
       "link": { "label": "Explore →", "href": "#" }
     },
     {
       "id": 8,
       "title": "Timing Chain Knowledge Centre",
-      "icon": "⛓️",
+      "icon": "chain",
       "description": "The complete guide to Mercedes timing chain failures — OM651, OM646, M276 and more.",
-      "image": {
-        "src": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=400&q=80",
-        "alt": "Timing Chain Knowledge Centre"
-      },
+      "meta": "Chain failure patterns across MB diesels & petrols",
       "link": { "label": "Explore →", "href": "#" }
     }
   ],
-  "footer": {
-    "title": "100% Data-Verified. Built for Mercedes-Benz Owners.",
-    "text": "Every knowledge centre is built on real UK enquiry data and Mercedes-specific expertise."
+  "bottomBar": {
+    "items": [
+      { "icon": "shield", "label": "Data-Verified Guides" },
+      { "icon": "users", "label": "Built for Owners" },
+      { "icon": "trophy", "label": "Specialist Backed" },
+      { "icon": "independent", "label": "100% Independent" }
+    ],
+    "cta": {
+      "label": "GET EXPERT ADVICE →",
+      "href": "/quote"
+    }
   }
 }

@@ -1,91 +1,86 @@
 {
   "subHeadline": "The verdicts people actually want before they read a single spec sheet — the calls we'd make for a friend, backed by real UK enquiry and failure data.",
   "headerImage": {
-    "src": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=900&q=80",
-    "alt": "Mercedes-Benz front"
+    "src": "/sec2-bg.webp",
+    "alt": "Mercedes-Benz ownership rankings"
   },
-  "columns": ["RANKING", "WINNER", "WHY", "VERDICT"],
+  "cardImage": {
+    "src": "/right.webp",
+    "alt": "Mercedes-Benz"
+  },
   "rankings": [
     {
+      "rank": 1,
       "ranking": "Most Reliable Engine",
-      "icon": "⚙️",
+      "icon": "engine",
       "winner": "OM654",
       "why": "The modern successor to the OM651 — AdBlue system aside, materially fewer failure reports. 520 enquiries in 2025, weighted toward routine maintenance, not catastrophic failure [MB-VERIFIED].",
-      "verdict": { "icon": "🏆", "text": "Best", "type": "best" },
-      "href": "#"
+      "verdict": { "icon": "trophy", "text": "Best", "type": "best" },
+      "href": "/engine/om654"
     },
     {
+      "rank": 2,
       "ranking": "Most Reliable Model (Modern)",
-      "icon": "🚗",
+      "icon": "car",
       "winner": "C-Class W206",
-      "why": "OM654-only diesel range in the newest, highest-value C-Class generation — a clean ✅ Safe verdict with no caveat in the data.",
-      "verdict": { "icon": "🏆", "text": "Best", "type": "best" },
-      "href": "#"
+      "why": "OM654-only diesel range in the newest, highest-value C-Class generation — a clean Safe verdict with no caveat in the data.",
+      "verdict": { "icon": "trophy", "text": "Best", "type": "best" },
+      "href": "/c-class"
     },
     {
+      "rank": 3,
       "ranking": "Best Used Buy",
-      "icon": "🏷️",
+      "icon": "tag",
       "winner": "W205 C-Class with OM654 (2018+ facelift)",
       "why": "Post-facelift electronics, the more dependable diesel, and values that have already absorbed the steepest depreciation. £3,000–£5,000 recon against £8,000–£22,000 vehicle value [MB-QUOTE].",
-      "verdict": { "icon": "✅", "text": "Safe", "type": "safe" },
-      "href": "#"
+      "verdict": { "icon": "check", "text": "Safe", "type": "safe" },
+      "href": "/c-class"
     },
     {
+      "rank": 4,
       "ranking": "Most Expensive Failure",
-      "icon": "💥",
+      "icon": "flame",
       "winner": "M177 AMG V8 Full Replacement",
       "why": "The high-performance biturbo V8's full replacement cost dwarfs every other Mercedes engine — £8,000–£14,000 recon, £12,000–£18,000 rebuilt [MB-QUOTE].",
-      "verdict": { "icon": "🔴", "text": "Avoid Without Full History", "type": "avoid" },
-      "href": "#"
+      "verdict": { "icon": "warning", "text": "Avoid Without Full History", "type": "avoid" },
+      "href": "/engine/m177"
     },
     {
+      "rank": 5,
       "ranking": "Safest Mercedes to Buy Used",
-      "icon": "🛡️",
+      "icon": "shield",
       "winner": "GLC X254 (2022–present)",
       "why": "Typical values of £28,000–£55,000 against £3,000–£5,000 recon cost — comfortably safe regardless of engine variant.",
-      "verdict": { "icon": "✅", "text": "Safe", "type": "safe" },
-      "href": "#"
+      "verdict": { "icon": "check", "text": "Safe", "type": "safe" },
+      "href": "/glc"
     },
     {
+      "rank": 6,
       "ranking": "Highest Risk Purchase",
-      "icon": "⚠️",
+      "icon": "warning",
       "winner": "C-Class W203 (2000–2007)",
       "why": "Ageing host values (£1,500–£5,000) against £2,800–£4,800 recon cost — squarely inside the 70% Mercedes threshold.",
-      "verdict": { "icon": "🔴", "text": "Scrap Threshold", "type": "avoid" },
-      "href": "#"
+      "verdict": { "icon": "warning", "text": "Scrap Threshold", "type": "avoid" },
+      "href": "/c-class"
     },
     {
+      "rank": 7,
       "ranking": "Best Family Mercedes",
-      "icon": "👨‍👩‍👧‍👦",
+      "icon": "best-family",
       "winner": "GLE / GL (W166)",
       "why": "7-seat capability, OM642/M276 reliability that's held up well, and large-SUV values that comfortably absorb replacement cost.",
-      "verdict": { "icon": "👨‍👩‍👧‍👦", "text": "Best", "type": "best" },
-      "href": "#"
+      "verdict": { "icon": "best-family", "text": "Best", "type": "best" },
+      "href": "/gle"
     },
     {
+      "rank": 8,
       "ranking": "Best Long-Term Keeper",
-      "icon": "⏳",
+      "icon": "long-term",
       "winner": "W211 E-Class with OM642",
       "why": "The last E-Class before Mercedes' more complex modern electronics — mechanically straightforward, well-understood, and cheaply parted.",
-      "verdict": { "icon": "🏆", "text": "Best", "type": "best" },
-      "href": "#"
+      "verdict": { "icon": "trophy", "text": "Best", "type": "best" },
+      "href": "/e-class"
     }
   ],
-  "dataSources": {
-    "title": "Quick Reference: Data Sources Used in Sections 1–4",
-    "columns": ["Claim", "Source"],
-    "rows": [
-      { "claim": "4,200+ enquiries", "source": "EM_Proprietary_Data_2025.txt — Section 2 Mercedes-Benz" },
-      { "claim": "25+ vetted Mercedes-Benz specialists", "source": "Brand constants (Prerequisite 4)" },
-      { "claim": "C-Class W205 368 enquiries", "source": "EM_Proprietary_Data_2025.txt — Model table" },
-      { "claim": "E-Class W212 338 enquiries", "source": "EM_Proprietary_Data_2025.txt — Model table" },
-      { "claim": "GLC X253 304 enquiries", "source": "EM_Proprietary_Data_2025.txt — Model table" },
-      { "claim": "OM651 1,250 enquiries", "source": "EM_Proprietary_Data_2025.txt — Engine table" },
-      { "claim": "OM642 880 enquiries", "source": "EM_Proprietary_Data_2025.txt — Engine table" },
-      { "claim": "OM654 520 enquiries", "source": "EM_Proprietary_Data_2025.txt — Engine table" },
-      { "claim": "OM651 £2,800–£4,800", "source": "Table A — Engine Replacement Economics" },
-      { "claim": "M177 £8,000–£14,000", "source": "Table A — Engine Replacement Economics" },
-      { "claim": "Vehicle value bands", "source": "Model Ownership Decision Table — Mercedes-Benz section" }
-    ]
-  }
+  "dataNote": "Entries drawing on enquiry volume, replacement cost, and R-to-V flag data are [MB-VERIFIED] or [MB-QUOTE] from the proprietary file. \"Most Reliable Model,\" \"Best Family Mercedes,\" and \"Best Long-Term Keeper\" are editorial synthesis of the failure-pattern data cross-referenced against specialist and owner-forum sources — worth a Mercedes specialist sense-check before publishing."
 }

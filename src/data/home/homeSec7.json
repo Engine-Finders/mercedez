@@ -1,133 +1,108 @@
 {
   "subHeadline": "The engines Mercedes-Benz owners search for most, ranked by real 2025 enquiry volume — with our honest verdict on each.",
   "headerImage": {
-    "src": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=900&q=80",
+    "src": "/sec2-bg.webp",
     "alt": "Mercedes-Benz engine bay"
   },
   "trustStrip": [
-    { "icon": "📊", "label": "Powered by 4,200+ real UK enquiries" },
-    { "icon": "🔧", "label": "25+ vetted Mercedes-Benz specialists" },
-    { "icon": "📖", "label": "OEM part references included" },
-    { "icon": "🏆", "label": "Part of Engine Finders" }
+    {
+      "icon": "chart",
+      "title": "4,200+ Real UK Enquiries",
+      "text": "2025 data [MB-VERIFIED]"
+    },
+    {
+      "icon": "wrench",
+      "title": "25+ Vetted Specialists",
+      "text": "Mercedes-Benz experts"
+    },
+    {
+      "icon": "book",
+      "title": "OEM Part References Included",
+      "text": "Exact part numbers"
+    },
+    {
+      "icon": "shield",
+      "title": "Real Data, Real Owners",
+      "text": "Not estimates — Independent & transparent"
+    }
   ],
-  "columns": ["ENGINE", "FUEL", "YEARS", "2025 ENQUIRIES", "VERDICT"],
+  "columns": ["ENGINE", "FUEL", "YEARS", "2025 ENQUIRIES", "VERDICT", "OUR TAKE"],
   "engines": [
     {
       "code": "OM651",
-      "spec": "2.1L Diesel",
-      "fuel": "Diesel",
-      "fuelIcon": "🛢️",
+      "fuel": "2.1L Diesel",
       "years": "2008–present",
       "enquiries": "1,250 enquiries",
       "sourceTag": "[MB-VERIFIED]",
-      "verdict": {
-        "icon": "⚠️",
-        "label": "Watch",
-        "text": "— \"Black Death\" injector seal risk plus rear-chain complexity; buy with documented history. The defining diesel of a generation.",
-        "type": "watch"
-      },
-      "href": "#"
+      "verdict": { "label": "Watch", "type": "watch" },
+      "take": "\"Black Death\" injector seal risk plus rear-chain complexity; buy with documented history. The defining diesel of a generation.",
+      "href": "/engine/om651"
     },
     {
       "code": "OM642",
-      "spec": "3.0L V6 Diesel",
-      "fuel": "Diesel",
-      "fuelIcon": "🛢️",
+      "fuel": "3.0L V6 Diesel",
       "years": "2005–present",
       "enquiries": "880 enquiries",
       "sourceTag": "[MB-VERIFIED]",
-      "verdict": {
-        "icon": "✅",
-        "label": "Safe",
-        "text": "— oil cooler seal is the known weak point, but labour-heavy rather than catastrophic. The C/E/GLE/Sprinter workhorse.",
-        "type": "safe"
-      },
-      "href": "#"
+      "verdict": { "label": "Safe", "type": "safe" },
+      "take": "Oil cooler seal is the known weak point, but labour-heavy rather than catastrophic. The C/E/GLE/Sprinter workhorse.",
+      "href": "/engine/om642"
     },
     {
       "code": "OM654",
-      "spec": "2.0L Diesel",
-      "fuel": "Diesel",
-      "fuelIcon": "🛢️",
+      "fuel": "2.0L Diesel",
       "years": "2016–present",
       "enquiries": "520 enquiries",
       "sourceTag": "[MB-VERIFIED]",
-      "verdict": {
-        "icon": "🏆",
-        "label": "Best",
-        "text": "— the revised modern diesel; materially fewer failure reports than its OM651 predecessor.",
-        "type": "best"
-      },
-      "href": "#"
+      "verdict": { "label": "Best", "type": "best" },
+      "take": "The revised modern diesel; materially fewer failure reports than its OM651 predecessor.",
+      "href": "/engine/om654"
     },
     {
       "code": "M276",
-      "spec": "3.0L V6 Petrol",
-      "fuel": "Petrol",
-      "fuelIcon": "⛽",
+      "fuel": "3.0L V6 Petrol",
       "years": "2010–present",
       "enquiries": "390 enquiries",
       "sourceTag": "[MB-VERIFIED]",
-      "verdict": {
-        "icon": "✅",
-        "label": "Safe",
-        "text": "— timing chain stretch on earlier examples; well-supported parts network across the MB platform.",
-        "type": "safe"
-      },
-      "href": "#"
+      "verdict": { "label": "Safe", "type": "safe" },
+      "take": "Timing chain stretch on earlier examples; well-supported parts network across the MB platform.",
+      "href": "/engine/m276"
     },
     {
       "code": "M177",
-      "spec": "4.0L V8 Biturbo (AMG)",
-      "fuel": "Petrol",
-      "fuelIcon": "⛽",
+      "fuel": "4.0L V8 Biturbo (AMG)",
       "years": "2014–present",
       "enquiries": "370 enquiries",
       "sourceTag": "[MB-VERIFIED]",
-      "verdict": {
-        "icon": "✅",
-        "label": "Safe",
-        "text": "— generally robust; occasional valve cover oil leaks. High-performance AMG V8 with an established specialist network.",
-        "type": "safe"
-      },
-      "href": "#"
+      "verdict": { "label": "Safe", "type": "safe" },
+      "take": "Generally robust; occasional valve cover oil leaks. High-performance AMG V8 with an established specialist network.",
+      "href": "/engine/m177"
     },
     {
       "code": "OM646/OM647",
-      "spec": "2.2L Diesel",
-      "fuel": "Diesel",
-      "fuelIcon": "🛢️",
+      "fuel": "2.2L Diesel",
       "years": "2001–2009",
       "enquiries": "Pattern data",
       "sourceTag": "[PATTERN DATA]",
-      "verdict": {
-        "icon": "⚠️",
-        "label": "Watch",
-        "text": "— the earlier \"Black Death\" era; pre-2006 units particularly affected.",
-        "type": "watch"
-      },
+      "verdict": { "label": "Watch", "type": "watch" },
+      "take": "The earlier \"Black Death\" era; pre-2006 units particularly affected.",
       "href": "#"
     },
     {
       "code": "OM617/OM616",
-      "spec": "2.4–3.0L Diesel",
-      "fuel": "Diesel",
-      "fuelIcon": "🛢️",
+      "fuel": "2.4–3.0L Diesel",
       "years": "1974–1993",
       "enquiries": "Classic icon",
       "sourceTag": "[PATTERN DATA]",
-      "verdict": {
-        "icon": "🏆",
-        "label": "Best",
-        "text": "— the legendary \"will run forever\" Mercedes diesel. The classic keeper engine.",
-        "type": "best"
-      },
+      "verdict": { "label": "Best", "type": "best" },
+      "take": "The legendary \"will run forever\" Mercedes diesel. The classic keeper engine.",
       "href": "#"
     }
   ],
-  "legend": {
-    "title": "What do these verdicts mean?",
-    "text": "Our verdicts combine failure frequency, repair complexity, and total cost of ownership to help you make the right decision.",
-    "href": "#"
+  "footerCta": {
+    "left": "Our data comes from real Mercedes-Benz owners and UK specialists. Honest verdicts. Transparent data. Better ownership decisions.",
+    "center": "Need help choosing the right engine? Get expert advice from Mercedes-Benz specialists.",
+    "buttonLabel": "GET EXPERT ADVICE →",
+    "href": "/quote"
   }
 }

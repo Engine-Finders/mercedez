@@ -2,239 +2,189 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import HomeIcon from "@/components/home/homeIcons";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import TrustBadges from "@/components/reusableComponents/TrustBadges";
 import { useTheme } from "@/components/shared/themeProvider";
-import { homeSectionBg } from "@/components/home/sectionBg";
 
-const iconPaths = {
-  chart: <path d="M4 19V9m5 10V5m5 14v-7m5 7H3" />,
-  wrench: <path d="m14.7 6.3 3-3a4 4 0 0 1 0 5.7l-1.4 1.4-2.7-2.7L7 14.3V17H4.3l6.6-6.6-2.7-2.7 1.4-1.4a4 4 0 0 1 5.1 0Z" />,
-  book: <path d="M4 6.5A2.5 2.5 0 0 1 6.5 4H11v16H6.5A2.5 2.5 0 0 0 4 22V6.5Zm16 0A2.5 2.5 0 0 0 17.5 4H13v16h4.5A2.5 2.5 0 0 1 20 22V6.5Z" />,
-  trophy: <path d="M8 4h8v4a4 4 0 0 1-8 0V4Zm0 2H4v2a3 3 0 0 0 4 2.8M16 6h4v2a3 3 0 0 1-4 2.8M12 12v5m-3 3h6m-7 0h8" />,
-  droplet: <path d="M12 3s7 7.1 7 12a7 7 0 0 1-14 0c0-4.9 7-12 7-12Z" />,
-  pump: <path d="M4 21V5a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v16M3 21h13M7 7h5m3 1 3 3v7a2 2 0 0 0 4 0v-5a3 3 0 0 0-3-3h-1" />,
-  check: <path d="m5 12 4 4L19 6" />,
-  x: <path d="M8 8l8 8M16 8l-8 8" />,
-  warning: <path d="M12 8v5m0 4h.01M10 4.9 2.6 18a2 2 0 0 0 1.74 3h15.32A2 2 0 0 0 21.4 18L14 4.9a2 2 0 0 0-3.48 0Z" />,
-  star: <path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2-5.6-2.9-5.6 2.9 1.1-6.2L3 9.6l6.2-.9L12 3Z" />,
-  bulb: <path d="M9 18h6m-5 3h4m-6-7a6 6 0 1 1 8 0c-.8.6-1.2 1.5-1.2 2.5H9.2c0-1-.4-1.9-1.2-2.5Z" />,
-  chevron: <path d="m9 6 6 6-6 6" />,
+const VERDICT_STYLE = {
+  watch: { bg: "#f7a51b", label: "Watch" },
+  safe: { bg: "#20a84a", label: "Safe" },
+  best: { bg: GOLD, label: "Best" },
 };
 
-const verdictIcons = {
-  watch: { icon: "warning", color: "text-[#f59e0b]" },
-  safe: { icon: "check", color: "text-[#138a32]" },
-  best: { icon: "trophy", color: "text-[var(--color-primary)]" },
-  avoid: { icon: "x", color: "text-[#ed1c24]" },
-  solid: { icon: "star", color: "text-[var(--color-primary)]" },
-};
-
-const trustIconByIndex = ["chart", "wrench", "book", "trophy"];
-
-function cleanText(value = "") {
-  return value
-    .replaceAll("â€”", "-")
-    .replaceAll("â€“", "-")
-    .replaceAll("ðŸ“Š", "")
-    .replaceAll("ðŸ”§", "")
-    .replaceAll("ðŸ“–", "")
-    .replaceAll("ðŸ†", "")
-    .replaceAll("ðŸ›¢ï¸", "")
-    .replaceAll("â›½", "")
-    .replaceAll("âš ï¸", "")
-    .replaceAll("âœ…", "")
-    .replaceAll("ðŸ”´", "")
-    .replaceAll("â­", "")
-    .trim();
-}
-
-function stripTags(value = "") {
-  return cleanText(value).replace(/<[^>]*>/g, "").trim();
-}
-
-function unlinkHtml(value = "") {
-  return cleanText(value).replace(
-    /<a\b[^>]*>([\s\S]*?)<\/a>/gi,
-    '<span class="font-semibold text-[var(--color-primary)]">$1</span>'
-  );
-}
-
-function Icon({ name, className = "h-5 w-5", strokeWidth = 2 }) {
+function VerdictGlyph({ type }) {
+  if (type === "safe") {
+    return (
+      <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="3">
+        <path d="m5 12 4 4L19 6" />
+      </svg>
+    );
+  }
+  if (type === "best") {
+    return (
+      <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M8 4h8v4a4 4 0 0 1-8 0V4Zm0 2H4v2a3 3 0 0 0 4 2.8M16 6h4v2a3 3 0 0 1-4 2.8M12 12v5m-3 3h6" />
+      </svg>
+    );
+  }
   return (
-    <svg aria-hidden="true" viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth={strokeWidth} strokeLinecap="round" strokeLinejoin="round">
-      {iconPaths[name] || iconPaths.chart}
+    <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="2.5">
+      <path d="M12 8v5m0 4h.01M10 4.9 2.6 18a2 2 0 0 0 1.74 3h15.32A2 2 0 0 0 21.4 18L14 4.9a2 2 0 0 0-3.48 0Z" />
     </svg>
   );
 }
 
-function FuelIcon({ fuel, className = "h-6 w-6" }) {
-  return <Icon name={fuel === "Petrol" ? "pump" : "droplet"} className={`${className} text-[var(--color-primary)]`} strokeWidth={2.1} />;
-}
+function EngineRow({ row, isDark }) {
+  const style = VERDICT_STYLE[row.verdict?.type] || VERDICT_STYLE.watch;
+  const href = row.href || "#";
+  const isDiesel = /diesel/i.test(row.fuel || "");
 
-function VerdictIcon({ type, mobile = false }) {
-  const config = verdictIcons[type] || verdictIcons.solid;
+  const body = (
+    <>
+      <div className="flex min-w-0 items-center gap-2">
+        <HomeIcon name="engine" isDark={isDark} gold className="h-5 w-5 shrink-0" />
+        <span className={`font-lora text-[0.95rem] font-medium md:text-[1.05rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
+      </div>
 
-  if (type === "safe" || type === "avoid") {
+      <div className="flex min-w-0 items-center gap-1.5">
+        <HomeIcon name={isDiesel ? "droplet" : "fuel"} isDark={isDark} gold className="h-4 w-4 shrink-0" />
+        <span className={`text-[0.78rem] font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.fuel}</span>
+      </div>
+
+      <span className={`text-[0.78rem] font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.years}</span>
+
+      <div>
+        <p className={`text-[0.78rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.enquiries}</p>
+        <p className={`text-[0.62rem] ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>{row.sourceTag}</p>
+      </div>
+
+      <div className="flex items-center gap-1.5">
+        <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
+          <VerdictGlyph type={row.verdict?.type} />
+        </span>
+        <span className="text-[0.78rem] font-semibold" style={{ color: style.bg }}>
+          {row.verdict?.label || style.label}
+        </span>
+      </div>
+
+      <p className={`text-[0.72rem] font-light leading-[1.35] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+        {row.take}
+      </p>
+    </>
+  );
+
+  const className = `grid grid-cols-1 gap-2 border-b px-3 py-3 no-underline last:border-b-0 md:grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] md:items-center md:gap-3 md:px-4 md:py-3.5 hover:no-underline ${
+    isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
+  }`;
+
+  if (href && href !== "#") {
     return (
-      <span className={`flex shrink-0 items-center justify-center rounded-full border-2 ${mobile ? "h-9 w-9" : "h-7 w-7"} ${config.color}`}>
-        <Icon name={config.icon} className={mobile ? "h-6 w-6" : "h-4.5 w-4.5"} strokeWidth={2.3} />
-      </span>
+      <Link href={href} className={className}>
+        {body}
+      </Link>
     );
   }
 
-  return (
-    <span className={`flex shrink-0 items-center justify-center ${config.color}`}>
-      <Icon name={config.icon} className={mobile ? "h-10 w-10" : "h-7 w-7"} strokeWidth={type === "warning" ? 1.8 : 2} />
-    </span>
-  );
+  return <div className={className}>{body}</div>;
 }
 
-function EngineCell({ row }) {
-  return (
-    <div className="min-w-0">
-      <p className="text-[1.02rem] font-bold leading-tight md:text-[1.08rem]" dangerouslySetInnerHTML={{ __html: unlinkHtml(row.code) }} />
-      <p className="mt-1 text-[0.75rem] font-medium leading-tight text-[var(--color-primary)] md:text-[0.78rem]">{cleanText(row.spec)}</p>
-    </div>
-  );
-}
-
-function EnquiryCell({ row }) {
-  return (
-    <div className="min-w-0">
-      <p className="text-[0.98rem] font-bold leading-tight md:text-[0.95rem]">{cleanText(row.enquiries)}</p>
-      <p className="mt-1 text-[0.76rem] font-semibold leading-tight text-[var(--color-primary)] md:text-[0.78rem]">{row.sourceTag}</p>
-    </div>
-  );
-}
-
-function EngineRow({ row, isDark }) {
-  const verdictType = row.verdict.type;
+function FooterCta({ data, isDark }) {
+  if (!data) return null;
 
   return (
-    <Link
-      href={row.href}
-      className={`grid grid-cols-[minmax(76px,0.95fr)_minmax(106px,1.22fr)_minmax(116px,1.32fr)_40px] items-center border-b px-3 py-3.5 last:border-b-0 md:grid-cols-[minmax(170px,1.05fr)_minmax(130px,0.78fr)_minmax(140px,0.82fr)_minmax(170px,1.05fr)_minmax(390px,2.2fr)] md:px-9 md:py-3.5 ${
-        isDark ? "border-[var(--color-border)] text-white hover:bg-[var(--color-page-soft)]" : "border-[#e3e8ef] text-[#071827] hover:bg-[#f8fbff]"
+    <div
+      className={`mt-5 flex flex-col gap-4 rounded-xl border p-4 md:mt-6 md:flex-row md:items-center md:gap-5 md:p-5 ${
+        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
       }`}
     >
-      <EngineCell row={row} />
-
-      <div className={`grid min-w-0 gap-1.5 border-l pl-3 md:contents ${isDark ? "border-[var(--color-border)]" : "border-[#dfe7f1]"}`}>
-        <p className="flex items-center gap-3 text-[0.84rem] leading-tight md:text-[0.92rem]">
-          <FuelIcon fuel={row.fuel} className="h-6 w-6 md:h-6 md:w-6" />
-          <span>{row.fuel}</span>
-        </p>
-        <p className={`text-[0.82rem] leading-[1.22] md:text-[0.9rem] ${isDark ? "text-white/78" : "text-[#071827]"}`}>{cleanText(row.years)}</p>
-      </div>
-
-      <EnquiryCell row={row} />
-
-      <div className="flex justify-center md:hidden">
-        <VerdictIcon type={verdictType} mobile />
-      </div>
-
-      <div className="hidden min-w-0 items-start gap-6 md:flex">
-        <VerdictIcon type={verdictType} />
-        <p className="text-[0.84rem] leading-[1.42]">
-          <span className="font-medium">{row.verdict.label}</span>
-          {" - "}
-          <span dangerouslySetInnerHTML={{ __html: unlinkHtml(row.verdict.text) }} />
+      <div className="flex min-w-0 flex-1 items-start gap-3">
+        <HomeIcon name="shield" isDark={isDark} gold className="mt-0.5 h-8 w-8 shrink-0" />
+        <p className={`text-[0.78rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+          {data.left}
         </p>
       </div>
-    </Link>
-  );
-}
 
-function TrustStrip({ items, isDark }) {
-  return (
-    <ul className={`grid grid-cols-4 overflow-hidden rounded-md border shadow-[0_16px_36px_rgba(10,26,43,0.08)] md:hidden ${isDark ? "border-[var(--color-border)] bg-[var(--color-surface-raised)]" : "border-[#dfe5ed] bg-white"}`}>
-      {items.map((item, index) => {
-        const text = cleanText(item.label);
-        const parts = text.match(/^(Powered by|20\+ vetted|OEM part|Part of)\s*(.*)$/);
-
-        return (
-          <li key={item.label} className={`flex min-w-0 flex-col items-center border-r px-2 py-5 text-center last:border-r-0 ${isDark ? "border-[var(--color-border)]" : "border-[#dfe7f1]"}`}>
-            <Icon name={trustIconByIndex[index] || "chart"} className="h-8 w-8 text-[var(--color-primary)]" strokeWidth={2.2} />
-            <span className={`mt-3 text-[0.78rem] leading-[1.28] ${isDark ? "text-white/78" : "text-[#172b4a]"}`}>
-              {parts ? parts[1] : text}
-              {parts?.[2] ? <strong className={isDark ? "block text-white" : "block text-[#071827]"}>{parts[2]}</strong> : null}
-            </span>
-          </li>
-        );
-      })}
-    </ul>
-  );
-}
-
-function EngineTable({ data, isDark }) {
-  return (
-    <div className={`overflow-hidden rounded-md border shadow-[0_16px_36px_rgba(10,26,43,0.08)] ${isDark ? "border-[var(--color-border)] bg-[var(--color-surface-raised)]" : "border-[#dfe5ed] bg-white"}`}>
-      <div className={`grid grid-cols-[minmax(76px,0.95fr)_minmax(106px,1.22fr)_minmax(116px,1.32fr)_40px] border-b px-3 py-3.5 text-[0.68rem] font-bold uppercase text-[var(--color-primary)] md:grid-cols-[minmax(170px,1.05fr)_minmax(130px,0.78fr)_minmax(140px,0.82fr)_minmax(170px,1.05fr)_minmax(390px,2.2fr)] md:px-9 md:py-3.5 md:text-[0.82rem] ${isDark ? "border-[var(--color-border)]" : "border-[#e3e8ef]"}`}>
-        <span>{data.columns[0]}</span>
-        <span className={`border-l pl-4 md:border-l-0 md:pl-0 ${isDark ? "border-[var(--color-border)]" : "border-[#dfe7f1]"}`}>
-          Fuel
-          <span className="block md:hidden">Years</span>
-        </span>
-        <span className="hidden md:block">{data.columns[2]}</span>
-        <span>{data.columns[3]}</span>
-        <span className="text-center md:text-left">{data.columns[4]}</span>
+      <div className="flex min-w-0 flex-1 items-start gap-3 md:border-l md:pl-5" style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.08)" }}>
+        <HomeIcon name="star" isDark={isDark} gold className="mt-0.5 h-6 w-6 shrink-0" />
+        <p className={`text-[0.78rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+          {data.center}
+        </p>
       </div>
 
-      {data.engines.map((row) => (
-        <EngineRow key={stripTags(row.code) || row.href} row={row} isDark={isDark} />
-      ))}
+      <Link
+        href={data.href || "/quote"}
+        className="btn-cta inline-flex shrink-0 items-center justify-center rounded-md px-5 py-3 text-[0.82rem] font-semibold uppercase tracking-wide text-white no-underline"
+        style={{ backgroundColor: "#0a0a0a", color: GOLD }}
+      >
+        {data.buttonLabel || "GET EXPERT ADVICE →"}
+      </Link>
     </div>
-  );
-}
-
-function LegendCard({ legend, isDark }) {
-  return (
-    <Link href={legend.href} className={`flex items-center gap-5 rounded-md border p-5 shadow-[0_16px_36px_rgba(10,26,43,0.08)] md:hidden ${isDark ? "border-[var(--color-border)] bg-[var(--color-surface-raised)] text-white" : "border-[#dfe5ed] bg-white text-[#071827]"}`}>
-      <span className={`flex h-16 w-16 shrink-0 items-center justify-center rounded-md text-white shadow-[0_12px_26px_rgba(7,95,216,0.28)] ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}>
-        <Icon name="bulb" className="h-9 w-9" />
-      </span>
-      <span className="min-w-0 flex-1">
-        <strong className="block text-[1rem]">{legend.title}</strong>
-        <span className={`mt-1 block text-[0.82rem] leading-[1.4] ${isDark ? "text-white/76" : "text-[#27384a]"}`} dangerouslySetInnerHTML={{ __html: legend.text }} />
-      </span>
-      <Icon name="chevron" className="h-6 w-6 shrink-0" />
-    </Link>
   );
 }
 
 export default function HomeSec7({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
+  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const engines = data.engines || [];
+  const columns = data.columns || [];
 
   return (
-    <section className={`relative overflow-hidden px-2 py-7 md:py-8 ${homeSectionBg(isDark, 7)}`}>
-      <div className="absolute inset-x-0 top-0 h-[560px] md:h-[330px]">
-        <Image src={data.headerImage.src} alt={data.headerImage.alt} fill className="object-cover object-[72%_center]" sizes="100vw" />
-        <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.98)_0%,rgba(2,7,11,0.84)_37%,rgba(2,7,11,0.12)_78%)]" : "absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.99)_0%,rgba(255,255,255,0.9)_38%,rgba(255,255,255,0.18)_78%)]"} />
-        <div className="absolute right-[26%] top-0 h-full w-5 -skew-x-[32deg] bg-[rgba(21,129,255,0.55)] md:right-[50%]" />
-        <div className="absolute right-2 top-0 h-full w-16 -skew-x-[32deg] bg-[rgba(21,129,255,0.38)] md:right-0 md:w-12" />
-        <div className={isDark ? "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,#02070b_0%,transparent_100%)]" : "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,white_0%,transparent_100%)]"} />
+    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 7)}`}>
+      <div className="absolute inset-x-0 top-0 hidden h-[280px] md:block">
+        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
+        <div
+          className={
+            isDark
+              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
+              : "absolute inset-0 bg-[linear-gradient(90deg,#EFEEE9_0%,rgba(239,238,233,0.92)_40%,rgba(239,238,233,0.2)_78%)]"
+          }
+        />
+        <div
+          className={
+            isDark
+              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
+              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
+          }
+        />
       </div>
 
       <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[640px] pt-4 md:pt-8">
+        <div className="max-w-[720px] pt-2 md:pt-6">
           <SectionLabel number={7} isDark={isDark} />
-
-          <h2 className={`text-[3rem] font-bold leading-[1.03] tracking-normal md:text-[3.6rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Jaguar Engine Families — The Pillars</h2>
-          <p className={`mt-5 max-w-[610px] text-[0.94rem] leading-[1.55] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[#27384a]"}`} dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} />
+          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            Mercedes-Benz Engine Families — The Pillars
+          </h2>
+          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+            {data.subHeadline}
+          </p>
         </div>
 
-        <div className="mt-8 md:hidden">
-          <TrustStrip items={data.trustStrip} isDark={isDark} />
+        <TrustBadges items={data.trustStrip} isDark={isDark} />
+
+        <div
+          className={`mt-5 overflow-hidden rounded-xl border shadow-[0_8px_28px_rgba(10,26,43,0.05)] md:mt-6 ${
+            isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
+          }`}
+        >
+          <div
+            className={`hidden border-b px-4 py-2.5 text-[0.65rem] font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] md:gap-3 ${
+              isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
+            }`}
+          >
+            {columns.map((col) => (
+              <span key={col}>{col}</span>
+            ))}
+          </div>
+
+          {engines.map((row) => (
+            <EngineRow key={row.code} row={row} isDark={isDark} />
+          ))}
         </div>
 
-        <div className="mt-7 md:mt-6">
-          <EngineTable data={data} isDark={isDark} />
-        </div>
-
-        <div className="mt-8">
-          <LegendCard legend={data.legend} isDark={isDark} />
-        </div>
+        <FooterCta data={data.footerCta} isDark={isDark} />
       </div>
     </section>
   );
