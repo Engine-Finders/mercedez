@@ -2,40 +2,60 @@
   "subHeadline": "From the carbureted M100 to the modular OM654, mapped against the models that carried it. The complete Mercedes-Benz engine timeline.",
   "headerImage": {
     "src": "/sec2-bg.webp",
-    "alt": "Mercedes-Benz engine history"
+    "alt": "Mercedes-Benz engine history timeline"
   },
-  "columns": ["ERA", "KEY ENGINES", "ICONIC MODELS"],
+  "columns": ["ERA", "KEY ENGINES", "ICONIC MODELS", "VISUAL"],
   "eras": [
     {
       "era": "1960s–1970s",
-      "engines": "M100, M110, OM616, OM617",
-      "models": "W108, W111, W123"
+      "icon": "car",
+      "engines": ["M100", "M110", "OM616", "OM617"],
+      "models": ["W108", "W111", "W123"],
+      "image": { "src": "/right.webp", "alt": "Classic Mercedes-Benz sedan" }
     },
     {
       "era": "1980s",
-      "engines": "<a  href='https://mercedesengines.uk/engine/m102'>M102</a>, <a  href='https://mercedesengines.uk/engine/m103'>M103</a>, OM615, OM616",
-      "models": "W123, W124, W201 190E"
+      "icon": "car",
+      "engines": ["M102", "M103", "OM615", "OM616"],
+      "models": ["W123", "W124", "W201 190E"],
+      "image": { "src": "/right.webp", "alt": "1980s Mercedes-Benz" }
     },
     {
       "era": "1990s",
-      "engines": "<a  href='https://mercedesengines.uk/engine/m104'>M104</a>, <a  href='https://mercedesengines.uk/engine/m111'>M111</a>, <a  href='https://mercedesengines.uk/engine/m112'>M112</a>, <a  href='https://mercedesengines.uk/engine/m113'>M113</a>",
-      "models": "W124, W202, W210, R129"
+      "icon": "diagnosis",
+      "engines": ["M104", "M111", "M112", "M113"],
+      "models": ["W124", "W202", "W210", "R129"],
+      "image": { "src": "/right.webp", "alt": "1990s Mercedes-Benz" }
     },
     {
       "era": "2000s",
-      "engines": "OM646, OM642, M272, M273",
-      "models": "W203, W211, W220, GL X164"
+      "icon": "engine",
+      "engines": ["OM646", "OM642", "M272", "M273"],
+      "models": ["W203", "W211", "W220", "GL X164"],
+      "image": { "src": "/right.webp", "alt": "2000s Mercedes-Benz" }
     },
     {
       "era": "2010s",
-      "engines": "OM651, OM654, M276, M156, M157",
-      "models": "W204, W205, W212, C63 AMG"
+      "icon": "flame",
+      "engines": ["OM651", "OM654", "M276", "M156", "M157"],
+      "models": ["W204", "W205", "W212", "C63 AMG"],
+      "image": { "src": "/right.webp", "alt": "2010s Mercedes-Benz" }
     },
     {
       "era": "2020s",
-      "engines": "OM654, OM656, <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>, <a  href='https://mercedesengines.uk/engine/m260-m264'>M264</a>, M177/M178",
-      "models": "W206, W214, GLC X254, AMG GT"
+      "icon": "electrical",
+      "engines": ["OM654", "OM656", "M256", "M264", "M177/M178"],
+      "models": ["W206", "W214", "GLC X254", "AMG GT"],
+      "image": { "src": "/right.webp", "alt": "2020s Mercedes-Benz" }
     }
   ],
-  "keyTakeaway": "The <a  href='https://mercedesengines.uk/engine/om615-om616-om617'>OM616</a>/OM617 built Mercedes' \"will run forever\" diesel reputation — but the OM651's \"Black Death\" injector story reversed that perception for a generation. The OM654 has largely restored it. The M156/M157/M177 lineage remains AMG's defining V8 story."
+  "keyTakeaway": {
+    "icon": "shield",
+    "title": "KEY TAKEAWAY",
+    "text": "The OM616/OM617 built Mercedes' \"will run forever\" diesel reputation — but the OM651's \"Black Death\" injector story reversed that perception for a generation. The OM654 has largely restored it. The M156/M157/M177 lineage remains AMG's defining V8 story.",
+    "image": {
+      "src": "/right.webp",
+      "alt": "Mercedes-Benz engine"
+    }
+  }
 }

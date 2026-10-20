@@ -1,11 +1,14 @@
 "use client";
 
+import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
+
+const MOBILE_MODEL_LIMIT = 5;
 
 const VERDICT_ICON = {
   warning: "check-watch",
@@ -77,6 +80,9 @@ export default function HomeSec2({ data }) {
   const legend = data.legend || [];
   const dataNote = data.dataNote || "";
   const cta = data.cta || { label: "START YOUR RESEARCH →", href: "/quote" };
+  const [showAllMobile, setShowAllMobile] = useState(false);
+  const mobileModels = showAllMobile ? models : models.slice(0, MOBILE_MODEL_LIMIT);
+  const hasMoreMobile = models.length > MOBILE_MODEL_LIMIT;
 
   return (
     <section className={`find-your-vehicle relative overflow-hidden px-3 py-6 md:px-4 md:py-8 ${homeSectionBg(isDark, 2)}`}>
@@ -104,7 +110,27 @@ export default function HomeSec2({ data }) {
           ) : null}
         </div>
 
-        <div className="mt-5 grid grid-cols-2 gap-2.5 sm:grid-cols-2 md:mt-6 md:grid-cols-4 md:gap-3">
+        {/* Mobile: 1 per row, first 5 (+ expand) */}
+        <div className="mt-5 grid grid-cols-1 gap-2.5 md:hidden">
+          {mobileModels.map((item) => (
+            <ModelCard key={item.model} item={item} isDark={isDark} />
+          ))}
+        </div>
+
+        {hasMoreMobile ? (
+          <div className="mt-3 md:hidden">
+            <button
+              type="button"
+              onClick={() => setShowAllMobile((prev) => !prev)}
+              className="flex w-full items-center justify-center rounded-md bg-[#0a0a0a] px-5 py-3.5 text-[0.9rem] font-semibold text-white"
+            >
+              {showAllMobile ? "Show fewer models" : "Show more models"}
+            </button>
+          </div>
+        ) : null}
+
+        {/* Desktop: all models, 4-col — unchanged */}
+        <div className="mt-6 hidden grid-cols-4 gap-3 md:grid">
           {models.map((item) => (
             <ModelCard key={item.model} item={item} isDark={isDark} />
           ))}

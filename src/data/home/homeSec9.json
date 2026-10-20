@@ -2,89 +2,114 @@
   "subHeadline": "A permanent, categorised reference — not symptom-chasing blog posts. Every entry links to a full breakdown of symptoms, root cause, mileage window, repair cost, and replacement cost.",
   "headerImage": {
     "src": "/sec2-bg.webp",
-    "alt": "Mercedes-Benz engine failure database"
+    "alt": "Mercedes-Benz failure database"
   },
   "engineFailures": {
     "title": "Engine Failures",
-    "icon": "🔧",
+    "icon": "engine",
     "columns": ["#", "TITLE", "DESCRIPTION", "SEVERITY", "LINK"],
     "rows": [
       {
         "id": 1,
         "title": "OM651 \"Black Death\" Injector Seal Failure",
+        "icon": "engine",
         "description": "The defining Mercedes diesel issue and our #1 enquiry driver. Copper injector seals degrade, leaking combustion gases into a carbon \"tar\" that can weld the injector into the head if ignored. 1,250 enquiries in 2025 [MB-VERIFIED]. £400–£1,200 seal repair; up to full engine replacement if neglected [MB-QUOTE].",
-        "severity": { "icon": "🔴", "label": "Catastrophic if Ignored", "type": "catastrophic" },
+        "severity": { "label": "Catastrophic if Ignored", "type": "catastrophic" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 2,
         "title": "OM651 Rear Timing Chain Tensioner Wear",
+        "icon": "chain",
         "description": "Unlike most engines, the OM651's chain sits at the transmission end — access requires separating the engine from the gearbox, making an otherwise routine job labour-intensive.",
-        "severity": { "icon": "🟠", "label": "Immediate", "type": "immediate" },
+        "severity": { "label": "Immediate", "type": "immediate" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 3,
         "title": "OM642 Oil Cooler Seal Leak",
+        "icon": "droplet",
         "description": "The V6 diesel's primary weak point — an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. 880 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
-        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
+        "severity": { "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 4,
         "title": "M276 Timing Chain Stretch",
+        "icon": "chain",
         "description": "Chain stretch on earlier examples, plus carbon buildup on intake valves — well-understood and rarely catastrophic if caught early. 390 enquiries in 2025 [MB-VERIFIED].",
-        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
+        "severity": { "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 5,
         "title": "M177 Valve Cover Oil Leaks",
+        "icon": "amg",
         "description": "The AMG V8's most common complaint — generally robust otherwise. 370 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
-        "severity": { "icon": "🟢", "label": "Low", "type": "low" },
+        "severity": { "label": "Low", "type": "low" },
         "link": { "label": "Read more →", "href": "#" }
       }
     ]
   },
   "warningSigns": {
     "title": "Common Mercedes-Benz Warning Signs",
-    "icon": "⚠️",
+    "icon": "warning",
     "columns": ["#", "TITLE", "DESCRIPTION", "SEVERITY", "LINK"],
     "rows": [
       {
         "id": 1,
         "title": "Chemical Smell & Black Tar Around Injectors",
+        "icon": "flame",
         "description": "The unmistakable sign of \"Black Death\" — remove the engine cover and inspect at the first hint of a chemical smell.",
-        "severity": { "icon": "🟠", "label": "Immediate", "type": "immediate" },
+        "severity": { "label": "Immediate", "type": "immediate" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 2,
         "title": "Hissing or Chuffing Noise Under Acceleration",
+        "icon": "pulse",
         "description": "Often an early-stage injector seal leak before visible carbon buildup appears.",
-        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
+        "severity": { "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 3,
         "title": "AdBlue System Warnings",
+        "icon": "alert",
         "description": "OM654-specific — usually a NOx sensor or heater fault, software-manageable rather than mechanical.",
-        "severity": { "icon": "🟢", "label": "Low", "type": "low" },
+        "severity": { "label": "Low", "type": "low" },
         "link": { "label": "Read more →", "href": "#" }
       },
       {
         "id": 4,
         "title": "Coolant Loss With No Visible Leak",
+        "icon": "droplet",
         "description": "OM642 oil cooler seal or M276 gasket weep — investigate before it leads to overheating.",
-        "severity": { "icon": "🟡", "label": "Monitor", "type": "monitor" },
+        "severity": { "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       }
     ]
   },
   "urgencyKey": [
-    { "icon": "🔴", "label": "Catastrophic", "text": "stop driving, specialist inspection immediately" },
-    { "icon": "🟠", "label": "Immediate", "text": "book inspection now" },
-    { "icon": "🟡", "label": "Monitor", "text": "book inspection soon" },
-    { "icon": "🟢", "label": "Low", "text": "plan at next service" }
+    {
+      "type": "catastrophic",
+      "label": "Catastrophic",
+      "text": "Stop driving, specialist inspection immediately"
+    },
+    {
+      "type": "immediate",
+      "label": "Immediate",
+      "text": "Book inspection now"
+    },
+    {
+      "type": "monitor",
+      "label": "Monitor",
+      "text": "Book inspection soon"
+    },
+    {
+      "type": "low",
+      "label": "Low",
+      "text": "Plan at next service"
+    }
   ]
 }
