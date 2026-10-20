@@ -1,77 +1,94 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
+import HomeIcon from "@/components/home/homeIcons";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
-import { homeSectionBg } from "@/components/home/sectionBg";
 
-const iconPaths = {
-  chart: <path d="M4 19V9m5 10V5m5 14v-7m5 7H3" />,
-  shield: <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.5 1.5L15 10" />,
-  wrench: <path d="m14.7 6.3 3-3a4 4 0 0 1 0 5.7l-1.4 1.4-2.7-2.7L7 14.3V17H4.3l6.6-6.6-2.7-2.7 1.4-1.4a4 4 0 0 1 5.1 0Z" />,
-  trophy: <path d="M8 4h8v4a4 4 0 0 1-8 0V4Zm0 2H4v2a3 3 0 0 0 4 2.8M16 6h4v2a3 3 0 0 1-4 2.8M12 12v5m-3 3h6m-7 0h8" />,
-};
+function TrustCard({ item, isDark }) {
+  const description = item.description || "";
+  const link = item.link;
+  let body = description;
 
-function cleanText(value = "") {
-  return value
-    .replaceAll("â€”", "-")
-    .replaceAll("ðŸ“Š", "")
-    .replaceAll("ðŸ’š", "")
-    .replaceAll("ðŸ”§", "")
-    .replaceAll("ðŸ†", "")
-    .trim();
-}
+  if (link?.label && description.includes(link.label)) {
+    const [before, after] = description.split(link.label);
+    body = (
+      <>
+        {before}
+        <Link href={link.href || "#"} className="font-medium underline-offset-2 hover:underline" style={{ color: GOLD }}>
+          {link.label}
+        </Link>
+        {after}
+      </>
+    );
+  }
 
-function Icon({ name, className = "h-5 w-5", strokeWidth = 2 }) {
   return (
-    <svg aria-hidden="true" viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth={strokeWidth} strokeLinecap="round" strokeLinejoin="round">
-      {iconPaths[name] || iconPaths.chart}
-    </svg>
+    <article
+      className={`flex flex-col items-center rounded-xl border px-4 py-5 text-center shadow-[0_6px_24px_rgba(10,26,43,0.05)] md:px-5 md:py-6 ${
+        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
+      }`}
+    >
+      <span
+        className={`flex h-14 w-14 items-center justify-center rounded-full border md:h-16 md:w-16 ${
+          isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
+        }`}
+      >
+        <HomeIcon name={item.icon || "chart"} isDark={isDark} gold className="h-7 w-7 md:h-8 md:w-8" />
+      </span>
+      <span className="mt-3 h-px w-10" style={{ backgroundColor: GOLD }} />
+      <h3 className={`mt-3 font-lora text-[1rem] font-medium leading-tight md:text-[1.08rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+        {item.title}
+      </h3>
+      <p className={`mt-2 text-[0.78rem] font-light leading-[1.45] md:text-[0.82rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+        {body}
+      </p>
+    </article>
   );
-}
-
-function signalIcon(title) {
-  const lower = title.toLowerCase();
-  if (lower.includes("real data")) return "chart";
-  if (lower.includes("not to repair")) return "shield";
-  if (lower.includes("specialists")) return "wrench";
-  return "trophy";
 }
 
 export default function HomeSec12({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
+  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const signals = data.signals || [];
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-6 md:py-8 ${homeSectionBg(isDark, 12)}`}>
-      <div className="absolute inset-x-0 top-0 h-[320px] md:h-[260px]">
-        <Image src={data.headerImage.src} alt={data.headerImage.alt} fill className="object-cover object-[72%_center]" sizes="100vw" />
-        <div className={isDark ? "absolute inset-0 bg-[linear-gradient(90deg,#02070b_0%,rgba(2,7,11,0.92)_42%,rgba(2,7,11,0.24)_78%)]" : "absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.99)_0%,rgba(255,255,255,0.92)_42%,rgba(255,255,255,0.24)_78%)]"} />
-        <div className={isDark ? "absolute inset-x-0 bottom-0 h-24 bg-[linear-gradient(0deg,#02070b_0%,transparent_100%)]" : "absolute inset-x-0 bottom-0 h-24 bg-[linear-gradient(0deg,white_0%,transparent_100%)]"} />
+    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 12)}`}>
+      <div className="absolute inset-x-0 top-0 hidden h-[260px] md:block">
+        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
+        <div
+          className={
+            isDark
+              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
+              : "absolute inset-0 bg-[linear-gradient(90deg,#F8F7F3_0%,rgba(248,247,243,0.92)_40%,rgba(248,247,243,0.2)_78%)]"
+          }
+        />
+        <div
+          className={
+            isDark
+              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
+              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#F8F7F3_0%,transparent_100%)]"
+          }
+        />
       </div>
 
       <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[680px] pt-4 md:pt-7">
+        <div className="max-w-[720px] pt-2 md:pt-6">
           <SectionLabel number={12} isDark={isDark} />
-
-          <h2 className={`text-[2.7rem] font-bold leading-[1.04] tracking-normal md:text-[3.25rem] ${isDark ? "text-white" : "text-[#071827]"}`}>Why Jaguar Owners Trust This Site</h2>
-          <p className={`mt-5 max-w-[620px] text-[0.9rem] leading-[1.58] md:text-[1rem] ${isDark ? "text-white/78" : "text-[#27384a]"}`} dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} />
+          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            Why Mercedes-Benz Owners Trust This Site
+          </h2>
+          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+            {data.subHeadline}
+          </p>
         </div>
 
-        <div className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 md:mt-7 md:grid-cols-4 md:gap-4">
-          {data.signals.map((item) => (
-            <article key={item.id} className={`rounded-md border p-4 shadow-[0_12px_28px_rgba(10,26,43,0.06)] ${isDark ? "border-[var(--color-border)] bg-[var(--color-surface-raised)]" : "border-[#dfe5ed] bg-white"}`}>
-              <div className="mb-3 flex items-center gap-3">
-                <span className={`flex h-8 w-8 items-center justify-center rounded-md text-[0.85rem] font-bold text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}>
-                  {item.id}
-                </span>
-                <span className={`flex h-10 w-10 items-center justify-center rounded-full border ${isDark ? "border-[var(--color-border)] bg-[var(--color-chrome)] text-[var(--color-text)]" : "border-[#cfe0ff] bg-[#eef5ff] text-[var(--color-primary)]"}`}>
-                  <Icon name={signalIcon(item.title)} className="h-5 w-5" strokeWidth={2.1} />
-                </span>
-              </div>
-              <h3 className={`text-[1rem] font-bold leading-tight ${isDark ? "text-white" : "text-[#071827]"}`}>{item.title}</h3>
-              <p className={`mt-3 text-[0.86rem] leading-[1.52] ${isDark ? "text-white/76" : "text-[#27384a]"}`} dangerouslySetInnerHTML={{ __html: cleanText(item.description) }} />
-            </article>
+        <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2 md:mt-6 md:grid-cols-4 md:gap-4">
+          {signals.map((item) => (
+            <TrustCard key={item.id} item={item} isDark={isDark} />
           ))}
         </div>
       </div>
