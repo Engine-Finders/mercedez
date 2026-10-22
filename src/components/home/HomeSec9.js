@@ -102,10 +102,18 @@ function FailureRow({ row, isDark, compact = false }) {
           <p className={`col-span-2 text-[0.7rem] font-light leading-[1.35] md:col-span-1 md:text-[0.74rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
             {row.description}
           </p>
-          <div className="col-span-2 md:col-span-1">
+          {/* Mobile: severity + link in one row (like warning-signs card) */}
+          <div className="col-span-2 flex flex-wrap items-center justify-between gap-2 md:hidden">
+            <SeverityBadge severity={row.severity} isDark={isDark} />
+            <span className="font-lora text-[0.75rem] font-medium" style={{ color: GOLD }}>
+              {row.link?.label || "Read more →"}
+            </span>
+          </div>
+          {/* Desktop: separate columns */}
+          <div className="hidden md:block">
             <SeverityBadge severity={row.severity} isDark={isDark} />
           </div>
-          <span className="col-span-2 whitespace-nowrap font-lora text-[0.78rem] font-medium md:col-span-1 md:pt-0.5" style={{ color: GOLD }}>
+          <span className="hidden whitespace-nowrap font-lora text-[0.78rem] font-medium md:inline md:pt-0.5" style={{ color: GOLD }}>
             {row.link?.label || "Read more →"}
           </span>
         </>

@@ -23,46 +23,32 @@ function CodeList({ items, icon, isDark }) {
   );
 }
 
-function EraRow({ row, isDark, columns = [] }) {
+function EraRow({ row, isDark }) {
   return (
     <div
-      className={`grid grid-cols-1 border-b last:border-b-0 md:grid-cols-[11rem_minmax(0,1.15fr)_minmax(0,1.15fr)_7.5rem] ${
+      className={`grid grid-cols-[11rem_minmax(0,1.15fr)_minmax(0,1.15fr)_7.5rem] border-b last:border-b-0 ${
         isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
       }`}
     >
-      {/* Era — black strip on desktop */}
-      <div
-        className={`flex items-center gap-2.5 px-3.5 py-3 md:px-4 md:py-4 ${
-          isDark ? "bg-black/40" : "bg-[#0a0a0a]"
-        }`}
-      >
+      <div className={`flex items-center gap-2.5 px-4 py-4 ${isDark ? "bg-black/40" : "bg-[#0a0a0a]"}`}>
         <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-white/15 bg-white/5">
           <HomeIcon name={row.icon || "car"} isDark gold className="h-4 w-4" />
         </span>
-        <span className="font-lora text-[0.88rem] font-medium leading-tight text-white md:text-[0.95rem]" style={{ color: GOLD }}>
+        <span className="font-lora text-[0.95rem] font-medium leading-tight" style={{ color: GOLD }}>
           {row.era}
         </span>
       </div>
 
-      {/* Engines */}
-      <div className={`px-3.5 py-3 md:border-l md:px-4 md:py-4 ${isDark ? "md:border-white/10" : "md:border-[rgba(0,0,0,0.06)]"}`}>
-        <p className={`mb-1.5 text-[0.62rem] font-semibold uppercase tracking-[0.06em] md:hidden ${isDark ? "text-white/50" : "text-[var(--color-text-muted)]"}`}>
-          {columns[1] || "Key Engines"}
-        </p>
+      <div className={`border-l px-4 py-4 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
         <CodeList items={row.engines} icon="engine" isDark={isDark} />
       </div>
 
-      {/* Models */}
-      <div className={`px-3.5 py-3 md:border-l md:px-4 md:py-4 ${isDark ? "md:border-white/10" : "md:border-[rgba(0,0,0,0.06)]"}`}>
-        <p className={`mb-1.5 text-[0.62rem] font-semibold uppercase tracking-[0.06em] md:hidden ${isDark ? "text-white/50" : "text-[var(--color-text-muted)]"}`}>
-          {columns[2] || "Iconic Models"}
-        </p>
+      <div className={`border-l px-4 py-4 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
         <CodeList items={row.models} icon="car" isDark={isDark} />
       </div>
 
-      {/* Visual */}
-      <div className={`flex items-center justify-center px-3 py-3 md:border-l md:px-2 ${isDark ? "md:border-white/10" : "md:border-[rgba(0,0,0,0.06)]"}`}>
-        <div className="relative h-14 w-full max-w-[120px] overflow-hidden md:h-16">
+      <div className={`flex items-center justify-center border-l px-2 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
+        <div className="relative h-16 w-full max-w-[120px] overflow-hidden">
           <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.era} fill className="object-contain" sizes="120px" />
         </div>
       </div>
@@ -80,29 +66,33 @@ function TimelineTable({ data, isDark }) {
         isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
       }`}
     >
-      <div
-        className={`hidden border-b text-[0.62rem] font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[11rem_minmax(0,1.15fr)_minmax(0,1.15fr)_7.5rem] ${
-          isDark ? "border-white/10 bg-white/5 text-white/50" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
-        }`}
-      >
-        {columns.map((col, i) => (
-          <span
-            key={col}
-            className={`px-4 py-2.5 ${i > 0 ? (isDark ? "border-l border-white/10" : "border-l border-[rgba(0,0,0,0.06)]") : ""}`}
+      <div className="overflow-x-auto">
+        <div className="min-w-[720px]">
+          <div
+            className={`grid grid-cols-[11rem_minmax(0,1.15fr)_minmax(0,1.15fr)_7.5rem] border-b text-[0.62rem] font-semibold uppercase tracking-[0.06em] ${
+              isDark ? "border-white/10 bg-white/5 text-white/50" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
+            }`}
           >
-            {col}
-          </span>
-        ))}
-      </div>
+            {columns.map((col, i) => (
+              <span
+                key={col}
+                className={`px-4 py-2.5 ${i > 0 ? (isDark ? "border-l border-white/10" : "border-l border-[rgba(0,0,0,0.06)]") : ""}`}
+              >
+                {col}
+              </span>
+            ))}
+          </div>
 
-      {eras.map((row) => (
-        <EraRow key={row.era} row={row} isDark={isDark} columns={columns} />
-      ))}
+          {eras.map((row) => (
+            <EraRow key={row.era} row={row} isDark={isDark} />
+          ))}
+        </div>
+      </div>
     </div>
   );
 }
 
-function KeyTakeaway({ data, isDark }) {
+function KeyTakeaway({ data }) {
   if (!data) return null;
 
   return (
@@ -164,7 +154,7 @@ export default function HomeSec11({ data }) {
         </div>
 
         <TimelineTable data={data} isDark={isDark} />
-        <KeyTakeaway data={data.keyTakeaway} isDark={isDark} />
+        <KeyTakeaway data={data.keyTakeaway} />
       </div>
     </section>
   );

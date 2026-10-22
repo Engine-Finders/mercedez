@@ -27,22 +27,22 @@ function TrustCard({ item, isDark }) {
 
   return (
     <article
-      className={`flex flex-col items-center rounded-xl border px-4 py-5 text-center shadow-[0_6px_24px_rgba(10,26,43,0.05)] md:px-5 md:py-6 ${
+      className={`flex flex-col items-center rounded-xl border px-2.5 py-4 text-center shadow-[0_6px_24px_rgba(10,26,43,0.05)] md:px-5 md:py-6 ${
         isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
       }`}
     >
       <span
-        className={`flex h-14 w-14 items-center justify-center rounded-full border md:h-16 md:w-16 ${
+        className={`flex h-12 w-12 items-center justify-center rounded-full border md:h-16 md:w-16 ${
           isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
         }`}
       >
-        <HomeIcon name={item.icon || "chart"} isDark={isDark} gold className="h-7 w-7 md:h-8 md:w-8" />
+        <HomeIcon name={item.icon || "chart"} isDark={isDark} gold className="h-6 w-6 md:h-8 md:w-8" />
       </span>
-      <span className="mt-3 h-px w-10" style={{ backgroundColor: GOLD }} />
-      <h3 className={`mt-3 font-lora text-[1rem] font-medium leading-tight md:text-[1.08rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <span className="mt-2.5 h-px w-8 md:mt-3 md:w-10" style={{ backgroundColor: GOLD }} />
+      <h3 className={`mt-2.5 font-lora text-[0.85rem] font-medium leading-tight md:mt-3 md:text-[1.08rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {item.title}
       </h3>
-      <p className={`mt-2 text-[0.78rem] font-light leading-[1.45] md:text-[0.82rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+      <p className={`mt-1.5 text-[0.68rem] font-light leading-[1.4] md:mt-2 md:text-[0.82rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
         {body}
       </p>
     </article>
@@ -86,7 +86,7 @@ export default function HomeSec12({ data }) {
           </p>
         </div>
 
-        <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2 md:mt-6 md:grid-cols-4 md:gap-4">
+        <div className="mt-5 grid grid-cols-2 gap-2.5 md:mt-6 md:grid-cols-4 md:gap-4">
           {signals.map((item) => (
             <TrustCard key={item.id} item={item} isDark={isDark} />
           ))}

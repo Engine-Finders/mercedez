@@ -12,13 +12,18 @@ function TrustStrip({ items, isDark }) {
 
   return (
     <ul
-      className={`mt-4 flex flex-wrap gap-x-5 gap-y-2 rounded-lg border px-3 py-2.5 md:mt-5 md:gap-x-8 md:px-4 ${
+      className={`mt-4 grid grid-cols-4 gap-1.5 rounded-lg border px-2 py-3 md:mt-5 md:flex md:flex-wrap md:gap-x-8 md:gap-y-2 md:px-4 md:py-2.5 ${
         isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[rgba(0,0,0,0.06)] bg-white/80"
       }`}
     >
       {items.map((item) => (
-        <li key={item.label} className={`inline-flex items-center gap-2 text-[0.72rem] md:text-[0.8rem] ${isDark ? "text-white/88" : "text-[var(--color-text)]"}`}>
-          <HomeIcon name={item.icon} isDark={isDark} gold className="h-4 w-4 shrink-0 md:h-5 md:w-5" />
+        <li
+          key={item.label}
+          className={`flex flex-col items-center gap-1.5 text-center text-[0.58rem] leading-[1.25] md:inline-flex md:flex-row md:items-center md:gap-2 md:text-left md:text-[0.8rem] ${
+            isDark ? "text-white/88" : "text-[var(--color-text)]"
+          }`}
+        >
+          <HomeIcon name={item.icon} isDark={isDark} gold className="h-7 w-7 shrink-0 md:h-5 md:w-5" />
           <span>{item.label}</span>
         </li>
       ))}
@@ -34,7 +39,7 @@ function HowItWorks({ data, activeStep, started, isDark }) {
       <h3 className={`mb-3 font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {data?.title || "How It Works"}
       </h3>
-      <ol className="grid grid-cols-1 gap-3 sm:grid-cols-3 sm:gap-2">
+      <ol className="grid grid-cols-1 gap-3 sm:grid-cols-3 sm:gap-2 md:grid-cols-1">
         {steps.map((step) => {
           const isActive = started && activeStep === step.step;
           return (
@@ -44,16 +49,20 @@ function HowItWorks({ data, activeStep, started, isDark }) {
                 isActive ? (isDark ? "bg-white/8" : "bg-[#F5EAD4]") : ""
               }`}
             >
-              <div className="flex items-center gap-2">
+              {/* Mobile: number + icon + title in one row · md+: number+icon, then title below */}
+              <div className="flex w-full items-center gap-2.5">
                 <span
-                  className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-[0.7rem] font-semibold text-white"
+                  className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-[0.75rem] font-semibold text-white md:h-6 md:w-6 md:text-[0.7rem]"
                   style={{ backgroundColor: GOLD }}
                 >
                   {step.step}
                 </span>
-                <HomeIcon name={step.icon} isDark={isDark} gold className="h-5 w-5" />
+                <HomeIcon name={step.icon} isDark={isDark} gold className="h-7 w-7 shrink-0 md:h-5 md:w-5" />
+                <p className={`min-w-0 flex-1 text-[0.88rem] font-medium leading-snug md:hidden ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                  {step.title}
+                </p>
               </div>
-              <p className={`text-[0.82rem] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <p className={`hidden text-[0.82rem] font-medium leading-snug md:block ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {step.title}
               </p>
               <p className={`text-[0.7rem] leading-[1.35] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
@@ -78,8 +87,8 @@ function WhyTrust({ data, isDark }) {
       <ul className="flex flex-col gap-3">
         {signals.map((signal) => (
           <li key={signal.title} className="flex items-start gap-2.5">
-            <span className={`mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-full ${isDark ? "bg-white/10" : "bg-[#F5EAD4]"}`}>
-              <HomeIcon name={signal.icon} isDark={isDark} gold className="h-5 w-5" />
+            <span className={`mt-0.5 flex h-11 w-11 shrink-0 items-center justify-center rounded-full md:h-9 md:w-9 ${isDark ? "bg-white/10" : "bg-[#F5EAD4]"}`}>
+              <HomeIcon name={signal.icon} isDark={isDark} gold className="h-6 w-6 md:h-5 md:w-5" />
             </span>
             <div className="min-w-0">
               <p className={`text-[0.85rem] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
@@ -189,7 +198,7 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
                       selected ? "border-[var(--color-primary)] bg-white/10" : "border-white/25 hover:border-white/50"
                     }`}
                   >
-                    <HomeIcon name={item.icon} isDark gold className="h-5 w-5" />
+                    <HomeIcon name={item.icon} isDark gold className="h-7 w-7 md:h-5 md:w-5" />
                     <span className="text-[0.68rem] leading-snug text-white/90">{item.label}</span>
                   </button>
                 );
@@ -278,15 +287,16 @@ function BottomStats({ items, isDark }) {
   if (!items?.length) return null;
 
   return (
-    <ul className={`mt-5 grid grid-cols-2 gap-3 border-t pt-5 md:mt-6 md:grid-cols-4 md:gap-0 md:divide-x md:pt-6 ${isDark ? "border-white/10 md:divide-white/10" : "border-[rgba(0,0,0,0.08)] md:divide-[rgba(0,0,0,0.08)]"}`}>
+    <ul className={`mt-5 grid grid-cols-4 gap-2 border-t pt-5 md:mt-6 md:gap-0 md:divide-x md:pt-6 ${isDark ? "border-white/10 md:divide-white/10" : "border-[rgba(0,0,0,0.08)] md:divide-[rgba(0,0,0,0.08)]"}`}>
       {items.map((item) => (
-        <li key={item.label} className="flex items-start gap-2.5 md:px-4 first:md:pl-0 last:md:pr-0">
-          <HomeIcon name={item.icon} isDark={isDark} gold className="mt-0.5 h-6 w-6 shrink-0" />
-          <div>
-            <p className={`text-[0.95rem] font-semibold leading-tight md:text-[1.05rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              {item.value} {item.label}
+        <li key={item.label} className="flex flex-col items-center gap-1.5 text-center md:flex-row md:items-start md:gap-2.5 md:px-4 md:text-left first:md:pl-0 last:md:pr-0">
+          <HomeIcon name={item.icon} isDark={isDark} gold className="h-8 w-8 shrink-0 md:mt-0.5 md:h-6 md:w-6" />
+          <div className="min-w-0">
+            <p className={`text-[0.72rem] font-semibold leading-tight md:text-[1.05rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <span className="block md:inline">{item.value}</span>
+              <span className="mt-0.5 block md:mt-0 md:inline"> {item.label}</span>
             </p>
-            <p className={`mt-0.5 text-[0.72rem] ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>{item.sub}</p>
+            <p className={`mt-0.5 hidden text-[0.72rem] md:block ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>{item.sub}</p>
           </div>
         </li>
       ))}

@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -7,7 +8,6 @@ import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
 import { useTheme } from "@/components/shared/themeProvider";
-
 
 function NumberStrip({ id }) {
   return (
@@ -22,74 +22,142 @@ function NumberStrip({ id }) {
   );
 }
 
-function ComparisonRow({ item, isDark }) {
+function Chevron({ open }) {
+  return (
+    <svg
+      aria-hidden="true"
+      viewBox="0 0 24 24"
+      className={`h-4 w-4 shrink-0 transition-transform ${open ? "rotate-180" : ""}`}
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    >
+      <path d="m6 9 6 6 6-6" />
+    </svg>
+  );
+}
+
+function ComparisonRow({ item, isDark, open, onToggle }) {
   const href = item.link?.href || "#";
 
   return (
-    <Link
-      href={href}
-      className={`flex flex-col border-b no-underline last:border-b-0 hover:no-underline md:flex-row md:items-stretch ${
-        isDark
-          ? "border-white/10 hover:bg-white/5"
-          : "border-[rgba(0,0,0,0.08)] hover:bg-[#F8F7F3]"
+    <div
+      className={`border-b last:border-b-0 ${
+        isDark ? "border-white/10" : "border-[rgba(0,0,0,0.08)]"
       }`}
     >
-      <div className="flex min-w-0 flex-1 items-stretch">
+      {/* Mobile accordion header */}
+      <button
+        type="button"
+        onClick={onToggle}
+        aria-expanded={open}
+        className={`flex w-full items-stretch text-left md:hidden ${
+          isDark ? "hover:bg-white/5" : "hover:bg-[#F8F7F3]"
+        }`}
+      >
         <NumberStrip id={item.id} />
-
-        {/* Comparison */}
-        <div className="flex min-w-0 flex-[1.15] items-start gap-2.5 px-3 py-3 md:gap-3 md:px-4 md:py-3.5">
+        <div className="flex min-w-0 flex-1 items-center gap-2.5 px-3 py-3">
           <span
-            className={`mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full border ${
+            className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-full border ${
               isDark ? "border-white/20" : "border-[#E5E5E5]"
             }`}
           >
-            <HomeIcon name={item.icon} isDark={isDark} gold className="h-7 w-7 md:h-8 md:w-8" />
+            <HomeIcon name={item.icon} isDark={isDark} gold className="h-6 w-6" />
           </span>
-          <div className="min-w-0">
-            <p className={`font-lora text-[0.95rem] font-medium leading-tight md:text-[1.08rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              {item.title}
+          <p className={`min-w-0 flex-1 font-lora text-[0.92rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            {item.title}
+          </p>
+          <span className={isDark ? "text-white/50" : "text-[var(--color-text-muted)]"}>
+            <Chevron open={open} />
+          </span>
+        </div>
+      </button>
+
+      {/* Mobile accordion body — detail + verdict preview */}
+      {open ? (
+        <div className="md:hidden">
+          {item.detail ? (
+            <p
+              className={`border-t px-3 py-2.5 pl-[3.75rem] text-[0.72rem] font-light leading-[1.35] ${
+                isDark ? "border-white/10 text-white/65" : "border-[rgba(0,0,0,0.06)] text-[var(--color-text-muted)]"
+              }`}
+            >
+              {item.detail}
             </p>
-            {item.detail ? (
-              <p className={`mt-1 text-[0.72rem] font-light leading-[1.35] md:text-[0.78rem] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
-                {item.detail}
-              </p>
-            ) : null}
+          ) : null}
+          <div
+            className={`flex items-start gap-2 border-t px-3 py-2.5 pl-[3.75rem] ${
+              isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
+            }`}
+          >
+            <HomeIcon name={item.verdictIcon || "shield"} isDark={isDark} gold className="mt-0.5 h-6 w-6 shrink-0" />
+            <p className="font-lora text-[0.72rem] font-medium leading-[1.4]" style={{ color: GOLD }}>
+              {item.verdictPreview}
+            </p>
+          </div>
+          <div className={`border-t px-3 py-2.5 pl-[3.75rem] ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
+            <Link href={href} className="font-lora text-[0.78rem] font-medium no-underline hover:underline" style={{ color: GOLD }}>
+              {item.link?.label || "Read the verdict →"}
+            </Link>
           </div>
         </div>
+      ) : null}
 
-        {/* Verdict preview — desktop */}
-        <div
-          className="hidden min-w-0 flex-[1.35] items-start gap-2.5 border-l px-3 py-3 md:flex md:px-4 md:py-3.5"
-          style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.06)" }}
-        >
-          <span
-            className="mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full"
-            style={{ backgroundColor: "rgba(171,132,80,0.16)" }}
+      {/* Desktop row — always open, unchanged */}
+      <Link
+        href={href}
+        className={`hidden border-0 no-underline hover:no-underline md:flex md:flex-row md:items-stretch ${
+          isDark ? "hover:bg-white/5" : "hover:bg-[#F8F7F3]"
+        }`}
+      >
+        <div className="flex min-w-0 flex-1 items-stretch">
+          <NumberStrip id={item.id} />
+
+          <div className="flex min-w-0 flex-[1.15] items-start gap-3 px-4 py-3.5">
+            <span
+              className={`mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full border ${
+                isDark ? "border-white/20" : "border-[#E5E5E5]"
+              }`}
+            >
+              <HomeIcon name={item.icon} isDark={isDark} gold className="h-8 w-8" />
+            </span>
+            <div className="min-w-0">
+              <p className={`font-lora text-[1.08rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                {item.title}
+              </p>
+              {item.detail ? (
+                <p className={`mt-1 text-[0.78rem] font-light leading-[1.35] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
+                  {item.detail}
+                </p>
+              ) : null}
+            </div>
+          </div>
+
+          <div
+            className="flex min-w-0 flex-[1.35] items-start gap-2.5 border-l px-4 py-3.5"
+            style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.06)" }}
           >
-            <HomeIcon name={item.verdictIcon || "shield"} isDark={isDark} gold className="h-7 w-7 md:h-8 md:w-8" />
-          </span>
-          <p className="font-lora text-[0.78rem] font-medium leading-[1.4] md:text-[0.86rem]" style={{ color: GOLD }}>
-            {item.verdictPreview}
-          </p>
-        </div>
+            <span
+              className="mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full"
+              style={{ backgroundColor: "rgba(171,132,80,0.16)" }}
+            >
+              <HomeIcon name={item.verdictIcon || "shield"} isDark={isDark} gold className="h-8 w-8" />
+            </span>
+            <p className="font-lora text-[0.86rem] font-medium leading-[1.4]" style={{ color: GOLD }}>
+              {item.verdictPreview}
+            </p>
+          </div>
 
-        {/* Link */}
-        <div className="flex shrink-0 items-center px-3 py-3 md:px-4">
-          <span className="font-lora text-[0.78rem] font-medium whitespace-nowrap md:text-[0.88rem]" style={{ color: GOLD }}>
-            {item.link?.label || "Read the verdict →"}
-          </span>
+          <div className="flex shrink-0 items-center px-4">
+            <span className="font-lora text-[0.88rem] font-medium whitespace-nowrap" style={{ color: GOLD }}>
+              {item.link?.label || "Read the verdict →"}
+            </span>
+          </div>
         </div>
-      </div>
-
-      {/* Verdict preview — mobile */}
-      <div className="flex items-start gap-2 border-t px-3 py-2.5 md:hidden" style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.06)" }}>
-        <HomeIcon name={item.verdictIcon || "shield"} isDark={isDark} gold className="mt-0.5 h-6 w-6 shrink-0" />
-        <p className="font-lora text-[0.72rem] font-medium leading-[1.4]" style={{ color: GOLD }}>
-          {item.verdictPreview}
-        </p>
-      </div>
-    </Link>
+      </Link>
+    </div>
   );
 }
 
@@ -99,6 +167,7 @@ export default function HomeSec5({ data }) {
   const headerImage = data.headerImage || data.headerImages?.[0] || { src: "/sec2-bg.webp", alt: "" };
   const comparisons = data.comparisons || [];
   const columns = data.columns || ["#", "COMPARISON", "VERDICT PREVIEW", "LINK"];
+  const [openId, setOpenId] = useState(null);
 
   return (
     <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 5)}`}>
@@ -131,14 +200,13 @@ export default function HomeSec5({ data }) {
           </p>
         </div>
 
-        <TrustBadges items={data.trustStrip} isDark={isDark} />
+        <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div
           className={`mt-5 overflow-hidden rounded-lg border shadow-[0_2px_12px_rgba(0,0,0,0.04)] md:mt-7 ${
             isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
           }`}
         >
-          {/* Desktop column headers */}
           <div
             className={`hidden grid-cols-[2.75rem_minmax(0,1.15fr)_minmax(0,1.35fr)_auto] items-center border-b px-0 text-[0.68rem] font-semibold uppercase tracking-[0.08em] md:grid ${
               isDark ? "border-white/10 text-white/55" : "border-[rgba(0,0,0,0.08)] text-[var(--color-text-muted)]"
@@ -153,7 +221,13 @@ export default function HomeSec5({ data }) {
           </div>
 
           {comparisons.map((item) => (
-            <ComparisonRow key={item.id} item={item} isDark={isDark} />
+            <ComparisonRow
+              key={item.id}
+              item={item}
+              isDark={isDark}
+              open={openId === item.id}
+              onToggle={() => setOpenId((prev) => (prev === item.id ? null : item.id))}
+            />
           ))}
         </div>
       </div>
