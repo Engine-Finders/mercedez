@@ -1,5 +1,5 @@
 {
-  "subHeadline": "A permanent, categorised reference — not symptom-chasing blog posts. Every entry links to a full breakdown of symptoms, root cause, mileage window, repair cost, and replacement cost.",
+  "subHeadline": "A permanent, categorised reference - not symptom-chasing blog posts. Every entry links to a full breakdown of symptoms, root cause, mileage window, repair cost, and replacement cost.",
   "headerImage": {
     "src": "/sec2-bg.webp",
     "alt": "Mercedes-Benz failure database"
@@ -21,7 +21,7 @@
         "id": 2,
         "title": "OM651 Rear Timing Chain Tensioner Wear",
         "icon": "chain",
-        "description": "Unlike most engines, the OM651's chain sits at the transmission end — access requires separating the engine from the gearbox, making an otherwise routine job labour-intensive.",
+        "description": "Unlike most engines, the OM651's chain sits at the transmission end - access requires separating the engine from the gearbox, making an otherwise routine job labour-intensive.",
         "severity": { "label": "Immediate", "type": "immediate" },
         "link": { "label": "Read more →", "href": "#" }
       },
@@ -29,7 +29,7 @@
         "id": 3,
         "title": "OM642 Oil Cooler Seal Leak",
         "icon": "droplet",
-        "description": "The V6 diesel's primary weak point — an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. 880 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "description": "The V6 diesel's primary weak point - an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. 880 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
         "severity": { "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       },
@@ -37,7 +37,7 @@
         "id": 4,
         "title": "M276 Timing Chain Stretch",
         "icon": "chain",
-        "description": "Chain stretch on earlier examples, plus carbon buildup on intake valves — well-understood and rarely catastrophic if caught early. 390 enquiries in 2025 [MB-VERIFIED].",
+        "description": "Chain stretch on earlier examples, plus carbon buildup on intake valves - well-understood and rarely catastrophic if caught early. 390 enquiries in 2025 [MB-VERIFIED].",
         "severity": { "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       },
@@ -45,7 +45,7 @@
         "id": 5,
         "title": "M177 Valve Cover Oil Leaks",
         "icon": "amg",
-        "description": "The AMG V8's most common complaint — generally robust otherwise. 370 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
+        "description": "The AMG V8's most common complaint - generally robust otherwise. 370 enquiries in 2025 [MB-VERIFIED]. £800–£1,500 repair [MB-QUOTE].",
         "severity": { "label": "Low", "type": "low" },
         "link": { "label": "Read more →", "href": "#" }
       }
@@ -60,7 +60,7 @@
         "id": 1,
         "title": "Chemical Smell & Black Tar Around Injectors",
         "icon": "flame",
-        "description": "The unmistakable sign of \"Black Death\" — remove the engine cover and inspect at the first hint of a chemical smell.",
+        "description": "The unmistakable sign of \"Black Death\" - remove the engine cover and inspect at the first hint of a chemical smell.",
         "severity": { "label": "Immediate", "type": "immediate" },
         "link": { "label": "Read more →", "href": "#" }
       },
@@ -76,7 +76,7 @@
         "id": 3,
         "title": "AdBlue System Warnings",
         "icon": "alert",
-        "description": "OM654-specific — usually a NOx sensor or heater fault, software-manageable rather than mechanical.",
+        "description": "OM654-specific - usually a NOx sensor or heater fault, software-manageable rather than mechanical.",
         "severity": { "label": "Low", "type": "low" },
         "link": { "label": "Read more →", "href": "#" }
       },
@@ -84,7 +84,7 @@
         "id": 4,
         "title": "Coolant Loss With No Visible Leak",
         "icon": "droplet",
-        "description": "OM642 oil cooler seal or M276 gasket weep — investigate before it leads to overheating.",
+        "description": "OM642 oil cooler seal or M276 gasket weep - investigate before it leads to overheating.",
         "severity": { "label": "Monitor", "type": "monitor" },
         "link": { "label": "Read more →", "href": "#" }
       }

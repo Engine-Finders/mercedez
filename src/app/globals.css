@@ -89,7 +89,7 @@ a {
   }
 }
 
-/* Find Your Vehicle cards — no underline, normal link weight */
+/* Find Your Vehicle cards - no underline, normal link weight */
 .find-your-vehicle a {
   font-weight: inherit;
   text-decoration: none;
@@ -108,7 +108,7 @@ a {
   color: var(--color-accent-red);
 }
 
-/* CTA button — warm bronze, matching the Mercedes reference palette */
+/* CTA button - warm bronze, matching the Mercedes reference palette */
 .btn-cta {
   color: var(--color-on-primary);
   transition: all 0.2s ease;

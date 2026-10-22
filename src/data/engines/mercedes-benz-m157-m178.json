@@ -1,12 +1,12 @@
 {
   "meta": {
     "slug": "m157-m178",
-    "title": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
-    "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets — backed by UK specialist data. Compare quotes from vetted specialists.",
+    "title": "Mercedes-Benz M157/M178 Engine - Reliability & Cost",
+    "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets - backed by UK specialist data. Compare quotes from vetted specialists.",
     "canonical": "https://mercedesbenzengine.uk/engines/m157-m178/",
     "openGraph": {
-      "title": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
-      "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets — backed by UK specialist data. Compare quotes from vetted specialists.",
+      "title": "Mercedes-Benz M157/M178 Engine - Reliability & Cost",
+      "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets - backed by UK specialist data. Compare quotes from vetted specialists.",
       "type": "website",
       "url": "https://mercedesbenzengine.uk/engines/m157-m178/",
       "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m157-m178.jpg",
@@ -14,8 +14,8 @@
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
-      "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets — backed by UK specialist data. Compare quotes from vetted specialists.",
+      "title": "Mercedes-Benz M157/M178 Engine - Reliability & Cost",
+      "description": "M157/M178 delivers performance but bore scoring and oil leaks demand deep pockets - backed by UK specialist data. Compare quotes from vetted specialists.",
       "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m157-m178.jpg"
     },
     "jsonLd": {
@@ -162,7 +162,7 @@
               "name": "Is the M157/M178 a reliable engine?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The M157/M178 rates 3.5★ out of 5 — powerful and rewarding when maintained, but known for bore scoring, timing chain wear on early M157s, and oil leaks. Regular servicing by an AMG specialist is non-negotiable."
+                "text": "The M157/M178 rates 3.5★ out of 5 - powerful and rewarding when maintained, but known for bore scoring, timing chain wear on early M157s, and oil leaks. Regular servicing by an AMG specialist is non-negotiable."
               }
             },
             {
@@ -245,7 +245,7 @@
         },
         {
           "@type": "WebPage",
-          "name": "Mercedes-Benz M157/M178 Engine — Reliability & Cost",
+          "name": "Mercedes-Benz M157/M178 Engine - Reliability & Cost",
           "url": "https://mercedesbenzengine.uk/engines/m157-m178/",
           "author": {
             "@type": "Organization",
@@ -263,8 +263,8 @@
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M157/M178 • Petrol • 4.0–5.5L V8 Twin-Turbo • 2011–present",
-    "h1": "Mercedes-Benz M157/M178 Engine — Specs, Reliability & Replacement Cost",
-    "subHeadline": "The Mercedes-AMG M157 and M178 are hand-built twin-turbo V8s — brutal performance but serious running costs. Backed by real UK enquiries in 2025.",
+    "h1": "Mercedes-Benz M157/M178 Engine - Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes-AMG M157 and M178 are hand-built twin-turbo V8s - brutal performance but serious running costs. Backed by real UK enquiries in 2025.",
     "trustStrip": [
       {
         "icon": "📊",
@@ -300,7 +300,7 @@
       },
       {
         "metric": "Configuration / Displacement",
-        "value": "V8 Twin-Turbo — 5.5L (M157) / 4.0L (M178)"
+        "value": "V8 Twin-Turbo - 5.5L (M157) / 4.0L (M178)"
       },
       {
         "metric": "Power Range",
@@ -326,7 +326,7 @@
   },
   "verdictRating": {
     "starRating": "3.5★ out of 5",
-    "confidence": "78% confidence — based on available specialist and owner reporting, pending proprietary enquiry data.",
+    "confidence": "78% confidence - based on available specialist and owner reporting, pending proprietary enquiry data.",
     "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
@@ -340,7 +340,7 @@
         },
         {
           "dimension": "Repair Cost",
-          "score": "8 (Reconditioned supply midpoint £7,250+ (estimated) — threshold £7,000–£9,999 → 8)"
+          "score": "8 (Reconditioned supply midpoint £7,250+ (estimated) - threshold £7,000–£9,999 → 8)"
         },
         {
           "dimension": "Repairability",
@@ -352,11 +352,11 @@
         },
         {
           "dimension": "Replacement Economics",
-          "score": "4 (Reconditioned cost as % of lowest typical host value — AMG models retain higher values but replacement costs are substantial)"
+          "score": "4 (Reconditioned cost as % of lowest typical host value - AMG models retain higher values but replacement costs are substantial)"
         }
       ]
     },
-    "oneLineVerdict": "\"The M157/M178 delivers breathtaking AMG performance — but bore scoring, timing chain wear, and oil leaks demand deep pockets — buy only with full service history and a PPI.\"",
+    "oneLineVerdict": "\"The M157/M178 delivers breathtaking AMG performance - but bore scoring, timing chain wear, and oil leaks demand deep pockets - buy only with full service history and a PPI.\"",
     "bestFor": "Enthusiasts who prioritise performance and can absorb £5k–£10k+ maintenance bills.",
     "avoidIf": "Budget-conscious buyers or anyone unwilling to commit to rigorous, specialist-only maintenance."
   },
@@ -495,7 +495,7 @@
       }
     ],
     "labourEstimate": "Fitting an M157/M178 typically takes 14–20 hours at £65–£95/hr (independent AMG specialist) or £120–£180/hr (main dealer) [ESTIMATED].",
-    "sharedCostNote": "N/A — exclusive to Mercedes-Benz.",
+    "sharedCostNote": "N/A - exclusive to Mercedes-Benz.",
     "cta": {
       "label": "→ Compare M157/M178 engine prices from UK AMG specialists",
       "href": "#"
@@ -511,7 +511,7 @@
       {
         "id": 2,
         "question": "Is the M157/M178 a reliable engine?",
-        "answer": "The M157/M178 rates 3.5★ out of 5 — powerful and rewarding when maintained, but known for bore scoring, timing chain wear on early M157s, and oil leaks. Regular servicing by an AMG specialist is non-negotiable."
+        "answer": "The M157/M178 rates 3.5★ out of 5 - powerful and rewarding when maintained, but known for bore scoring, timing chain wear on early M157s, and oil leaks. Regular servicing by an AMG specialist is non-negotiable."
       },
       {
         "id": 3,
@@ -532,9 +532,9 @@
   },
   "trustCta": {
     "trustPoints": [
-      "Trusted Suppliers — Every AMG specialist and engine rebuilder in our network is vetted, rated and reviewed by real M157/M178 owners, as part of the Engine Finders network.",
-      "Compare Companies — We compare genuine AMG engine specialists, not just any garage — so you get the right expertise for your high-performance V8.",
-      "UK Coverage — From London to Edinburgh, our network of pre-vetted AMG specialists means you're never far from trusted M157/M178 expertise."
+      "Trusted Suppliers - Every AMG specialist and engine rebuilder in our network is vetted, rated and reviewed by real M157/M178 owners, as part of the Engine Finders network.",
+      "Compare Companies - We compare genuine AMG engine specialists, not just any garage - so you get the right expertise for your high-performance V8.",
+      "UK Coverage - From London to Edinburgh, our network of pre-vetted AMG specialists means you're never far from trusted M157/M178 expertise."
     ],
     "finalCta": "Find the best Mercedes-AMG M157 or M178 engine replacement UK drivers trust. Compare real prices from trusted AMG specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {

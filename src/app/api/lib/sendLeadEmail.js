@@ -2,7 +2,7 @@ import { Resend } from "resend";
 import { LEAD_SOURCE } from "@/app/api/lib/leadConfig";
 import { SENT_LEAD_FIELDS, toCrmLeadPayload } from "@/app/api/lib/buildLeadPayload";
 
-/** Hardcoded inbox — do not move to env. */
+/** Hardcoded inbox - do not move to env. */
 const LEAD_TO_EMAIL = "ef2crm@gmail.com";
 /** Verified Resend sending domain. */
 const LEAD_FROM_EMAIL = "Mercedes Engines UK <leads@mercedesengines.uk>";
@@ -23,7 +23,7 @@ function formatLabel(key) {
 }
 
 function formatValue(value) {
-  if (value === undefined || value === null || String(value).trim() === "") return "—";
+  if (value === undefined || value === null || String(value).trim() === "") return "-";
   if (typeof value === "boolean") return value ? "Yes" : "No";
   if (typeof value === "object") {
     try {
@@ -87,7 +87,7 @@ function buildLeadEmailHtml(payload = {}) {
 
 /**
  * Notify ops that a customer requested a quote.
- * Always sends to the hardcoded ops inbox — never emails the customer.
+ * Always sends to the hardcoded ops inbox - never emails the customer.
  */
 export async function sendLeadEmail(payload) {
   const apiKey = process.env.RESEND_API_KEY;

@@ -153,7 +153,7 @@ function GenerationCard({ card, index, open = false, onToggle }) {
       className="flex h-fit flex-col rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-3 text-[var(--color-text)]"
       style={open ? { borderColor: `${GOLD}B3` } : undefined}
     >
-      {/* Header — toggle */}
+      {/* Header - toggle */}
       <button type="button" onClick={onToggle} className="flex w-full items-start gap-2.5 text-left">
         <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md text-[0.8rem] font-bold text-white" style={{ backgroundColor: GOLD }}>
           {index + 1}
@@ -196,7 +196,7 @@ function GenerationCard({ card, index, open = false, onToggle }) {
         <ArrowIcon className="h-3.5 w-3.5" />
       </Link>
 
-      {/* Accordion: Our Verdict only when open — below CTA */}
+      {/* Accordion: Our Verdict only when open - below CTA */}
       {open && card.verdict ? (
         <div className="mt-2.5 text-[14px] leading-[1.45]">
           <p className="font-bold">Our Verdict:</p>

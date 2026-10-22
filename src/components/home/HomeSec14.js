@@ -68,7 +68,7 @@ export default function HomeSec14({ data }) {
 
   return (
     <section className={`px-3 pb-7 pt-2 md:px-4 md:pb-8 ${homeSectionBg(isDark, 14)}`}>
-      {/* Mobile layout — matches ref */}
+      {/* Mobile layout - matches ref */}
       <div className="mx-auto w-full max-w-8xl md:hidden">
         <SectionLabel number={14} isDark={isDark} />
         <h2 className={`font-lora text-[1.85rem] font-medium leading-[1.1] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
@@ -132,7 +132,7 @@ export default function HomeSec14({ data }) {
         </div>
       </div>
 
-      {/* Desktop layout — unchanged structure */}
+      {/* Desktop layout - unchanged structure */}
       <div
         className={`relative mx-auto hidden w-full max-w-8xl overflow-hidden rounded-xl border shadow-[0_6px_24px_rgba(10,26,43,0.05)] md:block ${
           isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"

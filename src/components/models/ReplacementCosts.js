@@ -296,7 +296,7 @@ function Notes({ parts, isDark }) {
         </span>
         <div className="max-w-[540px]">
           <h3 className="font-lora text-[22px] font-medium leading-[1.12] md:text-[28px]" style={{ color: GOLD }}>
-            The ownership rule — generation is everything:
+            The ownership rule - generation is everything:
           </h3>
           <p className="mt-2 text-[14px] leading-[1.5] md:text-[15px]" dangerouslySetInnerHTML={{ __html: parts.rule.replace(/^The 3 Series rule - generation is everything:\s*/i, "") }} />
           <p className="mt-2 font-bold">Value the car first; the engine decision follows.</p>

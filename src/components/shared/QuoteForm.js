@@ -191,7 +191,7 @@ export default function QuoteForm({ onSuccess, compact = false }) {
       name="engine_quote_form"
       id="engine_quote_form"
       onSubmit={handleSubmit}
-      className={`rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] shadow-[0_14px_40px_var(--color-shadow)] ${compact ? "p-4" : "p-5 md:p-7"}`}
+      className={`bg-[var(--color-surface)] ${compact ? "p-4" : "rounded-lg border border-[var(--color-border)] p-5 shadow-[0_14px_40px_var(--color-shadow)] md:p-7"}`}
     >
       <div className="text-lg font-extrabold text-[var(--color-text)] md:text-xl">Confirm Details To Show Price</div>
 
@@ -367,7 +367,7 @@ export default function QuoteForm({ onSuccess, compact = false }) {
           <input id="honeypot" name="honeypot" tabIndex={-1} autoComplete="off" value={honeypot} onChange={(event) => setHoneypot(event.target.value)} />
         </div>
 
-        {/* Hidden vehicle fields — same names as the reference form / CRM API */}
+        {/* Hidden vehicle fields - same names as the reference form / CRM API */}
         <input type="hidden" name="vehicle_vrm" value={vehicle.vrm} />
         <input type="hidden" name="vehicle_brand" value={vehicle.brand} />
         <input type="hidden" name="vehicle_series" value={vehicle.series} />

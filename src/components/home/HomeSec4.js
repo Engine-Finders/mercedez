@@ -43,7 +43,7 @@ function RankingCard({ row, cardImage, isDark }) {
   const href = row.href || "#";
   const content = (
     <>
-      {/* Full-height gold numbering strip — matches ref */}
+      {/* Full-height gold numbering strip - matches ref */}
       <div
         className="flex w-10 shrink-0 items-center justify-center self-stretch md:w-12"
         style={{

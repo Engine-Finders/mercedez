@@ -141,7 +141,7 @@ export default function HomeSec2({ data }) {
           </div>
         ) : null}
 
-        {/* Desktop: all models, 4-col — unchanged */}
+        {/* Desktop: all models, 4-col - unchanged */}
         <div className="mt-6 hidden grid-cols-4 gap-3 md:grid">
           {models.map((item) => (
             <ModelCard key={item.model} item={item} isDark={isDark} />

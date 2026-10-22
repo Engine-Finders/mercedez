@@ -1,5 +1,5 @@
 {
-  "subHeadline": "Built on real data, verified by specialists, and completely independent — no sponsors, no bias, just honest advice.",
+  "subHeadline": "Built on real data, verified by specialists, and completely independent - no sponsors, no bias, just honest advice.",
   "headerImage": {
     "src": "/sec2-bg.webp",
     "alt": "Mercedes-Benz trust"
@@ -9,7 +9,7 @@
       "id": 1,
       "icon": "chart",
       "title": "Built on Real Data",
-      "description": "Every reliability rating and cost range comes from genuine UK quote and enquiry data — not manufacturer marketing, not forum guesswork."
+      "description": "Every reliability rating and cost range comes from genuine UK quote and enquiry data - not manufacturer marketing, not forum guesswork."
     },
     {
       "id": 2,
@@ -21,13 +21,13 @@
       "id": 3,
       "icon": "wrench",
       "title": "Vetted Mercedes-Benz Specialists",
-      "description": "Every specialist in our network is vetted specifically for Mercedes-Benz work — not generalists who happen to take on Mercedes jobs."
+      "description": "Every specialist in our network is vetted specifically for Mercedes-Benz work - not generalists who happen to take on Mercedes jobs."
     },
     {
       "id": 4,
       "icon": "engine-finders",
       "title": "Part of Engine Finders",
-      "description": "MercedesEngines.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one.",
+      "description": "MercedesEngines.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace - giving you the research depth of an independent authority with a vetted route to action when you need one.",
       "link": {
         "label": "MercedesEngines.uk",
         "href": "https://mercedesengines.uk"

@@ -2,6 +2,7 @@ import { Lora } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/shared/Navbar";
 import Footer from "@/components/shared/Footer";
+import FreeQuoteSticky from "@/components/shared/FreeQuoteForm";
 import { ThemeProvider } from "@/components/shared/themeProvider";
 
 const lora = Lora({
@@ -48,6 +49,7 @@ export default function RootLayout({ children }) {
           <Navbar />
           <div className="flex-1 bg-[var(--color-page)]">{children}</div>
           <Footer />
+          <FreeQuoteSticky />
         </ThemeProvider>
       </body>
     </html>

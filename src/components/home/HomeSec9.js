@@ -180,7 +180,7 @@ function UrgencyKey({ items, isDark }) {
             </span>
             <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
               <strong className="font-medium">{item.label}</strong>
-              <span className={isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}> — {item.text}</span>
+              <span className={isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}> - {item.text}</span>
             </span>
           </span>
         );

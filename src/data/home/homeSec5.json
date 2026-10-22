@@ -1,5 +1,5 @@
 {
-  "subHeadline": "The comparisons Mercedes-Benz buyers actually want — generation vs generation, engine vs engine, model vs model. Honest, data-backed, and built for real-world decision-making.",
+  "subHeadline": "The comparisons Mercedes-Benz buyers actually want - generation vs generation, engine vs engine, model vs model. Honest, data-backed, and built for real-world decision-making.",
   "headerImage": {
     "src": "/sec2-bg.webp",
     "alt": "Mercedes-Benz comparison hub"
@@ -23,7 +23,7 @@
     {
       "icon": "shield",
       "title": "Real Data, Real Owners",
-      "text": "Not estimates — Independent & transparent"
+      "text": "Not estimates - Independent & transparent"
     }
   ],
   "columns": ["#", "COMPARISON", "VERDICT PREVIEW", "LINK"],
@@ -32,9 +32,9 @@
       "id": 1,
       "icon": "car",
       "title": "W204 vs W205 vs W206 C-Class",
-      "detail": "Generation vs generation — reliability, running costs, and long-term value.",
+      "detail": "Generation vs generation - reliability, running costs, and long-term value.",
       "verdictIcon": "shield",
-      "verdictPreview": "Which C-Class generation to buy — the verdict on reliability, running costs, and long-term value. The W205 post-facelift is the sweet spot; the W204 is the bargain-with-risk; the W206 is the safest.",
+      "verdictPreview": "Which C-Class generation to buy - the verdict on reliability, running costs, and long-term value. The W205 post-facelift is the sweet spot; the W204 is the bargain-with-risk; the W206 is the safest.",
       "link": { "label": "Read the verdict →", "href": "#" }
     },
     {
@@ -52,7 +52,7 @@
       "title": "OM642 vs M276 Petrol/Diesel",
       "detail": "V6 diesel workhorse vs the modern V6 petrol.",
       "verdictIcon": "check",
-      "verdictPreview": "OM642: 880 enquiries, labour-intensive but well-understood oil cooler seal issue [MB-VERIFIED]. M276: 390 enquiries, timing chain stretch on earlier examples [MB-VERIFIED]. Choose on running costs, not reliability — both are sound if maintained.",
+      "verdictPreview": "OM642: 880 enquiries, labour-intensive but well-understood oil cooler seal issue [MB-VERIFIED]. M276: 390 enquiries, timing chain stretch on earlier examples [MB-VERIFIED]. Choose on running costs, not reliability - both are sound if maintained.",
       "link": { "label": "Read the verdict →", "href": "#" }
     },
     {
@@ -68,7 +68,7 @@
       "id": 5,
       "icon": "vehicle",
       "title": "GLC vs GLE",
-      "detail": "Mid-size SUV vs large SUV — which one should you own?",
+      "detail": "Mid-size SUV vs large SUV - which one should you own?",
       "verdictIcon": "car",
       "verdictPreview": "GLC X253: 304 enquiries [MB-VERIFIED]. GLE W166: 142 enquiries [MB-VERIFIED]. The GLC is cheaper to run; the GLE offers more space and towing capacity.",
       "link": { "label": "Read the verdict →", "href": "#" }

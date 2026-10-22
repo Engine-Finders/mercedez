@@ -216,7 +216,7 @@ export default function EngineEvolution({ data }) {
             </div>
             <p className={`mt-3 max-w-[660px] ${sectionDescription} text-[var(--color-text-muted)]`}>
               {cleanText(data.subHeadline) ||
-                "From early petrol and diesel families through to modern powertrains — how engineering, emissions and performance shaped every generation."}
+                "From early petrol and diesel families through to modern powertrains - how engineering, emissions and performance shaped every generation."}
             </p>
           </div>
           <Stats isDark={isDark} />

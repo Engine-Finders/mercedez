@@ -5,8 +5,8 @@
     "description": "...",
     "canonical": "https://mercedesbenzengine.uk/engines/m112/",
     "openGraph": {
-      "title": "Mercedes-Benz M112 Engine — Specs, Reliability & Replacement Cost",
-      "description": "The M112 is one of Mercedes' most durable V6s — its crank pulley is the main weakness. See honest replacement costs and compare vetted specialist quotes.",
+      "title": "Mercedes-Benz M112 Engine - Specs, Reliability & Replacement Cost",
+      "description": "The M112 is one of Mercedes' most durable V6s - its crank pulley is the main weakness. See honest replacement costs and compare vetted specialist quotes.",
       "type": "website",
       "url": "https://mercedesbenzengine.uk/engines/m112/",
       "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m112.jpg",
@@ -14,8 +14,8 @@
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "Mercedes-Benz M112 Engine — Specs, Reliability & Replacement Cost",
-      "description": "The M112 is one of Mercedes' most durable V6s — its crank pulley is the main weakness. See honest replacement costs and compare vetted specialist quotes.",
+      "title": "Mercedes-Benz M112 Engine - Specs, Reliability & Replacement Cost",
+      "description": "The M112 is one of Mercedes' most durable V6s - its crank pulley is the main weakness. See honest replacement costs and compare vetted specialist quotes.",
       "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m112.jpg"
     },
     "jsonLd": {
@@ -150,7 +150,7 @@
               "name": "Is the Mercedes M112 a reliable engine?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes — the M112 is widely regarded as one of Mercedes' most durable V6 engines, rated 4.0★ out of 5. It suffers few major failures, and most issues are cheap, well-understood repairs."
+                "text": "Yes - the M112 is widely regarded as one of Mercedes' most durable V6 engines, rated 4.0★ out of 5. It suffers few major failures, and most issues are cheap, well-understood repairs."
               }
             },
             {
@@ -158,7 +158,7 @@
               "name": "What is the most common M112 failure?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The most common failure is the crank pulley rubber disintegrating — a cheap, straightforward fix. Oil leaks from valve cover breathers (PCV system) are also reported."
+                "text": "The most common failure is the crank pulley rubber disintegrating - a cheap, straightforward fix. Oil leaks from valve cover breathers (PCV system) are also reported."
               }
             },
             {
@@ -174,7 +174,7 @@
               "name": "How long does the M112 last?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "With proper maintenance — regular oil changes and crank pulley inspections — the M112 is capable of 200,000+ miles. It is considered significantly more durable than its M272 successor."
+                "text": "With proper maintenance - regular oil changes and crank pulley inspections - the M112 is capable of 200,000+ miles. It is considered significantly more durable than its M272 successor."
               }
             }
           ]
@@ -233,7 +233,7 @@
         },
         {
           "@type": "WebPage",
-          "name": "Mercedes-Benz M112 Engine — Specs, Reliability & Replacement Cost",
+          "name": "Mercedes-Benz M112 Engine - Specs, Reliability & Replacement Cost",
           "url": "https://mercedesbenzengine.uk/engines/m112/",
           "author": {
             "@type": "Organization",
@@ -251,8 +251,8 @@
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M112 • Petrol • V6 • 1998–2015",
-    "h1": "Mercedes-Benz M112 Engine — Specs, Reliability & Replacement Cost",
-    "subHeadline": "The Mercedes M112 is Mercedes' first V6 — a durable, smooth petrol six, but its crank pulley and oil leaks are well-known. Backed by enquiry data from EnginesMarket.co.uk.",
+    "h1": "Mercedes-Benz M112 Engine - Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes M112 is Mercedes' first V6 - a durable, smooth petrol six, but its crank pulley and oil leaks are well-known. Backed by enquiry data from EnginesMarket.co.uk.",
     "trustStrip": [
       {
         "icon": "📊",
@@ -314,7 +314,7 @@
   },
   "verdictRating": {
     "starRating": "4.0★ out of 5",
-    "confidence": "90% confidence — based on verified specialist rebuild reports and UK workshop consensus.",
+    "confidence": "90% confidence - based on verified specialist rebuild reports and UK workshop consensus.",
     "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
@@ -348,7 +348,7 @@
         }
       ]
     },
-    "oneLineVerdict": "The M112 is one of Mercedes' most durable V6s — its main weakness is the crank pulley rubber degrading, not internal failure — buy with service history and inspect the pulley.",
+    "oneLineVerdict": "The M112 is one of Mercedes' most durable V6s - its main weakness is the crank pulley rubber degrading, not internal failure - buy with service history and inspect the pulley.",
     "bestFor": "Buyers wanting a smooth, reliable V6 Mercedes without the M272's balance shaft issues.",
     "avoidIf": "You're looking at an early M112 with no documented crank pulley replacement above 80,000 miles."
   },
@@ -491,12 +491,12 @@
       {
         "id": 2,
         "question": "Is the Mercedes M112 a reliable engine?",
-        "answer": "Yes — the M112 is widely regarded as one of Mercedes' most durable V6 engines, rated 4.0★ out of 5. It suffers few major failures, and most issues are cheap, well-understood repairs."
+        "answer": "Yes - the M112 is widely regarded as one of Mercedes' most durable V6 engines, rated 4.0★ out of 5. It suffers few major failures, and most issues are cheap, well-understood repairs."
       },
       {
         "id": 3,
         "question": "What is the most common M112 failure?",
-        "answer": "The most common failure is the crank pulley rubber disintegrating — a cheap, straightforward fix. Oil leaks from valve cover breathers (PCV system) are also reported."
+        "answer": "The most common failure is the crank pulley rubber disintegrating - a cheap, straightforward fix. Oil leaks from valve cover breathers (PCV system) are also reported."
       },
       {
         "id": 4,
@@ -506,7 +506,7 @@
       {
         "id": 5,
         "question": "How long does the M112 last?",
-        "answer": "With proper maintenance — regular oil changes and crank pulley inspections — the M112 is capable of 200,000+ miles. It is considered significantly more durable than its M272 successor."
+        "answer": "With proper maintenance - regular oil changes and crank pulley inspections - the M112 is capable of 200,000+ miles. It is considered significantly more durable than its M272 successor."
       }
     ]
   },

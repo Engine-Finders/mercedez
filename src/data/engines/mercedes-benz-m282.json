@@ -1,12 +1,12 @@
 {
   "meta": {
     "slug": "m282",
-    "title": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
-    "description": "The M282 is a modern 1.3L turbo four — efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
+    "title": "Mercedes-Benz M282 Engine - Specs, Reliability & Cost",
+    "description": "The M282 is a modern 1.3L turbo four - efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
     "canonical": "https://mercedesbenzengine.uk/engines/m282/",
     "openGraph": {
-      "title": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
-      "description": "The M282 is a modern 1.3L turbo four — efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
+      "title": "Mercedes-Benz M282 Engine - Specs, Reliability & Cost",
+      "description": "The M282 is a modern 1.3L turbo four - efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
       "type": "website",
       "url": "https://mercedesbenzengine.uk/engines/m282/",
       "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m282.jpg",
@@ -14,8 +14,8 @@
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
-      "description": "The M282 is a modern 1.3L turbo four — efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
+      "title": "Mercedes-Benz M282 Engine - Specs, Reliability & Cost",
+      "description": "The M282 is a modern 1.3L turbo four - efficient and responsive, but thermostat housing and oil consumption are key risks. Compare quotes from specialists.",
       "image": "https://mercedesbenzengine.uk/images/mercedes/engines/m282.jpg"
     },
     "jsonLd": {
@@ -108,7 +108,7 @@
               "name": "Is the M282 a reliable engine?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The M282 rates 3.0★ out of 5 — a modern, efficient turbo-four with good performance, but known for thermostat housing coolant leaks, oil consumption, and carbon buildup on intake valves due to direct injection. Regular maintenance is essential."
+                "text": "The M282 rates 3.0★ out of 5 - a modern, efficient turbo-four with good performance, but known for thermostat housing coolant leaks, oil consumption, and carbon buildup on intake valves due to direct injection. Regular maintenance is essential."
               }
             },
             {
@@ -116,7 +116,7 @@
               "name": "What is the most common M282 failure?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Thermostat housing coolant leaks are the most common issue — plastic housing cracks cause coolant loss and potential overheating. Camshaft centre bolt faults and turbocharger oil feed line leaks (recalled on 2019–2020 models) are also well-documented."
+                "text": "Thermostat housing coolant leaks are the most common issue - plastic housing cracks cause coolant loss and potential overheating. Camshaft centre bolt faults and turbocharger oil feed line leaks (recalled on 2019–2020 models) are also well-documented."
               }
             },
             {
@@ -124,7 +124,7 @@
               "name": "Which Mercedes models use the M282?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The M282 powers the A‑Class W177/V177 (A 180/A 200), B‑Class W247 (B 180/B 200), CLA C118/X118 (CLA 180/CLA 200), GLA H247 (GLA 180/GLA 200), and GLB X247 (GLB 180/GLB 200) — spanning 2018 to present."
+                "text": "The M282 powers the A‑Class W177/V177 (A 180/A 200), B‑Class W247 (B 180/B 200), CLA C118/X118 (CLA 180/CLA 200), GLA H247 (GLA 180/GLA 200), and GLB X247 (GLB 180/GLB 200) - spanning 2018 to present."
               }
             },
             {
@@ -191,7 +191,7 @@
         },
         {
           "@type": "WebPage",
-          "name": "Mercedes-Benz M282 Engine — Specs, Reliability & Cost",
+          "name": "Mercedes-Benz M282 Engine - Specs, Reliability & Cost",
           "url": "https://mercedesbenzengine.uk/engines/m282/",
           "author": {
             "@type": "Organization",
@@ -209,8 +209,8 @@
   },
   "hero": {
     "tagPill": "Mercedes-Benz • M282 • Petrol • 1.3L Turbo I4 • 2018–present",
-    "h1": "Mercedes-Benz M282 Engine — Specs, Reliability & Replacement Cost",
-    "subHeadline": "The Mercedes M282 is a 1.3-litre turbocharged four-cylinder — efficient and responsive, but thermostat housing and oil consumption are common concerns. Backed by real UK specialist data [ESTIMATED].",
+    "h1": "Mercedes-Benz M282 Engine - Specs, Reliability & Replacement Cost",
+    "subHeadline": "The Mercedes M282 is a 1.3-litre turbocharged four-cylinder - efficient and responsive, but thermostat housing and oil consumption are common concerns. Backed by real UK specialist data [ESTIMATED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -262,7 +262,7 @@
       },
       {
         "metric": "Cross-Brand Fitment",
-        "value": "Shared with Renault/Nissan (H5Ht / HR13DDT) — exclusive to Mercedes in this ecosystem"
+        "value": "Shared with Renault/Nissan (H5Ht / HR13DDT) - exclusive to Mercedes in this ecosystem"
       },
       {
         "metric": "Overall Engine Score",
@@ -272,7 +272,7 @@
   },
   "verdictRating": {
     "starRating": "3.0★ out of 5",
-    "confidence": "74% confidence — based on UK specialist and owner-forum reporting, cross-referenced with recall and TSB data.",
+    "confidence": "74% confidence - based on UK specialist and owner-forum reporting, cross-referenced with recall and TSB data.",
     "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
@@ -286,7 +286,7 @@
         },
         {
           "dimension": "Repair Cost",
-          "score": "16 (Reconditioned supply midpoint ~£3,900 — threshold £3,000–£4,999 → 16)"
+          "score": "16 (Reconditioned supply midpoint ~£3,900 - threshold £3,000–£4,999 → 16)"
         },
         {
           "dimension": "Repairability",
@@ -298,11 +298,11 @@
         },
         {
           "dimension": "Replacement Economics",
-          "score": "4 (Reconditioned cost as % of lowest host value — £3,900 on a £3,500–£4,000 car = 98–111% → 4)"
+          "score": "4 (Reconditioned cost as % of lowest host value - £3,900 on a £3,500–£4,000 car = 98–111% → 4)"
         }
       ]
     },
-    "oneLineVerdict": "\"The M282 is an efficient, responsive modern turbo-four — but thermostat housing failures and oil consumption are well-documented — buy with full service history and warranty.\"",
+    "oneLineVerdict": "\"The M282 is an efficient, responsive modern turbo-four - but thermostat housing failures and oil consumption are well-documented - buy with full service history and warranty.\"",
     "bestFor": "Urban commuters and buyers wanting a modern, efficient Mercedes with low running costs.",
     "avoidIf": "Buyers seeking long-term high-mileage durability without proactive maintenance or those who dislike turbo lag."
   },
@@ -403,17 +403,17 @@
       {
         "id": 2,
         "question": "Is the M282 a reliable engine?",
-        "answer": "The M282 rates 3.0★ out of 5 — a modern, efficient turbo-four with good performance, but known for thermostat housing coolant leaks, oil consumption, and carbon buildup on intake valves due to direct injection. Regular maintenance is essential."
+        "answer": "The M282 rates 3.0★ out of 5 - a modern, efficient turbo-four with good performance, but known for thermostat housing coolant leaks, oil consumption, and carbon buildup on intake valves due to direct injection. Regular maintenance is essential."
       },
       {
         "id": 3,
         "question": "What is the most common M282 failure?",
-        "answer": "Thermostat housing coolant leaks are the most common issue — plastic housing cracks cause coolant loss and potential overheating. Camshaft centre bolt faults (causing loss of power and engine light) and turbocharger oil feed line leaks (recalled on 2019–2020 models) are also well-documented."
+        "answer": "Thermostat housing coolant leaks are the most common issue - plastic housing cracks cause coolant loss and potential overheating. Camshaft centre bolt faults (causing loss of power and engine light) and turbocharger oil feed line leaks (recalled on 2019–2020 models) are also well-documented."
       },
       {
         "id": 4,
         "question": "Which Mercedes models use the M282?",
-        "answer": "The M282 powers the A‑Class W177/V177 (A 180/A 200), B‑Class W247 (B 180/B 200), CLA C118/X118 (CLA 180/CLA 200), GLA H247 (GLA 180/GLA 200), and GLB X247 (GLB 180/GLB 200) — spanning 2018 to present."
+        "answer": "The M282 powers the A‑Class W177/V177 (A 180/A 200), B‑Class W247 (B 180/B 200), CLA C118/X118 (CLA 180/CLA 200), GLA H247 (GLA 180/GLA 200), and GLB X247 (GLB 180/GLB 200) - spanning 2018 to present."
       },
       {
         "id": 5,
@@ -424,9 +424,9 @@
   },
   "trustCta": {
     "trustPoints": [
-      "Trusted Suppliers — Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M282 owners, as part of the Engine Finders network.",
-      "Compare Companies — We compare genuine Mercedes specialists who understand the M282's direct-injection turbo layout and shared Renault-Nissan architecture.",
-      "UK Coverage — From London to Glasgow, our network of pre-vetted Mercedes specialists means you're never far from trusted M282 expertise."
+      "Trusted Suppliers - Every garage and engine rebuilder in our network is vetted, rated and reviewed by real M282 owners, as part of the Engine Finders network.",
+      "Compare Companies - We compare genuine Mercedes specialists who understand the M282's direct-injection turbo layout and shared Renault-Nissan architecture.",
+      "UK Coverage - From London to Glasgow, our network of pre-vetted Mercedes specialists means you're never far from trusted M282 expertise."
     ],
     "finalCta": "Find the best Mercedes M282 engine replacement UK drivers rely on. Compare real prices from trusted specialists on EnginesMarket today and get back on the road with confidence.",
     "ctaButton": {
