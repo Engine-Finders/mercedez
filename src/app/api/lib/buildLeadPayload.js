@@ -23,7 +23,7 @@ function normalizeCapacity(raw) {
   const cleaned = raw ? String(raw).replace(/[^\d.]/g, "") : "";
   const num = cleaned ? Number(cleaned) : NaN;
   if (!Number.isFinite(num) || num <= 0) return "";
-  // DVLA often returns cc (e.g. 1995) — convert to litres for CRM.
+  // DVLA often returns cc (e.g. 1995) - convert to litres for CRM.
   return String(Math.round(num >= 100 ? num / 1000 : num));
 }
 

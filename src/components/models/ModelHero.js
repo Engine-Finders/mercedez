@@ -170,7 +170,7 @@ export default function ModelHero({ data }) {
               : "absolute inset-0 bg-[linear-gradient(105deg,#EFEEE9_0%,rgba(239,238,233,0.98)_42%,rgba(239,238,233,0.88)_56%,rgba(239,238,233,0.4)_74%,rgba(239,238,233,0.06)_100%)]"
           }
         />
-        {/* Diagonal strip — black faded (homepage style), not gold */}
+        {/* Diagonal strip - black faded (homepage style), not gold */}
         <div
           className="absolute inset-y-0 left-[46%] hidden w-[3px] -skew-x-[18deg] md:block"
           style={{
@@ -190,12 +190,12 @@ export default function ModelHero({ data }) {
       </div>
 
       <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6 md:min-h-[620px] md:px-6 md:pb-7 md:pt-10 lg:px-8">
-        {/* Tag row — full content width, sits over image side */}
+        {/* Tag row - full content width, sits over image side */}
         <TagPill tagPill={data.tagPill} isDark={isDark} />
 
         <div className="mt-5 max-w-[640px] md:mt-6">
           <div className="flex flex-col gap-3 md:gap-3.5">
-            <HeroTitle title={data.h1 || "Engines — The Complete UK Guide"} isDark={isDark} />
+            <HeroTitle title={data.h1 || "Engines - The Complete UK Guide"} isDark={isDark} />
             <FadeStrip isDark={isDark} />
           </div>
 

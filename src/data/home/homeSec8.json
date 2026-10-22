@@ -1,5 +1,5 @@
 {
-  "subHeadline": "Deep, permanent reference hubs for the engines Mercedes-Benz owners research most — not blog posts, not one-off articles. Every guide is built on real UK enquiry data and Mercedes-specific expertise.",
+  "subHeadline": "Deep, permanent reference hubs for the engines Mercedes-Benz owners research most - not blog posts, not one-off articles. Every guide is built on real UK enquiry data and Mercedes-specific expertise.",
   "headerImage": {
     "src": "/sec2-bg.webp",
     "alt": "Mercedes-Benz knowledge centres"
@@ -23,7 +23,7 @@
     {
       "icon": "shield",
       "title": "Real Data, Real Owners",
-      "text": "Not estimates — Independent & transparent"
+      "text": "Not estimates - Independent & transparent"
     }
   ],
   "centres": [
@@ -31,7 +31,7 @@
       "id": 1,
       "title": "OM651 Knowledge Centre",
       "icon": "chain",
-      "description": "Every variant, the \"Black Death\" injector seal story, and the rear-chain access problem — the definitive OM651 guide.",
+      "description": "Every variant, the \"Black Death\" injector seal story, and the rear-chain access problem - the definitive OM651 guide.",
       "meta": "1,250 enquiries in 2025 [MB-VERIFIED]",
       "link": { "label": "Explore →", "href": "/engine/om651" }
     },
@@ -39,7 +39,7 @@
       "id": 2,
       "title": "OM654 Knowledge Centre",
       "icon": "engine",
-      "description": "The modern diesel's full ownership profile — what changed, what improved, and what to watch.",
+      "description": "The modern diesel's full ownership profile - what changed, what improved, and what to watch.",
       "meta": "520 enquiries in 2025 [MB-VERIFIED]",
       "link": { "label": "Explore →", "href": "/engine/om654" }
     },
@@ -47,7 +47,7 @@
       "id": 3,
       "title": "OM642 Knowledge Centre",
       "icon": "wrench",
-      "description": "The V6 diesel's complete guide — oil cooler seals, swirl flaps, and the models it powers.",
+      "description": "The V6 diesel's complete guide - oil cooler seals, swirl flaps, and the models it powers.",
       "meta": "880 enquiries in 2025 [MB-VERIFIED]",
       "link": { "label": "Explore →", "href": "/engine/om642" }
     },
@@ -55,7 +55,7 @@
       "id": 4,
       "title": "M276/M177 Knowledge Centre",
       "icon": "amg",
-      "description": "The modern V6/V8 petrol story — from the E-Class to full AMG spec.",
+      "description": "The modern V6/V8 petrol story - from the E-Class to full AMG spec.",
       "meta": "390 + 370 enquiries in 2025 [MB-VERIFIED]",
       "link": { "label": "Explore →", "href": "#" }
     },
@@ -63,7 +63,7 @@
       "id": 5,
       "title": "\"Black Death\" Knowledge Centre",
       "icon": "warning",
-      "description": "The complete guide to Mercedes diesel injector seal failure — history, symptoms, prevention, and repair cost.",
+      "description": "The complete guide to Mercedes diesel injector seal failure - history, symptoms, prevention, and repair cost.",
       "meta": "The #1 failure category in our 2025 diesel data",
       "link": { "label": "Explore →", "href": "#" }
     },
@@ -71,7 +71,7 @@
       "id": 6,
       "title": "OM617 Classic Diesel Guide",
       "icon": "trophy",
-      "description": "The legendary W123-era diesel — why it's the keeper engine, what goes wrong, and why values are rising.",
+      "description": "The legendary W123-era diesel - why it's the keeper engine, what goes wrong, and why values are rising.",
       "meta": "The classic Mercedes engine hub",
       "link": { "label": "Explore →", "href": "#" }
     },
@@ -79,7 +79,7 @@
       "id": 7,
       "title": "AMG Engine Knowledge Centre",
       "icon": "amg",
-      "description": "From the naturally-aspirated M156 to the modern M177/M178 biturbo V8s — the complete AMG engine story.",
+      "description": "From the naturally-aspirated M156 to the modern M177/M178 biturbo V8s - the complete AMG engine story.",
       "meta": "AMG performance engines",
       "link": { "label": "Explore →", "href": "#" }
     },
@@ -87,7 +87,7 @@
       "id": 8,
       "title": "Timing Chain Knowledge Centre",
       "icon": "chain",
-      "description": "The complete guide to Mercedes timing chain failures — OM651, OM646, M276 and more.",
+      "description": "The complete guide to Mercedes timing chain failures - OM651, OM646, M276 and more.",
       "meta": "Chain failure patterns across MB diesels & petrols",
       "link": { "label": "Explore →", "href": "#" }
     }

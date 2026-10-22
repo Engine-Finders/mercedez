@@ -75,7 +75,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
         </div>
       </button>
 
-      {/* Mobile accordion body — detail + verdict preview */}
+      {/* Mobile accordion body - detail + verdict preview */}
       {open ? (
         <div className="md:hidden">
           {item.detail ? (
@@ -105,7 +105,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
         </div>
       ) : null}
 
-      {/* Desktop row — always open, unchanged */}
+      {/* Desktop row - always open, unchanged */}
       <Link
         href={href}
         className={`hidden border-0 no-underline hover:no-underline md:flex md:flex-row md:items-stretch ${
@@ -193,7 +193,7 @@ export default function HomeSec5({ data }) {
         <div className="max-w-[720px] pt-1 md:pt-6">
           <SectionLabel number={5} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            Comparison Hub — Head-to-Head Verdicts
+            Comparison Hub - Head-to-Head Verdicts
           </h2>
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}

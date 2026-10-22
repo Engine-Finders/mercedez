@@ -1,8 +1,8 @@
 /**
- * Section eyebrow + half-solid / half-faint strip — sits above every H2.
+ * Section eyebrow + half-solid / half-faint strip - sits above every H2.
  * Strip: black in light theme, white in dark (same as hero accents).
- * @param {number} [number] — renders as "SECTION {number}"
- * @param {string} [label] — optional full label override
+ * @param {number} [number] - renders as "SECTION {number}"
+ * @param {string} [label] - optional full label override
  * @param {boolean} [isDark]
  * @param {string} [className]
  */

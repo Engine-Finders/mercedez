@@ -155,7 +155,7 @@ export default function HomeSec7({ data }) {
         <div className="max-w-[720px] pt-2 md:pt-6">
           <SectionLabel number={7} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            Mercedes-Benz Engine Families — The Pillars
+            Mercedes-Benz Engine Families - The Pillars
           </h2>
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}

@@ -1,13 +1,13 @@
 {
   "meta": {
     "slug": "e-class",
-    "title": "E-Class Engine Replacement Cost UK — Compare Quotes",
+    "title": "E-Class Engine Replacement Cost UK - Compare Quotes",
     "titleCharCount": 54,
-    "description": "Every E-Class engine — OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+    "description": "Every E-Class engine - OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
     "descriptionCharCount": 157,
     "openGraph": {
-      "title": "E-Class Engine Replacement Cost UK — Compare Quotes",
-      "description": "Every E-Class engine — OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
+      "title": "E-Class Engine Replacement Cost UK - Compare Quotes",
+      "description": "Every E-Class engine - OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/e-class/",
       "image": "https://mercedesengine.uk/images/models/mercedes-e-class-hero.jpg",
@@ -15,8 +15,8 @@
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "E-Class Engine Replacement Cost UK — Compare Quotes",
-      "description": "Every E-Class engine — OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
+      "title": "E-Class Engine Replacement Cost UK - Compare Quotes",
+      "description": "Every E-Class engine - OM651, OM642, OM654, M276 and more. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today."
     },
     "jsonLd": {
       "@context": "https://schema.org",
@@ -154,7 +154,7 @@
               "name": "Which E-Class engine should I avoid?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The OM651 (2008–2016) carries a real, well-documented caveat: \"Black Death\" injector seal failure and rear timing chain tensioner wear. It's not a reason to avoid the engine entirely — with full service history, it's a solid unit — but it's a reason to demand documented history and a pre-purchase inspection. The highest-risk examples are pre-2013 W212 cars without timing chain history."
+                "text": "The OM651 (2008–2016) carries a real, well-documented caveat: \"Black Death\" injector seal failure and rear timing chain tensioner wear. It's not a reason to avoid the engine entirely - with full service history, it's a solid unit - but it's a reason to demand documented history and a pre-purchase inspection. The highest-risk examples are pre-2013 W212 cars without timing chain history."
               }
             },
             {
@@ -162,7 +162,7 @@
               "name": "Is the E-Class timing chain problem real?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes — on the OM651, the timing chain sits at the transmission end, requiring engine-gearbox separation for access. Warm-start rattle is the early warning; ignore it and the chain can skip, destroying the engine. Chain replacement: £600–£1,500; full engine if failed: £2,800–£4,800 [MB-QUOTE]. On the M276 petrol V6, timing chain stretch can occur on earlier examples — listen for rattling on start-up."
+                "text": "Yes - on the OM651, the timing chain sits at the transmission end, requiring engine-gearbox separation for access. Warm-start rattle is the early warning; ignore it and the chain can skip, destroying the engine. Chain replacement: £600–£1,500; full engine if failed: £2,800–£4,800 [MB-QUOTE]. On the M276 petrol V6, timing chain stretch can occur on earlier examples - listen for rattling on start-up."
               }
             },
             {
@@ -170,7 +170,7 @@
               "name": "Is it worth replacing an E-Class engine?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. A £3,200 OM642 recon against an £8,000 W212 is 40% — worth doing. A £4,500 OM642 recon against a £2,500 W211 is 180% — walk away. Use our Ownership Decision Tool for a personalised assessment."
+                "text": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. A £3,200 OM642 recon against an £8,000 W212 is 40% - worth doing. A £4,500 OM642 recon against a £2,500 W211 is 180% - walk away. Use our Ownership Decision Tool for a personalised assessment."
               }
             },
             {
@@ -186,15 +186,15 @@
               "name": "How do I find my E-Class engine code?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The engine code is stamped on the engine block — typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common E-Class codes: OM651, OM642, OM654, M276, OM656, M254. If you're unsure, use our diagnostic calculator to identify it."
+                "text": "The engine code is stamped on the engine block - typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common E-Class codes: OM651, OM642, OM654, M276, OM656, M254. If you're unsure, use our diagnostic calculator to identify it."
               }
             },
             {
               "@type": "Question",
-              "name": "E-Class vs C-Class — which is more reliable?",
+              "name": "E-Class vs C-Class - which is more reliable?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Both carry a ✅ Safe verdict on their newer generations, but for different reasons. The E-Class W213 benefits from a wider, well-supported engine range across OM654, OM656 and M276 — and the E-Class is built to a higher standard of refinement than the C-Class. The C-Class W206 runs the OM654-only diesel range. Buy on generation and service history first, badge second."
+                "text": "Both carry a ✅ Safe verdict on their newer generations, but for different reasons. The E-Class W213 benefits from a wider, well-supported engine range across OM654, OM656 and M276 - and the E-Class is built to a higher standard of refinement than the C-Class. The C-Class W206 runs the OM654-only diesel range. Buy on generation and service history first, badge second."
               }
             }
           ]
@@ -237,7 +237,7 @@
         },
         {
           "@type": "WebPage",
-          "name": "E-Class Engine Replacement Cost UK — Compare Quotes",
+          "name": "E-Class Engine Replacement Cost UK - Compare Quotes",
           "url": "https://mercedesengine.uk/e-class/",
           "author": {
             "@type": "Organization",
@@ -255,8 +255,8 @@
   },
   "hero": {
     "tagPill": "Mercedes • E-Class • 1993–present • 5 Generations • OM651 • OM642 • OM654 • M276",
-    "h1": "E-Class Engines — The Complete UK Guide",
-    "subHeadline": "Every E-Class engine — from the W210's <a  href='https://mercedesengines.uk/engine/m104'>M104</atraight-six to the W214's electrified OM654 and M254 — covered across five generations. Real UK replacement costs, known failure patterns including OM651 \"Black Death\" and OM642 oil cooler seals, and honest repair-vs-replace economics. Backed by 1,018+ real UK E-Class engine enquiries in 2025 [MB-VERIFIED].",
+    "h1": "E-Class Engines - The Complete UK Guide",
+    "subHeadline": "Every E-Class engine - from the W210's <a  href='https://mercedesengines.uk/engine/m104'>M104</atraight-six to the W214's electrified OM654 and M254 - covered across five generations. Real UK replacement costs, known failure patterns including OM651 \"Black Death\" and OM642 oil cooler seals, and honest repair-vs-replace economics. Backed by 1,018+ real UK E-Class engine enquiries in 2025 [MB-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
@@ -281,7 +281,7 @@
     }
   },
   "ownershipVerdict": {
-    "h2": "E-Class — The Ownership Verdict",
+    "h2": "E-Class - The Ownership Verdict",
     "metrics": [
       {
         "metric": "Overall Ownership Rating",
@@ -289,7 +289,7 @@
       },
       {
         "metric": "Replacement Economics",
-        "ourCall": "✅ The E-Class rule — generation is destiny: post-2016 OM654 cars are straightforward keeps; pre-2016 OM651 cars demand documented history, not just low miles."
+        "ourCall": "✅ The E-Class rule - generation is destiny: post-2016 OM654 cars are straightforward keeps; pre-2016 OM651 cars demand documented history, not just low miles."
       },
       {
         "metric": "Reliability",
@@ -297,15 +297,15 @@
       },
       {
         "metric": "Most Reliable Engine",
-        "ourCall": "OM654 — the modern diesel with materially fewer failure reports than its OM651 predecessor [MB-VERIFIED]"
+        "ourCall": "OM654 - the modern diesel with materially fewer failure reports than its OM651 predecessor [MB-VERIFIED]"
       },
       {
         "metric": "Highest-Risk Engine",
-        "ourCall": "OM651 — \"Black Death\" injector seal risk plus rear-chain complexity; buy with documented history, not a \"bargain\" price"
+        "ourCall": "OM651 - \"Black Death\" injector seal risk plus rear-chain complexity; buy with documented history, not a \"bargain\" price"
       },
       {
         "metric": "Best Used Buy",
-        "ourCall": "W212 facelift (2013–2016) with the OM654 diesel — post-2013 electronics, facelift styling, and the more dependable engine before W213 depreciation fully hits"
+        "ourCall": "W212 facelift (2013–2016) with the OM654 diesel - post-2013 electronics, facelift styling, and the more dependable engine before W213 depreciation fully hits"
       },
       {
         "metric": "Average Engine Replacement",
@@ -313,14 +313,14 @@
       },
       {
         "metric": "Most Common Failure Enquiry",
-        "ourCall": "OM651 injector seal failure (\"Black Death\") — 1,250 enquiries across all Mercedes models in 2025 [MB-VERIFIED]"
+        "ourCall": "OM651 injector seal failure (\"Black Death\") - 1,250 enquiries across all Mercedes models in 2025 [MB-VERIFIED]"
       },
       {
         "metric": "Mercedes Ranking",
-        "ourCall": "🥇 #1 Best-Selling Mercedes — the E-Class is historically Mercedes' best-selling model globally, with more than 13 million sold by 2015"
+        "ourCall": "🥇 #1 Best-Selling Mercedes - the E-Class is historically Mercedes' best-selling model globally, with more than 13 million sold by 2015"
       }
     ],
-    "oneLineVerdict": "The E-Class is the safest bet in the Mercedes range — buy a post-2016 OM654 car if your budget allows, or a meticulously documented facelift W212 if it doesn't. The generation matters more than the mileage."
+    "oneLineVerdict": "The E-Class is the safest bet in the Mercedes range - buy a post-2016 OM654 car if your budget allows, or a meticulously documented facelift W212 if it doesn't. The generation matters more than the mileage."
   },
   "atAGlance": {
     "h2": "E-Class at a Glance",
@@ -343,15 +343,15 @@
       },
       {
         "metric": "Most Enquired Engine (2025)",
-        "value": "OM651 — 1,250 enquiries (all Mercedes models) [MB-VERIFIED]"
+        "value": "OM651 - 1,250 enquiries (all Mercedes models) [MB-VERIFIED]"
       },
       {
         "metric": "Most Reliable",
-        "value": "OM654 — modern 2.0L diesel, 520 enquiries in 2025 [MB-VERIFIED]"
+        "value": "OM654 - modern 2.0L diesel, 520 enquiries in 2025 [MB-VERIFIED]"
       },
       {
         "metric": "Highest-Risk",
-        "value": "OM651 — \"Black Death\" injector seal failure, rear timing chain"
+        "value": "OM651 - \"Black Death\" injector seal failure, rear timing chain"
       },
       {
         "metric": "Typical Replacement Cost",
@@ -368,114 +368,114 @@
     ]
   },
   "generations": {
-    "h2": "E-Class Generations — Find Your Vehicle",
-    "subHeadline": "Five generations, one nameplate — from the W124 that launched the E-Class badge to the all-new W214. Each has a clear buy/avoid verdict.",
+    "h2": "E-Class Generations - Find Your Vehicle",
+    "subHeadline": "Five generations, one nameplate - from the W124 that launched the E-Class badge to the all-new W214. Each has a clear buy/avoid verdict.",
     "cards": [
       {
-  "title": "A207 (2010–2017) — Cabriolet",
+  "title": "A207 (2010–2017) - Cabriolet",
   "badge": "",
   "meta": "2010–2017 • M271 petrol • M276 petrol • OM651 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The E-Class cabriolet—a stylish open-top based on the W204 platform. M276 V6 petrol is the reliable choice; OM651 diesel is common but carries injector seal risk. Cabriolet values are strong, making replacement viable.",
+  "verdict": "The E-Class cabriolet-a stylish open-top based on the W204 platform. M276 V6 petrol is the reliable choice; OM651 diesel is common but carries injector seal risk. Cabriolet values are strong, making replacement viable.",
   "cta": {
     "label": "Explore A207 →",
     "href": "https://mercedesengines.uk/e-class/a207"
   }
 },
 {
-  "title": "A238 (2017–2023) — Cabriolet",
+  "title": "A238 (2017–2023) - Cabriolet",
   "badge": "",
   "meta": "2017–2023 • M274 petrol • OM654 diesel",
   "rating": "★★★★☆",
-  "verdict": "The E-Class cabriolet—a stylish open-top with the same reliable engine range. OM654 diesel is the pick; M274 petrol is robust. Cabriolet values (£18k–£40k) make replacement very safe.",
+  "verdict": "The E-Class cabriolet-a stylish open-top with the same reliable engine range. OM654 diesel is the pick; M274 petrol is robust. Cabriolet values (£18k–£40k) make replacement very safe.",
   "cta": {
     "label": "Explore A238 →",
     "href": "https://mercedesengines.uk/e-class/a238"
   }
 },
       {
-  "title": "C207 (2009–2017) — Coupé",
+  "title": "C207 (2009–2017) - Coupé",
   "badge": "",
   "meta": "2009–2017 • M271 petrol • M276 petrol • OM651 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The E-Class coupé—based on the W204 platform with a distinctive two-door body. M276 V6 petrol is the reliable choice; OM651 diesel carries injector seal risk. Values (£6k–£16k) make replacement viable.",
+  "verdict": "The E-Class coupé-based on the W204 platform with a distinctive two-door body. M276 V6 petrol is the reliable choice; OM651 diesel carries injector seal risk. Values (£6k–£16k) make replacement viable.",
   "cta": {
     "label": "Explore C207 →",
     "href": "https://mercedesengines.uk/e-class/c207"
   }
 },
 {
-  "title": "C238 (2017–2023) — Coupé",
+  "title": "C238 (2017–2023) - Coupé",
   "badge": "",
   "meta": "2017–2023 • M274 petrol • M276 petrol • OM654 diesel",
   "rating": "★★★★☆",
-  "verdict": "The E-Class coupé—a sleek two-door with the same excellent engines. OM654 diesel is reliable; M274 petrol is robust. Coupé values (£15k–£35k) make replacement very safe.",
+  "verdict": "The E-Class coupé-a sleek two-door with the same excellent engines. OM654 diesel is reliable; M274 petrol is robust. Coupé values (£15k–£35k) make replacement very safe.",
   "cta": {
     "label": "Explore C238 →",
     "href": "https://mercedesengines.uk/e-class/c238"
   }
 },
       {
-  "title": "S124 (1993–1996) — Estate",
+  "title": "S124 (1993–1996) - Estate",
   "badge": "",
   "meta": "1993–1996 • M111 petrol • M104 petrol • OM602 diesel • OM603 diesel",
   "rating": "★★☆☆☆",
-  "verdict": "The W124 estate—a genuine Mercedes legend with bulletproof engineering. M104 straight-six is the pick; OM602 diesel is indestructible. Values for well-maintained examples are rising, but daily-driver examples at sub-£3,000 rarely justify replacement.",
+  "verdict": "The W124 estate-a genuine Mercedes legend with bulletproof engineering. M104 straight-six is the pick; OM602 diesel is indestructible. Values for well-maintained examples are rising, but daily-driver examples at sub-£3,000 rarely justify replacement.",
   "cta": {
     "label": "Explore S124 →",
     "href": "https://mercedesengines.uk/e-class/s124"
   }
 },
 {
-  "title": "S210 (1996–2003) — Estate",
+  "title": "S210 (1996–2003) - Estate",
   "badge": "",
   "meta": "1996–2003 • M112 petrol • M113 petrol • OM611 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The W210 estate—practical and well-built, sharing the same robust engines. Estate body adds slight value, but the same economics apply: sub-£5k examples make replacement borderline.",
+  "verdict": "The W210 estate-practical and well-built, sharing the same robust engines. Estate body adds slight value, but the same economics apply: sub-£5k examples make replacement borderline.",
   "cta": {
     "label": "Explore S210 →",
     "href": "https://mercedesengines.uk/e-class/s210"
   }
 },
 {
-  "title": "S211 (2003–2009) — Estate",
+  "title": "S211 (2003–2009) - Estate",
   "badge": "",
   "meta": "2003–2009 • M271 petrol • OM646 diesel • OM642 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The W211 estate—a practical workhorse with the same engines. Estate values are slightly stronger, but the same economics apply: <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> recon borderline on sub-£8k examples.",
+  "verdict": "The W211 estate-a practical workhorse with the same engines. Estate values are slightly stronger, but the same economics apply: <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> recon borderline on sub-£8k examples.",
   "cta": {
     "label": "Explore S211 →",
     "href": "https://mercedesengines.uk/e-class/s211"
   }
 },
 {
-  "title": "S212 (2009–2016) — Estate",
+  "title": "S212 (2009–2016) - Estate",
   "badge": "",
   "meta": "2009–2016 • M271 petrol • M276 petrol • OM651 diesel • OM642 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The W212 estate—a practical and capable load-lugger with the same engine range. Estate values are strong, and replacement is viable on most examples.",
+  "verdict": "The W212 estate-a practical and capable load-lugger with the same engine range. Estate values are strong, and replacement is viable on most examples.",
   "cta": {
     "label": "Explore S212 →",
     "href": "https://mercedesengines.uk/e-class/s212"
   }
 },
 {
-  "title": "S213 (2016–2023) — Estate",
+  "title": "S213 (2016–2023) - Estate",
   "badge": "",
   "meta": "2016–2023 • M274 petrol • OM654 diesel • OM642 diesel",
   "rating": "★★★★☆",
-  "verdict": "The W213 estate—a practical and refined load-lugger with the same excellent engine range. OM654 diesel is the pick; M274 petrol is robust. Estate values are strong, making replacement very safe.",
+  "verdict": "The W213 estate-a practical and refined load-lugger with the same excellent engine range. OM654 diesel is the pick; M274 petrol is robust. Estate values are strong, making replacement very safe.",
   "cta": {
     "label": "Explore S213 →",
     "href": "https://mercedesengines.uk/e-class/s213"
   }
 },
 {
-  "title": "S214 (2023–present) — Estate",
+  "title": "S214 (2023–present) - Estate",
   "badge": "",
   "meta": "2023–present • M254 petrol • OM654 diesel",
   "rating": "★★★★☆",
-  "verdict": "The W214 estate—practical, refined, and modern. OM654 diesel remains the reliable choice; M254 petrol includes mild-hybrid tech. Estate values (£25k+) make replacement very safe.",
+  "verdict": "The W214 estate-practical, refined, and modern. OM654 diesel remains the reliable choice; M254 petrol includes mild-hybrid tech. Estate values (£25k+) make replacement very safe.",
   "cta": {
     "label": "Explore S214 →",
     "href": "https://mercedesengines.uk/e-class/s214"
@@ -483,10 +483,10 @@
 },
 {
   "title": "W210 (1995–2003)",
-  "badge": "🔥 Most Enquired — 234 enquiries (2025) [MB-VERIFIED]",
+  "badge": "🔥 Most Enquired - 234 enquiries (2025) [MB-VERIFIED]",
   "meta": "1995–2003 • M111 petrol • <a  href='https://mercedesengines.uk/engine/m112'>M112</aetrol • M113 petrol • OM606 diesel • OM611 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The second-generation E-Class—a significant improvement in refinement. M112 V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 are robust; OM606 diesel is legendary. W210 values (£2.5k–£9k) mean OM642 recon on sub-£5k examples approaches scrap threshold.",
+  "verdict": "The second-generation E-Class-a significant improvement in refinement. M112 V6 and <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 are robust; OM606 diesel is legendary. W210 values (£2.5k–£9k) mean OM642 recon on sub-£5k examples approaches scrap threshold.",
   "cta": {
     "label": "Explore W210 →",
     "href": "https://mercedesengines.uk/e-class/w210"
@@ -494,10 +494,10 @@
 },
 {
   "title": "W211 (2002–2009)",
-  "badge": "🔥 Most Enquired — 338 enquiries (2025) [MB-VERIFIED]",
+  "badge": "🔥 Most Enquired - 338 enquiries (2025) [MB-VERIFIED]",
   "meta": "2002–2009 • M271 petrol • M112 petrol • M113 petrol • OM646 diesel • OM642 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The third-generation E-Class—a significant step forward in quality. M271 petrol has timing chain issues; OM646 diesel is reliable; OM642 V6 diesel is well-understood but labour-intensive. W211 values (£5k–£18k) make OM642 recon borderline on sub-£8k examples.",
+  "verdict": "The third-generation E-Class-a significant step forward in quality. M271 petrol has timing chain issues; OM646 diesel is reliable; OM642 V6 diesel is well-understood but labour-intensive. W211 values (£5k–£18k) make OM642 recon borderline on sub-£8k examples.",
   "cta": {
     "label": "Explore W211 →",
     "href": "https://mercedesengines.uk/e-class/w211"
@@ -505,10 +505,10 @@
 },
 {
   "title": "W212 (2009–2016)",
-  "badge": "🔥 Most Enquired — 338 enquiries (2025) [MB-VERIFIED]",
+  "badge": "🔥 Most Enquired - 338 enquiries (2025) [MB-VERIFIED]",
   "meta": "2009–2016 • M271 petrol • M276 petrol • OM651 diesel • OM642 diesel",
   "rating": "★★★☆☆",
-  "verdict": "The fourth-generation E-Class—a robust and well-engineered car. M276 V6 petrol is the most reliable; OM651 diesel is common but carries injector seal risk; OM642 V6 diesel is well-understood. W212 values (£5k–£18k) make replacement viable on most examples.",
+  "verdict": "The fourth-generation E-Class-a robust and well-engineered car. M276 V6 petrol is the most reliable; OM651 diesel is common but carries injector seal risk; OM642 V6 diesel is well-understood. W212 values (£5k–£18k) make replacement viable on most examples.",
   "cta": {
     "label": "Explore W212 →",
     "href": "https://mercedesengines.uk/e-class/w212"
@@ -516,10 +516,10 @@
 },
 {
   "title": "W213 (2016–2023)",
-  "badge": "🔥 Most Enquired — 214 enquiries (2025) [MB-VERIFIED]",
+  "badge": "🔥 Most Enquired - 214 enquiries (2025) [MB-VERIFIED]",
   "meta": "2016–2023 • M274 petrol • M276 petrol • OM654 diesel • OM642 diesel",
   "rating": "★★★★☆",
-  "verdict": "The fifth-generation E-Class—a significant leap in quality and technology. OM654 diesel is a cleaner, more reliable design than OM651; <a  href='https://mercedesengines.uk/engine/m274'>M274</a> petrol is robust. W213 values (£14k–£35k) make replacement safe across all variants.",
+  "verdict": "The fifth-generation E-Class-a significant leap in quality and technology. OM654 diesel is a cleaner, more reliable design than OM651; <a  href='https://mercedesengines.uk/engine/m274'>M274</a> petrol is robust. W213 values (£14k–£35k) make replacement safe across all variants.",
   "cta": {
     "label": "Explore W213 →",
     "href": "https://mercedesengines.uk/e-class/w213"
@@ -530,7 +530,7 @@
         "badge": "",
         "meta": "1993–1995 • M104 straight-six petrols, OM602/OM605 diesels",
         "rating": "★★★★☆",
-        "verdict": "The car that made the E-Class name. Classic Mercedes build quality, but now 30+ years old — only buy as a collector or weekend car, not a daily driver. Parts availability is thinning.",
+        "verdict": "The car that made the E-Class name. Classic Mercedes build quality, but now 30+ years old - only buy as a collector or weekend car, not a daily driver. Parts availability is thinning.",
         "cta": {
           "label": "Explore W124 →",
           "href": "https://mercedesengines.uk/w124"
@@ -541,7 +541,7 @@
         "badge": "",
         "meta": "1995–2003 • M104 inline-six, <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> V8, OM606 diesel",
         "rating": "★★★☆☆",
-        "verdict": "The \"Eyes\" E-Class — distinctive quad-headlamps, but rust is the real enemy now, not the engines. Low values mean most engine replacements fail the economics test. Buy only if rust-free and fully documented.",
+        "verdict": "The \"Eyes\" E-Class - distinctive quad-headlamps, but rust is the real enemy now, not the engines. Low values mean most engine replacements fail the economics test. Buy only if rust-free and fully documented.",
         "cta": {
           "label": "Explore W210 →",
           "href": "https://mercedesengines.uk/e-class/w210"
@@ -552,7 +552,7 @@
         "badge": "",
         "meta": "2002–2009 • OM642 V6 diesel, M272 V6 petrol, M113 V8",
         "rating": "★★★☆☆",
-        "verdict": "The E-Class that defined the 2000s executive market. The OM642 is the pick of the bunch — well-understood, labour-intensive but not catastrophic. SBC brake system and Airmatic suspension are the bigger wallet-drainers than the engines.",
+        "verdict": "The E-Class that defined the 2000s executive market. The OM642 is the pick of the bunch - well-understood, labour-intensive but not catastrophic. SBC brake system and Airmatic suspension are the bigger wallet-drainers than the engines.",
         "cta": {
           "label": "Explore W211 →",
           "href": "https://mercedesengines.uk/e-class/w211"
@@ -560,10 +560,10 @@
       },
       {
         "title": "W212 (2009–2016)",
-        "badge": "🔥 Most Enquired — 338 enquiries (2025) [MB-VERIFIED]",
+        "badge": "🔥 Most Enquired - 338 enquiries (2025) [MB-VERIFIED]",
         "meta": "2009–2016 • OM651 four-cylinder diesel, OM642 V6 diesel, M276 V6 petrol",
         "rating": "★★★★☆",
-        "verdict": "The sweet spot for value. The 2013 facelift brought the most complex mid-cycle refresh Mercedes ever attempted — crucially, it brought the OM654 diesel into the range. Buy 2013+ with the OM654; avoid the OM651 without full chain history.",
+        "verdict": "The sweet spot for value. The 2013 facelift brought the most complex mid-cycle refresh Mercedes ever attempted - crucially, it brought the OM654 diesel into the range. Buy 2013+ with the OM654; avoid the OM651 without full chain history.",
         "cta": {
           "label": "Explore W212 →",
           "href": "https://mercedesengines.uk/e-class/w212"
@@ -574,7 +574,7 @@
         "badge": "",
         "meta": "2016–2023 • OM654 diesel, M276 V6 petrol, OM656 straight-six diesel, M177 V8 (AMG)",
         "rating": "★★★★★",
-        "verdict": "The modern high-water mark. The OM654 is the defining engine — materially fewer failures than the OM651, AdBlue issues are software-manageable. The W213 is the safest used E-Class buy if your budget stretches to it.",
+        "verdict": "The modern high-water mark. The OM654 is the defining engine - materially fewer failures than the OM651, AdBlue issues are software-manageable. The W213 is the safest used E-Class buy if your budget stretches to it.",
         "cta": {
           "label": "Explore W213 →",
           "href": "https://mercedesengines.uk/e-class/w213"
@@ -585,7 +585,7 @@
         "badge": "",
         "meta": "2023–present • OM654 (mild-hybrid diesel), <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> (mild-hybrid petrol), plug-in hybrids",
         "rating": "★★★★★",
-        "verdict": "The all-new E-Class — fully electrified powertrain line-up, all inline-four configurations. Too new for long-term reliability data, but the OM654's track record suggests it's a safe bet. Premium pricing reflects the new-generation tech.",
+        "verdict": "The all-new E-Class - fully electrified powertrain line-up, all inline-four configurations. Too new for long-term reliability data, but the OM654's track record suggests it's a safe bet. Premium pricing reflects the new-generation tech.",
         "cta": {
           "label": "Explore W214 →",
           "href": "https://mercedesengines.uk/e-class/w214"
@@ -603,8 +603,8 @@
     }
   },
   "engineDatabase": {
-    "h2": "E-Class Engine Codes — The Complete Database",
-    "subHeadline": "Every engine ever fitted to a UK-market E-Class — verified against manufacturer data, with real 2025 enquiry volumes and replacement costs.",
+    "h2": "E-Class Engine Codes - The Complete Database",
+    "subHeadline": "Every engine ever fitted to a UK-market E-Class - verified against manufacturer data, with real 2025 enquiry volumes and replacement costs.",
     "columns": [
       "Engine Code",
       "Family",
@@ -688,7 +688,7 @@
         "model": "W213",
         "reliability": "★★★★☆",
         "enquiries": "[PATTERN DATA]",
-        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+        "avgRebuildCost": "[PLACEHOLDER - confirm vs cost sheet]"
       },
       {
         "engineCode": "M254",
@@ -700,7 +700,7 @@
         "model": "W213, W214",
         "reliability": "★★★★★",
         "enquiries": "[PATTERN DATA]",
-        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+        "avgRebuildCost": "[PLACEHOLDER - confirm vs cost sheet]"
       },
       {
         "engineCode": "M104",
@@ -712,7 +712,7 @@
         "model": "W124, W210",
         "reliability": "★★★★☆",
         "enquiries": "[PATTERN DATA]",
-        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+        "avgRebuildCost": "[PLACEHOLDER - confirm vs cost sheet]"
       },
       {
         "engineCode": "M119",
@@ -724,7 +724,7 @@
         "model": "W124, W210, R129",
         "reliability": "★★★★★",
         "enquiries": "[PATTERN DATA]",
-        "avgRebuildCost": "[PLACEHOLDER — confirm vs cost sheet]"
+        "avgRebuildCost": "[PLACEHOLDER - confirm vs cost sheet]"
       }
     ],
     "confidenceScore": {
@@ -735,7 +735,7 @@
   },
   "commonProblems": {
     "h2": "Common E-Class Engine Problems",
-    "subHeadline": "Six real failure patterns from UK E-Class owners — ranked by severity, with genuine cost signals.",
+    "subHeadline": "Six real failure patterns from UK E-Class owners - ranked by severity, with genuine cost signals.",
     "columns": [
       "#",
       "Problem",
@@ -747,7 +747,7 @@
       {
         "id": 1,
         "issue": "OM651 \"Black Death\" Injector Seal Failure",
-        "description": "Copper injector seals degrade, leaking combustion gases past the seal into a carbon \"tar\" that can weld the injector into the head if ignored. The defining E-Class diesel issue — our #1 enquiry driver across all Mercedes models. Most common on W212, less frequent on post-2013 facelift cars. Repair: £400–£1,200; full engine replacement if neglected: £2,800–£4,800 [MB-QUOTE].",
+        "description": "Copper injector seals degrade, leaking combustion gases past the seal into a carbon \"tar\" that can weld the injector into the head if ignored. The defining E-Class diesel issue - our #1 enquiry driver across all Mercedes models. Most common on W212, less frequent on post-2013 facelift cars. Repair: £400–£1,200; full engine replacement if neglected: £2,800–£4,800 [MB-QUOTE].",
         "severity": {
           "icon": "🔴",
           "label": "Catastrophic if Ignored",
@@ -761,7 +761,7 @@
       {
         "id": 2,
         "issue": "OM651 Rear Timing Chain Tensioner Wear",
-        "description": "Unlike most engines, the OM651's chain sits at the transmission end — access requires separating the engine from the gearbox. Warm-start rattle is the early warning; ignore it and the chain can skip, destroying the engine. Chain replacement: £600–£1,500; full engine if failed: £2,800–£4,800 [MB-QUOTE].",
+        "description": "Unlike most engines, the OM651's chain sits at the transmission end - access requires separating the engine from the gearbox. Warm-start rattle is the early warning; ignore it and the chain can skip, destroying the engine. Chain replacement: £600–£1,500; full engine if failed: £2,800–£4,800 [MB-QUOTE].",
         "severity": {
           "icon": "🟠",
           "label": "Immediate",
@@ -775,7 +775,7 @@
       {
         "id": 3,
         "issue": "OM642 Oil Cooler Seal Leak",
-        "description": "The V6 diesel's primary weak point — an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. Oil leaks into the engine \"V\" and drains down, causing oil loss and potential engine damage if ignored. Repair: £800–£1,500 [MB-QUOTE]. Most common on W211 and early W212.",
+        "description": "The V6 diesel's primary weak point - an O-ring fails in the \"V\" of the engine, requiring significant disassembly to access. Oil leaks into the engine \"V\" and drains down, causing oil loss and potential engine damage if ignored. Repair: £800–£1,500 [MB-QUOTE]. Most common on W211 and early W212.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -803,7 +803,7 @@
       {
         "id": 5,
         "issue": "OM654 AdBlue System Issues",
-        "description": "The modern diesel's most common complaint — NOx sensor failures and AdBlue heater faults. These are software-manageable rather than mechanical, but can trigger limp mode if ignored. AdBlue repairs: £400–£1,500 [MB-QUOTE]. Most common on W213.",
+        "description": "The modern diesel's most common complaint - NOx sensor failures and AdBlue heater faults. These are software-manageable rather than mechanical, but can trigger limp mode if ignored. AdBlue repairs: £400–£1,500 [MB-QUOTE]. Most common on W213.",
         "severity": {
           "icon": "🟢",
           "label": "Low",
@@ -817,7 +817,7 @@
       {
         "id": 6,
         "issue": "Airmatic Suspension Failure (Non-Engine)",
-        "description": "W211 and W212 Airmatic systems are a more common wallet-drainer than the engines themselves. Compressor failure or air-strut leaks cause the car to sit low on one corner. Not an engine problem — but frequently the reason owners scrap otherwise sound cars. Repair: £1,500–£3,000 per corner.",
+        "description": "W211 and W212 Airmatic systems are a more common wallet-drainer than the engines themselves. Compressor failure or air-strut leaks cause the car to sit low on one corner. Not an engine problem - but frequently the reason owners scrap otherwise sound cars. Repair: £1,500–£3,000 per corner.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -853,43 +853,43 @@
     ]
   },
   "marketIntelligence": {
-    "h2": "E-Class Market Intelligence — What 1,018+ UK Owners Told Us in 2025",
+    "h2": "E-Class Market Intelligence - What 1,018+ UK Owners Told Us in 2025",
     "signals": [
       {
         "signal": "Most Enquired E-Class Generation",
-        "data": "W212 — 338 enquiries [MB-VERIFIED]",
+        "data": "W212 - 338 enquiries [MB-VERIFIED]",
         "demandTrend": "⬆ Rising"
       },
       {
         "signal": "Second Most Enquired",
-        "data": "W211 — 234 enquiries [MB-VERIFIED]",
+        "data": "W211 - 234 enquiries [MB-VERIFIED]",
         "demandTrend": "➡ Stable"
       },
       {
         "signal": "Third Most Enquired",
-        "data": "W213 — 214 enquiries [MB-VERIFIED]",
+        "data": "W213 - 214 enquiries [MB-VERIFIED]",
         "demandTrend": "⬆ Rising"
       },
       {
         "signal": "Most Enquired E-Class Engine",
-        "data": "OM651 — 1,250 enquiries (all Mercedes models) [MB-VERIFIED]",
+        "data": "OM651 - 1,250 enquiries (all Mercedes models) [MB-VERIFIED]",
         "demandTrend": "➡ Stable"
       }
     ],
     "insights": [
-      "Interesting insight: The W212 (2009–2016) generates 338 enquiries — nearly 60% more than the newer W213 (214 enquiries). This is classic \"sweet spot\" behaviour: the W212 is old enough to need repairs, young enough to be worth fixing, and cheap enough to be accessible to a wider audience than the W213.",
-      "The W211's 234 enquiries reflect its status as the last \"analogue\" E-Class before Mercedes' more complex electronics arrived — mechanically straightforward, well-understood, and cheaply parted. The OM642 V6 is the pick of the generation, but Airmatic suspension is the real cost driver.",
-      "The OM654's 520 enquiries across all Mercedes models are weighted toward routine maintenance and pre-purchase inspections, not catastrophic failure — a materially different profile from the OM651's \"Black Death\" and chain-related enquiry mix. The shift in enquiry character is as significant as the volume."
+      "Interesting insight: The W212 (2009–2016) generates 338 enquiries - nearly 60% more than the newer W213 (214 enquiries). This is classic \"sweet spot\" behaviour: the W212 is old enough to need repairs, young enough to be worth fixing, and cheap enough to be accessible to a wider audience than the W213.",
+      "The W211's 234 enquiries reflect its status as the last \"analogue\" E-Class before Mercedes' more complex electronics arrived - mechanically straightforward, well-understood, and cheaply parted. The OM642 V6 is the pick of the generation, but Airmatic suspension is the real cost driver.",
+      "The OM654's 520 enquiries across all Mercedes models are weighted toward routine maintenance and pre-purchase inspections, not catastrophic failure - a materially different profile from the OM651's \"Black Death\" and chain-related enquiry mix. The shift in enquiry character is as significant as the volume."
     ],
     "liveEnquiryFeedNote": ""
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every E-Class Buyer",
-    "quote": "If you buy one E-Class based on this page, buy a 2013–2016 W212 facelift with the OM654 diesel. The facelift brought the more reliable engine and the most comprehensive mid-cycle refresh Mercedes has ever done — and values have already absorbed the steepest depreciation. Avoid the OM651 without full timing chain history; the £2,000 you save on the purchase price can become a £4,800 engine replacement. End of Sections 1–7. Ready for \"8-14\" to continue with Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, and Closing Action Cards."
+    "quote": "If you buy one E-Class based on this page, buy a 2013–2016 W212 facelift with the OM654 diesel. The facelift brought the more reliable engine and the most comprehensive mid-cycle refresh Mercedes has ever done - and values have already absorbed the steepest depreciation. Avoid the OM651 without full timing chain history; the £2,000 you save on the purchase price can become a £4,800 engine replacement. End of Sections 1–7. Ready for \"8-14\" to continue with Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, and Closing Action Cards."
   },
   "replacementCosts": {
-    "h2": "E-Class Engine Replacement Costs — By Generation",
-    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt E-Class engines — supply-only, with independent labour guidance.",
+    "h2": "E-Class Engine Replacement Costs - By Generation",
+    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt E-Class engines - supply-only, with independent labour guidance.",
     "tables": [
       {
         "title": "",
@@ -916,15 +916,15 @@
         "rows": []
       }
     ],
-    "figuresNote": "Labour estimate: Fitting an E-Class engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The E-Class rule — generation is destiny: A £3,000–£5,000 OM654 recon against a £14,000–£35,000 W213 sits at roughly 15–35% — well below our 70% threshold for Mercedes-Benz. A £3,200–£5,500 OM642 recon against a £5,000–£18,000 W211 or early W212 sits at 30–110% — check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a W211 E320 CDI worth £2,500 with a £4,500 recon bill, that's 180% — walk away. For a W213 E220d worth £18,000 with a £3,500 recon bill, that's 19% — fix it.",
-    "labourEstimate": "Fitting an E-Class engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The E-Class rule — generation is destiny: A £3,000–£5,000 OM654 recon against a £14,000–£35,000 W213 sits at roughly 15–35% — well below our 70% threshold for Mercedes-Benz. A £3,200–£5,500 OM642 recon against a £5,000–£18,000 W211 or early W212 sits at 30–110% — check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a W211 E320 CDI worth £2,500 with a £4,500 recon bill, that's 180% — walk away. For a W213 E220d worth £18,000 with a £3,500 recon bill, that's 19% — fix it.",
+    "figuresNote": "Labour estimate: Fitting an E-Class engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The E-Class rule - generation is destiny: A £3,000–£5,000 OM654 recon against a £14,000–£35,000 W213 sits at roughly 15–35% - well below our 70% threshold for Mercedes-Benz. A £3,200–£5,500 OM642 recon against a £5,000–£18,000 W211 or early W212 sits at 30–110% - check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a W211 E320 CDI worth £2,500 with a £4,500 recon bill, that's 180% - walk away. For a W213 E220d worth £18,000 with a £3,500 recon bill, that's 19% - fix it.",
+    "labourEstimate": "Fitting an E-Class engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The E-Class rule - generation is destiny: A £3,000–£5,000 OM654 recon against a £14,000–£35,000 W213 sits at roughly 15–35% - well below our 70% threshold for Mercedes-Benz. A £3,200–£5,500 OM642 recon against a £5,000–£18,000 W211 or early W212 sits at 30–110% - check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a W211 E320 CDI worth £2,500 with a £4,500 recon bill, that's 180% - walk away. For a W213 E220d worth £18,000 with a £3,500 recon bill, that's 19% - fix it.",
     "economicsBox": {
       "title": "",
       "text": ""
     }
   },
   "engineEvolution": {
-    "h2": "How the E-Class Engine Range Evolved — 1993 to Today",
+    "h2": "How the E-Class Engine Range Evolved - 1993 to Today",
     "columns": [
       "Era",
       "Years",
@@ -934,45 +934,45 @@
     ],
     "eras": [
       {
-        "era": "The W124 Era — Fuel Injection Arrives",
+        "era": "The W124 Era - Fuel Injection Arrives",
         "years": "1993–1995",
         "keyEngines": "M104 straight-six petrol, OM602/OM605 diesels",
-        "whyBmwChanged": "The \"E\" in E-Class stood for Einspritzmotor (German for fuel injection engine) — the badge formalised in 1993 after years of \"E\" suffix usage on models like the 300 E",
-        "worthKnowing": "The W124 is widely considered the last \"over-engineered\" Mercedes — built to a standard, not a price. Values for well-preserved examples are rising."
+        "whyBmwChanged": "The \"E\" in E-Class stood for Einspritzmotor (German for fuel injection engine) - the badge formalised in 1993 after years of \"E\" suffix usage on models like the 300 E",
+        "worthKnowing": "The W124 is widely considered the last \"over-engineered\" Mercedes - built to a standard, not a price. Values for well-preserved examples are rising."
       },
       {
-        "era": "The W210 Era — V6 and Common-Rail",
+        "era": "The W210 Era - V6 and Common-Rail",
         "years": "1995–2003",
         "keyEngines": "M104 inline-six, M119 V8, OM606 diesel",
         "whyBmwChanged": "The W210 introduced the first V6 petrol (M112) and the first common-rail diesel (OM611) to the E-Class range",
         "worthKnowing": "Rust is the W210's defining failure, not the engines. A rust-free W210 with the OM606 diesel is a cult classic."
       },
       {
-        "era": "The W211 Era — V6 Diesel Dominance",
+        "era": "The W211 Era - V6 Diesel Dominance",
         "years": "2002–2009",
         "keyEngines": "OM642 V6 diesel, M272 V6 petrol, M113 V8",
-        "whyBmwChanged": "The OM642 arrived in 2005 and became the defining E-Class diesel of the era — 3.0 litres, V6, smooth and powerful",
-        "worthKnowing": "The OM642's oil cooler seal is the only real engine weakness — labour-intensive but not catastrophic. SBC brakes and Airmatic are bigger cost drivers."
+        "whyBmwChanged": "The OM642 arrived in 2005 and became the defining E-Class diesel of the era - 3.0 litres, V6, smooth and powerful",
+        "worthKnowing": "The OM642's oil cooler seal is the only real engine weakness - labour-intensive but not catastrophic. SBC brakes and Airmatic are bigger cost drivers."
       },
       {
-        "era": "The W212 Era — Four-Cylinder Diesel Volume",
+        "era": "The W212 Era - Four-Cylinder Diesel Volume",
         "years": "2009–2016",
         "keyEngines": "OM651 four-cylinder diesel, OM642 V6 diesel, M276 V6 petrol",
-        "whyBmwChanged": "The OM651 arrived in 2008 as Mercedes' new modular four-cylinder diesel — high-volume, efficient, but carrying the \"Black Death\" injector seal risk",
-        "worthKnowing": "The 2013 facelift was the most complex mid-cycle refresh Mercedes ever undertook — it brought the OM654 into the range. A 2013 car and a 2012 car have completely different reliability profiles."
+        "whyBmwChanged": "The OM651 arrived in 2008 as Mercedes' new modular four-cylinder diesel - high-volume, efficient, but carrying the \"Black Death\" injector seal risk",
+        "worthKnowing": "The 2013 facelift was the most complex mid-cycle refresh Mercedes ever undertook - it brought the OM654 into the range. A 2013 car and a 2012 car have completely different reliability profiles."
       },
       {
-        "era": "The W213 Era — The OM654 Takes Over",
+        "era": "The W213 Era - The OM654 Takes Over",
         "years": "2016–2023",
         "keyEngines": "OM654 diesel, OM656 straight-six diesel, M276 V6 petrol, M177 V8 (AMG)",
-        "whyBmwChanged": "The OM654 replaced the OM651 as Mercedes' modern four-cylinder diesel — materially fewer failures, AdBlue issues are software-manageable",
-        "worthKnowing": "The W213 is the safest used E-Class buy if your budget stretches to it. The OM656 straight-six is a gem — smooth, powerful, and refined."
+        "whyBmwChanged": "The OM654 replaced the OM651 as Mercedes' modern four-cylinder diesel - materially fewer failures, AdBlue issues are software-manageable",
+        "worthKnowing": "The W213 is the safest used E-Class buy if your budget stretches to it. The OM656 straight-six is a gem - smooth, powerful, and refined."
       },
       {
-        "era": "The W214 Era — Full Electrification",
+        "era": "The W214 Era - Full Electrification",
         "years": "2023–present",
         "keyEngines": "OM654 (mild-hybrid diesel), M254 (mild-hybrid petrol), plug-in hybrids",
-        "whyBmwChanged": "All W214 engines are electrified — 48-volt mild-hybrid as standard, with plug-in hybrid options across the range",
+        "whyBmwChanged": "All W214 engines are electrified - 48-volt mild-hybrid as standard, with plug-in hybrid options across the range",
         "worthKnowing": "Too new for long-term reliability data, but the OM654's track record suggests it's a safe bet. The W214 is the most technologically advanced E-Class ever built."
       }
     ]
@@ -988,7 +988,7 @@
       {
         "buyerProfile": "Family Buyer",
         "rating": "★★★★★",
-        "verdict": "The E-Class estate (S212/S213) is one of the best family cars ever made — huge boot, comfortable ride, and the OM654 diesel returns excellent economy. Buy a 2016+ W213 estate with the OM654 and full service history."
+        "verdict": "The E-Class estate (S212/S213) is one of the best family cars ever made - huge boot, comfortable ride, and the OM654 diesel returns excellent economy. Buy a 2016+ W213 estate with the OM654 and full service history."
       },
       {
         "buyerProfile": "Daily Commuter",
@@ -998,12 +998,12 @@
       {
         "buyerProfile": "Budget Owner",
         "rating": "★★★☆☆",
-        "verdict": "The W211 with the OM642 V6 diesel is the budget E-Class to buy — values are low, the engine is well-understood, and parts are plentiful. But factor in the £800–£1,500 oil cooler seal job and SBC brake costs before committing."
+        "verdict": "The W211 with the OM642 V6 diesel is the budget E-Class to buy - values are low, the engine is well-understood, and parts are plentiful. But factor in the £800–£1,500 oil cooler seal job and SBC brake costs before committing."
       },
       {
         "buyerProfile": "Towing & Working Use",
         "rating": "★★★★★",
-        "verdict": "The E-Class estate and the OM654/<a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> diesels are exceptional for towing — 2,000 kg braked towing capacity, 500+ Nm of torque, and the 9G-Tronic gearbox handles load effortlessly. The W213 with the OM656 straight-six is the pick."
+        "verdict": "The E-Class estate and the OM654/<a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> diesels are exceptional for towing - 2,000 kg braked towing capacity, 500+ Nm of torque, and the 9G-Tronic gearbox handles load effortlessly. The W213 with the OM656 straight-six is the pick."
       },
       {
         "buyerProfile": "Long-Term Keeper",
@@ -1013,15 +1013,15 @@
     ]
   },
   "calculatorCta": {
-    "h2": "Can I Repair My E-Class Engine — or Should I Replace It?",
-    "intro": "The OM651's \"Black Death\" injector seal failure is the defining E-Class diesel question — a £400–£1,200 repair if caught early, or a £2,800–£4,800 replacement if ignored. The OM642's oil cooler seal is a £800–£1,500 labour-intensive repair, but the engine itself is sound. Run the numbers on your specific car before deciding.",
+    "h2": "Can I Repair My E-Class Engine - or Should I Replace It?",
+    "intro": "The OM651's \"Black Death\" injector seal failure is the defining E-Class diesel question - a £400–£1,200 repair if caught early, or a £2,800–£4,800 replacement if ignored. The OM642's oil cooler seal is a £800–£1,500 labour-intensive repair, but the engine itself is sound. Run the numbers on your specific car before deciding.",
     "paths": [
       {
-        "label": "Path 1 — Know your engine? Launch the Mercedes-Benz calculator with E-Class pre-selected",
+        "label": "Path 1 - Know your engine? Launch the Mercedes-Benz calculator with E-Class pre-selected",
         "href": "mercedesengine.uk/#engine-calculator?model=e-class"
       },
       {
-        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "label": "Path 2 - Not sure which engine you have? We'll identify it first",
         "href": "mercedesengine.uk/#engine-calculator?model=e-class"
       }
     ]
@@ -1042,12 +1042,12 @@
       {
         "icon": "🔧",
         "title": "Vetted Mercedes",
-        "text": "Benz Specialists — Our network includes 25+ vetted Mercedes-Benz specialists who work on E-Class engines daily — chain assessment, injector seal diagnosis, and OM642 oil cooler work are second nature to them."
+        "text": "Benz Specialists - Our network includes 25+ vetted Mercedes-Benz specialists who work on E-Class engines daily - chain assessment, injector seal diagnosis, and OM642 oil cooler work are second nature to them."
       },
       {
         "icon": "🏆",
         "title": "Part of Engine Finders",
-        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace — giving you the research depth of an independent authority with a vetted route to action when you need one."
+        "text": "mercedesengine.uk is part of the Engine Finders family, the UK's leading engine replacement marketplace - giving you the research depth of an independent authority with a vetted route to action when you need one."
       }
     ]
   },
@@ -1067,17 +1067,17 @@
       {
         "id": 3,
         "question": "Which E-Class engine should I avoid?",
-        "answer": "The OM651 (2008–2016) carries a real, well-documented caveat: \"Black Death\" injector seal failure and rear timing chain tensioner wear. It's not a reason to avoid the engine entirely — with full service history, it's a solid unit — but it's a reason to demand documented history and a pre-purchase inspection. The highest-risk examples are pre-2013 W212 cars without timing chain history."
+        "answer": "The OM651 (2008–2016) carries a real, well-documented caveat: \"Black Death\" injector seal failure and rear timing chain tensioner wear. It's not a reason to avoid the engine entirely - with full service history, it's a solid unit - but it's a reason to demand documented history and a pre-purchase inspection. The highest-risk examples are pre-2013 W212 cars without timing chain history."
       },
       {
         "id": 4,
         "question": "Is the E-Class timing chain problem real?",
-        "answer": "Yes — on the OM651, the timing chain sits at the transmission end, requiring engine-gearbox separation for access. Warm-start rattle is the early warning; ignore it and the chain can skip, destroying the engine. Chain replacement: £600–£1,500; full engine if failed: £2,800–£4,800 [MB-QUOTE]. On the M276 petrol V6, timing chain stretch can occur on earlier examples — listen for rattling on start-up."
+        "answer": "Yes - on the OM651, the timing chain sits at the transmission end, requiring engine-gearbox separation for access. Warm-start rattle is the early warning; ignore it and the chain can skip, destroying the engine. Chain replacement: £600–£1,500; full engine if failed: £2,800–£4,800 [MB-QUOTE]. On the M276 petrol V6, timing chain stretch can occur on earlier examples - listen for rattling on start-up."
       },
       {
         "id": 5,
         "question": "Is it worth replacing an E-Class engine?",
-        "answer": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. A £3,200 OM642 recon against an £8,000 W212 is 40% — worth doing. A £4,500 OM642 recon against a £2,500 W211 is 180% — walk away. Use our Ownership Decision Tool for a personalised assessment."
+        "answer": "Apply the 70% Mercedes-Benz rule: if reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. A £3,200 OM642 recon against an £8,000 W212 is 40% - worth doing. A £4,500 OM642 recon against a £2,500 W211 is 180% - walk away. Use our Ownership Decision Tool for a personalised assessment."
       },
       {
         "id": 6,
@@ -1087,12 +1087,12 @@
       {
         "id": 7,
         "question": "How do I find my E-Class engine code?",
-        "answer": "The engine code is stamped on the engine block — typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common E-Class codes: OM651, OM642, OM654, M276, OM656, M254. If you're unsure, use our diagnostic calculator to identify it."
+        "answer": "The engine code is stamped on the engine block - typically on the left-hand side (driver's side in RHD cars) near the cylinder head. It's also on the VIN plate under the bonnet and in your service documentation. Common E-Class codes: OM651, OM642, OM654, M276, OM656, M254. If you're unsure, use our diagnostic calculator to identify it."
       },
       {
         "id": 8,
-        "question": "E-Class vs C-Class — which is more reliable?",
-        "answer": "Both carry a ✅ Safe verdict on their newer generations, but for different reasons. The E-Class W213 benefits from a wider, well-supported engine range across OM654, OM656 and M276 — and the E-Class is built to a higher standard of refinement than the C-Class. The C-Class W206 runs the OM654-only diesel range. Buy on generation and service history first, badge second. For a full comparison, see our E-Class vs C-Class guide."
+        "question": "E-Class vs C-Class - which is more reliable?",
+        "answer": "Both carry a ✅ Safe verdict on their newer generations, but for different reasons. The E-Class W213 benefits from a wider, well-supported engine range across OM654, OM656 and M276 - and the E-Class is built to a higher standard of refinement than the C-Class. The C-Class W206 runs the OM654-only diesel range. Buy on generation and service history first, badge second. For a full comparison, see our E-Class vs C-Class guide."
       }
     ]
   },

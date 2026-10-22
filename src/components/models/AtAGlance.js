@@ -185,7 +185,7 @@ export default function AtAGlance({ data }) {
 
   return (
     <section className={`relative overflow-hidden px-3 py-8 text-[var(--color-text)] md:px-4 md:py-10 ${homeSectionBg(isDark, 3)}`}>
-      {/* Header image only — same asset as before, not full-section BG */}
+      {/* Header image only - same asset as before, not full-section BG */}
       <div className="absolute inset-x-0 top-0 h-[220px] md:h-[280px]">
         <Image
           src="/model/Section 3-bg.webp"

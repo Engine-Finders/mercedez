@@ -170,7 +170,7 @@ export default function HomeSec1({ data }) {
             dangerouslySetInnerHTML={{ __html: data.subHeadline }}
           />
 
-          {/* Mobile CTA — black, below description (ref) */}
+          {/* Mobile CTA - black, below description (ref) */}
           <Link
             href={ctaHref}
             className="btn-cta mt-1 inline-flex w-fit items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-bold tracking-[0.04em] text-white md:hidden"
@@ -180,7 +180,7 @@ export default function HomeSec1({ data }) {
             <ArrowIcon className="h-4 w-4" />
           </Link>
 
-          {/* Desktop CTA — gold, unchanged */}
+          {/* Desktop CTA - gold, unchanged */}
           <Link
             href={ctaHref}
             className="btn-cta mt-1 hidden w-fit items-center justify-center gap-3 rounded-md px-7 py-3.5 text-[0.9rem] font-bold tracking-[0.04em] text-white md:inline-flex"
@@ -194,7 +194,7 @@ export default function HomeSec1({ data }) {
           <div className="relative h-[200px] md:hidden" aria-hidden="true" />
         </div>
 
-        {/* Mobile trust badges — stacked list (ref): metric row + label row */}
+        {/* Mobile trust badges - stacked list (ref): metric row + label row */}
         <ul className={`mt-1 w-full md:hidden ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {trustStrip.map((item, index) => {
             const stat = splitStat(item.label);
@@ -230,7 +230,7 @@ export default function HomeSec1({ data }) {
           })}
         </ul>
 
-        {/* Desktop trust strip — unchanged 4-col card */}
+        {/* Desktop trust strip - unchanged 4-col card */}
         <ul
           className={`mt-5 hidden w-full max-w-[880px] grid-cols-4 overflow-hidden rounded-2xl border shadow-[0_14px_32px_rgba(10,26,43,0.1)] backdrop-blur-xl md:grid ${
             isDark

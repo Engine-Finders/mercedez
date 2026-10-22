@@ -108,7 +108,7 @@
     },
     {
       "model": "GLS",
-      "note": "formerly GL — renamed 2016, same X166 chassis continued",
+      "note": "formerly GL - renamed 2016, same X166 chassis continued",
       "generations": "X164, X166 (as GL, 2007–15), X166 (as GLS, 2016–19), X167",
       "verdict": { "text": "Large 7-Seat Flagship", "type": "crown" },
       "image": { "src": "/right.webp", "alt": "Mercedes GLS" },
@@ -174,7 +174,7 @@
       "model": "V-Class",
       "note": "2014–present, distinct model from Viano",
       "generations": "W447",
-      "verdict": { "text": "MPV Safe Buy — OM622/OM651/OM654 [PATTERN DATA]", "type": "success" },
+      "verdict": { "text": "MPV Safe Buy - OM622/OM651/OM654 [PATTERN DATA]", "type": "success" },
       "image": { "src": "/right.webp", "alt": "Mercedes V-Class" },
       "href": "/v-class"
     },
@@ -182,7 +182,7 @@
       "model": "Viano",
       "note": "2003–2014, predecessor model, not a V-Class variant",
       "generations": "W639",
-      "verdict": { "text": "Discontinued, Check Value — OM642/OM646 [PATTERN DATA]", "type": "warning" },
+      "verdict": { "text": "Discontinued, Check Value - OM642/OM646 [PATTERN DATA]", "type": "warning" },
       "image": { "src": "/right.webp", "alt": "Mercedes Viano" },
       "href": "/viano"
     },
@@ -204,14 +204,14 @@
     },
     {
       "model": "Vario",
-      "note": "truck-derived chassis-cab, OM366/OM904 truck engines — not passenger-car architecture",
+      "note": "truck-derived chassis-cab, OM366/OM904 truck engines - not passenger-car architecture",
       "generations": "T2",
-      "verdict": { "text": "Scope Decision Needed — likely excluded [PATTERN DATA]", "type": "warning" },
+      "verdict": { "text": "Scope Decision Needed - likely excluded [PATTERN DATA]", "type": "warning" },
       "image": { "src": "/right.webp", "alt": "Mercedes Vario" },
       "href": "/vario"
     }
   ],
-  "dataNote": "11 model lines carry real [MB-VERIFIED] enquiry data from the proprietary file. The remaining 18 — mostly coupes, roadsters, AMG halo cars, and commercial vans — are marked [PATTERN DATA]: built on documented failure patterns and specialist knowledge rather than proprietary volume data. Flag for data-team attention if enquiry tracking should be extended to these lines.",
+  "dataNote": "11 model lines carry real [MB-VERIFIED] enquiry data from the proprietary file. The remaining 18 - mostly coupes, roadsters, AMG halo cars, and commercial vans - are marked [PATTERN DATA]: built on documented failure patterns and specialist knowledge rather than proprietary volume data. Flag for data-team attention if enquiry tracking should be extended to these lines.",
   "cta": {
     "label": "START YOUR RESEARCH →",
     "href": "/quote"

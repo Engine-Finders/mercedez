@@ -1,7 +1,7 @@
 import HomeIcon from "@/components/home/homeIcons";
 
 /**
- * 4-badge trust strip — same layout as Section 6.
+ * 4-badge trust strip - same layout as Section 6.
  * items: [{ icon, title, text }]
  * mobileRow: force 4-across on mobile (compact)
  */
