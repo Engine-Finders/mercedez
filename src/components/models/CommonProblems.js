@@ -1,9 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionDescription, sectionH2, sectionTableText } from "@/components/models/sectionTypography";
+import { sectionH2, sectionTableText } from "@/components/models/sectionTypography";
 
 const defaultProblemImage = "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=700&q=80";
 
@@ -84,7 +84,10 @@ function ProblemImage({ index }) {
         }}
         className="h-full w-full object-cover"
       />
-      <span className="absolute left-3 top-3 rounded-md bg-[var(--color-surface-raised)] px-2 py-1 text-[18px] font-bold text-[var(--color-primary)] shadow-sm">
+      <span
+        className="absolute left-3 top-3 rounded-md bg-[var(--color-surface-raised)] px-2 py-1 text-[18px] font-bold shadow-sm"
+        style={{ color: GOLD }}
+      >
         {String(index + 1).padStart(2, "0")}
       </span>
     </div>
@@ -99,20 +102,20 @@ function ProblemCard({ problem, index }) {
     <article className="grid grid-cols-[0.85fr_1.55fr] overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] shadow-[0_8px_22px_var(--color-shadow)] md:grid-cols-[0.9fr_1.3fr]">
       <ProblemImage index={index} />
       <div className="flex min-w-0 flex-col p-2.5 md:p-4">
-      <div className="flex items-start justify-between gap-4">
-  <h3
-    className="text-[13px] font-bold leading-[1.12] text-[var(--color-text)] md:text-[16px]"
-    dangerouslySetInnerHTML={{ __html: cleanText(problem.issue) }}
-  />
-  <div className="hidden shrink-0 md:block">
-    <SeverityBadge severity={problem.severity} />
-  </div>
-</div>
-<div className="mt-3 md:hidden">
-  <SeverityBadge severity={problem.severity} />
-</div>
-<p className={`mt-2 ${sectionTableText} text-[var(--color-text-muted)] md:mt-3`} dangerouslySetInnerHTML={{ __html: cleanText(problem.description) }} />
-        <Link href={href} className="mt-auto flex items-center justify-end gap-2 pt-4 text-[18px] font-bold text-[var(--color-primary)]">
+        <div className="flex items-start justify-between gap-4">
+          <h3
+            className="font-lora text-[15px] font-medium leading-[1.15] text-[var(--color-text)] md:text-[18px]"
+            dangerouslySetInnerHTML={{ __html: cleanText(problem.issue) }}
+          />
+          <div className="hidden shrink-0 md:block">
+            <SeverityBadge severity={problem.severity} />
+          </div>
+        </div>
+        <div className="mt-3 md:hidden">
+          <SeverityBadge severity={problem.severity} />
+        </div>
+        <p className={`mt-2 ${sectionTableText} text-[var(--color-text-muted)] md:mt-3`} dangerouslySetInnerHTML={{ __html: cleanText(problem.description) }} />
+        <Link href={href} className="mt-auto flex items-center justify-end gap-2 pt-4 text-[18px] font-bold no-underline hover:opacity-90" style={{ color: GOLD }}>
           <span dangerouslySetInnerHTML={{ __html: label.replace(/\s*\u2192\s*$/, "") }} />
           <ArrowIcon />
         </Link>
@@ -152,33 +155,34 @@ export default function CommonProblems({ data }) {
   const { theme } = useTheme();
   if (!data) return null;
 
+  const isDark = theme === "dark";
   const title = splitTitle(data.h2);
 
   return (
-    <section data-theme-mode={theme} className="bg-[var(--color-page)] py-6 text-[var(--color-text)]">
-      <div>
-        <h2 className={`max-w-[860px] ${sectionH2} tracking-normal`}>
-          <span dangerouslySetInnerHTML={{ __html: title.main }} />
-          {title.accent ? <span className="text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: title.accent }} /> : null}
-        </h2>
-        <div className="mt-2">
-          <MStripe />
+    <section data-theme-mode={theme} className={`py-6 text-[var(--color-text)] ${homeSectionBg(isDark, 6)}`}>
+      <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
+        <div>
+          <h2 className={`font-lora max-w-[860px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
+            <span dangerouslySetInnerHTML={{ __html: title.main }} />
+            {title.accent ? <span style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: title.accent }} /> : null}
+          </h2>
+          <div className="mt-2">
+            <SectionFadeStrip isDark={isDark} />
+          </div>
+          {data.subHeadline ? (
+            <p className="mt-3 max-w-[620px] text-[14px] leading-[1.45] text-[var(--color-text-muted)] md:text-[16px]">{cleanText(data.subHeadline)}</p>
+          ) : null}
         </div>
-        {data.subHeadline ? (
-          <p className="mt-3 max-w-[620px] text-[14px] leading-[1.45] text-[var(--color-text-muted)] md:text-[16px]">
-            {cleanText(data.subHeadline)}
-          </p>
-        ) : null}
-      </div>
 
-      <div className="mt-5 grid gap-3 md:mt-6 md:grid-cols-3">
-        {(data.problems || []).map((problem, index) => (
-          <ProblemCard key={problem.id || problem.issue} problem={problem} index={index} />
-        ))}
-      </div>
+        <div className="mt-5 grid gap-3 md:mt-6 md:grid-cols-3">
+          {(data.problems || []).map((problem, index) => (
+            <ProblemCard key={problem.id || problem.issue} problem={problem} index={index} />
+          ))}
+        </div>
 
-      <div className="mt-4">
-        <UrgencyKey items={data.urgencyKey} />
+        <div className="mt-4">
+          <UrgencyKey items={data.urgencyKey} />
+        </div>
       </div>
     </section>
   );
