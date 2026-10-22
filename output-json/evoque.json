@@ -1,7 +1,7 @@
 {
   "meta": {
     "slug": "evoque",
-    "title": "Evoque Engines — The Complete UK Guide",
+    "title": "Evoque Engines - The Complete UK Guide",
     "titleCharCount": 38,
     "description": "",
     "descriptionCharCount": 0,
@@ -22,12 +22,12 @@
   },
   "hero": {
     "tagPill": "Evoque • 2011–Present • 2 Generations • Ingenium, Duratorq, PHEV",
-    "h1": "Evoque Engines — The Complete UK Guide",
-    "subHeadline": "Every generation. Every engine. Every known failure. Every replacement cost — including the timing-chain question that hangs over the used market, answered honestly. Backed by 741+ real UK Evoque enquiries [EM-VERIFIED].",
+    "h1": "Evoque Engines - The Complete UK Guide",
+    "subHeadline": "Every generation. Every engine. Every known failure. Every replacement cost - including the timing-chain question that hangs over the used market, answered honestly. Backed by 741+ real UK Evoque enquiries [EM-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
-        "label": "741+ Enquiries (2025) — #1 Model Family in Our Data"
+        "label": "741+ Enquiries (2025) - #1 Model Family in Our Data"
       },
       {
         "icon": "🔧",
@@ -48,7 +48,7 @@
     }
   },
   "ownershipVerdict": {
-    "h2": "Evoque — The Ownership Verdict",
+    "h2": "Evoque - The Ownership Verdict",
     "metrics": [
       {
         "metric": "Overall Ownership Rating",
@@ -56,11 +56,11 @@
       },
       {
         "metric": "Replacement Economics",
-        "ourCall": "✅/⚠️ Generation-Split — L551s clear our 60% rule easily; the cheapest 2015–2018 L538 diesels sit close to it: a £5,800 worst-case recon against a £7,500 car is 77% ❌"
+        "ourCall": "✅/⚠️ Generation-Split - L551s clear our 60% rule easily; the cheapest 2015–2018 L538 diesels sit close to it: a £5,800 worst-case recon against a £7,500 car is 77% ❌"
       },
       {
         "metric": "Reliability",
-        "ourCall": "★★★☆☆ — the familiar Ingenium arc: caveated pre-2019, genuinely solid after"
+        "ourCall": "★★★☆☆ - the familiar Ingenium arc: caveated pre-2019, genuinely solid after"
       },
       {
         "metric": "Most Reliable Engine",
@@ -72,11 +72,11 @@
       },
       {
         "metric": "Best Used Buy",
-        "ourCall": "2020+ L551 D165 or P200 — post-improvement engines at post-depreciation prices"
+        "ourCall": "2020+ L551 D165 or P200 - post-improvement engines at post-depreciation prices"
       },
       {
         "metric": "Best First Range Rover",
-        "ourCall": "L551 P200 — the lowest-caveat entry into the badge, full stop"
+        "ourCall": "L551 P200 - the lowest-caveat entry into the badge, full stop"
       },
       {
         "metric": "Average Engine Replacement",
@@ -88,10 +88,10 @@
       },
       {
         "metric": "Homepage Ranking",
-        "ourCall": "🥇 #1 Model Family by Enquiry Volume — 741 enquiries (2025) [EM-VERIFIED]"
+        "ourCall": "🥇 #1 Model Family by Enquiry Volume - 741 enquiries (2025) [EM-VERIFIED]"
       }
     ],
-    "oneLineVerdict": "The Evoque is most people's first Range Rover — which is exactly why we're blunt about it: the difference between a great first Range Rover and a cautionary tale is one facelift year and one £250 chain inspection."
+    "oneLineVerdict": "The Evoque is most people's first Range Rover - which is exactly why we're blunt about it: the difference between a great first Range Rover and a cautionary tale is one facelift year and one £250 chain inspection."
   },
   "atAGlance": {
     "h2": "Evoque at a Glance",
@@ -114,7 +114,7 @@
       },
       {
         "metric": "Most Enquired Cohort (2025)",
-        "value": "L551 — 349 enquiries [EM-VERIFIED]"
+        "value": "L551 - 349 enquiries [EM-VERIFIED]"
       },
       {
         "metric": "Most Reliable",
@@ -139,15 +139,15 @@
     ]
   },
   "generations": {
-    "h2": "Evoque Generations — Find Your Vehicle",
-    "subHeadline": "Two generations — and inside the first one, two very different engine eras. Select yours.",
+    "h2": "Evoque Generations - Find Your Vehicle",
+    "subHeadline": "Two generations - and inside the first one, two very different engine eras. Select yours.",
     "cards": [
       {
         "title": "Evoque L538",
         "badge": "",
         "meta": "2011–2018 • 2.2 eD4/TD4/SD4 (224DT), Si4 GTDi, 204DTD (2015+), 204PT (2017+)",
         "rating": "⭐⭐⭐☆☆",
-        "verdict": "The car that made Range Rover a fashion brand. Early 2.2 diesels are honest and well understood; 2015–2018 Ingenium diesels are fine engines wearing the chain question — inspection paperwork decides the deal.",
+        "verdict": "The car that made Range Rover a fashion brand. Early 2.2 diesels are honest and well understood; 2015–2018 Ingenium diesels are fine engines wearing the chain question - inspection paperwork decides the deal.",
         "cta": {
           "label": "Explore the L538 →",
           "href": "#"
@@ -155,10 +155,10 @@
       },
       {
         "title": "Evoque L551",
-        "badge": "🔥 Most Enquired — 349 + 148 PHEV enquiries (2025) [EM-VERIFIED]",
+        "badge": "🔥 Most Enquired - 349 + 148 PHEV enquiries (2025) [EM-VERIFIED]",
         "meta": "2019–present • 204DTD MHEV (D150–D200), 204PT (P200–P300), P300e (AJ20P3)",
         "rating": "⭐⭐⭐⭐☆",
-        "verdict": "The grown-up Evoque — post-improvement Ingenium engines from day one, mild-hybrid drivetrains, and the P300e for urban lives. The lowest-caveat first Range Rover money buys.",
+        "verdict": "The grown-up Evoque - post-improvement Ingenium engines from day one, mild-hybrid drivetrains, and the P300e for urban lives. The lowest-caveat first Range Rover money buys.",
         "cta": {
           "label": "Explore the L551 →",
           "href": "#"
@@ -167,7 +167,7 @@
       {
         "title": "The Line That Matters: 2019",
         "badge": "",
-        "meta": "Every L551 was built after the Ingenium chain-hardware improvements — the caveat that follows the L538's 2015–2018 diesels simply doesn't apply. If you're comparing a £13,000 2017 L538 against a £17,000 2019 L551, the £4,000 gap is buying you more than a newer badge: it's buying out the inspection anxiety entirely.",
+        "meta": "Every L551 was built after the Ingenium chain-hardware improvements - the caveat that follows the L538's 2015–2018 diesels simply doesn't apply. If you're comparing a £13,000 2017 L538 against a £17,000 2019 L551, the £4,000 gap is buying you more than a newer badge: it's buying out the inspection anxiety entirely.",
         "rating": "",
         "verdict": "",
         "cta": {
@@ -187,7 +187,7 @@
     }
   },
   "engineDatabase": {
-    "h2": "Evoque Engine Codes — The Complete Database",
+    "h2": "Evoque Engine Codes - The Complete Database",
     "subHeadline": "",
     "columns": [
       "Engine Code",
@@ -212,7 +212,7 @@
         "model": "L538",
         "reliability": "★★★★☆",
         "enquiries": "within 244 L538 cohort [EM-VERIFIED]",
-        "avgRebuildCost": "£2,800–£4,500 [PLACEHOLDER — confirm vs Table A]"
+        "avgRebuildCost": "£2,800–£4,500 [PLACEHOLDER - confirm vs Table A]"
       },
       {
         "engineCode": "Si4 GTDi",
@@ -223,7 +223,7 @@
         "years": "2011–2017",
         "model": "L538",
         "reliability": "★★★☆☆",
-        "enquiries": "— (pattern data)",
+        "enquiries": "- (pattern data)",
         "avgRebuildCost": "£2,800–£4,500 [PLACEHOLDER]"
       },
       {
@@ -284,12 +284,12 @@
         "model": "L551",
         "reliability": "★★★★☆",
         "enquiries": "148 L551 PHEV cohort [EM-VERIFIED]",
-        "avgRebuildCost": "£3,000–£5,000 [PLACEHOLDER — confirm vs Table A]"
+        "avgRebuildCost": "£3,000–£5,000 [PLACEHOLDER - confirm vs Table A]"
       }
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "204DTD and 204PT ratings: 95% confidence — the deepest evidence base on the site: 1,150 JLR-wide 204DTD enquiries plus 741 model-level Evoque enquiries across three cohorts [EM-VERIFIED]. The P300e's 148-enquiry cohort is the largest PHEV dataset we hold, though the parc is young — rated Provisional-plus. 224DT and Si4: Expert-knowledge tier. Data note (internal): Source sheet corrections: (1) added the Si4 GTDi petrol (2011–2017) the sheet omitted — petrol L538s exist and their owners need a row; (2) 224DT years tightened to 2011–2015 (replaced by Ingenium at the 2015 facelift); (3) added the AJ20P3 P300e as its own engine — the sheet's \"204PT\" grouping would misroute PHEV owners, and the 148-enquiry PHEV cohort [EM-VERIFIED] deserves its own engine page."
+      "text": "204DTD and 204PT ratings: 95% confidence - the deepest evidence base on the site: 1,150 JLR-wide 204DTD enquiries plus 741 model-level Evoque enquiries across three cohorts [EM-VERIFIED]. The P300e's 148-enquiry cohort is the largest PHEV dataset we hold, though the parc is young - rated Provisional-plus. 224DT and Si4: Expert-knowledge tier. Data note (internal): Source sheet corrections: (1) added the Si4 GTDi petrol (2011–2017) the sheet omitted - petrol L538s exist and their owners need a row; (2) 224DT years tightened to 2011–2015 (replaced by Ingenium at the 2015 facelift); (3) added the AJ20P3 P300e as its own engine - the sheet's \"204PT\" grouping would misroute PHEV owners, and the 148-enquiry PHEV cohort [EM-VERIFIED] deserves its own engine page."
     },
     "dataCorrections": []
   },
@@ -335,7 +335,7 @@
       {
         "id": 3,
         "issue": "224DT Injector & DPF Issues",
-        "description": "The early L538 diesel's known weak points — well understood after a decade of Freelander 2 and Evoque service life, and moderately priced to fix.",
+        "description": "The early L538 diesel's known weak points - well understood after a decade of Freelander 2 and Evoque service life, and moderately priced to fix.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -349,7 +349,7 @@
       {
         "id": 4,
         "issue": "204DTD EGR Cooler Failure",
-        "description": "Coolant loss and rough running on higher-mileage Ingenium diesels — repairable if caught before overheating threatens the head.",
+        "description": "Coolant loss and rough running on higher-mileage Ingenium diesels - repairable if caught before overheating threatens the head.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -363,7 +363,7 @@
       {
         "id": 5,
         "issue": "PTU / Rear Drive Unit Wear",
-        "description": "Not an engine failure, but the L538's most common non-engine enquiry — power transfer unit wear presenting as driveline vibration, shared with its Discovery Sport sibling.",
+        "description": "Not an engine failure, but the L538's most common non-engine enquiry - power transfer unit wear presenting as driveline vibration, shared with its Discovery Sport sibling.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -377,7 +377,7 @@
       {
         "id": 6,
         "issue": "Si4 GTDi Timing & Cooling Issues",
-        "description": "The Ford-derived petrol's age-related weak points — a specialist check item on any surviving 2011–2017 petrol L538.",
+        "description": "The Ford-derived petrol's age-related weak points - a specialist check item on any surviving 2011–2017 petrol L538.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -413,16 +413,16 @@
     ]
   },
   "marketIntelligence": {
-    "h2": "Evoque Market Intelligence — What 741 UK Owners Told Us in 2025",
+    "h2": "Evoque Market Intelligence - What 741 UK Owners Told Us in 2025",
     "signals": [
       {
         "signal": "Evoque family total",
-        "data": "741 [EM-VERIFIED] — #1 model family in our dataset",
-        "demandTrend": "⬆ Rising [PLACEHOLDER — YoY % from source data]"
+        "data": "741 [EM-VERIFIED] - #1 model family in our dataset",
+        "demandTrend": "⬆ Rising [PLACEHOLDER - YoY % from source data]"
       },
       {
         "signal": "L551 enquiries",
-        "data": "349 [EM-VERIFIED] — #2 single-model volume",
+        "data": "349 [EM-VERIFIED] - #2 single-model volume",
         "demandTrend": "⬆ Rising as the 2019–2020 parc exits warranty [PLACEHOLDER]"
       },
       {
@@ -432,27 +432,27 @@
       },
       {
         "signal": "L551 PHEV enquiries",
-        "data": "148 [EM-VERIFIED] — the largest PHEV cohort we track",
+        "data": "148 [EM-VERIFIED] - the largest PHEV cohort we track",
         "demandTrend": "⬆ Rising [PLACEHOLDER]"
       }
     ],
     "insights": [
-      "Interesting insight: The Evoque family generates more engine enquiries than any other model line we track — 741 in 2025 [EM-VERIFIED] — yet its typical repair bill is among the smallest. Britain's biggest engine-enquiry model isn't the one with the worst engines; it's the one with the most first-time premium owners meeting their first warning light.",
-      "The 148-enquiry PHEV cohort [EM-VERIFIED] is the earliest large-scale signal anyone in the UK has on plug-in hybrid engine longevity — and so far it skews toward charging and software questions, not mechanical failures. (Editorial synthesis — specialist sense-check before publishing.)",
-      "L538 enquiries cluster on 2015–2017 diesels around 70,000–100,000 miles — the chain-anxiety zone, arriving exactly on schedule. (Editorial synthesis.)"
+      "Interesting insight: The Evoque family generates more engine enquiries than any other model line we track - 741 in 2025 [EM-VERIFIED] - yet its typical repair bill is among the smallest. Britain's biggest engine-enquiry model isn't the one with the worst engines; it's the one with the most first-time premium owners meeting their first warning light.",
+      "The 148-enquiry PHEV cohort [EM-VERIFIED] is the earliest large-scale signal anyone in the UK has on plug-in hybrid engine longevity - and so far it skews toward charging and software questions, not mechanical failures. (Editorial synthesis - specialist sense-check before publishing.)",
+      "L538 enquiries cluster on 2015–2017 diesels around 70,000–100,000 miles - the chain-anxiety zone, arriving exactly on schedule. (Editorial synthesis.)"
     ],
     "liveEnquiryFeedNote": "Live Enquiry Feed module embeds here."
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every Evoque Buyer",
-    "quote": "If you buy one Evoque based on this page, buy a 2020+ L551. And if the budget says 2015–2018 diesel, spend £250 on a chain inspection before you spend £13,000 on the car — it's the best-value insurance in this entire segment."
+    "quote": "If you buy one Evoque based on this page, buy a 2020+ L551. And if the budget says 2015–2018 diesel, spend £250 on a chain inspection before you spend £13,000 on the car - it's the best-value insurance in this entire segment."
   },
   "replacementCosts": {
-    "h2": "Evoque Engine Replacement Costs — By Generation",
+    "h2": "Evoque Engine Replacement Costs - By Generation",
     "subHeadline": "",
     "tables": [
       {
-        "title": "Evoque L538 — 2011–2018",
+        "title": "Evoque L538 - 2011–2018",
         "columns": [
           "Variant",
           "Engine Code",
@@ -497,7 +497,7 @@
         ]
       },
       {
-        "title": "Evoque L551 — 2019–present",
+        "title": "Evoque L551 - 2019–present",
         "columns": [
           "Variant",
           "Engine Code",
@@ -534,15 +534,15 @@
         ]
       }
     ],
-    "figuresNote": "204DTD and 204PT figures [EM-QUOTE]; 224DT, Si4 and AJ20P3 rows [PLACEHOLDER — confirm vs Table A].",
-    "labourEstimate": "10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [EM-QUOTE]. The Evoque rule — the generation split: Every L551 clears our 60% scrap-threshold rule with room to spare — ✅ Safe. The pressure sits on the cheapest L538s: a £5,800 worst-case recon against a £7,500 2015 diesel is 77% — ❌ past the line, and a good used engine (£2,000–£3,500) or walking away becomes the honest answer. On a £12,000+ L538, replacement is back in play. Two model years and £4,000 of value separate 'always fix it' from 'run the maths first.'",
+    "figuresNote": "204DTD and 204PT figures [EM-QUOTE]; 224DT, Si4 and AJ20P3 rows [PLACEHOLDER - confirm vs Table A].",
+    "labourEstimate": "10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [EM-QUOTE]. The Evoque rule - the generation split: Every L551 clears our 60% scrap-threshold rule with room to spare - ✅ Safe. The pressure sits on the cheapest L538s: a £5,800 worst-case recon against a £7,500 2015 diesel is 77% - ❌ past the line, and a good used engine (£2,000–£3,500) or walking away becomes the honest answer. On a £12,000+ L538, replacement is back in play. Two model years and £4,000 of value separate 'always fix it' from 'run the maths first.'",
     "economicsBox": {
       "title": "",
       "text": ""
     }
   },
   "engineEvolution": {
-    "h2": "How the Evoque Engine Range Evolved — 2011 to Today",
+    "h2": "How the Evoque Engine Range Evolved - 2011 to Today",
     "columns": [
       "Era",
       "Years",
@@ -556,20 +556,20 @@
         "years": "2011–2015",
         "keyEngines": "224DT, Si4 GTDi",
         "whyBmwChanged": "The Evoque launched Range Rover into the compact-premium market on proven Ford-era engines",
-        "worthKnowing": "It became JLR's fastest-selling car ever — this parc is why Evoque enquiries lead our data today"
+        "worthKnowing": "It became JLR's fastest-selling car ever - this parc is why Evoque enquiries lead our data today"
       },
       {
         "era": "Ingenium era",
         "years": "2015–2018",
         "keyEngines": "204DTD, 204PT (2017+)",
-        "whyBmwChanged": "The 2015 facelift brought JLR's new in-house engines — and the early chain hardware with them",
+        "whyBmwChanged": "The 2015 facelift brought JLR's new in-house engines - and the early chain hardware with them",
         "worthKnowing": "The 2016–2018 Convertible shares these engines; same advice, fewer roofs"
       },
       {
         "era": "L551 era",
         "years": "2019–present",
         "keyEngines": "204DTD MHEV, 204PT, AJ20P3 P300e",
-        "whyBmwChanged": "A new platform built for electrification — post-improvement engines from day one, PHEV from 2020",
+        "whyBmwChanged": "A new platform built for electrification - post-improvement engines from day one, PHEV from 2020",
         "worthKnowing": "The first Evoque generation with no engine caveat at launch"
       }
     ]
@@ -585,40 +585,40 @@
       {
         "buyerProfile": "First-Time Premium Buyer",
         "rating": "⭐⭐⭐⭐⭐",
-        "verdict": "This is the Evoque's home turf — the most approachable route into the badge, with every known issue documented and priced. Start with a 2020+ P200 and it's a genuinely easy first Range Rover."
+        "verdict": "This is the Evoque's home turf - the most approachable route into the badge, with every known issue documented and priced. Start with a 2020+ P200 and it's a genuinely easy first Range Rover."
       },
       {
         "buyerProfile": "Family Buyer",
         "rating": "⭐⭐⭐☆☆",
-        "verdict": "Stylish and safe, but compact — fine for one child, tight for two with kit. If boot space is a weekly argument, the Discovery Sport is the same money and mechanicals with more car."
+        "verdict": "Stylish and safe, but compact - fine for one child, tight for two with kit. If boot space is a weekly argument, the Discovery Sport is the same money and mechanicals with more car."
       },
       {
         "buyerProfile": "Daily Commuter",
         "rating": "⭐⭐⭐⭐☆",
-        "verdict": "The P300e is the best urban-commuter Range Rover made — 30+ electric miles covers most British commutes. Diesel Evoques belong on motorway commutes only."
+        "verdict": "The P300e is the best urban-commuter Range Rover made - 30+ electric miles covers most British commutes. Diesel Evoques belong on motorway commutes only."
       },
       {
         "buyerProfile": "Towing & Working Use",
         "rating": "⭐⭐☆☆☆",
-        "verdict": "1,600–2,000kg braked — a small trailer, not a caravan habit. Buyers with towing ambitions should read our Discovery Sport page instead."
+        "verdict": "1,600–2,000kg braked - a small trailer, not a caravan habit. Buyers with towing ambitions should read our Discovery Sport page instead."
       },
       {
         "buyerProfile": "Budget Owner",
         "rating": "⭐⭐⭐☆☆",
-        "verdict": "Early 2.2 L538s are honest cheap entries; 2015–2018 Ingenium diesels are the caveat zone — inspection first, always. Never spend recon money on a sub-£8,000 car without running our maths."
+        "verdict": "Early 2.2 L538s are honest cheap entries; 2015–2018 Ingenium diesels are the caveat zone - inspection first, always. Never spend recon money on a sub-£8,000 car without running our maths."
       }
     ]
   },
   "calculatorCta": {
-    "h2": "Can I Repair My Evoque Engine — or Should I Replace It?",
+    "h2": "Can I Repair My Evoque Engine - or Should I Replace It?",
     "intro": "Cold-start rattle? Oil level creeping up the dipstick? Get a personalised repair-vs-replace verdict using real UK cost data.",
     "paths": [
       {
-        "label": "Path 1 — Know your engine? Launch with Evoque pre-selected",
+        "label": "Path 1 - Know your engine? Launch with Evoque pre-selected",
         "href": "/calculator/?model=evoque"
       },
       {
-        "label": "Path 2 — Not sure which engine you have? We'll identify it first.",
+        "label": "Path 2 - Not sure which engine you have? We'll identify it first.",
         "href": "/calculator/identify/?model=evoque"
       }
     ]
@@ -629,7 +629,7 @@
       {
         "icon": "📊",
         "title": "Built on Real Data",
-        "text": "741 Evoque enquiries in 2025 [EM-VERIFIED] — the largest model-family dataset we hold, including the UK's biggest PHEV engine cohort."
+        "text": "741 Evoque enquiries in 2025 [EM-VERIFIED] - the largest model-family dataset we hold, including the UK's biggest PHEV engine cohort."
       },
       {
         "icon": "💚",
@@ -659,27 +659,27 @@
       {
         "id": 2,
         "question": "Which Evoque engine is the most reliable?",
-        "answer": "The 204PT petrol and post-2019 204DTD diesels — the L551 carries the improved Ingenium hardware from day one. Early P300e evidence is strong too, on the largest PHEV dataset in the UK [EM-VERIFIED]."
+        "answer": "The 204PT petrol and post-2019 204DTD diesels - the L551 carries the improved Ingenium hardware from day one. Early P300e evidence is strong too, on the largest PHEV dataset in the UK [EM-VERIFIED]."
       },
       {
         "id": 3,
         "question": "Which Evoque engine should I avoid?",
-        "answer": "None outright — but a 2015–2018 Ingenium diesel without a documented timing-chain inspection is the one purchase we consistently advise against. The engine is fine; the unknown is not."
+        "answer": "None outright - but a 2015–2018 Ingenium diesel without a documented timing-chain inspection is the one purchase we consistently advise against. The engine is fine; the unknown is not."
       },
       {
         "id": 4,
         "question": "Do Evoques have timing chain problems?",
-        "answer": "The 2015–2018 L538 Ingenium diesels carry the known tensioner-wear caveat — cold-start rattle is the warning. Every L551 (2019+) was built after the hardware improvements. This distinction is the single most important fact in the used Evoque market. Hearing the rattle? Use our diagnostic calculator."
+        "answer": "The 2015–2018 L538 Ingenium diesels carry the known tensioner-wear caveat - cold-start rattle is the warning. Every L551 (2019+) was built after the hardware improvements. This distinction is the single most important fact in the used Evoque market. Hearing the rattle? Use our diagnostic calculator."
       },
       {
         "id": 5,
         "question": "Is it worth replacing an Evoque engine?",
-        "answer": "On any L551 — yes, comfortably within our 60% scrap-threshold rule. On L538s it's value-dependent: above ~£10,000, usually yes; on the cheapest cars a used engine (£1,500–£3,500) or walking away is the honest answer. Use the Ownership Decision Tool for your car."
+        "answer": "On any L551 - yes, comfortably within our 60% scrap-threshold rule. On L538s it's value-dependent: above ~£10,000, usually yes; on the cheapest cars a used engine (£1,500–£3,500) or walking away is the honest answer. Use the Ownership Decision Tool for your car."
       },
       {
         "id": 6,
         "question": "Which Evoque should I buy?",
-        "answer": "A 2020-or-later L551 — P200 for town, D180/D200 for motorway miles, P300e for short-run urban lives. Among L538s, an early 2.2 with history or a 2015+ diesel with chain paperwork."
+        "answer": "A 2020-or-later L551 - P200 for town, D180/D200 for motorway miles, P300e for short-run urban lives. Among L538s, an early 2.2 with history or a 2015+ diesel with chain paperwork."
       },
       {
         "id": 7,
@@ -688,8 +688,8 @@
       },
       {
         "id": 8,
-        "question": "Evoque vs Discovery Sport — which is more reliable?",
-        "answer": "Mechanically they're siblings — same platform family, same engines, same pre/post-2019 story. The Discovery Sport adds the 5+2 seats; the Evoque adds the style. Buy on year and history, not badge. Read the full head-to-head →"
+        "question": "Evoque vs Discovery Sport - which is more reliable?",
+        "answer": "Mechanically they're siblings - same platform family, same engines, same pre/post-2019 story. The Discovery Sport adds the 5+2 seats; the Evoque adds the style. Buy on year and history, not badge. Read the full head-to-head →"
       }
     ]
   },

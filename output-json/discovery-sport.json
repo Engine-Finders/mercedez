@@ -1,13 +1,13 @@
 {
   "meta": {
     "slug": "discovery-sport",
-    "title": "Discovery Sport Engine Replacement Cost UK — Compare Quotes",
+    "title": "Discovery Sport Engine Replacement Cost UK - Compare Quotes",
     "titleCharCount": 58,
-    "description": "Every Discovery Sport engine — Ingenium to Duratorq. 1 generation, real UK costs and reliability data. Compare prices from vetted JLR specialists today.",
+    "description": "Every Discovery Sport engine - Ingenium to Duratorq. 1 generation, real UK costs and reliability data. Compare prices from vetted JLR specialists today.",
     "descriptionCharCount": 159,
     "openGraph": {
-      "title": "Discovery Sport Engine Replacement Cost UK — Compare Quotes",
-      "description": "Every Discovery Sport engine — Ingenium to Duratorq. 1 generation, real UK costs and reliability data. Compare prices from vetted JLR specialists today.",
+      "title": "Discovery Sport Engine Replacement Cost UK - Compare Quotes",
+      "description": "Every Discovery Sport engine - Ingenium to Duratorq. 1 generation, real UK costs and reliability data. Compare prices from vetted JLR specialists today.",
       "type": "website",
       "url": "https://landroverengine.uk/discovery-sport/",
       "image": "https://landroverengine.uk/images/discovery-sport-hero.jpg",
@@ -15,8 +15,8 @@
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "Discovery Sport Engine Replacement Cost UK — Compare Quotes",
-      "description": "Every Discovery Sport engine — Ingenium to Duratorq. 1 generation, real UK costs and reliability data. Compare prices from vetted JLR specialists today."
+      "title": "Discovery Sport Engine Replacement Cost UK - Compare Quotes",
+      "description": "Every Discovery Sport engine - Ingenium to Duratorq. 1 generation, real UK costs and reliability data. Compare prices from vetted JLR specialists today."
     },
     "jsonLd": {
       "@context": "https://schema.org",
@@ -116,7 +116,7 @@
               "name": "Which Discovery Sport engine should I avoid?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "No engine outright — but a pre-2019 204DTD diesel without a documented timing-chain inspection is the one purchase we consistently advise against. The engine is fine; the unknown is not."
+                "text": "No engine outright - but a pre-2019 204DTD diesel without a documented timing-chain inspection is the one purchase we consistently advise against. The engine is fine; the unknown is not."
               }
             },
             {
@@ -132,7 +132,7 @@
               "name": "Is it worth replacing a Discovery Sport engine?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Usually yes — £3,500–£5,800 against typical £10,000+ values clears our 60% scrap-threshold rule. The honest exception is the cheapest 2015–2016 cars, where a worst-case quote brushes the threshold. Use the Ownership Decision Tool for your car."
+                "text": "Usually yes - £3,500–£5,800 against typical £10,000+ values clears our 60% scrap-threshold rule. The honest exception is the cheapest 2015–2016 cars, where a worst-case quote brushes the threshold. Use the Ownership Decision Tool for your car."
               }
             },
             {
@@ -153,10 +153,10 @@
             },
             {
               "@type": "Question",
-              "name": "Discovery Sport vs Evoque — which is more reliable?",
+              "name": "Discovery Sport vs Evoque - which is more reliable?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Mechanically they're siblings — same platform family, same Ingenium engines, same pre/post-2019 story. The Discovery Sport adds the 5+2 seats; reliability differences are trim-deep. Buy on year and history, not badge."
+                "text": "Mechanically they're siblings - same platform family, same Ingenium engines, same pre/post-2019 story. The Discovery Sport adds the 5+2 seats; reliability differences are trim-deep. Buy on year and history, not badge."
               }
             }
           ]
@@ -200,7 +200,7 @@
         },
         {
           "@type": "WebPage",
-          "name": "Discovery Sport Engine Replacement Cost UK — Compare Quotes",
+          "name": "Discovery Sport Engine Replacement Cost UK - Compare Quotes",
           "url": "https://landroverengine.uk/discovery-sport/",
           "author": {
             "@type": "Organization",
@@ -218,12 +218,12 @@
   },
   "hero": {
     "tagPill": "Discovery Sport • 2015–Present • 1 Generation (L550) • Ingenium, Duratorq",
-    "h1": "Discovery Sport Engines — The Complete UK Guide",
-    "subHeadline": "Every engine. Every known failure. Every replacement cost. The most-enquired Land Rover in our entire dataset — backed by 362+ real UK Discovery Sport enquiries [EM-VERIFIED].",
+    "h1": "Discovery Sport Engines - The Complete UK Guide",
+    "subHeadline": "Every engine. Every known failure. Every replacement cost. The most-enquired Land Rover in our entire dataset - backed by 362+ real UK Discovery Sport enquiries [EM-VERIFIED].",
     "trustStrip": [
       {
         "icon": "📊",
-        "label": "362+ Enquiries (2025) — #1 Most-Enquired Model"
+        "label": "362+ Enquiries (2025) - #1 Most-Enquired Model"
       },
       {
         "icon": "🔧",
@@ -244,7 +244,7 @@
     }
   },
   "ownershipVerdict": {
-    "h2": "Discovery Sport — The Ownership Verdict",
+    "h2": "Discovery Sport - The Ownership Verdict",
     "metrics": [
       {
         "metric": "Overall Ownership Rating",
@@ -252,11 +252,11 @@
       },
       {
         "metric": "Replacement Economics",
-        "ourCall": "✅ Usually Worth Replacing — £3,500–£5,800 recon [EM-QUOTE] against typical £8,000–£45,000 host values clears our 60% rule on all but the very cheapest early diesels ⚠️"
+        "ourCall": "✅ Usually Worth Replacing - £3,500–£5,800 recon [EM-QUOTE] against typical £8,000–£45,000 host values clears our 60% rule on all but the very cheapest early diesels ⚠️"
       },
       {
         "metric": "Reliability",
-        "ourCall": "★★★☆☆ — one model, two lives: pre-2019 builds carry the Ingenium chain caveat, 2019.5MY+ builds are markedly stronger"
+        "ourCall": "★★★☆☆ - one model, two lives: pre-2019 builds carry the Ingenium chain caveat, 2019.5MY+ builds are markedly stronger"
       },
       {
         "metric": "Most Reliable Engine",
@@ -268,7 +268,7 @@
       },
       {
         "metric": "Best Used Buy",
-        "ourCall": "2020+ D165/D180 MHEV — post-facelift architecture, revised chain hardware"
+        "ourCall": "2020+ D165/D180 MHEV - post-facelift architecture, revised chain hardware"
       },
       {
         "metric": "Best Petrol/Hybrid Buy",
@@ -284,17 +284,17 @@
       },
       {
         "metric": "Homepage Ranking",
-        "ourCall": "📈 Most-Enquired Model in the UK — 362 enquiries (2025) [EM-VERIFIED]"
+        "ourCall": "📈 Most-Enquired Model in the UK - 362 enquiries (2025) [EM-VERIFIED]"
       }
     ],
-    "oneLineVerdict": "The Discovery Sport is Britain's default family Land Rover and the single most-enquired model in our data — not because it's the worst engine, but because there are so many of them and the pre-2019 timing chain question hangs over every used listing."
+    "oneLineVerdict": "The Discovery Sport is Britain's default family Land Rover and the single most-enquired model in our data - not because it's the worst engine, but because there are so many of them and the pre-2019 timing chain question hangs over every used listing."
   },
   "atAGlance": {
     "h2": "Discovery Sport at a Glance",
     "rows": [
       {
         "metric": "Generations",
-        "value": "1 (L550, 2015–present) — major facelift 2019.5MY"
+        "value": "1 (L550, 2015–present) - major facelift 2019.5MY"
       },
       {
         "metric": "Years Produced",
@@ -335,12 +335,12 @@
     ]
   },
   "generations": {
-    "h2": "Discovery Sport — One Generation, Two Lives",
-    "subHeadline": "Every Discovery Sport is an L550 — but a 2016 and a 2021 car are very different ownership propositions.",
+    "h2": "Discovery Sport - One Generation, Two Lives",
+    "subHeadline": "Every Discovery Sport is an L550 - but a 2016 and a 2021 car are very different ownership propositions.",
     "cards": [
       {
         "title": "Discovery Sport (L550)",
-        "badge": "🔥 Most Enquired Model — 362 enquiries (2025) [EM-VERIFIED]",
+        "badge": "🔥 Most Enquired Model - 362 enquiries (2025) [EM-VERIFIED]",
         "meta": "2015–present • 224DT, 204DTD, Si4 GTDi, 204PT, P300e",
         "rating": "⭐⭐⭐½",
         "verdict": "Buy on the facelift line, not the badge. 2019.5MY brought the revised architecture, mild-hybrid drivetrains and the improved chain hardware that changed this model's reliability story.",
@@ -351,7 +351,7 @@
       }
     ],
     "rangeTable": {
-      "title": "Pre-Facelift vs Post-Facelift — The Line That Matters",
+      "title": "Pre-Facelift vs Post-Facelift - The Line That Matters",
       "columns": [
         "Aspect",
         "2015–2019 (pre-facelift)",
@@ -360,8 +360,8 @@
       "rows": [
         {
           "model": "Core diesel",
-          "engineCode": "204DTD TD4/SD4 — chain tensioner caveat",
-          "power": "204DTD D150–D200 MHEV — revised hardware",
+          "engineCode": "204DTD TD4/SD4 - chain tensioner caveat",
+          "power": "204DTD D150–D200 MHEV - revised hardware",
           "induction": "",
           "years": "",
           "notes": ""
@@ -377,7 +377,7 @@
         {
           "model": "Platform",
           "engineCode": "Original L550 architecture",
-          "power": "PTA update — stiffer, hybrid-ready",
+          "power": "PTA update - stiffer, hybrid-ready",
           "induction": "",
           "years": "",
           "notes": ""
@@ -398,7 +398,7 @@
     }
   },
   "engineDatabase": {
-    "h2": "Discovery Sport Engine Codes — The Complete Database",
+    "h2": "Discovery Sport Engine Codes - The Complete Database",
     "subHeadline": "",
     "columns": [
       "Engine Code",
@@ -421,8 +421,8 @@
         "years": "2015–2016",
         "model": "",
         "reliability": "★★★☆☆",
-        "enquiries": "— (pattern data)",
-        "avgRebuildCost": "£2,800–£4,500 [PLACEHOLDER — confirm vs Table A]"
+        "enquiries": "- (pattern data)",
+        "avgRebuildCost": "£2,800–£4,500 [PLACEHOLDER - confirm vs Table A]"
       },
       {
         "engineCode": "204DTD",
@@ -445,8 +445,8 @@
         "years": "2015–2017",
         "model": "",
         "reliability": "★★★☆☆",
-        "enquiries": "— (pattern data)",
-        "avgRebuildCost": "£2,800–£4,500 [PLACEHOLDER — confirm vs Table A]"
+        "enquiries": "- (pattern data)",
+        "avgRebuildCost": "£2,800–£4,500 [PLACEHOLDER - confirm vs Table A]"
       },
       {
         "engineCode": "204PT",
@@ -469,13 +469,13 @@
         "years": "2020–present",
         "model": "",
         "reliability": "★★★★☆",
-        "enquiries": "— (pattern data — young parc)",
-        "avgRebuildCost": "£3,000–£5,000 [PLACEHOLDER — confirm vs Table A]"
+        "enquiries": "- (pattern data - young parc)",
+        "avgRebuildCost": "£3,000–£5,000 [PLACEHOLDER - confirm vs Table A]"
       }
     ],
     "confidenceScore": {
       "title": "How confident are these ratings?",
-      "text": "204DTD rating: 95% confidence — the single most-enquired engine in our dataset (1,150 JLR-wide) plus 362 model-level L550 enquiries [EM-VERIFIED]. The split rating (pre/post-2019) reflects a genuine hardware change, not opinion. 224DT, Si4 and P300e: Expert-knowledge tier — documented patterns and specialist reports; the P300e parc is simply too young for volume data. Data note (internal): Correction applied: the source data sheet omitted the Ford-derived Si4 GTDi petrol (2015–2017, pre-Ingenium) — added as pattern data so early petrol owners aren't orphaned. 224DT years corrected to 2015–2016 (launch engine, replaced by Ingenium within the first year); the sheet's \"2.2 Duratorq\" listing implied longer availability."
+      "text": "204DTD rating: 95% confidence - the single most-enquired engine in our dataset (1,150 JLR-wide) plus 362 model-level L550 enquiries [EM-VERIFIED]. The split rating (pre/post-2019) reflects a genuine hardware change, not opinion. 224DT, Si4 and P300e: Expert-knowledge tier - documented patterns and specialist reports; the P300e parc is simply too young for volume data. Data note (internal): Correction applied: the source data sheet omitted the Ford-derived Si4 GTDi petrol (2015–2017, pre-Ingenium) - added as pattern data so early petrol owners aren't orphaned. 224DT years corrected to 2015–2016 (launch engine, replaced by Ingenium within the first year); the sheet's \"2.2 Duratorq\" listing implied longer availability."
     },
     "dataCorrections": []
   },
@@ -549,7 +549,7 @@
       {
         "id": 5,
         "issue": "PTU / Rear Drive Unit Failure",
-        "description": "Not an engine failure, but the most common non-engine enquiry on the L550 — power transfer unit wear on pre-facelift cars, often misdiagnosed as driveline vibration.",
+        "description": "Not an engine failure, but the most common non-engine enquiry on the L550 - power transfer unit wear on pre-facelift cars, often misdiagnosed as driveline vibration.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -563,7 +563,7 @@
       {
         "id": 6,
         "issue": "Si4 GTDi Timing & Cooling Issues",
-        "description": "The Ford-derived petrol's age-related weak points — worth a specialist check on any surviving 2015–2017 petrol car.",
+        "description": "The Ford-derived petrol's age-related weak points - worth a specialist check on any surviving 2015–2017 petrol car.",
         "severity": {
           "icon": "🟡",
           "label": "Monitor",
@@ -599,41 +599,41 @@
     ]
   },
   "marketIntelligence": {
-    "h2": "Discovery Sport Market Intelligence — What 362 UK Owners Told Us in 2025",
+    "h2": "Discovery Sport Market Intelligence - What 362 UK Owners Told Us in 2025",
     "signals": [
       {
         "signal": "Discovery Sport (L550) enquiries",
-        "data": "362 [EM-VERIFIED] — #1 most-enquired model in our dataset",
-        "demandTrend": "⬆ Rising [PLACEHOLDER — YoY % from source data]"
+        "data": "362 [EM-VERIFIED] - #1 most-enquired model in our dataset",
+        "demandTrend": "⬆ Rising [PLACEHOLDER - YoY % from source data]"
       },
       {
         "signal": "204DTD enquiries (JLR-wide)",
         "data": "1,150 [EM-VERIFIED]",
-        "demandTrend": "⬆ Rising [PLACEHOLDER — YoY %]"
+        "demandTrend": "⬆ Rising [PLACEHOLDER - YoY %]"
       },
       {
         "signal": "204PT enquiries (JLR-wide)",
         "data": "480 [EM-VERIFIED]",
-        "demandTrend": "➡ Stable [PLACEHOLDER — YoY %]"
+        "demandTrend": "➡ Stable [PLACEHOLDER - YoY %]"
       }
     ],
     "insights": [
-      "Interesting insight: The Discovery Sport generates more engine enquiries than any other single Land Rover — more than models costing three times as much. Volume of cars on UK roads plus the pre-2019 chain question is a demand engine nobody else can measure.",
-      "L550 enquiries skew heavily toward the 2015–2018 diesel parc now exiting affordable-warranty age — the exact cars where a £4,000+ engine decision meets a £10,000–£14,000 vehicle. (Editorial synthesis — specialist sense-check before publishing.)",
-      "Petrol and PHEV enquiry volume remains minimal — consistent with the smaller petrol parc, not evidence of superior reliability alone. (Editorial synthesis.)"
+      "Interesting insight: The Discovery Sport generates more engine enquiries than any other single Land Rover - more than models costing three times as much. Volume of cars on UK roads plus the pre-2019 chain question is a demand engine nobody else can measure.",
+      "L550 enquiries skew heavily toward the 2015–2018 diesel parc now exiting affordable-warranty age - the exact cars where a £4,000+ engine decision meets a £10,000–£14,000 vehicle. (Editorial synthesis - specialist sense-check before publishing.)",
+      "Petrol and PHEV enquiry volume remains minimal - consistent with the smaller petrol parc, not evidence of superior reliability alone. (Editorial synthesis.)"
     ],
     "liveEnquiryFeedNote": "Live Enquiry Feed module embeds here."
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every Discovery Sport Buyer",
-    "quote": "If you buy one Discovery Sport based on this page, buy a 2020-or-later car. The 2019.5 facelift is the dividing line between this model's two reliability lives — and on a pre-facelift diesel, a documented timing-chain inspection is worth more than any service stamp."
+    "quote": "If you buy one Discovery Sport based on this page, buy a 2020-or-later car. The 2019.5 facelift is the dividing line between this model's two reliability lives - and on a pre-facelift diesel, a documented timing-chain inspection is worth more than any service stamp."
   },
   "replacementCosts": {
     "h2": "Discovery Sport Engine Replacement Costs",
-    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt engines — supply only, with labour guidance.",
+    "subHeadline": "Real UK pricing for used, reconditioned and rebuilt engines - supply only, with labour guidance.",
     "tables": [
       {
-        "title": "Discovery Sport (L550) — 2015–2019 (pre-facelift)",
+        "title": "Discovery Sport (L550) - 2015–2019 (pre-facelift)",
         "columns": [
           "Variant",
           "Engine Code",
@@ -670,7 +670,7 @@
         ]
       },
       {
-        "title": "Discovery Sport (L550) — 2019.5MY–present (facelift)",
+        "title": "Discovery Sport (L550) - 2019.5MY–present (facelift)",
         "columns": [
           "Variant",
           "Engine Code",
@@ -707,15 +707,15 @@
         ]
       }
     ],
-    "figuresNote": "204DTD and 204PT figures [EM-QUOTE]; 224DT, Si4 and P300e [PLACEHOLDER — confirm vs Table A].",
+    "figuresNote": "204DTD and 204PT figures [EM-QUOTE]; 224DT, Si4 and P300e [PLACEHOLDER - confirm vs Table A].",
     "labourEstimate": "Fitting a Discovery Sport engine typically takes 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [EM-QUOTE].",
     "economicsBox": {
       "title": "The Discovery Sport rule",
-      "text": "A £3,500–£5,800 recon against a £10,000+ car clears our 60% scrap-threshold rule comfortably — replacement is ✅ usually safe. The exception is the cheapest 2015–2016 diesels now trading at £7,000–£9,000: there, a top-end recon quote brushes the threshold, and a chain-damaged engine on a tired car is where we'll honestly tell you to walk away."
+      "text": "A £3,500–£5,800 recon against a £10,000+ car clears our 60% scrap-threshold rule comfortably - replacement is ✅ usually safe. The exception is the cheapest 2015–2016 diesels now trading at £7,000–£9,000: there, a top-end recon quote brushes the threshold, and a chain-damaged engine on a tired car is where we'll honestly tell you to walk away."
     }
   },
   "engineEvolution": {
-    "h2": "How the Discovery Sport Engine Range Evolved — 2015 to Today",
+    "h2": "How the Discovery Sport Engine Range Evolved - 2015 to Today",
     "columns": [
       "Era",
       "Years",
@@ -728,22 +728,22 @@
         "era": "Launch era",
         "years": "2015",
         "keyEngines": "224DT, Si4 GTDi",
-        "whyBmwChanged": "The Freelander's replacement launched on borrowed engines — Ford-derived diesel and petrol as a bridge",
+        "whyBmwChanged": "The Freelander's replacement launched on borrowed engines - Ford-derived diesel and petrol as a bridge",
         "worthKnowing": "The 2.2 lasted barely a year in the range; survivors are now the cheapest Discovery Sports on sale"
       },
       {
         "era": "Ingenium era",
         "years": "2015–2019",
         "keyEngines": "204DTD, 204PT (2017+)",
-        "whyBmwChanged": "JLR's first in-house modular engine family arrived here first — the Discovery Sport was Ingenium's proving ground",
+        "whyBmwChanged": "JLR's first in-house modular engine family arrived here first - the Discovery Sport was Ingenium's proving ground",
         "worthKnowing": "Being first meant inheriting the early chain-tensioner hardware; this era defines the model's used-market reputation"
       },
       {
         "era": "Facelift / MHEV era",
         "years": "2019.5–present",
         "keyEngines": "204DTD MHEV, 204PT, AJ20P3 P300e",
-        "whyBmwChanged": "Emissions targets drove electrification — mild-hybrid diesels, then the three-cylinder PHEV",
-        "worthKnowing": "The same facelift quietly brought the revised chain hardware — the reliability story changed more than the styling did"
+        "whyBmwChanged": "Emissions targets drove electrification - mild-hybrid diesels, then the three-cylinder PHEV",
+        "worthKnowing": "The same facelift quietly brought the revised chain hardware - the reliability story changed more than the styling did"
       }
     ]
   },
@@ -758,7 +758,7 @@
       {
         "buyerProfile": "Family Buyer",
         "rating": "⭐⭐⭐⭐☆",
-        "verdict": "The affordable 5+2-seat Land Rover — exactly what it was built for. 2020+ D165/D180 is the family sweet spot."
+        "verdict": "The affordable 5+2-seat Land Rover - exactly what it was built for. 2020+ D165/D180 is the family sweet spot."
       },
       {
         "buyerProfile": "Daily Commuter",
@@ -768,7 +768,7 @@
       {
         "buyerProfile": "Towing & Working Use",
         "rating": "⭐⭐⭐☆☆",
-        "verdict": "2,000–2,500kg capacity — fine for trailers and small caravans, but this is the point in the range where the full-size Discovery earns its money."
+        "verdict": "2,000–2,500kg capacity - fine for trailers and small caravans, but this is the point in the range where the full-size Discovery earns its money."
       },
       {
         "buyerProfile": "Budget Owner",
@@ -778,20 +778,20 @@
       {
         "buyerProfile": "First-Time Land Rover Buyer",
         "rating": "⭐⭐⭐⭐☆",
-        "verdict": "The gateway model — approachable costs, huge specialist coverage, and every mistake already documented. Start post-facelift and it's a genuinely easy ownership entry."
+        "verdict": "The gateway model - approachable costs, huge specialist coverage, and every mistake already documented. Start post-facelift and it's a genuinely easy ownership entry."
       }
     ]
   },
   "calculatorCta": {
-    "h2": "Can I Repair My Discovery Sport Engine — or Should I Replace It?",
+    "h2": "Can I Repair My Discovery Sport Engine - or Should I Replace It?",
     "intro": "Cold-start rattle? Oil level rising on the dipstick? Get a personalised repair-vs-replace verdict using real UK cost data.",
     "paths": [
       {
-        "label": "Path 1 — Know your engine? Launch with Discovery Sport pre-selected",
+        "label": "Path 1 - Know your engine? Launch with Discovery Sport pre-selected",
         "href": "/calculator/?model=discovery-sport"
       },
       {
-        "label": "Path 2 — Not sure which engine you have? We'll identify it first",
+        "label": "Path 2 - Not sure which engine you have? We'll identify it first",
         "href": "/calculator/identify/?model=discovery-sport"
       }
     ]
@@ -802,7 +802,7 @@
       {
         "icon": "📊",
         "title": "Built on Real Data",
-        "text": "362 Discovery Sport enquiries in 2025 alone [EM-VERIFIED] — the highest model-level volume in our dataset. Nobody has seen more UK Discovery Sport engine decisions."
+        "text": "362 Discovery Sport enquiries in 2025 alone [EM-VERIFIED] - the highest model-level volume in our dataset. Nobody has seen more UK Discovery Sport engine decisions."
       },
       {
         "icon": "💚",
@@ -837,7 +837,7 @@
       {
         "id": 3,
         "question": "Which Discovery Sport engine should I avoid?",
-        "answer": "No engine outright — but a pre-2019 204DTD diesel without a documented timing-chain inspection is the one purchase we consistently advise against. The engine is fine; the unknown is not."
+        "answer": "No engine outright - but a pre-2019 204DTD diesel without a documented timing-chain inspection is the one purchase we consistently advise against. The engine is fine; the unknown is not."
       },
       {
         "id": 4,
@@ -847,7 +847,7 @@
       {
         "id": 5,
         "question": "Is it worth replacing a Discovery Sport engine?",
-        "answer": "Usually yes — £3,500–£5,800 against typical £10,000+ values clears our 60% scrap-threshold rule. The honest exception is the cheapest 2015–2016 cars, where a worst-case quote brushes the threshold. Use the Ownership Decision Tool for your car."
+        "answer": "Usually yes - £3,500–£5,800 against typical £10,000+ values clears our 60% scrap-threshold rule. The honest exception is the cheapest 2015–2016 cars, where a worst-case quote brushes the threshold. Use the Ownership Decision Tool for your car."
       },
       {
         "id": 6,
@@ -861,8 +861,8 @@
       },
       {
         "id": 8,
-        "question": "Discovery Sport vs Evoque — which is more reliable?",
-        "answer": "Mechanically they're siblings — same platform family, same Ingenium engines, same pre/post-2019 story. The Discovery Sport adds the 5+2 seats; reliability differences are trim-deep. Buy on year and history, not badge. Read the full head-to-head →"
+        "question": "Discovery Sport vs Evoque - which is more reliable?",
+        "answer": "Mechanically they're siblings - same platform family, same Ingenium engines, same pre/post-2019 story. The Discovery Sport adds the 5+2 seats; reliability differences are trim-deep. Buy on year and history, not badge. Read the full head-to-head →"
       }
     ]
   },

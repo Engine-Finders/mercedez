@@ -43,10 +43,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`h-full ${lora.variable}`}>
-      <body className="min-h-full flex flex-col bg-white text-black antialiased">
+      <body className="flex min-h-full flex-col bg-[var(--color-page)] text-[var(--color-text)] antialiased">
         <ThemeProvider>
           <Navbar />
-          <div className="flex-1">{children}</div>
+          <div className="flex-1 bg-[var(--color-page)]">{children}</div>
           <Footer />
         </ThemeProvider>
       </body>

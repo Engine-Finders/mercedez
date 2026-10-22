@@ -179,18 +179,7 @@ export default async function CatchAllPage({ params }) {
 
   if (type === "models") {
     return (
-      <main
-        style={{
-          padding: "8px 4px",
-          width: "100%",
-          maxWidth: "88rem",
-          margin: "0 auto",
-          lineHeight: 1.5,
-          display: "flex",
-          flexDirection: "column",
-          
-        }}
-      >
+      <main className="flex w-full flex-col bg-[var(--color-page)]">
         {data.meta?.jsonLd && (
           <script
             type="application/ld+json"

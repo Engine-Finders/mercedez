@@ -2,9 +2,23 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import HomeIcon from "@/components/home/homeIcons";
+import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import { sectionDescription } from "@/components/models/sectionTypography";
+
+const STAT_ICON_MAP = {
+  cube: "database",
+  shield: "shield",
+  chart: "chart",
+  pound: "pound",
+  database: "database",
+  search: "insight",
+  file: "note",
+  droplet: "fuel",
+  arrow: "trend",
+  reset: "refresh",
+};
 
 const defaultFilters = {
   query: "",
@@ -67,32 +81,17 @@ function shortTitle(title = "") {
     .replace("The Complete Database", "The Database");
 }
 
-function statIcon(type) {
-  const paths = {
-    cube: <path d="m12 3 8 4.5v9L12 21l-8-4.5v-9L12 3Zm0 9 8-4.5M12 12 4 7.5M12 12v9" />,
-    shield: <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />,
-    chart: <path d="M5 19V9m5 10V5m5 14v-7m5 7H3" />,
-    pound: <path d="M17 6.5A5 5 0 0 0 8 9v8m-3 0h10M6 13h7" />,
-    database: <path d="M5 6c0-1.7 3.1-3 7-3s7 1.3 7 3-3.1 3-7 3-7-1.3-7-3Zm0 0v12c0 1.7 3.1 3 7 3s7-1.3 7-3V6M5 12c0 1.7 3.1 3 7 3s7-1.3 7-3" />,
-    search: <path d="m21 21-4.3-4.3M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z" />,
-    file: <path d="M7 3h8l4 4v14H7V3Zm8 0v5h5M10 13h6m-6 4h6" />,
-    droplet: <path d="M12 3s5 5.2 5 9a5 5 0 0 1-10 0c0-3.8 5-9 5-9Z" />,
-    arrow: <path d="M5 12h14m-6-6 6 6-6 6" />,
-    reset: <path d="M20 12a8 8 0 1 1-2.3-5.7M20 4v6h-6" />,
-  };
-
-  return (
-    <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
-      {paths[type] || paths.cube}
-    </svg>
-  );
+function StatIcon({ type, isDark, className = "h-5 w-5" }) {
+  return <HomeIcon name={STAT_ICON_MAP[type] || "database"} isDark={isDark} gold className={`${className} object-contain`} />;
 }
 
-function StatCard({ icon, value, label }) {
+function StatCard({ icon, value, label, isDark }) {
   return (
     <div className="min-h-[98px] rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-5 shadow-[0_8px_22px_var(--color-shadow)]">
       <div className="flex items-center gap-4">
-        <span className="shrink-0 text-[var(--color-primary)]">{statIcon(icon)}</span>
+        <span className="shrink-0">
+          <StatIcon type={icon} isDark={isDark} className="h-6 w-6" />
+        </span>
         <strong className="text-[1.05rem] leading-none text-[var(--color-text)]">{cleanText(value)}</strong>
       </div>
       <p className="mt-3 text-[13px] leading-[1.45] text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: label }} />
@@ -112,7 +111,7 @@ function Rating({ value }) {
   return (
     <span className="inline-flex gap-0.5 text-[15px] leading-none">
       {stars.map((state, index) => (
-        <span key={index} className={state === "empty" ? "text-[#cfd5dd]" : "text-[var(--color-primary)]"}>
+        <span key={index} className={state === "empty" ? "text-[#cfd5dd]" : ""} style={state !== "empty" ? { color: GOLD } : undefined}>
           {state === "half" ? "\u00bd" : "\u2605"}
         </span>
       ))}
@@ -131,10 +130,6 @@ function enquiryNumber(value = "") {
   if (!/^\d/.test(clean)) return 0;
   const match = clean.match(/^\d[\d,]*/);
   return match ? Number(match[0].replaceAll(",", "")) : 0;
-}
-
-function fuelColor(fuel = "") {
-  return cleanText(fuel).toLowerCase().includes("diesel") ? "text-[var(--color-text)]" : "text-green-700";
 }
 
 function uniqueOptions(values) {
@@ -225,7 +220,7 @@ function DesktopTable({ engines }) {
     <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)]">
       <table className="w-full border-collapse text-left text-[13px] text-[var(--color-text)]">
         <thead>
-          <tr className="bg-[var(--color-page-soft)]">
+          <tr style={{ backgroundColor: "rgba(171,132,80,0.14)" }}>
             {["Engine Code", "Family", "Fuel", "Disp.", "Power", "Years", "Gen.", "Reliability", "2025 Enquiries", "Avg. Recon Cost"].map((column) => (
               <th key={column} className="border-b border-r border-[var(--color-border)] px-3 py-3 text-center text-[13px] font-bold last:border-r-0">
                 {column}
@@ -254,14 +249,14 @@ function DesktopTable({ engines }) {
   );
 }
 
-function MobileControls({ filters, options, onChange, onReset }) {
+function MobileControls({ filters, options, onChange, onReset, isDark }) {
   const selectClass = "min-h-12 w-full rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 text-[15px] text-[var(--color-text)]";
   const updateQuery = (event) => onChange({ query: event.currentTarget.value });
 
   return (
     <div className="space-y-3">
       <label className="flex min-h-14 items-center gap-3 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 text-[15px] text-[var(--color-text-soft)]">
-        <span className="text-[var(--color-text)]">{statIcon("search")}</span>
+        <StatIcon type="search" isDark={isDark} />
         <input
           type="search"
           data-filter="query"
@@ -292,17 +287,17 @@ function MobileControls({ filters, options, onChange, onReset }) {
         </select>
       </div>
       <button type="button" data-filter-reset onClick={onReset} className="flex min-h-12 w-full items-center justify-center gap-3 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[15px] text-[var(--color-text)]">
-        <span className="text-[var(--color-primary)]">{statIcon("reset")}</span>
+        <StatIcon type="reset" isDark={isDark} />
         Reset filters
       </button>
     </div>
   );
 }
 
-function MobileTable({ engines }) {
+function MobileTable({ engines, isDark }) {
   return (
     <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[15px]">
-      <div className="grid grid-cols-[1.2fr_0.9fr_1fr_44px] bg-[var(--color-primary)] px-3 py-3 text-[15px] font-bold uppercase text-white">
+      <div className="grid grid-cols-[1.2fr_0.9fr_1fr_44px] px-3 py-3 text-[15px] font-bold uppercase text-white" style={{ backgroundColor: GOLD }}>
         <span>Engine Code</span>
         <span>Fuel</span>
         <span>2025 Enquiries</span>
@@ -338,13 +333,13 @@ function MobileTable({ engines }) {
             hidden={index >= 9}
             className="grid grid-cols-[1.2fr_0.9fr_1fr_44px] items-center border-t border-[var(--color-border)] px-3 py-3"
           >
-            <span className="font-bold text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: cleanText(row.engineCode) }} />
+            <span className="font-bold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(row.engineCode) }} />
             <span className="flex items-center gap-2">
-              <span className={fuelColor(row.fuel)}>{statIcon("droplet")}</span>
+              <StatIcon type="droplet" isDark={isDark} className="h-4 w-4" />
               <span dangerouslySetInnerHTML={{ __html: cleanText(row.fuel) }} />
             </span>
-            <span className="font-bold text-[var(--color-primary)]">{enquiries ? enquiries.toLocaleString("en-GB") : "-"}</span>
-            <Link href="#" className="text-[var(--color-primary)]">{statIcon("arrow")}</Link>
+            <span className="font-bold" style={{ color: GOLD }}>{enquiries ? enquiries.toLocaleString("en-GB") : "-"}</span>
+            <Link href="#" style={{ color: GOLD }}><StatIcon type="arrow" isDark={isDark} className="h-4 w-4" /></Link>
           </div>
         );
       })}
@@ -401,6 +396,7 @@ export default function EngineDatabase({ data }) {
 
   if (!data) return null;
 
+  const isDark = theme === "dark";
   const title = splitTitle(data.h2);
   const shownDesktopCount = Math.min(10, engines.length);
   const totalEngineCount = engines.length;
@@ -410,96 +406,137 @@ export default function EngineDatabase({ data }) {
   }
 
   return (
-    <section id="engine-database" data-engine-database data-theme-mode={theme} className="bg-[var(--color-page)] py-6 text-[var(--color-text)]">
-      <div className="hidden md:block">
-        <div>
+    <section id="engine-database" data-engine-database data-theme-mode={theme} className={`py-6 text-[var(--color-text)] ${homeSectionBg(isDark, 5)}`}>
+      <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
+        <div className="hidden md:block">
           <div>
-            <h2 className="max-w-[650px] text-[27px] font-bold tracking-normal md:text-[39px]">
+            <h2 className={`font-lora max-w-[650px] text-[27px] font-medium tracking-normal md:text-[39px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               <span dangerouslySetInnerHTML={{ __html: title.main }} />
               {title.accent ? (
                 <>
                   <br />
-                  <span className="text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: title.accent }} />
+                  <span style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: title.accent }} />
                 </>
               ) : null}
             </h2>
             <div className="mt-2">
-              <MStripe />
+              <SectionFadeStrip isDark={isDark} />
             </div>
-            {data.subHeadline ? <p className="mt-2 max-w-[610px] text-[14px] leading-[1.45] text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} /> : null}
+            {data.subHeadline ? (
+              <p className="mt-2 max-w-[610px] text-[14px] leading-[1.45] text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} />
+            ) : null}
           </div>
 
-        </div>
+          <div className="mt-5">
+            <DesktopTable engines={engines} />
+          </div>
 
-        <div className="mt-5">
-          <DesktopTable engines={engines} />
-        </div>
+          <div className="mt-3 flex items-center justify-between gap-4">
+            <button
+              type="button"
+              className="flex min-h-11 min-w-[280px] items-center justify-between rounded-md border border-[var(--color-border)] px-5 text-[14px] font-medium transition-all duration-200 hover:opacity-90"
+              style={{ color: GOLD }}
+            >
+              <span className="flex items-center gap-3">
+                <StatIcon type="file" isDark={isDark} /> View all {totalEngineCount} engine codes
+              </span>
+              <span>v</span>
+            </button>
+            <p className="mr-auto border-l border-[var(--color-border)] pl-7 text-[12px] text-[var(--color-text-muted)]">
+              Showing {shownDesktopCount} of {totalEngineCount} engine codes
+            </p>
+            <div className="flex items-center gap-5 rounded-md border border-[var(--color-border)] px-5 py-3 text-[13px]">
+              <span>
+                <Rating value="★☆☆☆☆" /> Poor
+              </span>
+              <span>
+                <Rating value="★★★☆☆" /> Average
+              </span>
+              <span>
+                <Rating value="★★★★☆" /> Good
+              </span>
+              <span>
+                <Rating value="★★★★★" /> Excellent
+              </span>
+            </div>
+          </div>
 
-        <div className="mt-3 flex items-center justify-between gap-4">
-          <button type="button" className="flex min-h-11 min-w-[280px] items-center justify-between rounded-md border border-[var(--color-border)] px-5 text-[14px] font-medium text-[var(--color-primary)] transition-all duration-200 hover:text-black hover:shadow-[0_12px_24px_rgba(0,0,0,0.14)]">
-            <span className="flex items-center gap-3">{statIcon("file")} View all {totalEngineCount} engine codes</span>
-            <span>v</span>
-          </button>
-          <p className="mr-auto border-l border-[var(--color-border)] pl-7 text-[12px] text-[var(--color-text-muted)]">Showing {shownDesktopCount} of {totalEngineCount} engine codes</p>
-          <div className="flex items-center gap-5 rounded-md border border-[var(--color-border)] px-5 py-3 text-[13px]">
-            <span><Rating value="★☆☆☆☆" /> Poor</span>
-            <span><Rating value="★★★☆☆" /> Average</span>
-            <span><Rating value="★★★★☆" /> Good</span>
-            <span><Rating value="★★★★★" /> Excellent</span>
+          <div className="mt-3 flex items-center justify-between rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 py-3 text-[12px] text-[var(--color-text-muted)]">
+            <p className="flex items-center gap-3">
+              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#F5EAD4] font-bold" style={{ color: GOLD }}>
+                i
+              </span>
+              All enquiries are from 2025 (to date) and verified via our internal system. Recon costs are supply only and exclude fitting.
+            </p>
+            <Link href="#" className="flex items-center gap-2 font-bold transition-all duration-200 hover:opacity-90" style={{ color: GOLD }}>
+              How we collect engine data <StatIcon type="arrow" isDark={isDark} className="h-4 w-4" />
+            </Link>
           </div>
         </div>
 
-        <div className="mt-3 flex items-center justify-between rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 py-3 text-[12px] text-[var(--color-text-muted)]">
-          <p className="flex items-center gap-3">
-            <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[var(--color-primary-soft)] font-bold text-[var(--color-primary)]">i</span>
-            All enquiries are from 2025 (to date) and verified via our internal system. Recon costs are supply only and exclude fitting.
+        <div className="md:hidden">
+          <h2 className={`font-lora text-[2rem] font-medium leading-[1.08] tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <span dangerouslySetInnerHTML={{ __html: shortTitle(data.h2).replace("Engine Codes - The Database", "Engine Codes -") }} />
+            <br />
+            <span style={{ color: GOLD }}>The Database</span>
+          </h2>
+          <div className="mt-3">
+            <SectionFadeStrip isDark={isDark} />
+          </div>
+          <p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
+            {cleanText(data.subHeadline) || "The complete engine-code database with real UK enquiry data, fitted models, and replacement cost insights."}
           </p>
-          <Link href="#" className="flex items-center gap-2 font-bold text-[var(--color-primary)] transition-all duration-200 hover:text-black hover:shadow-[0_12px_24px_rgba(0,0,0,0.14)]">How we collect engine data {statIcon("arrow")}</Link>
-        </div>
-      </div>
 
-      <div className="md:hidden">
-        <h2 className="text-[2rem] font-bold leading-[1.08] tracking-normal">
-          <span dangerouslySetInnerHTML={{ __html: shortTitle(data.h2).replace("Engine Codes - The Database", "Engine Codes -") }} />
-          <br />
-          <span className="text-[var(--color-primary)]">The Database</span>
-        </h2>
-        <div className="mt-3">
-          <MStripe />
-        </div>
-        <p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
-          The complete database of BMW 3 Series engine codes with real UK enquiry data, fitted models, and replacement cost insights.
-        </p>
-
-        <div className="mt-6 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-4">
-          <div className="flex items-center gap-2.5">
-            <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-md bg-[var(--color-primary-soft)] text-[var(--color-primary)]">{statIcon("database")}</span>
-            <h3 className="flex-1 text-left text-[28px] font-bold leading-[1.1] md:text-[50px]">Proprietary UK Data</h3>
+          <div className="mt-6 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-4">
+            <div className="flex items-center gap-2.5">
+              <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-md bg-[#F5EAD4]">
+                <StatIcon type="database" isDark={isDark} className="h-7 w-7" />
+              </span>
+              <h3 className="flex-1 text-left text-[28px] font-bold leading-[1.1]">Proprietary UK Data</h3>
+            </div>
+            <p className="mt-3 text-center text-[14px] leading-[1.5]">
+              Every figure below is powered by real UK owner enquiries in 2025. This is data you won&apos;t find anywhere else.
+            </p>
           </div>
-          <p className="mt-3 text-center text-[14px] leading-[1.5]">
-            Every figure below is powered by 24,650+ real UK owner enquiries in 2025. This is data you won&apos;t find anywhere else.
-          </p>
-        </div>
 
-        <div className="mt-5">
-          <MobileControls
-            filters={filters}
-            options={mobileOptions}
-            onChange={updateFilters}
-            onReset={() => setFilters(defaultFilters)}
-          />
-        </div>
+          <div className="mt-5">
+            <MobileControls filters={filters} options={mobileOptions} onChange={updateFilters} onReset={() => setFilters(defaultFilters)} isDark={isDark} />
+          </div>
 
-        <div className="mt-5">
-          <MobileTable engines={mobileEngines} />
-        </div>
+          <div className="mt-5">
+            <MobileTable engines={mobileEngines} isDark={isDark} />
+          </div>
 
-        <div className="mt-6 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-5 text-[15px] leading-[1.55]">
-          <h3 className="font-bold uppercase text-[var(--color-primary)]">Data sources:</h3>
-          <div className="mt-4 space-y-4">
-            <p className="flex gap-4"><span className="text-[var(--color-primary)]">{statIcon("chart")}</span><span><strong>Enquiry volumes:</strong><br />EM_Proprietary_Data_2025.txt [EM-VERIFIED]</span></p>
-            <p className="flex gap-4"><span className="text-[var(--color-primary)]">{statIcon("pound")}</span><span><strong>Costs:</strong><br />Table A - Engine Replacement Economics [EM-QUOTE]</span></p>
-            <p className="flex gap-4"><span className="text-[var(--color-primary)]">{statIcon("file")}</span><span><strong>Engine codes:</strong><br />Cross-referenced from your existing data</span></p>
+          <div className="mt-6 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-5 text-[15px] leading-[1.55]">
+            <h3 className="font-bold uppercase" style={{ color: GOLD }}>
+              Data sources:
+            </h3>
+            <div className="mt-4 space-y-4">
+              <p className="flex gap-4">
+                <StatIcon type="chart" isDark={isDark} />
+                <span>
+                  <strong>Enquiry volumes:</strong>
+                  <br />
+                  EM_Proprietary_Data_2025.txt [EM-VERIFIED]
+                </span>
+              </p>
+              <p className="flex gap-4">
+                <StatIcon type="pound" isDark={isDark} />
+                <span>
+                  <strong>Costs:</strong>
+                  <br />
+                  Table A - Engine Replacement Economics [EM-QUOTE]
+                </span>
+              </p>
+              <p className="flex gap-4">
+                <StatIcon type="file" isDark={isDark} />
+                <span>
+                  <strong>Engine codes:</strong>
+                  <br />
+                  Cross-referenced from your existing data
+                </span>
+              </p>
+            </div>
           </div>
         </div>
       </div>

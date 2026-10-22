@@ -1,4 +1,4 @@
-# Heading Reference — 5 Page Types
+# Heading Reference - 5 Page Types
 # Goal: hardcode H1/H2 in components. Dynamic pages share the same section labels
 # (only the model/variant/generation name changes inside the text).
 
@@ -8,62 +8,62 @@
 # H1 (hardcoded in HomeSec1.js)
 - The UK's Most Trusted Mercedes-Benz Ownership Guide
 
-# H2 — one per section (HomeSec2..HomeSec14)
+# H2 - one per section (HomeSec2..HomeSec14)
 - Find Your Vehicle                                    (HomeSec2)
 - Diagnose Your Mercedes-Benz Engine Problem           (HomeSec3)
 - Mercedes-Benz Ownership Rankings                     (HomeSec4)
-- Comparison Hub — Head-to-Head Verdicts               (HomeSec5)
+- Comparison Hub - Head-to-Head Verdicts               (HomeSec5)
 - The Mercedes-Benz Ownership Economics Centre         (HomeSec6)
-- Mercedes-Benz Engine Families — The Pillars          (HomeSec7)
+- Mercedes-Benz Engine Families - The Pillars          (HomeSec7)
 - Mercedes-Benz Knowledge Centres                      (HomeSec8)
 - The Mercedes-Benz Failure Database                   (HomeSec9)
-- Mercedes-Benz Market Intelligence — What 4,200+ UK Owners Told Us in 2025  (HomeSec10)
-- Mercedes-Benz Engine History — Six Decades of Engineering  (HomeSec11)
+- Mercedes-Benz Market Intelligence - What 4,200+ UK Owners Told Us in 2025  (HomeSec10)
+- Mercedes-Benz Engine History - Six Decades of Engineering  (HomeSec11)
 - Why Mercedes-Benz Owners Trust This Site             (HomeSec12)
 - Frequently Asked Questions                           (HomeSec13)
-- Not Sure Where to Start?                             (HomeSec14 — JSON "title")
+- Not Sure Where to Start?                             (HomeSec14 - JSON "title")
 
 
 # ============================================================
-# 2) MODEL PAGE  (src/app/[...slug]/page.js — single segment)
+# 2) MODEL PAGE  (src/app/[...slug]/page.js - single segment)
 # ============================================================
 # H1 (dynamic: data.h1 from src/data/models/*.json)
-#   Example: "A-Class Engines — The Complete UK Guide"
-#   Pattern: "{Model} Engines — The Complete UK Guide"
+#   Example: "A-Class Engines - The Complete UK Guide"
+#   Pattern: "{Model} Engines - The Complete UK Guide"
 
-# H2 — all dynamic (data.h2, except EditorialPullQuote uses data.title)
+# H2 - all dynamic (data.h2, except EditorialPullQuote uses data.title)
 # Section order in page.js:
-- Ownership Verdict        (data.h2)   e.g. "A-Class — The Ownership Verdict"
+- Ownership Verdict        (data.h2)   e.g. "A-Class - The Ownership Verdict"
 - At a Glance              (data.h2)   e.g. "A-Class at a Glance"
-- Generations Grid         (data.h2)   e.g. "A-Class Generations — Find Your Vehicle"
-- Engine Database          (data.h2)   e.g. "A-Class Engine Codes — The Complete Database"
+- Generations Grid         (data.h2)   e.g. "A-Class Generations - Find Your Vehicle"
+- Engine Database          (data.h2)   e.g. "A-Class Engine Codes - The Complete Database"
 - Common Problems          (data.h2)   e.g. "Common A-Class Engine Problems"
-- Market Intelligence      (data.h2)   e.g. "A-Class Market Intelligence — What 750+ UK Owners Told Us in 2025"
+- Market Intelligence      (data.h2)   e.g. "A-Class Market Intelligence - What 750+ UK Owners Told Us in 2025"
 - Editorial Pull Quote     (data.title) e.g. "The One Thing We'd Tell Every A-Class Buyer"
-- Replacement Costs        (data.h2)   e.g. "A-Class Engine Replacement Costs — By Generation"
-- Engine Evolution         (data.h2)   e.g. "How the A‑Class Engine Range Evolved — 1997 to Today"
+- Replacement Costs        (data.h2)   e.g. "A-Class Engine Replacement Costs - By Generation"
+- Engine Evolution         (data.h2)   e.g. "How the A‑Class Engine Range Evolved - 1997 to Today"
 - Who Should Buy           (data.h2)   e.g. "Who Should Buy an A‑Class?"
-- Calculator CTA           (data.h2)   e.g. "Can I Repair My A‑Class Engine — or Should I Replace It?"
+- Calculator CTA           (data.h2)   e.g. "Can I Repair My A‑Class Engine - or Should I Replace It?"
 - Trust Block              (data.h2)   e.g. "Why A‑Class Owners Trust MercedesEngine.uk"
 - FAQ                      (data.h2)   e.g. "A‑Class Frequently Asked Questions"
 - Closing Action Cards     (data.h2)   e.g. "Ready to Make a Decision?"
 
 
 # ============================================================
-# 3) GENERATION PAGE  (src/app/[...slug]/page.js — two segments)
+# 3) GENERATION PAGE  (src/app/[...slug]/page.js - two segments)
 # ============================================================
 # H1 (dynamic: data.h1 from src/data/generations/*.json)
-#   Example: "Mercedes A-Class W176 Engines — The Complete UK Guide"
-#   Pattern: "{Generation} Engines — The Complete UK Guide"
+#   Example: "Mercedes A-Class W176 Engines - The Complete UK Guide"
+#   Pattern: "{Generation} Engines - The Complete UK Guide"
 
-# H2 — mix of static (hardcoded) and dynamic (data.h2)
+# H2 - mix of static (hardcoded) and dynamic (data.h2)
 # Section order in page.js:
-- Engine Database          (data.h2)   e.g. "Mercedes A-Class W176 Engine Codes — The Complete Database"
-- Overview                 (data.h2)   e.g. "Mercedes A-Class W176 — Overview"
+- Engine Database          (data.h2)   e.g. "Mercedes A-Class W176 Engine Codes - The Complete Database"
+- Overview                 (data.h2)   e.g. "Mercedes A-Class W176 - Overview"
 - Best & Worst Engines     (STATIC)    "Best & Worst Engines"
-- Ownership Economics      (data.h2)   e.g. "Mercedes A-Class W176 — Ownership Economics"
+- Ownership Economics      (data.h2)   e.g. "Mercedes A-Class W176 - Ownership Economics"
 - Common Problems          (STATIC)    "Common Problems"
-- Replacement Costs        (data.h2)   e.g. "W176 Engine Replacement Costs — By Engine and Condition"
+- Replacement Costs        (data.h2)   e.g. "W176 Engine Replacement Costs - By Engine and Condition"
 - Core Variants            (STATIC)    "Core Variants"
 - Market Intelligence      (STATIC)    "Market Intelligence"
 - FAQ                      (STATIC)    "FAQ"
@@ -71,19 +71,19 @@
 
 
 # ============================================================
-# 4) VARIANT PAGE  (src/app/[...slug]/page.js — two segments)
+# 4) VARIANT PAGE  (src/app/[...slug]/page.js - two segments)
 # ============================================================
 # H1 (dynamic: data.h1 from src/data/variants/*.json)
-#   Example: "Mercedes‑Benz GLC‑Class GLC63 AMG Engine Replacement — Compare Prices & Get Quotes"
-#   Pattern: "{Variant} Engine Replacement — Compare Prices & Get Quotes"
+#   Example: "Mercedes‑Benz GLC‑Class GLC63 AMG Engine Replacement - Compare Prices & Get Quotes"
+#   Pattern: "{Variant} Engine Replacement - Compare Prices & Get Quotes"
 
-# H2 — mix of static and dynamic
+# H2 - mix of static and dynamic
 # Section order in page.js:
-- Era Map                  (data.title)  e.g. "The GLC63 AMG THROUGH TIME — Era Map"
+- Era Map                  (data.title)  e.g. "The GLC63 AMG THROUGH TIME - Era Map"
 - Replacement Costs        (data.h2)     e.g. "Mercedes‑Benz GLC63 AMG Engine Replacement Costs"
 - Common Problems          (STATIC)      "Common Problems"
 - Quotes CTA               (data.headline) e.g. "Ready to Compare? Get Matched With a Vetted Mercedes‑Benz Specialist →"
-- Repair, Buy or Replace   (data.h2)     e.g. "GLC‑Class GLC63 AMG — Repair, Buy, or Replace?"
+- Repair, Buy or Replace   (data.h2)     e.g. "GLC‑Class GLC63 AMG - Repair, Buy, or Replace?"
 - Buying Checklist         (STATIC)      "Buying Checklist"
 - Engine Codes             (STATIC)      "Engine Codes"
 - Market Intelligence      (STATIC)      "Market Intelligence"
@@ -95,10 +95,10 @@
 # 5) ENGINE PAGE  (src/app/engine/[slug]/page.js)
 # ============================================================
 # H1 (dynamic: data.h1 from src/data/engines/*.json)
-#   Example: "Mercedes-Benz M102 Engine — Specs, Reliability & Replacement Cost"
-#   Pattern: "{Engine} Engine — Specs, Reliability & Replacement Cost"
+#   Example: "Mercedes-Benz M102 Engine - Specs, Reliability & Replacement Cost"
+#   Pattern: "{Engine} Engine - Specs, Reliability & Replacement Cost"
 
-# H2 — ALL static (hardcoded in components)
+# H2 - ALL static (hardcoded in components)
 # Section order in page.js:
 - At a Glance              (STATIC)  "At a Glance"
 - Verdict & Rating         (STATIC)  "Verdict & Rating"
