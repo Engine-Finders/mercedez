@@ -17,6 +17,41 @@ function StarBox({ faded = false }) {
   );
 }
 
+function ArrowIcon() {
+  return (
+    <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5 shrink-0" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M5 12h14m-6-6 6 6-6 6" />
+    </svg>
+  );
+}
+
+function PhoneIcon() {
+  return (
+    <svg aria-hidden="true" viewBox="0 0 24 24" className="h-6 w-6 shrink-0" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 2 .7 2.9a2 2 0 0 1-.5 2.1L8.1 9.9a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.9.6 2.9.7a2 2 0 0 1 1.7 2Z" />
+    </svg>
+  );
+}
+
+function StatItem({ item, isDark }) {
+  const label = typeof item === "string" ? item : item.label;
+  const icon = typeof item === "string" ? "check" : item.icon || "shield";
+
+  return (
+    <li className={`flex items-center gap-2.5 ${isDark ? "text-white/85" : "text-[var(--color-text)]"}`}>
+      <span
+        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full border md:h-9 md:w-9 ${
+          isDark ? "border-white/20 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
+        }`}
+      >
+        <HomeIcon name={icon} isDark={isDark} gold className="h-5 w-5" />
+      </span>
+      <span className="hidden h-8 w-px shrink-0 md:block" style={{ backgroundColor: GOLD }} />
+      <span className="min-w-0 text-[0.78rem] leading-snug md:text-[0.85rem]">{label}</span>
+    </li>
+  );
+}
+
 export default function HomeSec14({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
@@ -25,15 +60,85 @@ export default function HomeSec14({ data }) {
   const image = data.image || { src: "/right.webp", alt: "" };
   const primaryCta = data.primaryCta || {};
   const secondaryCta = data.secondaryCta || {};
+  const guidance = data.guidance || {
+    eyebrow: primaryCta.label,
+    title: primaryCta.subLabel,
+    href: primaryCta.href,
+  };
 
   return (
     <section className={`px-3 pb-7 pt-2 md:px-4 md:pb-8 ${homeSectionBg(isDark, 14)}`}>
+      {/* Mobile layout — matches ref */}
+      <div className="mx-auto w-full max-w-8xl md:hidden">
+        <SectionLabel number={14} isDark={isDark} />
+        <h2 className={`font-lora text-[1.85rem] font-medium leading-[1.1] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          Get the Right Answer. <span style={{ color: GOLD }}>Not Just Any Answer.</span>
+        </h2>
+        <p className={`mt-2 text-[0.88rem] leading-snug ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          {data.subHeadline}
+        </p>
+
+        {stats.length ? (
+          <ul className="mt-4 grid grid-cols-2 gap-x-3 gap-y-3">
+            {stats.map((item) => (
+              <StatItem key={typeof item === "string" ? item : item.label} item={item} isDark={isDark} />
+            ))}
+          </ul>
+        ) : null}
+
+        <div className="mt-5 rounded-xl border px-4 py-5" style={{ backgroundColor: "#0a0a0a", borderColor: "rgba(171,132,80,0.35)" }}>
+          <p className="font-lora text-[0.72rem] font-medium uppercase tracking-[0.1em]" style={{ color: GOLD }}>
+            {guidance.eyebrow || "GET YOUR FREE GUIDANCE"}
+          </p>
+          <h3 className="mt-2 font-lora text-[1.45rem] font-medium leading-[1.15] text-white">
+            {guidance.title || "Ask a Mercedes-Benz engine specialist"}
+          </h3>
+
+          <Link
+            href={secondaryCta.href || guidance.href || "/quote"}
+            className="mt-4 flex min-h-14 items-center gap-3 rounded-md border px-3.5 py-3 no-underline hover:no-underline"
+            style={{ borderColor: GOLD }}
+          >
+            <span style={{ color: GOLD }}>
+              <PhoneIcon />
+            </span>
+            <span className="min-w-0 flex-1">
+              <span className="block text-[0.82rem] font-semibold uppercase tracking-wide text-white">{secondaryCta.label}</span>
+              <span className="mt-0.5 block text-[0.7rem] text-white/70">{secondaryCta.subLabel}</span>
+            </span>
+            <span style={{ color: GOLD }}>
+              <ArrowIcon />
+            </span>
+          </Link>
+
+          {review ? (
+            <div className="mt-4 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-white">
+              <span className="inline-flex items-center gap-1 text-[0.88rem] font-semibold">
+                <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4 text-[#00b67a]" fill="currentColor">
+                  <path d="m12 2.8 2.8 5.8 6.4.9-4.6 4.5 1.1 6.3-5.7-3-5.7 3 1.1-6.3-4.6-4.5 6.4-.9L12 2.8Z" />
+                </svg>
+                {review.brand}
+              </span>
+              <span className="flex gap-0.5">
+                {Array.from({ length: review.stars || 5 }).map((_, index) => (
+                  <span key={index} className="text-[0.85rem]" style={{ color: GOLD }}>
+                    ★
+                  </span>
+                ))}
+              </span>
+              <span className="text-[0.75rem] text-white/75">{review.score}</span>
+            </div>
+          ) : null}
+        </div>
+      </div>
+
+      {/* Desktop layout — unchanged structure */}
       <div
-        className={`relative mx-auto w-full max-w-8xl overflow-hidden rounded-xl border shadow-[0_6px_24px_rgba(10,26,43,0.05)] ${
+        className={`relative mx-auto hidden w-full max-w-8xl overflow-hidden rounded-xl border shadow-[0_6px_24px_rgba(10,26,43,0.05)] md:block ${
           isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
         }`}
       >
-        <div className="absolute inset-y-0 right-0 hidden w-[40%] md:block">
+        <div className="absolute inset-y-0 right-0 w-[40%]">
           <Image src={image.src} alt="" fill className="object-cover object-center" sizes="40vw" />
           <div
             className={
@@ -44,31 +149,24 @@ export default function HomeSec14({ data }) {
           />
         </div>
 
-        <div className="relative px-4 py-5 md:max-w-[58%] md:px-8 md:py-7">
+        <div className="relative max-w-[58%] px-8 py-7">
           <SectionLabel number={14} isDark={isDark} />
-          <h2 className={`font-lora text-[1.85rem] font-medium leading-[1.1] md:text-[2.35rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora text-[2.35rem] font-medium leading-[1.1] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Get the Right Answer. Not Just Any Answer.
           </h2>
-          <p className={`mt-2 text-[0.9rem] leading-snug md:text-[1.05rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-2 text-[1.05rem] leading-snug ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
 
           {stats.length ? (
-            <ul className="mt-4 grid grid-cols-1 gap-2 sm:grid-cols-2 md:mt-5">
-              {stats.map((stat) => (
-                <li key={stat} className={`flex items-center gap-2 text-[0.8rem] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
-                  <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: GOLD }}>
-                    <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="3">
-                      <path d="m5 12 4 4L19 6" />
-                    </svg>
-                  </span>
-                  <span>{stat}</span>
-                </li>
+            <ul className="mt-5 grid grid-cols-2 gap-3">
+              {stats.map((item) => (
+                <StatItem key={typeof item === "string" ? item : item.label} item={item} isDark={isDark} />
               ))}
             </ul>
           ) : null}
 
-          <div className="mt-5 flex flex-col gap-3 md:mt-6 md:flex-row md:flex-wrap md:items-center">
+          <div className="mt-6 flex flex-wrap items-center gap-3">
             <Link
               href={primaryCta.href || "/quote"}
               className="inline-flex min-h-14 items-center gap-3 rounded-lg px-5 py-3 no-underline hover:no-underline hover:opacity-95"
@@ -97,7 +195,7 @@ export default function HomeSec14({ data }) {
             </Link>
 
             {review ? (
-              <div className={`flex min-w-0 flex-wrap items-center gap-x-2 gap-y-1 md:ml-1 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <div className={`flex min-w-0 flex-wrap items-center gap-x-2 gap-y-1 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 <span className="text-[0.88rem] font-semibold">{review.brand}</span>
                 <span className="flex gap-0.5">
                   {Array.from({ length: review.stars || 5 }).map((_, index) => (

@@ -1,11 +1,16 @@
 {
   "subHeadline": "Free, expert guidance. Real data. Honest advice.",
   "stats": [
-    "24,650+ UK enquiries analysed",
-    "50+ engine codes tracked",
-    "Real quotes, real costs",
-    "Independent & unbiased"
+    { "icon": "chart", "label": "24,650+ UK enquiries analysed" },
+    { "icon": "engine", "label": "50+ engine codes tracked" },
+    { "icon": "quote", "label": "Real quotes, real costs" },
+    { "icon": "shield", "label": "Independent & unbiased" }
   ],
+  "guidance": {
+    "eyebrow": "GET YOUR FREE GUIDANCE",
+    "title": "Ask a Mercedes-Benz engine specialist",
+    "href": "/quote"
+  },
   "primaryCta": {
     "label": "GET YOUR FREE GUIDANCE",
     "subLabel": "Ask a Mercedes-Benz engine specialist",

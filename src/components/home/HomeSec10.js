@@ -73,10 +73,18 @@ function Panel({ title, icon, isDark, children, className = "" }) {
   );
 }
 
+function ScrollTable({ minWidth, children }) {
+  return (
+    <div className="overflow-x-auto">
+      <div style={{ minWidth }}>{children}</div>
+    </div>
+  );
+}
+
 function ColHead({ cols, grid, isDark }) {
   return (
     <div
-      className={`hidden border-b px-3.5 py-2 text-[0.62rem] font-semibold uppercase tracking-[0.06em] md:grid ${grid} ${
+      className={`grid border-b px-3.5 py-2 text-[0.62rem] font-semibold uppercase tracking-[0.06em] ${grid} ${
         isDark ? "border-white/10 bg-white/5 text-white/50" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
       }`}
     >
@@ -89,138 +97,144 @@ function ColHead({ cols, grid, isDark }) {
 
 function EnginesPanel({ data, isDark }) {
   if (!data) return null;
-  const grid = "md:grid-cols-[2.5rem_minmax(0,0.9fr)_minmax(0,1fr)_minmax(0,1.1fr)] md:gap-2";
+  const grid = "grid-cols-[2.5rem_minmax(0,0.9fr)_minmax(0,1fr)_minmax(0,1.1fr)] gap-2";
 
   return (
     <Panel title={data.title} icon={data.icon} isDark={isDark}>
-      <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
-      {(data.rows || []).map((row) => (
-        <div
-          key={row.code}
-          className={`grid grid-cols-[2rem_minmax(0,1fr)] gap-x-2 gap-y-1 border-b px-3.5 py-2.5 last:border-b-0 md:items-center ${grid} ${
-            isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
-          }`}
-        >
-          <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
-          <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
-          <span className={`col-span-2 text-[0.72rem] md:col-span-1 md:text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
-            {row.label}
-          </span>
-          <span className={`col-span-2 text-[0.78rem] font-medium md:col-span-1 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            {row.enquiries}
-            <Tag value={row.tag} isDark={isDark} />
-          </span>
-        </div>
-      ))}
+      <ScrollTable minWidth="420px">
+        <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
+        {(data.rows || []).map((row) => (
+          <div
+            key={row.code}
+            className={`grid items-center border-b px-3.5 py-2.5 last:border-b-0 ${grid} ${
+              isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
+            }`}
+          >
+            <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
+            <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
+            <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{row.label}</span>
+            <span className={`text-[0.78rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {row.enquiries}
+              <Tag value={row.tag} isDark={isDark} />
+            </span>
+          </div>
+        ))}
+      </ScrollTable>
     </Panel>
   );
 }
 
 function ModelsPanel({ data, isDark }) {
   if (!data) return null;
-  const grid = "md:grid-cols-[2.5rem_minmax(0,1.2fr)_minmax(0,1fr)] md:gap-2";
+  const grid = "grid-cols-[2.5rem_minmax(0,1.2fr)_minmax(0,1fr)] gap-2";
 
   return (
     <Panel title={data.title} icon={data.icon} isDark={isDark}>
-      <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
-      {(data.rows || []).map((row) => (
-        <div
-          key={row.model}
-          className={`grid grid-cols-[2rem_minmax(0,1fr)] gap-x-2 gap-y-1 border-b px-3.5 py-2.5 last:border-b-0 md:items-center ${grid} ${
-            isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
-          }`}
-        >
-          <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
-          <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.model}</span>
-          <span className={`col-span-2 text-[0.78rem] font-medium md:col-span-1 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            {row.enquiries}
-            <Tag value={row.tag} isDark={isDark} />
-          </span>
-        </div>
-      ))}
+      <ScrollTable minWidth="340px">
+        <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
+        {(data.rows || []).map((row) => (
+          <div
+            key={row.model}
+            className={`grid items-center border-b px-3.5 py-2.5 last:border-b-0 ${grid} ${
+              isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
+            }`}
+          >
+            <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
+            <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.model}</span>
+            <span className={`text-[0.78rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {row.enquiries}
+              <Tag value={row.tag} isDark={isDark} />
+            </span>
+          </div>
+        ))}
+      </ScrollTable>
     </Panel>
   );
 }
 
 function CostsPanel({ data, isDark }) {
   if (!data) return null;
-  const grid = "md:grid-cols-[minmax(0,0.7fr)_minmax(0,1.3fr)] md:gap-2";
+  const grid = "grid-cols-[minmax(0,0.7fr)_minmax(0,1.3fr)] gap-2";
 
   return (
     <Panel title={data.title} icon={data.icon} isDark={isDark}>
-      <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
-      {(data.rows || []).map((row) => (
-        <div
-          key={row.code}
-          className={`grid grid-cols-1 gap-y-0.5 border-b px-3.5 py-2.5 last:border-b-0 md:items-center ${grid} ${
-            isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
-          }`}
-        >
-          <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
-          <span className={`text-[0.78rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            {row.cost}
-            <Tag value={row.tag} isDark={isDark} />
-          </span>
-        </div>
-      ))}
+      <ScrollTable minWidth="280px">
+        <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
+        {(data.rows || []).map((row) => (
+          <div
+            key={row.code}
+            className={`grid items-center border-b px-3.5 py-2.5 last:border-b-0 ${grid} ${
+              isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
+            }`}
+          >
+            <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
+            <span className={`text-[0.78rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {row.cost}
+              <Tag value={row.tag} isDark={isDark} />
+            </span>
+          </div>
+        ))}
+      </ScrollTable>
     </Panel>
   );
 }
 
 function FailuresPanel({ data, isDark }) {
   if (!data) return null;
-  const grid = "md:grid-cols-[2.5rem_minmax(0,1.6fr)_minmax(140px,0.9fr)] md:gap-3";
+  const grid = "grid-cols-[2.5rem_minmax(0,1.6fr)_minmax(140px,0.9fr)] gap-3";
 
   return (
     <Panel title={data.title} icon={data.icon} isDark={isDark}>
-      <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
-      {(data.rows || []).map((row) => (
-        <div
-          key={row.rank}
-          className={`grid grid-cols-[2rem_minmax(0,1fr)] gap-x-2 gap-y-1.5 border-b px-3.5 py-2.5 last:border-b-0 md:items-center ${grid} ${
-            isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
-          }`}
-        >
-          <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
-          <span className={`font-lora text-[0.8rem] font-medium leading-snug md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            {row.failure}
-          </span>
-          <div className="col-span-2 md:col-span-1">
+      <ScrollTable minWidth="480px">
+        <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
+        {(data.rows || []).map((row) => (
+          <div
+            key={row.rank}
+            className={`grid items-center border-b px-3.5 py-2.5 last:border-b-0 ${grid} ${
+              isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
+            }`}
+          >
+            <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
+            <span className={`font-lora text-[0.8rem] font-medium leading-snug md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {row.failure}
+            </span>
             <RiskBadge risk={row.risk} isDark={isDark} />
           </div>
-        </div>
-      ))}
+        ))}
+      </ScrollTable>
     </Panel>
   );
 }
 
 function FeedPanel({ data, isDark }) {
   if (!data) return null;
-  const grid = "md:grid-cols-[minmax(0,1.35fr)_minmax(0,0.7fr)_minmax(0,1.1fr)_auto] md:gap-2";
+  const grid = "grid-cols-[minmax(0,1.35fr)_minmax(0,0.7fr)_minmax(0,1.1fr)_auto] gap-2";
 
   return (
     <Panel title={data.title} icon={data.icon} isDark={isDark}>
-      <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
-      {(data.rows || []).map((row) => (
-        <div
-          key={`${row.vehicle}-${row.timestamp}`}
-          className={`grid grid-cols-1 gap-y-1.5 border-b px-3.5 py-2.5 last:border-b-0 md:items-center ${grid} ${
-            isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
-          }`}
-        >
-          <div className="flex min-w-0 items-center gap-2">
-            <div className="relative h-9 w-12 shrink-0 overflow-hidden">
-              <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.vehicle} fill className="object-contain" sizes="48px" />
+      <ScrollTable minWidth="520px">
+        <ColHead cols={data.columns || []} grid={grid} isDark={isDark} />
+        {(data.rows || []).map((row) => (
+          <div
+            key={`${row.vehicle}-${row.timestamp}`}
+            className={`grid items-center border-b px-3.5 py-2.5 last:border-b-0 ${grid} ${
+              isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
+            }`}
+          >
+            <div className="flex min-w-0 items-center gap-2">
+              <div className="relative h-9 w-12 shrink-0 overflow-hidden">
+                <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.vehicle} fill className="object-contain" sizes="48px" />
+              </div>
+              <span className={`truncate font-lora text-[0.78rem] font-medium md:text-[0.82rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                {row.vehicle}
+              </span>
             </div>
-            <span className={`truncate font-lora text-[0.78rem] font-medium md:text-[0.82rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              {row.vehicle}
-            </span>
+            <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{row.location}</span>
+            <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.issue}</span>
+            <span className={`whitespace-nowrap text-[0.7rem] ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.timestamp}</span>
           </div>
-          <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{row.location}</span>
-          <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.issue}</span>
-          <span className={`whitespace-nowrap text-[0.7rem] ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.timestamp}</span>
-        </div>
-      ))}
+        ))}
+      </ScrollTable>
     </Panel>
   );
 }
@@ -261,7 +275,7 @@ export default function HomeSec10({ data }) {
           </p>
         </div>
 
-        <TrustBadges items={data.trustStrip} isDark={isDark} />
+        <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div className="mt-5 grid grid-cols-1 gap-4 md:mt-6 md:grid-cols-3 md:gap-4">
           <EnginesPanel data={data.engines} isDark={isDark} />

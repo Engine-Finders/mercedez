@@ -49,17 +49,47 @@ function VerdictCell({ verdict, isDark }) {
   );
 }
 
-function MatrixRow({ row, isDark }) {
+function MatrixRow({ row, isDark, variant = "desktop" }) {
   const href = row.href || "#";
+  const isMobile = variant === "mobile";
 
-  const body = (
+  const body = isMobile ? (
+    <div className="flex flex-col gap-3">
+      <div className="flex items-start gap-3">
+        <div className="relative h-[92px] w-[36%] shrink-0 overflow-hidden">
+          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill className="object-contain object-left" sizes="40vw" />
+        </div>
+        <div className="grid min-w-0 flex-1 grid-cols-2 gap-x-3 gap-y-2 pt-0.5">
+          <div className="min-w-0">
+            <p className={`font-lora text-[0.9rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {row.model}
+            </p>
+            {row.engine ? (
+              <p className={`mt-1 text-[0.7rem] leading-snug ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+                ({row.engine})
+              </p>
+            ) : null}
+            <p className={`mt-2 text-[0.82rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
+            <p className={`mt-0.5 text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
+          </div>
+          <div className="min-w-0 pt-[2.1rem]">
+            <p className={`text-[0.82rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
+            <p className={`mt-0.5 text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
+          </div>
+        </div>
+      </div>
+      <div className={`border-t pt-2.5 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
+        <VerdictCell verdict={row.verdict} isDark={isDark} />
+      </div>
+    </div>
+  ) : (
     <>
       <div className="flex min-w-0 items-center gap-2.5">
-        <div className="relative h-10 w-14 shrink-0 overflow-hidden md:h-11 md:w-16">
+        <div className="relative h-11 w-16 shrink-0 overflow-hidden">
           <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill className="object-contain" sizes="64px" />
         </div>
         <div className="min-w-0">
-          <p className={`text-[0.82rem] font-semibold leading-tight md:text-[0.9rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <p className={`text-[0.9rem] font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {row.model}
           </p>
           {row.engine ? (
@@ -67,24 +97,25 @@ function MatrixRow({ row, isDark }) {
           ) : null}
         </div>
       </div>
-
       <div>
         <p className={`text-[0.8rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
         <p className={`text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
       </div>
-
       <div>
         <p className={`text-[0.8rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
         <p className={`text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
       </div>
-
       <VerdictCell verdict={row.verdict} isDark={isDark} />
     </>
   );
 
-  const className = `grid grid-cols-1 gap-3 border-b px-3 py-3 no-underline last:border-b-0 md:grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] md:items-center md:gap-4 md:px-4 md:py-3 hover:no-underline ${
-    isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
-  }`;
+  const className = isMobile
+    ? `rounded-xl border px-3.5 py-3.5 no-underline shadow-[0_4px_16px_rgba(10,26,43,0.05)] hover:no-underline ${
+        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
+      }`
+    : `grid grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] items-center gap-4 border-b px-4 py-3 no-underline last:border-b-0 hover:no-underline ${
+        isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
+      }`;
 
   if (href && href !== "#") {
     return (
@@ -102,27 +133,44 @@ function DecisionMatrix({ matrix, isDark }) {
   const rows = matrix?.rows || [];
 
   return (
-    <div className={`overflow-hidden rounded-lg border ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
-      <div className={`flex items-center gap-2 border-b px-4 py-3 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
-        <h3 className={`font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+    <div>
+      <div className="mb-3 flex items-center gap-2 px-0.5 md:hidden">
+        <h3 className={`font-lora text-[1.05rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {matrix?.title || "The Decision Matrix"}
         </h3>
         <span className="h-[2px] w-10" style={{ background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.18) 100%)` }} />
       </div>
 
-      <div
-        className={`hidden border-b px-4 py-2.5 text-[0.65rem] font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] md:gap-4 ${
-          isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
-        }`}
-      >
-        {columns.map((col) => (
-          <span key={col}>{col}</span>
+      {/* Mobile: separate cards */}
+      <div className="flex flex-col gap-3 md:hidden">
+        {rows.map((row) => (
+          <MatrixRow key={row.model} row={row} isDark={isDark} variant="mobile" />
         ))}
       </div>
 
-      {rows.map((row) => (
-        <MatrixRow key={row.model} row={row} isDark={isDark} />
-      ))}
+      {/* Desktop: single table box */}
+      <div className={`hidden overflow-hidden rounded-lg border md:block ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
+        <div className={`flex items-center gap-2 border-b px-4 py-3 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
+          <h3 className={`font-lora text-[1.15rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            {matrix?.title || "The Decision Matrix"}
+          </h3>
+          <span className="h-[2px] w-10" style={{ background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.18) 100%)` }} />
+        </div>
+
+        <div
+          className={`border-b px-4 py-2.5 text-[0.65rem] font-semibold uppercase tracking-[0.06em] grid grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] gap-4 ${
+            isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
+          }`}
+        >
+          {columns.map((col) => (
+            <span key={col}>{col}</span>
+          ))}
+        </div>
+
+        {rows.map((row) => (
+          <MatrixRow key={row.model} row={row} isDark={isDark} variant="desktop" />
+        ))}
+      </div>
     </div>
   );
 }
@@ -235,16 +283,16 @@ export default function HomeSec6({ data }) {
           </p>
         </div>
 
-        <TrustBadges items={data.trustStrip} isDark={isDark} />
+        <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div
-          className={`mt-5 rounded-xl border p-3 shadow-[0_8px_28px_rgba(10,26,43,0.06)] md:mt-6 md:p-5 ${
-            isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
+          className={`mt-5 md:mt-6 md:rounded-xl md:border md:p-5 md:shadow-[0_8px_28px_rgba(10,26,43,0.06)] ${
+            isDark ? "md:border-white/10 md:bg-[var(--color-surface-raised)]" : "md:border-[#E5E5E5] md:bg-white"
           }`}
         >
           <div className="grid gap-4 md:grid-cols-[minmax(0,1.55fr)_minmax(260px,0.9fr)] md:items-start md:gap-5">
             <DecisionMatrix matrix={data.matrix} isDark={isDark} />
-            <div className="grid gap-4">
+            <div className="grid gap-3 md:gap-4">
               <RuleCard data={data.ruleOfThumb} isDark={isDark} />
               <LinksCard data={data.deeperLinks} isDark={isDark} />
             </div>
@@ -263,10 +311,15 @@ export default function HomeSec6({ data }) {
                 </p>
               ) : null}
               {data.footerTrust?.length ? (
-                <ul className="flex flex-wrap gap-x-4 gap-y-2">
+                <ul className="grid w-full grid-cols-3 gap-2 md:flex md:w-auto md:flex-wrap md:gap-x-4 md:gap-y-2">
                   {data.footerTrust.map((item) => (
-                    <li key={item.label} className={`inline-flex items-center gap-1.5 text-[0.7rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
-                      <HomeIcon name={item.icon} isDark={isDark} gold className="h-4 w-4" />
+                    <li
+                      key={item.label}
+                      className={`flex flex-col items-center gap-1 text-center text-[0.58rem] leading-tight md:inline-flex md:flex-row md:items-center md:gap-1.5 md:text-left md:text-[0.7rem] ${
+                        isDark ? "text-white/70" : "text-[var(--color-text-muted)]"
+                      }`}
+                    >
+                      <HomeIcon name={item.icon} isDark={isDark} gold className="h-6 w-6 md:h-4 md:w-4" />
                       <span>{item.label}</span>
                     </li>
                   ))}

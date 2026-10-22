@@ -75,7 +75,7 @@ function EngineRow({ row, isDark }) {
     </>
   );
 
-  const className = `grid grid-cols-1 gap-2 border-b px-3 py-3 no-underline last:border-b-0 md:grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] md:items-center md:gap-3 md:px-4 md:py-3.5 hover:no-underline ${
+  const className = `grid grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] items-center gap-3 border-b px-3 py-3 no-underline last:border-b-0 hover:no-underline md:px-4 md:py-3.5 ${
     isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
   }`;
 
@@ -95,27 +95,27 @@ function FooterCta({ data, isDark }) {
 
   return (
     <div
-      className={`mt-5 flex flex-col gap-4 rounded-xl border p-4 md:mt-6 md:flex-row md:items-center md:gap-5 md:p-5 ${
+      className={`mt-4 flex flex-col gap-3 rounded-xl border px-3 py-3.5 md:mt-6 md:flex-row md:items-center md:gap-5 md:p-5 ${
         isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
       }`}
     >
-      <div className="flex min-w-0 flex-1 items-start gap-3">
-        <HomeIcon name="shield" isDark={isDark} gold className="mt-0.5 h-8 w-8 shrink-0" />
-        <p className={`text-[0.78rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+      <div className="flex min-w-0 flex-1 items-start gap-2.5">
+        <HomeIcon name="shield" isDark={isDark} gold className="mt-0.5 h-7 w-7 shrink-0 md:h-8 md:w-8" />
+        <p className={`text-[0.75rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
           {data.left}
         </p>
       </div>
 
-      <div className="flex min-w-0 flex-1 items-start gap-3 md:border-l md:pl-5" style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.08)" }}>
-        <HomeIcon name="star" isDark={isDark} gold className="mt-0.5 h-6 w-6 shrink-0" />
-        <p className={`text-[0.78rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+      <div className="flex min-w-0 flex-1 items-start gap-2.5 md:border-l md:pl-5" style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.08)" }}>
+        <HomeIcon name="star" isDark={isDark} gold className="mt-0.5 h-5 w-5 shrink-0 md:h-6 md:w-6" />
+        <p className={`text-[0.75rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
           {data.center}
         </p>
       </div>
 
       <Link
         href={data.href || "/quote"}
-        className="btn-cta inline-flex shrink-0 items-center justify-center rounded-md px-5 py-3 text-[0.82rem] font-semibold uppercase tracking-wide text-white no-underline"
+        className="btn-cta inline-flex w-full shrink-0 items-center justify-center rounded-md px-4 py-2.5 text-[0.8rem] font-semibold uppercase tracking-wide text-white no-underline md:w-auto md:px-5 md:py-3 md:text-[0.82rem]"
         style={{ backgroundColor: "#0a0a0a", color: GOLD }}
       >
         {data.buttonLabel || "GET EXPERT ADVICE →"}
@@ -162,26 +162,30 @@ export default function HomeSec7({ data }) {
           </p>
         </div>
 
-        <TrustBadges items={data.trustStrip} isDark={isDark} />
+        <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div
-          className={`mt-5 overflow-hidden rounded-xl border shadow-[0_8px_28px_rgba(10,26,43,0.05)] md:mt-6 ${
+          className={`mt-4 overflow-hidden rounded-xl border shadow-[0_8px_28px_rgba(10,26,43,0.05)] md:mt-6 ${
             isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
           }`}
         >
-          <div
-            className={`hidden border-b px-4 py-2.5 text-[0.65rem] font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] md:gap-3 ${
-              isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
-            }`}
-          >
-            {columns.map((col) => (
-              <span key={col}>{col}</span>
-            ))}
-          </div>
+          <div className="overflow-x-auto">
+            <div className="min-w-[760px]">
+              <div
+                className={`grid grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] gap-3 border-b px-3 py-2.5 text-[0.65rem] font-semibold uppercase tracking-[0.06em] md:px-4 ${
+                  isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
+                }`}
+              >
+                {columns.map((col) => (
+                  <span key={col}>{col}</span>
+                ))}
+              </div>
 
-          {engines.map((row) => (
-            <EngineRow key={row.code} row={row} isDark={isDark} />
-          ))}
+              {engines.map((row) => (
+                <EngineRow key={row.code} row={row} isDark={isDark} />
+              ))}
+            </div>
+          </div>
         </div>
 
         <FooterCta data={data.footerCta} isDark={isDark} />

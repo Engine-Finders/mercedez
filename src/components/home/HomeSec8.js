@@ -114,7 +114,7 @@ export default function HomeSec8({ data }) {
           </p>
         </div>
 
-        <TrustBadges items={data.trustStrip} isDark={isDark} />
+        <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2 md:mt-6 md:grid-cols-4 md:gap-3.5">
           {centres.map((item, index) => (

@@ -122,9 +122,21 @@ export default function HomeSec2({ data }) {
             <button
               type="button"
               onClick={() => setShowAllMobile((prev) => !prev)}
-              className="flex w-full items-center justify-center rounded-md bg-[#0a0a0a] px-5 py-3.5 text-[0.9rem] font-semibold text-white"
+              className="flex w-full items-center justify-center gap-2 rounded-md bg-[#0a0a0a] px-5 py-3.5 text-[0.9rem] font-semibold text-white"
             >
-              {showAllMobile ? "Show fewer models" : "Show more models"}
+              <span>{showAllMobile ? "Show fewer models" : "Show more models"}</span>
+              <svg
+                aria-hidden="true"
+                viewBox="0 0 24 24"
+                className={`h-4 w-4 shrink-0 transition-transform ${showAllMobile ? "rotate-180" : ""}`}
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="m6 9 6 6 6-6" />
+              </svg>
             </button>
           </div>
         ) : null}
