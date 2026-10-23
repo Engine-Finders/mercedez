@@ -1,8 +1,8 @@
 "use client";
 
-import { Suspense, useEffect, useId, useRef, useState } from "react";
+import { useEffect, useId, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
-import QuoteForm from "@/components/shared/QuoteForm";
+import FloatingQuoteModal from "@/components/shared/FloatingQuoteModal";
 
 export default function FreeQuoteSticky() {
   const pathname = usePathname();
@@ -54,35 +54,10 @@ export default function FreeQuoteSticky() {
           <button
             type="button"
             aria-label="Close quote form"
-            className="absolute inset-0 bg-black/45"
+            className="absolute inset-0 bg-black/50"
             onClick={() => setOpen(false)}
           />
-          <div
-            role="dialog"
-            aria-modal="true"
-            aria-labelledby={titleId}
-            className="relative z-[61] flex max-h-[92vh] w-full max-w-xl flex-col overflow-hidden rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] shadow-[0_14px_40px_var(--color-shadow)]"
-          >
-            <div className="flex shrink-0 items-center justify-between border-b border-[var(--color-border)] bg-[var(--color-surface)] px-4 py-3">
-              <h2 id={titleId} className="text-base font-bold text-[var(--color-text)]">
-                Get a Free Quote
-              </h2>
-              <button
-                ref={closeRef}
-                type="button"
-                onClick={() => setOpen(false)}
-                className="rounded border border-[var(--color-border)] px-2 py-1 text-sm font-bold text-[var(--color-text)]"
-                aria-label="Close"
-              >
-                ✕
-              </button>
-            </div>
-            <div className="overflow-y-auto">
-              <Suspense fallback={<p className="p-4 text-sm text-[var(--color-text-soft)]">Loading…</p>}>
-                <QuoteForm compact onSuccess={() => {}} />
-              </Suspense>
-            </div>
-          </div>
+          <FloatingQuoteModal titleId={titleId} closeRef={closeRef} onClose={() => setOpen(false)} />
         </div>
       ) : null}
     </>
