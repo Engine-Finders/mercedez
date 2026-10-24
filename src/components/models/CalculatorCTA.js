@@ -224,19 +224,22 @@ export default function CalculatorCTA({ data }) {
   return (
     <section className={`relative overflow-hidden py-6 text-[var(--color-text)] md:py-8 ${homeSectionBg(isDark, 11)}`}>
       <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
-        <div className="relative overflow-hidden rounded-md bg-[var(--color-surface-raised)]">
-          <Image src="/model/Hero-bg-image.webp" alt="" fill className="object-cover object-center" sizes="100vw" priority={false} />
+        <div className="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden md:left-auto md:w-auto md:translate-x-0 md:rounded-md md:bg-[var(--color-surface-raised)]">
+          <Image src="/model/Hero-bg-image.webp" alt="" fill className="object-cover object-[70%_center] md:object-center" sizes="100vw" priority={false} />
           <div
             className="absolute inset-0"
             style={{
               background: isDark
-                ? "linear-gradient(90deg,rgba(7,7,6,0.97)_0%,rgba(7,7,6,0.88)_40%,rgba(7,7,6,0.35)_72%,transparent_100%)"
+                ? "linear-gradient(90deg,rgba(7,7,6,0.98)_0%,rgba(7,7,6,0.88)_40%,rgba(7,7,6,0.35)_72%,transparent_100%)"
                 : "linear-gradient(90deg,#EFEEE9_0%,rgba(239,238,233,0.95)_40%,rgba(239,238,233,0.35)_72%,transparent_100%)",
             }}
           />
-          <div className="relative z-10 px-4 py-5 lg:px-6 lg:py-6">
-            <div className="max-w-[820px]">
-              <h2 className={`font-lora max-w-[820px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <div className="relative z-10 px-4 py-5 md:px-4 lg:px-6 lg:py-6">
+            <div className="mx-auto w-full max-w-8xl md:mx-0 md:max-w-[820px]">
+              <h2
+                className={`font-lora max-w-[820px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
+                style={{ textShadow: "0 1px 2px rgba(255,255,255,0.95), 0 0 12px rgba(255,255,255,0.85), 0 0 24px rgba(255,255,255,0.65)" }}
+              >
                 <span dangerouslySetInnerHTML={{ __html: title.before }} />
                 {title.accent ? (
                   <>
@@ -249,7 +252,10 @@ export default function CalculatorCTA({ data }) {
                 <SectionFadeStrip isDark={isDark} />
               </div>
               {data.intro ? (
-                <div className={`mt-3 max-w-[700px] text-[var(--color-text-muted)] ${sectionDescription}`}>
+                <div
+                  className={`mt-3 max-w-[700px] text-[var(--color-text-muted)] ${sectionDescription}`}
+                  style={{ textShadow: "0 1px 2px rgba(255,255,255,0.95), 0 0 10px rgba(255,255,255,0.8), 0 0 18px rgba(255,255,255,0.55)" }}
+                >
                   <p dangerouslySetInnerHTML={{ __html: intro.first }} />
                   {intro.second ? <p className="mt-1.5" dangerouslySetInnerHTML={{ __html: intro.second }} /> : null}
                 </div>
@@ -268,16 +274,16 @@ export default function CalculatorCTA({ data }) {
         </div>
 
         <div className="mt-5 flex flex-col gap-4 rounded-md bg-[#0a0a0a] p-4 text-white shadow-[0_12px_32px_var(--color-shadow)] md:flex-row md:items-center md:justify-between md:p-5">
-          <div className="flex gap-4">
-            <span className="flex h-16 w-16 shrink-0 items-center justify-center">
-              <Icon name="target" isDark className="h-12 w-12" />
-            </span>
-            <div className="max-w-[700px]">
+          <div className="min-w-0 max-w-[700px]">
+            <div className="flex items-center gap-3.5">
+              <span className="flex h-14 w-14 shrink-0 items-center justify-center md:h-16 md:w-16">
+                <Icon name="target" isDark className="h-11 w-11 md:h-12 md:w-12" />
+              </span>
               <h3 className="font-lora text-[20px] font-medium leading-tight md:text-[22px]">Stop guessing. Get the right answer.</h3>
-              <p className={`mt-2 text-white/90 ${sectionDescription}`}>
-                Our calculator compares real repair and replacement costs against your car&apos;s value - so you know the financially smarter move.
-              </p>
             </div>
+            <p className={`mt-2.5 text-white/90 ${sectionDescription}`}>
+              Our calculator compares real repair and replacement costs against your car&apos;s value - so you know the financially smarter move.
+            </p>
           </div>
           <Link
             href={paths[0]?.href || "/fault-diagnostic-calculator"}

@@ -134,57 +134,71 @@ function DesktopTable({ eras, columns, isDark }) {
   );
 }
 
+function AccordionDetail({ icon, label, value, isDark, last = false }) {
+  return (
+    <div className={last ? "" : "border-b border-[var(--color-border)]"}>
+      <div className="flex items-center gap-2.5 px-3 pt-3">
+        <Icon type={icon} isDark={isDark} className="h-6 w-6 shrink-0" />
+        <strong className="text-[13px] font-bold text-[var(--color-text)]">{label}</strong>
+      </div>
+      <p
+        className={`px-3 pb-3 pt-1.5 text-[13px] leading-[1.45] text-[var(--color-text)] ${sectionTableText}`}
+        dangerouslySetInnerHTML={{ __html: cleanText(value) }}
+      />
+    </div>
+  );
+}
+
 function MobileAccordion({ eras, isDark }) {
-  const [openIndex, setOpenIndex] = useState(0);
+  const [openIndex, setOpenIndex] = useState(-1);
 
   return (
-    <div className="space-y-3 md:hidden">
+    <div className="space-y-2.5 md:hidden">
       {eras.map((era, index) => {
         const open = index === openIndex;
         const title = eraParts(era.era);
 
         return (
-          <article key={era.era} className="rounded-md border bg-[var(--color-surface-raised)]" style={open ? { borderColor: GOLD } : undefined}>
-            <button type="button" onClick={() => setOpenIndex(open ? -1 : index)} className="flex w-full items-center gap-4 p-4 text-left">
-              <img src={carImages[index] || carImages[0]} alt="" className="h-[60px] w-[94px] shrink-0 object-cover object-center" loading="lazy" />
+          <article
+            key={era.era}
+            className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)]"
+            style={open ? { borderColor: GOLD } : undefined}
+          >
+            <button
+              type="button"
+              onClick={() => setOpenIndex(open ? -1 : index)}
+              className="flex w-full items-center gap-2.5 p-3 text-left"
+              aria-expanded={open}
+            >
+              <img
+                src={carImages[index] || carImages[0]}
+                alt=""
+                className="h-[52px] w-[78px] shrink-0 rounded object-cover object-center"
+                loading="lazy"
+              />
               <span className="min-w-0 flex-1">
-                <strong className="font-lora block text-[18px] font-medium leading-tight md:text-[20px]" style={{ color: GOLD }}>
+                <strong className="font-lora block text-[15px] font-medium leading-tight" style={{ color: GOLD }}>
                   {title.lead}
                   {title.detail ? ` - ${title.detail}` : ""}
                 </strong>
-                <span className={`mt-1 block ${sectionTableText} text-[var(--color-text-muted)]`} dangerouslySetInnerHTML={{ __html: cleanText(era.years) }} />
+                <span
+                  className={`mt-0.5 block text-[12px] text-[var(--color-text-muted)] ${sectionTableText}`}
+                  dangerouslySetInnerHTML={{ __html: cleanText(era.years) }}
+                />
               </span>
               <span
-                className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full ${open ? "text-white" : "bg-[#F5EAD4]"}`}
+                className={`flex h-9 w-9 shrink-0 items-center justify-center rounded-full ${open ? "text-white" : "bg-[#F5EAD4]"}`}
                 style={open ? { backgroundColor: GOLD, color: "#fff" } : { color: GOLD }}
               >
-                <Icon type={open ? "chevronUp" : "chevron"} className="h-6 w-6" />
+                <Icon type={open ? "chevronUp" : "chevron"} className="h-5 w-5" />
               </span>
             </button>
 
             {open ? (
-              <div className="mx-4 mb-4 overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)]">
-                <div className="grid grid-cols-[36%_64%] border-b border-[var(--color-border)]">
-                  <div className="flex items-center gap-3 border-r border-[var(--color-border)] p-4 font-bold">
-                    <Icon type="engine" isDark={isDark} className="h-8 w-8" />
-                    Key Engines
-                  </div>
-                  <div className={`p-4 ${sectionTableText} text-[var(--color-text)]`} dangerouslySetInnerHTML={{ __html: cleanText(era.keyEngines) }} />
-                </div>
-                <div className="grid grid-cols-[36%_64%] border-b border-[var(--color-border)]">
-                  <div className="flex items-center gap-3 border-r border-[var(--color-border)] p-4 font-bold">
-                    <Icon type="why" isDark={isDark} className="h-8 w-8" />
-                    Why It Changed
-                  </div>
-                  <div className={`p-4 ${sectionTableText} leading-[1.45] text-[var(--color-text)]`} dangerouslySetInnerHTML={{ __html: cleanText(era.whyBmwChanged) }} />
-                </div>
-                <div className="grid grid-cols-[36%_64%]">
-                  <div className="flex items-center gap-3 border-r border-[var(--color-border)] p-4 font-bold">
-                    <Icon type="info" isDark={isDark} className="h-8 w-8" />
-                    Worth Knowing
-                  </div>
-                  <div className={`p-4 ${sectionTableText} leading-[1.45] text-[var(--color-text)]`} dangerouslySetInnerHTML={{ __html: cleanText(era.worthKnowing) }} />
-                </div>
+              <div className="mx-3 mb-3 overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)]">
+                <AccordionDetail icon="engine" label="Key Engines" value={era.keyEngines} isDark={isDark} />
+                <AccordionDetail icon="why" label="Why It Changed" value={era.whyBmwChanged} isDark={isDark} />
+                <AccordionDetail icon="info" label="Worth Knowing" value={era.worthKnowing} isDark={isDark} last />
               </div>
             ) : null}
           </article>

@@ -166,11 +166,13 @@ function InsightsPanel({ insights, isDark }) {
         <h3 className="text-[15px] font-bold md:text-[16px]">Insights from the data:</h3>
       </div>
 
-      <div className="grid gap-3 md:grid-cols-3 md:gap-0">
+      <div className="grid gap-4 md:grid-cols-3 md:gap-0">
         {insights.map((insight, index) => (
-          <article key={insight} className="flex gap-3 border-[var(--color-border)] md:border-l md:px-3 md:first:border-l-0 md:first:pl-0 md:last:pr-0">
-            <CircleIcon name={INSIGHT_ICONS[index] || "insight"} isDark={isDark} />
+          <article key={insight} className="border-[var(--color-border)] md:border-l md:px-3 md:first:border-l-0 md:first:pl-0 md:last:pr-0">
             <p className="text-[13px] leading-[1.42] text-[var(--color-text)] md:text-[14px]">
+              <span className="float-left mr-3 mb-1">
+                <CircleIcon name={INSIGHT_ICONS[index] || "insight"} isDark={isDark} />
+              </span>
               <RichText value={insight} strongFirst />
             </p>
           </article>

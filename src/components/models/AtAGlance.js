@@ -158,18 +158,20 @@ function RatingCard({ row, isDark }) {
   if (!row) return null;
 
   return (
-    <div className={`mt-5 flex items-center gap-5 rounded-md p-5 md:hidden ${isDark ? "bg-[#0a0a0a] text-white" : "bg-[#0a0a0a] text-white"}`}>
-      <span className="flex h-24 w-24 shrink-0 items-center justify-center">
-        <HomeIcon name="star" isDark gold className="h-14 w-14 object-contain" />
-      </span>
-      <div>
-        <p className="text-[18px] font-bold">Overall Rating</p>
-        <p className="mt-2 text-[40px] leading-none md:text-[50px]" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(row.value).replace(" 3.9/5", "") }} />
-        <p className="mt-2 text-[18px] font-bold" style={{ color: GOLD }}>
-          3.9/5
-        </p>
-        <p className="mt-2 text-[15px] leading-[1.35] text-white/82">A perfect blend of performance, engineering excellence, and drivability.</p>
+    <div className={`mt-5 rounded-md p-5 md:hidden ${isDark ? "bg-[#0a0a0a] text-white" : "bg-[#0a0a0a] text-white"}`}>
+      <div className="flex items-center gap-5">
+        <span className="flex h-24 w-24 shrink-0 items-center justify-center">
+          <HomeIcon name="star" isDark gold className="h-[4.5rem] w-[4.5rem] object-contain" />
+        </span>
+        <div className="min-w-0">
+          <p className="text-[18px] font-bold">Overall Rating</p>
+          <p className="mt-2 text-[40px] leading-none md:text-[50px]" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(row.value).replace(" 3.9/5", "") }} />
+          <p className="mt-2 text-[18px] font-bold" style={{ color: GOLD }}>
+            3.9/5
+          </p>
+        </div>
       </div>
+      <p className="mt-3 text-[15px] leading-[1.35] text-white/82">A perfect blend of performance, engineering excellence, and drivability.</p>
     </div>
   );
 }
