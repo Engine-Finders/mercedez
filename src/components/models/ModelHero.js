@@ -120,19 +120,19 @@ function TrustStat({ item, index, isDark }) {
 
   return (
     <li
-      className={`flex items-center gap-3 border-r px-3 py-3.5 last:border-r-0 md:px-4 md:py-4 ${
+      className={`flex min-w-0 flex-col items-center gap-1.5 border-r px-1.5 py-3 text-center last:border-r-0 sm:flex-row sm:items-center sm:gap-2.5 sm:px-3 sm:py-3.5 sm:text-left md:gap-3 md:px-4 md:py-4 ${
         isDark ? "border-white/12" : "border-[var(--color-border)]"
       }`}
     >
-      <span className="flex h-12 w-12 shrink-0 items-center justify-center md:h-14 md:w-14">
-        <HomeIcon name={iconKey} isDark={isDark} gold className="h-10 w-10 object-contain md:h-14 md:w-14" />
+      <span className="flex h-12 w-12 shrink-0 items-center justify-center sm:h-12 sm:w-12 md:h-14 md:w-14">
+        <HomeIcon name={iconKey} isDark={isDark} gold className="h-11 w-11 object-contain sm:h-10 sm:w-10 md:h-14 md:w-14" />
       </span>
       <span className="min-w-0">
-        <strong className={`block text-[0.82rem] font-semibold leading-tight md:text-[0.9rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+        <strong className={`block text-[0.62rem] font-semibold leading-tight sm:text-[0.82rem] md:text-[0.9rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {label}
         </strong>
         {tag ? (
-          <span className="mt-0.5 block text-[0.68rem] font-medium" style={{ color: GOLD }}>
+          <span className="mt-0.5 block text-[0.55rem] font-medium sm:text-[0.68rem]" style={{ color: GOLD }}>
             [{tag}]
           </span>
         ) : null}
@@ -153,13 +153,13 @@ export default function ModelHero({ data }) {
 
   return (
     <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] md:min-h-[620px] ${homeSectionBg(isDark, 1)}`}>
-      {/* Background image */}
-      <div className="absolute inset-0">
+      {/* Desktop background image only */}
+      <div className="absolute inset-0 hidden md:block">
         <Image
           src={headerImage.src}
           alt={headerImage.alt || ""}
           fill
-          className="object-cover object-[70%_center] md:object-center"
+          className="object-cover object-center"
           sizes="100vw"
           priority
         />
@@ -170,7 +170,6 @@ export default function ModelHero({ data }) {
               : "absolute inset-0 bg-[linear-gradient(105deg,#EFEEE9_0%,rgba(239,238,233,0.98)_42%,rgba(239,238,233,0.88)_56%,rgba(239,238,233,0.4)_74%,rgba(239,238,233,0.06)_100%)]"
           }
         />
-        {/* Diagonal strip - black faded (homepage style), not gold */}
         <div
           className="absolute inset-y-0 left-[46%] hidden w-[3px] -skew-x-[18deg] md:block"
           style={{
@@ -190,7 +189,6 @@ export default function ModelHero({ data }) {
       </div>
 
       <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6 md:min-h-[620px] md:px-6 md:pb-7 md:pt-10 lg:px-8">
-        {/* Tag row - full content width, sits over image side */}
         <TagPill tagPill={data.tagPill} isDark={isDark} />
 
         <div className="mt-5 max-w-[640px] md:mt-6">
@@ -215,9 +213,21 @@ export default function ModelHero({ data }) {
           ) : null}
         </div>
 
+        {/* Mobile: image below CTA, wall-to-wall */}
+        <div className="relative left-1/2 mt-5 aspect-[16/10] w-screen -translate-x-1/2 overflow-hidden md:hidden">
+          <Image
+            src={headerImage.src}
+            alt={headerImage.alt || ""}
+            fill
+            className="object-cover object-center"
+            sizes="100vw"
+            priority
+          />
+        </div>
+
         {trustStrip.length ? (
           <ul
-            className={`mt-8 grid w-full grid-cols-2 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-auto md:max-w-[880px] md:grid-cols-4 md:rounded-2xl ${
+            className={`mt-5 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-auto md:max-w-[880px] md:rounded-2xl ${
               isDark
                 ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
                 : "border-[var(--color-border)] bg-[rgba(255,255,255,0.85)]"

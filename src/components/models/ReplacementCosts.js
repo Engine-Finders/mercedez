@@ -270,23 +270,23 @@ function Notes({ parts, isDark }) {
   return (
     <div className="grid gap-4 md:grid-cols-[1.15fr_0.85fr]">
       <div className="grid gap-4 rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-5 md:grid-cols-2">
-        <div className="flex flex-col gap-3 border-[var(--color-border)] md:border-r md:pr-6">
-          <div className="flex items-start gap-4">
-            <Icon type="note" isDark={isDark} className="h-12 w-12 shrink-0" />
-            <h3 className="font-bold" style={{ color: GOLD }}>
+        <div className="flex flex-col gap-2.5 border-[var(--color-border)] md:border-r md:pr-6">
+          <div className="flex items-center justify-start gap-3">
+            <Icon type="note" isDark={isDark} className="h-10 w-10 shrink-0 md:h-12 md:w-12" />
+            <h3 className="font-bold leading-none" style={{ color: GOLD }}>
               Important Notes
             </h3>
           </div>
-          <p className="pl-16 text-[15px] leading-[1.5] text-[var(--color-text)] md:pl-0" dangerouslySetInnerHTML={{ __html: parts.important }} />
+          <p className="text-[15px] leading-[1.5] text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: parts.important }} />
         </div>
-        <div className="flex flex-col gap-3">
-          <div className="flex items-start gap-4">
+        <div className="flex flex-col gap-2.5">
+          <div className="flex items-center justify-start gap-3">
             <Icon type="info" isDark={isDark} className="h-10 w-10 shrink-0" />
-            <h3 className="font-bold" style={{ color: GOLD }}>
+            <h3 className="font-bold leading-none" style={{ color: GOLD }}>
               Labour Estimate
             </h3>
           </div>
-          <p className="pl-14 text-[15px] leading-[1.5] text-[var(--color-text)] md:pl-0" dangerouslySetInnerHTML={{ __html: parts.labour }} />
+          <p className="text-[15px] leading-[1.5] text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: parts.labour }} />
         </div>
       </div>
 

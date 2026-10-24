@@ -5,8 +5,6 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionDescription } from "@/components/models/sectionTypography";
-
 const STAT_ICON_MAP = {
   cube: "database",
   shield: "shield",
@@ -250,12 +248,20 @@ function DesktopTable({ engines }) {
 }
 
 function MobileControls({ filters, options, onChange, onReset, isDark }) {
-  const selectClass = "min-h-12 w-full rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 text-[15px] text-[var(--color-text)]";
+  const selectClass =
+    "min-h-11 w-full appearance-none rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] py-2 pl-3 pr-10 text-[14px] text-[var(--color-text)]";
+  const selectStyle = {
+    backgroundImage:
+      "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%237b7368' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4 6l4 4 4-4'/%3E%3C/svg%3E\")",
+    backgroundRepeat: "no-repeat",
+    backgroundPosition: "right 12px center",
+    backgroundSize: "12px 12px",
+  };
   const updateQuery = (event) => onChange({ query: event.currentTarget.value });
 
   return (
-    <div className="space-y-3">
-      <label className="flex min-h-14 items-center gap-3 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 text-[15px] text-[var(--color-text-soft)]">
+    <div className="space-y-2.5">
+      <label className="flex min-h-12 items-center gap-2.5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-3 text-[14px] text-[var(--color-text-soft)]">
         <StatIcon type="search" isDark={isDark} />
         <input
           type="search"
@@ -267,26 +273,26 @@ function MobileControls({ filters, options, onChange, onReset, isDark }) {
           className="min-w-0 flex-1 bg-transparent outline-none placeholder:text-[var(--color-text-soft)]"
         />
       </label>
-      <div className="grid grid-cols-2 gap-3">
-        <select data-filter="fuel" className={selectClass} value={filters.fuel} onChange={(event) => onChange({ fuel: event.target.value })}>
+      <div className="grid grid-cols-2 gap-2.5">
+        <select data-filter="fuel" className={selectClass} style={selectStyle} value={filters.fuel} onChange={(event) => onChange({ fuel: event.target.value })}>
           <option value="">Fuel Type</option>
           {options.fuels.map((fuel) => <option key={fuel} value={fuel}>{fuel}</option>)}
         </select>
-        <select data-filter="displacement" className={selectClass} value={filters.displacement} onChange={(event) => onChange({ displacement: event.target.value })}>
+        <select data-filter="displacement" className={selectClass} style={selectStyle} value={filters.displacement} onChange={(event) => onChange({ displacement: event.target.value })}>
           <option value="">Displacement</option>
           {options.displacements.map((displacement) => <option key={displacement} value={displacement}>{displacement}</option>)}
         </select>
-        <select data-filter="generation" className={selectClass} value={filters.generation} onChange={(event) => onChange({ generation: event.target.value })}>
+        <select data-filter="generation" className={selectClass} style={selectStyle} value={filters.generation} onChange={(event) => onChange({ generation: event.target.value })}>
           <option value="">Generations</option>
           {options.generations.map((generation) => <option key={generation} value={generation}>{generation}</option>)}
         </select>
-        <select data-filter="sort" className={selectClass} value={filters.sort} onChange={(event) => onChange({ sort: event.target.value })}>
+        <select data-filter="sort" className={selectClass} style={selectStyle} value={filters.sort} onChange={(event) => onChange({ sort: event.target.value })}>
           <option value="enquiries">Sort by Enquiries</option>
           <option value="code">Sort by Engine Code</option>
           <option value="family">Sort by Family</option>
         </select>
       </div>
-      <button type="button" data-filter-reset onClick={onReset} className="flex min-h-12 w-full items-center justify-center gap-3 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[15px] text-[var(--color-text)]">
+      <button type="button" data-filter-reset onClick={onReset} className="flex min-h-11 w-full items-center justify-center gap-2.5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[14px] text-[var(--color-text)]">
         <StatIcon type="reset" isDark={isDark} />
         Reset filters
       </button>
@@ -296,12 +302,12 @@ function MobileControls({ filters, options, onChange, onReset, isDark }) {
 
 function MobileTable({ engines, isDark }) {
   return (
-    <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[15px]">
-      <div className="grid grid-cols-[1.2fr_0.9fr_1fr_44px] px-3 py-3 text-[15px] font-bold uppercase text-white" style={{ backgroundColor: GOLD }}>
+    <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[13px]">
+      <div className="grid grid-cols-[1.15fr_0.85fr_1fr_36px] gap-x-1 px-2.5 py-2.5 text-[11px] font-bold uppercase leading-tight text-white" style={{ backgroundColor: GOLD }}>
         <span>Engine Code</span>
         <span>Fuel</span>
         <span>2025 Enquiries</span>
-        <span>View</span>
+        <span className="text-center">View</span>
       </div>
       <div className="flex flex-col">
       {engines.map((row, index) => {
@@ -331,24 +337,24 @@ function MobileTable({ engines, isDark }) {
             data-code={cleanText(row.engineCode)}
             data-family={cleanText(row.family)}
             hidden={index >= 9}
-            className="grid grid-cols-[1.2fr_0.9fr_1fr_44px] items-center border-t border-[var(--color-border)] px-3 py-3"
+            className="grid grid-cols-[1.15fr_0.85fr_1fr_36px] items-center gap-x-1 border-t border-[var(--color-border)] px-2.5 py-2.5"
           >
-            <span className="font-bold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(row.engineCode) }} />
-            <span className="flex items-center gap-2">
-              <StatIcon type="droplet" isDark={isDark} className="h-4 w-4" />
-              <span dangerouslySetInnerHTML={{ __html: cleanText(row.fuel) }} />
+            <span className="min-w-0 break-words font-bold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(row.engineCode) }} />
+            <span className="flex min-w-0 items-center gap-1.5">
+              <StatIcon type="droplet" isDark={isDark} className="h-3.5 w-3.5 shrink-0" />
+              <span className="min-w-0 truncate" dangerouslySetInnerHTML={{ __html: cleanText(row.fuel) }} />
             </span>
             <span className="font-bold" style={{ color: GOLD }}>{enquiries ? enquiries.toLocaleString("en-GB") : "-"}</span>
-            <Link href="#" style={{ color: GOLD }}><StatIcon type="arrow" isDark={isDark} className="h-4 w-4" /></Link>
+            <Link href="#" className="flex justify-center" style={{ color: GOLD }}><StatIcon type="arrow" isDark={isDark} className="h-3.5 w-3.5" /></Link>
           </div>
         );
       })}
       </div>
-      <div data-engine-empty hidden className="border-t border-[var(--color-border)] px-3 py-5 text-center text-[15px] text-[var(--color-text-muted)]">
+      <div data-engine-empty hidden className="border-t border-[var(--color-border)] px-3 py-4 text-center text-[14px] text-[var(--color-text-muted)]">
         No engine codes match these filters.
       </div>
       {engines.length === 0 ? (
-        <div className="border-t border-[var(--color-border)] px-3 py-5 text-center text-[15px] text-[var(--color-text-muted)]">
+        <div className="border-t border-[var(--color-border)] px-3 py-4 text-center text-[14px] text-[var(--color-text-muted)]">
           No engine codes match these filters.
         </div>
       ) : null}
@@ -475,62 +481,62 @@ export default function EngineDatabase({ data }) {
         </div>
 
         <div className="md:hidden">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.08] tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora text-[1.75rem] font-medium leading-[1.08] tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             <span dangerouslySetInnerHTML={{ __html: shortTitle(data.h2).replace("Engine Codes - The Database", "Engine Codes -") }} />
             <br />
             <span style={{ color: GOLD }}>The Database</span>
           </h2>
-          <div className="mt-3">
+          <div className="mt-2.5">
             <SectionFadeStrip isDark={isDark} />
           </div>
-          <p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
+          <p className={`mt-3 text-[0.9rem] leading-[1.45] text-[var(--color-text-muted)]`}>
             {cleanText(data.subHeadline) || "The complete engine-code database with real UK enquiry data, fitted models, and replacement cost insights."}
           </p>
 
-          <div className="mt-6 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-4">
+          <div className="mt-5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-3.5">
             <div className="flex items-center gap-2.5">
-              <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-md bg-[#F5EAD4]">
-                <StatIcon type="database" isDark={isDark} className="h-7 w-7" />
+              <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md bg-[#F5EAD4]">
+                <StatIcon type="database" isDark={isDark} className="h-6 w-6" />
               </span>
-              <h3 className="flex-1 text-left text-[28px] font-bold leading-[1.1]">Proprietary UK Data</h3>
+              <h3 className="min-w-0 flex-1 text-left text-[1.35rem] font-bold leading-[1.15]">Proprietary UK Data</h3>
             </div>
-            <p className="mt-3 text-center text-[14px] leading-[1.5]">
+            <p className="mt-2.5 text-left text-[13px] leading-[1.45] text-[var(--color-text-muted)]">
               Every figure below is powered by real UK owner enquiries in 2025. This is data you won&apos;t find anywhere else.
             </p>
           </div>
 
-          <div className="mt-5">
+          <div className="mt-4">
             <MobileControls filters={filters} options={mobileOptions} onChange={updateFilters} onReset={() => setFilters(defaultFilters)} isDark={isDark} />
           </div>
 
-          <div className="mt-5">
+          <div className="mt-4">
             <MobileTable engines={mobileEngines} isDark={isDark} />
           </div>
 
-          <div className="mt-6 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-5 text-[15px] leading-[1.55]">
+          <div className="mt-5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-3.5 text-[13px] leading-[1.5]">
             <h3 className="font-bold uppercase" style={{ color: GOLD }}>
               Data sources:
             </h3>
-            <div className="mt-4 space-y-4">
-              <p className="flex gap-4">
-                <StatIcon type="chart" isDark={isDark} />
-                <span>
+            <div className="mt-3 space-y-3">
+              <p className="flex items-start gap-2.5">
+                <StatIcon type="chart" isDark={isDark} className="mt-0.5 h-4 w-4 shrink-0" />
+                <span className="min-w-0">
                   <strong>Enquiry volumes:</strong>
                   <br />
                   EM_Proprietary_Data_2025.txt [EM-VERIFIED]
                 </span>
               </p>
-              <p className="flex gap-4">
-                <StatIcon type="pound" isDark={isDark} />
-                <span>
+              <p className="flex items-start gap-2.5">
+                <StatIcon type="pound" isDark={isDark} className="mt-0.5 h-4 w-4 shrink-0" />
+                <span className="min-w-0">
                   <strong>Costs:</strong>
                   <br />
                   Table A - Engine Replacement Economics [EM-QUOTE]
                 </span>
               </p>
-              <p className="flex gap-4">
-                <StatIcon type="file" isDark={isDark} />
-                <span>
+              <p className="flex items-start gap-2.5">
+                <StatIcon type="file" isDark={isDark} className="mt-0.5 h-4 w-4 shrink-0" />
+                <span className="min-w-0">
                   <strong>Engine codes:</strong>
                   <br />
                   Cross-referenced from your existing data

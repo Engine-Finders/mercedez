@@ -76,13 +76,31 @@ export default function TrustBlock({ data }) {
 
               <div className="mt-4">
                 {signals.map((item) => (
-                  <article key={item.title} className="flex gap-3.5 border-b border-[var(--color-border)] py-3.5 first:pt-0 last:border-b-0 last:pb-0 md:gap-4 md:py-3.5">
-                    <SignalIcon item={item} isDark={isDark} />
-                    <p className="text-[15px] leading-[1.42] text-[var(--color-text)] md:text-[16px]">
-                      <strong className="font-bold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(item.title) }} />
-                      {" - "}
-                      <span dangerouslySetInnerHTML={{ __html: cleanText(item.text) }} />
-                    </p>
+                  <article key={item.title} className="border-b border-[var(--color-border)] py-3.5 first:pt-0 last:border-b-0 last:pb-0 md:py-3.5">
+                    {/* Mobile: icon + heading row, description below */}
+                    <div className="md:hidden">
+                      <div className="flex items-center gap-3">
+                        <SignalIcon item={item} isDark={isDark} />
+                        <strong
+                          className="min-w-0 text-[15px] font-bold leading-tight"
+                          style={{ color: GOLD }}
+                          dangerouslySetInnerHTML={{ __html: cleanText(item.title) }}
+                        />
+                      </div>
+                      <p
+                        className="mt-1 text-[15px] leading-[1.42] text-[var(--color-text)]"
+                        dangerouslySetInnerHTML={{ __html: cleanText(item.text) }}
+                      />
+                    </div>
+                    {/* Desktop: original side-by-side layout */}
+                    <div className="hidden gap-4 md:flex">
+                      <SignalIcon item={item} isDark={isDark} />
+                      <p className="text-[16px] leading-[1.42] text-[var(--color-text)]">
+                        <strong className="font-bold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(item.title) }} />
+                        {" - "}
+                        <span dangerouslySetInnerHTML={{ __html: cleanText(item.text) }} />
+                      </p>
+                    </div>
                   </article>
                 ))}
               </div>
