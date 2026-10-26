@@ -16,6 +16,7 @@ function escapeHtml(value) {
 }
 
 function formatLabel(key) {
+  if (key === "page_url") return "Page URL";
   return String(key)
     .replace(/_/g, " ")
     .replace(/([a-z])([A-Z])/g, "$1 $2")
@@ -58,7 +59,11 @@ function buildCalculatorSection(calculator) {
 
 function buildLeadEmailHtml(payload = {}) {
   const crmPayload = toCrmLeadPayload(payload);
+  const pageUrl = crmPayload.page_url || payload.page_url || payload.sourceUrl || "";
   const fieldRows = SENT_LEAD_FIELDS.map((key) => row(formatLabel(key), crmPayload[key])).join("");
+  const pageUrlLink = pageUrl
+    ? `<p style="margin:8px 0 0;font-size:12px;opacity:0.9;">Page: <a href="${escapeHtml(pageUrl)}" style="color:#f5ead4;word-break:break-all;">${escapeHtml(pageUrl)}</a></p>`
+    : "";
 
   return `<!DOCTYPE html>
 <html>
@@ -68,6 +73,7 @@ function buildLeadEmailHtml(payload = {}) {
         <td style="padding:20px 24px;background:#111111;color:#ffffff;">
           <h1 style="margin:0;font-size:20px;">New quote request</h1>
           <p style="margin:6px 0 0;font-size:13px;opacity:0.9;">Lead from ${escapeHtml(crmPayload.source || LEAD_SOURCE)}</p>
+          ${pageUrlLink}
         </td>
       </tr>
       <tr>
