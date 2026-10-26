@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useId, useMemo, useState } from "react";
 import { buildQuoteLeadPayload } from "@/app/api/lib/buildLeadPayload";
+import { resolveVehicleImage } from "@/lib/resolveVehicleImage";
 
 const emptyVehicle = {
   vrm: "",
@@ -155,7 +156,7 @@ function IconFuel({ className }) {
 function Field({ id, label, icon, children }) {
   return (
     <div>
-      <label htmlFor={id} className="mb-1.5 flex items-center gap-1.5 text-sm font-semibold text-[var(--color-text)]">
+      <label htmlFor={id} className="mb-1 flex items-center gap-1 text-[0.78rem] font-semibold text-[var(--color-text)] sm:text-sm">
         <span className="text-[var(--color-text-muted)]">{icon}</span>
         {label}
       </label>
@@ -165,12 +166,12 @@ function Field({ id, label, icon, children }) {
 }
 
 const fieldInputClass =
-  "w-full rounded-lg border border-[var(--color-border)] bg-white px-3 py-2.5 text-sm text-[var(--color-text)] outline-none placeholder:text-[var(--color-text-soft)] focus:border-[var(--color-primary)]";
+  "w-full rounded-md border border-[var(--color-border)] bg-white px-2.5 py-2 text-sm text-[var(--color-text)] outline-none placeholder:text-[var(--color-text-soft)] focus:border-[var(--color-primary)]";
 
 function UkPlate({ value, editable, onChange, inputId }) {
   return (
-    <div className="flex min-h-12 flex-1 overflow-hidden rounded-md border border-[#1a1a1a] bg-[#F7CE45] shadow-sm">
-      <div className="flex w-9 shrink-0 flex-col items-center justify-center gap-0.5 bg-[#1B3E8A] text-white">
+    <div className="flex min-h-11 flex-1 overflow-hidden rounded-md border border-[#1a1a1a] bg-[#F7CE45] shadow-sm">
+      <div className="flex w-8 shrink-0 flex-col items-center justify-center gap-0.5 bg-[#1B3E8A] text-white">
         <span className="text-[0.55rem] font-bold leading-none tracking-wide">GB</span>
       </div>
       {editable ? (
@@ -217,6 +218,11 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
     const parts = [vehicle.brand, vehicle.series].filter(Boolean);
     return parts.join(" ") || "Vehicle found";
   }, [vehicle.brand, vehicle.series]);
+
+  const vehicleImageSrc = useMemo(
+    () => resolveVehicleImage(vehicle),
+    [vehicle.brand, vehicle.series, vehicle.model, vehicle.vrm],
+  );
 
   async function lookupVehicle(event) {
     event?.preventDefault?.();
@@ -275,6 +281,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
       const payload = buildQuoteLeadPayload({
         contact: { name, phone, email, postcode, remarks, honeypot },
         vehicle,
+        pageUrl: typeof window !== "undefined" ? window.location.href : "",
       });
 
       const response = await fetch("/api/lead", {
@@ -330,33 +337,33 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
       className="relative z-[61] flex max-h-[94vh] w-full max-w-2xl flex-col overflow-hidden rounded-2xl bg-white shadow-[0_20px_60px_rgba(0,0,0,0.35)]"
     >
       {/* Header */}
-      <div className="relative shrink-0 overflow-hidden px-5 pb-10 pt-6 sm:px-8 sm:pb-12 sm:pt-7">
+      <div className="relative shrink-0 overflow-hidden px-4 pb-8 pt-5 sm:px-7 sm:pb-10 sm:pt-6">
         <Image src="/sec2-bg.webp" alt="" fill priority className="object-cover object-center" sizes="672px" />
         <div className="absolute inset-0 bg-black/55" />
         <button
           ref={closeRef}
           type="button"
           onClick={onClose}
-          className="absolute right-3 top-3 z-10 flex h-9 w-9 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm hover:bg-white/25"
+          className="absolute right-2.5 top-2.5 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm hover:bg-white/25"
           aria-label="Close"
         >
-          <span className="text-lg leading-none">✕</span>
+          <span className="text-base leading-none">✕</span>
         </button>
-        <div className="relative z-[1] pr-10 text-center sm:text-left">
-          <h2 id={titleId} className="text-2xl font-extrabold leading-tight text-white sm:text-[1.75rem]">
+        <div className="relative z-[1] pr-9 text-center sm:text-left">
+          <h2 id={titleId} className="text-xl font-extrabold leading-tight text-white sm:text-[1.75rem]">
             Get My Vehicle <span className="text-[var(--color-primary)]">Information</span>
           </h2>
-          <p className="mt-2 text-sm text-white/85">
+          <p className="mt-1.5 text-[0.8rem] text-white/85 sm:text-sm">
             Enter your vehicle registration to find best replacement engine quote.
           </p>
         </div>
       </div>
 
       {/* Body */}
-      <form onSubmit={handleSubmit} className="relative -mt-6 flex min-h-0 flex-1 flex-col overflow-hidden rounded-t-2xl bg-white">
-        <div className="min-h-0 flex-1 overflow-y-auto px-4 pb-5 pt-5 sm:px-7 sm:pb-6 sm:pt-6">
+      <form onSubmit={handleSubmit} className="relative -mt-5 flex min-h-0 flex-1 flex-col overflow-hidden rounded-t-2xl bg-white">
+        <div className="min-h-0 flex-1 overflow-y-auto px-3.5 pb-4 pt-4 sm:px-6 sm:pb-5 sm:pt-5">
           {!vehicleReady ? (
-            <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-stretch">
+            <div className="mb-3.5 flex flex-col gap-2.5 sm:flex-row sm:items-stretch">
               <UkPlate
                 value={regInput}
                 editable
@@ -367,7 +374,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
                 type="button"
                 onClick={lookupVehicle}
                 disabled={lookupLoading}
-                className="btn-cta inline-flex min-h-12 shrink-0 items-center justify-center gap-2 rounded-lg bg-[var(--color-primary)] px-5 text-sm font-bold text-white hover:bg-[var(--color-primary-strong)] disabled:opacity-60"
+                className="btn-cta inline-flex min-h-11 shrink-0 items-center justify-center gap-2 rounded-lg bg-[var(--color-primary)] px-4 text-sm font-bold text-white hover:bg-[var(--color-primary-strong)] disabled:opacity-60"
               >
                 {lookupLoading ? (
                   <span className="h-4 w-4 animate-spin rounded-full border-2 border-current border-t-transparent" />
@@ -376,14 +383,20 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
               </button>
             </div>
           ) : (
-            <div className="mb-5 grid gap-4 sm:grid-cols-[minmax(0,1fr)_minmax(0,1.15fr)] sm:items-center">
-              <div className="relative mx-auto aspect-[16/10] w-full max-w-[280px] overflow-hidden rounded-xl bg-[var(--color-page-soft)] sm:mx-0 sm:max-w-none">
-                <Image src="/right.webp" alt={vehicleTitle} fill className="object-contain object-center p-2" sizes="280px" />
+            <div className="mb-3.5 grid gap-3 grid-cols-[minmax(0,0.95fr)_minmax(0,1.15fr)] items-center">
+              <div className="relative mx-auto aspect-[16/10] w-full max-w-[280px] sm:mx-0 sm:max-w-none">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  key={vehicleImageSrc}
+                  src={vehicleImageSrc}
+                  alt={vehicleTitle}
+                  className="h-full w-full object-contain object-center"
+                />
               </div>
               <div>
                 <UkPlate value={vehicle.vrm || regInput} editable={false} />
-                <p className="mt-3 text-base font-extrabold text-[var(--color-text)] sm:text-lg">{vehicleTitle}</p>
-                <ul className="mt-2 space-y-1.5 text-sm text-[var(--color-text-muted)]">
+                <p className="mt-2 text-[0.95rem] font-extrabold text-[var(--color-text)] sm:text-lg">{vehicleTitle}</p>
+                <ul className="mt-1.5 space-y-1 text-[0.8rem] text-[var(--color-text-muted)] sm:text-sm">
                   <li className="flex items-center gap-2">
                     <IconCalendar className="h-4 w-4 shrink-0 text-[var(--color-text)]" />
                     <span>
@@ -430,7 +443,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
 
           {lookupAlert.message ? (
             <p
-              className={`mb-4 rounded-lg border px-3 py-2 text-sm ${
+              className={`mb-3 rounded-md border px-2.5 py-1.5 text-[0.8rem] sm:text-sm ${
                 lookupAlert.type === "error"
                   ? "border-[var(--color-accent-red)]/40 bg-[var(--color-accent-red-soft)] text-[var(--color-accent-red)]"
                   : "border-[var(--color-accent-green)]/40 bg-[var(--color-accent-green-soft)] text-[var(--color-accent-green)]"
@@ -440,15 +453,15 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
             </p>
           ) : null}
 
-          <div className="mb-4 flex items-center gap-3">
-            <h3 className="shrink-0 text-lg font-extrabold text-[var(--color-text)]">
+          <div className="mb-3 flex items-center gap-2.5">
+            <h3 className="shrink-0 text-base font-extrabold text-[var(--color-text)] sm:text-lg">
               Enter Your <span className="text-[var(--color-primary)]">Details</span>
             </h3>
             <span className="h-px flex-1 bg-[var(--color-border)]" />
           </div>
 
-          <div className="grid gap-3 sm:grid-cols-2">
-            <Field id={`${uid}-name`} label="Name" icon={<IconUser className="h-4 w-4" />}>
+          <div className="grid grid-cols-2 gap-2.5 sm:gap-3">
+            <Field id={`${uid}-name`} label="Name" icon={<IconUser className="h-3.5 w-3.5 sm:h-4 sm:w-4" />}>
               <input
                 id={`${uid}-name`}
                 name="name"
@@ -460,7 +473,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
                 className={fieldInputClass}
               />
             </Field>
-            <Field id={`${uid}-email`} label="Email" icon={<IconMail className="h-4 w-4" />}>
+            <Field id={`${uid}-email`} label="Email" icon={<IconMail className="h-3.5 w-3.5 sm:h-4 sm:w-4" />}>
               <input
                 id={`${uid}-email`}
                 name="email"
@@ -472,7 +485,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
                 className={fieldInputClass}
               />
             </Field>
-            <Field id={`${uid}-phone`} label="Phone Number" icon={<IconPhone className="h-4 w-4" />}>
+            <Field id={`${uid}-phone`} label="Phone Number" icon={<IconPhone className="h-3.5 w-3.5 sm:h-4 sm:w-4" />}>
               <input
                 id={`${uid}-phone`}
                 name="number"
@@ -484,7 +497,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
                 className={fieldInputClass}
               />
             </Field>
-            <Field id={`${uid}-postcode`} label="Post Code" icon={<IconPin className="h-4 w-4" />}>
+            <Field id={`${uid}-postcode`} label="Post Code" icon={<IconPin className="h-3.5 w-3.5 sm:h-4 sm:w-4" />}>
               <input
                 id={`${uid}-postcode`}
                 name="postcode"
@@ -496,16 +509,16 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
                 className={fieldInputClass}
               />
             </Field>
-            <div className="sm:col-span-2">
+            <div className="col-span-2">
               <Field
                 id={`${uid}-remarks`}
-                label="Any Remarks (Additional Information – Optional)"
-                icon={<IconChat className="h-4 w-4" />}
+                label="Any Remarks (Optional)"
+                icon={<IconChat className="h-3.5 w-3.5 sm:h-4 sm:w-4" />}
               >
                 <textarea
                   id={`${uid}-remarks`}
                   name="description"
-                  rows={3}
+                  rows={2}
                   value={remarks}
                   onChange={(e) => setRemarks(e.target.value)}
                   placeholder="Please enter any info you would like us to know."
@@ -529,7 +542,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
 
           {submitAlert.message ? (
             <p
-              className={`mt-4 rounded-lg border px-3 py-2 text-sm ${
+              className={`mt-3 rounded-md border px-2.5 py-1.5 text-[0.8rem] sm:text-sm ${
                 submitAlert.type === "error"
                   ? "border-[var(--color-accent-red)]/40 bg-[var(--color-accent-red-soft)] text-[var(--color-accent-red)]"
                   : "border-[var(--color-accent-green)]/40 bg-[var(--color-accent-green-soft)] text-[var(--color-accent-green)]"
@@ -542,7 +555,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
           <button
             type="submit"
             disabled={!vehicleReady || submitLoading}
-            className="btn-cta mt-5 inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-xl bg-[var(--color-primary)] px-4 text-sm font-bold text-white hover:bg-[var(--color-primary-strong)] disabled:cursor-not-allowed disabled:opacity-45"
+            className="btn-cta mt-3.5 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-lg bg-[var(--color-primary)] px-3 text-[0.8rem] font-bold text-white hover:bg-[var(--color-primary-strong)] disabled:cursor-not-allowed disabled:opacity-45 sm:min-h-12 sm:text-sm"
           >
             {submitLoading ? (
               <span className="h-4 w-4 animate-spin rounded-full border-2 border-current border-t-transparent" />
@@ -553,12 +566,12 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
           </button>
 
           {!vehicleReady ? (
-            <p className="mt-2 text-center text-xs text-[var(--color-text-soft)]">
+            <p className="mt-1.5 text-center text-[0.7rem] text-[var(--color-text-soft)]">
               Search a vehicle registration to enable submit.
             </p>
           ) : null}
 
-          <p className="mt-4 flex items-start justify-center gap-1.5 text-center text-[0.72rem] leading-snug text-[var(--color-text-soft)]">
+          <p className="mt-3 flex items-start justify-center gap-1.5 text-center text-[0.68rem] leading-snug text-[var(--color-text-soft)] sm:text-[0.72rem]">
             <IconLock className="mt-0.5 h-3.5 w-3.5 shrink-0" />
             <span>Your details are secure, no spam – genuine quote from UK vetted engine specialists only.</span>
           </p>

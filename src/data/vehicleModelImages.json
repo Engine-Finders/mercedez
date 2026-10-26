@@ -1,0 +1,14 @@
+{
+  "default": "/right.webp",
+  "models": {
+    "a-class": "/cars/models/a-class.webp",
+    "b-class": "/cars/models/b-class.webp",
+    "c-class": "/cars/models/c-class.webp",
+    "cla": "/cars/models/cla.webp",
+    "clc-class": "/cars/models/clc-class.webp",
+    "clk": "/cars/models/clk.webp",
+    "cls": "/cars/models/cls.webp",
+    "citan": "/cars/models/citan.webp",
+    "amg-gt": "/cars/models/amg-gt.webp"
+  }
+}

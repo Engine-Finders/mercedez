@@ -141,6 +141,7 @@ export default function QuoteForm({ onSuccess, compact = false }) {
         contact: { name, phone, email, postcode, remarks, honeypot },
         vehicle,
         calculator,
+        pageUrl: typeof window !== "undefined" ? window.location.href : "",
       });
 
       const response = await fetch("/api/lead", {
