@@ -206,7 +206,7 @@ export default async function CatchAllPage({ params }) {
 
   if (type === "generations") {
     return (
-      <main className="flex flex-col">
+      <main className="flex w-full flex-col bg-[var(--color-page)]">
         {data.meta?.jsonLd && (
           <script
             type="application/ld+json"

@@ -2,51 +2,89 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import MStripe from "@/components/reusableComponents/MStripe";
+import HomeIcon from "@/components/home/homeIcons";
+import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import GenIcon from "./GenIcons";
 
-function splitTagPill(tagPill = "") {
-  const parts = tagPill.split(" • ");
-  return { model: parts[0] || "", body: parts[1] || "", years: parts[2] || "" };
+const TRUST_ICON_FALLBACKS = ["chart", "wrench", "book", "engine-finders"];
+
+const EMOJI_ICON_MAP = {
+  "📊": "chart",
+  "🔧": "wrench",
+  "📖": "book",
+  "🏆": "engine-finders",
+  "📘": "book",
+  "🛠️": "wrench",
+};
+
+function ArrowIcon({ className = "h-4 w-4" }) {
+  return (
+    <svg aria-hidden="true" viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M5 12h14m-6-6 6 6-6 6" />
+    </svg>
+  );
 }
 
-// Split a trust-strip label into a leading bold value (a number/short token)
-// and the remaining text, plus any trailing [TAG] marker rendered as a separate line.
-function splitStat(label = "") {
-  const tagMatch = label.match(/\s*\[([^\]]+)\]\s*$/);
-  const tag = tagMatch ? tagMatch[1] : "";
-  const text = tagMatch ? label.slice(0, tagMatch.index) : label;
-
-  const [first, ...rest] = text.split(" ");
-  const hasValue = /[0-9]/.test(first);
-
-  return {
-    value: hasValue ? first : "",
-    label: hasValue ? rest.join(" ") : text,
-    tag,
-  };
+function resolveIcon(icon, index = 0) {
+  if (!icon) return TRUST_ICON_FALLBACKS[index] || "chart";
+  if (EMOJI_ICON_MAP[icon]) return EMOJI_ICON_MAP[icon];
+  return icon;
 }
 
-function TrustLabel({ label }) {
-  if (label === "Part of Engine Finders") {
-    return (
-      <>
-        <span className="block">Part of Engine</span>
-        <span className="block">Finders</span>
-      </>
-    );
-  }
-  if (label === "Every Generation, Honestly Rated") {
-    return (
-      <>
-        <span className="block">Every Generation,</span>
-        <span className="block">Honestly</span>
-        <span className="block">Rated</span>
-      </>
-    );
-  }
-  return label;
+function TagPill({ tagPill, isDark }) {
+  const parts = String(tagPill || "")
+    .split(" • ")
+    .map((p) => p.trim())
+    .filter(Boolean);
+
+  return (
+    <div
+      className={`inline-flex w-fit max-w-full flex-nowrap items-center gap-x-2 self-start overflow-x-auto rounded-md border px-3 py-2 text-[0.72rem] leading-[1.35] whitespace-nowrap md:px-3.5 md:py-2.5 md:text-[0.8rem] ${
+        isDark ? "border-white/20 bg-white/5 text-white/85" : "border-[#E5E5E5] bg-white/80 text-[var(--color-text-muted)]"
+      }`}
+    >
+      <HomeIcon name="car" isDark={isDark} gold className="h-4 w-4 shrink-0 object-contain" />
+      {parts.map((part, index) => (
+        <span key={`${part}-${index}`} className="inline-flex shrink-0 items-center gap-2">
+          {index > 0 ? (
+            <span aria-hidden="true" className={isDark ? "text-white/35" : "text-[var(--color-text-soft)]"}>
+              •
+            </span>
+          ) : null}
+          <span className={index === 0 ? (isDark ? "font-medium text-white" : "font-medium text-[var(--color-text)]") : ""} dangerouslySetInnerHTML={{ __html: part }} />
+        </span>
+      ))}
+    </div>
+  );
+}
+
+function TrustStat({ item, index, isDark }) {
+  const label = (item.label || "").replace(/\s*\[[^\]]+\]\s*$/, "").trim();
+  const tagMatch = String(item.label || "").match(/\[([^\]]+)\]\s*$/);
+  const tag = item.tag || tagMatch?.[1] || "";
+  const iconKey = resolveIcon(item.icon, index);
+
+  return (
+    <li
+      className={`flex min-w-0 flex-col items-center gap-1.5 border-r px-1.5 py-3 text-center last:border-r-0 sm:flex-row sm:items-center sm:gap-2.5 sm:px-3 sm:py-3.5 sm:text-left md:gap-3 md:px-4 md:py-4 ${
+        isDark ? "border-white/12" : "border-[var(--color-border)]"
+      }`}
+    >
+      <span className="flex h-12 w-12 shrink-0 items-center justify-center md:h-14 md:w-14">
+        <HomeIcon name={iconKey} isDark={isDark} gold className="h-11 w-11 object-contain md:h-14 md:w-14" />
+      </span>
+      <span className="min-w-0">
+        <strong className={`block text-[0.62rem] font-semibold leading-tight sm:text-[0.82rem] md:text-[0.9rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          {label}
+        </strong>
+        {tag ? (
+          <span className="mt-0.5 block text-[0.55rem] font-medium sm:text-[0.68rem]" style={{ color: GOLD }}>
+            [{tag}]
+          </span>
+        ) : null}
+      </span>
+    </li>
+  );
 }
 
 export default function ModelHero({ data }) {
@@ -54,183 +92,111 @@ export default function ModelHero({ data }) {
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const pill = splitTagPill(data.tagPill);
-  const imageSrc = isDark ? data.image?.dark : data.image?.light || data.image?.dark;
+  const headerImage = data.headerImage || data.image || { src: "/model/Hero-bg-image.webp", alt: "" };
+  const imageSrc = headerImage.src || headerImage.light || headerImage.dark || "/model/Hero-bg-image.webp";
+  const ctaLabel = (data.primaryCta?.label || "Explore Engines →").replace(/\s*→\s*$/, "");
+  const ctaHref = data.primaryCta?.href || "/quote";
+  const trustStrip = data.trustStrip || [];
 
   return (
-    <section className="relative min-h-[560px] overflow-hidden bg-[var(--color-page)] text-[var(--color-text)] md:min-h-[620px]">
-      {/* Full-bleed background image on every breakpoint - mobile: vertical fade (dark for text up top, car visible lower down); desktop: left-to-right fade */}
-      <div className="absolute inset-0">
-        {/* Mobile: dedicated portrait crop, narrowed and centered so it reads tall/slim rather than stretched full-width */}
-        <div className="absolute inset-x-0 top-[20%] bottom-[2%] md:hidden">
-          <Image
-            src={isDark ? "/e90/hero_mobile_dark.webp" : "/e90/hero_mobile_day.webp"}
-            alt={data.image?.alt || ""}
-            fill
-            className="object-fill"
-            sizes="84vw"
-            priority
-          />
-        </div>
-        {imageSrc ? (
-          <Image
-            src={imageSrc}
-            alt={data.image?.alt || ""}
-            fill
-            className="hidden object-cover md:block"
-            sizes="100vw"
-            priority
-          />
-        ) : null}
-        {/* Mobile: top-heavy vertical fade so the tag/H1/subheadline stay readable, clearing by the time the car appears lower in frame */}
-        <div className="absolute inset-0 bg-[linear-gradient(180deg,var(--color-hero-fade)_0%,var(--color-hero-overlay)_38%,transparent_68%)] md:hidden" />
-        <div className="absolute inset-0 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_22%)] md:hidden" />
-        {/* Mobile, light mode only: soften the top-left corner so the image blends into the white page background */}
-        {!isDark ? (
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.85)_0%,transparent_45%)] md:hidden" />
-        ) : null}
-        {/* Light mode only: extra white wash across the very top so it blends cleanly into the page above the hero */}
-        {!isDark ? (
-          <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(255,255,255,0.9)_0%,transparent_30%)]" />
-        ) : null}
-        {/* Desktop: left-to-right + bottom fade so the image blends into the page color */}
-        <div className="absolute inset-0 hidden bg-[linear-gradient(90deg,var(--color-hero-fade)_0%,var(--color-hero-overlay)_35%,transparent_72%)] md:block" />
-        <div className="absolute inset-0 hidden bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_28%)] md:block" />
+    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] md:min-h-[620px] ${homeSectionBg(isDark, 1)}`}>
+      {/* Desktop background image only */}
+      <div className="absolute inset-0 hidden md:block">
+        <Image src={imageSrc} alt={headerImage.alt || ""} fill className="object-cover object-center" sizes="100vw" priority />
+        <div
+          className={
+            isDark
+              ? "absolute inset-0 bg-[linear-gradient(105deg,rgba(2,7,11,0.98)_0%,rgba(2,7,11,0.95)_42%,rgba(2,7,11,0.72)_58%,rgba(2,7,11,0.28)_78%,rgba(2,7,11,0.08)_100%)]"
+              : "absolute inset-0 bg-[linear-gradient(105deg,#EFEEE9_0%,rgba(239,238,233,0.98)_42%,rgba(239,238,233,0.88)_56%,rgba(239,238,233,0.4)_74%,rgba(239,238,233,0.06)_100%)]"
+          }
+        />
+        <div
+          className={
+            isDark
+              ? "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)] md:h-36"
+              : "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)] md:h-36"
+          }
+        />
       </div>
 
-      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-8 md:min-h-[620px] md:justify-center md:px-8 md:py-10">
-        <div className="relative flex w-full max-w-[720px] flex-col gap-3 md:ml-0 md:mt-0 md:gap-4">
-          {/* Tag pill */}
-          <span
-            className={`inline-flex w-fit max-w-full flex-wrap items-center gap-x-2 gap-y-2 rounded-md border px-3 py-2 text-[0.82rem] leading-[1.35] md:px-4 md:py-2 md:text-[0.88rem] ${
-              isDark
-                ? "border-white/30 bg-[rgba(2,7,17,0.5)] text-white"
-                : "border-[rgba(11,103,220,0.48)] bg-[rgba(255,255,255,0.58)] text-[var(--color-text-muted)]"
-            }`}
-          >
-            <GenIcon name="car" className="h-4 w-4 shrink-0 text-[var(--color-primary)]" />
-            <strong className="font-semibold text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: pill.model }} />
-            {pill.body ? (
-              <>
-                <span aria-hidden="true" className="opacity-50">•</span>
-                <span dangerouslySetInnerHTML={{ __html: pill.body }} />
-              </>
-            ) : null}
-            {pill.years ? (
-              <>
-                <span aria-hidden="true" className="opacity-50">•</span>
-                <span dangerouslySetInnerHTML={{ __html: pill.years }} />
-              </>
-            ) : null}
-          </span>
+      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6 md:min-h-[620px] md:px-6 md:pb-7 md:pt-10 lg:px-8">
+        <TagPill tagPill={data.tagPill} isDark={isDark} />
 
-          {/* Headline */}
-          <h1
-            className={`text-[32px] font-bold leading-[0.95] tracking-normal md:max-w-[720px] md:text-[3.5rem] md:leading-[0.94] ${
-              isDark ? "text-white" : "text-[var(--color-text)]"
-            }`}
-            dangerouslySetInnerHTML={{ __html: data.h1 }}
-          />
+        <div className="mt-5 max-w-[640px] md:mt-6">
+          {/* H1 with strip above and below */}
+          <div className="flex flex-col gap-3 md:gap-3.5">
+            <SectionFadeStrip isDark={isDark} />
+            <h1
+              className={`font-lora max-w-[760px] text-[2rem] font-medium leading-[1.08] md:text-[2.85rem] md:leading-[1.05] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
+              dangerouslySetInnerHTML={{ __html: data.h1 }}
+            />
+            <SectionFadeStrip isDark={isDark} />
+          </div>
 
-          {/* MStripe decorative accent - matches home hero (blue / blue / red / grey slashes + trailing line) */}
-          <MStripe />
-
-          {/* subHeadline - sits over the top-heavy fade on mobile, and over the solid background on desktop */}
           <p
-            className={`max-w-[78%] text-[0.88rem] leading-[1.42] md:max-w-[620px] md:text-[1.08rem] md:leading-[1.42] ${
-              isDark ? "text-white/88" : "text-[var(--color-text-muted)]"
-            }`}
+            className={`mt-3 max-w-[600px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
             dangerouslySetInnerHTML={{ __html: data.subHeadline }}
           />
 
-          {/* Mobile: spacer so the CTA/stats sit lower, clear of the car in the lower portion of the image */}
-          <div className="h-[130px] md:hidden" aria-hidden="true" />
-
-          {/* Mobile: full-width primary CTA - sits below the image card in normal flow */}
+          {/* Desktop CTA */}
           {data.primaryCta ? (
             <Link
-              href="/quote"
-              className="btn-cta mt-5 inline-flex w-full items-center justify-center gap-3 rounded-md bg-[var(--color-primary)] px-6 py-4 text-[1rem] font-bold text-white shadow-[0_12px_28px_var(--color-shadow)] md:hidden"
+              href={ctaHref}
+              className="btn-cta mt-4 hidden w-fit items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-5 md:inline-flex md:px-6 md:py-3.5 md:text-[0.9rem]"
+              style={{ color: GOLD }}
             >
-              <span dangerouslySetInnerHTML={{ __html: data.primaryCta.label.replace(/\s*→\s*$/, "") }} />
-              <GenIcon name="arrow" className="h-5 w-5" />
-            </Link>
-          ) : null}
-
-          {/* Trust strip - single horizontal bar, icon-first vertical stack per badge, floating dividers */}
-          {data.trustStrip?.length > 0 ? (
-            <div className="glass-panel mt-5 flex items-stretch justify-center rounded-md px-3 py-2.5 shadow-[0_10px_30px_var(--color-shadow)] md:max-w-fit md:rounded-lg md:px-4 md:py-3">
-              {data.trustStrip.map((item, index) => {
-                const stat = splitStat(item.label);
-                const isSimple = !stat.value && !stat.tag && !stat.label.includes(" ");
-
-                return (
-                  <div key={item.label} className="flex items-stretch">
-                    {index > 0 ? (
-                      <span
-                        aria-hidden="true"
-                        className={`mx-2.5 my-1.5 w-px shrink-0 self-center md:mx-3 ${isDark ? "bg-white/15" : "bg-[var(--color-border)]"}`}
-                        style={{ height: "70%" }}
-                      />
-                    ) : null}
-                    {isSimple ? (
-                      /* Simple badge (e.g. Saloon): icon centered on top, single label below */
-                      <div className="flex w-full flex-col items-center gap-1.5 text-center">
-                        <GenIcon name={item.icon} className="h-5 w-5 text-[var(--color-primary)]" />
-                        <span
-                          className={`text-[0.7rem] leading-[1.3] ${isDark ? "text-white/85" : "text-[var(--color-text)]"} md:text-[0.82rem]`}
-                        >
-                          <TrustLabel label={stat.label} />
-                        </span>
-                      </div>
-                    ) : (
-                      /* Icon left, parallel with the text starting beside it */
-                      <div className="flex items-center gap-2 text-left">
-                        <GenIcon name={item.icon} className="h-5 w-5 shrink-0 text-[var(--color-primary)]" />
-                        <div className="flex flex-col gap-0.5">
-                          {stat.value ? (
-                            <strong
-                              className={`text-[1rem] font-bold leading-none md:text-[1.2rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
-                              dangerouslySetInnerHTML={{ __html: stat.value }}
-                            />
-                          ) : null}
-                          <span
-                            className={`text-[0.7rem] leading-[1.3] ${isDark ? "text-white/85" : "text-[var(--color-text)]"} md:text-[0.82rem]`}
-                          >
-                            <TrustLabel label={stat.label} />
-                          </span>
-                          {stat.tag ? (
-                            <span
-                              className={`text-[9px] font-semibold uppercase leading-none tracking-wide ${
-                                isDark ? "text-white/55" : "text-[var(--color-text-soft)]"
-                              } md:text-[10px]`}
-                              dangerouslySetInnerHTML={{ __html: stat.tag }}
-                            />
-                          ) : null}
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                );
-              })}
-            </div>
-          ) : null}
-
-          {/* Desktop-only CTA (pill button) */}
-          {data.primaryCta ? (
-            <Link
-              href="/quote"
-              className="btn-cta hidden w-full items-center justify-between rounded-[1.25rem] border border-[var(--color-border-strong)] bg-[var(--color-primary)] px-5 py-4 text-white shadow-lg shadow-black/30 md:flex md:w-fit md:justify-start md:gap-5 md:rounded md:border-0 md:bg-[var(--color-primary)] md:px-7 md:py-3.5 md:text-base md:shadow-lg md:shadow-[var(--color-shadow)]"
-            >
-              <span className="text-left">
-                <span className="block text-lg font-bold tracking-[0.08em] md:text-[1.05rem] md:tracking-normal" dangerouslySetInnerHTML={{ __html: data.primaryCta.label.replace(/\s*→\s*$/, "") }} />
-              </span>
-              <span className="flex h-14 w-14 items-center justify-center rounded-full border border-white/10 bg-[rgba(3,14,31,0.55)] md:h-auto md:w-auto md:rounded-none md:border-0 md:bg-transparent">
-                <GenIcon name="arrow" className="h-7 w-7" />
-              </span>
+              <span dangerouslySetInnerHTML={{ __html: ctaLabel }} />
+              <ArrowIcon />
             </Link>
           ) : null}
         </div>
+
+        {/* Mobile: image with top/bottom fade, then CTA below */}
+        <div className="relative left-1/2 mt-5 aspect-[16/10] w-screen -translate-x-1/2 overflow-hidden md:hidden">
+          <Image src={imageSrc} alt={headerImage.alt || ""} fill className="object-cover object-center" sizes="100vw" priority />
+          <div
+            className={
+              isDark
+                ? "absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,var(--color-page)_0%,transparent_100%)]"
+                : "absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,#EFEEE9_0%,transparent_100%)]"
+            }
+            aria-hidden="true"
+          />
+          <div
+            className={
+              isDark
+                ? "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
+                : "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
+            }
+            aria-hidden="true"
+          />
+        </div>
+
+        {/* Mobile CTA below image */}
+        {data.primaryCta ? (
+          <Link
+            href={ctaHref}
+            className="btn-cta mt-4 inline-flex w-full items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:hidden"
+            style={{ color: GOLD }}
+          >
+            <span dangerouslySetInnerHTML={{ __html: ctaLabel }} />
+            <ArrowIcon />
+          </Link>
+        ) : null}
+
+        {trustStrip.length ? (
+          <ul
+            className={`mt-5 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-auto md:max-w-[880px] md:rounded-2xl ${
+              isDark
+                ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
+                : "border-[var(--color-border)] bg-[rgba(255,255,255,0.85)]"
+            }`}
+          >
+            {trustStrip.map((item, index) => (
+              <TrustStat key={item.label} item={item} index={index} isDark={isDark} />
+            ))}
+          </ul>
+        ) : null}
       </div>
     </section>
   );

@@ -1,12 +1,13 @@
 "use client";
 
 import Image from "next/image";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
 
 function splitVehicle(vehicle = "") {
-  const match = vehicle.match(/^(.*?)\s((?:E|F|G)\d{2}\b.*)$/);
+  const match = vehicle.match(/^(.*?)\s((?:E|F|G|W|C|X|R)\d{2,3}\b.*)$/i);
   if (!match) return { model: vehicle, chassis: "" };
   return { model: match[1], chassis: match[2] };
 }
@@ -16,26 +17,37 @@ function splitEnquiries(enquiries = "") {
   return { count, label: rest.join(" ") };
 }
 
-function StatCard({ icon, title, children }) {
+function StatCard({ icon, title, children, isDark }) {
   return (
-    <div className="glass-panel flex flex-col gap-2 rounded-md p-3">
+    <div
+      className={`flex flex-col gap-2 rounded-md border p-3 ${
+        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-white"
+      }`}
+    >
       <div className="flex items-center gap-2">
-        <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[var(--color-primary-soft)] text-[var(--color-primary)]">
+        <span
+          className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full"
+          style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}
+        >
           <GenIcon name={icon} className="h-4 w-4" />
         </span>
-        <p className="text-[0.68rem] font-semibold uppercase leading-[1.25] tracking-wide text-[var(--color-primary)]">{title}</p>
+        <p className="text-[0.68rem] font-semibold uppercase leading-[1.25] tracking-wide" style={{ color: GOLD }}>
+          {title}
+        </p>
       </div>
       {children}
     </div>
   );
 }
 
-function RankedList({ items }) {
+function RankedList({ items, isDark }) {
   return (
     <ol className="flex flex-col gap-1">
       {items?.map((item, index) => (
-        <li key={item} className="flex gap-1.5 text-[0.74rem] leading-[1.3] text-[var(--color-text)]">
-          <span className="font-semibold text-[var(--color-primary)]">{index + 1}.</span>
+        <li key={item} className={`flex gap-1.5 text-[0.74rem] leading-[1.3] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <span className="font-semibold" style={{ color: GOLD }}>
+            {index + 1}.
+          </span>
           <span dangerouslySetInnerHTML={{ __html: item }} />
         </li>
       ))}
@@ -57,32 +69,30 @@ export default function MarketIntelligence({ data }) {
   const feedImageBg = isDark ? "bg-white/5" : "bg-[var(--color-page-soft)]";
 
   return (
-    <section className="w-full border-t border-[var(--color-border)] bg-[var(--color-page)] py-8 text-[var(--color-text)] md:py-10">
+    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 9)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-[1.35fr_1fr] lg:items-start">
           <div>
-            <h2 className="text-[2.15rem] font-bold leading-[1.1] tracking-normal text-[var(--color-text)] md:text-[3rem]">
+            <SectionLabel number={9} isDark={isDark} />
+            <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Market Intelligence
             </h2>
-            <div className="mt-3">
-              <MStripe />
-            </div>
 
             <div className="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-4">
-              <StatCard icon="chart" title="Most Requested E90 Engines (2025)">
-                <RankedList items={data.mostRequestedEngines} />
+              <StatCard icon="chart" title="Most Requested Engines" isDark={isDark}>
+                <RankedList items={data.mostRequestedEngines} isDark={isDark} />
               </StatCard>
-              <StatCard icon="car" title="Most Requested E90 Variants">
-                <RankedList items={data.mostRequestedVariants} />
+              <StatCard icon="car" title="Most Requested Variants" isDark={isDark}>
+                <RankedList items={data.mostRequestedVariants} isDark={isDark} />
               </StatCard>
-              <StatCard icon="dollar" title="Average E90 Replacement Cost">
-                <p className="text-[1.5rem] font-bold text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: data.averageReplacementCost }} />
+              <StatCard icon="dollar" title="Average Replacement Cost" isDark={isDark}>
+                <p className={`text-[1.5rem] font-bold ${isDark ? "text-white" : "text-[var(--color-text)]"}`} dangerouslySetInnerHTML={{ __html: data.averageReplacementCost }} />
                 {data.averageReplacementCostNote ? (
-                  <p className="text-[0.68rem] leading-[1.3] text-[var(--color-text-soft)]" dangerouslySetInnerHTML={{ __html: data.averageReplacementCostNote }} />
+                  <p className={`text-[0.68rem] leading-[1.3] ${feedSoft}`} dangerouslySetInnerHTML={{ __html: data.averageReplacementCostNote }} />
                 ) : null}
               </StatCard>
-              <StatCard icon="warning" title="Most Common E90 Failures">
-                <RankedList items={data.mostCommonFailures} />
+              <StatCard icon="warning" title="Most Common Failures" isDark={isDark}>
+                <RankedList items={data.mostCommonFailures} isDark={isDark} />
               </StatCard>
             </div>
           </div>
@@ -90,8 +100,10 @@ export default function MarketIntelligence({ data }) {
           {data.liveFeed?.length > 0 ? (
             <div className={`overflow-hidden rounded-md border shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur ${feedBorder} ${feedBg}`}>
               <div className={`flex items-center gap-2 border-b px-4 py-3 text-[0.85rem] font-semibold uppercase tracking-wide ${feedBorder} ${feedText}`}>
-                <GenIcon name="gauge" className="h-4 w-4 text-[var(--color-primary)]" />
-                Live Feed
+                <span style={{ color: GOLD }}>
+                  <GenIcon name="gauge" className="h-4 w-4" />
+                </span>
+                <span style={{ color: GOLD }}>Live Feed</span>
               </div>
 
               <div className="overflow-x-auto">
@@ -115,7 +127,7 @@ export default function MarketIntelligence({ data }) {
                       >
                         <div className="flex items-center gap-2.5">
                           <span className={`relative h-8 w-11 shrink-0 overflow-hidden rounded ${feedImageBg}`}>
-                            <Image src="/live_feed.webp" alt={model} fill className="object-cover" sizes="44px" />
+                            <Image src="/right.webp" alt={model} fill className="object-cover" sizes="44px" />
                           </span>
                           <div className="min-w-0">
                             <p className={`truncate font-semibold ${feedText}`} dangerouslySetInnerHTML={{ __html: model }} />
@@ -124,12 +136,16 @@ export default function MarketIntelligence({ data }) {
                         </div>
 
                         <div className={`flex items-center gap-1.5 ${feedMuted}`}>
-                          <GenIcon name="pin" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
+                          <span style={{ color: GOLD }}>
+                            <GenIcon name="pin" className="h-3.5 w-3.5 shrink-0" />
+                          </span>
                           <span dangerouslySetInnerHTML={{ __html: row.location }} />
                         </div>
 
                         <div className={`flex items-center gap-1.5 ${feedMuted}`}>
-                          <GenIcon name="warning" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
+                          <span style={{ color: GOLD }}>
+                            <GenIcon name="warning" className="h-3.5 w-3.5 shrink-0" />
+                          </span>
                           <span dangerouslySetInnerHTML={{ __html: row.issue }} />
                         </div>
 
@@ -145,7 +161,9 @@ export default function MarketIntelligence({ data }) {
 
               {data.liveFeed[0]?.updated ? (
                 <div className={`flex items-center justify-end gap-1.5 border-t px-4 py-2.5 text-[0.72rem] ${feedBorder} ${feedSoft}`}>
-                  <GenIcon name="refresh" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
+                  <span style={{ color: GOLD }}>
+                    <GenIcon name="refresh" className="h-3.5 w-3.5 shrink-0" />
+                  </span>
                   <span dangerouslySetInnerHTML={{ __html: data.liveFeed[0].updated }} />
                 </div>
               ) : null}
