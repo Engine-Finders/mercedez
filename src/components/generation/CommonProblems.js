@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import Image from "next/image";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
 import GenIcon from "./GenIcons";
 
 function TieredCostTable({ tiers, isDark }) {
@@ -76,7 +77,7 @@ function AccordionCard({ problem, isDark, isOpen, onToggle }) {
     <div className="glass-panel overflow-hidden rounded-md">
       <button type="button" onClick={onToggle} aria-expanded={isOpen} className="flex w-full gap-3 py-3 pr-3 text-left">
         <span className="relative h-20 w-20 shrink-0 overflow-hidden">
-          <Image src="/e90/section6.webp" alt={problem.title} fill className="object-cover object-[center_20%] scale-125" sizes="80px" />
+          <Image src="/right.webp" alt={problem.title} fill className="object-cover object-[center_20%] scale-125" sizes="80px" />
         </span>
 
         <div className="min-w-0 flex-1">
@@ -174,7 +175,7 @@ function ProblemCard({ problem, isDark }) {
         </div>
         <div className="absolute right-0 top-0 h-full w-[42%] overflow-hidden rounded-bl-md">
           <div className="relative h-full min-h-[128px] w-full">
-            <Image src="/e90/section6.webp" alt={problem.title} fill className="object-cover" sizes="180px" />
+            <Image src="/right.webp" alt={problem.title} fill className="object-cover" sizes="180px" />
           </div>
         </div>
       </div>
@@ -238,18 +239,16 @@ export default function CommonProblems({ data }) {
   const isDark = theme === "dark";
 
   return (
-    <section className="w-full bg-[var(--color-page)] py-8 text-[var(--color-text)] md:py-10">
+    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 6)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
+        <SectionLabel number={6} isDark={isDark} />
         <h2
-          className="text-[2.15rem] font-bold leading-[1.1] tracking-normal text-[var(--color-text)] md:text-[3rem]"
-          dangerouslySetInnerHTML={{ __html: "Common Problems" }}
+          className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
+          dangerouslySetInnerHTML={{ __html: data.h2 || "Common Problems" }}
         />
-        <div className="mt-3">
-          <MStripe />
-        </div>
         {data.subHeadline ? (
           <p
-            className="mt-4 max-w-[920px] text-[0.88rem] leading-[1.4] text-[var(--color-text-muted)] md:mt-5 md:text-[1.08rem] md:leading-[1.42]"
+            className={`mt-4 max-w-[920px] text-[0.88rem] leading-[1.4] md:mt-5 md:text-[1.08rem] md:leading-[1.42] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
             dangerouslySetInnerHTML={{ __html: data.subHeadline }}
           />
         ) : null}
@@ -277,7 +276,7 @@ export default function CommonProblems({ data }) {
         {data.trustStrip?.length > 0 || data.footerNote ? (
           <div className={`mt-6 overflow-hidden rounded-md border ${isDark ? "border-white/10 bg-black" : "border-[var(--color-border)] bg-[var(--color-table-surface)]"}`}>
             <div className={`flex items-center gap-3 border-b px-4 py-3.5 ${isDark ? "border-white/10" : "border-[var(--color-border)]"}`}>
-              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[var(--color-primary)] text-white">
+              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: GOLD }}>
                 <GenIcon name="shield" className="h-5 w-5" />
               </span>
               <p className={`text-[1rem] font-bold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>

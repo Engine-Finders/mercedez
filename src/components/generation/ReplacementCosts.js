@@ -1,7 +1,8 @@
 "use client";
 
 import Image from "next/image";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
 
@@ -120,60 +121,42 @@ export default function ReplacementCosts({ data }) {
 
   const petrolRows = data.rows?.filter((row) => row.fuelType === "petrol") || [];
   const dieselRows = data.rows?.filter((row) => row.fuelType === "diesel") || [];
-  const headerImage = isDark ? "/e90/engine_replacement_dark.webp" : "/e90/engine_replacement_light.webp";
-  const headerImageMobile = isDark ? "/e90/engine_replacement_mobile_dark.webp" : "/e90/engine_replacement_mobile_light.webp";
-  const headerHeadingClass = isDark ? "text-white" : "text-[var(--color-text)]";
-  const headerSubClass = isDark ? "text-white/80" : "text-[var(--color-text-muted)]";
 
   return (
-    <section className="w-full bg-[var(--color-page)] py-8 text-[var(--color-text)] md:py-10">
-      <div className="relative overflow-hidden">
-        <div className="absolute inset-0 hidden md:block">
-          <Image src={headerImage} alt="" fill className="object-cover" sizes="100vw" priority />
-          {isDark ? (
-            <>
-              <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,17,0.9)_0%,rgba(2,7,11,0.72)_32%,transparent_60%)]" />
-              <div className="absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,rgba(2,7,17,0.65)_0%,transparent_100%)]" />
-            </>
-          ) : (
-            <>
-              <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(255,255,255,0.95)_0%,rgba(255,255,255,0.72)_32%,transparent_60%)]" />
-              <div className="absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,rgba(255,255,255,0.65)_0%,transparent_100%)]" />
-            </>
-          )}
-        </div>
+    <section className={`relative overflow-hidden py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 7)}`}>
+      <div className="absolute inset-x-0 top-0 h-[220px] md:h-[280px]">
+        <Image src="/sec2-bg.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
+        <div
+          className={
+            isDark
+              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
+              : "absolute inset-0 bg-[linear-gradient(90deg,#F8F7F3_0%,rgba(248,247,243,0.92)_40%,rgba(248,247,243,0.2)_78%)]"
+          }
+        />
+        <div
+          className={
+            isDark
+              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
+              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#F8F7F3_0%,transparent_100%)]"
+          }
+        />
+      </div>
 
-        <div className="relative -mb-px h-[200px] w-full overflow-hidden md:hidden">
-          <Image src={headerImageMobile} alt="" fill className="object-cover" sizes="100vw" priority />
-          <div
-            className={`absolute inset-0 ${
-              isDark
-                ? "bg-[linear-gradient(180deg,transparent_55%,rgba(2,7,17,1)_97%)]"
-                : "bg-[linear-gradient(180deg,transparent_55%,rgba(255,255,255,1)_97%)]"
-            }`}
-          />
-          {/* Solid strip guarantees full opacity at the very edge - no sub-pixel seam from the gradient's asymptotic stop */}
-          <div className="absolute inset-x-0 bottom-0 h-3 bg-[var(--color-page)]" />
-        </div>
-
-        <div className="relative mx-auto w-full max-w-8xl px-4 py-6 md:px-8 md:py-10">
+      <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
+        <div className="max-w-[760px] pt-2 md:pt-6">
+          <SectionLabel number={7} isDark={isDark} />
           <h2
-            className={`max-w-[720px] text-[2.15rem] font-bold leading-[1.1] tracking-normal md:text-[3rem] ${headerHeadingClass}`}
+            className={`font-lora max-w-[760px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
             dangerouslySetInnerHTML={{ __html: data.h2 }}
           />
-          <div className="mt-3">
-            <MStripe />
-          </div>
           {data.subHeadline ? (
             <p
-              className={`mt-4 max-w-[560px] text-[0.88rem] leading-[1.4] md:mt-5 md:text-[1.08rem] md:leading-[1.42] ${headerSubClass}`}
+              className={`mt-4 max-w-[560px] text-[0.88rem] leading-[1.4] md:mt-5 md:text-[1.08rem] md:leading-[1.42] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
               dangerouslySetInnerHTML={{ __html: data.subHeadline }}
             />
           ) : null}
         </div>
-      </div>
 
-      <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="mt-6 hidden overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:block">
           <div className={`grid grid-cols-[1.3fr_1fr_1fr_1.1fr_1fr_0.8fr] gap-px ${headerBg} px-5 py-3 text-[0.82rem] font-semibold text-white`}>
             {data.columns?.map((col, index) => (

@@ -166,7 +166,7 @@ function Field({ id, label, icon, children }) {
 }
 
 const fieldInputClass =
-  "w-full rounded-md border border-[var(--color-border)] bg-white px-2.5 py-2 text-sm text-[var(--color-text)] outline-none placeholder:text-[var(--color-text-soft)] focus:border-[var(--color-primary)]";
+  "w-full rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-2.5 py-2 text-sm text-[var(--color-text)] outline-none placeholder:text-[var(--color-text-soft)] focus:border-[var(--color-primary)]";
 
 function UkPlate({ value, editable, onChange, inputId }) {
   return (
@@ -306,7 +306,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
 
   if (submitted) {
     return (
-      <div className="relative z-[61] w-full max-w-2xl overflow-hidden rounded-2xl bg-white shadow-[0_20px_60px_rgba(0,0,0,0.35)]">
+      <div className="relative z-[61] w-full max-w-2xl overflow-hidden rounded-2xl bg-[var(--color-surface)] text-[var(--color-text)] shadow-[0_20px_60px_var(--color-shadow)]">
         <div className="p-8 text-center sm:p-10">
           <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-[var(--color-accent-green)] text-white">
             <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true">
@@ -334,7 +334,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
       role="dialog"
       aria-modal="true"
       aria-labelledby={titleId}
-      className="relative z-[61] flex max-h-[94vh] w-full max-w-2xl flex-col overflow-hidden rounded-2xl bg-white shadow-[0_20px_60px_rgba(0,0,0,0.35)]"
+      className="relative z-[61] flex max-h-[94vh] w-full max-w-2xl flex-col overflow-hidden rounded-2xl bg-[var(--color-surface)] text-[var(--color-text)] shadow-[0_20px_60px_var(--color-shadow)]"
     >
       {/* Header */}
       <div className="relative shrink-0 overflow-hidden px-4 pb-8 pt-5 sm:px-7 sm:pb-10 sm:pt-6">
@@ -360,7 +360,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
       </div>
 
       {/* Body */}
-      <form onSubmit={handleSubmit} className="relative -mt-5 flex min-h-0 flex-1 flex-col overflow-hidden rounded-t-2xl bg-white">
+      <form onSubmit={handleSubmit} className="relative -mt-5 flex min-h-0 flex-1 flex-col overflow-hidden rounded-t-2xl bg-[var(--color-surface)] text-[var(--color-text)]">
         <div className="min-h-0 flex-1 overflow-y-auto px-3.5 pb-4 pt-4 sm:px-6 sm:pb-5 sm:pt-5">
           {!vehicleReady ? (
             <div className="mb-3.5 flex flex-col gap-2.5 sm:flex-row sm:items-stretch">
