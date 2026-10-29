@@ -99,7 +99,7 @@ export default function ModelHero({ data }) {
   const trustStrip = data.trustStrip || [];
 
   return (
-    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] md:min-h-[620px] ${homeSectionBg(isDark, 1)}`}>
+    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 1)}`}>
       {/* Desktop background image only */}
       <div className="absolute inset-0 hidden md:block">
         <Image src={imageSrc} alt={headerImage.alt || ""} fill className="object-cover object-center" sizes="100vw" priority />
@@ -113,16 +113,16 @@ export default function ModelHero({ data }) {
         <div
           className={
             isDark
-              ? "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)] md:h-36"
-              : "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)] md:h-36"
+              ? "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)] md:h-20"
+              : "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)] md:h-20"
           }
         />
       </div>
 
-      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6 md:min-h-[620px] md:px-6 md:pb-7 md:pt-10 lg:px-8">
+      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6 md:px-6 md:pb-6 md:pt-8 lg:px-8">
         <TagPill tagPill={data.tagPill} isDark={isDark} />
 
-        <div className="mt-5 max-w-[640px] md:mt-6">
+        <div className="mt-4 max-w-[640px] md:mt-5">
           {/* H1 with strip above and below */}
           <div className="flex flex-col gap-3 md:gap-3.5">
             <SectionFadeStrip isDark={isDark} />
@@ -142,7 +142,7 @@ export default function ModelHero({ data }) {
           {data.primaryCta ? (
             <Link
               href={ctaHref}
-              className="btn-cta mt-4 hidden w-fit items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-5 md:inline-flex md:px-6 md:py-3.5 md:text-[0.9rem]"
+              className="btn-cta mt-3 hidden w-fit items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-4 md:inline-flex md:px-6 md:py-3.5 md:text-[0.9rem]"
               style={{ color: GOLD }}
             >
               <span dangerouslySetInnerHTML={{ __html: ctaLabel }} />
@@ -186,7 +186,7 @@ export default function ModelHero({ data }) {
 
         {trustStrip.length ? (
           <ul
-            className={`mt-5 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-auto md:max-w-[880px] md:rounded-2xl ${
+            className={`mt-3 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-4 md:max-w-[880px] md:rounded-2xl ${
               isDark
                 ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
                 : "border-[var(--color-border)] bg-[rgba(255,255,255,0.85)]"

@@ -43,12 +43,14 @@ export const metadata = {
     url: BASE_URL,
     siteName: "Mercedes Engines UK",
     type: "website",
+    images: [{ url: `${BASE_URL}/Hero-dark.webp` }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
     description:
       "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz model sold in the UK.",
+    images: [`${BASE_URL}/Hero-dark.webp`],
   },
 };
 

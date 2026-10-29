@@ -1,8 +1,9 @@
 "use client";
 
 import { useState } from "react";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
 import GenIcon from "../generation/GenIcons";
 
 const ROW_ICONS = ["tag", "refresh", "wrench", "crown"];
@@ -17,7 +18,7 @@ function DesktopRow({ row, icon, isDark }) {
   return (
     <div className={`grid ${DESKTOP_COLS} items-center gap-px ${rowClass} px-2 py-3 text-[0.82rem] border-b ${borderBottom} last:border-b-0`}>
       <span className="flex items-center gap-2 px-2 font-semibold">
-        <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-[var(--color-primary-soft)] text-[var(--color-primary)]">
+        <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full" style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}>
           <GenIcon name={icon} className="h-3.5 w-3.5" />
         </span>
         <span dangerouslySetInnerHTML={{ __html: row.engineType }} />
@@ -25,7 +26,9 @@ function DesktopRow({ row, icon, isDark }) {
       <span className={`px-2 border-l ${cellDivider} ${mutedText}`} dangerouslySetInnerHTML={{ __html: row.supplyOnly }} />
       <span className={`px-2 border-l ${cellDivider} ${mutedText}`} dangerouslySetInnerHTML={{ __html: row.fittedIndie }} />
       <span className={`flex items-center gap-1.5 px-2 border-l ${cellDivider}`}>
-        <GenIcon name="shield" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
+        <span style={{ color: GOLD }}>
+          <GenIcon name="shield" className="h-3.5 w-3.5 shrink-0" />
+        </span>
         <span dangerouslySetInnerHTML={{ __html: row.warranty }} />
       </span>
       <span className={`px-2 border-l ${cellDivider} ${mutedText}`} dangerouslySetInnerHTML={{ __html: row.bestFor }} />
@@ -33,19 +36,17 @@ function DesktopRow({ row, icon, isDark }) {
   );
 }
 
-// Mobile only: accordion (one open at a time) - a collapsed summary
-// card expanding to reveal the full price/warranty/best-for detail, each
-// divided by a thin hairline.
 function AccordionRow({ row, icon, isOpen, onToggle }) {
   return (
     <div
-      className={`overflow-hidden rounded-xl border shadow-sm ${
-        isOpen ? "border-2 border-[var(--color-primary)]" : "border-[var(--color-border)]"
-      } bg-[var(--color-surface)]`}
+      className={`overflow-hidden rounded-xl border shadow-sm bg-[var(--color-surface)] ${
+        isOpen ? "border-2" : "border-[var(--color-border)]"
+      }`}
+      style={isOpen ? { borderColor: GOLD } : undefined}
     >
       <button type="button" onClick={onToggle} aria-expanded={isOpen} className="flex w-full items-center justify-between gap-3 p-4 text-left">
         <div className="flex min-w-0 items-center gap-3">
-          <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-[var(--color-primary)] text-white">
+          <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: GOLD }}>
             <GenIcon name={icon} className="h-4.5 w-4.5" />
           </span>
           <div className="min-w-0">
@@ -53,39 +54,33 @@ function AccordionRow({ row, icon, isOpen, onToggle }) {
             <p className="mt-0.5 truncate text-[0.74rem] text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: row.bestFor }} />
           </div>
         </div>
-        <GenIcon name="chevronDown" className={`h-4 w-4 shrink-0 text-[var(--color-primary)] transition-transform ${isOpen ? "rotate-180" : ""}`} />
+        <span style={{ color: GOLD }}>
+          <GenIcon name="chevronDown" className={`h-4 w-4 shrink-0 transition-transform ${isOpen ? "rotate-180" : ""}`} />
+        </span>
       </button>
 
       {isOpen ? (
         <div className="flex flex-col gap-2.5 px-4 pb-4 text-[0.84rem]">
-          <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 border-t border-[var(--color-border)] pt-2.5">
-            <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
-              <GenIcon name="tag" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-              Supply Only
-            </span>
-            <span className="font-semibold text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: row.supplyOnly }} />
-          </div>
-          <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 border-t border-[var(--color-border)] pt-2.5">
-            <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
-              <GenIcon name="wrench" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-              Fitted (Indie)
-            </span>
-            <span className="font-semibold text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: row.fittedIndie }} />
-          </div>
-          <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 border-t border-[var(--color-border)] pt-2.5">
-            <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
-              <GenIcon name="shield" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-              Warranty
-            </span>
-            <span className="font-semibold text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: row.warranty }} />
-          </div>
-          <div className="flex flex-wrap items-start justify-between gap-x-3 gap-y-1 border-t border-[var(--color-border)] pt-2.5">
-            <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
-              <GenIcon name="users" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-              Best For
-            </span>
-            <span className="text-right text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: row.bestFor }} />
-          </div>
+          {[
+            { icon: "tag", label: "Supply Only", value: row.supplyOnly, gold: true },
+            { icon: "wrench", label: "Fitted (Indie)", value: row.fittedIndie, gold: true },
+            { icon: "shield", label: "Warranty", value: row.warranty, gold: false },
+            { icon: "users", label: "Best For", value: row.bestFor, gold: false },
+          ].map((item) => (
+            <div key={item.label} className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 border-t border-[var(--color-border)] pt-2.5">
+              <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
+                <span style={{ color: GOLD }}>
+                  <GenIcon name={item.icon} className="h-3.5 w-3.5 shrink-0" />
+                </span>
+                {item.label}
+              </span>
+              <span
+                className={`font-semibold ${item.gold ? "" : "text-[var(--color-text)]"}`}
+                style={item.gold ? { color: GOLD } : undefined}
+                dangerouslySetInnerHTML={{ __html: item.value }}
+              />
+            </div>
+          ))}
         </div>
       ) : null}
     </div>
@@ -98,19 +93,18 @@ export default function ReplacementCosts({ data }) {
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]";
+  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "";
   const headerDivider = isDark ? "border-white/20" : "border-white/25";
   const bodyWrapperBg = isDark ? "bg-black" : "bg-[var(--color-table-surface)]";
 
   return (
-    <section className="w-full bg-[var(--color-page)] py-8 text-[var(--color-text)] md:py-10">
+    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 3)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <h2 className="text-[2.15rem] font-bold leading-[1.1] tracking-normal md:text-[3rem]">{data.h2}</h2>
-        <div className="mt-3">
-          <MStripe />
-        </div>
+        <SectionLabel number={3} isDark={isDark} />
+        <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          {data.h2}
+        </h2>
 
-        {/* Mobile only: accordion list */}
         <div className="mt-6 flex flex-col gap-3 md:hidden">
           {data.rows?.map((row, index) => (
             <AccordionRow
@@ -123,11 +117,15 @@ export default function ReplacementCosts({ data }) {
           ))}
         </div>
 
-        {/* Desktop only: original table */}
         <div className="mt-6 hidden overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:block">
-          <div className={`grid ${DESKTOP_COLS} gap-px ${headerBg} px-2 py-3 text-[0.82rem] font-semibold text-white`}>
+          <div
+            className={`grid ${DESKTOP_COLS} gap-px px-2 py-3 text-[0.82rem] font-semibold text-white ${headerBg}`}
+            style={isDark ? undefined : { backgroundColor: GOLD }}
+          >
             {data.columns?.map((col, index) => (
-              <span key={col} className={`px-2 ${index > 0 ? `border-l ${headerDivider}` : ""}`}>{col}</span>
+              <span key={col} className={`px-2 ${index > 0 ? `border-l ${headerDivider}` : ""}`}>
+                {col}
+              </span>
             ))}
           </div>
           <div className={bodyWrapperBg}>
@@ -138,36 +136,46 @@ export default function ReplacementCosts({ data }) {
         </div>
 
         {data.figuresNote ? (
-          <div className="glass-panel mt-6 flex gap-3 rounded-md p-4">
-            <span className="mt-0.5 shrink-0 text-[var(--color-primary)]">
+          <div
+            className={`mt-6 flex gap-3 rounded-md border p-4 ${
+              isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-white"
+            }`}
+          >
+            <span className="mt-0.5 shrink-0" style={{ color: GOLD }}>
               <GenIcon name="info" className="h-5 w-5" />
             </span>
-            <p className="text-[0.82rem] leading-[1.5] text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: data.figuresNote }} />
+            <p className={`text-[0.82rem] leading-[1.5] ${isDark ? "text-white/75" : "text-[var(--color-text-muted)]"}`} dangerouslySetInnerHTML={{ __html: data.figuresNote }} />
           </div>
         ) : null}
 
-        {/* Mobile: labour estimate and CTA as two separate stacked cards */}
         {data.labourEstimate ? (
-          <div className="mt-4 flex items-center gap-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-4 shadow-sm md:hidden">
-            <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[var(--color-primary)] text-white">
+          <div
+            className={`mt-4 flex items-center gap-4 rounded-xl border p-4 shadow-sm md:hidden ${
+              isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-[var(--color-surface)]"
+            }`}
+          >
+            <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: GOLD }}>
               <GenIcon name="wrench" className="h-4.5 w-4.5" />
             </span>
-            <p className="text-[0.82rem] leading-[1.45] text-[var(--color-text)]">
+            <p className={`text-[0.82rem] leading-[1.45] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               <span className="font-bold">Labour estimate: </span>
               <span dangerouslySetInnerHTML={{ __html: data.labourEstimate }} />
             </p>
           </div>
         ) : null}
 
-        {/* Desktop: labour estimate + CTA combined into a single row card */}
         {data.labourEstimate || data.cta?.label ? (
-          <div className="mt-4 hidden items-center gap-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-4 shadow-sm md:flex">
+          <div
+            className={`mt-4 hidden items-center gap-4 rounded-xl border p-4 shadow-sm md:flex ${
+              isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-[var(--color-surface)]"
+            }`}
+          >
             {data.labourEstimate ? (
               <>
-                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[var(--color-primary)] text-white">
+                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: GOLD }}>
                   <GenIcon name="wrench" className="h-4.5 w-4.5" />
                 </span>
-                <p className="flex-1 text-[0.82rem] leading-[1.45] text-[var(--color-text)]">
+                <p className={`flex-1 text-[0.82rem] leading-[1.45] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                   <span className="font-bold">Labour estimate: </span>
                   <span dangerouslySetInnerHTML={{ __html: data.labourEstimate }} />
                 </p>
@@ -176,7 +184,8 @@ export default function ReplacementCosts({ data }) {
             {data.cta?.label ? (
               <a
                 href="/quote"
-                className="btn-cta flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-xl bg-[var(--color-primary)] px-4 py-2.5 text-[0.8rem] font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
+                className="btn-cta flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-xl px-4 py-2.5 text-[0.8rem] font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
+                style={{ backgroundColor: GOLD }}
               >
                 <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
                 {data.cta.label}
@@ -188,10 +197,11 @@ export default function ReplacementCosts({ data }) {
         {data.cta?.label ? (
           <a
             href="/quote"
-            className="btn-cta mt-4 flex w-full items-center justify-center gap-2 rounded-xl bg-[var(--color-primary)] px-3 py-2.5 text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] md:hidden"
+            className="btn-cta mt-4 flex w-full items-center justify-center gap-2 rounded-xl px-3 py-2.5 text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] md:hidden"
+            style={{ backgroundColor: GOLD }}
           >
             <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
-            <span className="whitespace-nowrap text-center text-[0.78rem] font-bold md:text-[0.9rem]">{data.cta.label}</span>
+            <span className="whitespace-nowrap text-center text-[0.78rem] font-bold">{data.cta.label}</span>
             <GenIcon name="chevron" className="h-4 w-4 shrink-0" />
           </a>
         ) : null}

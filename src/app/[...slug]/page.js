@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import modelPages from "@/data/registery/models/pages.json";
 import genPages from "@/data/registery/generations/pages.json";
 import variantPages from "@/data/registery/variants/pages.json";
+import { sanitizeImageUrl, sanitizeJsonLd } from "@/lib/seoAssets";
 
 import ModelHero from "@/components/models/ModelHero";
 import OwnershipVerdict from "@/components/models/OwnershipVerdict";
@@ -149,8 +150,8 @@ export async function generateMetadata({ params }) {
           description: og.description || undefined,
           type: og.type || "website",
           url: canonical,
-          images: og.image ? [og.image] : undefined,
-          siteName: og.siteName || "Mercedes Engines UK",
+          images: [sanitizeImageUrl(og.image)],
+          siteName: "Mercedes Engines UK",
         }
       : undefined,
     twitter: meta.twitter?.title || meta.twitter?.description
@@ -158,7 +159,7 @@ export async function generateMetadata({ params }) {
           card: meta.twitter.card || undefined,
           title: meta.twitter.title || undefined,
           description: meta.twitter.description || undefined,
-          images: meta.twitter.image ? [meta.twitter.image] : undefined,
+          images: [sanitizeImageUrl(meta.twitter.image)],
         }
       : undefined,
   };
@@ -183,7 +184,7 @@ export default async function CatchAllPage({ params }) {
         {data.meta?.jsonLd && (
           <script
             type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(data.meta.jsonLd) }}
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)) }}
           />
         )}
         <ModelHero data={data.hero} />
@@ -210,7 +211,7 @@ export default async function CatchAllPage({ params }) {
         {data.meta?.jsonLd && (
           <script
             type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(data.meta.jsonLd) }}
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)) }}
           />
         )}
         <GenHero data={data.hero} />
@@ -230,11 +231,11 @@ export default async function CatchAllPage({ params }) {
 
   if (type === "variants") {
     return (
-      <main className="flex flex-col">
+      <main className="flex w-full flex-col bg-[var(--color-page)]">
         {data.meta?.jsonLd && (
           <script
             type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(data.meta.jsonLd) }}
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)) }}
           />
         )}
         <VariantHero data={data.hero} />

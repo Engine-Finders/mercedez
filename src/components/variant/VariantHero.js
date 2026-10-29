@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import MStripe from "@/components/reusableComponents/MStripe";
+import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
 
@@ -40,7 +40,7 @@ function HeroHeadline({ h1 = "" }) {
   return (
     <>
       <span dangerouslySetInnerHTML={{ __html: `${lead} - ` }} />
-      <span className="text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: accent }} />
+      <span style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: accent }} />
     </>
   );
 }
@@ -86,9 +86,9 @@ export default function VariantHero({ data }) {
   const headingClass = isDark ? "text-white" : "text-[var(--color-text)]";
   const bodyTextClass = isDark ? "text-white/85" : "text-[var(--color-text-muted)]";
   const cardBorderClass = isDark ? "border-white/20" : "border-[var(--color-border)]";
-  const cardBgClass = isDark ? "bg-[rgba(2,7,17,0.45)]" : "bg-[rgba(255,255,255,0.7)]";
-  const innerBgClass = isDark ? "bg-[rgba(2,7,17,0.5)]" : "bg-[rgba(255,255,255,0.85)]";
-  const tagPillClass = isDark ? "border-white/30 bg-[rgba(2,7,17,0.5)] text-white" : "border-[rgba(11,103,220,0.4)] bg-[rgba(255,255,255,0.75)] text-[var(--color-text)]";
+  const cardBgClass = isDark ? "bg-[rgba(10,10,10,0.55)]" : "bg-[rgba(255,255,255,0.7)]";
+  const innerBgClass = isDark ? "bg-[rgba(10,10,10,0.6)]" : "bg-[rgba(255,255,255,0.85)]";
+  const tagPillClass = isDark ? "border-white/30 bg-[rgba(10,10,10,0.55)] text-white" : "border-[rgba(171,132,80,0.45)] bg-[rgba(255,255,255,0.75)] text-[var(--color-text)]";
   // Stronger contrast than the plain --color-border token, since these sit on
   // a translucent card over a busy photo background rather than a solid surface.
   const dividerClass = isDark ? "bg-white/35" : "bg-[rgba(7,24,39,0.25)]";
@@ -98,7 +98,7 @@ export default function VariantHero({ data }) {
   // Desktop: single row over the hero image, floating vertical dividers between every item.
   // Self-hides on mobile so it can stay embedded in the hero section for both breakpoints.
   const desktopTrustBadges = data.trustBadges?.length > 0 ? (
-    <div className={`mt-6 hidden rounded-md border ${cardBorderClass} ${cardBgClass} p-4 backdrop-blur-sm md:block`}>
+    <div className={`hidden rounded-md border ${cardBorderClass} ${cardBgClass} p-4 backdrop-blur-sm md:block`}>
       <div className="flex items-stretch py-1.5">
         {data.trustBadges.map((badge, index) => {
           const { icon, label } = parseBadge(badge);
@@ -108,7 +108,9 @@ export default function VariantHero({ data }) {
                 <span aria-hidden="true" className={`mx-4 my-1 w-px shrink-0 self-center ${dividerClass}`} style={{ height: "70%" }} />
               ) : null}
               <div className="flex w-full items-center gap-2.5 text-left">
-                <GenIcon name={icon} className="h-7 w-7 shrink-0 text-[var(--color-primary)]" />
+                <span style={{ color: GOLD }}>
+                  <GenIcon name={icon} className="h-7 w-7 shrink-0" />
+                </span>
                 <span className={`text-[0.88rem] leading-[1.3] ${badgeTextClass}`}>{label}</span>
               </div>
             </div>
@@ -130,7 +132,9 @@ export default function VariantHero({ data }) {
               key={badge}
               className={`flex flex-col items-center gap-1 px-0.5 ${index > 0 ? `border-l ${dividerBorderClass}` : ""}`}
             >
-              <GenIcon name={icon} className="h-5 w-5 shrink-0 text-[var(--color-primary)]" />
+              <span style={{ color: GOLD }}>
+                <GenIcon name={icon} className="h-5 w-5 shrink-0" />
+              </span>
               <span className={`text-[0.58rem] leading-tight ${badgeTextClass}`}>{label}</span>
             </div>
           );
@@ -143,7 +147,9 @@ export default function VariantHero({ data }) {
   // desktop combined card.
   const priceRow = data.priceAnchor ? (
     <div className="flex flex-wrap items-center gap-2 text-[0.74rem] md:text-[0.92rem]">
-      <GenIcon name="tag" className="h-4 w-4 shrink-0 text-[var(--color-primary)] md:h-5 md:w-5" />
+      <span style={{ color: GOLD }}>
+        <GenIcon name="tag" className="h-4 w-4 shrink-0 md:h-5 md:w-5" />
+      </span>
       <span className={`font-semibold ${headingClass}`}>{price.headline}</span>
       <span className={`hidden md:inline ${bodyTextClass}`}>{price.note ? `· ${price.note}` : ""}</span>
     </div>
@@ -175,7 +181,8 @@ export default function VariantHero({ data }) {
       {data.registrationInput.cta ? (
         <button
           type="submit"
-          className="flex w-full shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-md bg-[var(--color-primary)] px-2 py-2 text-center text-[0.68rem] font-bold text-white shadow-[0_12px_28px_var(--color-shadow)] md:w-auto md:py-3 md:px-6 md:text-[0.9rem]"
+          className="flex w-full shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-md bg-[#0a0a0a] px-2 py-2 text-center text-[0.68rem] font-bold shadow-[0_12px_28px_var(--color-shadow)] md:w-auto md:px-6 md:py-3 md:text-[0.9rem]"
+          style={{ color: GOLD }}
         >
           {data.registrationInput.cta.label.replace(/\s*→\s*$/, "")}
           <GenIcon name="arrow" className="h-4 w-4 shrink-0 md:h-5 md:w-5" />
@@ -188,7 +195,9 @@ export default function VariantHero({ data }) {
   // Icon sits left, vertically centered against both text lines.
   const mobileEngineSummaryCard = data.priceAnchor ? (
     <div className={`mt-1.5 flex w-full items-center gap-3 rounded-md border ${cardBorderClass} ${cardBgClass} p-2.5 backdrop-blur-sm md:hidden`}>
-      <GenIcon name="tag" className="h-4 w-4 shrink-0 text-[var(--color-primary)]" />
+      <span style={{ color: GOLD }}>
+        <GenIcon name="tag" className="h-4 w-4 shrink-0" />
+      </span>
       <div className="flex min-w-0 flex-col gap-0.5">
         <span className={`text-[0.74rem] font-semibold ${headingClass}`}>{price.headline}</span>
         {price.note ? <span className={`text-[0.7rem] ${bodyTextClass}`}>{price.note}</span> : null}
@@ -205,75 +214,82 @@ export default function VariantHero({ data }) {
   // Desktop: single combined card (price/codes row over the reg/quote row),
   // matching the original design.
   const desktopQuoteWidget = data.priceAnchor || data.registrationInput ? (
-    <div className={`mt-6 hidden w-full flex-col gap-4 rounded-md border ${cardBorderClass} ${cardBgClass} p-5 backdrop-blur-sm md:flex`}>
+    <div className={`hidden w-full flex-col gap-4 rounded-md border ${cardBorderClass} ${cardBgClass} p-5 backdrop-blur-sm md:flex`}>
       {priceRow}
       {registrationRow}
     </div>
   ) : null;
 
+  const tagPill = (
+    <span className={`inline-flex w-fit max-w-full flex-wrap items-center gap-x-2 gap-y-1 rounded-md border px-3 py-2 text-[0.82rem] leading-[1.35] md:px-2.5 md:py-1.5 md:text-[0.78rem] ${tagPillClass}`}>
+      <span style={{ color: GOLD }}>
+        <GenIcon name="car" className="h-3.5 w-3.5 shrink-0" />
+      </span>
+      <strong className="font-semibold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: pill.model }} />
+      {pill.body ? (
+        <>
+          <span aria-hidden="true" className="opacity-50">
+            •
+          </span>
+          <span dangerouslySetInnerHTML={{ __html: pill.body }} />
+        </>
+      ) : null}
+      {pill.years ? (
+        <>
+          <span aria-hidden="true" className="opacity-50">
+            •
+          </span>
+          <span dangerouslySetInnerHTML={{ __html: pill.years }} />
+        </>
+      ) : null}
+    </span>
+  );
+
   return (
     <>
-      {/* Mobile height accounts for the sticky Navbar above it (~84px) so the
-          hero + navbar together fit exactly one screen, instead of the navbar
-          pushing the hero's bottom content past the fold. */}
-      <section className={`relative h-[calc(100svh-84px)] w-full overflow-hidden bg-[var(--color-page)] md:h-[78svh] ${headingClass}`}>
-        {/* Section is a fixed one-screen-tall block on mobile, so the image and
-            content both fill exactly 100svh with no overflow/scroll inside the hero. */}
-        <div className="absolute inset-0">
-          <Image src={heroImageMobile} alt="BMW 320d" fill className="object-cover object-center md:hidden" sizes="100vw" priority />
-          <Image src={heroImage} alt="BMW 320d" fill className="hidden object-cover object-[68%_center] md:block" sizes="100vw" priority />
-          {isDark ? (
-            <>
-              <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(2,7,17,0.55)_0%,rgba(2,7,17,0.3)_45%,rgba(2,7,17,0.85)_100%)] md:hidden" />
-              <div className="absolute inset-0 hidden bg-[linear-gradient(90deg,rgba(2,7,17,0.85)_0%,rgba(2,7,17,0.5)_42%,rgba(2,7,17,0.15)_75%)] md:block" />
-            </>
-          ) : (
-            <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(255,255,255,0.92)_0%,rgba(255,255,255,0.5)_30%,transparent_48%)] md:hidden" />
-          )}
-        </div>
+      {/* MOBILE: generation-style flow — copy → faded image → CTA/widgets */}
+      <section className={`relative w-full overflow-hidden md:hidden ${headingClass} ${homeSectionBg(isDark, 1)}`}>
+        <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6">
+          {tagPill}
 
-        <div className="relative mx-auto flex h-full w-full max-w-8xl flex-col justify-between px-4 pb-3 pt-2 md:justify-start md:px-8 md:pb-6 md:pt-4">
-          <div className="flex w-full max-w-[640px] flex-col gap-1.5 md:gap-2">
-            <span className={`inline-flex w-fit max-w-full flex-wrap items-center gap-x-2 gap-y-1 rounded-md border px-3 py-2 text-[0.82rem] leading-[1.35] md:px-2.5 md:py-1.5 md:text-[0.78rem] ${tagPillClass}`}>
-              <GenIcon name="car" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-              <strong className="font-semibold text-[var(--color-primary)]" dangerouslySetInnerHTML={{ __html: pill.model }} />
-              {pill.body ? (
-                <>
-                  <span aria-hidden="true" className="opacity-50">•</span>
-                  <span dangerouslySetInnerHTML={{ __html: pill.body }} />
-                </>
-              ) : null}
-              {pill.years ? (
-                <>
-                  <span aria-hidden="true" className="opacity-50">•</span>
-                  <span dangerouslySetInnerHTML={{ __html: pill.years }} />
-                </>
-              ) : null}
-            </span>
-
-            <h1 className={`text-[32px] font-bold leading-[0.95] tracking-normal md:text-[2.6rem] md:leading-[1.08] ${headingClass}`}>
+          <div className="mt-5 flex max-w-[640px] flex-col gap-3">
+            <SectionFadeStrip isDark={isDark} />
+            <h1 className={`font-lora text-[2rem] font-medium leading-[1.08] tracking-normal ${headingClass}`}>
               <HeroHeadline h1={data.h1} />
             </h1>
+            <SectionFadeStrip isDark={isDark} />
+          </div>
 
-            <MStripe />
+          <p className={`mt-3 max-w-[600px] text-[0.88rem] leading-[1.45] ${bodyTextClass}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
 
-            <p
-              className={`max-w-[78%] text-[0.88rem] leading-[1.42] md:max-w-[560px] md:text-[0.92rem] md:leading-[1.35] ${bodyTextClass}`}
-              dangerouslySetInnerHTML={{ __html: data.subHeadline }}
+          {/* Wall-to-wall image with top/bottom fade */}
+          <div className="relative left-1/2 mt-5 aspect-[16/10] w-screen -translate-x-1/2 overflow-hidden">
+            <Image src={heroImageMobile} alt="" fill className="object-cover object-center" sizes="100vw" priority />
+            <div
+              className={
+                isDark
+                  ? "absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,var(--color-page)_0%,transparent_100%)]"
+                  : "absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,#EFEEE9_0%,transparent_100%)]"
+              }
+              aria-hidden="true"
+            />
+            <div
+              className={
+                isDark
+                  ? "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
+                  : "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
+              }
+              aria-hidden="true"
             />
           </div>
 
-          <div className="flex w-full max-w-[820px] flex-col gap-1.5 md:gap-2">
-            {desktopTrustBadges}
+          <div className="mt-2 flex w-full flex-col gap-1.5">
             {mobileTrustBadges}
             {mobileEngineSummaryCard}
             {mobileQuoteWidget}
-            {desktopQuoteWidget}
 
-            {/* Bottom micro-feature ticker: compact card in the mobile stack,
-                matching the other hero cards; desktop keeps the full-bleed strip below. */}
             {tickerItems.length > 0 ? (
-              <div className={`mt-1.5 flex flex-wrap items-center justify-center gap-x-2.5 gap-y-1 rounded-md border ${cardBorderClass} ${isDark ? "bg-black/70" : "bg-white/85"} p-2.5 text-[0.65rem] ${bodyTextClass} md:hidden`}>
+              <div className={`mt-1.5 flex flex-wrap items-center justify-center gap-x-2.5 gap-y-1 rounded-md border ${cardBorderClass} ${isDark ? "bg-black/70" : "bg-white/85"} p-2.5 text-[0.65rem] ${bodyTextClass}`}>
                 {tickerItems.map((item, index) => (
                   <span key={item} className="flex shrink-0 items-center gap-1.5">
                     <span
@@ -285,6 +301,33 @@ export default function VariantHero({ data }) {
                 ))}
               </div>
             ) : null}
+          </div>
+        </div>
+      </section>
+
+      {/* DESKTOP: content-sized overlay hero (no fixed viewport height) */}
+      <section className={`relative hidden w-full overflow-hidden md:block ${headingClass} ${homeSectionBg(isDark, 1)}`}>
+        <div className="absolute inset-0">
+          <Image src={heroImage} alt="" fill className="object-cover object-[68%_center]" sizes="100vw" priority />
+          {isDark ? (
+            <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.9)_0%,rgba(0,0,0,0.62)_42%,rgba(0,0,0,0.2)_75%)]" />
+          ) : null}
+        </div>
+
+        <div className="relative mx-auto flex w-full max-w-8xl flex-col px-8 pb-6 pt-5">
+          <div className="flex w-full max-w-[640px] flex-col gap-2">
+            {tagPill}
+            <SectionFadeStrip isDark={isDark} />
+            <h1 className={`font-lora text-[2.6rem] font-medium leading-[1.08] tracking-normal ${headingClass}`}>
+              <HeroHeadline h1={data.h1} />
+            </h1>
+            <SectionFadeStrip isDark={isDark} />
+            <p className={`max-w-[560px] text-[0.92rem] leading-[1.35] ${bodyTextClass}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
+          </div>
+
+          <div className="mt-4 flex w-full max-w-[820px] flex-col gap-2">
+            {desktopTrustBadges}
+            {desktopQuoteWidget}
           </div>
         </div>
       </section>
