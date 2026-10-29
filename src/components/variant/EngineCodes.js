@@ -2,8 +2,9 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
 import GenIcon from "../generation/GenIcons";
 
 const DESKTOP_COLS = "grid-cols-[1.5fr_0.9fr_0.9fr_1.2fr_1.1fr]";
@@ -25,7 +26,6 @@ function DesktopRow({ row, isDark }) {
   const rowClass = isDark ? "bg-black text-white" : "bg-[var(--color-table-surface)] text-[var(--color-text)]";
   const cellDivider = isDark ? "border-white/15" : "border-[var(--color-border)]";
   const mutedText = isDark ? "text-white/70" : "text-[var(--color-text-muted)]";
-  const codeText = isDark ? "text-[var(--color-text)]" : "text-[var(--color-primary)]";
   const borderBottom = isDark ? "border-white/15" : "border-[var(--color-border)]";
 
   return (
@@ -34,7 +34,7 @@ function DesktopRow({ row, isDark }) {
         <span className="relative h-9 w-11 shrink-0 overflow-hidden">
           <Image src={ENGINE_IMAGE} alt={row.engineCode} fill className="object-contain" sizes="44px" />
         </span>
-        <span className={codeText}>{row.engineCode}</span>
+        <span style={{ color: GOLD }}>{row.engineCode}</span>
       </span>
       <span className={`px-2 border-l ${cellDivider} ${mutedText}`}>{row.years}</span>
       <span className={`px-2 border-l ${cellDivider} ${mutedText}`}>{row.power}</span>
@@ -44,45 +44,39 @@ function DesktopRow({ row, isDark }) {
   );
 }
 
-// Mobile: a tab switcher (one engine code selected at a time), matching the
-// reference - scrollable pills up top, a single two-column detail card
-// (engine visual left, key-value rows right) below.
-function DetailCard({ row }) {
+function DetailCard({ row, isDark }) {
   return (
-    <div className="glass-panel flex gap-4 rounded-md p-4">
+    <div
+      className={`flex gap-4 rounded-md border p-4 ${
+        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-white"
+      }`}
+    >
       <span className="relative h-auto w-28 shrink-0 self-stretch">
         <Image src={ENGINE_IMAGE} alt={row.engineCode} fill className="object-contain" sizes="112px" />
       </span>
       <div className="flex min-w-0 flex-1 flex-col gap-2.5 text-[0.82rem]">
-        <p className="truncate text-[1rem] font-bold text-[var(--color-text)]">{row.engineCode}</p>
-        <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 border-b border-[var(--color-border)] pb-2.5">
-          <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
-            <GenIcon name="clock" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-            Years
-          </span>
-          <span className="font-semibold text-[var(--color-text)]">{row.years}</span>
-        </div>
-        <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 border-b border-[var(--color-border)] pb-2.5">
-          <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
-            <GenIcon name="gauge" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-            Power
-          </span>
-          <span className="font-semibold text-[var(--color-text)]">{row.power}</span>
-        </div>
-        <div className="flex items-start justify-between gap-3 border-b border-[var(--color-border)] pb-2.5">
-          <span className="flex shrink-0 items-center gap-1.5 text-[var(--color-text-muted)]">
-            <GenIcon name="chart" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-            2025 Enquiries
-          </span>
-          <span className="min-w-0 flex-1 text-right font-semibold text-[var(--color-text)]">{row.enquiries}</span>
-        </div>
-        <div className="flex items-start justify-between gap-3">
-          <span className="flex shrink-0 items-center gap-1.5 text-[var(--color-text-muted)]">
-            <GenIcon name="dollar" className="h-3.5 w-3.5 shrink-0 text-[var(--color-primary)]" />
-            Avg. Recon Cost
-          </span>
-          <span className="min-w-0 flex-1 text-right font-semibold text-[var(--color-primary)]">{row.avgReconCost}</span>
-        </div>
+        <p className={`truncate text-[1rem] font-bold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.engineCode}</p>
+        {[
+          { icon: "clock", label: "Years", value: row.years },
+          { icon: "gauge", label: "Power", value: row.power },
+          { icon: "chart", label: "2025 Enquiries", value: row.enquiries },
+          { icon: "dollar", label: "Avg. Recon Cost", value: row.avgReconCost, gold: true },
+        ].map((item, index) => (
+          <div
+            key={item.label}
+            className={`flex flex-wrap items-center justify-between gap-x-3 gap-y-1 ${index < 3 ? `border-b pb-2.5 ${isDark ? "border-white/10" : "border-[var(--color-border)]"}` : ""}`}
+          >
+            <span className={`flex items-center gap-1.5 ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+              <span style={{ color: GOLD }}>
+                <GenIcon name={item.icon} className="h-3.5 w-3.5 shrink-0" />
+              </span>
+              {item.label}
+            </span>
+            <span className={`font-semibold ${item.gold ? "" : isDark ? "text-white" : "text-[var(--color-text)]"}`} style={item.gold ? { color: GOLD } : undefined}>
+              {item.value}
+            </span>
+          </div>
+        ))}
       </div>
     </div>
   );
@@ -94,7 +88,7 @@ export default function EngineCodes({ data }) {
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]";
+  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "";
   const headerDivider = isDark ? "border-white/20" : "border-white/25";
   const bodyWrapperBg = isDark ? "bg-black" : "bg-[var(--color-table-surface)]";
   const rows = data.rows || [];
@@ -102,24 +96,32 @@ export default function EngineCodes({ data }) {
   const specsTitle = data.technicalSpecs ? splitSpecsTitle(data.technicalSpecs.title) : null;
 
   const technicalSpecsCard = data.technicalSpecs ? (
-    <div className="overflow-hidden rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)]">
-      <div className="flex flex-wrap items-center gap-x-2 gap-y-1 border-b border-[var(--color-border)] px-4 py-3">
-        <p className="text-[0.85rem] font-bold uppercase tracking-wide text-[var(--color-text)]">{specsTitle.title}</p>
+    <div
+      className={`overflow-hidden rounded-xl border ${
+        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-[var(--color-surface)]"
+      }`}
+    >
+      <div className={`flex flex-wrap items-center gap-x-2 gap-y-1 border-b px-4 py-3 ${isDark ? "border-white/10" : "border-[var(--color-border)]"}`}>
+        <p className={`text-[0.85rem] font-bold uppercase tracking-wide ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{specsTitle.title}</p>
         {specsTitle.tag ? (
-          <span className="text-[0.68rem] font-semibold uppercase tracking-wide text-[var(--color-primary)]">{specsTitle.tag}</span>
+          <span className="text-[0.68rem] font-semibold uppercase tracking-wide" style={{ color: GOLD }}>
+            {specsTitle.tag}
+          </span>
         ) : null}
       </div>
       <div className="flex flex-col">
         {data.technicalSpecs.items?.map((item, index) => (
           <div
             key={item.label}
-            className={`grid grid-cols-[1fr_1fr] gap-3 px-4 py-3 ${index > 0 ? "border-t border-[var(--color-border)]" : ""}`}
+            className={`grid grid-cols-[1fr_1fr] gap-3 px-4 py-3 ${index > 0 ? `border-t ${isDark ? "border-white/10" : "border-[var(--color-border)]"}` : ""}`}
           >
-            <span className="flex items-center gap-2 border-r border-[var(--color-border)] pr-3 text-[0.78rem] text-[var(--color-text-muted)]">
-              <GenIcon name={SPEC_ICONS[index % SPEC_ICONS.length]} className="h-4 w-4 shrink-0 text-[var(--color-primary)]" />
+            <span className={`flex items-center gap-2 border-r pr-3 text-[0.78rem] ${isDark ? "border-white/10 text-white/70" : "border-[var(--color-border)] text-[var(--color-text-muted)]"}`}>
+              <span style={{ color: GOLD }}>
+                <GenIcon name={SPEC_ICONS[index % SPEC_ICONS.length]} className="h-4 w-4 shrink-0" />
+              </span>
               {item.label.replace(/^\*\s*/, "")}
             </span>
-            <span className="text-[0.8rem] font-semibold text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: item.value }} />
+            <span className={`text-[0.8rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`} dangerouslySetInnerHTML={{ __html: item.value }} />
           </div>
         ))}
       </div>
@@ -129,19 +131,22 @@ export default function EngineCodes({ data }) {
   const quoteCtaBanner = data.cta?.label ? (
     <a
       href="/quote"
-      className="btn-cta relative flex items-center gap-4 overflow-hidden rounded-xl border border-[var(--color-border)] bg-[var(--color-primary-strong)] p-5 text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
+      className="btn-cta relative flex items-center gap-4 overflow-hidden rounded-xl border p-5 text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
+      style={{ borderColor: "rgba(171,132,80,0.35)", backgroundColor: "#0a0a0a" }}
     >
       <div className="absolute inset-0">
-        <Image src={ENGINE_IMAGE} alt="" fill className="object-cover object-right opacity-60" sizes="400px" />
-        <div className="absolute inset-0 bg-[linear-gradient(90deg,var(--color-primary-strong)_0%,rgba(3,20,55,0.75)_55%,transparent_100%)]" />
+        <Image src={ENGINE_IMAGE} alt="" fill className="object-cover object-right opacity-40" sizes="400px" />
+        <div className="absolute inset-0 bg-[linear-gradient(90deg,#0a0a0a_0%,rgba(10,10,10,0.75)_55%,transparent_100%)]" />
       </div>
 
       <div className="relative z-10 flex items-center gap-4">
-        <span className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border border-white/30 bg-[var(--color-primary)] shadow-lg">
+        <span className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border border-white/30 shadow-lg" style={{ backgroundColor: GOLD }}>
           <GenIcon name="arrow" className="h-5 w-5" />
         </span>
         <div className="min-w-0">
-          <p className="text-[0.95rem] font-bold leading-tight">{data.cta.label}</p>
+          <p className="text-[0.95rem] font-bold leading-tight" style={{ color: GOLD }}>
+            {data.cta.label}
+          </p>
           <p className="mt-1 text-[0.78rem] leading-[1.4] text-white/80">Get quotes from trusted UK specialists in minutes.</p>
         </div>
       </div>
@@ -149,18 +154,16 @@ export default function EngineCodes({ data }) {
   ) : null;
 
   return (
-    <section className="w-full bg-[var(--color-page)] py-8 text-[var(--color-text)] md:py-10">
+    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 8)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-12">
           <div className="lg:col-span-8">
-            <h2 className="text-[2.15rem] font-bold leading-[1.1] tracking-normal md:text-[3rem]">
+            <SectionLabel number={8} isDark={isDark} />
+            <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Engine Codes
             </h2>
-            <div className="mt-3">
-              <MStripe />
-            </div>
             {data.matchNote ? (
-              <p className="mt-3 text-[0.78rem] text-[var(--color-text-soft)]" dangerouslySetInnerHTML={{ __html: data.matchNote }} />
+              <p className={`mt-3 text-[0.78rem] ${isDark ? "text-white/55" : "text-[var(--color-text-soft)]"}`} dangerouslySetInnerHTML={{ __html: data.matchNote }} />
             ) : null}
 
             <div className="mt-6 grid grid-cols-4 gap-1.5 md:hidden">
@@ -171,23 +174,29 @@ export default function EngineCodes({ data }) {
                   onClick={() => setActiveIndex(index)}
                   className={`flex min-w-0 flex-col items-center gap-0.5 rounded-md border px-1 py-2 text-center ${
                     activeIndex === index
-                      ? "border-[var(--color-primary)] bg-[var(--color-primary)] text-white"
-                      : "border-[var(--color-border)] bg-[var(--color-surface)] text-[var(--color-text)]"
+                      ? "text-white"
+                      : isDark
+                        ? "border-white/10 bg-[var(--color-surface-raised)] text-white"
+                        : "border-[var(--color-border)] bg-[var(--color-surface)] text-[var(--color-text)]"
                   }`}
+                  style={activeIndex === index ? { backgroundColor: GOLD, borderColor: GOLD } : undefined}
                 >
                   <span className="truncate text-[0.7rem] font-bold leading-tight">{shortCode(row.engineCode)}</span>
                   <span className={`truncate text-[0.58rem] ${activeIndex === index ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>{row.years}</span>
                 </button>
               ))}
             </div>
-            <div className="mt-3 md:hidden">
-              {rows[activeIndex] ? <DetailCard row={rows[activeIndex]} /> : null}
-            </div>
+            <div className="mt-3 md:hidden">{rows[activeIndex] ? <DetailCard row={rows[activeIndex]} isDark={isDark} /> : null}</div>
 
             <div className="mt-6 hidden overflow-hidden rounded-xl border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-lg backdrop-blur md:block">
-              <div className={`grid ${DESKTOP_COLS} gap-px ${headerBg} px-2 py-2.5 text-[0.78rem] font-semibold text-white`}>
+              <div
+                className={`grid ${DESKTOP_COLS} gap-px px-2 py-2.5 text-[0.78rem] font-semibold text-white ${headerBg}`}
+                style={isDark ? undefined : { backgroundColor: GOLD }}
+              >
                 {data.columns?.map((col, index) => (
-                  <span key={col} className={`px-2 ${index > 0 ? `border-l ${headerDivider}` : ""}`}>{col}</span>
+                  <span key={col} className={`px-2 ${index > 0 ? `border-l ${headerDivider}` : ""}`}>
+                    {col}
+                  </span>
                 ))}
               </div>
               <div className={bodyWrapperBg}>

@@ -1,24 +1,21 @@
 "use client";
 
 import { useState } from "react";
-import MStripe from "@/components/reusableComponents/MStripe";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
 
 function FAQItem({ item, isOpen, onToggle }) {
   return (
     <div className="rounded-md border border-[var(--color-border)] bg-[var(--color-surface)]">
-      <button
-        type="button"
-        onClick={onToggle}
-        aria-expanded={isOpen}
-        className="flex w-full items-center gap-4 px-5 py-4 text-left"
-      >
-        <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md bg-[var(--color-primary-soft)] text-[0.85rem] font-bold text-[var(--color-primary)]">
+      <button type="button" onClick={onToggle} aria-expanded={isOpen} className="flex w-full items-center gap-4 px-5 py-4 text-left">
+        <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md text-[0.85rem] font-bold text-white" style={{ backgroundColor: GOLD }}>
           {item.id}
         </span>
         <span className="flex-1 text-[0.92rem] font-semibold leading-snug text-[var(--color-text)]">{item.question}</span>
-        <span className={`shrink-0 text-[var(--color-primary)] transition-transform ${isOpen ? "rotate-45" : ""}`}>
-          <GenIcon name="plus" className="h-5 w-5" />
+        <span className={`shrink-0 transition-transform ${isOpen ? "rotate-180" : ""}`} style={{ color: GOLD }}>
+          <GenIcon name="chevronDown" className="h-5 w-5" />
         </span>
       </button>
       {isOpen ? (
@@ -29,23 +26,23 @@ function FAQItem({ item, isOpen, onToggle }) {
 }
 
 export default function FAQAccordion({ data }) {
+  const { theme } = useTheme();
   const [openId, setOpenId] = useState(null);
   if (!data) return null;
 
+  const isDark = theme === "dark";
   const items = data.items || [];
   const mid = Math.ceil(items.length / 2);
   const left = items.slice(0, mid);
   const right = items.slice(mid);
 
   return (
-    <section className="w-full bg-[var(--color-page)] py-8 text-[var(--color-text)] md:py-10">
+    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 10)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <h2 className="text-[2.15rem] font-bold leading-[1.1] tracking-normal md:text-[3rem]">
+        <SectionLabel number={10} isDark={isDark} />
+        <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           Frequently Asked Questions
         </h2>
-        <div className="mt-3">
-          <MStripe />
-        </div>
 
         <div className="mt-6 grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-x-5">
           <div className="flex flex-col gap-3">
@@ -61,7 +58,7 @@ export default function FAQAccordion({ data }) {
         </div>
 
         {data.disclaimer ? (
-          <p className="mt-6 text-[0.74rem] leading-[1.5] text-[var(--color-text-soft)]" dangerouslySetInnerHTML={{ __html: data.disclaimer }} />
+          <p className={`mt-6 text-[0.74rem] leading-[1.5] ${isDark ? "text-white/55" : "text-[var(--color-text-soft)]"}`} dangerouslySetInnerHTML={{ __html: data.disclaimer }} />
         ) : null}
       </div>
     </section>

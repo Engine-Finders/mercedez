@@ -7,6 +7,7 @@ import Compatibility from "@/components/engine/Compatibility";
 import CostGuide from "@/components/engine/CostGuide";
 import FAQAccordion from "@/components/engine/FAQAccordion";
 import TrustCta from "@/components/engine/TrustCta";
+import { SITE_URL, sanitizeImageUrl, sanitizeJsonLd } from "@/lib/seoAssets";
 
 async function getPageData(dataFile) {
   try {
@@ -21,8 +22,6 @@ export async function generateStaticParams() {
   return pages.map((page) => ({ slug: page.slug }));
 }
 
-const BASE_URL = "https://mercedesengines.uk";
-
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const entry = pages.find((page) => page.slug === slug);
@@ -31,18 +30,19 @@ export async function generateMetadata({ params }) {
   if (!data?.meta) return {};
 
   const { meta } = data;
+  const canonical = `${SITE_URL}/engine/${slug}`;
   return {
     title: meta.title,
     description: meta.description,
-    alternates: { canonical: `${BASE_URL}/engine/${slug}` },
+    alternates: { canonical },
     openGraph: meta.openGraph?.type
       ? {
           title: meta.openGraph.title,
           description: meta.openGraph.description,
           type: meta.openGraph.type,
-          url: meta.openGraph.url,
-          images: meta.openGraph.image ? [meta.openGraph.image] : undefined,
-          siteName: meta.openGraph.siteName,
+          url: canonical,
+          images: [sanitizeImageUrl(meta.openGraph.image)],
+          siteName: "Mercedes Engines UK",
         }
       : undefined,
     twitter: meta.twitter?.card
@@ -50,7 +50,7 @@ export async function generateMetadata({ params }) {
           card: meta.twitter.card,
           title: meta.twitter.title,
           description: meta.twitter.description,
-          images: meta.twitter.image ? [meta.twitter.image] : undefined,
+          images: [sanitizeImageUrl(meta.twitter.image)],
         }
       : undefined,
   };
@@ -80,7 +80,7 @@ export default async function EnginePage({ params }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(data.meta.jsonLd),
+            __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)),
           }}
         />
       )}

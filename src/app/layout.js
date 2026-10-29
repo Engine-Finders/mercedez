@@ -28,12 +28,14 @@ export const metadata = {
       "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz A-Class, C-Class, E-Class, S-Class, GLC, GLE and AMG sold in the UK.",
     siteName: "Mercedes Engines UK",
     type: "website",
+    images: [{ url: "/Hero-dark.webp" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Mercedes-Benz Ownership Guide UK | Reliability Rankings & Engine Data",
     description:
       "Reliability rankings, real failure data, and honest repair-vs-replace economics for every Mercedes-Benz model sold in the UK.",
+    images: ["/Hero-dark.webp"],
   },
   robots: {
     index: true,
