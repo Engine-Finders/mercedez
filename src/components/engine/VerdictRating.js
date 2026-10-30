@@ -1,8 +1,8 @@
 "use client";
 
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
-import { sectionH2 } from "@/components/models/sectionTypography";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 
 const dimensionIcons = {
   Reliability: (
@@ -95,7 +95,7 @@ function renderTaggedText(text = "") {
   return parts.map((part, index) => {
     if (/^\[[^\]]+\]$/.test(part)) {
       return (
-        <span key={`${part}-${index}`} className="font-semibold text-[var(--color-primary)]">
+        <span key={`${part}-${index}`} className="font-semibold text-[#AB8450]">
           {part}
         </span>
       );
@@ -112,11 +112,11 @@ function StarRating({ value }) {
   const filled = roundedHalf ? full + 1 : full;
 
   return (
-    <div className="flex items-center gap-0.5 text-[var(--color-primary)]" aria-hidden="true">
+    <div className="flex items-center gap-0.5 text-[#AB8450]" aria-hidden="true">
       {Array.from({ length: 5 }).map((_, index) => {
         if (index < filled) {
           return (
-            <span key={index} className="text-[16px] leading-none md:text-[20px]">
+            <span key={index} className="font-lora text-[16px] leading-none md:text-[20px]">
               ★
             </span>
           );
@@ -124,9 +124,9 @@ function StarRating({ value }) {
 
         if (index === filled && hasHalf) {
           return (
-            <span key={index} className="relative inline-block text-[16px] leading-none text-[var(--color-border-strong)] md:text-[20px]">
+            <span key={index} className="relative inline-block font-lora text-[16px] leading-none text-[var(--color-border-strong)] md:text-[20px]">
               ★
-              <span className="absolute inset-y-0 left-0 w-1/2 overflow-hidden text-[var(--color-primary)]">
+              <span className="absolute inset-y-0 left-0 w-1/2 overflow-hidden text-[#AB8450]">
                 ★
               </span>
             </span>
@@ -134,7 +134,7 @@ function StarRating({ value }) {
         }
 
         return (
-          <span key={index} className="text-[16px] leading-none text-[var(--color-border-strong)] md:text-[20px]">
+          <span key={index} className="font-lora text-[16px] leading-none text-[var(--color-border-strong)] md:text-[20px]">
             ★
           </span>
         );
@@ -146,7 +146,7 @@ function StarRating({ value }) {
 function CircleIcon({ children, className = "" }) {
   return (
     <span
-      className={`flex shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-soft)] text-[var(--color-primary)] ${className}`}
+      className={`flex shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450] ${className}`}
     >
       {children}
     </span>
@@ -171,10 +171,10 @@ function RatingCard({ starRating, confidence, isDark }) {
       <p className={`text-[12px] font-medium md:text-[14px] ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-soft)]"}`}>Rating:</p>
 
       <div className="mt-1.5 flex flex-wrap items-end gap-x-2.5 gap-y-1 md:mt-2 md:gap-x-3">
-        <p className="text-[36px] font-bold leading-none text-[var(--color-primary)] md:text-[48px]">{rating.display}</p>
+        <p className="font-lora text-[36px] font-medium leading-none text-[#AB8450] md:text-[48px]">{rating.display}</p>
         <div className="mb-0.5 flex items-center gap-1.5 md:mb-1 md:gap-2">
           <StarRating value={rating.numeric} />
-          <span className="text-[11px] text-[var(--color-text-soft)] md:text-[13px]">out of 5</span>
+          <span className="font-lora text-[11px] font-medium text-[var(--color-text-soft)] md:text-[13px]">out of 5</span>
         </div>
       </div>
 
@@ -199,10 +199,10 @@ function VerdictQuote({ oneLineVerdict, isDark }) {
 
   return (
     <article className={`relative overflow-hidden rounded-xl border px-3.5 py-3.5 md:px-5 md:py-5 ${cardClass(isDark)}`}>
-      <span aria-hidden="true" className="pointer-events-none absolute left-2.5 top-1 text-[36px] font-bold leading-none text-[var(--color-primary)] opacity-70 md:left-4 md:top-2 md:text-[48px] md:opacity-80">
+      <span aria-hidden="true" className="pointer-events-none absolute left-2.5 top-1 text-[36px] font-bold leading-none text-[#AB8450] opacity-70 md:left-4 md:top-2 md:text-[48px] md:opacity-80">
         “
       </span>
-      <span aria-hidden="true" className="pointer-events-none absolute bottom-5 right-2.5 text-[36px] font-bold leading-none text-[var(--color-primary)] opacity-70 md:bottom-6 md:right-4 md:text-[48px] md:opacity-80">
+      <span aria-hidden="true" className="pointer-events-none absolute bottom-5 right-2.5 text-[36px] font-bold leading-none text-[#AB8450] opacity-70 md:bottom-6 md:right-4 md:text-[48px] md:opacity-80">
         ”
       </span>
 
@@ -279,10 +279,10 @@ function ScoreBreakdown({ scoreNote, scoreBreakdown, isDark }) {
   return (
     <article className={`overflow-hidden rounded-xl border ${cardClass(isDark)}`}>
       <div className="px-3.5 pt-3.5 md:px-5 md:pt-5">
-        <p className="text-[13px] font-semibold text-[var(--color-text)] md:text-[15px]">{cleanText(scoreNote)}</p>
+        <p className="font-lora text-[13px] font-medium text-[var(--color-text)] md:text-[15px]">{cleanText(scoreNote)}</p>
       </div>
 
-      <div className="mt-2.5 grid grid-cols-[minmax(0,1fr)_auto] items-center gap-2 bg-[var(--color-primary-soft)] px-3.5 py-2 text-[11px] font-semibold text-[var(--color-text)] md:mt-3 md:gap-3 md:px-5 md:py-2.5 md:text-[13px]">
+      <div className="mt-2.5 grid grid-cols-[minmax(0,1fr)_auto] items-center gap-2 bg-[rgba(171,132,80,0.12)] px-3.5 py-2 text-[11px] font-semibold text-[var(--color-text)] md:mt-3 md:gap-3 md:px-5 md:py-2.5 md:text-[13px]">
         <span>{columns[0] || "Dimension"}</span>
         <span className="text-right">{columns[1] || "Score (of 20)"}</span>
       </div>
@@ -296,14 +296,14 @@ function ScoreBreakdown({ scoreNote, scoreBreakdown, isDark }) {
             <div className="flex min-w-0 items-start gap-2 md:gap-3">
               <DimensionIcon dimension={row.dimension} />
               <div className="min-w-0">
-                <p className="text-[12px] font-semibold leading-tight text-[var(--color-text)] md:text-[14px]">{row.dimension}</p>
+                <p className="font-lora text-[12px] font-medium leading-tight text-[var(--color-text)] md:text-[14px]">{row.dimension}</p>
                 {row.detail ? (
                   <p className="mt-0.5 text-[11px] leading-[1.35] text-[var(--color-text-soft)] md:mt-1 md:text-[12px]">{row.detail}</p>
                 ) : null}
               </div>
             </div>
             <p className="shrink-0 pt-0.5 text-right leading-none">
-              <span className="text-[20px] font-bold text-[var(--color-primary)] md:text-[26px]">{row.points}</span>
+              <span className="text-[20px] font-bold text-[#AB8450] md:text-[26px]">{row.points}</span>
               <span className={`text-[11px] font-medium md:text-[13px] ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-muted)]"}`}> /{row.outOf}</span>
             </p>
           </div>
@@ -312,14 +312,14 @@ function ScoreBreakdown({ scoreNote, scoreBreakdown, isDark }) {
 
       <div
         className={`grid grid-cols-[minmax(0,1fr)_auto] items-center gap-2 px-3.5 py-3 md:gap-3 md:px-5 md:py-4 ${
-          isDark ? "bg-[var(--color-page-soft)]" : "bg-[var(--color-primary-soft)]"
+          isDark ? "bg-[var(--color-page-soft)]" : "bg-[rgba(171,132,80,0.12)]"
         }`}
       >
         <p className="text-[11px] font-bold uppercase tracking-[0.04em] text-[var(--color-text)] md:text-[13px]">
           Total Engine Score
         </p>
         <p className="text-right leading-none">
-          <span className="text-[26px] font-bold text-[var(--color-primary)] md:text-[34px]">{totalPoints}</span>
+          <span className="text-[26px] font-bold text-[#AB8450] md:text-[34px]">{totalPoints}</span>
           <span className={`text-[12px] font-medium md:text-[14px] ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-muted)]"}`}> / {totalOutOf}</span>
         </p>
       </div>
@@ -334,17 +334,13 @@ export default function VerdictRating({ data }) {
   const isDark = theme === "dark";
 
   return (
-    <section className="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden bg-[var(--color-page)] py-6 text-[var(--color-text)] md:py-9">
-      <div className={`absolute inset-0 ${isDark ? "bg-[var(--color-page)]" : "bg-[var(--color-page-soft)]"}`} />
-
+    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden py-6 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 3)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <div className="text-center md:text-left">
-          <h2 className={`font-bold tracking-normal ${sectionH2}`}>
-            Verdict <span className="text-[var(--color-primary)]">& Rating</span>
+        <div className="text-left">
+          <SectionLabel number={3} isDark={isDark} />
+          <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px]`}>
+            Verdict <span className="text-[#AB8450]">& Rating</span>
           </h2>
-          <div className="mt-3 flex justify-center md:justify-start">
-            <MStripe />
-          </div>
         </div>
 
         {/* Desktop */}

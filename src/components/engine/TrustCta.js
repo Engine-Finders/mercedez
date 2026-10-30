@@ -2,8 +2,8 @@
 
 import Link from "next/link";
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
-import { sectionH2 } from "@/components/models/sectionTypography";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 
 function cleanText(text = "") {
   return String(text)
@@ -16,7 +16,7 @@ function cleanText(text = "") {
 }
 
 function shortEngineName(engineLabel = "") {
-  return cleanText(engineLabel).replace(/^BMW\s+/i, "") || "Engine";
+  return cleanText(engineLabel).replace(/^Mercedes(?:-Benz|-AMG)?\s+/i, "").replace(/^BMW\s+/i, "") || "Engine";
 }
 
 function parseTrustPoint(point = "") {
@@ -50,7 +50,7 @@ function TrustIcon({ title }) {
   }
 
   return (
-    <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-[var(--color-primary-soft)] text-[var(--color-primary)]">
+    <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
       <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.85">
         {path}
       </svg>
@@ -68,7 +68,7 @@ function highlightConfidence(text = "") {
   return (
     <>
       {clean.slice(0, index)}
-      <span className="font-semibold text-[var(--color-primary)]">{clean.slice(index, index + phrase.length)}</span>
+      <span className="font-semibold text-[#AB8450]">{clean.slice(index, index + phrase.length)}</span>
       {clean.slice(index + phrase.length)}
     </>
   );
@@ -80,7 +80,14 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
 
   const isDark = theme === "dark";
   const engineCode = shortEngineName(engineLabel);
-  const points = (data.trustPoints || []).map(parseTrustPoint);
+  const rawPoints = data.trustPoints?.length
+    ? data.trustPoints
+    : [
+        "Independent advice: Honest repair vs replace guidance with no dealer markup.",
+        "UK specialist network: Compare reconditioned supply from trusted suppliers.",
+        "Real enquiry data: Pricing and failure patterns backed by marketplace activity.",
+      ];
+  const points = rawPoints.map(parseTrustPoint);
   const ctaLabel = cleanText(data.ctaButton?.label || "").replace(/\s*→\s*$/, "");
 
   const lightCard =
@@ -88,18 +95,14 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
   const darkCard = "border-[var(--color-border)] bg-[var(--color-surface)]";
 
   return (
-    <section className="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden bg-[var(--color-page)] py-6 text-[var(--color-text)] md:py-9">
-      <div className={`absolute inset-0 ${isDark ? "bg-[var(--color-page)]" : "bg-[var(--color-page)]"}`} />
-
+    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden py-6 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 7)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div>
-          <h2 className={`font-bold tracking-normal ${sectionH2}`}>
-            Why Owners <span className="text-[var(--color-primary)]">Trust Us</span>
+          <SectionLabel number={7} isDark={isDark} />
+          <h2 className={`font-medium tracking-normal font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px]`}>
+            Why Owners <span className="text-[#AB8450]">Trust Us</span>
           </h2>
-          <div className="mt-3">
-            <MStripe />
-          </div>
-        </div>
+</div>
 
         {/* Desktop */}
         <div className="mt-4 hidden gap-3 md:grid md:grid-cols-3">
@@ -111,7 +114,7 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
               <div className="flex items-start gap-3">
                 <TrustIcon title={point.title} />
                 <div className="min-w-0">
-                  <p className="text-[15px] font-bold text-[var(--color-text)]">{point.title}</p>
+                  <p className="font-lora text-[15px] font-medium text-[var(--color-text)]">{point.title}</p>
                   <p className="mt-1.5 text-[13px] leading-[1.45] text-[var(--color-text-muted)]">{point.text}</p>
                 </div>
               </div>
@@ -122,11 +125,11 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
         <div
           className={`mt-3 hidden items-center gap-4 rounded-xl border px-4 py-3.5 md:flex ${
             isDark
-              ? "border-[var(--color-border)] bg-[var(--color-primary-soft)]"
-              : "border-[var(--color-border)] bg-[var(--color-primary-soft)] shadow-[0_10px_28px_var(--color-shadow)]"
+              ? "border-[var(--color-border)] bg-[rgba(171,132,80,0.12)]"
+              : "border-[var(--color-border)] bg-[rgba(171,132,80,0.12)] shadow-[0_10px_28px_var(--color-shadow)]"
           }`}
         >
-          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-[var(--color-surface)] text-[var(--color-primary)] shadow-[0_4px_12px_var(--color-shadow)]">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-[var(--color-surface)] text-[#AB8450] shadow-[0_4px_12px_var(--color-shadow)]">
             <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.85">
               <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
             </svg>
@@ -137,9 +140,9 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
           {data.ctaButton?.href ? (
             <Link
               href="/quote"
-              className="btn-cta inline-flex min-h-11 shrink-0 items-center justify-center rounded-lg bg-[var(--color-primary)] px-5 text-[13px] font-bold text-white"
+              className="btn-cta inline-flex min-h-11 shrink-0 items-center justify-center rounded-lg bg-[#AB8450] px-5 text-[13px] font-bold text-white"
             >
-              {ctaLabel || `Compare BMW ${engineCode} Engine Prices Now`} →
+              {ctaLabel || `Compare ${engineCode} Engine Prices Now`} →
             </Link>
           ) : null}
         </div>
@@ -153,7 +156,7 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
             >
               <TrustIcon title={point.title} />
               <div className="min-w-0">
-                <p className="text-[14px] font-bold text-[var(--color-text)]">{point.title}</p>
+                <p className="font-lora text-[14px] font-medium text-[var(--color-text)]">{point.title}</p>
                 <p className="mt-1 text-[12px] leading-[1.4] text-[var(--color-text-muted)]">{point.text}</p>
               </div>
             </article>
@@ -162,17 +165,17 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
           <article
             className={`rounded-xl border px-3.5 py-4 text-center ${
               isDark
-                ? "border-[var(--color-border)] bg-[var(--color-primary-soft)]"
-                : "border-[var(--color-border)] bg-[var(--color-primary-soft)] shadow-[0_10px_28px_var(--color-shadow)]"
+                ? "border-[var(--color-border)] bg-[rgba(171,132,80,0.12)]"
+                : "border-[var(--color-border)] bg-[rgba(171,132,80,0.12)] shadow-[0_10px_28px_var(--color-shadow)]"
             }`}
           >
-            <span className="mx-auto flex h-11 w-11 items-center justify-center rounded-full bg-[var(--color-surface)] text-[var(--color-primary)] shadow-[0_4px_12px_var(--color-shadow)]">
+            <span className="mx-auto flex h-11 w-11 items-center justify-center rounded-full bg-[var(--color-surface)] text-[#AB8450] shadow-[0_4px_12px_var(--color-shadow)]">
               <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.85">
                 <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
               </svg>
             </span>
             <p className="mt-3 text-[20px] font-bold leading-[1.25] text-[var(--color-text)]">
-              Find the best BMW {engineCode} engine replacement UK drivers rely on.
+              Find the best {engineCode} engine replacement UK drivers rely on.
             </p>
             <p className="mt-2 text-[12px] leading-[1.4] text-[var(--color-text-muted)]">
               {highlightConfidence(
@@ -184,9 +187,9 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
             {data.ctaButton?.href ? (
               <Link
                 href="/quote"
-                className="btn-cta mt-3 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-lg bg-[var(--color-primary)] px-4 text-[13px] font-bold text-white"
+                className="btn-cta mt-3 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-lg bg-[#AB8450] px-4 text-[13px] font-bold text-white"
               >
-                <span>{ctaLabel || `Compare BMW ${engineCode} Engine Prices Now`}</span>
+                <span>{ctaLabel || `Compare ${engineCode} Engine Prices Now`}</span>
                 <span aria-hidden="true">→</span>
               </Link>
             ) : null}
