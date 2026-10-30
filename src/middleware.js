@@ -7,8 +7,9 @@ import { NextResponse } from "next/server";
 const CROSS_BRAND =
   /^\/(?:1-series|2-series|3-series|4-series|5-series|6-series|7-series|8-series|x[1-7]|z4|i[348x]|m[2-8]|mini|i-pace|e-pace|f-pace|f-type|xe|xf|xj|xk)(?:\/|$)/i;
 
+// BMW-only engine codes — do NOT include m### (Mercedes M104 etc. share that pattern)
 const BMW_ENGINE =
-  /^\/engine\/(?:n[0-9]{2}|b[0-9]{2}|s[0-9]{2}|m[0-9]{2}|n55b30|m52b20)(?:\/|$)/i;
+  /^\/engine\/(?:n[0-9]{2}(?:b\d+)?|b[0-9]{2}|s[0-9]{2}|m50|m52|m54|m52b20|n55b30)(?:\/|$)/i;
 
 export function middleware(request) {
   const { pathname } = request.nextUrl;

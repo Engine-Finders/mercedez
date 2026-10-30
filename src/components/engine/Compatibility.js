@@ -1,12 +1,10 @@
 "use client";
 
 import Image from "next/image";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
-import { sectionDescription, sectionH2 } from "@/components/models/sectionTypography";
-
-const ENGINE_IMAGE =
-  "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=800&q=80";
+import { sectionDescription } from "@/components/models/sectionTypography";
 
 const CAR_IMAGES = [
   "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=640&q=80",
@@ -32,7 +30,7 @@ function stripTags(text = "") {
 }
 
 function shortEngineName(engineLabel = "") {
-  return cleanText(engineLabel).replace(/^Jaguar\s+/i, "") || "Engine";
+  return cleanText(engineLabel).replace(/^Mercedes(?:-Benz|-AMG)?\s+/i, "").replace(/^Jaguar\s+/i, "") || "Engine";
 }
 
 function seriesParts(model = "") {
@@ -137,13 +135,13 @@ function ShieldIcon({ className = "h-4 w-4" }) {
 function ExclusiveBadge({ isDark }) {
   return (
     <div className={`flex max-w-[260px] items-start gap-2 rounded-lg border px-2.5 py-2 ${cardClass(isDark)}`}>
-      <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-soft)] text-[var(--color-primary)]">
+      <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
         <ShieldIcon className="h-3.5 w-3.5" />
       </span>
       <div className="min-w-0">
-        <p className="text-[10px] font-bold uppercase tracking-[0.04em] text-[var(--color-primary)]">Jaguar Exclusive Engine</p>
+        <p className="text-[10px] font-bold uppercase tracking-[0.04em] text-[#AB8450]">Mercedes Exclusive Engine</p>
         <p className="mt-0.5 text-[10px] leading-[1.35] text-[var(--color-text-muted)]">
-          This is an exclusive Jaguar engine. No cross-platform sharing.
+          This is an exclusive Mercedes-Benz engine. No cross-platform sharing.
         </p>
       </div>
     </div>
@@ -155,15 +153,15 @@ function ProductionTimeline({ start, end, span, isDark }) {
 
   return (
     <div className="mt-4 flex items-center gap-3 md:mt-5">
-      <span className="text-[13px] font-semibold text-[var(--color-primary)] md:text-[14px]">{start}</span>
-      <div className="relative h-px flex-1 bg-[var(--color-primary)]">
-        <span className="absolute left-0 top-1/2 h-2.5 w-2.5 -translate-y-1/2 rounded-full bg-[var(--color-primary)]" />
-        <span className="absolute right-0 top-1/2 h-2.5 w-2.5 -translate-y-1/2 rounded-full bg-[var(--color-primary)]" />
-        <span className={`absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 whitespace-nowrap rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-[0.04em] text-white md:text-[11px] ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}>
+      <span className="text-[13px] font-semibold text-[#AB8450] md:text-[14px]">{start}</span>
+      <div className="relative h-px flex-1 bg-[#AB8450]">
+        <span className="absolute left-0 top-1/2 h-2.5 w-2.5 -translate-y-1/2 rounded-full bg-[#AB8450]" />
+        <span className="absolute right-0 top-1/2 h-2.5 w-2.5 -translate-y-1/2 rounded-full bg-[#AB8450]" />
+        <span className={`absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 whitespace-nowrap rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-[0.04em] text-white md:text-[11px] ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}>
           {span} Years of Production
         </span>
       </div>
-      <span className="text-[13px] font-semibold text-[var(--color-primary)] md:text-[14px]">{end}</span>
+      <span className="text-[13px] font-semibold text-[#AB8450] md:text-[14px]">{end}</span>
     </div>
   );
 }
@@ -175,7 +173,7 @@ function DesktopModelCard({ item, isDark }) {
     <article className={`flex h-full flex-col rounded-lg border p-2.5 ${cardClass(isDark)}`}>
       <div className="flex items-start justify-between gap-2">
         <div className="min-w-0">
-          <p className="text-[26px] font-bold leading-none text-[var(--color-primary)]">{series.big}</p>
+          <p className="font-lora text-[26px] font-medium leading-none text-[#AB8450]">{series.big}</p>
           {series.label ? (
             <p className="mt-0.5 text-[10px] font-semibold uppercase tracking-[0.06em] text-[var(--color-text-soft)]">{series.label}</p>
           ) : null}
@@ -195,7 +193,7 @@ function DesktopModelCard({ item, isDark }) {
 
       <div className="mt-auto flex items-center justify-between gap-2 border-t border-[var(--color-border)] pt-1.5">
         <span className="text-[10px] text-[var(--color-text-soft)]">{item.yearLabel}</span>
-        <span className="text-[10px] font-semibold uppercase tracking-[0.04em] text-[var(--color-primary)]">
+        <span className="text-[10px] font-semibold uppercase tracking-[0.04em] text-[#AB8450]">
           {item.variantCount} Variants →
         </span>
       </div>
@@ -209,7 +207,7 @@ function MobileModelRow({ row, isDark }) {
   return (
     <article className={`grid grid-cols-[68px_minmax(0,1fr)_auto] items-center gap-2 rounded-lg border px-2.5 py-2 ${cardClass(isDark)}`}>
       <div className="min-w-0 overflow-hidden">
-        <p className="text-[22px] font-bold leading-none text-[var(--color-primary)]">{series.big}</p>
+        <p className="font-lora text-[22px] font-medium leading-none text-[#AB8450]">{series.big}</p>
         {series.label ? (
           <p className="mt-0.5 text-[9px] font-semibold uppercase tracking-[0.06em] text-[var(--color-text-soft)]">{series.label}</p>
         ) : null}
@@ -234,9 +232,9 @@ function MobileModelRow({ row, isDark }) {
       <div className="flex items-center gap-2 pl-1">
         <div className="text-right">
           <p className="text-[10px] uppercase tracking-[0.04em] text-[var(--color-text-soft)]">Years</p>
-          <p className="mt-1 text-[12px] font-semibold text-[var(--color-primary)]">{stripTags(row.years)}</p>
+          <p className="mt-1 text-[12px] font-semibold text-[#AB8450]">{stripTags(row.years)}</p>
         </div>
-        <span aria-hidden="true" className="text-[18px] font-bold text-[var(--color-primary)]">›</span>
+        <span aria-hidden="true" className="text-[18px] font-bold text-[#AB8450]">›</span>
       </div>
     </article>
   );
@@ -244,17 +242,17 @@ function MobileModelRow({ row, isDark }) {
 
 function VerifiedStrip() {
   return (
-    <article className="flex w-full items-start gap-3 rounded-lg border border-[var(--color-primary)] bg-[var(--color-primary-soft)] px-3.5 py-3 md:items-center md:px-4 md:py-3.5">
-      <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md border border-[var(--color-primary)] bg-[var(--color-surface)] text-[var(--color-primary)]">
+    <article className="flex w-full items-start gap-3 rounded-lg border border-[#AB8450] bg-[rgba(171,132,80,0.12)] px-3.5 py-3 md:items-center md:px-4 md:py-3.5">
+      <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md border border-[#AB8450] bg-[var(--color-surface)] text-[#AB8450]">
         <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="1.9">
           <path d="M8 7h11M8 12h11M8 17h11M5 7h.01M5 12h.01M5 17h.01" />
         </svg>
       </span>
       <div className="min-w-0">
-        <p className="text-[12px] font-bold uppercase tracking-[0.04em] text-[var(--color-primary)]">Compatibility Verified</p>
+        <p className="text-[12px] font-bold uppercase tracking-[0.04em] text-[#AB8450]">Compatibility Verified</p>
         <p className="mt-0.5 text-[12px] leading-[1.4] text-[var(--color-text-muted)]">
           All compatibility data verified from Jaguar parts catalogues and specialist databases.{" "}
-          <span className="font-semibold text-[var(--color-primary)]">[JAGUAR-VERIFIED]</span>
+          <span className="font-semibold text-[#AB8450]">[JAGUAR-VERIFIED]</span>
         </p>
       </div>
     </article>
@@ -280,53 +278,39 @@ export default function Compatibility({
   const exclusiveNote = cleanText(data.crossBrandNote || crossBrandFitment || "(Exclusive mode – no cross-link)");
 
   return (
-    <section className="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden bg-[var(--color-page)] py-6 text-[var(--color-text)] md:py-9">
-      {/* Engine background + fog */}
-      <div className="absolute inset-0">
-        <div className={`absolute inset-0 ${isDark ? "bg-[var(--color-page)]" : "bg-[var(--color-page-soft)]"}`} />
-
-        <div className="absolute inset-y-0 right-0 w-full md:w-[62%]">
-          <Image
-            src={ENGINE_IMAGE}
-            alt=""
-            fill
-            sizes="(max-width: 768px) 100vw, 62vw"
-            className="object-cover object-[center_30%] opacity-55 md:object-center md:opacity-70"
-            priority={false}
-          />
-        </div>
-
-        {/* Fog / smoke between image and content */}
+    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden py-6 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 4)}`}>
+      {/* Header-only background (same pattern as gen sec2) */}
+      <div className="absolute inset-x-0 top-0 h-[220px] md:h-[280px]">
+        <Image src="/sec2-bg.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
         <div
-          className={`absolute inset-0 ${
+          className={
             isDark
-              ? "bg-[linear-gradient(90deg,var(--color-page)_0%,var(--color-page)_34%,var(--color-hero-overlay)_58%,transparent_78%)]"
-              : "bg-[linear-gradient(90deg,var(--color-page-soft)_0%,var(--color-page-soft)_34%,var(--color-hero-overlay)_58%,transparent_78%)]"
-          }`}
+              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(10,10,10,0.96)_0%,rgba(10,10,10,0.78)_42%,rgba(10,10,10,0.28)_78%)]"
+              : "absolute inset-0 bg-[linear-gradient(90deg,#F8F7F3_0%,rgba(248,247,243,0.92)_40%,rgba(248,247,243,0.2)_78%)]"
+          }
         />
         <div
-          className={`absolute inset-0 ${
+          className={
             isDark
-              ? "bg-[linear-gradient(180deg,var(--color-hero-overlay)_0%,transparent_28%,transparent_72%,var(--color-hero-fade)_100%)]"
-              : "bg-[linear-gradient(180deg,var(--color-hero-overlay)_0%,transparent_30%,transparent_70%,var(--color-hero-fade)_100%)]"
-          }`}
+              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
+              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#F8F7F3_0%,transparent_100%)]"
+          }
         />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_78%_42%,transparent_0%,var(--color-hero-overlay)_58%,var(--color-hero-fade)_100%)] opacity-90" />
       </div>
 
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="grid max-w-[720px] items-start gap-4 md:grid-cols-[minmax(0,1fr)_auto] md:gap-5">
           <div className="min-w-0">
-            <h2 className={`font-bold tracking-normal ${sectionH2}`}>
-              Compatible <span className="text-[var(--color-primary)]">Jaguar Models</span>
-            </h2>
-            <div className="mt-3">
-              <MStripe />
-            </div>
+            <SectionLabel number={4} isDark={isDark} />
+            <div className="flex flex-col gap-3">
+<h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                Compatible <span style={{ color: GOLD }}>Mercedes Models</span>
+              </h2>
+</div>
             <p className={`mt-4 max-w-[540px] ${sectionDescription} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-              Jaguar {engineCode} engines are fitted across{" "}
-              <span className="font-semibold text-[var(--color-primary)]">{modelCountLabel}</span> from{" "}
-              <span className="font-semibold text-[var(--color-primary)]">
+              Mercedes {engineCode} engines are fitted across{" "}
+              <span className="font-semibold" style={{ color: GOLD }}>{modelCountLabel}</span> from{" "}
+              <span className="font-semibold" style={{ color: GOLD }}>
                 {bounds.start && bounds.end ? `${bounds.start}\u2013${bounds.end}` : stripTags(yearsProduced) || "multiple years"}
               </span>
               .
@@ -347,15 +331,15 @@ export default function Compatibility({
               <DesktopModelCard key={item.model} item={item} isDark={isDark} />
             ))}
 
-            <article className="flex min-h-[132px] flex-col items-start justify-center rounded-lg border border-dashed border-[var(--color-primary)] bg-[var(--color-primary-soft)] p-2.5">
-              <span className="flex h-7 w-7 items-center justify-center rounded-full border border-[var(--color-primary)] text-[16px] font-bold text-[var(--color-primary)]">
+            <article className="flex min-h-[132px] flex-col items-start justify-center rounded-lg border border-dashed border-[#AB8450] bg-[rgba(171,132,80,0.12)] p-2.5">
+              <span className="flex h-7 w-7 items-center justify-center rounded-full border border-[#AB8450] text-[16px] font-bold text-[#AB8450]">
                 +
               </span>
-              <p className="mt-2 text-[11px] font-bold uppercase tracking-[0.04em] text-[var(--color-primary)]">Other Jaguar Models</p>
+              <p className="mt-2 text-[11px] font-bold uppercase tracking-[0.04em] text-[#AB8450]">Other Mercedes Models</p>
               <p className="mt-1 text-[11px] leading-[1.35] text-[var(--color-text-muted)]">
                 {engineCode} also appears in limited variants and markets.
               </p>
-              <p className="mt-2 text-[11px] font-semibold text-[var(--color-primary)]">View full details →</p>
+              <p className="mt-2 text-[11px] font-semibold text-[#AB8450]">View full details →</p>
             </article>
           </div>
 
@@ -366,27 +350,27 @@ export default function Compatibility({
 
         {/* Mobile rows */}
         <div className="mt-4 grid gap-2.5 md:hidden">
-          {rows.map((row) => (
-            <MobileModelRow key={`${row.model}-${row.generation}`} row={row} isDark={isDark} />
+          {rows.map((row, index) => (
+            <MobileModelRow key={`${row.model}-${row.generation}-${row.variantBadge}-${index}`} row={row} isDark={isDark} />
           ))}
 
           <article className={`flex items-center gap-3 rounded-lg border px-3 py-2.5 ${cardClass(isDark)}`}>
-            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] text-[18px] font-bold text-[var(--color-primary)]">
+            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-[#AB8450] text-[18px] font-bold text-[#AB8450]">
               +
             </span>
             <div className="min-w-0 flex-1">
-              <p className="text-[12px] font-bold uppercase tracking-[0.04em] text-[var(--color-primary)]">Other Jaguar Models</p>
+              <p className="text-[12px] font-bold uppercase tracking-[0.04em] text-[#AB8450]">Other Mercedes Models</p>
               <p className="mt-0.5 text-[11px] leading-[1.35] text-[var(--color-text-muted)]">
                 {engineCode} also appears in limited variants and markets.
               </p>
             </div>
-            <span className="shrink-0 text-[11px] font-semibold text-[var(--color-primary)]">View full details ›</span>
+            <span className="shrink-0 text-[11px] font-semibold text-[#AB8450]">View full details ›</span>
           </article>
 
           <VerifiedStrip />
 
           <div className={`flex items-center gap-2 rounded-lg border px-3 py-2.5 ${cardClass(isDark)}`}>
-            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-soft)] text-[var(--color-primary)]">
+            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
               <ShieldIcon className="h-3.5 w-3.5" />
             </span>
             <p className="text-[11px] text-[var(--color-text-soft)]">{exclusiveNote}</p>

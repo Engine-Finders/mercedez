@@ -65,17 +65,7 @@ export default async function EnginePage({ params }) {
   if (!data) notFound();
 
   return (
-    <main
-      style={{
-        padding: "24px 16px 64px",
-        maxWidth: 1100,
-        margin: "0 auto",
-        lineHeight: 1.5,
-        display: "flex",
-        flexDirection: "column",
-        gap: 40,
-      }}
-    >
+    <main className="flex w-full flex-col bg-[var(--color-page)]">
       {data.meta?.jsonLd && (
         <script
           type="application/ld+json"
@@ -87,10 +77,16 @@ export default async function EnginePage({ params }) {
       <EngineHero data={data.hero} />
       <AtAGlance data={data.atAGlance} />
       <VerdictRating data={data.verdictRating} />
-      <Compatibility data={data.compatibility} />
-      <CostGuide data={data.costGuide} />
-      <FAQAccordion data={data.faq} />
-      <TrustCta data={data.trustCta} />
+      <Compatibility
+        data={data.compatibility}
+        engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value}
+        yearsProduced={data.atAGlance?.rows?.find((r) => r.metric === "Years Produced")?.value}
+        modelsFitted={data.atAGlance?.rows?.find((r) => r.metric?.startsWith("Models Fitted"))?.value}
+        crossBrandFitment={data.atAGlance?.rows?.find((r) => r.metric === "Cross-Brand Fitment")?.value}
+      />
+      <CostGuide data={data.costGuide} engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value} />
+      <FAQAccordion data={data.faq} engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value} />
+      <TrustCta data={data.trustCta} engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value} />
     </main>
   );
 }
