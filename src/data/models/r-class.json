@@ -10,7 +10,7 @@
       "description": "Every Mercedes R-Class engine - OM642, M272, M273, M156. 1 generation, real UK costs and reliability data from specialist knowledge. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/r-class/",
-      "image": "https://mercedesengine.uk/images/models/mercedes-r-class-hero.jpg",
+      "image": "/model images/R-class.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -245,6 +245,10 @@
     "primaryCta": {
       "label": "Explore R-Class Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/R-class.webp",
+      "alt": "Mercedes-Benz R-Class"
     }
   },
   "ownershipVerdict": {
@@ -287,7 +291,11 @@
         "ourCall": "⚠️ Niche, Check Value - the R-Class is the Mercedes no one remembers, and its ownership economics reflect that: a specialist car for specialist buyers who know exactly what they're getting into."
       }
     ],
-    "oneLineVerdict": "The R-Class is a spacious, capable seven-seater that's now cheap to buy - but the engine replacement cost will frequently exceed the car's value. Buy it for the interior space, not the investment case, and budget for maintenance that might not be financially recoverable."
+    "oneLineVerdict": "The R-Class is a spacious, capable seven-seater that's now cheap to buy - but the engine replacement cost will frequently exceed the car's value. Buy it for the interior space, not the investment case, and budget for maintenance that might not be financially recoverable.",
+    "image": {
+      "src": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp",
+      "alt": "Mercedes R-Class"
+    }
   },
   "atAGlance": {
     "h2": "Mercedes R-Class at a Glance",
@@ -347,6 +355,10 @@
         "cta": {
           "label": "Explore R-Class W251 →",
           "href": "https://mercedesengines.uk/r-class/w251"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W251"
         }
       }
     ],

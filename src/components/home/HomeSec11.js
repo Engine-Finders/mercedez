@@ -49,7 +49,7 @@ function EraRow({ row, isDark }) {
 
       <div className={`flex items-center justify-center border-l px-2 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
         <div className="relative h-16 w-full max-w-[120px] overflow-hidden">
-          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.era} fill className="object-contain" sizes="120px" />
+          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.era} fill unoptimized className="object-contain" sizes="120px" />
         </div>
       </div>
     </div>
@@ -98,7 +98,7 @@ function KeyTakeaway({ data }) {
   return (
     <div className="relative mt-5 overflow-hidden rounded-xl md:mt-6" style={{ backgroundColor: "#0a0a0a" }}>
       <div className="absolute inset-y-0 right-0 hidden w-[38%] md:block">
-        <Image src={data.image?.src || "/right.webp"} alt="" fill className="object-cover object-center opacity-50" sizes="40vw" />
+        <Image src={data.image?.src || "/right.webp"} alt="" fill unoptimized className="object-contain object-center opacity-50" sizes="40vw" />
         <div className="absolute inset-0 bg-[linear-gradient(90deg,#0a0a0a_0%,rgba(10,10,10,0.55)_55%,rgba(10,10,10,0.15)_100%)]" />
       </div>
 

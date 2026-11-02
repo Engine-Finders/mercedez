@@ -139,7 +139,7 @@ export default function HomeSec14({ data }) {
         }`}
       >
         <div className="absolute inset-y-0 right-0 w-[40%]">
-          <Image src={image.src} alt="" fill className="object-cover object-center" sizes="40vw" />
+          <Image src={image.src} alt="" fill unoptimized className="object-contain object-center" sizes="40vw" />
           <div
             className={
               isDark

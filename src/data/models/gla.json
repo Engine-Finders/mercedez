@@ -10,7 +10,7 @@
       "description": "Every GLA engine - M270, OM651, M282, OM654. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/gla/",
-      "image": "",
+      "image": "/model images/GLA.webp",
       "siteName": "MercedesEngine.uk"
     },
     "twitter": {
@@ -317,6 +317,10 @@
     "primaryCta": {
       "label": "Explore GLA Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/GLA.webp",
+      "alt": "Mercedes-Benz GLA"
     }
   },
   "ownershipVerdict": {
@@ -359,7 +363,11 @@
         "ourCall": "🔥 #1 Enquired Compact SUV - the most-enquired Mercedes compact SUV in our 2025 data"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp",
+      "alt": "Mercedes GLA"
+    }
   },
   "atAGlance": {
     "h2": "GLA at a Glance",
@@ -419,6 +427,10 @@
         "cta": {
           "label": "Explore X156 →",
           "href": "https://mercedesengines.uk/gla/x156"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz X156"
         }
       },
       {
@@ -430,6 +442,10 @@
         "cta": {
           "label": "Explore H247 →",
           "href": "https://mercedesengines.uk/gla/h247"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz H247"
         }
       },
       {

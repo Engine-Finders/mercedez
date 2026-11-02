@@ -10,7 +10,7 @@
       "description": "Every AMG GT engine - M178, M256, M139, M177. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
       "type": "website",
       "url": "https://mercedesengine.uk/mercedes/amg-gt/",
-      "image": "",
+      "image": "/model images/Amg-gt.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -253,6 +253,10 @@
     "primaryCta": {
       "label": "Explore AMG GT Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/Amg-gt.webp",
+      "alt": "Mercedes-Benz AMG GT"
     }
   },
   "ownershipVerdict": {
@@ -295,7 +299,11 @@
         "ourCall": "🏆 Halo Performance Icon - the most powerful, most expensive, and most emotionally-charged Mercedes-AMG in the range"
       }
     ],
-    "oneLineVerdict": "The AMG GT is the Mercedes-AMG halo car - the M178 V8 is a masterpiece when maintained, but the economics of replacing one demand respect. Buy a post-2018 C190 with full history, budget for preventative turbo- actuator maintenance, and you'll own one of the great V8 sports cars of its era."
+    "oneLineVerdict": "The AMG GT is the Mercedes-AMG halo car - the M178 V8 is a masterpiece when maintained, but the economics of replacing one demand respect. Buy a post-2018 C190 with full history, budget for preventative turbo- actuator maintenance, and you'll own one of the great V8 sports cars of its era.",
+    "image": {
+      "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+      "alt": "Mercedes AMG GT"
+    }
   },
   "atAGlance": {
     "h2": "AMG GT at a Glance",
@@ -355,30 +363,42 @@
         "cta": {
           "label": "Explore C190 AMG GT →",
           "href": "https://mercedesengines.uk/amg-gt/c190"
+        },
+        "image": {
+          "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C190"
         }
       },
-     {
-  "title": "R190 (2014–2022) - Roadster",
-  "badge": "🔥 Most Enquired - 370 enquiries (2025) [MB-VERIFIED]",
-  "meta": "2014–2022 • M178 4.0 V8 biturbo",
-  "rating": "★★★★☆",
-  "verdict": "The open-top AMG GT-shares the C190's M178 V8 but with a folding fabric roof. Same robust engine architecture, but roof mechanism adds complexity on higher-mileage examples. Replacement cost high (£8k–£14k supply) but well within premium sports car values.",
-  "cta": {
-    "label": "Explore R190 →",
-    "href": "https://mercedesengines.uk/amg-gt/r190"
-  }
-},
-{
-  "title": "X290 (2018–present) - 4-Door Coupé",
-  "badge": "",
-  "meta": "2018–present • M177 4.0 V8 biturbo",
-  "rating": "★★★★☆",
-  "verdict": "The AMG GT 4-Door Coupé-a Porsche Panamera rival sharing the M177 V8 from the E-Class and S-Class. The engine is robust, but the 48V mild-hybrid system adds complexity. Flagship values (£40k–£120k) comfortably absorb replacement costs.",
-  "cta": {
-    "label": "Explore X290 →",
-    "href": "https://mercedesengines.uk/amg-gt/x290"
-  }
-}
+      {
+        "title": "R190 (2014–2022) - Roadster",
+        "badge": "🔥 Most Enquired - 370 enquiries (2025) [MB-VERIFIED]",
+        "meta": "2014–2022 • M178 4.0 V8 biturbo",
+        "rating": "★★★★☆",
+        "verdict": "The open-top AMG GT-shares the C190's M178 V8 but with a folding fabric roof. Same robust engine architecture, but roof mechanism adds complexity on higher-mileage examples. Replacement cost high (£8k–£14k supply) but well within premium sports car values.",
+        "cta": {
+          "label": "Explore R190 →",
+          "href": "https://mercedesengines.uk/amg-gt/r190"
+        },
+        "image": {
+          "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R190"
+        }
+      },
+      {
+        "title": "X290 (2018–present) - 4-Door Coupé",
+        "badge": "",
+        "meta": "2018–present • M177 4.0 V8 biturbo",
+        "rating": "★★★★☆",
+        "verdict": "The AMG GT 4-Door Coupé-a Porsche Panamera rival sharing the M177 V8 from the E-Class and S-Class. The engine is robust, but the 48V mild-hybrid system adds complexity. Flagship values (£40k–£120k) comfortably absorb replacement costs.",
+        "cta": {
+          "label": "Explore X290 →",
+          "href": "https://mercedesengines.uk/amg-gt/x290"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz X290"
+        }
+      }
     ],
     "rangeTable": {
       "title": "",

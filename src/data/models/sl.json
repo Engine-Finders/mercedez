@@ -10,7 +10,7 @@
       "description": "Every SL engine - M276, M177, M156, M157 and more. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/sl/",
-      "image": "https://mercedesengine.uk/images/models/mercedes-sl-hero.jpg",
+      "image": "/model images/SL.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -290,6 +290,10 @@
     "primaryCta": {
       "label": "Explore SL Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/SL.webp",
+      "alt": "Mercedes-Benz SL"
     }
   },
   "ownershipVerdict": {
@@ -332,7 +336,11 @@
         "ourCall": "🏆 The Original Roadster - the SL is Mercedes' longest-running nameplate, in continuous production since 1954"
       }
     ],
-    "oneLineVerdict": "The SL is a car you buy with your heart, but you decide which generation with your head. Buy an R231 with the M276 if you want a modern keeper; buy an R129 with the M119 if you want a rising classic; avoid early R230 M156 cars without documented camshaft work unless you're a specialist."
+    "oneLineVerdict": "The SL is a car you buy with your heart, but you decide which generation with your head. Buy an R231 with the M276 if you want a modern keeper; buy an R129 with the M119 if you want a rising classic; avoid early R230 M156 cars without documented camshaft work unless you're a specialist.",
+    "image": {
+      "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+      "alt": "Mercedes SL"
+    }
   },
   "atAGlance": {
     "h2": "SL at a Glance",
@@ -384,27 +392,35 @@
     "subHeadline": "Seven generations, one nameplate - from the 1954 Gullwing to the modern R232. Each generation has a distinct engine story and a clear buy/avoid verdict.",
     "cards": [
       {
-  "title": "R230 (2001–2011)",
-  "badge": "",
-  "meta": "2001–2011 • M113 petrol • M112 petrol • <a  href='https://mercedesengines.uk/engine/m275-m279'>M275</a> petrol • OM642 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The SL-a classic two-seat roadster with a folding hardtop. M113 V8 is the reliable choice; M112 V6 is robust; <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> diesel is well-understood. Values (£5k–£18k) make replacement borderline on sub-£8k examples.",
-  "cta": {
-    "label": "Explore R230 →",
-    "href": "https://mercedesengines.uk/sl/r230"
-  }
-},
-{
-  "title": "R231 (2012–2020)",
-  "badge": "",
-  "meta": "2012–2020 • M276 petrol • M278 petrol",
-  "rating": "★★★★☆",
-  "verdict": "The SL-a refined two-seat roadster with a folding hardtop. M276 V6 and <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 are both robust; the SL continues its grand touring tradition. Values (£8k–£28k) make replacement safe.",
-  "cta": {
-    "label": "Explore R231 →",
-    "href": "https://mercedesengines.uk/sl/r231"
-  }
-},
+        "title": "R230 (2001–2011)",
+        "badge": "",
+        "meta": "2001–2011 • M113 petrol • M112 petrol • <a  href='https://mercedesengines.uk/engine/m275-m279'>M275</a> petrol • OM642 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The SL-a classic two-seat roadster with a folding hardtop. M113 V8 is the reliable choice; M112 V6 is robust; <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> diesel is well-understood. Values (£5k–£18k) make replacement borderline on sub-£8k examples.",
+        "cta": {
+          "label": "Explore R230 →",
+          "href": "https://mercedesengines.uk/sl/r230"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R230"
+        }
+      },
+      {
+        "title": "R231 (2012–2020)",
+        "badge": "",
+        "meta": "2012–2020 • M276 petrol • M278 petrol",
+        "rating": "★★★★☆",
+        "verdict": "The SL-a refined two-seat roadster with a folding hardtop. M276 V6 and <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 are both robust; the SL continues its grand touring tradition. Values (£8k–£28k) make replacement safe.",
+        "cta": {
+          "label": "Explore R231 →",
+          "href": "https://mercedesengines.uk/sl/r231"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R231"
+        }
+      },
       {
         "title": "W198 (1954–1957)",
         "badge": "",
@@ -414,6 +430,10 @@
         "cta": {
           "label": "Explore W198 →",
           "href": "#"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W198"
         }
       },
       {
@@ -425,6 +445,10 @@
         "cta": {
           "label": "Explore W113 →",
           "href": "#"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W113"
         }
       },
       {
@@ -436,6 +460,10 @@
         "cta": {
           "label": "Explore R107 →",
           "href": "#"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R107"
         }
       },
       {
@@ -447,6 +475,10 @@
         "cta": {
           "label": "Explore R129 →",
           "href": "https://mercedesengines.uk/sl/r129"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R129"
         }
       },
       {
@@ -458,6 +490,10 @@
         "cta": {
           "label": "Explore R230 →",
           "href": "https://mercedesengines.uk/sl/r230"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R230"
         }
       },
       {
@@ -469,6 +505,10 @@
         "cta": {
           "label": "Explore R231 →",
           "href": "https://mercedesengines.uk/sl/r231"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R231"
         }
       },
       {
@@ -480,6 +520,10 @@
         "cta": {
           "label": "Explore R232 →",
           "href": "https://mercedesengines.uk/sl/r232"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R232"
         }
       }
     ],

@@ -10,7 +10,7 @@
       "description": "Every Mercedes CLS engine - OM651, OM642, M276, M157. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/cls/",
-      "image": "https://mercedesengine.uk/images/models/mercedes-cls-hero.jpg",
+      "image": "/model images/CLS.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -310,6 +310,10 @@
     "primaryCta": {
       "label": "Explore CLS Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/CLS.webp",
+      "alt": "Mercedes-Benz CLS"
     }
   },
   "ownershipVerdict": {
@@ -352,7 +356,11 @@
         "ourCall": "💎 Style Over Practicality - the CLS is the most design-led Mercedes saloon, and its ownership economics reflect that: buy on condition and generation, not badge."
       }
     ],
-    "oneLineVerdict": "The CLS is a design icon that demands you buy the newest generation you can afford - the same engine family that's a safe bet in a £45,000 C257 is a scrap-threshold risk in a £4,000 C219."
+    "oneLineVerdict": "The CLS is a design icon that demands you buy the newest generation you can afford - the same engine family that's a safe bet in a £45,000 C257 is a scrap-threshold risk in a £4,000 C219.",
+    "image": {
+      "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+      "alt": "Mercedes CLS"
+    }
   },
   "atAGlance": {
     "h2": "Mercedes CLS at a Glance",
@@ -412,6 +420,10 @@
         "cta": {
           "label": "Explore C219 CLS →",
           "href": "https://mercedesengines.uk/cls/c219"
+        },
+        "image": {
+          "src": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C219"
         }
       },
       {
@@ -423,6 +435,10 @@
         "cta": {
           "label": "Explore C218 CLS →",
           "href": "https://mercedesengines.uk/cls/c218"
+        },
+        "image": {
+          "src": "/cars/cls-c218-coupé-4-door coupé-2011–2014-new-designo diamond white bright-new generation-cls c218-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C218"
         }
       },
       {
@@ -434,19 +450,27 @@
         "cta": {
           "label": "Explore C257 CLS →",
           "href": "https://mercedesengines.uk/cls/c257"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C257"
         }
       },
       {
-  "title": "X218 (2012–2017) - Shooting Brake",
-  "badge": "",
-  "meta": "2012–2017 • M276 petrol • OM642 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The CLS Shooting Brake-a stylish estate with the same M276 petrol and <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> diesel. Shooting Brake values are strong, and the M276 is robust. Replacement is viable on most examples.",
-  "cta": {
-    "label": "Explore X218 →",
-    "href": "https://mercedesengines.uk/cls/x218"
-  }
-},
+        "title": "X218 (2012–2017) - Shooting Brake",
+        "badge": "",
+        "meta": "2012–2017 • M276 petrol • OM642 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The CLS Shooting Brake-a stylish estate with the same M276 petrol and <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> diesel. Shooting Brake values are strong, and the M276 is robust. Replacement is viable on most examples.",
+        "cta": {
+          "label": "Explore X218 →",
+          "href": "https://mercedesengines.uk/cls/x218"
+        },
+        "image": {
+          "src": "/cars/cls-x218-shooting brake-estate coupé-2012–2014-new-iridium silver metallic-completely different rear body-cls x218 shooting brake-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz X218"
+        }
+      },
       {
         "title": "Comparison Sub-Block: The CLS Diesel Divide",
         "badge": "",

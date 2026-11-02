@@ -10,7 +10,7 @@
       "description": "Every GLK engine - OM651, OM642, M272, M276. 1 generation, real UK costs and reliability. Compare prices from 25+ vetted Mercedes-Benz specialists.",
       "type": "website",
       "url": "https://mercedesengine.uk/glk/",
-      "image": "https://mercedesengine.uk/images/mercedes-glk-hero.jpg",
+      "image": "/model images/GLK.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -237,6 +237,10 @@
     "primaryCta": {
       "label": "Explore GLK Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/GLK.webp",
+      "alt": "Mercedes-Benz GLK"
     }
   },
   "ownershipVerdict": {
@@ -279,7 +283,11 @@
         "ourCall": "⚠️ Niche SUV - 152 enquiries (2025) - the GLK sits behind the GLC and GLA in enquiry volume, reflecting its single-generation run and 2015 discontinuation [MB-VERIFIED]."
       }
     ],
-    "oneLineVerdict": "If you buy one GLK based on this page, buy a 2012+ facelift with the M272 petrol V6 - it's the simplest, most reliable engine in the range. If you must buy the OM651 diesel, demand injector-seal history and budget for timing chain inspection at 80k. The OM642 V6 diesel sits between - robust but expensive to fix when the oil cooler seals fail. [MB-VERIFIED]"
+    "oneLineVerdict": "If you buy one GLK based on this page, buy a 2012+ facelift with the M272 petrol V6 - it's the simplest, most reliable engine in the range. If you must buy the OM651 diesel, demand injector-seal history and budget for timing chain inspection at 80k. The OM642 V6 diesel sits between - robust but expensive to fix when the oil cooler seals fail. [MB-VERIFIED]",
+    "image": {
+      "src": "/cars/b-class-w246-standard-mpv-2012–2015-new-brilliant silver metallic-major redesign-b-class w246-45-angle-front-view.webp",
+      "alt": "Mercedes GLK"
+    }
   },
   "atAGlance": {
     "h2": "GLK at a Glance",
@@ -339,6 +347,10 @@
         "cta": {
           "label": "Explore GLK X204 (2008–2012) →",
           "href": "https://mercedesengines.uk/glk/x204"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz X204"
         }
       },
       {
@@ -350,6 +362,10 @@
         "cta": {
           "label": "Explore GLK X204 (2012–2015) →",
           "href": "https://mercedesengines.uk/glk/x204"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz X204"
         }
       },
       {

@@ -1,10 +1,22 @@
 {
   "subHeadline": "Free, expert guidance. Real data. Honest advice.",
   "stats": [
-    { "icon": "chart", "label": "24,650+ UK enquiries analysed" },
-    { "icon": "engine", "label": "50+ engine codes tracked" },
-    { "icon": "quote", "label": "Real quotes, real costs" },
-    { "icon": "shield", "label": "Independent & unbiased" }
+    {
+      "icon": "chart",
+      "label": "24,650+ UK enquiries analysed"
+    },
+    {
+      "icon": "engine",
+      "label": "50+ engine codes tracked"
+    },
+    {
+      "icon": "quote",
+      "label": "Real quotes, real costs"
+    },
+    {
+      "icon": "shield",
+      "label": "Independent & unbiased"
+    }
   ],
   "guidance": {
     "eyebrow": "GET YOUR FREE GUIDANCE",
@@ -27,7 +39,7 @@
     "score": "4.8 out of 5 from 1,200+ reviews"
   },
   "image": {
-    "src": "/right.webp",
-    "alt": "Mercedes-Benz engine"
+    "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+    "alt": "Mercedes-Benz"
   }
 }

@@ -5,7 +5,7 @@
     "alt": "Mercedes-Benz ownership rankings"
   },
   "cardImage": {
-    "src": "/right.webp",
+    "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
     "alt": "Mercedes-Benz"
   },
   "rankings": [
@@ -15,8 +15,16 @@
       "icon": "engine",
       "winner": "OM654",
       "why": "The modern successor to the OM651 - AdBlue system aside, materially fewer failure reports. 520 enquiries in 2025, weighted toward routine maintenance, not catastrophic failure [MB-VERIFIED].",
-      "verdict": { "icon": "trophy", "text": "Best", "type": "best" },
-      "href": "/engine/om654"
+      "verdict": {
+        "icon": "trophy",
+        "text": "Best",
+        "type": "best"
+      },
+      "href": "/engine/om654",
+      "image": {
+        "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+        "alt": "OM654"
+      }
     },
     {
       "rank": 2,
@@ -24,8 +32,16 @@
       "icon": "car",
       "winner": "C-Class W206",
       "why": "OM654-only diesel range in the newest, highest-value C-Class generation - a clean Safe verdict with no caveat in the data.",
-      "verdict": { "icon": "trophy", "text": "Best", "type": "best" },
-      "href": "/c-class"
+      "verdict": {
+        "icon": "trophy",
+        "text": "Best",
+        "type": "best"
+      },
+      "href": "/c-class",
+      "image": {
+        "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+        "alt": "C-Class W206"
+      }
     },
     {
       "rank": 3,
@@ -33,8 +49,16 @@
       "icon": "tag",
       "winner": "W205 C-Class with OM654 (2018+ facelift)",
       "why": "Post-facelift electronics, the more dependable diesel, and values that have already absorbed the steepest depreciation. £3,000–£5,000 recon against £8,000–£22,000 vehicle value [MB-QUOTE].",
-      "verdict": { "icon": "check", "text": "Safe", "type": "safe" },
-      "href": "/c-class"
+      "verdict": {
+        "icon": "check",
+        "text": "Safe",
+        "type": "safe"
+      },
+      "href": "/c-class",
+      "image": {
+        "src": "/cars/c-class-w205-facelift-saloon-2018–2021-new-magnetite black metallic-major facelift-c-class w205 fl-45-angle-front-view.webp",
+        "alt": "W205 C-Class with OM654 (2018+ facelift)"
+      }
     },
     {
       "rank": 4,
@@ -42,8 +66,16 @@
       "icon": "flame",
       "winner": "M177 AMG V8 Full Replacement",
       "why": "The high-performance biturbo V8's full replacement cost dwarfs every other Mercedes engine - £8,000–£14,000 recon, £12,000–£18,000 rebuilt [MB-QUOTE].",
-      "verdict": { "icon": "warning", "text": "Avoid Without Full History", "type": "avoid" },
-      "href": "/engine/m177"
+      "verdict": {
+        "icon": "warning",
+        "text": "Avoid Without Full History",
+        "type": "avoid"
+      },
+      "href": "/engine/m177",
+      "image": {
+        "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+        "alt": "M177 AMG V8 Full Replacement"
+      }
     },
     {
       "rank": 5,
@@ -51,8 +83,16 @@
       "icon": "shield",
       "winner": "GLC X254 (2022–present)",
       "why": "Typical values of £28,000–£55,000 against £3,000–£5,000 recon cost - comfortably safe regardless of engine variant.",
-      "verdict": { "icon": "check", "text": "Safe", "type": "safe" },
-      "href": "/glc"
+      "verdict": {
+        "icon": "check",
+        "text": "Safe",
+        "type": "safe"
+      },
+      "href": "/glc",
+      "image": {
+        "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+        "alt": "GLC X254 (2022–present)"
+      }
     },
     {
       "rank": 6,
@@ -60,8 +100,16 @@
       "icon": "warning",
       "winner": "C-Class W203 (2000–2007)",
       "why": "Ageing host values (£1,500–£5,000) against £2,800–£4,800 recon cost - squarely inside the 70% Mercedes threshold.",
-      "verdict": { "icon": "warning", "text": "Scrap Threshold", "type": "avoid" },
-      "href": "/c-class"
+      "verdict": {
+        "icon": "warning",
+        "text": "Scrap Threshold",
+        "type": "avoid"
+      },
+      "href": "/c-class",
+      "image": {
+        "src": "/cars/c-class-w203-facelift-saloon-2004–2007-new-brilliant silver metallic-major facelift-c-class w203 fl-45-angle-front-view.webp",
+        "alt": "C-Class W203 (2000–2007)"
+      }
     },
     {
       "rank": 7,
@@ -69,8 +117,16 @@
       "icon": "best-family",
       "winner": "GLE / GL (W166)",
       "why": "7-seat capability, OM642/M276 reliability that's held up well, and large-SUV values that comfortably absorb replacement cost.",
-      "verdict": { "icon": "best-family", "text": "Best", "type": "best" },
-      "href": "/gle"
+      "verdict": {
+        "icon": "best-family",
+        "text": "Best",
+        "type": "best"
+      },
+      "href": "/gle",
+      "image": {
+        "src": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp",
+        "alt": "GLE / GL (W166)"
+      }
     },
     {
       "rank": 8,
@@ -78,8 +134,16 @@
       "icon": "long-term",
       "winner": "W211 E-Class with OM642",
       "why": "The last E-Class before Mercedes' more complex modern electronics - mechanically straightforward, well-understood, and cheaply parted.",
-      "verdict": { "icon": "trophy", "text": "Best", "type": "best" },
-      "href": "/e-class"
+      "verdict": {
+        "icon": "trophy",
+        "text": "Best",
+        "type": "best"
+      },
+      "href": "/e-class",
+      "image": {
+        "src": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219-45-angle-front-view.webp",
+        "alt": "W211 E-Class with OM642"
+      }
     }
   ],
   "dataNote": "Entries drawing on enquiry volume, replacement cost, and R-to-V flag data are [MB-VERIFIED] or [MB-QUOTE] from the proprietary file. \"Most Reliable Model,\" \"Best Family Mercedes,\" and \"Best Long-Term Keeper\" are editorial synthesis of the failure-pattern data cross-referenced against specialist and owner-forum sources - worth a Mercedes specialist sense-check before publishing."

@@ -10,7 +10,7 @@
       "description": "Every B-Class engine - OM651, OM640, M270, M274. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
       "type": "website",
       "url": "https://mercedesengine.uk/mercedes/b-class/",
-      "image": "",
+      "image": "/model images/B-class.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -253,6 +253,10 @@
     "primaryCta": {
       "label": "Explore B-Class Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/B-class.webp",
+      "alt": "Mercedes-Benz B-Class"
     }
   },
   "ownershipVerdict": {
@@ -295,7 +299,11 @@
         "ourCall": "🥇 Best Family MPV - the safest, most family-friendly Mercedes in the compact segment"
       }
     ],
-    "oneLineVerdict": "The B-Class is the Mercedes family MPV that genuinely makes sense - buy a post-2014 W246 with the OM651 diesel, give the early W245 petrols a miss, and you'll have a safe, affordable, long-lasting car that won't punish you at repair time."
+    "oneLineVerdict": "The B-Class is the Mercedes family MPV that genuinely makes sense - buy a post-2014 W246 with the OM651 diesel, give the early W245 petrols a miss, and you'll have a safe, affordable, long-lasting car that won't punish you at repair time.",
+    "image": {
+      "src": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp",
+      "alt": "Mercedes B-Class"
+    }
   },
   "atAGlance": {
     "h2": "B-Class at a Glance",
@@ -355,6 +363,10 @@
         "cta": {
           "label": "Explore W245 B-Class →",
           "href": "https://mercedesengines.uk/b-class/w245"
+        },
+        "image": {
+          "src": "/cars/b-class-w245-standard-mpv-2005–2008-new-iridium silver metallic-first generation-b-class w245-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W245"
         }
       },
       {
@@ -366,19 +378,27 @@
         "cta": {
           "label": "Explore W246 B-Class →",
           "href": "https://mercedesengines.uk/b-class/w246"
+        },
+        "image": {
+          "src": "/cars/b-class-w246-standard-mpv-2012–2015-new-brilliant silver metallic-major redesign-b-class w246-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W246"
         }
       },
       {
-  "title": "W247 (2019–present)",
-  "badge": "",
-  "meta": "2019–present • M282 petrol • OM608 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The modern B-Class-shares the M282 petrol and OM608 diesel from the W177 A-Class. Both engines are significantly more reliable than the OM651 it replaced. A sensible, well-built compact MPV with strong resale values.",
-  "cta": {
-    "label": "Explore W247 →",
-    "href": "https://mercedesengines.uk/b-class/w247"
-  }
-}
+        "title": "W247 (2019–present)",
+        "badge": "",
+        "meta": "2019–present • M282 petrol • OM608 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The modern B-Class-shares the M282 petrol and OM608 diesel from the W177 A-Class. Both engines are significantly more reliable than the OM651 it replaced. A sensible, well-built compact MPV with strong resale values.",
+        "cta": {
+          "label": "Explore W247 →",
+          "href": "https://mercedesengines.uk/b-class/w247"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W247"
+        }
+      }
     ],
     "rangeTable": {
       "title": "",

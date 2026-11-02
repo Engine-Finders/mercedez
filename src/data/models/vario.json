@@ -10,7 +10,7 @@
       "description": "Every Vario engine - OM602, OM904. Commercial vehicle costs and reliability data. Compare prices from specialist UK Mercedes-Benz commercial workshops today.",
       "type": "website",
       "url": "https://mercedesengine.uk/vario/",
-      "image": "",
+      "image": "/model images/Vario.webp",
       "siteName": "MercedesEngines.uk"
     },
     "twitter": {
@@ -237,6 +237,10 @@
     "primaryCta": {
       "label": "Explore Vario Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/Vario.webp",
+      "alt": "Mercedes-Benz Vario"
     }
   },
   "ownershipVerdict": {
@@ -279,7 +283,11 @@
         "ourCall": "🔧 Commercial Workhorse - The heavy van and truck chassis for UK operators"
       }
     ],
-    "oneLineVerdict": "The Vario is a genuine commercial workhorse - the OM904 engine is robust and well-proven, but the economics of engine replacement must be weighed against the vehicle's remaining commercial life and the availability of parts for a model discontinued in 2013."
+    "oneLineVerdict": "The Vario is a genuine commercial workhorse - the OM904 engine is robust and well-proven, but the economics of engine replacement must be weighed against the vehicle's remaining commercial life and the availability of parts for a model discontinued in 2013.",
+    "image": {
+      "src": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp",
+      "alt": "Mercedes Vario"
+    }
   },
   "atAGlance": {
     "h2": "Vario at a Glance",
@@ -339,6 +347,10 @@
         "cta": {
           "label": "Explore Vario →",
           "href": "#"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz vario"
         }
       },
       {

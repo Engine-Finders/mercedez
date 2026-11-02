@@ -10,7 +10,7 @@
       "description": "Every M-Class engine - OM642 V6 diesel, M272 V6 petrol, M113 V8. 3 generations (W163, W164, W166), real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/mercedes/m-class/",
-      "image": "",
+      "image": "/model images/M-class.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -321,6 +321,10 @@
     "primaryCta": {
       "label": "Explore M-Class Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/M-class.webp",
+      "alt": "Mercedes-Benz M-Class"
     }
   },
   "ownershipVerdict": {
@@ -363,7 +367,11 @@
         "ourCall": "🥇 Pioneer SUV - the car that defined the luxury SUV segment"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp",
+      "alt": "Mercedes M-Class"
+    }
   },
   "atAGlance": {
     "h2": "M-Class at a Glance",
@@ -423,6 +431,10 @@
         "cta": {
           "label": "Explore W163 M-Class →",
           "href": "https://mercedesengines.uk/m-class/w163"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W163"
         }
       },
       {
@@ -434,6 +446,10 @@
         "cta": {
           "label": "Explore W164 M-Class →",
           "href": "https://mercedesengines.uk/m-class/w164"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W164"
         }
       },
       {
@@ -445,6 +461,10 @@
         "cta": {
           "label": "Explore W166 M-Class →",
           "href": "https://mercedesengines.uk/m-class/w166"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W166"
         }
       },
       {
