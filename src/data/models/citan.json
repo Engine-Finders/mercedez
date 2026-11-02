@@ -10,7 +10,7 @@
       "description": "Every Mercedes Citan engine - OM607, OM608, K9K diesel, 1.3 petrol. 2 generations, real UK costs and reliability data from specialist knowledge. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/citan/",
-      "image": "https://mercedesengine.uk/images/models/mercedes-citan-hero.jpg",
+      "image": "/model images/Citan.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -255,6 +255,10 @@
     "primaryCta": {
       "label": "Explore Citan Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/Citan.webp",
+      "alt": "Mercedes-Benz Citan"
     }
   },
   "ownershipVerdict": {
@@ -297,7 +301,11 @@
         "ourCall": "🔧 Commercial Workhorse - the Citan is Mercedes' entry-level van, sharing its bones with the Renault Kangoo. Buy it for the three-pointed star on a practical, affordable package - but understand you're paying a premium for the badge."
       }
     ],
-    "oneLineVerdict": "The Citan is a Renault Kangoo with a Mercedes badge - and that's not a bad thing. The 1.5 dCi diesel is proven and economical, but the early OM607 engines have injector and turbo weaknesses that demand careful inspection. Buy a 2018+ facelift with the revised OM608 diesel and full service history, and it'll earn its keep."
+    "oneLineVerdict": "The Citan is a Renault Kangoo with a Mercedes badge - and that's not a bad thing. The 1.5 dCi diesel is proven and economical, but the early OM607 engines have injector and turbo weaknesses that demand careful inspection. Buy a 2018+ facelift with the revised OM608 diesel and full service history, and it'll earn its keep.",
+    "image": {
+      "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+      "alt": "Mercedes Citan"
+    }
   },
   "atAGlance": {
     "h2": "Mercedes Citan at a Glance",
@@ -409,27 +417,35 @@
     "subHeadline": "",
     "cards": [
       {
-  "title": "W415 (2012–2020)",
-  "badge": "",
-  "meta": "2012–2020 • Renault K9K 1.5 dCi",
-  "rating": "★★★☆☆",
-  "verdict": "The Mercedes Citan-a Renault Kangoo-based city van. Shares the K9K 1.5 dCi engine with Renault, which is well-known and well-supported. Commercial use may justify replacement; personal use warrants careful cost analysis.",
-  "cta": {
-    "label": "Explore W415 →",
-    "href": "https://mercedesengines.uk/citan/w415"
-  }
-},
-{
-  "title": "W420 (2020–present)",
-  "badge": "",
-  "meta": "2020–present • Renault K9K 1.5 dCi",
-  "rating": "★★★☆☆",
-  "verdict": "The second-generation Citan-still Kangoo-based but improved significantly. The K9K diesel remains the workhorse; now with better refinement. Commercial use often justifies replacement; personal use, evaluate carefully.",
-  "cta": {
-    "label": "Explore W420 →",
-    "href": "https://mercedesengines.uk/citan/w420"
-  }
-}
+        "title": "W415 (2012–2020)",
+        "badge": "",
+        "meta": "2012–2020 • Renault K9K 1.5 dCi",
+        "rating": "★★★☆☆",
+        "verdict": "The Mercedes Citan-a Renault Kangoo-based city van. Shares the K9K 1.5 dCi engine with Renault, which is well-known and well-supported. Commercial use may justify replacement; personal use warrants careful cost analysis.",
+        "cta": {
+          "label": "Explore W415 →",
+          "href": "https://mercedesengines.uk/citan/w415"
+        },
+        "image": {
+          "src": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W415"
+        }
+      },
+      {
+        "title": "W420 (2020–present)",
+        "badge": "",
+        "meta": "2020–present • Renault K9K 1.5 dCi",
+        "rating": "★★★☆☆",
+        "verdict": "The second-generation Citan-still Kangoo-based but improved significantly. The K9K diesel remains the workhorse; now with better refinement. Commercial use often justifies replacement; personal use, evaluate carefully.",
+        "cta": {
+          "label": "Explore W420 →",
+          "href": "https://mercedesengines.uk/citan/w420"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W420"
+        }
+      }
     ],
     "rangeTable": {
       "title": "",

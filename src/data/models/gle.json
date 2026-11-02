@@ -10,7 +10,7 @@
       "description": "Every GLE engine - OM642, OM651, M276, OM654, OM656, M177. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
       "type": "website",
       "url": "https://mercedesengine.uk/gle/",
-      "image": "https://mercedesengine.uk/images/models/gle-hero.jpg",
+      "image": "/model images/GLE.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -303,6 +303,10 @@
     "primaryCta": {
       "label": "Explore GLE Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/GLE.webp",
+      "alt": "Mercedes-Benz GLE"
     }
   },
   "ownershipVerdict": {
@@ -345,7 +349,11 @@
         "ourCall": "🥇 The mid‑size SUV benchmark - the GLE is Mercedes’ best‑selling large SUV, offering the space and capability that made the M‑Class a legend, now with modern refinement"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp",
+      "alt": "Mercedes GLE"
+    }
   },
   "atAGlance": {
     "h2": "GLE at a Glance",
@@ -473,49 +481,65 @@
     "subHeadline": "Four generations, four very different ownership stories - from the body‑on‑frame original to the latest high‑tech luxury SUV.",
     "cards": [
       {
-  "title": "V167 (2019–present) - GLE",
-  "badge": "",
-  "meta": "2019–present • M256 petrol • OM654 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The modern GLE-a large, capable SUV with M256 straight-six petrol and OM654 diesel. The OM654 is reliable and well-supported; the M256 is a smooth, modern unit. High values (£30k–£65k) make replacement very safe.",
-  "cta": {
-    "label": "Explore V167 →",
-    "href": "https://mercedesengines.uk/gle/v167"
-  }
-},
-{
-  "title": "C167 (2019–present) - GLE Coupé",
-  "badge": "",
-  "meta": "2019–present • M256 petrol • OM654 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The GLE coupé-a sportier version of the V167 with the same M256 and OM654 engines. OM654 is the reliable choice; M256 is a sophisticated modern unit. Coupé values (£35k–£70k) make replacement very safe.",
-  "cta": {
-    "label": "Explore C167 →",
-    "href": "https://mercedesengines.uk/gle/c167"
-  }
-},
-{
-  "title": "W166 (2012–2019) - GLE",
-  "badge": "",
-  "meta": "2012–2019 • M276 petrol • M278 petrol • OM642 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The GLE-a large SUV with M276 V6 and M278 V8 petrol, plus OM642 V6 diesel. M276 is reliable; OM642 is well-understood but labour-intensive. GLE values (£12k–£32k) make replacement viable.",
-  "cta": {
-    "label": "Explore W166 →",
-    "href": "https://mercedesengines.uk/glc/w166"
-  }
-},
-{
-  "title": "C292 (2015–2019) - GLE Coupé",
-  "badge": "",
-  "meta": "2015–2019 • M276 petrol • OM642 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The GLE coupé-a sportier version of the W166 with M276 and OM642 engines. M276 is reliable; OM642 is well-understood. Coupé values (£10k–£28k) make replacement viable.",
-  "cta": {
-    "label": "Explore C292 →",
-    "href": "https://mercedesengines.uk/glc/c292"
-  }
-}
+        "title": "V167 (2019–present) - GLE",
+        "badge": "",
+        "meta": "2019–present • M256 petrol • OM654 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The modern GLE-a large, capable SUV with M256 straight-six petrol and OM654 diesel. The OM654 is reliable and well-supported; the M256 is a smooth, modern unit. High values (£30k–£65k) make replacement very safe.",
+        "cta": {
+          "label": "Explore V167 →",
+          "href": "https://mercedesengines.uk/gle/v167"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz V167"
+        }
+      },
+      {
+        "title": "C167 (2019–present) - GLE Coupé",
+        "badge": "",
+        "meta": "2019–present • M256 petrol • OM654 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The GLE coupé-a sportier version of the V167 with the same M256 and OM654 engines. OM654 is the reliable choice; M256 is a sophisticated modern unit. Coupé values (£35k–£70k) make replacement very safe.",
+        "cta": {
+          "label": "Explore C167 →",
+          "href": "https://mercedesengines.uk/gle/c167"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C167"
+        }
+      },
+      {
+        "title": "W166 (2012–2019) - GLE",
+        "badge": "",
+        "meta": "2012–2019 • M276 petrol • M278 petrol • OM642 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The GLE-a large SUV with M276 V6 and M278 V8 petrol, plus OM642 V6 diesel. M276 is reliable; OM642 is well-understood but labour-intensive. GLE values (£12k–£32k) make replacement viable.",
+        "cta": {
+          "label": "Explore W166 →",
+          "href": "https://mercedesengines.uk/glc/w166"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W166"
+        }
+      },
+      {
+        "title": "C292 (2015–2019) - GLE Coupé",
+        "badge": "",
+        "meta": "2015–2019 • M276 petrol • OM642 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The GLE coupé-a sportier version of the W166 with M276 and OM642 engines. M276 is reliable; OM642 is well-understood. Coupé values (£10k–£28k) make replacement viable.",
+        "cta": {
+          "label": "Explore C292 →",
+          "href": "https://mercedesengines.uk/glc/c292"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C292"
+        }
+      }
     ],
     "rangeTable": {
       "title": "",
@@ -943,7 +967,7 @@
       }
     ]
   },
-"whoShouldBuy": {
+  "whoShouldBuy": {
     "h2": "Who Should Buy a GLE?",
     "columns": [
       "Buyer Profile",

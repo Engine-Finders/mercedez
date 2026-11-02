@@ -48,6 +48,7 @@ function ModelCard({ item, isDark }) {
           src={item.image.src}
           alt={item.image.alt}
           fill
+          unoptimized
           className="object-contain object-center"
           sizes="(max-width:768px) 40vw, 180px"
         />

@@ -153,7 +153,7 @@ export default function ModelHero({ data }) {
 
   return (
     <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] md:min-h-[620px] ${homeSectionBg(isDark, 1)}`}>
-      {/* Desktop background image only */}
+      {/* Desktop background image — home-style mid fade, no bottom fog / center line */}
       <div className="absolute inset-0 hidden md:block">
         <Image
           src={headerImage.src}
@@ -166,24 +166,8 @@ export default function ModelHero({ data }) {
         <div
           className={
             isDark
-              ? "absolute inset-0 bg-[linear-gradient(105deg,rgba(2,7,11,0.98)_0%,rgba(2,7,11,0.95)_42%,rgba(2,7,11,0.72)_58%,rgba(2,7,11,0.28)_78%,rgba(2,7,11,0.08)_100%)]"
-              : "absolute inset-0 bg-[linear-gradient(105deg,#EFEEE9_0%,rgba(239,238,233,0.98)_42%,rgba(239,238,233,0.88)_56%,rgba(239,238,233,0.4)_74%,rgba(239,238,233,0.06)_100%)]"
-          }
-        />
-        <div
-          className="absolute inset-y-0 left-[46%] hidden w-[3px] -skew-x-[18deg] md:block"
-          style={{
-            background: isDark
-              ? "linear-gradient(180deg, rgba(255,255,255,0.55) 0%, rgba(255,255,255,0.12) 100%)"
-              : "linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.12) 100%)",
-          }}
-          aria-hidden="true"
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)] md:h-36"
-              : "absolute inset-x-0 bottom-0 h-28 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)] md:h-36"
+              ? "absolute inset-0 bg-[linear-gradient(105deg,rgba(0,0,0,0.92)_0%,rgba(0,0,0,0.78)_34%,rgba(0,0,0,0.22)_62%,transparent_82%)]"
+              : "absolute inset-0 bg-[linear-gradient(105deg,rgba(255,255,255,0.94)_0%,rgba(255,255,255,0.82)_34%,rgba(255,255,255,0.22)_62%,transparent_82%)]"
           }
         />
       </div>
@@ -204,8 +188,8 @@ export default function ModelHero({ data }) {
           {data.primaryCta ? (
             <Link
               href={ctaHref}
-              className="btn-cta mt-4 inline-flex w-fit items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-5 md:px-6 md:py-3.5 md:text-[0.9rem]"
-              style={{ color: GOLD }}
+              className="btn-cta mt-4 inline-flex w-fit items-center justify-center gap-3 rounded-md px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] text-white no-underline hover:no-underline hover:opacity-95 md:mt-5 md:px-6 md:py-3.5 md:text-[0.9rem]"
+              style={{ backgroundColor: GOLD }}
             >
               <span>{ctaLabel}</span>
               <ArrowIcon />
@@ -213,7 +197,7 @@ export default function ModelHero({ data }) {
           ) : null}
         </div>
 
-        {/* Mobile: image below CTA, wall-to-wall */}
+        {/* Mobile: image below CTA, wall-to-wall + top/bottom fog */}
         <div className="relative left-1/2 mt-5 aspect-[16/10] w-screen -translate-x-1/2 overflow-hidden md:hidden">
           <Image
             src={headerImage.src}
@@ -223,11 +207,27 @@ export default function ModelHero({ data }) {
             sizes="100vw"
             priority
           />
+          <div
+            className={
+              isDark
+                ? "pointer-events-none absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,rgba(0,0,0,0.85)_0%,transparent_100%)]"
+                : "pointer-events-none absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,rgba(239,238,233,0.92)_0%,transparent_100%)]"
+            }
+            aria-hidden="true"
+          />
+          <div
+            className={
+              isDark
+                ? "pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,rgba(0,0,0,0.88)_0%,transparent_100%)]"
+                : "pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,rgba(239,238,233,0.95)_0%,transparent_100%)]"
+            }
+            aria-hidden="true"
+          />
         </div>
 
         {trustStrip.length ? (
           <ul
-            className={`mt-5 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-auto md:max-w-[880px] md:rounded-2xl ${
+            className={`mt-5 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-auto md:max-w-[1120px] md:rounded-2xl ${
               isDark
                 ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
                 : "border-[var(--color-border)] bg-[rgba(255,255,255,0.85)]"

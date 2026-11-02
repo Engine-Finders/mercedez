@@ -331,6 +331,7 @@ export default function HomeSec3({ data }) {
                 src={data.headerImage.src}
                 alt={data.headerImage.alt}
                 fill
+                unoptimized
                 className="object-contain object-right"
                 sizes="320px"
               />

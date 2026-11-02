@@ -41,6 +41,7 @@ function VerdictBadge({ verdict, isDark }) {
 
 function RankingCard({ row, cardImage, isDark }) {
   const href = row.href || "#";
+  const image = row.image || cardImage;
   const content = (
     <>
       {/* Full-height gold numbering strip - matches ref */}
@@ -60,9 +61,10 @@ function RankingCard({ row, cardImage, isDark }) {
         <div className="flex min-w-0 items-center gap-2 py-2 pr-2.5 md:gap-0 md:py-2.5 md:pr-3">
           <div className="relative my-0.5 h-[64px] w-[32%] shrink-0 overflow-hidden md:my-0 md:h-[80px] md:w-[32%]">
             <Image
-              src={cardImage.src}
-              alt={cardImage.alt || row.ranking}
+              src={image.src}
+              alt={image.alt || row.ranking}
               fill
+              unoptimized
               className="object-contain object-center"
               sizes="(max-width:768px) 32vw, 180px"
             />

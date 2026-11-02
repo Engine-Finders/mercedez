@@ -133,6 +133,7 @@ export default function OwnershipVerdict({ data }) {
   const isDark = theme === "dark";
   const title = splitTitle(data.h2);
   const stats = data.summaryStats || [];
+  const sectionImage = data.image || { src: "/model/Section 2-bg.webp", alt: "" };
 
   return (
     <section className={`relative overflow-hidden py-7 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 2)}`}>
@@ -151,20 +152,14 @@ export default function OwnershipVerdict({ data }) {
             <div className="mt-3">
               <SectionFadeStrip isDark={isDark} />
             </div>
-            <div className="relative mt-4 overflow-hidden rounded-md border border-[var(--color-border)] bg-[rgba(255,255,255,0.18)] shadow-[0_10px_24px_var(--color-shadow)] md:mt-5 md:h-[260px]">
+            <div className="relative mt-4 h-[240px] w-full md:mt-5 md:h-[360px]">
               <Image
-                src="/model/Section 2-bg.webp"
-                alt=""
+                src={sectionImage.src}
+                alt={sectionImage.alt || ""}
                 fill
-                className="object-cover object-[35%_center] md:object-center"
+                unoptimized
+                className="object-contain object-center drop-shadow-[0_16px_32px_rgba(0,0,0,0.18)]"
                 sizes="(min-width: 768px) 640px, 100vw"
-              />
-              <div
-                className={`absolute inset-0 ${
-                  isDark
-                    ? "bg-[linear-gradient(180deg,rgba(2,13,25,0.05)_0%,rgba(2,13,25,0.35)_100%)]"
-                    : "bg-[linear-gradient(180deg,rgba(239,238,233,0.05)_0%,rgba(239,238,233,0.2)_100%)]"
-                }`}
               />
             </div>
             <p className={`mt-5 max-w-[470px] text-[var(--color-text-muted)] ${sectionDescription}`} dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} />

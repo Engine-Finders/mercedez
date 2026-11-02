@@ -10,7 +10,7 @@
       "description": "Every Viano engine - OM642 V6 diesel, OM651 4-cyl diesel, OM646 diesel, M272 V6 petrol. W639 generation with pre-facelift & facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/mercedes/viano/",
-      "image": "",
+      "image": "/model images/Viano.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -261,6 +261,10 @@
     "primaryCta": {
       "label": "Explore Viano Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/Viano.webp",
+      "alt": "Mercedes-Benz Viano"
     }
   },
   "ownershipVerdict": {
@@ -303,7 +307,11 @@
         "ourCall": "🔧 Commercial Workhorse - the premium people-carrier that shares its bones with the Vito van"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp",
+      "alt": "Mercedes Viano"
+    }
   },
   "atAGlance": {
     "h2": "Viano at a Glance",
@@ -363,6 +371,10 @@
         "cta": {
           "label": "Explore W639 Pre-Facelift →",
           "href": "https://mercedesengines.uk/viano/w639"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W639"
         }
       },
       {
@@ -374,6 +386,10 @@
         "cta": {
           "label": "Explore W639 Facelift →",
           "href": "https://mercedesengines.uk/viano/w639"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W639"
         }
       }
     ],

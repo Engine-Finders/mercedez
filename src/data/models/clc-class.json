@@ -10,7 +10,7 @@
       "description": "Every CLC-Class engine - M271 Kompressor, OM646 CDI, M272 V6. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/mercedes/clc-class/",
-      "image": "",
+      "image": "/model images/CLC-Class.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -249,6 +249,10 @@
     "primaryCta": {
       "label": "Explore CLC-Class Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/CLC-Class.webp",
+      "alt": "Mercedes-Benz CLC-Class"
     }
   },
   "ownershipVerdict": {
@@ -291,7 +295,11 @@
         "ourCall": "💎 Niche Coupe - a style-first choice, not a reliability-first one"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp",
+      "alt": "Mercedes CLC-Class"
+    }
   },
   "atAGlance": {
     "h2": "CLC-Class at a Glance",
@@ -351,6 +359,10 @@
         "cta": {
           "label": "Explore SportCoupé →",
           "href": "https://mercedesengines.uk/clc/cl203"
+        },
+        "image": {
+          "src": "/cars/c-class-cl203-sportcoupé-3-door coupé-2000–2004-new-almandine black metallic-entirely different roof body-c-class cl203 sportcoupe-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz CL203"
         }
       },
       {
@@ -362,6 +374,10 @@
         "cta": {
           "label": "Explore CLC-Class →",
           "href": "https://mercedesengines.uk/clc/cl203"
+        },
+        "image": {
+          "src": "/cars/c-class-cl203-sportcoupé-3-door coupé-2000–2004-new-almandine black metallic-entirely different roof body-c-class cl203 sportcoupe-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz CL203"
         }
       },
       {

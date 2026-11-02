@@ -10,7 +10,7 @@
       "description": "Every SLS AMG engine - M159 naturally-aspirated V8. C197 & R197 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/sls-amg/",
-      "image": "",
+      "image": "/model images/SLS-AMG.webp",
       "siteName": "MercedesEngine.uk"
     },
     "twitter": {
@@ -357,6 +357,10 @@
     "primaryCta": {
       "label": "Explore SLS AMG Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/SLS-AMG.webp",
+      "alt": "Mercedes-Benz SLS AMG"
     }
   },
   "ownershipVerdict": {
@@ -399,7 +403,11 @@
         "ourCall": "🏆 Halo Icon - the gullwing‑door supercar that defined a generation"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+      "alt": "Mercedes SLS AMG"
+    }
   },
   "atAGlance": {
     "h2": "SLS AMG at a Glance",
@@ -451,27 +459,35 @@
     "subHeadline": "",
     "cards": [
       {
-  "title": "C197 (2010–2015) - Coupé",
-  "badge": "",
-  "meta": "2010–2015 • M159 6.2 V8",
-  "rating": "★★★★☆",
-  "verdict": "The SLS AMG-a gullwing legend with a hand-built 6.2-litre V8. The M159 is a masterpiece; robust when maintained. Values (£40k–£100k+) make replacement very safe, but specialist-only work required.",
-  "cta": {
-    "label": "Explore C197 →",
-    "href": "https://mercedesengines.uk/sls-amg/c197"
-  }
-},
-{
-  "title": "R197 (2011–2015) - Roadster",
-  "badge": "",
-  "meta": "2011–2015 • M159 6.2 V8",
-  "rating": "★★★★☆",
-  "verdict": "The SLS AMG roadster-an open-top icon with the same <a  href='https://mercedesengines.uk/engine/m159-m178-gt'>M159</a> V8. A masterpiece of engineering; values (£45k–£110k+) make replacement very safe. Specialist-only territory.",
-  "cta": {
-    "label": "Explore R197 →",
-    "href": "https://mercedesengines.uk/sls-amg/r197"
-  }
-},
+        "title": "C197 (2010–2015) - Coupé",
+        "badge": "",
+        "meta": "2010–2015 • M159 6.2 V8",
+        "rating": "★★★★☆",
+        "verdict": "The SLS AMG-a gullwing legend with a hand-built 6.2-litre V8. The M159 is a masterpiece; robust when maintained. Values (£40k–£100k+) make replacement very safe, but specialist-only work required.",
+        "cta": {
+          "label": "Explore C197 →",
+          "href": "https://mercedesengines.uk/sls-amg/c197"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C197"
+        }
+      },
+      {
+        "title": "R197 (2011–2015) - Roadster",
+        "badge": "",
+        "meta": "2011–2015 • M159 6.2 V8",
+        "rating": "★★★★☆",
+        "verdict": "The SLS AMG roadster-an open-top icon with the same <a  href='https://mercedesengines.uk/engine/m159-m178-gt'>M159</a> V8. A masterpiece of engineering; values (£45k–£110k+) make replacement very safe. Specialist-only territory.",
+        "cta": {
+          "label": "Explore R197 →",
+          "href": "https://mercedesengines.uk/sls-amg/r197"
+        },
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R197"
+        }
+      },
       {
         "title": "Sub‑headline: The SLS AMG ran from 2010 to 2015 with a single engine family-the M159 6.2‑litre V8-but three distinct power levels. Choose your variant carefully.",
         "badge": "",

@@ -10,7 +10,7 @@
       "description": "Every SLK and SLC engine - M111, M271, M272, OM651, M274, M152. 3 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/slk-slc/",
-      "image": "",
+      "image": "/model images/SLK-SLC.webp",
       "siteName": "MercedesEngines.uk"
     },
     "twitter": {
@@ -332,6 +332,10 @@
     "primaryCta": {
       "label": "Explore SLK / SLC Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/SLK-SLC.webp",
+      "alt": "Mercedes-Benz SLK / SLC"
     }
   },
   "ownershipVerdict": {
@@ -374,7 +378,11 @@
         "ourCall": "💎 Affordable Roadster - The most accessible two-seat Mercedes"
       }
     ],
-    "oneLineVerdict": "The SLK/SLC is Mercedes' most accessible roadster - but the M271 engine's timing chain is a £1,500–£2,500 time bomb if you buy the wrong one. Buy the M272 V6 or OM651 diesel, check the service history, and enjoy one of the best value used convertibles on the market."
+    "oneLineVerdict": "The SLK/SLC is Mercedes' most accessible roadster - but the M271 engine's timing chain is a £1,500–£2,500 time bomb if you buy the wrong one. Buy the M272 V6 or OM651 diesel, check the service history, and enjoy one of the best value used convertibles on the market.",
+    "image": {
+      "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+      "alt": "Mercedes SLC / SLK"
+    }
   },
   "atAGlance": {
     "h2": "SLK / SLC at a Glance",
@@ -434,6 +442,10 @@
         "cta": {
           "label": "Explore R170 →",
           "href": "https://mercedesengines.uk/slk/r170"
+        },
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R170"
         }
       },
       {
@@ -445,19 +457,27 @@
         "cta": {
           "label": "Explore R171 →",
           "href": "https://mercedesengines.uk/slk/r171"
+        },
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R171"
         }
       },
       {
-  "title": "R172 (2011–2020) - SLC",
-  "badge": "",
-  "meta": "2011–2020 • M274 petrol • M276 petrol • OM651 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The SLC-a compact two-seat roadster with a folding hardtop. M274 petrol is the reliable choice; OM651 diesel carries injector seal risk. Values (£6k–£16k) make replacement viable.",
-  "cta": {
-    "label": "Explore R172 →",
-    "href": "https://mercedesengines.uk/slc/r172"
-  }
-},
+        "title": "R172 (2011–2020) - SLC",
+        "badge": "",
+        "meta": "2011–2020 • M274 petrol • M276 petrol • OM651 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The SLC-a compact two-seat roadster with a folding hardtop. M274 petrol is the reliable choice; OM651 diesel carries injector seal risk. Values (£6k–£16k) make replacement viable.",
+        "cta": {
+          "label": "Explore R172 →",
+          "href": "https://mercedesengines.uk/slc/r172"
+        },
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R172"
+        }
+      },
       {
         "title": "R172 SLK (2011–2015) / SLC (2016–2020)",
         "badge": "",
@@ -467,6 +487,10 @@
         "cta": {
           "label": "Explore R172 →",
           "href": "https://mercedesengines.uk/slk/r172"
+        },
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz R172"
         }
       },
       {

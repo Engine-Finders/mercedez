@@ -10,7 +10,7 @@
       "description": "Every GLC engine - OM651, OM654, M274, M276, M254, M139. 2 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz engine specialists in minutes.",
       "type": "website",
       "url": "https://mercedesengine.uk/mercedes/glc/",
-      "image": "",
+      "image": "/model images/GLC.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -259,6 +259,10 @@
     "primaryCta": {
       "label": "Explore GLC Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/GLC.webp",
+      "alt": "Mercedes-Benz GLC"
     }
   },
   "ownershipVerdict": {
@@ -301,7 +305,11 @@
         "ourCall": "🏆 Safest SUV Buy - the GLC X254 carries the cleanest ✅ Safe verdict of any Mercedes-Benz SUV in our data"
       }
     ],
-    "oneLineVerdict": "The GLC is the safest Mercedes-Benz SUV you can buy - the X254 is almost impossible to make a bad decision on, and the X253 post‑2018 with OM654 is a used‑buy bargain that won't punish you at repair time. If you're buying a Mercedes SUV, start here."
+    "oneLineVerdict": "The GLC is the safest Mercedes-Benz SUV you can buy - the X254 is almost impossible to make a bad decision on, and the X253 post‑2018 with OM654 is a used‑buy bargain that won't punish you at repair time. If you're buying a Mercedes SUV, start here.",
+    "image": {
+      "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+      "alt": "Mercedes GLC"
+    }
   },
   "atAGlance": {
     "h2": "GLC at a Glance",
@@ -353,49 +361,65 @@
     "subHeadline": "The GLC runs in two generations - the first-generation X253 (2015–2022) and the second-generation X254 (2022–present). Both are safe buys, but the dividing line matters for engine choice and value.",
     "cards": [
       {
-  "title": "C167 (2019–present) - GLE Coupé",
-  "badge": "",
-  "meta": "2019–present • M256 petrol • OM654 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The GLE coupé-a sportier version of the V167 with the same M256 and OM654 engines. OM654 is the reliable choice; M256 is a sophisticated modern unit. Coupé values (£35k–£70k) make replacement very safe.",
-  "cta": {
-    "label": "Explore C167 →",
-    "href": "https://mercedesengines.uk/gle/c167"
-  }
-},
+        "title": "C167 (2019–present) - GLE Coupé",
+        "badge": "",
+        "meta": "2019–present • M256 petrol • OM654 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The GLE coupé-a sportier version of the V167 with the same M256 and OM654 engines. OM654 is the reliable choice; M256 is a sophisticated modern unit. Coupé values (£35k–£70k) make replacement very safe.",
+        "cta": {
+          "label": "Explore C167 →",
+          "href": "https://mercedesengines.uk/gle/c167"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C167"
+        }
+      },
       {
-  "title": "C253 (2015–2022) - Coupé",
-  "badge": "",
-  "meta": "2015–2022 • M274 petrol • M276 petrol • OM651 diesel • OM654 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The GLC coupé-a sportier SUV with the same excellent engine range. OM654 diesel is the pick; M274 petrol is robust. Coupé values (£14k–£38k) make replacement safe.",
-  "cta": {
-    "label": "Explore C253 →",
-    "href": "https://mercedesengines.uk/glc/c253"
-  }
-},
-{
-  "title": "C254 (2022–present) - Coupé",
-  "badge": "",
-  "meta": "2022–present • M254 petrol • OM654 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The second-generation GLC coupé-now with M254 mild-hybrid petrol and OM654 diesel. OM654 is proven and reliable; <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> is the new benchmark. High values (£28k–£55k) make replacement very safe.",
-  "cta": {
-    "label": "Explore C254 →",
-    "href": "https://mercedesengines.uk/glc/c254"
-  }
-},
-{
-  "title": "C292 (2015–2019) - GLE Coupé",
-  "badge": "",
-  "meta": "2015–2019 • M276 petrol • OM642 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The GLE coupé-a sportier version of the W166 with M276 and OM642 engines. M276 is reliable; OM642 is well-understood. Coupé values (£10k–£28k) make replacement viable.",
-  "cta": {
-    "label": "Explore C292 →",
-    "href": "https://mercedesengines.uk/glc/c292"
-  }
-},
+        "title": "C253 (2015–2022) - Coupé",
+        "badge": "",
+        "meta": "2015–2022 • M274 petrol • M276 petrol • OM651 diesel • OM654 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The GLC coupé-a sportier SUV with the same excellent engine range. OM654 diesel is the pick; M274 petrol is robust. Coupé values (£14k–£38k) make replacement safe.",
+        "cta": {
+          "label": "Explore C253 →",
+          "href": "https://mercedesengines.uk/glc/c253"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C253"
+        }
+      },
+      {
+        "title": "C254 (2022–present) - Coupé",
+        "badge": "",
+        "meta": "2022–present • M254 petrol • OM654 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The second-generation GLC coupé-now with M254 mild-hybrid petrol and OM654 diesel. OM654 is proven and reliable; <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> is the new benchmark. High values (£28k–£55k) make replacement very safe.",
+        "cta": {
+          "label": "Explore C254 →",
+          "href": "https://mercedesengines.uk/glc/c254"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C254"
+        }
+      },
+      {
+        "title": "C292 (2015–2019) - GLE Coupé",
+        "badge": "",
+        "meta": "2015–2019 • M276 petrol • OM642 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The GLE coupé-a sportier version of the W166 with M276 and OM642 engines. M276 is reliable; OM642 is well-understood. Coupé values (£10k–£28k) make replacement viable.",
+        "cta": {
+          "label": "Explore C292 →",
+          "href": "https://mercedesengines.uk/glc/c292"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C292"
+        }
+      },
       {
         "title": "X253 GLC (2015–2022)",
         "badge": "",
@@ -405,6 +429,10 @@
         "cta": {
           "label": "Explore X253 GLC →",
           "href": "#"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz X253"
         }
       },
       {
@@ -416,30 +444,42 @@
         "cta": {
           "label": "Explore X254 GLC →",
           "href": "https://mercedesengines.uk/glc/x254"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz X254"
         }
       },
       {
-  "title": "V167 (2019–present) - GLE",
-  "badge": "",
-  "meta": "2019–present • M256 petrol • OM654 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The modern GLE-a large, capable SUV with <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> straight-six petrol and OM654 diesel. The OM654 is reliable and well-supported; the M256 is a smooth, modern unit. High values (£30k–£65k) make replacement very safe.",
-  "cta": {
-    "label": "Explore V167 →",
-    "href": "https://mercedesengines.uk/gle/v167"
-  }
-},
-{
-  "title": "W166 (2012–2019) - GLE",
-  "badge": "",
-  "meta": "2012–2019 • M276 petrol • M278 petrol • OM642 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The GLE-a large SUV with M276 V6 and <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 petrol, plus <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel. M276 is reliable; OM642 is well-understood but labour-intensive. GLE values (£12k–£32k) make replacement viable.",
-  "cta": {
-    "label": "Explore W166 →",
-    "href": "https://mercedesengines.uk/glc/w166"
-  }
-}
+        "title": "V167 (2019–present) - GLE",
+        "badge": "",
+        "meta": "2019–present • M256 petrol • OM654 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The modern GLE-a large, capable SUV with <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> straight-six petrol and OM654 diesel. The OM654 is reliable and well-supported; the M256 is a smooth, modern unit. High values (£30k–£65k) make replacement very safe.",
+        "cta": {
+          "label": "Explore V167 →",
+          "href": "https://mercedesengines.uk/gle/v167"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz V167"
+        }
+      },
+      {
+        "title": "W166 (2012–2019) - GLE",
+        "badge": "",
+        "meta": "2012–2019 • M276 petrol • M278 petrol • OM642 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The GLE-a large SUV with M276 V6 and <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 petrol, plus <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel. M276 is reliable; OM642 is well-understood but labour-intensive. GLE values (£12k–£32k) make replacement viable.",
+        "cta": {
+          "label": "Explore W166 →",
+          "href": "https://mercedesengines.uk/glc/w166"
+        },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W166"
+        }
+      }
     ],
     "rangeTable": {
       "title": "",

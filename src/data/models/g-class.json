@@ -10,7 +10,7 @@
       "description": "Every G-Class engine - OM642, M176, M157, OM656. 4 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/g-class/",
-      "image": "",
+      "image": "/model images/G-class.webp",
       "siteName": "MercedesEngine.uk"
     },
     "twitter": {
@@ -368,6 +368,10 @@
     "primaryCta": {
       "label": "Explore G-Class Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/G-class.webp",
+      "alt": "Mercedes-Benz G-Class"
     }
   },
   "ownershipVerdict": {
@@ -410,7 +414,11 @@
         "ourCall": "👑 Flagship Icon - the most enduring and recognisable Mercedes-Benz of all"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp",
+      "alt": "Mercedes G-Class"
+    }
   },
   "atAGlance": {
     "h2": "G-Class at a Glance",
@@ -470,6 +478,10 @@
         "cta": {
           "label": "Explore W460 →",
           "href": "https://mercedesengines.uk/g-class/w460"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W460"
         }
       },
       {
@@ -481,6 +493,10 @@
         "cta": {
           "label": "Explore W461 →",
           "href": "https://mercedesengines.uk/g-class/w461"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W461"
         }
       },
       {
@@ -492,6 +508,10 @@
         "cta": {
           "label": "Explore W463 →",
           "href": "https://mercedesengines.uk/g-class/w463"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W463"
         }
       },
       {
@@ -503,6 +523,10 @@
         "cta": {
           "label": "Explore W464 →",
           "href": "https://mercedesengines.uk/g-class/w463-ii"
+        },
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W464"
         }
       },
       {

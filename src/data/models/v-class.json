@@ -10,7 +10,7 @@
       "description": "Every V-Class engine - OM651 and OM654 diesels. Pre and post-2019 facelift, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/v-class/",
-      "image": "https://mercedesengine.uk/images/models/mercedes-v-class-hero.jpg",
+      "image": "/model images/V-class.webp",
       "siteName": "MercedesEngines.uk"
     },
     "twitter": {
@@ -250,6 +250,10 @@
     "primaryCta": {
       "label": "Explore V-Class Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/V-class.webp",
+      "alt": "Mercedes-Benz V-Class"
     }
   },
   "ownershipVerdict": {
@@ -292,7 +296,11 @@
         "ourCall": "🚐 \"The Premium People Carrier\""
       }
     ],
-    "oneLineVerdict": "The V-Class is the most luxurious MPV on the market - but buy the 2019 facelift with the OM654 diesel, because the older OM651's timing chain and injector issues are a false economy on a £20,000+ vehicle."
+    "oneLineVerdict": "The V-Class is the most luxurious MPV on the market - but buy the 2019 facelift with the OM654 diesel, because the older OM651's timing chain and injector issues are a false economy on a £20,000+ vehicle.",
+    "image": {
+      "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+      "alt": "Mercedes V-Class"
+    }
   },
   "atAGlance": {
     "h2": "V-Class at a Glance",
@@ -352,6 +360,10 @@
         "cta": {
           "label": "Explore W447 V-Class (2014–2019) →",
           "href": "https://mercedesengines.uk/v-class/w447"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W447"
         }
       },
       {
@@ -363,6 +375,10 @@
         "cta": {
           "label": "Explore W447 V-Class Facelift (2019–present) →",
           "href": "https://mercedesengines.uk/v-class/w447"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W447"
         }
       },
       {

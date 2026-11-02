@@ -10,7 +10,7 @@
       "description": "Every S-Class engine - OM642, OM651, M276, OM654, M177. 7 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists today.",
       "type": "website",
       "url": "https://mercedesengine.uk/s-class/",
-      "image": "",
+      "image": "/model images/S-class.webp",
       "siteName": "MercedesEngines.uk"
     },
     "twitter": {
@@ -316,6 +316,10 @@
     "primaryCta": {
       "label": "Explore S-Class Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/S-class.webp",
+      "alt": "Mercedes-Benz S-Class"
     }
   },
   "ownershipVerdict": {
@@ -358,7 +362,11 @@
         "ourCall": "👑 Flagship - The most-enquired Mercedes-Benz full-size saloon in our 2025 data"
       }
     ],
-    "oneLineVerdict": "The S-Class is the only Mercedes where the same engine can mean either \"fix it without thinking twice\" or \"walk away\" - generation is everything, and the 2013 W222 facelift is the dividing line."
+    "oneLineVerdict": "The S-Class is the only Mercedes where the same engine can mean either \"fix it without thinking twice\" or \"walk away\" - generation is everything, and the 2013 W222 facelift is the dividing line.",
+    "image": {
+      "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+      "alt": "Mercedes S-Class"
+    }
   },
   "atAGlance": {
     "h2": "S-Class at a Glance",
@@ -410,60 +418,80 @@
     "subHeadline": "Seven generations of Mercedes-Benz flagship - from the bulletproof W140 to the touchscreen W223.",
     "cards": [
       {
-  "title": "A217 (2015–2020) - Cabriolet",
-  "badge": "",
-  "meta": "2015–2020 • M278 petrol • M276 petrol",
-  "rating": "★★★★☆",
-  "verdict": "The S-Class cabriolet-a flagship open-top with the same robust M278 and M276 engines. Cabriolet values (£18k–£50k) make replacement very safe.",
-  "cta": {
-    "label": "Explore A217 →",
-    "href": "https://mercedesengines.uk/s-class/a217"
-  }
-},
+        "title": "A217 (2015–2020) - Cabriolet",
+        "badge": "",
+        "meta": "2015–2020 • M278 petrol • M276 petrol",
+        "rating": "★★★★☆",
+        "verdict": "The S-Class cabriolet-a flagship open-top with the same robust M278 and M276 engines. Cabriolet values (£18k–£50k) make replacement very safe.",
+        "cta": {
+          "label": "Explore A217 →",
+          "href": "https://mercedesengines.uk/s-class/a217"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz A217"
+        }
+      },
       {
-  "title": "C140 (1992–1999) - Coupé",
-  "badge": "",
-  "meta": "1992–1999 • M113 petrol • M119 petrol",
-  "rating": "★★★☆☆",
-  "verdict": "The S-Class coupé-a stunning two-door flagship. M113 V8 is the reliable choice; <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> is also robust but less common. Values (£5k–£15k) make replacement borderline on sub-£6k examples.",
-  "cta": {
-    "label": "Explore C140 →",
-    "href": "https://mercedesengines.uk/s-class/c140"
-  }
-},
-{
-  "title": "C215 (1999–2006) - Coupé",
-  "badge": "",
-  "meta": "1999–2006 • M113 petrol • M275 petrol",
-  "rating": "★★★☆☆",
-  "verdict": "The CL-a flagship coupé based on the W220 platform. <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 is robust; M275 V12 is a masterpiece but labour-intensive. Values (£4k–£12k) make replacement borderline on sub-£6k examples.",
-  "cta": {
-    "label": "Explore C215 →",
-    "href": "https://mercedesengines.uk/s-class/c215"
-  }
-},
-{
-  "title": "C216 (2006–2013) - Coupé",
-  "badge": "",
-  "meta": "2006–2013 • M273 petrol • M275 petrol",
-  "rating": "★★★☆☆",
-  "verdict": "The CL-a flagship coupé based on the W221 platform. M273 V8 is the reliable choice; <a  href='https://mercedesengines.uk/engine/m275-m279'>M275</a> V12 is a masterpiece but labour-intensive. Values (£6k–£18k) make replacement borderline on sub-£8k examples.",
-  "cta": {
-    "label": "Explore C216 →",
-    "href": "https://mercedesengines.uk/s-class/c216"
-  }
-},
-{
-  "title": "C217 (2014–2020) - Coupé",
-  "badge": "",
-  "meta": "2014–2020 • M278 petrol • M276 petrol",
-  "rating": "★★★★☆",
-  "verdict": "The S-Class coupé-a stunning flagship two-door. <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 is robust; M276 V6 is reliable. Coupé values (£15k–£45k) make replacement safe across all variants.",
-  "cta": {
-    "label": "Explore C217 →",
-    "href": "https://mercedesengines.uk/s-class/c217"
-  }
-},
+        "title": "C140 (1992–1999) - Coupé",
+        "badge": "",
+        "meta": "1992–1999 • M113 petrol • M119 petrol",
+        "rating": "★★★☆☆",
+        "verdict": "The S-Class coupé-a stunning two-door flagship. M113 V8 is the reliable choice; <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> is also robust but less common. Values (£5k–£15k) make replacement borderline on sub-£6k examples.",
+        "cta": {
+          "label": "Explore C140 →",
+          "href": "https://mercedesengines.uk/s-class/c140"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C140"
+        }
+      },
+      {
+        "title": "C215 (1999–2006) - Coupé",
+        "badge": "",
+        "meta": "1999–2006 • M113 petrol • M275 petrol",
+        "rating": "★★★☆☆",
+        "verdict": "The CL-a flagship coupé based on the W220 platform. <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8 is robust; M275 V12 is a masterpiece but labour-intensive. Values (£4k–£12k) make replacement borderline on sub-£6k examples.",
+        "cta": {
+          "label": "Explore C215 →",
+          "href": "https://mercedesengines.uk/s-class/c215"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C215"
+        }
+      },
+      {
+        "title": "C216 (2006–2013) - Coupé",
+        "badge": "",
+        "meta": "2006–2013 • M273 petrol • M275 petrol",
+        "rating": "★★★☆☆",
+        "verdict": "The CL-a flagship coupé based on the W221 platform. M273 V8 is the reliable choice; <a  href='https://mercedesengines.uk/engine/m275-m279'>M275</a> V12 is a masterpiece but labour-intensive. Values (£6k–£18k) make replacement borderline on sub-£8k examples.",
+        "cta": {
+          "label": "Explore C216 →",
+          "href": "https://mercedesengines.uk/s-class/c216"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C216"
+        }
+      },
+      {
+        "title": "C217 (2014–2020) - Coupé",
+        "badge": "",
+        "meta": "2014–2020 • M278 petrol • M276 petrol",
+        "rating": "★★★★☆",
+        "verdict": "The S-Class coupé-a stunning flagship two-door. <a  href='https://mercedesengines.uk/engine/m276-m278'>M278</a> V8 is robust; M276 V6 is reliable. Coupé values (£15k–£45k) make replacement safe across all variants.",
+        "cta": {
+          "label": "Explore C217 →",
+          "href": "https://mercedesengines.uk/s-class/c217"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz C217"
+        }
+      },
       {
         "title": "W140 (1991–1998)",
         "badge": "",
@@ -473,6 +501,10 @@
         "cta": {
           "label": "Explore W140 →",
           "href": "https://mercedesengines.uk/s-class/w140"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W140"
         }
       },
       {
@@ -484,6 +516,10 @@
         "cta": {
           "label": "Explore W220 →",
           "href": "https://mercedesengines.uk/s-class/w220"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W220"
         }
       },
       {
@@ -495,6 +531,10 @@
         "cta": {
           "label": "Explore W221 →",
           "href": "https://mercedesengines.uk/s-class/w221"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W221"
         }
       },
       {
@@ -506,6 +546,10 @@
         "cta": {
           "label": "Explore W222 →",
           "href": "https://mercedesengines.uk/s-class/w222"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W222"
         }
       },
       {
@@ -517,6 +561,10 @@
         "cta": {
           "label": "Explore W223 →",
           "href": "https://mercedesengines.uk/s-class/w223"
+        },
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W223"
         }
       },
       {

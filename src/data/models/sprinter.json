@@ -10,7 +10,7 @@
       "description": "Every Sprinter engine - OM602, OM611, OM612, OM646, OM651, OM642, OM654. 5 generations, real UK costs and reliability data. Compare prices from 25+ vetted Mercedes-Benz specialists.",
       "type": "website",
       "url": "https://mercedesengine.uk/sprinter/",
-      "image": "https://mercedesengine.uk/images/models/sprinter-hero.jpg",
+      "image": "/model images/Sprinter.webp",
       "siteName": "mercedesengine.uk"
     },
     "twitter": {
@@ -261,6 +261,10 @@
     "primaryCta": {
       "label": "Explore Sprinter Engines →",
       "href": "#"
+    },
+    "headerImage": {
+      "src": "/model images/Sprinter.webp",
+      "alt": "Mercedes-Benz Sprinter"
     }
   },
   "ownershipVerdict": {
@@ -303,7 +307,11 @@
         "ourCall": "🏆 The UK's favourite workhorse - the Sprinter is the definitive Mercedes‑Benz commercial van, with a reputation for longevity that's unmatched in the class"
       }
     ],
-    "oneLineVerdict": ""
+    "oneLineVerdict": "",
+    "image": {
+      "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+      "alt": "Mercedes Sprinter"
+    }
   },
   "atAGlance": {
     "h2": "Sprinter at a Glance",
@@ -421,39 +429,53 @@
   "generations": {
     "h2": "Sprinter Generations - Find Your Vehicle",
     "subHeadline": "",
-    "cards": [{
-  "title": "W901-905 (1995–2006)",
-  "badge": "",
-  "meta": "1995–2006 • OM601 diesel • OM602 diesel • OM611 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The first-generation Sprinter-a legend of the van world. OM602 and OM611 diesels are robust and well-understood. Commercial use often justifies replacement; personal use, evaluate carefully.",
-  "cta": {
-    "label": "Explore W901-905 →",
-    "href": "https://mercedesengines.uk/sprinter/w901-905"
-  }
-},
-{
-  "title": "W906 (2006–2018)",
-  "badge": "",
-  "meta": "2006–2018 • OM651 diesel • OM642 diesel",
-  "rating": "★★★☆☆",
-  "verdict": "The second-generation Sprinter-improved and refined. OM651 diesel is common and well-supported; <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel is also well-understood. Commercial use justifies replacement; high-mileage examples may trigger economics review.",
-  "cta": {
-    "label": "Explore W906 →",
-    "href": "https://mercedesengines.uk/sprinter/w906"
-  }
-},
-{
-  "title": "W907 (2018–present)",
-  "badge": "",
-  "meta": "2018–present • OM654 diesel",
-  "rating": "★★★★☆",
-  "verdict": "The third-generation Sprinter-modern, efficient, and reliable. OM654 diesel is the cleanest and most advanced Sprinter engine yet. Commercial use justifies replacement; high-values make replacement viable.",
-  "cta": {
-    "label": "Explore W907 →",
-    "href": "https://mercedesengines.uk/sprinter/w907"
-  }
-}],
+    "cards": [
+      {
+        "title": "W901-905 (1995–2006)",
+        "badge": "",
+        "meta": "1995–2006 • OM601 diesel • OM602 diesel • OM611 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The first-generation Sprinter-a legend of the van world. OM602 and OM611 diesels are robust and well-understood. Commercial use often justifies replacement; personal use, evaluate carefully.",
+        "cta": {
+          "label": "Explore W901-905 →",
+          "href": "https://mercedesengines.uk/sprinter/w901-905"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W901"
+        }
+      },
+      {
+        "title": "W906 (2006–2018)",
+        "badge": "",
+        "meta": "2006–2018 • OM651 diesel • OM642 diesel",
+        "rating": "★★★☆☆",
+        "verdict": "The second-generation Sprinter-improved and refined. OM651 diesel is common and well-supported; <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> V6 diesel is also well-understood. Commercial use justifies replacement; high-mileage examples may trigger economics review.",
+        "cta": {
+          "label": "Explore W906 →",
+          "href": "https://mercedesengines.uk/sprinter/w906"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W906"
+        }
+      },
+      {
+        "title": "W907 (2018–present)",
+        "badge": "",
+        "meta": "2018–present • OM654 diesel",
+        "rating": "★★★★☆",
+        "verdict": "The third-generation Sprinter-modern, efficient, and reliable. OM654 diesel is the cleanest and most advanced Sprinter engine yet. Commercial use justifies replacement; high-values make replacement viable.",
+        "cta": {
+          "label": "Explore W907 →",
+          "href": "https://mercedesengines.uk/sprinter/w907"
+        },
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Mercedes-Benz W907"
+        }
+      }
+    ],
     "rangeTable": {
       "title": "",
       "columns": [],

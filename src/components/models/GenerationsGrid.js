@@ -9,16 +9,6 @@ import { sectionDescription, sectionTableText } from "@/components/models/sectio
 
 const defaultCarImage = "/right.webp";
 
-const carImages = {
-  E21: defaultCarImage,
-  E30: defaultCarImage,
-  E36: defaultCarImage,
-  E46: defaultCarImage,
-  E90: defaultCarImage,
-  F30: defaultCarImage,
-  G20: defaultCarImage,
-};
-
 function cleanText(text = "") {
   return String(text)
     .replaceAll("Ã‚Â£", "\u00a3")
@@ -127,12 +117,14 @@ function Rating({ value, compact = false }) {
   );
 }
 
-function GenerationImage() {
+function GenerationImage({ image }) {
+  const src = image?.src || defaultCarImage;
+  const alt = image?.alt || "";
   return (
     <div className="relative flex h-[120px] w-full items-center justify-center overflow-hidden md:h-[110px]">
       <img
-        src="/right.webp"
-        alt=""
+        src={src}
+        alt={alt}
         loading="lazy"
         className="max-h-full max-w-[90%] object-contain"
       />
@@ -166,7 +158,7 @@ function GenerationCard({ card, index, open = false, onToggle }) {
 
       {/* Always visible body */}
       <div className="mt-2">
-        <GenerationImage />
+        <GenerationImage image={card.image} />
       </div>
 
       {badge ? (
