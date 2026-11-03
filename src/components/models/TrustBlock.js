@@ -47,13 +47,15 @@ function SignalIcon({ item, isDark }) {
   );
 }
 
-export default function TrustBlock({ data }) {
+export default function TrustBlock({ data, image }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
   const title = splitTitle(data.h2);
   const signals = data.signals || [];
+  const imageSrc = image?.src || "/model/Section 2-bg.webp";
+  const imageAlt = image?.alt || "";
 
   return (
     <section className={`py-6 text-[var(--color-text)] md:py-8 ${homeSectionBg(isDark, 12)}`}>
@@ -119,7 +121,7 @@ export default function TrustBlock({ data }) {
                   ))}
                 </svg>
               </div>
-              <Image src="/model/Section 2-bg.webp" alt="" fill className="relative z-10 object-contain object-right-bottom" sizes="(min-width: 1024px) 48vw, 100vw" />
+              <Image src={imageSrc} alt={imageAlt} fill unoptimized className="relative z-10 object-contain object-right-bottom" sizes="(min-width: 1024px) 48vw, 100vw" />
             </div>
           </div>
         </div>

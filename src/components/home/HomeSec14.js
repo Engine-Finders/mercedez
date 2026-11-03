@@ -44,7 +44,7 @@ function StatItem({ item, isDark }) {
           isDark ? "border-white/20 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
         }`}
       >
-        <HomeIcon name={icon} isDark={isDark} gold className="h-5 w-5" />
+        <HomeIcon name={icon} isDark={isDark} className="h-5 w-5" />
       </span>
       <span className="hidden h-8 w-px shrink-0 md:block" style={{ backgroundColor: GOLD }} />
       <span className="min-w-0 text-[0.78rem] leading-snug md:text-[0.85rem]">{label}</span>
@@ -70,10 +70,10 @@ export default function HomeSec14({ data }) {
     <section className={`px-3 pb-7 pt-2 md:px-4 md:pb-8 ${homeSectionBg(isDark, 14)}`}>
       {/* Mobile layout - matches ref */}
       <div className="mx-auto w-full max-w-8xl md:hidden">
-        <SectionLabel number={14} isDark={isDark} />
         <h2 className={`font-lora text-[1.85rem] font-medium leading-[1.1] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           Get the Right Answer. <span style={{ color: GOLD }}>Not Just Any Answer.</span>
         </h2>
+        <SectionLabel isDark={isDark} />
         <p className={`mt-2 text-[0.88rem] leading-snug ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
           {data.subHeadline}
         </p>
@@ -150,10 +150,10 @@ export default function HomeSec14({ data }) {
         </div>
 
         <div className="relative max-w-[58%] px-8 py-7">
-          <SectionLabel number={14} isDark={isDark} />
           <h2 className={`font-lora text-[2.35rem] font-medium leading-[1.1] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Get the Right Answer. Not Just Any Answer.
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-2 text-[1.05rem] leading-snug ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
@@ -172,7 +172,7 @@ export default function HomeSec14({ data }) {
               className="inline-flex min-h-14 items-center gap-3 rounded-lg px-5 py-3 no-underline hover:no-underline hover:opacity-95"
               style={{ backgroundColor: GOLD, color: "#fff" }}
             >
-              <HomeIcon name="quote" isDark gold className="h-7 w-7" />
+              <HomeIcon name="quote" isDark={isDark} className="h-7 w-7" />
               <span className="min-w-0">
                 <span className="block text-[0.82rem] font-semibold leading-tight uppercase tracking-wide">{primaryCta.label}</span>
                 <span className="mt-0.5 block text-[0.72rem] leading-tight text-white/85">{primaryCta.subLabel}</span>
@@ -185,7 +185,7 @@ export default function HomeSec14({ data }) {
                 isDark ? "border-white/20 bg-white/5 text-white" : "border-[#E5E5E5] bg-white text-[var(--color-text)]"
               }`}
             >
-              <HomeIcon name="users" isDark={isDark} gold className="h-6 w-6" />
+              <HomeIcon name="users" isDark={isDark} className="h-6 w-6" />
               <span className="min-w-0">
                 <span className="block text-[0.82rem] font-semibold leading-tight uppercase tracking-wide">{secondaryCta.label}</span>
                 <span className={`mt-0.5 block text-[0.72rem] leading-tight ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>

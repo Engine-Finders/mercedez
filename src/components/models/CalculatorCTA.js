@@ -211,7 +211,7 @@ function SmartDecision({ isDark }) {
   );
 }
 
-export default function CalculatorCTA({ data }) {
+export default function CalculatorCTA({ data, heroImage }) {
   const { theme } = useTheme();
   if (!data) return null;
 
@@ -220,12 +220,14 @@ export default function CalculatorCTA({ data }) {
   const intro = introParts(data.intro);
   const modelName = modelNameFromTitle(data.h2);
   const paths = data.paths || [];
+  const bgSrc = heroImage?.src || "/model/Hero-bg-image.webp";
+  const bgAlt = heroImage?.alt || "";
 
   return (
     <section className={`relative overflow-hidden py-6 text-[var(--color-text)] md:py-8 ${homeSectionBg(isDark, 11)}`}>
       <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
         <div className="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden md:left-auto md:w-auto md:translate-x-0 md:rounded-md md:bg-[var(--color-surface-raised)]">
-          <Image src="/model/Hero-bg-image.webp" alt="" fill className="object-cover object-[70%_center] md:object-center" sizes="100vw" priority={false} />
+          <Image src={bgSrc} alt={bgAlt} fill unoptimized className="object-cover object-[70%_center] md:object-center" sizes="100vw" priority={false} />
           <div
             className="absolute inset-0"
             style={{

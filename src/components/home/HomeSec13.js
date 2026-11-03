@@ -33,10 +33,10 @@ export default function HomeSec13({ data }) {
       <div className="mx-auto w-full max-w-8xl">
         <div className="flex flex-col gap-3 md:flex-row md:items-end md:gap-6">
           <div className="shrink-0">
-            <SectionLabel number={13} isDark={isDark} />
             <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Frequently Asked Questions
             </h2>
+            <SectionLabel isDark={isDark} />
           </div>
           <div className="mb-2 hidden h-px flex-1 md:block" style={{ backgroundColor: GOLD }} />
         </div>

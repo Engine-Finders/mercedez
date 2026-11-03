@@ -878,7 +878,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every CLK Buyer",
-    "quote": "Buy the newest W209 you can afford - post-2006 facelift if possible - and target the M112 3.2 V6 or M113 V8. The four-cylinder Kompressor cars are temptingly cheap but the M271 timing chain issues make them a false economy. And whatever you do, check the rear subframe for rust before you hand over any money. End of Sections 1–7. Ready for 8–14 when you are."
+    "quote": "Buy the newest W209 you can afford - post-2006 facelift if possible - and target the M112 3.2 V6 or M113 V8. The four-cylinder Kompressor cars are temptingly cheap but the M271 timing chain issues make them a false economy. And whatever you do, check the rear subframe for rust before you hand over any money. End of Sections 1–7. Ready for 8–14 when you are.",
+    "image": {
+      "src": "/model images/CLK.webp",
+      "alt": "Mercedes-Benz CLK"
+    }
   },
   "replacementCosts": {
     "h2": "CLK Engine Replacement Costs - By Generation",
@@ -894,7 +898,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "clk"
+        }
       },
       {
         "title": "CLK 350 (pre-2008)",
@@ -906,7 +914,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "CLK 350 (pre-2008)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a CLK engine typically takes 8–14 hours for four-cylinder and V6 variants, 12–18 hours for V8 and AMG variants, at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER - confirm vs cost sheet]. The CLK rule - generation is everything: A £2,000 recon on a £3,500 W208 sits at 57% of the car's value - below our 70% threshold for Mercedes-Benz, but only just. The W209, with typical values of £4,000–£12,000, makes far more sense. But the real question isn't \"can I afford to fix it?\" - it's \"is this CLK worth keeping?\" The W208 is now a classic, not a daily driver; the W209 is still a viable everyday car if you choose the right engine and check for rust first. For a W208, fit a used engine and keep it going; for a W209, a reconditioned engine still makes financial sense on a good car.",
@@ -931,28 +943,44 @@
         "years": "1997–2000",
         "keyEngines": "M111.941 (2.0), M111.944 (2.0 Kompressor), M111.975 (2.3 Kompressor)",
         "whyBmwChanged": "Mercedes needed a smaller, more efficient engine family to sit alongside the V6 and V8 options, particularly for European markets with higher fuel costs.",
-        "worthKnowing": "The M111 Kompressor engines are the most common W208 CLKs in the UK - and the most likely to be scrapped rather than repaired. The supercharger clutch is a known wear item."
+        "worthKnowing": "The M111 Kompressor engines are the most common W208 CLKs in the UK - and the most likely to be scrapped rather than repaired. The supercharger clutch is a known wear item.",
+        "image": {
+          "src": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208-45-angle-front-view.webp",
+          "alt": "W208 Launch - M111 Four-Cylinder Era"
+        }
       },
       {
         "era": "W208 V6/V8 Introduction",
         "years": "1998–2003",
         "keyEngines": "M112.940 (3.2 V6), M113.943 (4.3 V8), M113.984 (5.4 AMG)",
         "whyBmwChanged": "Mercedes wanted to offer a full range of V6 and V8 options to compete with BMW's 3 Series and 5 Series coupés. The M112 and M113 families were already proven in the E-Class and S-Class.",
-        "worthKnowing": "The M112 V6 and M113 V8 are the most reliable engines in the W208 range. The CLK 55 AMG (M113.984) is a future classic - 367 PS, naturally aspirated, rear-wheel drive, and a Mercedes V8 from the golden era."
+        "worthKnowing": "The M112 V6 and M113 V8 are the most reliable engines in the W208 range. The CLK 55 AMG (M113.984) is a future classic - 367 PS, naturally aspirated, rear-wheel drive, and a Mercedes V8 from the golden era.",
+        "image": {
+          "src": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208-45-angle-front-view.webp",
+          "alt": "W208 V6/V8 Introduction"
+        }
       },
       {
         "era": "W209 Launch - M271 and Diesel Introductions",
         "years": "2002–2005",
         "keyEngines": "M271.941 (1.8 Kompressor), M112.912 (2.6 V6), M112.940 (3.2 V6), OM612.962 (2.7 CDI), M113.968 (5.0 V8), M113.984 (5.4 AMG)",
         "whyBmwChanged": "The W209 moved to the W203 C-Class platform, bringing a more modern chassis, better crash structures, and a wider engine range including diesels for the first time. The M271 replaced the M111 in four-cylinder applications.",
-        "worthKnowing": "The M271 has a known timing chain and camshaft adjuster weakness - this is the single biggest CLK engine problem. The OM612 diesel is rare in the UK but offers genuine economy."
+        "worthKnowing": "The M271 has a known timing chain and camshaft adjuster weakness - this is the single biggest CLK engine problem. The OM612 diesel is rare in the UK but offers genuine economy.",
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "W209 Launch - M271 and Diesel Introductions"
+        }
       },
       {
         "era": "W209 Facelift - M272 and OM642 Introductions",
         "years": "2005–2009",
         "keyEngines": "M272.960 (3.5 V6), OM642.910 (3.0 V6 CDI), M156.982 (6.2 AMG)",
         "whyBmwChanged": "The M272 replaced the M112 in V6 applications, offering more power (272 PS vs 218 PS) and better emissions. The OM642 replaced the OM612 as Mercedes' modern V6 diesel.",
-        "worthKnowing": "The M272 has a well-documented balance shaft issue on pre-2008 engines - check the engine number before buying. The OM642 is one of Mercedes' best diesels. The CLK 63 AMG (M156.982) is the most powerful CLK ever built - a genuine legend."
+        "worthKnowing": "The M272 has a well-documented balance shaft issue on pre-2008 engines - check the engine number before buying. The OM642 is one of Mercedes' best diesels. The CLK 63 AMG (M156.982) is the most powerful CLK ever built - a genuine legend.",
+        "image": {
+          "src": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp",
+          "alt": "W209 Facelift - M272 and OM642 Introductions"
+        }
       }
     ]
   },

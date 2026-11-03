@@ -14,6 +14,10 @@ const VERDICT_TONE = {
   watch: { color: "#d97517" },
 };
 
+function tableIconTone(isDark) {
+  return isDark ? "silver" : "black";
+}
+
 function VerdictBadge({ verdict, isDark }) {
   const tone = VERDICT_TONE[verdict?.type] || VERDICT_TONE.best;
   const words = String(verdict?.text || "")
@@ -23,7 +27,7 @@ function VerdictBadge({ verdict, isDark }) {
 
   return (
     <span className="inline-flex shrink-0 flex-col items-center gap-0.5 self-start text-center md:flex-row md:items-center md:gap-1.5 md:text-left">
-      <HomeIcon name={verdict?.icon || "trophy"} isDark={isDark} gold className="h-4 w-4 shrink-0 md:h-6 md:w-6" />
+      <HomeIcon name={verdict?.icon || "trophy"} tone={tableIconTone(isDark)} className="h-4 w-4 shrink-0 md:h-6 md:w-6" />
       {/* Mobile: each word stacked · Desktop: single line */}
       <span className="flex flex-col items-center md:hidden" style={{ color: tone.color }}>
         {words.map((word) => (
@@ -44,7 +48,7 @@ function RankingCard({ row, cardImage, isDark }) {
   const image = row.image || cardImage;
   const content = (
     <>
-      {/* Full-height gold numbering strip - matches ref */}
+      {/* Full-height gold numbering strip — flush against image */}
       <div
         className="flex w-10 shrink-0 items-center justify-center self-stretch md:w-12"
         style={{
@@ -56,43 +60,38 @@ function RankingCard({ row, cardImage, isDark }) {
         </span>
       </div>
 
-      <div className="flex min-w-0 flex-1 flex-col">
-        {/* Row 1: image + titles/verdict */}
-        <div className="flex min-w-0 items-center gap-2 py-2 pr-2.5 md:gap-0 md:py-2.5 md:pr-3">
-          <div className="relative my-0.5 h-[64px] w-[32%] shrink-0 overflow-hidden md:my-0 md:h-[80px] md:w-[32%]">
-            <Image
-              src={image.src}
-              alt={image.alt || row.ranking}
-              fill
-              unoptimized
-              className="object-contain object-center"
-              sizes="(max-width:768px) 32vw, 180px"
-            />
-          </div>
+      <div className="relative h-[72px] w-[28%] shrink-0 self-center overflow-hidden sm:w-[30%] md:h-[88px] md:w-[160px]">
+        <Image
+          src={image.src}
+          alt={image.alt || row.ranking}
+          fill
+          unoptimized
+          className="object-contain object-left"
+          sizes="(max-width:768px) 28vw, 160px"
+        />
+      </div>
 
-          <div className="flex min-w-0 flex-1 flex-col gap-1">
-            <div className="flex items-start gap-2">
-              <span className={`mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border ${isDark ? "border-white/20" : "border-[#E5E5E5]"}`}>
-                <HomeIcon name={row.icon} isDark={isDark} gold className="h-4 w-4" />
-              </span>
-              <div className="min-w-0 flex-1">
-                <p className={`font-lora text-[0.98rem] font-medium leading-tight no-underline md:text-[1.1rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-                  {row.ranking}
-                </p>
-                <p className="mt-0.5 font-lora text-[0.88rem] font-medium leading-tight no-underline md:text-[0.95rem]" style={{ color: GOLD }}>
-                  {row.winner}
-                </p>
-              </div>
-              <VerdictBadge verdict={row.verdict} isDark={isDark} />
+      <div className="flex min-w-0 flex-1 flex-col">
+        <div className="flex min-w-0 flex-col gap-1 py-2 pr-2.5 md:py-2.5 md:pr-3">
+          <div className="flex items-start gap-2">
+            <span className={`mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border ${isDark ? "border-white/20" : "border-[#E5E5E5]"}`}>
+              <HomeIcon name={row.icon} tone={tableIconTone(isDark)} className="h-4 w-4" />
+            </span>
+            <div className="min-w-0 flex-1">
+              <p className={`font-lora text-[0.98rem] font-medium leading-tight no-underline md:text-[1.1rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                {row.ranking}
+              </p>
+              <p className="mt-0.5 font-lora text-[0.88rem] font-medium leading-tight no-underline md:text-[0.95rem]" style={{ color: GOLD }}>
+                {row.winner}
+              </p>
             </div>
-            {/* Desktop: description stays under titles */}
-            <p className={`hidden text-[0.78rem] font-light leading-[1.35] no-underline md:block ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
-              {row.why}
-            </p>
+            <VerdictBadge verdict={row.verdict} isDark={isDark} />
           </div>
+          <p className={`hidden text-[0.78rem] font-light leading-[1.35] no-underline md:block ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+            {row.why}
+          </p>
         </div>
 
-        {/* Mobile: description on full-width second row */}
         <p
           className={`border-t px-2.5 pb-2.5 pt-2 text-[0.72rem] font-light leading-[1.35] no-underline md:hidden ${
             isDark ? "border-white/10 text-white/70" : "border-[rgba(0,0,0,0.06)] text-[var(--color-text-muted)]"
@@ -148,10 +147,10 @@ export default function HomeSec4({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <SectionLabel number={4} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[3rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Ownership Rankings
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

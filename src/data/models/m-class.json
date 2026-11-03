@@ -868,7 +868,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every M-Class Buyer",
-    "quote": "Buy the W164 generation, choose the OM642 320 CDI diesel, and insist on documented oil cooler seal replacement - that combination is the sweet spot of M-Class ownership. If you're looking at a W163, budget £1,000 for rust work before you even think about the engine."
+    "quote": "Buy the W164 generation, choose the OM642 320 CDI diesel, and insist on documented oil cooler seal replacement - that combination is the sweet spot of M-Class ownership. If you're looking at a W163, budget £1,000 for rust work before you even think about the engine.",
+    "image": {
+      "src": "/model images/M-class.webp",
+      "alt": "Mercedes-Benz M-Class"
+    }
   },
   "replacementCosts": {
     "h2": "M-Class Engine Replacement Costs - By Generation",
@@ -884,7 +888,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "m-class"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting an M-Class engine typically takes 8–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER - confirm vs cost sheet]. The M-Class rule - the numbers don't lie: A typical M-Class now sits in a wide value bracket - W163 examples at £1,900–£3,500, W164 at £3,500–£9,000, W166 at £7,000–£15,000+ [THIRD-PARTY]. A reconditioned OM642 diesel engine starts at around £2,500 supply-only [PLACEHOLDER - confirm vs cost sheet], and with fitting could easily reach £3,500–£4,500 total. The maths: * Best-case (W166): £2,500 engine + £800 labour = £3,300 against a £12,000 car = 28% - the 70% Mercedes threshold isn't triggered. Replacement is clearly viable. * Worst-case (W163): £3,500 engine + £1,200 labour = £4,700 against a £2,500 car = 188% - the 70% threshold is blown out of the water. Our honest verdict: if your W163 M-Class is worth under £3,000 and needs a full engine replacement, get a scrap valuation before you commit - the maths rarely works in your favour. If you own a W164 or W166 with the OM642 diesel, replacement is almost always worth it, provided the rest of the vehicle is sound.",
@@ -909,28 +917,44 @@
         "years": "1997–2001",
         "keyEngines": "<a  href='https://mercedesengines.uk/engine/m111'>M111</a2.3L), M112 (3.2L V6), OM611 (2.2L diesel), OM612 (2.7L diesel)",
         "whyBmwChanged": "Mercedes launched the M-Class as its first SUV - built in Tuscaloosa, Alabama with a ladder-frame chassis. Early engines were carryovers from the E-Class and C-Class ranges.",
-        "worthKnowing": "The OM612 2.7-litre 5-cylinder diesel was the pick of the early range - robust and economical."
+        "worthKnowing": "The OM612 2.7-litre 5-cylinder diesel was the pick of the early range - robust and economical.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W163 launch era"
+        }
       },
       {
         "era": "W163 facelift",
         "years": "2001–2005",
         "keyEngines": "M112 E37 (3.7L V6), M113 E43/E50 (4.3–5.0L V8), M113.981 (5.4L AMG), <a  href='https://mercedesengines.uk/engine/om611-om613'>OM613</a> (2.7L diesel)",
         "whyBmwChanged": "The facelift brought more powerful engines and improved rust protection. The 5.0-litre V8 and the 5.4-litre AMG V8 arrived for the ML 55 AMG.",
-        "worthKnowing": "The M113 V8 is regarded as one of Mercedes' most durable V8 engines - timing chain tensioners are the only real weak point."
+        "worthKnowing": "The M113 V8 is regarded as one of Mercedes' most durable V8 engines - timing chain tensioners are the only real weak point.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W163 facelift"
+        }
       },
       {
         "era": "W164 - unibody generation",
         "years": "2005–2011",
         "keyEngines": "OM642 (3.0L V6 diesel), M272 (3.5L V6), M273 (5.5L V8), M156 (6.2L AMG V8)",
         "whyBmwChanged": "The W164 switched to unibody construction, transforming the M-Class from a truck-like off-roader into a genuine luxury SUV. The OM642 V6 diesel arrived and became the defining engine of the generation.",
-        "worthKnowing": "The OM642 320 CDI is regarded by many specialists as the most reliable engine ever fitted to the M-Class - 224 hp, 510 Nm of torque, and genuine long-term durability."
+        "worthKnowing": "The OM642 320 CDI is regarded by many specialists as the most reliable engine ever fitted to the M-Class - 224 hp, 510 Nm of torque, and genuine long-term durability.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W164 - unibody generation"
+        }
       },
       {
         "era": "W166 - final M-Class generation",
         "years": "2011–2015",
         "keyEngines": "OM642.826 (3.0L V6 diesel), OM651 (2.1L 4-cyl diesel), M276 (3.5L V6), M157 (5.5L AMG V8)",
         "whyBmwChanged": "The W166 refined the W164 formula with better NVH, improved interiors, and more efficient engines. The OM651 4-cylinder diesel arrived as a more economical option. The M157 biturbo V8 replaced the M156 in the AMG model.",
-        "worthKnowing": "The M157 in the ML 63 AMG produces 525 hp - one of the most powerful production SUVs of its era. The W166 became the GLE in 2015."
+        "worthKnowing": "The M157 in the ML 63 AMG produces 525 hp - one of the most powerful production SUVs of its era. The W166 became the GLE in 2015.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W166 - final M-Class generation"
+        }
       }
     ]
   },
