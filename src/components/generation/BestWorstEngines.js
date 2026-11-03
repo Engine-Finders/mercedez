@@ -1,8 +1,9 @@
 "use client";
 
 import Image from "next/image";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
 import GenIcon from "./GenIcons";
 
 const typeStyles = {
@@ -64,7 +65,7 @@ function MobileCard({ item, isDark }) {
           <GenIcon name={style.icon} className="h-3.5 w-3.5" />
         </span>
         <div className="relative h-28 w-20 shrink-0 overflow-hidden">
-          <Image src="/e90/engine.webp" alt={`${item.engine} engine`} fill className="object-contain" sizes="80px" />
+          <Image src="/right.webp" alt={`${item.engine} engine`} fill className="object-contain" sizes="80px" />
         </div>
       </div>
 
@@ -114,7 +115,7 @@ function Card({ item, isDark }) {
 
       <div className="flex items-start gap-2.5">
         <div className="relative -ml-3 h-36 w-24 shrink-0 overflow-hidden rounded-sm">
-          <Image src="/e90/engine.webp" alt={`${item.engine} engine`} fill className="object-contain" sizes="100px" />
+          <Image src="/right.webp" alt={`${item.engine} engine`} fill className="object-contain" sizes="100px" />
         </div>
         <p className="text-[0.8rem] leading-[1.35] text-[var(--color-text-muted)]">&ldquo;<span dangerouslySetInnerHTML={{ __html: item.quote }} />&rdquo;</p>
       </div>
@@ -155,7 +156,7 @@ function OverlookedCard({ item, isDark }) {
 
         <div className="p-5 md:flex md:items-center">
           <p className="text-[0.82rem] leading-[1.5] text-[var(--color-text)]">
-            <span className="font-semibold text-[var(--color-primary)]">Who it&apos;s for: </span>
+            <span className="font-semibold" style={{ color: GOLD }}>Who it&apos;s for: </span>
             <span dangerouslySetInnerHTML={{ __html: item.whoItsFor }} />
           </p>
         </div>
@@ -174,14 +175,12 @@ export default function BestWorstEngines({ data }) {
   const wideItems = items.filter((item) => item.fullWidth);
 
   return (
-    <section className="w-full bg-[var(--color-page)] py-8 text-[var(--color-text)] md:py-10">
+    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 4)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <h2 className="text-[2.15rem] font-bold leading-[1.1] tracking-normal text-[var(--color-text)] md:text-[3rem]">
+        <SectionLabel number={4} isDark={isDark} />
+        <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           Best &amp; Worst Engines
         </h2>
-        <div className="mt-3">
-          <MStripe />
-        </div>
 
         <div className="mt-6 flex flex-col gap-3 sm:hidden">
           {mainItems.map((item) => (

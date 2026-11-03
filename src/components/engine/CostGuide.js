@@ -2,8 +2,9 @@
 
 import Link from "next/link";
 import { useTheme } from "@/components/shared/themeProvider";
-import MStripe from "@/components/reusableComponents/MStripe";
-import { sectionDescription, sectionH2 } from "@/components/models/sectionTypography";
+import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import { sectionDescription} from "@/components/models/sectionTypography";
 
 function cleanText(text = "") {
   return String(text)
@@ -16,7 +17,7 @@ function cleanText(text = "") {
 }
 
 function shortEngineName(engineLabel = "") {
-  return cleanText(engineLabel).replace(/^Jaguar\s+/i, "") || "Engine";
+  return cleanText(engineLabel).replace(/^Mercedes(?:-Benz|-AMG)?\s+/i, "").replace(/^Jaguar\s+/i, "") || "Engine";
 }
 
 function parseQuotedPrice(value = "") {
@@ -32,7 +33,7 @@ function renderTaggedText(text = "") {
   return cleanText(text).split(/(\[[^\]]+\])/g).map((part, index) => {
     if (/^\[[^\]]+\]$/.test(part)) {
       return (
-        <span key={`${part}-${index}`} className="font-semibold text-[var(--color-primary)]">
+        <span key={`${part}-${index}`} className="font-semibold text-[#AB8450]">
           {part}
         </span>
       );
@@ -58,7 +59,7 @@ function ConditionIcon({ condition }) {
   }
 
   return (
-    <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-soft)] text-[var(--color-primary)] md:h-10 md:w-10">
+    <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450] md:h-10 md:w-10">
       <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4 md:h-5 md:w-5" fill="none" stroke="currentColor" strokeWidth="1.85">
         {path}
       </svg>
@@ -76,19 +77,19 @@ function PriceCard({ row, popular = false, isDark, compact = false }) {
     <article
       className={`relative rounded-xl border px-3.5 py-3.5 md:px-4 md:py-4 ${
         popular
-          ? "border-[var(--color-primary)] bg-[var(--color-surface)] shadow-[0_12px_28px_var(--color-shadow)]"
+          ? "border-[#AB8450] bg-[var(--color-surface)] shadow-[0_12px_28px_var(--color-shadow)]"
           : cardClass(isDark)
       }`}
     >
       {popular ? (
-        <span className={`absolute -top-2.5 left-1/2 -translate-x-1/2 rounded-md px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-[0.04em] text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}>
+        <span className={`absolute -top-2.5 left-1/2 -translate-x-1/2 rounded-md px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-[0.04em] text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}>
           Most Popular
         </span>
       ) : null}
 
       <div className="flex items-center gap-2.5">
         <ConditionIcon condition={row.condition} />
-        <p className="text-[14px] font-bold uppercase tracking-[0.04em] text-[var(--color-text)] md:text-[15px]">{title}</p>
+        <p className="font-lora text-[14px] font-medium uppercase tracking-[0.04em] text-[var(--color-text)] md:text-[15px]">{title}</p>
       </div>
 
       {compact ? (
@@ -97,7 +98,7 @@ function PriceCard({ row, popular = false, isDark, compact = false }) {
             <p className="pt-1 text-[10px] font-semibold uppercase tracking-[0.04em] text-[var(--color-text-soft)]">Supply Only</p>
             <div className="text-right">
               <p className="text-[18px] font-bold leading-none text-[var(--color-text)]">{supply.price}</p>
-              {supply.tag ? <p className="mt-1 text-[11px] font-semibold text-[var(--color-primary)]">{supply.tag}</p> : null}
+              {supply.tag ? <p className="mt-1 text-[11px] font-semibold text-[#AB8450]">{supply.tag}</p> : null}
             </div>
           </div>
           <div className="flex items-center justify-between gap-3 border-b border-[var(--color-border)] py-2.5">
@@ -106,7 +107,7 @@ function PriceCard({ row, popular = false, isDark, compact = false }) {
           </div>
           <div className="flex items-center justify-between gap-3 pt-2.5">
             <p className="text-[10px] font-semibold uppercase tracking-[0.04em] text-[var(--color-text-soft)]">Warranty</p>
-            <span className={`rounded-full px-2.5 py-1 text-[11px] font-semibold text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}>
+            <span className={`rounded-full px-2.5 py-1 text-[11px] font-semibold text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}>
               {warranty}
             </span>
           </div>
@@ -115,7 +116,7 @@ function PriceCard({ row, popular = false, isDark, compact = false }) {
         <div className="mt-3">
           <p className="text-[10px] font-semibold uppercase tracking-[0.04em] text-[var(--color-text-soft)]">Supply Only</p>
           <p className="mt-1 text-[22px] font-bold leading-none text-[var(--color-text)] md:text-[24px]">{supply.price}</p>
-          {supply.tag ? <p className="mt-1.5 text-[11px] font-semibold text-[var(--color-primary)]">{supply.tag}</p> : null}
+          {supply.tag ? <p className="mt-1.5 text-[11px] font-semibold text-[#AB8450]">{supply.tag}</p> : null}
 
           <div className="mt-3 border-t border-[var(--color-border)] pt-2.5">
             <p className="text-[10px] font-semibold uppercase tracking-[0.04em] text-[var(--color-text-soft)]">Fitted (Indie)</p>
@@ -123,7 +124,7 @@ function PriceCard({ row, popular = false, isDark, compact = false }) {
           </div>
 
           <div className="mt-3">
-            <span className={`inline-flex rounded-full px-2.5 py-1 text-[11px] font-semibold text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}>
+            <span className={`inline-flex rounded-full px-2.5 py-1 text-[11px] font-semibold text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}>
               {warranty}
             </span>
           </div>
@@ -142,7 +143,7 @@ function CompareCta({ cta, engineCode, desktop = false, isDark }) {
 
   if (desktop) {
     return (
-      <article className={`flex h-full flex-col justify-between rounded-xl p-4 text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}>
+      <article className={`flex h-full flex-col justify-between rounded-xl p-4 text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}>
         <div>
           <span className="flex h-10 w-10 items-center justify-center rounded-full border border-white/35 bg-white/10 text-white">
             <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.9">
@@ -169,7 +170,7 @@ function CompareCta({ cta, engineCode, desktop = false, isDark }) {
   return (
     <Link
       href="/quote"
-      className={`btn-cta mt-1 flex min-h-12 items-center justify-between gap-3 rounded-xl px-3.5 py-3 text-white shadow-[0_12px_28px_var(--color-shadow)] ${isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]"}`}
+      className={`btn-cta mt-1 flex min-h-12 items-center justify-between gap-3 rounded-xl px-3.5 py-3 text-white shadow-[0_12px_28px_var(--color-shadow)] ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}
     >
       <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-white/40">
         <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="1.9">
@@ -195,29 +196,24 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
   const quoteTag = parseQuotedPrice(rows[0]?.supplyOnly || "").tag || "[JAGUAR-QUOTE]";
 
   return (
-    <section className="relative left-1/2 w-screen -translate-x-1/2 overflow-hidden bg-[var(--color-page)] py-6 text-[var(--color-text)] md:py-9">
-      <div className={`absolute inset-0 ${isDark ? "bg-[var(--color-page)]" : "bg-[var(--color-page-soft)]"}`} />
-
+    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden py-6 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 5)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
           {/* Desktop */}
           <div className="hidden gap-4 md:grid md:grid-cols-[minmax(240px,0.85fr)_minmax(0,1.7fr)] md:items-stretch">
             <div className="flex flex-col">
-              <h2 className={`font-bold tracking-normal ${sectionH2}`}>
-                Jaguar <span className="text-[var(--color-primary)]">{engineCode}</span> Engine Price Guide
+              <SectionLabel number={5} isDark={isDark} />
+          <h2 className={`font-medium tracking-normal font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px]`}>
+                <span className="text-[#AB8450]">{engineCode}</span> Engine Price Guide
               </h2>
-              <div className="mt-3">
-                <MStripe />
-              </div>
-
-              <p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
+<p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
                 All prices are estimates from UK specialists{" "}
-                <span className="font-semibold text-[var(--color-primary)]">{quoteTag}</span>
+                <span className="font-semibold text-[#AB8450]">{quoteTag}</span>
               </p>
 
               {data.labourEstimate ? (
-                <div className="mt-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-primary-soft)] px-3.5 py-3">
+                <div className="mt-4 rounded-xl border border-[var(--color-border)] bg-[rgba(171,132,80,0.12)] px-3.5 py-3">
                   <div className="flex items-start gap-2.5">
-                    <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] text-[12px] font-bold text-[var(--color-primary)]">
+                    <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] text-[12px] font-bold text-[#AB8450]">
                       i
                     </span>
                     <p className="text-[12px] leading-[1.4] text-[var(--color-text-muted)]">
@@ -228,7 +224,7 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
               ) : null}
 
               <div className="mt-auto flex items-center gap-2 pt-4">
-                <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-soft)] text-[var(--color-primary)]">
+                <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
                   <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth="1.9">
                     <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
                   </svg>
@@ -252,17 +248,13 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
 
           {/* Mobile */}
           <div className="md:hidden">
-            <h2 className={`font-bold tracking-normal ${sectionH2}`}>
-              Jaguar <span className="text-[var(--color-primary)]">{engineCode}</span> Engine Price Guide
+            <h2 className={`font-medium tracking-normal font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px]`}>
+              <span className="text-[#AB8450]">{engineCode}</span> Engine Price Guide
             </h2>
-            <div className="mt-3">
-              <MStripe />
-            </div>
-
-            <p className="mt-4 text-[13px] leading-[1.4] text-[var(--color-text-muted)]">
+<p className="mt-4 text-[13px] leading-[1.4] text-[var(--color-text-muted)]">
               All prices are estimates from UK specialists
             </p>
-            <p className="mt-1 text-[12px] font-semibold text-[var(--color-primary)]">{quoteTag}</p>
+            <p className="mt-1 text-[12px] font-semibold text-[#AB8450]">{quoteTag}</p>
 
             <div className="mt-4 grid gap-3">
               {rows.map((row) => (
@@ -278,7 +270,7 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
 
             {data.labourEstimate ? (
               <div className={`mt-3 flex items-start gap-2.5 rounded-xl border px-3 py-2.5 ${cardClass(isDark)}`}>
-                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] text-[11px] font-bold text-[var(--color-primary)]">
+                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] text-[11px] font-bold text-[#AB8450]">
                   i
                 </span>
                 <p className="text-[11px] leading-[1.4] text-[var(--color-text-muted)]">
@@ -288,7 +280,7 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
             ) : null}
 
             <div className={`mt-2.5 flex items-center gap-2 rounded-xl border px-3 py-2.5 ${cardClass(isDark)}`}>
-              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[var(--color-primary)] bg-[var(--color-primary-soft)] text-[var(--color-primary)]">
+              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
                 <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth="1.9">
                   <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
                 </svg>

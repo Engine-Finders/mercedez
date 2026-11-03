@@ -1,7 +1,7 @@
 /* ============================================================
-   MERCEDES RESEARCH CENTRE — CHART CONFIGURATIONS (placeholder)
+   MERCEDES RESEARCH CENTRE - CHART CONFIGURATIONS (placeholder)
    No Mercedes reports have been built yet. This file establishes
-   the same Chart.js pattern used by BMW/LR/Jaguar — populate with
+   the same Chart.js pattern used by BMW/LR/Jaguar - populate with
    real chart configs when Report 1 is actually built.
    Chart.js itself loads via CDN in each report page's <head>.
    ============================================================ */

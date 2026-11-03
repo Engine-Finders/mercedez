@@ -21,6 +21,7 @@ export async function POST(request) {
     const withSource = {
       ...payload,
       source: payload.source || LEAD_SOURCE,
+      page_url: payload.page_url || payload.sourceUrl || payload.pageUrl || "",
     };
 
     // CRM: contact + vehicle only. Email: full payload including calculator.

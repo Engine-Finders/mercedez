@@ -17,7 +17,7 @@ function readLeadField(lead, key) {
 }
 
 function formatValue(value) {
-  if (value === undefined || value === null || value === "") return "—";
+  if (value === undefined || value === null || value === "") return "-";
   if (typeof value === "boolean") return value ? "Yes" : "No";
   return String(value);
 }

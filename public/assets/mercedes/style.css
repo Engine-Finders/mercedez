@@ -1,5 +1,5 @@
 /* ============================================================
-   MERCEDES-BENZ — SHARED BRAND STYLESHEET
+   MERCEDES-BENZ - SHARED BRAND STYLESHEET
    Per IBS Master AI Handover 5.1, Part 3.4
    ============================================================ */
 
@@ -183,7 +183,7 @@ table { border-collapse: collapse; width: 100%; }
 .section h2 { font-size: 29px; margin-bottom: 16px; }
 .section .lede { font-size: 16px; color: var(--mb-grey-600); max-width: 760px; margin-bottom: 30px; font-family: -apple-system, sans-serif; }
 
-/* ---------- SCROLL REVEAL — directional fade-in ---------- */
+/* ---------- SCROLL REVEAL - directional fade-in ---------- */
 .fade-up, .fade-down, .fade-left, .fade-right {
   opacity: 0;
   transition: opacity 0.6s ease, transform 0.6s ease;
@@ -355,9 +355,9 @@ footer a { color: #8A8D91; }
 /* ============================================================
    RESEARCH CENTRE REPORT COMPONENTS
    Built at full parity with the mature Land Rover/Jaguar version
-   of this system (v1.1) — version badges, revision logs,
+   of this system (v1.1) - version badges, revision logs,
    intelligence badges, failure progression, confidence tags,
-   citation IDs — since Mercedes had none of this yet.
+   citation IDs - since Mercedes had none of this yet.
    ============================================================ */
 
 .exec-summary { background: linear-gradient(135deg, #0E0E0F 0%, #4A3820 140%); color: #fff; border-radius: var(--radius-md); padding: 32px 36px; margin: 32px auto; max-width: 900px; }

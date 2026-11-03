@@ -60,9 +60,13 @@ export const footerColumns = [
 ];
 
 export const footerLegal = {
-  copyright: "© 2026 Jaguar Reliability Guide, part of the Engine Finders network.",
-  disclaimer: "Independent editorial content; not affiliated with Jaguar Land Rover.",
-  links: [],
+  copyright: "© 2026 Mercedes Engines UK, part of the Engine Finders network.",
+  disclaimer: "Independent editorial content; not affiliated with Mercedes-Benz.",
+  links: [
+    { label: "Privacy Policy", href: "/privacy-policy" },
+    { label: "Cookies Policy", href: "/cookies-policy" },
+    { label: "Terms & Conditions", href: "/terms-and-conditions" },
+  ],
 };
 
 function LogoMark() {

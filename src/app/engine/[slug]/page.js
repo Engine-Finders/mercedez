@@ -7,6 +7,7 @@ import Compatibility from "@/components/engine/Compatibility";
 import CostGuide from "@/components/engine/CostGuide";
 import FAQAccordion from "@/components/engine/FAQAccordion";
 import TrustCta from "@/components/engine/TrustCta";
+import { SITE_URL, sanitizeImageUrl, sanitizeJsonLd } from "@/lib/seoAssets";
 
 async function getPageData(dataFile) {
   try {
@@ -21,8 +22,6 @@ export async function generateStaticParams() {
   return pages.map((page) => ({ slug: page.slug }));
 }
 
-const BASE_URL = "https://mercedesengines.uk";
-
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const entry = pages.find((page) => page.slug === slug);
@@ -31,18 +30,19 @@ export async function generateMetadata({ params }) {
   if (!data?.meta) return {};
 
   const { meta } = data;
+  const canonical = `${SITE_URL}/engine/${slug}`;
   return {
     title: meta.title,
     description: meta.description,
-    alternates: { canonical: `${BASE_URL}/engine/${slug}` },
+    alternates: { canonical },
     openGraph: meta.openGraph?.type
       ? {
           title: meta.openGraph.title,
           description: meta.openGraph.description,
           type: meta.openGraph.type,
-          url: meta.openGraph.url,
-          images: meta.openGraph.image ? [meta.openGraph.image] : undefined,
-          siteName: meta.openGraph.siteName,
+          url: canonical,
+          images: [sanitizeImageUrl(meta.openGraph.image)],
+          siteName: "Mercedes Engines UK",
         }
       : undefined,
     twitter: meta.twitter?.card
@@ -50,7 +50,7 @@ export async function generateMetadata({ params }) {
           card: meta.twitter.card,
           title: meta.twitter.title,
           description: meta.twitter.description,
-          images: meta.twitter.image ? [meta.twitter.image] : undefined,
+          images: [sanitizeImageUrl(meta.twitter.image)],
         }
       : undefined,
   };
@@ -65,32 +65,28 @@ export default async function EnginePage({ params }) {
   if (!data) notFound();
 
   return (
-    <main
-      style={{
-        padding: "24px 16px 64px",
-        maxWidth: 1100,
-        margin: "0 auto",
-        lineHeight: 1.5,
-        display: "flex",
-        flexDirection: "column",
-        gap: 40,
-      }}
-    >
+    <main className="flex w-full flex-col bg-[var(--color-page)]">
       {data.meta?.jsonLd && (
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(data.meta.jsonLd),
+            __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)),
           }}
         />
       )}
       <EngineHero data={data.hero} />
       <AtAGlance data={data.atAGlance} />
       <VerdictRating data={data.verdictRating} />
-      <Compatibility data={data.compatibility} />
-      <CostGuide data={data.costGuide} />
-      <FAQAccordion data={data.faq} />
-      <TrustCta data={data.trustCta} />
+      <Compatibility
+        data={data.compatibility}
+        engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value}
+        yearsProduced={data.atAGlance?.rows?.find((r) => r.metric === "Years Produced")?.value}
+        modelsFitted={data.atAGlance?.rows?.find((r) => r.metric?.startsWith("Models Fitted"))?.value}
+        crossBrandFitment={data.atAGlance?.rows?.find((r) => r.metric === "Cross-Brand Fitment")?.value}
+      />
+      <CostGuide data={data.costGuide} engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value} />
+      <FAQAccordion data={data.faq} engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value} />
+      <TrustCta data={data.trustCta} engineLabel={data.atAGlance?.rows?.find((r) => r.metric === "Engine Family")?.value} />
     </main>
   );
 }
