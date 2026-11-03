@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getBlogPostBySlug } from "@/lib/cms";
 import { EngineQuoteWidget } from "@/components/blog/EngineQuoteWidget";
 import { RelatedGuidesWidget } from "@/components/blog/RelatedGuidesWidget";
+import { sanitizeJsonLd } from "@/lib/seoAssets";
 import "../blog.css";
 
 export const revalidate = 3600;
@@ -37,19 +38,21 @@ export default async function ArticlePage(props) {
   const featuredImageUrl = post.featuredImage?.url || post.seoMetadata?.featuredImage?.url;
   const featuredImageAlt = post.featuredImage?.alt || post.seoMetadata?.featuredImage?.altText || post.title;
 
+  let schema = post.jsonLd || null;
+  if (!schema && post.jsonLdScript) {
+    try {
+      schema = JSON.parse(post.jsonLdScript);
+    } catch {
+      schema = null;
+    }
+  }
+  schema = sanitizeJsonLd(schema);
+
   return (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
       {/* JSON-LD Schema */}
-      {post.jsonLdScript ? (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: post.jsonLdScript }}
-        />
-      ) : post.jsonLd ? (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(post.jsonLd) }}
-        />
+      {schema ? (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
       ) : null}
 
       {/* Breadcrumb Navigation */}

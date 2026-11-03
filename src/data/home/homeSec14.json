@@ -1,14 +1,45 @@
 {
-  "title": "Not Sure Where to Start?",
-  "subHeadline": "Search by model to see the full reliability picture, run the ownership decision tool on your specific car, or go straight to a vetted Mercedes-Benz specialist for a quote.",
+  "subHeadline": "Free, expert guidance. Real data. Honest advice.",
+  "stats": [
+    {
+      "icon": "chart",
+      "label": "24,650+ UK enquiries analysed"
+    },
+    {
+      "icon": "engine",
+      "label": "50+ engine codes tracked"
+    },
+    {
+      "icon": "quote",
+      "label": "Real quotes, real costs"
+    },
+    {
+      "icon": "shield",
+      "label": "Independent & unbiased"
+    }
+  ],
+  "guidance": {
+    "eyebrow": "GET YOUR FREE GUIDANCE",
+    "title": "Ask a Mercedes-Benz engine specialist",
+    "href": "/quote"
+  },
   "primaryCta": {
-    "label": "Compare Mercedes Engine Prices Now →",
-    "href": "#",
-    "note": "routes to EnginesMarket"
+    "label": "GET YOUR FREE GUIDANCE",
+    "subLabel": "Ask a Mercedes-Benz engine specialist",
+    "href": "/quote"
   },
   "secondaryCta": {
-    "label": "Explore Mercedes-Benz Models →",
-    "href": "#",
-    "note": "routes to internal model finder"
+    "label": "CALL A SPECIALIST",
+    "subLabel": "Speak to a Mercedes expert now",
+    "href": "tel:+440000000000"
+  },
+  "review": {
+    "brand": "Trustpilot",
+    "stars": 5,
+    "score": "4.8 out of 5 from 1,200+ reviews"
+  },
+  "image": {
+    "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+    "alt": "Mercedes-Benz"
   }
 }
