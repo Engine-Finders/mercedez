@@ -725,7 +725,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every Vito Buyer",
-    "quote": "If you buy one Vito based on this page, buy a W447 (2019+) with the OM654 - it's the modern, cleaner, quieter diesel with far fewer reported issues than the OM651. If your budget is tighter, buy a W639 (2009+) with an OM646 that has documented service history - some specialists recommend it over the OM651 for reliability. The OM651 is the volume engine but demands timing chain inspection and injector history; if you hear a cold-start rattle, budget £900–£1,900 for chain work before it fails catastrophically. [MB-VERIFIED]"
+    "quote": "If you buy one Vito based on this page, buy a W447 (2019+) with the OM654 - it's the modern, cleaner, quieter diesel with far fewer reported issues than the OM651. If your budget is tighter, buy a W639 (2009+) with an OM646 that has documented service history - some specialists recommend it over the OM651 for reliability. The OM651 is the volume engine but demands timing chain inspection and injector history; if you hear a cold-start rattle, budget £900–£1,900 for chain work before it fails catastrophically. [MB-VERIFIED]",
+    "image": {
+      "src": "/model images/Vito.webp",
+      "alt": "Mercedes-Benz Vito"
+    }
   },
   "replacementCosts": {
     "h2": "Vito Engine Replacement Costs - By Generation",
@@ -741,7 +745,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "vito"
+        }
       },
       {
         "title": "109 CDi / 111 CDi / 114 CDi (pre-2019)",
@@ -753,7 +761,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "109 CDi / 111 CDi / 114 CDi (pre-2019)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a Vito engine typically takes 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The W638 is the simplest to work on; the W639 and W447 have more complex electronics and engine bay packaging. The OM651's rear-mounted timing chain increases labour time on any generation, as the engine must be removed to access the chain - this is a significant cost driver for OM651 Vito repairs.",
@@ -778,21 +790,33 @@
         "years": "1996–2003",
         "keyEngines": "OM601, OM611, M111",
         "whyBmwChanged": "Mercedes entered the van market with a simple, utilitarian design - the OM601 was a carryover from passenger cars; the OM611 was the first common-rail diesel in a van; the M111 petrol was the simpler option.",
-        "worthKnowing": "The W638 is now very old - rust and age-related issues are the real enemy. Parts are cheap and widely available, but only buy one if you're handy with a spanner."
+        "worthKnowing": "The W638 is now very old - rust and age-related issues are the real enemy. Parts are cheap and widely available, but only buy one if you're handy with a spanner.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "First Generation (W638)"
+        }
       },
       {
         "era": "Second Generation (W639)",
         "years": "2003–2014",
         "keyEngines": "OM646, OM651, OM642, <a  href='https://mercedesengines.uk/engine/m112'>M112</aM272",
         "whyBmwChanged": "The W639 brought a more car-like driving experience and a wider engine range. The OM646 was the simpler, more reliable diesel; the OM651 brought more power but rear-mounted timing chain risk; the OM642 V6 was the torque monster.",
-        "worthKnowing": "The OM646 is the generation's reliability champion - some specialists recommend it over the OM651 for this reason. The OM651's rear-chain design is the defining weakness."
+        "worthKnowing": "The OM646 is the generation's reliability champion - some specialists recommend it over the OM651 for this reason. The OM651's rear-chain design is the defining weakness.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Second Generation (W639)"
+        }
       },
       {
         "era": "Third Generation (W447)",
         "years": "2014–present",
         "keyEngines": "OM651, OM654, M274",
         "whyBmwChanged": "The W447 introduced the OM654 in 2019 - a modular 2.0L diesel with front-mounted chain, improved emissions compliance, and far fewer reported failure patterns than the OM651. Early W447s (2014–2019) continued with the OM651.",
-        "worthKnowing": "The OM654 is the single biggest reliability upgrade in Vito history - up to 13% more efficient, quieter, and with far fewer reported issues. Buy a 2019+ W447 if your budget stretches."
+        "worthKnowing": "The OM654 is the single biggest reliability upgrade in Vito history - up to 13% more efficient, quieter, and with far fewer reported issues. Buy a 2019+ W447 if your budget stretches.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Third Generation (W447)"
+        }
       }
     ]
   },

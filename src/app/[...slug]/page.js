@@ -193,14 +193,18 @@ export default async function CatchAllPage({ params }) {
         <GenerationsGrid data={data.generations} />
         <EngineDatabase data={data.engineDatabase} />
         <CommonProblems data={data.commonProblems} />
-        <MarketIntelligence data={data.marketIntelligence} quoteData={data.editorialPullQuote} />
+        <MarketIntelligence
+          data={data.marketIntelligence}
+          quoteData={data.editorialPullQuote}
+          heroImage={data.hero?.headerImage}
+        />
         <ReplacementCosts data={data.replacementCosts} />
         <EngineEvolution data={data.engineEvolution} />
         <WhoShouldBuy data={data.whoShouldBuy} />
-        <CalculatorCTA data={data.calculatorCta} />
-        <TrustBlock data={data.trustBlock} />
+        <CalculatorCTA data={data.calculatorCta} heroImage={data.hero?.headerImage} />
+        <TrustBlock data={data.trustBlock} image={data.ownershipVerdict?.image} />
         <FAQAccordion data={data.faq} />
-        <ClosingActionCards data={data.closingActionCards} />
+        <ClosingActionCards data={data.closingActionCards} heroImage={data.hero?.headerImage} />
       </main>
     );
   }

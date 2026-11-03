@@ -894,7 +894,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We’d Tell Every GLE Buyer",
-    "quote": "Buy a 2015–2019 W166 GLE 350d with the OM642 V6 diesel - it’s the most reliable, best‑value GLE you can own. The oil cooler seal is a known, manageable £800–£1,500 repair, not a reason to avoid the car. If your budget stretches to a V167, choose the OM654 diesel and insist on full service history - the more complex <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> and M256 engines are impressive but untested long‑term."
+    "quote": "Buy a 2015–2019 W166 GLE 350d with the OM642 V6 diesel - it’s the most reliable, best‑value GLE you can own. The oil cooler seal is a known, manageable £800–£1,500 repair, not a reason to avoid the car. If your budget stretches to a V167, choose the OM654 diesel and insist on full service history - the more complex <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> and M256 engines are impressive but untested long‑term.",
+    "image": {
+      "src": "/model images/GLE.webp",
+      "alt": "Mercedes-Benz GLE"
+    }
   },
   "replacementCosts": {
     "h2": "GLE Engine Replacement Costs - By Generation",
@@ -910,7 +914,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "gle"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a GLE engine typically takes 10–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The GLE rule - generation and engine are everything: A £3,200–£5,500 OM642 recon against a £6,000–£22,000 W166 GLE sits at 25–50% of the car's value - well below our 70% threshold for Mercedes-Benz. That's why the W166 350d is our top used recommendation. By contrast, a £3,200–£5,500 <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> recon against a £3,000–£6,000 W164 M‑Class sits at 50–90% of the car's value - borderline to terminal on lower-value examples. An OM651 recon against a £4,000–£8,000 W166 GLE 250d sits at 60–80% - watch the numbers. The V167's £8,000–£14,000 M177 AMG recon against a £30,000–£80,000+ car is comfortably safe. In short: fix a W166 350d, evaluate a W164 diesel carefully, and walk away from a W163 with a major failure unless it's a keeper or project.",
@@ -935,35 +943,55 @@
         "years": "1997–2005",
         "keyEngines": "M112 3.2 V6, M113 4.3/5.0 V8, OM612/<a  href='https://mercedesengines.uk/engine/om646-om647'>OM647</a> 2.7/3.2 diesel",
         "whyBmwChanged": "Mercedes launched the M‑Class as its first SUV, built in Alabama with body‑on‑frame construction - engines were carried over from the E‑Class and S‑Class of the era, tuned for off‑road torque rather than on‑road performance",
-        "worthKnowing": "The OM612 2.7 CDI is the engine to seek in a W163 - it's the most fuel‑efficient and has the fewest major failure reports. The V8s are thirsty and expensive to fix if they go wrong"
+        "worthKnowing": "The OM612 2.7 CDI is the engine to seek in a W163 - it's the most fuel‑efficient and has the fewest major failure reports. The V8s are thirsty and expensive to fix if they go wrong",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "First Generation - Body‑on‑Frame Off‑Roader"
+        }
       },
       {
         "era": "Second Generation - Unibody Luxury SUV",
         "years": "2005–2011",
         "keyEngines": "M272 3.5 V6, M273 5.5 V8, OM642 3.0 V6",
         "whyBmwChanged": "The W164 moved to unibody construction and became a genuine luxury SUV. The OM642 V6 diesel was introduced - it would become the defining engine of the M‑Class/GLE range. Petrol V6/V8 carried over but with updated electronics",
-        "worthKnowing": "The OM642 made its debut in the W164 - it's the most reliable engine in this generation. The M272 V6 has a known balance‑shaft issue on pre‑2008 examples; avoid them unless it's been replaced"
+        "worthKnowing": "The OM642 made its debut in the W164 - it's the most reliable engine in this generation. The M272 V6 has a known balance‑shaft issue on pre‑2008 examples; avoid them unless it's been replaced",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Second Generation - Unibody Luxury SUV"
+        }
       },
       {
         "era": "Third Generation - The GLE Renaming",
         "years": "2012–2019",
         "keyEngines": "M276 3.0 V6, OM651 2.1, OM642 3.0 V6, M157/M156 AMG",
         "whyBmwChanged": "The W166 was facelifted and renamed from M‑Class to GLE in 2015 - a marketing change rather than an engineering one. The OM651 four‑cylinder diesel was added for economy, while the OM642 remained the V6 workhorse. The M276 replaced the M272 in petrol models",
-        "worthKnowing": "The 2015 facelift is the dividing line - pre‑facelift W166 (2012–2014) carries more M276 timing chain risk; post‑facelift (2015–2019) is the sweet spot. The OM651 diesel is cheaper but carries the “Black Death” caveat"
+        "worthKnowing": "The 2015 facelift is the dividing line - pre‑facelift W166 (2012–2014) carries more M276 timing chain risk; post‑facelift (2015–2019) is the sweet spot. The OM651 diesel is cheaper but carries the “Black Death” caveat",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Third Generation - The GLE Renaming"
+        }
       },
       {
         "era": "Fourth Generation - Complex Modern Luxury",
         "years": "2020–present",
         "keyEngines": "OM654 2.0, OM656 3.0 I6, M256 3.0 I6, M177 4.0 V8, EQ Hybrids",
         "whyBmwChanged": "The V167 is an all‑new platform with electrification baked in - 48V mild hybrid across the range, plus plug‑in hybrids. The OM656 inline‑six diesel and M256 inline‑six petrol are new, replacing the V6s. Complexity has increased significantly",
-        "worthKnowing": "The OM654 four‑cylinder diesel is the safest V167 engine choice - simpler, proven, and with lower running costs. The OM656 and <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> are impressive but specialist‑only territory. 48V system issues are increasingly common and expensive"
+        "worthKnowing": "The OM654 four‑cylinder diesel is the safest V167 engine choice - simpler, proven, and with lower running costs. The OM656 and <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> are impressive but specialist‑only territory. 48V system issues are increasingly common and expensive",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Fourth Generation - Complex Modern Luxury"
+        }
       },
       {
         "era": "SECTION 11 - REPAIR OR REPLACE? - <CalculatorCTA>",
         "years": "H2: Can I Repair My GLE Engine - or Should I Replace It?",
         "keyEngines": "If you've got a W164 M‑Class with an OM642 V6 diesel, the numbers can be tight - a £3,200–£5,500 recon against a £3,000–£6,000 car means replacement cost can exceed 70% of the car's value. For a W166 GLE 350d, replacement is comfortably within the car's value. Use our diagnostic calculator to get a personalised verdict.",
         "whyBmwChanged": "Path 1 - Know your engine? Launch the Mercedes calculator with GLE pre-selected → /fault-diagnostic-calculator?model=gle",
-        "worthKnowing": "Path 2 - Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)"
+        "worthKnowing": "Path 2 - Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "SECTION 11 - REPAIR OR REPLACE? - <CalculatorCTA>"
+        }
       }
     ]
   },

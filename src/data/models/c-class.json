@@ -871,7 +871,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every C-Class Buyer",
-    "quote": "If you buy one C-Class based on this page, buy a 2018+ W205 with the OM654 - the post-facelift electronics, the more dependable diesel, and a generation that's already absorbed the steepest depreciation. If your budget doesn't stretch, buy a W204 facelift (2011+) with an OM651 that has an injector-seal receipt already in the history folder. The W203 is a bargain only if you're prepared to scrap it when the \"Black Death\" arrives. [MB-VERIFIED]"
+    "quote": "If you buy one C-Class based on this page, buy a 2018+ W205 with the OM654 - the post-facelift electronics, the more dependable diesel, and a generation that's already absorbed the steepest depreciation. If your budget doesn't stretch, buy a W204 facelift (2011+) with an OM651 that has an injector-seal receipt already in the history folder. The W203 is a bargain only if you're prepared to scrap it when the \"Black Death\" arrives. [MB-VERIFIED]",
+    "image": {
+      "src": "/model images/C-class.webp",
+      "alt": "Mercedes-Benz C-Class"
+    }
   },
   "replacementCosts": {
     "h2": "C-Class Engine Replacement Costs - By Generation",
@@ -887,7 +891,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "c-class"
+        }
       },
       {
         "title": "C220 CDi (pre-2011)",
@@ -899,7 +907,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "C220 CDi (pre-2011)"
+        }
       },
       {
         "title": "C220d / C250d (pre-2018)",
@@ -911,7 +923,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "C220d / C250d (pre-2018)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a C-Class engine typically takes 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The W203 and W204 are generally quicker to work on than the W205 and W206 due to less complex electronics and engine bay packaging, though the OM651's rear-mounted timing chain increases labour time on any generation.",
@@ -936,28 +952,44 @@
         "years": "2000–2007",
         "keyEngines": "OM646, OM647",
         "whyBmwChanged": "Mercedes entered the modern common-rail diesel era with the W203, replacing the older mechanical-injection OM605/606 units. The OM646/647 were the first C-Class diesels to use common-rail injection, improving refinement and fuel economy over the older IDI engines.",
-        "worthKnowing": "The OM646/647 are the engines where the \"Black Death\" injector seal problem first became widespread - copper seal degradation was not adequately addressed in the initial design. Early W203 diesels (pre-2003) are significantly more prone to injector sealing issues."
+        "worthKnowing": "The OM646/647 are the engines where the \"Black Death\" injector seal problem first became widespread - copper seal degradation was not adequately addressed in the initial design. Early W203 diesels (pre-2003) are significantly more prone to injector sealing issues.",
+        "image": {
+          "src": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203-45-angle-front-view.webp",
+          "alt": "First Generation Diesels (W203)"
+        }
       },
       {
         "era": "Second Generation & OM651 Introduction (W204)",
         "years": "2007–2014",
         "keyEngines": "OM651, OM642, M271, M276",
         "whyBmwChanged": "The W204 facelift (2011+) introduced the OM651, a completely new 2.1L diesel family with redesigned injector sealing and improved emissions compliance. The OM642 V6 diesel was carried over from the W203 as a high-output option.",
-        "worthKnowing": "The OM651 is far more durable than the OM646/647, but its rear-mounted timing chain adds complexity. The W204 facelift is the first C-Class generation where diesel reliability starts to approach acceptable levels for a modern Mercedes."
+        "worthKnowing": "The OM651 is far more durable than the OM646/647, but its rear-mounted timing chain adds complexity. The W204 facelift is the first C-Class generation where diesel reliability starts to approach acceptable levels for a modern Mercedes.",
+        "image": {
+          "src": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204-45-angle-front-view.webp",
+          "alt": "Second Generation & OM651 Introduction (W204)"
+        }
       },
       {
         "era": "Third Generation & Petrol/Diesel Split (W205)",
         "years": "2014–2021",
         "keyEngines": "OM651, OM654, M276, M264",
         "whyBmwChanged": "The W205 introduced the OM654 in 2018 - a modular 2.0L diesel with front-mounted chain, improved emissions compliance and far fewer reported failures than the OM651. Mercedes also rationalised the petrol range around the M276 V6 and the new M264 2.0L four-cylinder, moving away from the older M271.",
-        "worthKnowing": "The OM654 is the single biggest reliability upgrade in C-Class history - it addresses almost every major OM651 weak point. The W205 post-facelift (2018+) is the definitive C-Class generation for diesel buyers."
+        "worthKnowing": "The OM654 is the single biggest reliability upgrade in C-Class history - it addresses almost every major OM651 weak point. The W205 post-facelift (2018+) is the definitive C-Class generation for diesel buyers.",
+        "image": {
+          "src": "/cars/c-class-w205-standard amg line-saloon-2014–2018-new-jupiter red-new generation-c-class w205 std amg-45-angle-front-view.webp",
+          "alt": "Third Generation & Petrol/Diesel Split (W205)"
+        }
       },
       {
         "era": "Fourth Generation & Modular Era (W206)",
         "years": "2021–present",
         "keyEngines": "OM654, M264, M177 hybrid",
         "whyBmwChanged": "The W206 represents Mercedes' modular engine era - every engine is designed around shared architecture (OM654 diesel, M264 petrol, M177 V8 hybrid). Emissions compliance and electrification (mild hybrid, plug-in hybrid) are the driving factors.",
-        "worthKnowing": "The W206 OM654 is a further refined version of the same engine fitted to the W205 - proven reliability, high volume, and shared parts across Mercedes' entire mainstream diesel range."
+        "worthKnowing": "The W206 OM654 is a further refined version of the same engine fitted to the W205 - proven reliability, high volume, and shared parts across Mercedes' entire mainstream diesel range.",
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Fourth Generation & Modular Era (W206)"
+        }
       }
     ]
   },

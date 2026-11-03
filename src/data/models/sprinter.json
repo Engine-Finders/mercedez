@@ -752,7 +752,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every Sprinter Buyer",
-    "quote": "Buy an NCV3 (2009–2018) with the OM651 2.1 CDI - it's the most reliable, best‑supported Sprinter you can own. The EGR valve and fuel filter housing are known, cheaply‑fixed weaknesses, not reasons to avoid the van. If you need a V6, budget for an oil cooler seal inspection (£800–£1,500) and factor the higher running costs into your commercial calculation. For a VS30, choose the OM654 (2021+) and insist on full service history - the early OM651s in the VS30 are the same proven engine but without the latest tech."
+    "quote": "Buy an NCV3 (2009–2018) with the OM651 2.1 CDI - it's the most reliable, best‑supported Sprinter you can own. The EGR valve and fuel filter housing are known, cheaply‑fixed weaknesses, not reasons to avoid the van. If you need a V6, budget for an oil cooler seal inspection (£800–£1,500) and factor the higher running costs into your commercial calculation. For a VS30, choose the OM654 (2021+) and insist on full service history - the early OM651s in the VS30 are the same proven engine but without the latest tech.",
+    "image": {
+      "src": "/model images/Sprinter.webp",
+      "alt": "Mercedes-Benz Sprinter"
+    }
   },
   "replacementCosts": {
     "h2": "Sprinter Engine Replacement Costs - By Generation",
@@ -768,7 +772,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "sprinter"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a Sprinter engine typically takes 8–12 hours for four‑cylinder units, 10–14 hours for V6 units, at £65–£95/hr (independent commercial van specialist) or £110–£160/hr (Mercedes‑Benz dealer) [MB-QUOTE]. The Sprinter rule - commercial value changes everything: A £2,800–£4,800 OM651 recon against an £4,000–£12,000 NCV3 sits at 40–70% of the van's value - borderline on lower-value examples, safe on better vans. But the commercial calculation is different: down-time, lost revenue, and the cost of replacing the van all factor in. A £3,200–£5,500 OM642 recon against an £18,000–£40,000 VS30 sits at 10–25% - well within the 70% threshold. For T1N vans, a £1,500–£3,500 recon against a £1,500–£5,000 van is often terminal - unless the van has sentimental or low‑mileage collector value. In short: fix an NCV3 with a known engine, budget carefully for a T1N, and treat a VS30 as a modern asset worth repairing.",
@@ -793,63 +801,99 @@
         "years": "1995–2000",
         "keyEngines": "OM602 2.9 I5, <a  href='https://mercedesengines.uk/engine/om601-om608'>OM601</a> 2.3 I4",
         "whyBmwChanged": "Mercedes launched the Sprinter as the successor to the T1/TN van - a clean‑sheet design that would define the modern large‑van segment. The OM602 2.9‑litre five‑cylinder diesel was the standout engine - virtually indestructible and capable of 500,000+ miles with basic maintenance",
-        "worthKnowing": "The OM602 is legendary - it's the engine that built the Sprinter's reputation for longevity. Many are still on the road today with original engines. Parts are cheap and widely available"
+        "worthKnowing": "The OM602 is legendary - it's the engine that built the Sprinter's reputation for longevity. Many are still on the road today with original engines. Parts are cheap and widely available",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "First Generation - The Original"
+        }
       },
       {
         "era": "First Generation - CDI Update",
         "years": "2000–2006",
         "keyEngines": "OM611 2.1 CDI, OM612 2.7 CDI, M111 2.3 petrol",
         "whyBmwChanged": "Mercedes introduced common‑rail diesel (CDI) to the Sprinter - the OM611 and OM612 replaced the older indirect‑injection engines. More refined, more powerful, but with more complex fuel systems and injector weaknesses. The M111 petrol was a niche option for markets where diesel wasn't favoured",
-        "worthKnowing": "The <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a>/OM612 injectors are the primary weakness - they fail and can be expensive to replace. Budget £300–£800 per injector if buying a T1N CDI"
+        "worthKnowing": "The <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a>/OM612 injectors are the primary weakness - they fail and can be expensive to replace. Budget £300–£800 per injector if buying a T1N CDI",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "First Generation - CDI Update"
+        }
       },
       {
         "era": "Second Generation - NCV3",
         "years": "2006–2018",
         "keyEngines": "OM646 2.1 CDI, OM651 2.1 CDI, OM642 3.0 V6 CDI",
         "whyBmwChanged": "The NCV3 brought a larger body, improved safety, and a range of new engines. The OM646 was a development of the OM611; the OM651 (introduced in 2009) was the game‑changer - more reliable, more efficient, and capable of 300,000+ miles. The OM642 V6 offered more power for heavy‑duty applications",
-        "worthKnowing": "The OM651 is the Sprinter engine to buy - it's the most common, best‑supported, and proven in fleet use. The 2013 facelift brought improved electronics and the OM651 in its most refined form"
+        "worthKnowing": "The OM651 is the Sprinter engine to buy - it's the most common, best‑supported, and proven in fleet use. The 2013 facelift brought improved electronics and the OM651 in its most refined form",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Second Generation - NCV3"
+        }
       },
       {
         "era": "Third Generation - VS30",
         "years": "2018–present",
         "keyEngines": "OM651 2.1 CDI (early), OM642 3.0 V6 (early), OM654 2.0 CDI (2021+)",
         "whyBmwChanged": "The VS30 is larger, more luxurious and packed with technology. Early VS30s kept the OM651 and OM642 - proven engines in a new body. In 2021, Mercedes replaced both with a single OM654 four‑cylinder diesel - more efficient, cleaner, but untested in high‑mileage fleet use",
-        "worthKnowing": "The 2021 update was a major change - the OM651 and OM642 are now discontinued in the Sprinter. The OM654 is a good engine but it's too early for long‑term data. For fleet operators, the OM654 may prove to be a worthy successor; for private buyers, the OM651 remains the safer bet"
+        "worthKnowing": "The 2021 update was a major change - the OM651 and OM642 are now discontinued in the Sprinter. The OM654 is a good engine but it's too early for long‑term data. For fleet operators, the OM654 may prove to be a worthy successor; for private buyers, the OM651 remains the safer bet",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Third Generation - VS30"
+        }
       },
       {
         "era": "SECTION 10 - WHO SHOULD BUY A SPRINTER? - <WhoShouldBuy>",
         "years": "H2: Who Should Buy a Sprinter?",
         "keyEngines": "Buyer Profile",
         "whyBmwChanged": "Rating",
-        "worthKnowing": "Our Verdict"
+        "worthKnowing": "Our Verdict",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "SECTION 10 - WHO SHOULD BUY A SPRINTER? - <WhoShouldBuy>"
+        }
       },
       {
         "era": "Commercial Fleet Operator",
         "years": "★★★★★",
         "keyEngines": "The Sprinter is the UK's favourite large van for a reason - the OM651 NCV3 is the fleet champion. Buy 2013–2018 NCV3s with OM651 engines, maintain them strictly, and they'll deliver 300,000+ miles with predictable, manageable repairs. Avoid the OM642 V6 unless you genuinely need the extra torque for heavy towing or payload.",
         "whyBmwChanged": "Self‑Employed Tradesperson",
-        "worthKnowing": "★★★★☆"
+        "worthKnowing": "★★★★☆",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Commercial Fleet Operator"
+        }
       },
       {
         "era": "An NCV3 Sprinter with the OM651 2.1 CDI is a solid investment - it's reliable, parts are cheap, and every specialist in the country knows how to fix it. Budget for an EGR valve and fuel filter housing inspection before purchase; factor £400–£1,200 for preventative replacements. A VS30 is more expensive to buy and maintain - only upgrade if your business can justify the cost.",
         "years": "Campervan Converter",
         "keyEngines": "★★★★☆",
         "whyBmwChanged": "The Sprinter is a campervan conversion favourite - the NCV3 is the sweet spot: robust, spacious, and the OM651 engine is proven. Pre‑2013 NCV3s are cheaper but have the OM646 engine (more injector issues); 2013–2018 is the conversion sweet spot. Budget for an EGR and injector check before the conversion starts.",
-        "worthKnowing": "Budget Owner"
+        "worthKnowing": "Budget Owner",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "An NCV3 Sprinter with the OM651 2.1 CDI is a solid investment - it's reliable, parts are cheap, and every specialist in the country knows how to fix it. Budget for an EGR valve and fuel filter housing inspection before purchase; factor £400–£1,200 for preventative replacements. A VS30 is more expensive to buy and maintain - only upgrade if your business can justify the cost."
+        }
       },
       {
         "era": "⚠️ ★★★☆☆",
         "years": "A T1N Sprinter is the cheapest way into a large van - but a £1,500–£4,000 T1N with an OM602 engine is a project, not a daily driver. Buy it if you can work on it yourself or if you need a cheap occasional workhorse. For reliable daily use, an NCV3 with the OM651 is worth the extra £2,000–£4,000 purchase price.",
         "keyEngines": "First‑Time Van Buyer",
         "whyBmwChanged": "★★★★☆",
-        "worthKnowing": "A 2013–2018 NCV3 Sprinter with the OM651 2.1 CDI is an excellent first van - it's reliable, easy to drive, and you'll find specialists everywhere. Buy on condition and service history, not mileage. Avoid the OM642 V6 (higher fuel and repair costs) and avoid T1N vans unless you're a confident diy‑mechanic."
+        "worthKnowing": "A 2013–2018 NCV3 Sprinter with the OM651 2.1 CDI is an excellent first van - it's reliable, easy to drive, and you'll find specialists everywhere. Buy on condition and service history, not mileage. Avoid the OM642 V6 (higher fuel and repair costs) and avoid T1N vans unless you're a confident diy‑mechanic.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "⚠️ ★★★☆☆"
+        }
       },
       {
         "era": "SECTION 11 - REPAIR OR REPLACE? - <CalculatorCTA>",
         "years": "H2: Can I Repair My Sprinter Engine - or Should I Replace It?",
         "keyEngines": "If you've got a T1N Sprinter with an OM611/OM612 CDI engine, the numbers are brutal - a £1,800–£3,500 recon against a £1,500–£5,000 van means replacement cost can exceed 70% of the van's value. For an NCV3 with an OM651, replacement is often a no‑brainer - the van is worth fixing. Use our diagnostic calculator to get a personalised verdict.",
         "whyBmwChanged": "Path 1 - Know your engine? Launch the Mercedes calculator with Sprinter pre-selected → /fault-diagnostic-calculator?model=sprinter",
-        "worthKnowing": "Path 2 - Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)"
+        "worthKnowing": "Path 2 - Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "SECTION 11 - REPAIR OR REPLACE? - <CalculatorCTA>"
+        }
       }
     ]
   },

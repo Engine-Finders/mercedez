@@ -760,7 +760,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every GLA Buyer",
-    "quote": "If you're buying a used GLA, prioritise the H247 (2021+) with the M282 petrol or OM654 diesel-it's the safest, most reliable GLA ever built. If budget is tighter, the X156 (2015+ facelift) with the M270 petrol is a solid alternative-but walk away from any X156 diesel without documented injector service history, and treat the GLA 250e PHEV as a specialist buy with extra complexity."
+    "quote": "If you're buying a used GLA, prioritise the H247 (2021+) with the M282 petrol or OM654 diesel-it's the safest, most reliable GLA ever built. If budget is tighter, the X156 (2015+ facelift) with the M270 petrol is a solid alternative-but walk away from any X156 diesel without documented injector service history, and treat the GLA 250e PHEV as a specialist buy with extra complexity.",
+    "image": {
+      "src": "/model images/GLA.webp",
+      "alt": "Mercedes-Benz GLA"
+    }
   },
   "replacementCosts": {
     "h2": "GLA Engine Replacement Costs - By Generation",
@@ -776,7 +780,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "gla"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a GLA engine typically takes 8–12 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Labour for AMG variants (M133/M139) may run to 16 hours due to additional cooling and performance‑system disassembly. The GLA rule - compact SUV economics: An X156 OM651 diesel recon at £2,800–£4,800 against a typical X156 value of £5,000–£14,000 sits at around 30–70% of the car's worth. On a low‑value X156 (sub‑£6,000), that pushes past our 70% Mercedes threshold - so run the numbers carefully. For an H247 with OM654, the same £3,000–£5,000 recon against an £18,000–£38,000 car is comfortably below 30% - a clear fix it verdict. The GLA 250e PHEV adds hybrid system complexity-always factor in the battery health assessment alongside the engine diagnosis. Always compare the lowest viable recon cost against your car's current market value - if it exceeds 70%, get a scrap valuation before committing.",
@@ -801,14 +809,22 @@
         "years": "2013–2020",
         "keyEngines": "M270 (petrol), OM651 (diesel), M133 (AMG)",
         "whyBmwChanged": "Mercedes entered the compact SUV segment to compete with the BMW X1 and Audi Q3. The X156 used the same M270 petrol and OM651 diesel engines as the A-Class and CLA-well-understood, but the OM651 carried the \"Black Death\" injector seal risk.",
-        "worthKnowing": "The GLA 220 CDI with OM651 developed into the most durable engine of the entire generation-a service life of 400,000 kilometres was common, proving the engine's robustness when properly maintained."
+        "worthKnowing": "The GLA 220 CDI with OM651 developed into the most durable engine of the entire generation-a service life of 400,000 kilometres was common, proving the engine's robustness when properly maintained.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "X156 - the original compact SUV"
+        }
       },
       {
         "era": "H247 - the modern era",
         "years": "2020–present",
         "keyEngines": "M282 (petrol), <a  href='https://mercedesengines.uk/engine/m260-m264'>M260</a>/M139 (petrol), OM654 (diesel), M264 (PHEV)",
         "whyBmwChanged": "Emissions regulations (Euro 6d) and the need for hybridisation forced Mercedes to downsize and modularise. The M282 1.3‑litre petrol (co‑developed with Renault) replaced the M270, and the OM654 replaced the OM651-both significantly more reliable. The GLA 250e PHEV added hybrid complexity.",
-        "worthKnowing": "The OM654 is the cleanest diesel ever fitted to a GLA-it's also used in the C‑Class and E‑Class, so parts and expertise are widely available. The M139 in the GLA 45 S AMG is the most powerful four‑cylinder production engine in the world (416 hp)."
+        "worthKnowing": "The OM654 is the cleanest diesel ever fitted to a GLA-it's also used in the C‑Class and E‑Class, so parts and expertise are widely available. The M139 in the GLA 45 S AMG is the most powerful four‑cylinder production engine in the world (416 hp).",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "H247 - the modern era"
+        }
       }
     ]
   },

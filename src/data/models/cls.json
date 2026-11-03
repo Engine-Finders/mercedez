@@ -764,7 +764,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every CLS Buyer",
-    "quote": "If you buy one CLS based on this page, make it a 2014–2016 C218 facelift with the OM654 diesel. It has the style that defines the CLS name, the modern engine with the cleanest reliability record, and values that have already absorbed the steepest depreciation - leaving you with a design icon that won't bankrupt you. MERCEDES CLS - SECTIONS 8-14"
+    "quote": "If you buy one CLS based on this page, make it a 2014–2016 C218 facelift with the OM654 diesel. It has the style that defines the CLS name, the modern engine with the cleanest reliability record, and values that have already absorbed the steepest depreciation - leaving you with a design icon that won't bankrupt you. MERCEDES CLS - SECTIONS 8-14",
+    "image": {
+      "src": "/model images/CLS.webp",
+      "alt": "Mercedes-Benz CLS"
+    }
   },
   "replacementCosts": {
     "h2": "Mercedes CLS Engine Replacement Costs - By Generation",
@@ -780,7 +784,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "cls"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a Mercedes CLS engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The CLS rule: generation is destiny A C219 CLS (2004–2011) worth £3,000–£9,000 faces a £3,200–£5,500 reconditioned engine cost - that's 40–70% of the car's value before you even pay for labour. A C257 CLS (2018–present) worth £18,000–£45,000 faces the same £3,000–£5,000 reconditioned cost for an OM654 - comfortably within the Mercedes 70% threshold. The same engine family can be a \"repair it\" on a modern CLS and a \"scrap it\" on an early C219. Our advice: if the lowest viable reconditioned cost exceeds 70% of what your CLS is actually worth on today's market, get a scrap valuation alongside any repair quote. For a pre-2014 C218 with OM651 showing early injector-seal symptoms, the answer is often \"fix it now before it becomes a full engine job.\" For a C219 with a seized OM629 V8, the honest answer is frequently \"walk away.\" We tell you when to fix it, when to fit a used engine, and when to walk away - because not every CLS is worth saving.",

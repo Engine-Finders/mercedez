@@ -53,11 +53,11 @@ function FailureRow({ row, isDark, compact = false }) {
   return (
     <Link
       href={href}
-      className={`grid grid-cols-[1.5rem_minmax(0,1fr)] gap-x-2 gap-y-1.5 border-b px-3.5 py-3 no-underline last:border-b-0 hover:no-underline md:items-start ${gridCols} ${
+      className={`grid grid-cols-[1.5rem_minmax(0,1fr)] gap-x-2 gap-y-1.5 border-b px-3.5 py-3 no-underline last:border-b-0 hover:no-underline md:items-center ${gridCols} ${
         isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
       }`}
     >
-      <span className={`pt-0.5 text-[0.78rem] font-normal tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>
+      <span className={`flex items-center justify-center self-center text-center text-[0.78rem] font-normal tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>
         {row.id}
       </span>
 
@@ -69,7 +69,7 @@ function FailureRow({ row, isDark, compact = false }) {
                 isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
               }`}
             >
-              <HomeIcon name={row.icon || "engine"} isDark={isDark} gold className="h-3.5 w-3.5" />
+              <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-3.5 w-3.5" />
             </span>
             <span className={`text-[0.8rem] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.title}
@@ -87,13 +87,13 @@ function FailureRow({ row, isDark, compact = false }) {
         </div>
       ) : (
         <>
-          <div className="flex min-w-0 items-start gap-2">
+          <div className="flex min-w-0 items-center gap-2.5">
             <span
-              className={`mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border ${
+              className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full border md:h-11 md:w-11 ${
                 isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
               }`}
             >
-              <HomeIcon name={row.icon || "engine"} isDark={isDark} gold className="h-4 w-4" />
+              <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-5 w-5 md:h-6 md:w-6" />
             </span>
             <span className={`text-[0.8rem] font-medium leading-snug md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.title}
@@ -113,7 +113,7 @@ function FailureRow({ row, isDark, compact = false }) {
           <div className="hidden md:block">
             <SeverityBadge severity={row.severity} isDark={isDark} />
           </div>
-          <span className="hidden whitespace-nowrap font-lora text-[0.78rem] font-medium md:inline md:pt-0.5" style={{ color: GOLD }}>
+          <span className="hidden whitespace-nowrap font-lora text-[0.78rem] font-medium md:inline" style={{ color: GOLD }}>
             {row.link?.label || "Read more →"}
           </span>
         </>
@@ -129,11 +129,11 @@ function FailureCard({ block, isDark, compact = false }) {
     <div className={`overflow-hidden rounded-xl border shadow-[0_6px_24px_rgba(10,26,43,0.05)] ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
       <div className={`flex items-center gap-2.5 border-b ${compact ? "px-3.5 py-3" : "px-4 py-3"} ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
         <span
-          className={`flex shrink-0 items-center justify-center rounded-full ${compact ? "h-8 w-8" : "h-9 w-9"} ${
+          className={`flex shrink-0 items-center justify-center rounded-full ${compact ? "h-8 w-8" : "h-11 w-11 md:h-12 md:w-12"} ${
             isDark ? "bg-white/10" : "bg-[#F5EAD4]"
           }`}
         >
-          <HomeIcon name={block.icon || "engine"} isDark={isDark} gold className={compact ? "h-4 w-4" : "h-5 w-5"} />
+          <HomeIcon name={block.icon || "engine"} isDark={isDark} className={compact ? "h-4 w-4" : "h-6 w-6 md:h-7 md:w-7"} />
         </span>
         <h3 className={`font-lora font-medium uppercase tracking-[0.04em] ${compact ? "text-[0.9rem]" : "text-[0.95rem] md:text-[1.05rem]"} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {block.title}
@@ -142,12 +142,14 @@ function FailureCard({ block, isDark, compact = false }) {
 
       {!compact ? (
         <div
-          className={`hidden border-b px-3.5 py-2 text-[0.62rem] font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[1.75rem_minmax(120px,1.1fr)_minmax(140px,1.35fr)_minmax(100px,0.9fr)_auto] md:gap-3 ${
+          className={`hidden items-center border-b px-3.5 py-2.5 text-[0.78rem] font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[1.75rem_minmax(120px,1.1fr)_minmax(140px,1.35fr)_minmax(100px,0.9fr)_auto] md:gap-3 ${
             isDark ? "border-white/10 bg-white/5 text-white/50" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
           }`}
         >
           {(block.columns || []).map((col) => (
-            <span key={col}>{col}</span>
+            <span key={col} className={col === "#" || col === "ID" ? "text-center" : undefined}>
+              {col}
+            </span>
           ))}
         </div>
       ) : null}
@@ -216,10 +218,10 @@ export default function HomeSec9({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <SectionLabel number={9} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             The Mercedes-Benz Failure Database
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

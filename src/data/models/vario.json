@@ -574,7 +574,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every Vario Buyer",
-    "quote": "The Vario is a commercial vehicle - buy it for work, not for weekend driving. The OM904 engine is robust and proven, but the economics of engine replacement must be weighed against the vehicle's remaining commercial life. Check parts availability before committing to any major repair - the Vario was discontinued in 2013, and some components are becoming hard to find. End of Sections 1-7 for Mercedes-Benz Vario Next: Say \"8-14\" to generate Sections 8-14 (Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, Closing Action Cards). MERCEDES-BENZ VARIO - SECTIONS 8-14"
+    "quote": "The Vario is a commercial vehicle - buy it for work, not for weekend driving. The OM904 engine is robust and proven, but the economics of engine replacement must be weighed against the vehicle's remaining commercial life. Check parts availability before committing to any major repair - the Vario was discontinued in 2013, and some components are becoming hard to find. End of Sections 1-7 for Mercedes-Benz Vario Next: Say \"8-14\" to generate Sections 8-14 (Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, Closing Action Cards). MERCEDES-BENZ VARIO - SECTIONS 8-14",
+    "image": {
+      "src": "/model images/Vario.webp",
+      "alt": "Mercedes-Benz Vario"
+    }
   },
   "replacementCosts": {
     "h2": "Vario Engine Replacement Costs - By Variant",
@@ -607,7 +611,11 @@
             "rebuiltSupply": "£3,500–£5,500",
             "labourHours": "14–20 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Vario (1996–2013) - OM602"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a Vario OM602 engine typically takes 14–20 hours at £65–£95/hr (independent commercial specialist) or £110–£160/hr (main dealer) [MB-QUOTE]. Vario (1996–2013) - OM904 Variant Engine Code Used (Supply) Reconditioned (Supply) Rebuilt (Supply) Labour Hours Vario 613D / 614D / 615D OM904 £1,200–£3,000 £2,500–£5,000 £4,500–£7,000 16–24 hrs Vario 614D / 615D Euro 3 OM904 £1,200–£3,000 £2,500–£5,000 £4,500–£7,000 16–24 hrs Vario 615D / 616D Euro 4/5 OM904 £1,500–£3,500 £3,000–£6,000 £5,000–£8,000 16–24 hrs Vario 617D / 618D OM904 £1,500–£3,500 £3,000–£6,000 £5,000–£8,000 16–24 hrs",
@@ -632,28 +640,44 @@
         "years": "1996–2000",
         "keyEngines": "OM602 (2.87L 5cyl), OM904 (4.25L 4cyl)",
         "whyBmwChanged": "The Vario replaced the T2 (1986–1996) - the OM602 was carried over from the Sprinter; the OM904 was introduced as a more powerful option",
-        "worthKnowing": "The OM904 was the engine Mercedes designed for the Vario and LN2 - the OM602 was the older design, carried over for lower-spec variants"
+        "worthKnowing": "The OM904 was the engine Mercedes designed for the Vario and LN2 - the OM602 was the older design, carried over for lower-spec variants",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Vario Launch - OM602 Carryover"
+        }
       },
       {
         "era": "Euro 2 to Euro 3 Transition",
         "years": "2000–2004",
         "keyEngines": "OM904 (updated electronics)",
         "whyBmwChanged": "Emissions regulations drove the switch to electronically controlled unit pump injectors and improved engine management",
-        "worthKnowing": "The OM904's unit pump injector system was advanced for its time - but it means injector failure is a £300–£800 repair per cylinder"
+        "worthKnowing": "The OM904's unit pump injector system was advanced for its time - but it means injector failure is a £300–£800 repair per cylinder",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Euro 2 to Euro 3 Transition"
+        }
       },
       {
         "era": "Euro 3 to Euro 5",
         "years": "2004–2013",
         "keyEngines": "OM904 (EGR, DPF on later variants)",
         "whyBmwChanged": "Euro 4 and Euro 5 emissions standards required EGR and, on some variants, DPF filters",
-        "worthKnowing": "Late Varios (2006–2013) carry EGR and DPF systems - these add complexity and potential failure points"
+        "worthKnowing": "Late Varios (2006–2013) carry EGR and DPF systems - these add complexity and potential failure points",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "Euro 3 to Euro 5"
+        }
       },
       {
         "era": "End of Production",
         "years": "2013",
         "keyEngines": "OM904 (final variant)",
         "whyBmwChanged": "The Vario was discontinued in 2013 with no direct successor - the Sprinter had grown to cover much of the Vario's market",
-        "worthKnowing": "The Vario's replacement was effectively the heavier Sprinter variants and the Atego light truck - but neither is a direct match for the Vario's 4.8–7.5 tonne weight range"
+        "worthKnowing": "The Vario's replacement was effectively the heavier Sprinter variants and the Atego light truck - but neither is a direct match for the Vario's 4.8–7.5 tonne weight range",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "End of Production"
+        }
       }
     ]
   },
