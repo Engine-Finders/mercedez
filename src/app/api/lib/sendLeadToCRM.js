@@ -3,12 +3,14 @@ import { LEAD_SOURCE } from "@/app/api/lib/leadConfig";
 
 const SUPABASE_WEBHOOK_URL =
   process.env.SUPABASE_WEBHOOK_URL ||
-  "https://gfrnxvolaqbfalerfhsr.supabase.co/functions/v1/receive-lead";
+  "";
 
-const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || "";
+const SUPABASE_ANON_KEY =
+  process.env.SUPABASE_ANON_KEY ||
+  "REDACTED";
 
 const SUPABASE_URL =
-  process.env.SUPABASE_URL || "https://gfrnxvolaqbfalerfhsr.supabase.co";
+  process.env.SUPABASE_URL || "";
 
 /**
  * POST a lead to the central Supabase receive-lead Edge Function.

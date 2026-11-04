@@ -7,8 +7,10 @@ const LEAD_RECIPIENT_EMAIL =
   process.env.LEAD_EMAIL_RECIPIENT || process.env.SMTP_TO_EMAIL || "ef2crm@gmail.com";
 const SUPABASE_WEBHOOK_URL =
   process.env.SUPABASE_WEBHOOK_URL ||
-  "https://gfrnxvolaqbfalerfhsr.supabase.co/functions/v1/receive-lead";
-const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || "";
+  "";
+const SUPABASE_ANON_KEY =
+  process.env.SUPABASE_ANON_KEY ||
+  "REDACTED";
 
 const resend = new Resend(RESEND_API_KEY);
 
@@ -101,15 +103,18 @@ export async function POST(req) {
     }
 
     // 2. Optional Supabase / Webhook forwarding
-    const supabaseWebhookUrl = process.env.SUPABASE_WEBHOOK_URL;
-    const supabaseAnonKey = process.env.SUPABASE_ANON_KEY;
-    if (supabaseWebhookUrl) {
+    if (SUPABASE_WEBHOOK_URL) {
       try {
-        await fetch(supabaseWebhookUrl, {
+        await fetch(SUPABASE_WEBHOOK_URL, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            ...(supabaseAnonKey ? { Authorization: `Bearer ${supabaseAnonKey}` } : {}),
+            ...(SUPABASE_ANON_KEY
+              ? {
+                  Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+                  apikey: SUPABASE_ANON_KEY,
+                }
+              : {}),
           },
           body: JSON.stringify({
             name,
