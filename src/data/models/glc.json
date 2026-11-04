@@ -738,7 +738,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every GLC Buyer",
-    "quote": "Buy a post‑2018 X253 with the OM654 diesel, or stretch to an X254 - both carry the ✅ Safe verdict in our data. The pre‑2018 OM651 is a viable used‑buy if the injector seals have been done, but the OM654's cleaner record makes the facelift X253 the clear sweet spot. The GLC is the Mercedes SUV that makes the most financial and engineering sense in 2026. MERCEDES GLC - SECTIONS 8-14"
+    "quote": "Buy a post‑2018 X253 with the OM654 diesel, or stretch to an X254 - both carry the ✅ Safe verdict in our data. The pre‑2018 OM651 is a viable used‑buy if the injector seals have been done, but the OM654's cleaner record makes the facelift X253 the clear sweet spot. The GLC is the Mercedes SUV that makes the most financial and engineering sense in 2026. MERCEDES GLC - SECTIONS 8-14",
+    "image": {
+      "src": "/model images/GLC.webp",
+      "alt": "Mercedes-Benz GLC"
+    }
   },
   "replacementCosts": {
     "h2": "GLC Engine Replacement Costs - By Generation",
@@ -754,7 +758,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "glc"
+        }
       },
       {
         "title": "GLC 220d / GLC 250d (pre-2018)",
@@ -766,7 +774,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "GLC 220d / GLC 250d (pre-2018)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a GLC engine typically takes 8–16 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer). AMG variants require specialist tooling and take longer - budget 16–20 hours for M139 work [MB-QUOTE]. The GLC rule - safe at any price: An X253 GLC 220d (OM651) at typical market value of £14,000–£38,000 against a £2,800–£4,800 recon cost sits at 7–34% - comfortably below our 70% threshold [THIRD-PARTY]. An X254 GLC 220d (OM654) at £28,000–£55,000 against £3,000–£5,000 sits at 5–18% - trivially safe [MB-QUOTE]. The honest advice: fix any GLC that needs an engine - the car is worth far more than the work. The only caveat is the M139 AMG - at £6,000–£10,000 recon against a £40,000–£80,000 X254 GLC 63, it's still safe (8–25%), but the specialist pool is smaller and you need to be confident in the workshop doing the work.",
@@ -791,21 +803,33 @@
         "years": "2015–2018",
         "keyEngines": "OM651 2.1 CDI, M274 2.0 turbo petrol, M276 3.0 V6 (GLC 43)",
         "whyBmwChanged": "Mercedes entered the compact luxury SUV segment with the GLC - replacing the GLK (which was never sold in the UK). The GLC used the MRA platform, shared with the C-Class, and adopted the same engine range.",
-        "worthKnowing": "The OM651 diesel is the defining engine of this era - but it carries the \"Black Death\" injector-seal caveat. The M274 petrol is reliable but less common in the UK market (diesel dominates at 80%+ of enquiries) [MB‑VERIFIED]."
+        "worthKnowing": "The OM651 diesel is the defining engine of this era - but it carries the \"Black Death\" injector-seal caveat. The M274 petrol is reliable but less common in the UK market (diesel dominates at 80%+ of enquiries) [MB‑VERIFIED].",
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "First Generation - X253 Launch"
+        }
       },
       {
         "era": "X253 Facelift",
         "years": "2018–2022",
         "keyEngines": "OM654 2.0 CDI (replacing OM651), M274 (updated), M276 (updated)",
         "whyBmwChanged": "Emissions‑driven: the OM654 replaced the OM651 across the Mercedes range - it's a cleaner, more modular design that also improved reliability (fewer injector-seal failures, better AdBlue system).",
-        "worthKnowing": "This is the defining sweet spot. The OM654 is materially more reliable than the OM651 - 2018+ X253 GLC 220d is the best used GLC buy in our data. The facelift also brought MBUX infotainment and better electronics."
+        "worthKnowing": "This is the defining sweet spot. The OM654 is materially more reliable than the OM651 - 2018+ X253 GLC 220d is the best used GLC buy in our data. The facelift also brought MBUX infotainment and better electronics.",
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "X253 Facelift"
+        }
       },
       {
         "era": "Second Generation - X254 Launch",
         "years": "2022–present",
         "keyEngines": "OM654 (all diesel variants), M254 2.0 turbo petrol (mild hybrid), M139 2.0 turbo petrol (AMG)",
         "whyBmwChanged": "The X254 moved to the second-generation MRA platform - all engines are electrified (mild hybrid or plug-in hybrid), and the OM651 is finally retired. The AMG GLC 63 uses the M139 - the most powerful 2.0‑litre production engine ever fitted to a Mercedes SUV.",
-        "worthKnowing": "The X254 is the safest Mercedes SUV in our data - the OM654‑only diesel range carries none of the OM651's caveats, and the vehicle value is high enough that replacement cost is almost trivial. The M139 AMG is a specialist option - powerful, but maintenance‑heavy."
+        "worthKnowing": "The X254 is the safest Mercedes SUV in our data - the OM654‑only diesel range carries none of the OM651's caveats, and the vehicle value is high enough that replacement cost is almost trivial. The M139 AMG is a specialist option - powerful, but maintenance‑heavy.",
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Second Generation - X254 Launch"
+        }
       }
     ]
   },

@@ -771,7 +771,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We’d Tell Every CLA Buyer",
-    "quote": "Buy a 2023+ C118 CLA 200 with the M282 1.3 petrol - it’s the most reliable, cheapest‑to‑run CLA you can own. If you must have a diesel, choose the OM654 in a post‑2020 C118 and insist on full service history. Avoid any C117 OM651 diesel without documented injector‑seal replacement - the “Black Death” repair bill can exceed the car’s value."
+    "quote": "Buy a 2023+ C118 CLA 200 with the M282 1.3 petrol - it’s the most reliable, cheapest‑to‑run CLA you can own. If you must have a diesel, choose the OM654 in a post‑2020 C118 and insist on full service history. Avoid any C117 OM651 diesel without documented injector‑seal replacement - the “Black Death” repair bill can exceed the car’s value.",
+    "image": {
+      "src": "/model images/Cla.webp",
+      "alt": "Mercedes-Benz CLA"
+    }
   },
   "replacementCosts": {
     "h2": "CLA Engine Replacement Costs - By Generation",
@@ -787,7 +791,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "cla"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a CLA engine typically takes 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The CLA rule - generation is everything: A £2,800–£4,800 OM651 recon against a £3,000–£6,000 C117 CLA diesel sits at 80–95% of the car's value - above our 70% threshold for Mercedes-Benz. If you're facing an OM651 failure in a C117, get a scrap valuation before you authorise any repair. By contrast, a £3,000–£5,000 OM654 recon against an £8,000–£25,000 C118 CLA sits comfortably at 20–60% of the car's value - well within safe territory. For C117 M270 petrols, the £1,500–£3,200 recon against a £4,000–£8,000 car sits at 38–80% - borderline on lower-value examples, safe on better cars. In short: repair a C118, evaluate a C117 petrol carefully, and walk away from a C117 diesel without full history.",
@@ -812,35 +820,55 @@
         "years": "2013–2019",
         "keyEngines": "M270 1.6/2.0 petrol, OM651 2.1 diesel",
         "whyBmwChanged": "Mercedes launched the CLA as a four‑door coupé based on the W176 A‑Class platform - the engines were carried over directly from the A‑Class range, with the OM651 diesel already carrying its “Black Death” reputation from the C‑Class and E‑Class",
-        "worthKnowing": "The C117 shares its platform and most engines with the W176 A‑Class - if you're researching CLA reliability, the A‑Class data is directly relevant"
+        "worthKnowing": "The C117 shares its platform and most engines with the W176 A‑Class - if you're researching CLA reliability, the A‑Class data is directly relevant",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "First Generation - A‑Class Platform"
+        }
       },
       {
         "era": "Second Generation - W177 Platform",
         "years": "2019–2025",
         "keyEngines": "M282 1.3 petrol, M260 2.0 petrol, OM654 2.0 diesel, OM608 1.5 diesel, M139 2.0 AMG",
         "whyBmwChanged": "The C118 moved to the new W177 A‑Class platform - the OM651 was replaced by the cleaner OM654 diesel (materially fewer failure reports), and the M270 was replaced by the Renault‑sourced M282 1.3 (more efficient but with its own coolant‑leak caveats)",
-        "worthKnowing": "The Renault‑Nissan‑Mercedes M282 engine is shared with the Renault Mégane and Nissan Qashqai - parts are cheap and widely available, but early units had software and coolant issues that were largely resolved by 2021"
+        "worthKnowing": "The Renault‑Nissan‑Mercedes M282 engine is shared with the Renault Mégane and Nissan Qashqai - parts are cheap and widely available, but early units had software and coolant issues that were largely resolved by 2021",
+        "image": {
+          "src": "/cars/a-class-w177-standard amg line-hatchback-2018–2022-new-amg green hell magno-major new generation-a-class w177 std amg-45-angle-front-view.webp",
+          "alt": "Second Generation - W177 Platform"
+        }
       },
       {
         "era": "Second Generation Facelift",
         "years": "2023–2025",
         "keyEngines": "M282 1.3 (updated), OM654 (updated), M139 (updated)",
         "whyBmwChanged": "The 2023 facelift brought updated electronics, improved M282 cooling system design, and software refinements for the OM654’s AdBlue system - the facelift is the safest C118 buy",
-        "worthKnowing": "The facelift addressed most of the early C118 gremlins - if you're buying a C118, prioritise 2023+ examples"
+        "worthKnowing": "The facelift addressed most of the early C118 gremlins - if you're buying a C118, prioritise 2023+ examples",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Second Generation Facelift"
+        }
       },
       {
         "era": "Third Generation - New Platforms",
         "years": "2025–present",
         "keyEngines": "M252 1.5 petrol hybrid, electric (EQ)",
         "whyBmwChanged": "The third‑generation CLA (C178/C174) introduces 48‑volt mild hybrid and full‑electric variants on new MMA platform - too early for reliability data",
-        "worthKnowing": "The new generation splits into two architectures: the C178 is the combustion/hybrid version; the C174 is the full‑electric CLA - they share a platform but have completely different powertrains"
+        "worthKnowing": "The new generation splits into two architectures: the C178 is the combustion/hybrid version; the C174 is the full‑electric CLA - they share a platform but have completely different powertrains",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Third Generation - New Platforms"
+        }
       },
       {
         "era": "SECTION 11 - REPAIR OR REPLACE? - <CalculatorCTA>",
         "years": "H2: Can I Repair My CLA Engine - or Should I Replace It?",
         "keyEngines": "If you've got an OM651 diesel in a C117 CLA, the numbers are brutal - a £2,800–£4,800 recon against a £3,000–£6,000 car means replacement cost can exceed 70% of the car's value. For a C118 CLA with the OM654 or M282, replacement is comfortably within the car's value. Use our diagnostic calculator to get a personalised verdict.",
         "whyBmwChanged": "Path 1 - Know your engine? Launch the Mercedes calculator with CLA pre-selected → /fault-diagnostic-calculator?model=cla",
-        "worthKnowing": "Path 2 - Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)"
+        "worthKnowing": "Path 2 - Not sure which engine you have? We'll identify it first → /fault-diagnostic-calculator (identification happens as step one inside the tool)",
+        "image": {
+          "src": "/cars/cla-c118-coupé-4-door coupé-2019–2023-new-polar white-new generation-cla c118-45-angle-front-view.webp",
+          "alt": "SECTION 11 - REPAIR OR REPLACE? - <CalculatorCTA>"
+        }
       }
     ]
   },

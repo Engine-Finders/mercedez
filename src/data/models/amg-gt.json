@@ -652,7 +652,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every AMG GT Buyer",
-    "quote": "Buy a post‑2017 C190 AMG GT S with the M178 V8, full service history, and budget £800–£2,000 for a preventative turbo‑actuator inspection. The V8 is the heart of the GT - the four‑cylinder C192 is a compromise, and the C190 is the value sweet spot that still delivers the full AMG experience. If you're buying one, buy the V8. End of Sections 1-7 for Mercedes-AMG GT. Ready for Sections 8-14 when you're ready. MERCEDES-AMG GT - SECTIONS 8-14"
+    "quote": "Buy a post‑2017 C190 AMG GT S with the M178 V8, full service history, and budget £800–£2,000 for a preventative turbo‑actuator inspection. The V8 is the heart of the GT - the four‑cylinder C192 is a compromise, and the C190 is the value sweet spot that still delivers the full AMG experience. If you're buying one, buy the V8. End of Sections 1-7 for Mercedes-AMG GT. Ready for Sections 8-14 when you're ready. MERCEDES-AMG GT - SECTIONS 8-14",
+    "image": {
+      "src": "/model images/Amg-gt.webp",
+      "alt": "Mercedes-Benz AMG GT"
+    }
   },
   "replacementCosts": {
     "h2": "AMG GT Engine Replacement Costs - By Generation",
@@ -668,7 +672,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "amg-gt"
+        }
       },
       {
         "title": "AMG GT / GT S (pre-2018)",
@@ -680,7 +688,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "AMG GT / GT S (pre-2018)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting an AMG GT engine is a specialist job - 16–30 hours at £95–£150/hr (independent specialist) or £160–£220/hr (London/SE dealer). AMG-specific tooling and expertise are required, especially on the M178 and hybrid systems [MB-QUOTE]. The AMG GT rule - engine cost vs car value is the defining tension: A C190 AMG GT S (2017–2020) at typical market value of £55,000–£85,000 against a £6,000–£10,000 recon cost sits at 7–18% - comfortably below our 70% threshold [THIRD-PARTY]. A C192 AMG GT 63 S E Performance at £120,000–£200,000 against a £10,000–£18,000 recon cost sits at 5–15% - trivially safe [MB-QUOTE]. The honest advice: the engine replacement cost is never the issue on an AMG GT - the car is worth far more than the work. The real cost is depreciation. A £120,000 new GT 63 S E Performance will lose £30,000–£50,000 in its first three years; the engine replacement cost is a small fraction of that. Buy a C190 used if you want the value sweet spot; buy a C192 if you want the latest tech and are prepared for the depreciation hit.",
@@ -705,28 +717,44 @@
         "years": "2015–2018",
         "keyEngines": "M178 4.0 V8 biturbo (GT, GT S)",
         "whyBmwChanged": "Mercedes-AMG created the GT as a standalone model - the first car designed entirely by AMG, not a modified Mercedes. The M178 is a dry-sump, front-mid-engined V8 specifically designed for the GT's low centre of gravity.",
-        "worthKnowing": "The early M178 (2015–2017) has the most caveats - timing chain tensioner wear and turbo actuator failures are the main concerns. Buy a 2017+ example for the revised tensioner."
+        "worthKnowing": "The early M178 (2015–2017) has the most caveats - timing chain tensioner wear and turbo actuator failures are the main concerns. Buy a 2017+ example for the revised tensioner.",
+        "image": {
+          "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+          "alt": "First Generation - C190/R190 Launch"
+        }
       },
       {
         "era": "C190 Facelift / Expanded Range",
         "years": "2018–2022",
         "keyEngines": "M178 (revised, higher outputs - GT C, GT R, GT R Pro, Black Series)",
         "whyBmwChanged": "AMG expanded the GT range to compete with Porsche's 911 lineup - the GT C is the \"comfortable\" V8, the GT R is the track-focused version, and the Black Series is the halo. The M178 received revisions to timing chain tensioner, oil system, and turbocharger management.",
-        "worthKnowing": "This is the sweet spot. The post-2018 M178 is the most reliable GT engine - fewer failure reports, better parts support, and the GT S (510–522 bhp) is the value-for-money champion."
+        "worthKnowing": "This is the sweet spot. The post-2018 M178 is the most reliable GT engine - fewer failure reports, better parts support, and the GT S (510–522 bhp) is the value-for-money champion.",
+        "image": {
+          "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+          "alt": "C190 Facelift / Expanded Range"
+        }
       },
       {
         "era": "GT 4-Door (X290)",
         "years": "2019–present",
         "keyEngines": "M178 4.0 V8, M256 3.0 six-cylinder mild hybrid",
         "whyBmwChanged": "The GT became a four-door model for the first time - sharing the MRA platform with the E-Class and CLS. The M256 straight-six offered a less expensive entry point to the GT badge.",
-        "worthKnowing": "The GT 4-door is a different car to the two-door GT - it's more of an E-Class coupe competitor than a Porsche 911 rival. The M256 is a proven, reliable engine."
+        "worthKnowing": "The GT 4-door is a different car to the two-door GT - it's more of an E-Class coupe competitor than a Porsche 911 rival. The M256 is a proven, reliable engine.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "GT 4-Door (X290)"
+        }
       },
       {
         "era": "Second Generation - C192 Launch",
         "years": "2024–present",
         "keyEngines": "M139 2.0 four-cylinder (GT 43), M178 4.0 V8 (GT 55/63), M177 4.0 V8 + PHEV (GT 63 S E Performance)",
         "whyBmwChanged": "The C192 moved to a new platform - 4MATIC+ AWD is standard on V8 models, and the entry-level GT 43 uses the M139 four-cylinder (the same engine as the A45 S). The range-topping GT 63 S E Performance is a plug-in hybrid V8 with 843 bhp.",
-        "worthKnowing": "The C192 is a more complex, more capable car - but the four-cylinder entry model is controversial. The V8 models are spectacular; the GT 43 is a compromise for buyers who want the badge but can't stretch to the V8."
+        "worthKnowing": "The C192 is a more complex, more capable car - but the four-cylinder entry model is controversial. The V8 models are spectacular; the GT 43 is a compromise for buyers who want the badge but can't stretch to the V8.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Second Generation - C192 Launch"
+        }
       }
     ]
   },

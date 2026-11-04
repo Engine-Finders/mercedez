@@ -650,7 +650,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every V-Class Buyer",
-    "quote": "Buy the 2019 facelift with the OM654 2.0-litre diesel. The pre-2019 OM651 cars are cheaper to buy, but the timing chain and injector issues make them a false economy on a £15,000+ vehicle. The OM654 is materially more reliable, more efficient, and comes with the 9G-Tronic gearbox - it's the V-Class to own. End of Sections 1–7. Ready for 8–14 when you are."
+    "quote": "Buy the 2019 facelift with the OM654 2.0-litre diesel. The pre-2019 OM651 cars are cheaper to buy, but the timing chain and injector issues make them a false economy on a £15,000+ vehicle. The OM654 is materially more reliable, more efficient, and comes with the 9G-Tronic gearbox - it's the V-Class to own. End of Sections 1–7. Ready for 8–14 when you are.",
+    "image": {
+      "src": "/model images/V-class.webp",
+      "alt": "Mercedes-Benz V-Class"
+    }
   },
   "replacementCosts": {
     "h2": "V-Class Engine Replacement Costs - By Engine Era",
@@ -691,7 +695,11 @@
             "rebuiltSupply": "£3,000–£4,500",
             "labourHours": "10–14 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W447 V-Class Pre-Facelift (2014–2019) - OM651 2.2 Diesel"
+        }
       },
       {
         "title": "W447 V-Class Facelift (2019–present) - OM654 2.0 Diesel",
@@ -728,7 +736,11 @@
             "rebuiltSupply": "£4,000–£6,000",
             "labourHours": "10–14 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W447 V-Class Facelift (2019–present) - OM654 2.0 Diesel"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a V-Class engine typically takes 10–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER - confirm vs cost sheet]. The V-Class's large front engine bay improves access compared to smaller Mercedes models, but the sheer size and weight of the vehicle adds time for lifting and alignment. The V-Class rule - the facelift is the smarter buy: A £1,800–£3,200 OM654 recon on a £25,000–£40,000 2019+ V-Class sits at 5–13% of the car's value - well below our 70% threshold for Mercedes-Benz. But a £1,500–£2,800 OM651 recon on a £13,000–£20,000 pre-2019 V-Class sits at 10–21% - still viable, but the real cost is the higher probability of needing that work in the first place. The OM654 is materially more reliable, and the vehicle values are high enough that replacement is almost always justified. Buy the facelift if your budget allows; the OM651 is a false economy on a premium people carrier.",
@@ -753,21 +765,33 @@
         "years": "2014–2015",
         "keyEngines": "OM651 2.2 diesel (136–190 PS)",
         "whyBmwChanged": "Mercedes relaunched the V-Class in 2014 to replace the Viano - a premium people carrier based on the Vito platform, but with a much more luxurious interior and a focus on the chauffeur/executive market.",
-        "worthKnowing": "The OM651 2.2-litre diesel was already well-proven in the C-Class, E-Class and Sprinter. It offered good economy and reasonable performance for a 2.5-tonne vehicle."
+        "worthKnowing": "The OM651 2.2-litre diesel was already well-proven in the C-Class, E-Class and Sprinter. It offered good economy and reasonable performance for a 2.5-tonne vehicle.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W447 Launch - The Modern V-Class"
+        }
       },
       {
         "era": "OM651 Evolution - BlueTEC and Power Upgrades",
         "years": "2015–2019",
         "keyEngines": "OM651 2.2 diesel (136–190 PS, with AdBlue)",
         "whyBmwChanged": "Mercedes updated the OM651 with AdBlue/SCR emissions systems to meet Euro 6 standards. Power outputs remained broadly similar, but the emissions hardware added complexity.",
-        "worthKnowing": "The OM651 is a workhorse engine - capable of 200,000+ miles with proper maintenance - but the timing chain and injector issues are well-documented."
+        "worthKnowing": "The OM651 is a workhorse engine - capable of 200,000+ miles with proper maintenance - but the timing chain and injector issues are well-documented.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "OM651 Evolution - BlueTEC and Power Upgrades"
+        }
       },
       {
         "era": "W447 Facelift - OM654 Introduction",
         "years": "2019–present",
         "keyEngines": "OM654 2.0 diesel (163–239 PS)",
         "whyBmwChanged": "The facelift brought the OM654 2.0-litre diesel - a cleaner, more efficient, more powerful engine that also reduced internal friction and improved fuel economy by up to 13%. The 9G-Tronic automatic replaced the older 7G-Tronic.",
-        "worthKnowing": "The OM654 is a significant step forward. The V 300 d (239 PS) offers genuinely brisk performance for a 2.5-tonne people carrier - 0-60 in 7.9 seconds. The facelift also brought better interiors, MBUX infotainment, and updated driver assistance systems."
+        "worthKnowing": "The OM654 is a significant step forward. The V 300 d (239 PS) offers genuinely brisk performance for a 2.5-tonne people carrier - 0-60 in 7.9 seconds. The facelift also brought better interiors, MBUX infotainment, and updated driver assistance systems.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W447 Facelift - OM654 Introduction"
+        }
       }
     ]
   },

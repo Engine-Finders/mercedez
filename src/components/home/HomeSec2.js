@@ -25,7 +25,7 @@ function VerdictBadge({ verdict, isDark }) {
 
   return (
     <span className={`inline-flex items-start gap-1.5 text-left text-[0.7rem] font-light leading-[1.25] no-underline md:text-[0.78rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-      <HomeIcon name={icon} isDark={isDark} gold className="mt-0.5 h-5 w-5 shrink-0" />
+      <HomeIcon name={icon} isDark={isDark} className="mt-0.5 h-5 w-5 shrink-0" />
       <span className="font-light no-underline">{verdict?.text}</span>
     </span>
   );
@@ -90,10 +90,10 @@ export default function HomeSec2({ data }) {
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
           <div className="max-w-[640px]">
-            <SectionLabel number={2} isDark={isDark} />
             <h2 className={`font-lora text-[2.2rem] font-medium leading-[1.05] md:text-[3.1rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Find Your Vehicle
             </h2>
+            <SectionLabel isDark={isDark} />
             <p className={`mt-2 max-w-[520px] text-[0.92rem] leading-[1.4] md:text-[1.05rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
               {data.subHeadline}
             </p>

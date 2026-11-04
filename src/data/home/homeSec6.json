@@ -28,12 +28,20 @@
   ],
   "matrix": {
     "title": "The Decision Matrix",
-    "columns": ["MODEL & ENGINE", "TYPICAL VEHICLE VALUE", "REPLACEMENT COST (RECON)", "VERDICT"],
+    "columns": [
+      "MODEL & ENGINE",
+      "TYPICAL VEHICLE VALUE",
+      "REPLACEMENT COST (RECON)",
+      "VERDICT"
+    ],
     "rows": [
       {
         "model": "C-Class W203",
         "engine": "OM651, later units",
-        "image": { "src": "/right.webp", "alt": "C-Class W203" },
+        "image": {
+          "src": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203-45-angle-front-view.webp",
+          "alt": "C-Class W203"
+        },
         "vehicleValue": "£1,500–£5,000",
         "vehicleSource": "THIRD-PARTY",
         "replacementCost": "£2,800–£4,800",
@@ -48,7 +56,10 @@
       {
         "model": "C-Class W205",
         "engine": "OM651/OM654",
-        "image": { "src": "/right.webp", "alt": "C-Class W205" },
+        "image": {
+          "src": "/cars/c-class-w205-standard amg line-saloon-2014–2018-new-jupiter red-new generation-c-class w205 std amg-45-angle-front-view.webp",
+          "alt": "C-Class W205"
+        },
         "vehicleValue": "£8,000–£22,000",
         "vehicleSource": "THIRD-PARTY",
         "replacementCost": "£2,800–£5,000",
@@ -63,7 +74,10 @@
       {
         "model": "E-Class W212",
         "engine": "OM651/OM642",
-        "image": { "src": "/right.webp", "alt": "E-Class W212" },
+        "image": {
+          "src": "/cars/cls-c218-coupé-4-door coupé-2011–2014-new-designo diamond white bright-new generation-cls c218-45-angle-front-view.webp",
+          "alt": "E-Class W212"
+        },
         "vehicleValue": "£5,000–£18,000",
         "vehicleSource": "THIRD-PARTY",
         "replacementCost": "£2,800–£5,500",
@@ -78,7 +92,10 @@
       {
         "model": "GLC X253",
         "engine": "OM651/OM654",
-        "image": { "src": "/right.webp", "alt": "GLC X253" },
+        "image": {
+          "src": "/cars/c-class-w205-standard amg line-saloon-2014–2018-new-jupiter red-new generation-c-class w205 std amg-45-angle-front-view.webp",
+          "alt": "GLC X253"
+        },
         "vehicleValue": "£14,000–£38,000",
         "vehicleSource": "THIRD-PARTY",
         "replacementCost": "£2,800–£5,000",
@@ -93,7 +110,10 @@
       {
         "model": "S-Class W221",
         "engine": "OM642/M276",
-        "image": { "src": "/right.webp", "alt": "S-Class W221" },
+        "image": {
+          "src": "/cars/cls-c218-coupé-4-door coupé-2011–2014-new-designo diamond white bright-new generation-cls c218-45-angle-front-view.webp",
+          "alt": "S-Class W221"
+        },
         "vehicleValue": "£5,000–£18,000",
         "vehicleSource": "THIRD-PARTY",
         "replacementCost": "£3,200–£6,500",
@@ -108,7 +128,10 @@
       {
         "model": "AMG (M177 V8)",
         "engine": "M177 V8",
-        "image": { "src": "/right.webp", "alt": "AMG M177" },
+        "image": {
+          "src": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp",
+          "alt": "AMG (M177 V8)"
+        },
         "vehicleValue": "£30,000–£120,000",
         "vehicleSource": "THIRD-PARTY",
         "replacementCost": "£8,000–£14,000",
@@ -165,8 +188,17 @@
   },
   "footerNote": "Based on 2025 UK market data, MB-QUOTE recon costs, and third-party vehicle values.",
   "footerTrust": [
-    { "icon": "independent", "label": "Independent & Impartial" },
-    { "icon": "shield", "label": "Transparent Data" },
-    { "icon": "pin", "label": "UK Focused" }
+    {
+      "icon": "independent",
+      "label": "Independent & Impartial"
+    },
+    {
+      "icon": "shield",
+      "label": "Transparent Data"
+    },
+    {
+      "icon": "pin",
+      "label": "UK Focused"
+    }
   ]
 }

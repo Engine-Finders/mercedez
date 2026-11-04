@@ -6,8 +6,6 @@ import { useTheme } from "@/components/shared/themeProvider";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 
-const CTA_COLOR = GOLD;
-
 const trustStripIconKeys = [
   "real-inquiries",
   "vetted-specialist",
@@ -102,7 +100,7 @@ export default function HomeSec1({ data }) {
         />
       </div>
 
-      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-3 pt-5 md:min-h-[560px] md:justify-center md:px-6 md:py-6 lg:px-8">
+      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-0 pt-5 md:min-h-[560px] md:justify-center md:px-6 md:pb-1 md:pt-6 lg:px-8">
         <div className="relative grid w-full items-center gap-0 md:grid-cols-[minmax(0,1.05fr)_minmax(280px,0.95fr)] md:gap-4 lg:gap-5">
           <div className="relative flex w-full max-w-[720px] flex-col gap-2.5 md:gap-3">
             {/* Eyebrow */}
@@ -114,8 +112,13 @@ export default function HomeSec1({ data }) {
               >
                 {eyebrow}
               </p>
-              {/* Gold accent line (mobile + desktop) */}
-              <span className="block h-[2px] w-14" style={{ backgroundColor: GOLD }} aria-hidden="true" />
+              <span
+                className="block h-[2px] w-14"
+                style={{
+                  background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.22) 100%)`,
+                }}
+                aria-hidden="true"
+              />
             </div>
 
             {/* H1 */}
@@ -127,8 +130,13 @@ export default function HomeSec1({ data }) {
               >
                 The UK&apos;s Most Trusted Mercedes-Benz Ownership Guide
               </h1>
-              {/* Gold accent strip (mobile + desktop) */}
-              <span className="block h-[2px] w-14" style={{ backgroundColor: GOLD }} aria-hidden="true" />
+              <span
+                className="block h-[2px] w-14 md:w-16"
+                style={{
+                  background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.22) 100%)`,
+                }}
+                aria-hidden="true"
+              />
             </div>
 
             <p
@@ -138,19 +146,23 @@ export default function HomeSec1({ data }) {
               dangerouslySetInnerHTML={{ __html: data.subHeadline }}
             />
 
+            {/* Light: black fill + white text · Dark: white border + white text */}
             <Link
               href={ctaHref}
-              className="btn-cta mt-1 inline-flex w-fit items-center justify-center gap-3 rounded-md px-5 py-3 text-[0.84rem] font-bold tracking-[0.04em] text-white md:px-7 md:py-3.5 md:text-[0.9rem]"
-              style={{ backgroundColor: CTA_COLOR }}
+              className={`btn-cta mt-1 inline-flex w-fit items-center justify-center gap-3 rounded-md px-5 py-3 text-[0.84rem] font-bold tracking-[0.04em] md:px-7 md:py-3.5 md:text-[0.9rem] ${
+                isDark
+                  ? "border border-white bg-transparent text-white"
+                  : "border border-transparent bg-[#0a0a0a] text-white"
+              }`}
             >
               <span>{ctaLabel}</span>
               <ArrowIcon className="h-4 w-4" />
             </Link>
           </div>
 
-          {/* Car image on the right (desktop) / below copy (mobile) */}
+          {/* Car — pushed down to sit on BG floor */}
           <div className="relative mx-auto -mt-3 mb-0 flex w-full max-w-[520px] items-end justify-center md:mx-0 md:mt-0 md:max-w-none md:justify-end">
-            <div className="relative h-[210px] w-full translate-y-8 md:h-auto md:aspect-[5/4] md:min-h-[320px] md:translate-y-10">
+            <div className="relative h-[210px] w-full translate-y-14 md:h-auto md:aspect-[5/4] md:min-h-[320px] md:translate-y-20 lg:translate-y-24">
               <Image
                 src={carImageSrc}
                 alt={data.image?.alt || "Mercedes-AMG GT"}
@@ -164,7 +176,7 @@ export default function HomeSec1({ data }) {
           </div>
         </div>
 
-        {/* Mobile trust badges - stacked list (ref): metric row + label row */}
+        {/* Mobile trust badges — gold circle border, black icons */}
         <ul className={`mt-1 w-full md:hidden ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {trustStrip.map((item, index) => {
             const stat = splitStat(item.label);
@@ -172,23 +184,24 @@ export default function HomeSec1({ data }) {
             return (
               <li
                 key={item.label}
-                className={`flex items-center gap-3.5 border-b py-3.5 first:border-t first:pt-3.5 last:border-b-0 ${
+                className={`flex items-center gap-3 border-b py-3 first:border-t first:pt-3 last:border-b-0 ${
                   isDark ? "border-white/15" : "border-[rgba(0,0,0,0.1)]"
                 }`}
               >
                 <span
-                  className={`flex h-14 w-14 shrink-0 items-center justify-center rounded-full border ${
-                    isDark ? "border-white/20 bg-white/5" : "border-[#EDE6D8] bg-white/80"
+                  className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-full border ${
+                    isDark ? "bg-white/5" : "bg-white/80"
                   }`}
+                  style={{ borderColor: GOLD }}
                 >
-                  <HomeIcon name={iconKey} isDark={isDark} gold className="h-9 w-9 object-contain" />
+                  <HomeIcon name={iconKey} tone="black" className="h-6 w-6 object-contain" />
                 </span>
                 <span className="min-w-0">
                   {stat.value ? (
-                    <strong className="font-lora block text-[1.05rem] font-medium leading-none">{stat.value}</strong>
+                    <strong className="font-lora block text-[0.95rem] font-medium leading-none">{stat.value}</strong>
                   ) : null}
                   <span
-                    className={`block text-[0.82rem] leading-[1.3] ${stat.value ? "mt-1" : ""} ${
+                    className={`block text-[0.78rem] leading-[1.3] ${stat.value ? "mt-1" : ""} ${
                       isDark ? "text-white/75" : "text-[var(--color-text-muted)]"
                     }`}
                   >
@@ -200,9 +213,9 @@ export default function HomeSec1({ data }) {
           })}
         </ul>
 
-        {/* Desktop trust strip */}
+        {/* Desktop trust strip — smaller badges; black (light) / silver (dark) */}
         <ul
-          className={`mt-3 hidden w-full max-w-[980px] grid-cols-4 overflow-hidden rounded-2xl border shadow-[0_14px_32px_rgba(10,26,43,0.1)] backdrop-blur-xl md:grid ${
+          className={`relative z-10 mt-0 mb-2 hidden w-full max-w-[920px] grid-cols-4 overflow-hidden rounded-2xl border shadow-[0_14px_32px_rgba(10,26,43,0.1)] backdrop-blur-xl md:grid ${
             isDark
               ? "border-[rgba(162,118,68,0.45)] bg-[rgba(10,10,10,0.55)] shadow-black/40"
               : "border-[var(--color-border)] bg-[rgba(255,255,255,0.72)] shadow-[var(--color-shadow)]"
@@ -215,19 +228,19 @@ export default function HomeSec1({ data }) {
             return (
               <li
                 key={item.label}
-                className={`flex flex-row items-center justify-start gap-3 border-r px-4 py-3 text-left last:border-r-0 ${
+                className={`flex flex-row items-center justify-start gap-2.5 border-r px-3 py-2.5 text-left last:border-r-0 ${
                   isDark ? "border-white/12" : "border-[var(--color-border)]"
                 }`}
               >
-                <span className="flex h-14 w-14 shrink-0 items-center justify-center">
-                  <HomeIcon name={iconKey} isDark={isDark} gold className="h-14 w-14 object-contain" />
+                <span className="flex h-10 w-10 shrink-0 items-center justify-center">
+                  <HomeIcon name={iconKey} isDark={isDark} className="h-10 w-10 object-contain" />
                 </span>
                 <span className={`min-w-0 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                   {stat.value ? (
-                    <strong className="block text-[1.05rem] font-bold leading-none">{stat.value}</strong>
+                    <strong className="block text-[0.95rem] font-bold leading-none">{stat.value}</strong>
                   ) : null}
                   <span
-                    className={`mt-0.5 block text-[0.78rem] leading-[1.3] ${
+                    className={`mt-0.5 block text-[0.72rem] leading-[1.3] ${
                       isDark ? "text-white/75" : "text-[var(--color-text-muted)]"
                     }`}
                   >

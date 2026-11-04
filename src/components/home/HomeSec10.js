@@ -61,8 +61,8 @@ function Panel({ title, icon, isDark, children, className = "" }) {
       } ${className}`}
     >
       <div className={`flex items-center gap-2.5 border-b px-3.5 py-3 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
-        <span className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-full ${isDark ? "bg-white/10" : "bg-[#F5EAD4]"}`}>
-          <HomeIcon name={icon || "engine"} isDark={isDark} gold className="h-4 w-4" />
+        <span className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-full md:h-12 md:w-12 ${isDark ? "bg-white/10" : "bg-[#F5EAD4]"}`}>
+          <HomeIcon name={icon || "engine"} isDark={isDark} className="h-6 w-6 md:h-7 md:w-7" />
         </span>
         <h3 className={`font-lora text-[0.85rem] font-medium uppercase leading-snug tracking-[0.03em] md:text-[0.92rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {title}
@@ -223,7 +223,7 @@ function FeedPanel({ data, isDark }) {
           >
             <div className="flex min-w-0 items-center gap-2">
               <div className="relative h-9 w-12 shrink-0 overflow-hidden">
-                <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.vehicle} fill className="object-contain" sizes="48px" />
+                <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.vehicle} fill unoptimized className="object-contain" sizes="48px" />
               </div>
               <span className={`truncate font-lora text-[0.78rem] font-medium md:text-[0.82rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {row.vehicle}
@@ -266,10 +266,10 @@ export default function HomeSec10({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[760px] pt-2 md:pt-6">
-          <SectionLabel number={10} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Market Intelligence - What 4,200+ UK Owners Told Us in 2025
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

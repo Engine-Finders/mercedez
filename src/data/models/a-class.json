@@ -861,7 +861,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every A-Class Buyer",
-    "quote": "If you're buying a used A-Class, prioritise the W177 (2018+) with the M282 petrol or OM608 diesel. The W176 is a good budget buy-but only with the M270 petrol. Walk away from any W176 diesel without documented injector service history, and treat the W168/W169 as classic projects, not daily drivers. End of Sections 1–7 output. Ready for Prompt 2 (Sections 8–14) when you say \"8-14\"."
+    "quote": "If you're buying a used A-Class, prioritise the W177 (2018+) with the M282 petrol or OM608 diesel. The W176 is a good budget buy-but only with the M270 petrol. Walk away from any W176 diesel without documented injector service history, and treat the W168/W169 as classic projects, not daily drivers. End of Sections 1–7 output. Ready for Prompt 2 (Sections 8–14) when you say \"8-14\".",
+    "image": {
+      "src": "/model images/A-class.webp",
+      "alt": "Mercedes-Benz A-Class"
+    }
   },
   "replacementCosts": {
     "h2": "A-Class Engine Replacement Costs - By Generation",
@@ -877,7 +881,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/a-class-w177-standard amg line-hatchback-2018–2022-new-amg green hell magno-major new generation-a-class w177 std amg-45-angle-front-view.webp",
+          "alt": "a-class"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting an A‑Class engine typically takes 8–12 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Labour for AMG variants (M133/M139) may run to 16 hours due to additional cooling and performance‑system disassembly. The A‑Class rule - generation is everything: A W176 OM651 diesel recon at £2,800–£4,800 against a typical W176 value of £5,000–£14,000 sits at around 30–70% of the car's worth. On a low‑value W176 (sub‑£6,000), that pushes past our 70% Mercedes threshold - so run the numbers carefully. For a W177 with OM654, the same £3,000–£5,000 recon against an £18,000–£35,000 car is comfortably below 30% - a clear fix it verdict. For W168/W169 cars worth £1,500–£5,000, any engine replacement is almost always a walk away decision. Always compare the lowest viable recon cost against your car's current market value - if it exceeds 70%, get a scrap valuation before committing.",
@@ -902,28 +910,44 @@
         "years": "1997–2004",
         "keyEngines": "M166 (petrol), OM668 (diesel)",
         "whyBmwChanged": "Mercedes needed a compact city car to compete with the VW Golf and Audi A3. The sandwich‑floor design was revolutionary for safety but made engine access tricky.",
-        "worthKnowing": "The OM668 diesel was one of Mercedes' first common‑rail diesels - reliable when maintained, but parts are now scarce and expensive."
+        "worthKnowing": "The OM668 diesel was one of Mercedes' first common‑rail diesels - reliable when maintained, but parts are now scarce and expensive.",
+        "image": {
+          "src": "/cars/a-class-w168-a-class facelift-hatchback-2001–2004-new-horizon blue metallic-revised front rear styling-a-class w168 a-class fl-45-angle-front-view.webp",
+          "alt": "W168 – the original"
+        }
       },
       {
         "era": "W169 – refinement",
         "years": "2004–2012",
         "keyEngines": "M266 (petrol), OM640 (diesel)",
         "whyBmwChanged": "The W169 was a complete rethink - a more conventional body style, better packaging, and a switch to the M266 petrol (an improved version of the M166) and OM640 diesel (predecessor to the OM651).",
-        "worthKnowing": "This generation introduced the \"A 180 CDI\" badge that confused buyers for years - it used the OM640, not the later OM651."
+        "worthKnowing": "This generation introduced the \"A 180 CDI\" badge that confused buyers for years - it used the OM640, not the later OM651.",
+        "image": {
+          "src": "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169-45-angle-front-view.webp",
+          "alt": "W169 – refinement"
+        }
       },
       {
         "era": "W176 – the premium hatch",
         "years": "2012–2018",
         "keyEngines": "M270 (petrol), OM651/OM607 (diesel), M133 (AMG)",
         "whyBmwChanged": "Mercedes shifted the A‑Class from a tall MPV‑like shape to a proper premium hatchback to take on the BMW 1 Series and Audi A3. This meant a new engine layout - front‑mounted longitudinal? No, actually transverse, but with a much sportier chassis.",
-        "worthKnowing": "The OM651 diesel fitted here carries the same \"Black Death\" injector seal risk as the C‑Class and E‑Class - but the M270 petrol is one of the most reliable engines Mercedes built in this era."
+        "worthKnowing": "The OM651 diesel fitted here carries the same \"Black Death\" injector seal risk as the C‑Class and E‑Class - but the M270 petrol is one of the most reliable engines Mercedes built in this era.",
+        "image": {
+          "src": "/cars/a-class-w176-standard style-hatchback-2012–2015-new-hyacinth red metallic-major transition to low, sporty hatchback-a-class w176 std style-45-angle-front-view.webp",
+          "alt": "W176 – the premium hatch"
+        }
       },
       {
         "era": "W177 – the modern era",
         "years": "2018–present",
         "keyEngines": "M282 (petrol), M260/M139 (petrol), OM608/OM654 (diesel)",
         "whyBmwChanged": "Emissions regulations (Euro 6d) forced Mercedes to downsize and modularise. The M282 1.3‑litre petrol (co‑developed with Renault) replaced the M270, and the OM608 1.5‑litre diesel (Renault K9K‑based) replaced the OM607 and early OM651. The OM654 arrived with the 2022 facelift.",
-        "worthKnowing": "The OM654 is the cleanest diesel ever fitted to an A‑Class - it's also used in the C‑Class and E‑Class, so parts and expertise are widely available. The M139 in the A 45 S AMG is the most powerful four‑cylinder production engine in the world (416 hp)."
+        "worthKnowing": "The OM654 is the cleanest diesel ever fitted to an A‑Class - it's also used in the C‑Class and E‑Class, so parts and expertise are widely available. The M139 in the A 45 S AMG is the most powerful four‑cylinder production engine in the world (416 hp).",
+        "image": {
+          "src": "/cars/a-class-w177-standard amg line-hatchback-2018–2022-new-amg green hell magno-major new generation-a-class w177 std amg-45-angle-front-view.webp",
+          "alt": "W177 – the modern era"
+        }
       }
     ]
   },

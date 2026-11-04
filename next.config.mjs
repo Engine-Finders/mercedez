@@ -7,6 +7,9 @@ const nextConfig = {
   // Avoid trailing-slash 301 → 404 chains (SEO crawl waste)
   trailingSlash: false,
   images: {
+    // Vercel Image Optimization returns 402 OPTIMIZED_IMAGE_REQUEST_PAYMENT_REQUIRED
+    // on this project plan — serve public assets directly instead.
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",

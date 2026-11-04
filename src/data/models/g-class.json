@@ -901,7 +901,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every G-Class Buyer",
-    "quote": "If you're buying a used G-Class, prioritise the 2015+ W463 facelift with the M176 4.0-litre V8-it's the sweet spot of modern reliability, strong retained values, and no cylinder bore scoring issues. Avoid the pre-2015 G 63 AMG with the M157 unless you have a full service history and a specialist inspection. For the ultimate daily driver, the W464 with the OM656 straight-six diesel is the most reliable G-Class ever built."
+    "quote": "If you're buying a used G-Class, prioritise the 2015+ W463 facelift with the M176 4.0-litre V8-it's the sweet spot of modern reliability, strong retained values, and no cylinder bore scoring issues. Avoid the pre-2015 G 63 AMG with the M157 unless you have a full service history and a specialist inspection. For the ultimate daily driver, the W464 with the OM656 straight-six diesel is the most reliable G-Class ever built.",
+    "image": {
+      "src": "/model images/G-class.webp",
+      "alt": "Mercedes-Benz G-Class"
+    }
   },
   "replacementCosts": {
     "h2": "G-Class Engine Replacement Costs - By Generation",
@@ -917,7 +921,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "g-class"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a G‑Class engine typically takes 10–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. Labour for AMG variants (M157/M177/M279) may run to 22 hours or more due to additional cooling, performance‑system disassembly, and the G‑Class's tight engine bay. The G‑Class rule -",
@@ -942,28 +950,44 @@
         "years": "1979–1990",
         "keyEngines": "M110 (petrol), OM615/OM616/OM617 (diesel)",
         "whyBmwChanged": "Mercedes built the G‑Class for military and agricultural use-simple, robust, and easy to repair in the field. The OM617 five‑cylinder diesel became legendary for its longevity, often exceeding 500,000 km.",
-        "worthKnowing": "The OM617 is one of the most durable diesel engines ever built-it's the same engine that powered the W123 300D and earned Mercedes its \"will run forever\" reputation."
+        "worthKnowing": "The OM617 is one of the most durable diesel engines ever built-it's the same engine that powered the W123 300D and earned Mercedes its \"will run forever\" reputation.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W460 – the military off‑roader"
+        }
       },
       {
         "era": "W461 – the workhorse",
         "years": "1990–2001",
         "keyEngines": "OM602 (diesel), OM603 (diesel), <a  href='https://mercedesengines.uk/engine/m104'>M104</a> (petrol, select markets)",
         "whyBmwChanged": "The W461 continued the military/professional focus, but with improved emissions and refinement. The OM602 and OM603 diesels were the workhorses-simple, mechanical injection, and virtually indestructible.",
-        "worthKnowing": "The OM602 2.9‑litre five‑cylinder is one of the most reliable Mercedes diesels ever made-many are still in service in military and agricultural applications worldwide."
+        "worthKnowing": "The OM602 2.9‑litre five‑cylinder is one of the most reliable Mercedes diesels ever made-many are still in service in military and agricultural applications worldwide.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W461 – the workhorse"
+        }
       },
       {
         "era": "W463 – the luxury icon",
         "years": "1990–2018",
         "keyEngines": "<Link href='https://mercedesengines.uk/engine/m113'>M113</Link> V8, M273 V8, M157 V8 (AMG), OM642 V6 diesel, M176 V8 (2015+)",
         "whyBmwChanged": "The W463 transformed the G‑Class from a utilitarian off‑roader into a luxury icon. Mercedes added V8s, leather interiors, and eventually AMG performance variants. The 2015 facelift introduced the M176 4.0‑litre twin‑turbo V8, replacing the older M273.",
-        "worthKnowing": "The 2015 facelift is the single most important reliability milestone in G‑Class history-the M176 V8 is far more reliable than the M273 it replaced, and the AMG M157 (with its cylinder bore scoring risk) was replaced by the M177."
+        "worthKnowing": "The 2015 facelift is the single most important reliability milestone in G‑Class history-the M176 V8 is far more reliable than the M273 it replaced, and the AMG M157 (with its cylinder bore scoring risk) was replaced by the M177.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W463 – the luxury icon"
+        }
       },
       {
         "era": "W464 – the modern masterpiece",
         "years": "2018–present",
         "keyEngines": "M176 V8, M177 V8 (AMG), OM656 straight‑six diesel, M279 V12 (G 65)",
         "whyBmwChanged": "The W464 was a ground‑up redesign-independent front suspension, a wider track, and a completely new engine lineup. The OM656 straight‑six diesel replaced the OM642 V6, delivering more power, better economy, and superior reliability.",
-        "worthKnowing": "The OM656 is the most reliable G‑Class engine ever built-it's a modern, modular straight‑six with a clean emissions design and no known catastrophic failure points."
+        "worthKnowing": "The OM656 is the most reliable G‑Class engine ever built-it's a modern, modular straight‑six with a clean emissions design and no known catastrophic failure points.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W464 – the modern masterpiece"
+        }
       }
     ]
   },

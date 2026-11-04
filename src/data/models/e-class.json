@@ -973,7 +973,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every E-Class Buyer",
-    "quote": "If you buy one E-Class based on this page, buy a 2013–2016 W212 facelift with the OM654 diesel. The facelift brought the more reliable engine and the most comprehensive mid-cycle refresh Mercedes has ever done - and values have already absorbed the steepest depreciation. Avoid the OM651 without full timing chain history; the £2,000 you save on the purchase price can become a £4,800 engine replacement. End of Sections 1–7. Ready for \"8-14\" to continue with Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, and Closing Action Cards."
+    "quote": "If you buy one E-Class based on this page, buy a 2013–2016 W212 facelift with the OM654 diesel. The facelift brought the more reliable engine and the most comprehensive mid-cycle refresh Mercedes has ever done - and values have already absorbed the steepest depreciation. Avoid the OM651 without full timing chain history; the £2,000 you save on the purchase price can become a £4,800 engine replacement. End of Sections 1–7. Ready for \"8-14\" to continue with Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, and Closing Action Cards.",
+    "image": {
+      "src": "/model images/E-class.webp",
+      "alt": "Mercedes-Benz E-Class"
+    }
   },
   "replacementCosts": {
     "h2": "E-Class Engine Replacement Costs - By Generation",
@@ -989,7 +993,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "e-class"
+        }
       },
       {
         "title": "E200/E220 CDI (pre-2013)",
@@ -1001,7 +1009,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "E200/E220 CDI (pre-2013)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting an E-Class engine typically takes 8–22 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The E-Class rule - generation is destiny: A £3,000–£5,000 OM654 recon against a £14,000–£35,000 W213 sits at roughly 15–35% - well below our 70% threshold for Mercedes-Benz. A £3,200–£5,500 OM642 recon against a £5,000–£18,000 W211 or early W212 sits at 30–110% - check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a W211 E320 CDI worth £2,500 with a £4,500 recon bill, that's 180% - walk away. For a W213 E220d worth £18,000 with a £3,500 recon bill, that's 19% - fix it.",
@@ -1026,42 +1038,66 @@
         "years": "1993–1995",
         "keyEngines": "M104 straight-six petrol, OM602/OM605 diesels",
         "whyBmwChanged": "The \"E\" in E-Class stood for Einspritzmotor (German for fuel injection engine) - the badge formalised in 1993 after years of \"E\" suffix usage on models like the 300 E",
-        "worthKnowing": "The W124 is widely considered the last \"over-engineered\" Mercedes - built to a standard, not a price. Values for well-preserved examples are rising."
+        "worthKnowing": "The W124 is widely considered the last \"over-engineered\" Mercedes - built to a standard, not a price. Values for well-preserved examples are rising.",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "The W124 Era - Fuel Injection Arrives"
+        }
       },
       {
         "era": "The W210 Era - V6 and Common-Rail",
         "years": "1995–2003",
         "keyEngines": "M104 inline-six, M119 V8, OM606 diesel",
         "whyBmwChanged": "The W210 introduced the first V6 petrol (M112) and the first common-rail diesel (OM611) to the E-Class range",
-        "worthKnowing": "Rust is the W210's defining failure, not the engines. A rust-free W210 with the OM606 diesel is a cult classic."
+        "worthKnowing": "Rust is the W210's defining failure, not the engines. A rust-free W210 with the OM606 diesel is a cult classic.",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "The W210 Era - V6 and Common-Rail"
+        }
       },
       {
         "era": "The W211 Era - V6 Diesel Dominance",
         "years": "2002–2009",
         "keyEngines": "OM642 V6 diesel, M272 V6 petrol, M113 V8",
         "whyBmwChanged": "The OM642 arrived in 2005 and became the defining E-Class diesel of the era - 3.0 litres, V6, smooth and powerful",
-        "worthKnowing": "The OM642's oil cooler seal is the only real engine weakness - labour-intensive but not catastrophic. SBC brakes and Airmatic are bigger cost drivers."
+        "worthKnowing": "The OM642's oil cooler seal is the only real engine weakness - labour-intensive but not catastrophic. SBC brakes and Airmatic are bigger cost drivers.",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "The W211 Era - V6 Diesel Dominance"
+        }
       },
       {
         "era": "The W212 Era - Four-Cylinder Diesel Volume",
         "years": "2009–2016",
         "keyEngines": "OM651 four-cylinder diesel, OM642 V6 diesel, M276 V6 petrol",
         "whyBmwChanged": "The OM651 arrived in 2008 as Mercedes' new modular four-cylinder diesel - high-volume, efficient, but carrying the \"Black Death\" injector seal risk",
-        "worthKnowing": "The 2013 facelift was the most complex mid-cycle refresh Mercedes ever undertook - it brought the OM654 into the range. A 2013 car and a 2012 car have completely different reliability profiles."
+        "worthKnowing": "The 2013 facelift was the most complex mid-cycle refresh Mercedes ever undertook - it brought the OM654 into the range. A 2013 car and a 2012 car have completely different reliability profiles.",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "The W212 Era - Four-Cylinder Diesel Volume"
+        }
       },
       {
         "era": "The W213 Era - The OM654 Takes Over",
         "years": "2016–2023",
         "keyEngines": "OM654 diesel, OM656 straight-six diesel, M276 V6 petrol, M177 V8 (AMG)",
         "whyBmwChanged": "The OM654 replaced the OM651 as Mercedes' modern four-cylinder diesel - materially fewer failures, AdBlue issues are software-manageable",
-        "worthKnowing": "The W213 is the safest used E-Class buy if your budget stretches to it. The OM656 straight-six is a gem - smooth, powerful, and refined."
+        "worthKnowing": "The W213 is the safest used E-Class buy if your budget stretches to it. The OM656 straight-six is a gem - smooth, powerful, and refined.",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "The W213 Era - The OM654 Takes Over"
+        }
       },
       {
         "era": "The W214 Era - Full Electrification",
         "years": "2023–present",
         "keyEngines": "OM654 (mild-hybrid diesel), M254 (mild-hybrid petrol), plug-in hybrids",
         "whyBmwChanged": "All W214 engines are electrified - 48-volt mild-hybrid as standard, with plug-in hybrid options across the range",
-        "worthKnowing": "Too new for long-term reliability data, but the OM654's track record suggests it's a safe bet. The W214 is the most technologically advanced E-Class ever built."
+        "worthKnowing": "Too new for long-term reliability data, but the OM654's track record suggests it's a safe bet. The W214 is the most technologically advanced E-Class ever built.",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "The W214 Era - Full Electrification"
+        }
       }
     ]
   },

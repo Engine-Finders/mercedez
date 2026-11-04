@@ -824,7 +824,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every S-Class Buyer",
-    "quote": "The 2013–2016 W222 S-Class is where S-Class value peaks - but the 2016 facelift is the dividing line. Buy a 2016+ W222 with the OM654 diesel, check the oil cooler seal history, and you've got the best value luxury car on the used market. Buy a 2013–2015 W222 with the OM651, and you're betting on 'Black Death' timing. Same badge, very different ownership story. End of Sections 1-7 for Mercedes S-Class Next: Say \"8-14\" to generate Sections 8-14 (Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, Closing Action Cards). MERCEDES-BENZ S-CLASS - SECTIONS 8-14"
+    "quote": "The 2013–2016 W222 S-Class is where S-Class value peaks - but the 2016 facelift is the dividing line. Buy a 2016+ W222 with the OM654 diesel, check the oil cooler seal history, and you've got the best value luxury car on the used market. Buy a 2013–2015 W222 with the OM651, and you're betting on 'Black Death' timing. Same badge, very different ownership story. End of Sections 1-7 for Mercedes S-Class Next: Say \"8-14\" to generate Sections 8-14 (Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, Closing Action Cards). MERCEDES-BENZ S-CLASS - SECTIONS 8-14",
+    "image": {
+      "src": "/model images/S-class.webp",
+      "alt": "Mercedes-Benz S-Class"
+    }
   },
   "replacementCosts": {
     "h2": "S-Class Engine Replacement Costs - By Generation",
@@ -840,7 +844,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "s-class"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a W221 S-Class engine typically takes 10–18 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. W222 (2013–2020) Variant Engine Code Used (Supply) Reconditioned (Supply) Rebuilt (Supply) Labour Hours S350 CDI / S350 BlueTEC (pre-2016) OM651 £1,500–£2,800 £2,800–£4,800 £4,000–£6,000 8–12 hrs S350 BlueTEC (2016–2020) OM654 £1,800–£3,200 £3,000–£5,000 £4,200–£6,500 8–12 hrs S400 / S450 M276 £2,000–£3,800 £3,800–£6,500 £5,500–£8,500 12–16 hrs S500 (2014–2017) M278 £2,500–£4,500 £4,500–£7,500 £6,000–£9,500 14–18 hrs S500 (2018–2020) M176 £3,000–£5,500 £5,500–£9,000 £8,000–£12,000 14–18 hrs S63 AMG M157 £4,000–£8,000 £8,000–£14,000 £12,000–£18,000 16–22 hrs",
@@ -865,35 +873,55 @@
         "years": "1991–1998",
         "keyEngines": "<a  href='https://mercedesengines.uk/engine/m104'>M104</a> (6cyl), M119 (V8), OM603/OM604 (diesel)",
         "whyBmwChanged": "The last S-Class built before Mercedes' cost-cutting era - every engine was over-engineered for a 500,000km service life",
-        "worthKnowing": "The OM603 3.0 diesel is the keeper engine - it'll outlast the car. Values now collector-driven, not daily-driver economics"
+        "worthKnowing": "The OM603 3.0 diesel is the keeper engine - it'll outlast the car. Values now collector-driven, not daily-driver economics",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "W140 Era - The Over-Engineered V8s"
+        }
       },
       {
         "era": "W220 Era - Modern Electronics, First Common-Rail Diesels",
         "years": "1999–2005",
         "keyEngines": "M112 (V6), M113 (V8), OM613/OM648 (common-rail diesel)",
         "whyBmwChanged": "Emissions regulations and fuel economy targets drove the switch to common-rail diesel and more complex electronics",
-        "worthKnowing": "The <a  href='https://mercedesengines.uk/engine/om648'>OM648</a> was Mercedes' first genuinely refined diesel - but the W220's SBC brakes and air suspension are more likely to end the car than the engine"
+        "worthKnowing": "The <a  href='https://mercedesengines.uk/engine/om648'>OM648</a> was Mercedes' first genuinely refined diesel - but the W220's SBC brakes and air suspension are more likely to end the car than the engine",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "W220 Era - Modern Electronics, First Common-Rail Diesels"
+        }
       },
       {
         "era": "W221 Era - The V6 Diesel Workhorse Arrives",
         "years": "2006–2013",
         "keyEngines": "OM642 (V6 diesel), M276 (V6 petrol), M273 (V8)",
         "whyBmwChanged": "The OM642 replaced the older OM648 as the volume diesel - a 3.0 V6 that would power the entire Mercedes range for a decade",
-        "worthKnowing": "The OM642's oil cooler seal is £800–£1,500 and well-understood - not a catastrophic failure, just labour-intensive. This is the generation to buy if you understand the risks"
+        "worthKnowing": "The OM642's oil cooler seal is £800–£1,500 and well-understood - not a catastrophic failure, just labour-intensive. This is the generation to buy if you understand the risks",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "W221 Era - The V6 Diesel Workhorse Arrives"
+        }
       },
       {
         "era": "W222 Era - The High-Water Mark",
         "years": "2013–2020",
         "keyEngines": "OM651 (4cyl diesel), OM642 (V6 diesel), M276 (V6 petrol), OM654 (4cyl diesel, 2016+), M176/M177 (V8)",
         "whyBmwChanged": "The W222 introduced the OM651 four-cylinder diesel to the S-Class for the first time - a European emissions-driven decision that brought \"Black Death\" risk to the flagship",
-        "worthKnowing": "The 2016 facelift is the dividing line: pre-2016 = OM651 (injector seal risk), post-2016 = OM654 (cleaner, more reliable). Buy post-2016 if you can afford it - the engine is materially better"
+        "worthKnowing": "The 2016 facelift is the dividing line: pre-2016 = OM651 (injector seal risk), post-2016 = OM654 (cleaner, more reliable). Buy post-2016 if you can afford it - the engine is materially better",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "W222 Era - The High-Water Mark"
+        }
       },
       {
         "era": "W223 Era - Electrification and Downsizing",
         "years": "2021–present",
         "keyEngines": "OM654 (diesel), <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a> (3.0 inline-six petrol), M176 (V8), M177 (AMG V8), M256 + plug-in hybrid",
         "whyBmwChanged": "CO2 regulations and the shift to electrification drove the switch to hybridised engines - the W223 is the first S-Class with a full plug-in hybrid option",
-        "worthKnowing": "The M256 is a genuinely new engine - not an evolution of the M276. Early records are clean, but it's too early to call it \"reliable\" in the classic S-Class sense"
+        "worthKnowing": "The M256 is a genuinely new engine - not an evolution of the M276. Early records are clean, but it's too early to call it \"reliable\" in the classic S-Class sense",
+        "image": {
+          "src": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp",
+          "alt": "W223 Era - Electrification and Downsizing"
+        }
       }
     ]
   },

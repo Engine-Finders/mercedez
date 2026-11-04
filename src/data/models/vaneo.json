@@ -581,7 +581,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every Vaneo Buyer",
-    "quote": "If you buy one Vaneo based on this page, buy a 2003–2005 facelift 1.6 petrol with full service history and suspension bushes already replaced. Avoid the 1.7 CDI diesel unless you're prepared for cold-start stalling and injector bills - the fuel economy isn't worth the headache. And never, ever spend more than the car is worth on an engine repair: a £1,500 Vaneo with a £1,800 repair bill is a write-off. End of Sections 1–7. Ready for \"8-14\" to continue with Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, and Closing Action Cards."
+    "quote": "If you buy one Vaneo based on this page, buy a 2003–2005 facelift 1.6 petrol with full service history and suspension bushes already replaced. Avoid the 1.7 CDI diesel unless you're prepared for cold-start stalling and injector bills - the fuel economy isn't worth the headache. And never, ever spend more than the car is worth on an engine repair: a £1,500 Vaneo with a £1,800 repair bill is a write-off. End of Sections 1–7. Ready for \"8-14\" to continue with Replacement Costs, Engine Evolution, Who Should Buy, Calculator CTA, Trust, FAQ, and Closing Action Cards.",
+    "image": {
+      "src": "/model images/Vaneo.webp",
+      "alt": "Mercedes-Benz Vaneo"
+    }
   },
   "replacementCosts": {
     "h2": "Vaneo Engine Replacement Costs - By Generation",
@@ -597,7 +601,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/a-class-w177-standard amg line-hatchback-2018–2022-new-amg green hell magno-major new generation-a-class w177 std amg-45-angle-front-view.webp",
+          "alt": "vaneo"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a Vaneo engine typically takes 6–10 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER - confirm vs cost sheet]. The Vaneo rule - check the value first: A £800–£1,500 M166 recon against a £1,100–£1,900 Vaneo sits at 40–140% - the repair cost can exceed the car's value in many cases. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For a Vaneo worth £1,200 with a £1,200 OM668 recon, that's 100% - scrap it. For a Vaneo worth £1,900 with a £1,000 M166 recon, that's 52% - borderline, assess carefully. The Vaneo is the rare car where the decision to repair is almost entirely driven by the car's value, not the engine's condition.",
@@ -622,14 +630,22 @@
         "years": "2001–2002",
         "keyEngines": "M166 1.6 petrol (82 PS), OM668 1.7 CDI diesel",
         "whyBmwChanged": "The Vaneo was launched as a practical MPV based on the first-generation A-Class W168 platform - the engines were carried over from the A-Class with minimal modification",
-        "worthKnowing": "The Vaneo was Mercedes' first serious attempt at a compact MPV - offering up to 3,000 litres of cargo space in a Golf-sized footprint"
+        "worthKnowing": "The Vaneo was Mercedes' first serious attempt at a compact MPV - offering up to 3,000 litres of cargo space in a Golf-sized footprint",
+        "image": {
+          "src": "/cars/a-class-w177-standard amg line-hatchback-2018–2022-new-amg green hell magno-major new generation-a-class w177 std amg-45-angle-front-view.webp",
+          "alt": "Launch Era - W414 Introduction"
+        }
       },
       {
         "era": "Facelift Era - More Power",
         "years": "2003–2005",
         "keyEngines": "M166 1.6 petrol (102 PS), M166 1.9 petrol (125 PS), OM668 1.7 CDI diesel",
         "whyBmwChanged": "The 2003 facelift introduced more powerful petrol variants and revised interior trim - the 1.9 petrol was the most powerful Vaneo ever offered",
-        "worthKnowing": "The 1.9 petrol (125 PS) was the pick of the range for motorway use - but it's rare; most Vaneos are the 1.6 petrol or 1.7 CDI. Production ended in 2005 with no direct successor."
+        "worthKnowing": "The 1.9 petrol (125 PS) was the pick of the range for motorway use - but it's rare; most Vaneos are the 1.6 petrol or 1.7 CDI. Production ended in 2005 with no direct successor.",
+        "image": {
+          "src": "/cars/a-class-w177-standard amg line-hatchback-2018–2022-new-amg green hell magno-major new generation-a-class w177 std amg-45-angle-front-view.webp",
+          "alt": "Facelift Era - More Power"
+        }
       }
     ]
   },
