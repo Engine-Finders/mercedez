@@ -17,7 +17,7 @@ const STAT_ICON_MAP = {
   file: "note",
 };
 
-const carImages = ["/right.webp", "/right.webp", "/right.webp", "/right.webp", "/right.webp", "/right.webp"];
+const FALLBACK_CAR = "/model/Hero-bg-image.webp";
 
 const statItems = [
   { title: "7 Generations", text: "1975 to Present", icon: "shieldPound" },
@@ -104,7 +104,7 @@ function DesktopTable({ eras, columns, isDark }) {
           </div>
         ))}
       </div>
-      {eras.map((era, index) => {
+      {eras.map((era) => {
         const title = eraParts(era.era);
 
         return (
@@ -119,7 +119,7 @@ function DesktopTable({ eras, columns, isDark }) {
                   </>
                 ) : null}
               </h3>
-              <img src={carImages[index] || carImages[0]} alt="" className="mt-2 h-[66px] w-full object-cover object-center md:h-[78px]" loading="lazy" />
+              <img src={era.image?.src || FALLBACK_CAR} alt={era.image?.alt || title.lead} className="mt-2 h-[66px] w-full object-cover object-center md:h-[78px]" loading="lazy" />
             </div>
             <div className={`flex items-center justify-center border-r border-[var(--color-border)] px-3 py-3.5 ${sectionTableText} font-bold md:px-4 md:py-4`}>{cleanText(era.years)}</div>
             <div className="flex items-center justify-center border-r border-[var(--color-border)] px-3 py-3.5 md:px-4 md:py-4">
@@ -171,8 +171,8 @@ function MobileAccordion({ eras, isDark }) {
               aria-expanded={open}
             >
               <img
-                src={carImages[index] || carImages[0]}
-                alt=""
+                src={era.image?.src || FALLBACK_CAR}
+                alt={era.image?.alt || title.lead}
                 className="h-[52px] w-[78px] shrink-0 rounded object-cover object-center"
                 loading="lazy"
               />

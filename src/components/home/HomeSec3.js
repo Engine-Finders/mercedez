@@ -7,26 +7,64 @@ import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
 
+function GoldH3Strip({ className = "w-12" }) {
+  return (
+    <span
+      className={`mt-1.5 mb-3 block h-[2px] ${className}`}
+      style={{
+        background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.22) 100%)`,
+      }}
+      aria-hidden="true"
+    />
+  );
+}
+
+function splitBadgeLabel(label = "") {
+  const powered = label.match(/^Powered by\s+([0-9,+%]+)\s+(.*)$/i);
+  if (powered) return { value: powered[1], text: powered[2] };
+  const leading = label.match(/^([0-9,+%]+)\s+(.*)$/);
+  if (leading) return { value: leading[1], text: leading[2] };
+  return { value: "", text: label };
+}
+
 function TrustStrip({ items, isDark }) {
   if (!items?.length) return null;
 
   return (
     <ul
-      className={`mt-4 grid grid-cols-4 gap-1.5 rounded-lg border px-2 py-3 md:mt-5 md:flex md:flex-wrap md:gap-x-8 md:gap-y-2 md:px-4 md:py-2.5 ${
-        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[rgba(0,0,0,0.06)] bg-white/80"
+      className={`mt-4 grid w-full max-w-[720px] grid-cols-4 gap-0 overflow-hidden rounded-xl border shadow-[0_10px_28px_rgba(10,26,43,0.08)] md:mt-5 ${
+        isDark
+          ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
+          : "border-[var(--color-border)] bg-white"
       }`}
     >
-      {items.map((item) => (
-        <li
-          key={item.label}
-          className={`flex flex-col items-center gap-1.5 text-center text-[0.58rem] leading-[1.25] md:inline-flex md:flex-row md:items-center md:gap-2 md:text-left md:text-[0.8rem] ${
-            isDark ? "text-white/88" : "text-[var(--color-text)]"
-          }`}
-        >
-          <HomeIcon name={item.icon} isDark={isDark} gold className="h-7 w-7 shrink-0 md:h-5 md:w-5" />
-          <span>{item.label}</span>
-        </li>
-      ))}
+      {items.map((item, index) => {
+        const { value, text } = splitBadgeLabel(item.label);
+        return (
+          <li
+            key={item.label}
+            className={`flex min-w-0 flex-col items-center gap-1 px-1.5 py-2.5 text-center md:flex-row md:items-start md:gap-2.5 md:px-4 md:py-3.5 md:text-left ${
+              index < items.length - 1 ? (isDark ? "border-r border-white/10" : "border-r border-[var(--color-border)]") : ""
+            }`}
+          >
+            <HomeIcon name={item.icon} tone={isDark ? "silver" : "gold"} className="h-7 w-7 shrink-0 object-contain md:mt-0.5 md:h-9 md:w-9" />
+            <div className="min-w-0">
+              {value ? (
+                <p className="text-[0.82rem] font-bold leading-none md:text-[1.15rem]" style={{ color: GOLD }}>
+                  {value}
+                </p>
+              ) : null}
+              <p
+                className={`text-[0.58rem] font-medium leading-snug md:text-[0.8rem] ${value ? "mt-0.5 md:mt-1" : ""} ${
+                  isDark ? "text-white" : "text-[var(--color-text)]"
+                }`}
+              >
+                {text}
+              </p>
+            </div>
+          </li>
+        );
+      })}
     </ul>
   );
 }
@@ -35,37 +73,54 @@ function HowItWorks({ data, activeStep, started, isDark }) {
   const steps = data?.steps || [];
 
   return (
-    <div className={`rounded-lg border p-3 md:p-4 ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
-      <h3 className={`mb-3 font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+    <div className={`rounded-lg border p-3 md:p-4 ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-[#F8F7F3]"}`}>
+      <h3 className={`font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {data?.title || "How It Works"}
       </h3>
-      <ol className="grid grid-cols-1 gap-3 sm:grid-cols-3 sm:gap-2 md:grid-cols-1">
-        {steps.map((step) => {
+      <GoldH3Strip />
+      <ol className="grid grid-cols-3 gap-0">
+        {steps.map((step, index) => {
           const isActive = started && activeStep === step.step;
+          const isLast = index === steps.length - 1;
           return (
             <li
               key={step.step}
-              className={`relative flex flex-col items-start gap-1.5 rounded-md p-2 transition ${
-                isActive ? (isDark ? "bg-white/8" : "bg-[#F5EAD4]") : ""
+              className={`relative flex flex-col items-center px-1 py-1 text-center sm:px-2 md:px-3 ${
+                isActive ? (isDark ? "bg-white/8" : "bg-[#F5EAD4]/40") : ""
               }`}
             >
-              {/* Mobile: number + icon + title in one row · md+: number+icon, then title below */}
-              <div className="flex w-full items-center gap-2.5">
-                <span
-                  className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-[0.75rem] font-semibold text-white md:h-6 md:w-6 md:text-[0.7rem]"
-                  style={{ backgroundColor: GOLD }}
-                >
-                  {step.step}
-                </span>
-                <HomeIcon name={step.icon} isDark={isDark} gold className="h-7 w-7 shrink-0 md:h-5 md:w-5" />
-                <p className={`min-w-0 flex-1 text-[0.88rem] font-medium leading-snug md:hidden ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-                  {step.title}
-                </p>
-              </div>
-              <p className={`hidden text-[0.82rem] font-medium leading-snug md:block ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {!isLast ? (
+                <>
+                  <span
+                    className={`pointer-events-none absolute top-2 right-0 h-[calc(100%-1rem)] w-px sm:top-3 sm:h-[calc(100%-1.5rem)] ${
+                      isDark ? "bg-white/15" : "bg-[rgba(0,0,0,0.12)]"
+                    }`}
+                    aria-hidden="true"
+                  />
+                  <span
+                    className={`pointer-events-none absolute top-1/2 right-[-0.3rem] z-[1] -translate-y-1/2 text-[0.65rem] sm:right-[-0.35rem] sm:text-[0.7rem] ${
+                      isDark ? "text-white/35" : "text-[rgba(0,0,0,0.28)]"
+                    }`}
+                    aria-hidden="true"
+                  >
+                    ›
+                  </span>
+                </>
+              ) : null}
+
+              <span
+                className="flex h-5 w-5 items-center justify-center rounded-full text-[0.65rem] font-bold sm:h-7 sm:w-7 sm:text-[0.8rem]"
+                style={{ backgroundColor: "rgba(171,132,80,0.35)", color: isDark ? "#fff" : "#0a0a0a" }}
+              >
+                {step.step}
+              </span>
+
+              <HomeIcon name={step.icon} isDark={isDark} className="mt-2 h-8 w-8 object-contain sm:mt-3 sm:h-12 sm:w-12 md:h-14 md:w-14" />
+
+              <p className={`font-lora mt-2 text-[0.68rem] font-medium leading-snug sm:mt-3 sm:text-[0.92rem] md:text-[1rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {step.title}
               </p>
-              <p className={`text-[0.7rem] leading-[1.35] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
+              <p className={`mt-1 max-w-[11.5rem] text-[0.55rem] leading-[1.35] sm:mt-1.5 sm:text-[0.7rem] md:text-[0.72rem] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
                 {step.text}
               </p>
             </li>
@@ -81,17 +136,21 @@ function WhyTrust({ data, isDark }) {
 
   return (
     <div className={`rounded-lg border p-3 md:p-4 ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
-      <h3 className={`mb-3 font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h3 className={`font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {data?.title || "Why Trust This Diagnosis?"}
       </h3>
+      <GoldH3Strip />
       <ul className="flex flex-col gap-3">
         {signals.map((signal) => (
           <li key={signal.title} className="flex items-start gap-2.5">
-            <span className={`mt-0.5 flex h-11 w-11 shrink-0 items-center justify-center rounded-full md:h-9 md:w-9 ${isDark ? "bg-white/10" : "bg-[#F5EAD4]"}`}>
-              <HomeIcon name={signal.icon} isDark={isDark} gold className="h-6 w-6 md:h-5 md:w-5" />
+            <span
+              className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-full border"
+              style={{ borderColor: GOLD, backgroundColor: "rgba(171,132,80,0.12)" }}
+            >
+              <HomeIcon name={signal.icon} isDark={isDark} className="h-4 w-4 object-contain" />
             </span>
             <div className="min-w-0">
-              <p className={`text-[0.85rem] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <p className="text-[0.85rem] font-medium leading-snug" style={{ color: GOLD }}>
                 {signal.title}
               </p>
               <p className={`mt-0.5 text-[0.72rem] font-light leading-[1.35] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
@@ -158,8 +217,11 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
     <div className="rounded-lg bg-[#0a0a0a] p-4 text-white md:p-5">
       {!started ? (
         <>
-          <h3 className="font-lora text-[1.25rem] font-medium md:text-[1.4rem]">{calc.idleTitle || "Start Your Diagnosis"}</h3>
-          <div className="mt-4 flex flex-col gap-2.5">
+          <h3 className="font-lora text-[1.25rem] font-medium md:text-[1.4rem]" style={{ color: GOLD }}>
+            {calc.idleTitle || "Start Your Diagnosis"}
+          </h3>
+          <GoldH3Strip className="w-14" />
+          <div className="mt-1 flex flex-col gap-2.5">
             <SelectField value={model} onChange={setModel} placeholder="Select Your Model" options={calc.modelOptions || []} darkCard />
             <SelectField value={engine} onChange={setEngine} placeholder="Select Engine Code" options={calc.engineOptions || []} darkCard />
             <SelectField value={category} onChange={setCategory} placeholder="Select Failure Category" options={calc.categoryOptions || []} darkCard />
@@ -183,7 +245,8 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
             Step {activeStep} of 3
           </p>
           <h3 className="mt-1 font-lora text-[1.2rem] font-medium md:text-[1.35rem]">{current.title}</h3>
-          <p className="mt-1.5 text-[0.8rem] leading-[1.4] text-white/70">{current.text}</p>
+          <GoldH3Strip className="w-14" />
+          <p className="text-[0.8rem] leading-[1.4] text-white/70">{current.text}</p>
 
           {activeStep === 1 ? (
             <div className="mt-4 grid grid-cols-2 gap-2">
@@ -198,7 +261,7 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
                       selected ? "border-[var(--color-primary)] bg-white/10" : "border-white/25 hover:border-white/50"
                     }`}
                   >
-                    <HomeIcon name={item.icon} isDark gold className="h-7 w-7 md:h-5 md:w-5" />
+                    <HomeIcon name={item.icon} tone="gold" className="h-7 w-7 md:h-5 md:w-5" />
                     <span className="text-[0.68rem] leading-snug text-white/90">{item.label}</span>
                   </button>
                 );
@@ -287,16 +350,31 @@ function BottomStats({ items, isDark }) {
   if (!items?.length) return null;
 
   return (
-    <ul className={`mt-5 grid grid-cols-4 gap-2 border-t pt-5 md:mt-6 md:gap-0 md:divide-x md:pt-6 ${isDark ? "border-white/10 md:divide-white/10" : "border-[rgba(0,0,0,0.08)] md:divide-[rgba(0,0,0,0.08)]"}`}>
-      {items.map((item) => (
-        <li key={item.label} className="flex flex-col items-center gap-1.5 text-center md:flex-row md:items-start md:gap-2.5 md:px-4 md:text-left first:md:pl-0 last:md:pr-0">
-          <HomeIcon name={item.icon} isDark={isDark} gold className="h-8 w-8 shrink-0 md:mt-0.5 md:h-6 md:w-6" />
+    <ul
+      className={`mt-5 grid grid-cols-4 gap-0 overflow-hidden rounded-xl border md:mt-6 ${
+        isDark
+          ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
+          : "border-[var(--color-border)] bg-white"
+      }`}
+    >
+      {items.map((item, index) => (
+        <li
+          key={item.label}
+          className={`flex min-w-0 flex-col items-center gap-1 px-1.5 py-3 text-center sm:gap-1.5 sm:px-3 sm:py-4 md:flex-row md:items-start md:gap-3 md:px-5 md:py-4 md:text-left ${
+            index < items.length - 1 ? (isDark ? "border-r border-white/10" : "border-r border-[var(--color-border)]") : ""
+          }`}
+        >
+          <HomeIcon name={item.icon} isDark={isDark} className="h-7 w-7 shrink-0 object-contain sm:h-9 sm:w-9 md:mt-0.5 md:h-8 md:w-8" />
           <div className="min-w-0">
-            <p className={`text-[0.72rem] font-semibold leading-tight md:text-[1.05rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              <span className="block md:inline">{item.value}</span>
-              <span className="mt-0.5 block md:mt-0 md:inline"> {item.label}</span>
+            <p className="text-[0.85rem] font-bold leading-none sm:text-[1.05rem] md:text-[1.2rem]" style={{ color: GOLD }}>
+              {item.value}
             </p>
-            <p className={`mt-0.5 hidden text-[0.72rem] md:block ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>{item.sub}</p>
+            <p className={`mt-1 text-[0.58rem] font-medium leading-snug sm:text-[0.78rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {item.label}
+            </p>
+            <p className={`mt-0.5 hidden text-[0.7rem] md:block ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+              {item.sub}
+            </p>
           </div>
         </li>
       ))}
@@ -315,10 +393,10 @@ export default function HomeSec3({ data }) {
       <div className="mx-auto w-full max-w-8xl">
         <div className="flex items-start gap-4">
           <div className="min-w-0 flex-1">
-            <SectionLabel number={3} isDark={isDark} />
             <h2 className={`font-lora max-w-[720px] text-[1.85rem] font-medium leading-[1.08] md:text-[2.75rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Diagnose Your Mercedes-Benz Engine Problem
             </h2>
+            <SectionLabel isDark={isDark} />
             <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>
               {data.subHeadline}
             </p>

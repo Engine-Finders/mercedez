@@ -25,11 +25,11 @@ function CentreCard({ item, isDark, serifTitle = false }) {
       <div className="flex flex-col gap-2.5 pr-6">
         <div className="flex items-center gap-3">
           <span
-            className={`flex h-12 w-12 shrink-0 items-center justify-center rounded-full border md:h-14 md:w-14 ${
-              isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
+            className={`flex h-12 w-[3.75rem] shrink-0 items-center justify-center rounded-full border md:h-14 md:w-[4.5rem] ${
+              isDark ? "border-[rgba(171,132,80,0.45)] bg-[rgba(171,132,80,0.12)]" : "border-[#EDE6D8] bg-[#F5EAD4]"
             }`}
           >
-            <HomeIcon name={item.icon} isDark={isDark} gold className="h-7 w-7 md:h-8 md:w-8" />
+            <HomeIcon name={item.icon} isDark={isDark} className="h-7 w-10 object-contain md:h-8 md:w-12" />
           </span>
           <h3
             className={`min-w-0 text-[1rem] leading-tight md:text-[1.08rem] ${
@@ -61,7 +61,7 @@ function BottomBar({ data, isDark }) {
       <ul className="flex flex-wrap gap-x-5 gap-y-2">
         {(data.items || []).map((item) => (
           <li key={item.label} className="inline-flex items-center gap-2 text-[0.75rem] text-white/85 md:text-[0.8rem]">
-            <HomeIcon name={item.icon} isDark gold className="h-5 w-5" />
+            <HomeIcon name={item.icon} tone="silver" className="h-5 w-5" />
             <span>{item.label}</span>
           </li>
         ))}
@@ -105,10 +105,10 @@ export default function HomeSec8({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <SectionLabel number={8} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Knowledge Centres
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

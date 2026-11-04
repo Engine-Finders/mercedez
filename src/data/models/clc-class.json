@@ -644,7 +644,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We’d Tell Every CLC-Class Buyer",
-    "quote": "Buy the 220 CDI with the OM646 diesel, insist on documented injector seal replacement, and walk away from any M271 Kompressor that rattles on cold start - that rattle is the sound of a timing chain that’s about to cost you more than the car is worth. Section 1–7 complete. Ready for “8-14” when you are."
+    "quote": "Buy the 220 CDI with the OM646 diesel, insist on documented injector seal replacement, and walk away from any M271 Kompressor that rattles on cold start - that rattle is the sound of a timing chain that’s about to cost you more than the car is worth. Section 1–7 complete. Ready for “8-14” when you are.",
+    "image": {
+      "src": "/model images/CLC-Class.webp",
+      "alt": "Mercedes-Benz CLC-Class"
+    }
   },
   "replacementCosts": {
     "h2": "CLC-Class Engine Replacement Costs - By Generation",
@@ -660,7 +664,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp",
+          "alt": "clc-class"
+        }
       },
       {
         "title": "CLC-Class (2008–2011)",
@@ -729,7 +737,11 @@
             "rebuiltSupply": "[PLACEHOLDER - confirm vs cost sheet]",
             "labourHours": "8–11 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp",
+          "alt": "CLC-Class (2008–2011)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a CLC-Class engine typically takes 6–11 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER - confirm vs cost sheet]. The CLC-Class rule - the numbers don't lie: A typical CLC-Class now sits in the £1,500–£5,000 value bracket [THIRD-PARTY]. A reconditioned engine starts at around £1,500 supply-only [PLACEHOLDER - confirm vs cost sheet], and with fitting could easily reach £2,500–£3,500 total. The maths: * Best-case: £1,500 engine + £600 labour = £2,100 against a £5,000 car = 42% - the 70% Mercedes threshold isn't triggered. Replacement is viable. * Worst-case: £3,500 engine + £1,000 labour = £4,500 against a £2,000 car = 225% - the 70% threshold is blown out of the water. Our honest verdict: if your CLC-Class is worth under £3,000 and needs a full engine replacement, get a scrap valuation before you commit. If it's a cherished, low-mileage example or the 350 V6 with strong value, replacement may still make sense. Don't decide on repair cost alone.",
@@ -754,21 +766,33 @@
         "years": "2000–2004",
         "keyEngines": "M271 Kompressor (1.8L), OM646 CDI (2.1L)",
         "whyBmwChanged": "Mercedes launched the SportCoupé as a stylish, youthful entry to the C-Class range - the first three-door coupé based on the W203 platform.",
-        "worthKnowing": "Early M271 engines used a single-row timing chain - a design that would become the engine's Achilles' heel."
+        "worthKnowing": "Early M271 engines used a single-row timing chain - a design that would become the engine's Achilles' heel.",
+        "image": {
+          "src": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp",
+          "alt": "SportCoupé launch era"
+        }
       },
       {
         "era": "SportCoupé facelift",
         "years": "2004–2008",
         "keyEngines": "M271 (revised), OM646 (revised)",
         "whyBmwChanged": "Rust prevention improvements and updated electronics; the facelift addressed W203-era corrosion issues but didn't fundamentally alter the engine range.",
-        "worthKnowing": "The post-2004 cars are significantly more durable body-wise - but the same M271 and OM646 engine risks remain."
+        "worthKnowing": "The post-2004 cars are significantly more durable body-wise - but the same M271 and OM646 engine risks remain.",
+        "image": {
+          "src": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp",
+          "alt": "SportCoupé facelift"
+        }
       },
       {
         "era": "CLC-Class rebadge",
         "years": "2008–2011",
         "keyEngines": "M271, OM646, M272 V6 (2.5L & 3.5L)",
         "whyBmwChanged": "The SportCoupé was rebadged as CLC-Class to align with Mercedes' new naming strategy - and gained the M272 V6 for the first time.",
-        "worthKnowing": "The M272 V6 brought a new failure mode - balance shaft wear - to the platform. The CL203 chassis remained unchanged throughout."
+        "worthKnowing": "The M272 V6 brought a new failure mode - balance shaft wear - to the platform. The CL203 chassis remained unchanged throughout.",
+        "image": {
+          "src": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp",
+          "alt": "CLC-Class rebadge"
+        }
       }
     ]
   },

@@ -9,60 +9,7 @@ import { sectionDescription, sectionH2, sectionTableText } from "@/components/mo
 const TRUST_ICON_MAP = { pound: "pound", gear: "engine", wrench: "wrench", shield: "shield" };
 const NOTE_ICON_MAP = { note: "note", info: "info", crown: "crown", chartShield: "chart" };
 
-const carImages = {
-  classic: "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=760&q=85",
-  e46: "https://images.unsplash.com/photo-1556189250-72ba954cfc2b?auto=format&fit=crop&w=760&q=85",
-  e90: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=760&q=85",
-  f30: "https://images.unsplash.com/photo-1617814076668-cccd5e772c97?auto=format&fit=crop&w=760&q=85",
-  g20: "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=760&q=85",
-};
-
-const f30Fallback = {
-  title: "F30/F31 - 3 Series (2012–2019)",
-  columns: ["Variant", "Engine Code", "Used (Supply)", "Reconditioned (Supply)", "Rebuilt (Supply)", "Labour Hours"],
-  rows: [
-    {
-      model: "316d–320d (N47 pre-2016)",
-      engineCode: "N47D20C",
-      usedSupply: "£1,800–£3,200",
-      reconditionedSupply: "£3,200–£5,500",
-      rebuiltSupply: "£4,500–£6,500",
-      labourHours: "10–14 hrs",
-    },
-    {
-      model: "316d–320d (B47 2016+)",
-      engineCode: "B47D20A",
-      usedSupply: "£1,500–£2,800",
-      reconditionedSupply: "£2,800–£4,500",
-      rebuiltSupply: "£3,800–£5,800",
-      labourHours: "8–12 hrs",
-    },
-    {
-      model: "325d–330d (N57)",
-      engineCode: "N57D30",
-      usedSupply: "£2,500–£4,500",
-      reconditionedSupply: "£4,500–£7,000",
-      rebuiltSupply: "£6,000–£9,000",
-      labourHours: "12–16 hrs",
-    },
-    {
-      model: "330i (B48)",
-      engineCode: "B48B20",
-      usedSupply: "£1,500–£2,800",
-      reconditionedSupply: "£3,000–£5,000",
-      rebuiltSupply: "£4,200–£6,500",
-      labourHours: "10–14 hrs",
-    },
-    {
-      model: "335i/340i (N55/B58)",
-      engineCode: "N55B30 / B58B30",
-      usedSupply: "£2,000–£4,000",
-      reconditionedSupply: "£3,800–£6,000",
-      rebuiltSupply: "£5,000–£8,000",
-      labourHours: "10–16 hrs",
-    },
-  ],
-};
+const FALLBACK_CAR = "/model/Hero-bg-image.webp";
 
 const trustItems = [
   { title: "Transparent", text: "Real UK Prices", icon: "pound" },
@@ -94,16 +41,6 @@ function splitTitle(title = "") {
   return { main, accent: accent ? `By ${accent}` : "" };
 }
 
-function tableKey(title = "") {
-  const clean = cleanText(title).toLowerCase();
-  if (clean.includes("classic")) return "classic";
-  if (clean.includes("e46")) return "e46";
-  if (clean.includes("e90")) return "e90";
-  if (clean.includes("f30")) return "f30";
-  if (clean.includes("g20")) return "g20";
-  return "classic";
-}
-
 function tableLabel(title = "") {
   const clean = cleanText(title);
   const years = clean.match(/\(([^)]+)\)/)?.[1] || "";
@@ -111,25 +48,12 @@ function tableLabel(title = "") {
   return { label, years };
 }
 
+function tableImage(table) {
+  return table?.image?.src || FALLBACK_CAR;
+}
+
 function normalizeTables(tables = []) {
-  const output = [];
-  let insertedF30 = false;
-
-  tables.forEach((table) => {
-    const key = tableKey(table.title);
-
-    if (key === "f30") {
-      if (!insertedF30) {
-        output.push(table.rows?.length ? table : f30Fallback);
-        insertedF30 = true;
-      }
-      return;
-    }
-
-    if (table.rows?.length) output.push(table);
-  });
-
-  return output;
+  return (tables || []).filter((table) => table?.rows?.length);
 }
 
 function splitFiguresNote(note = "") {
@@ -191,8 +115,8 @@ function CostTable({ table }) {
 }
 
 function DesktopGenerationRow({ table }) {
-  const key = tableKey(table.title);
   const { label, years } = tableLabel(table.title);
+  const src = tableImage(table);
 
   return (
     <div className="grid gap-0 md:grid-cols-[260px_minmax(0,1fr)]">
@@ -200,7 +124,7 @@ function DesktopGenerationRow({ table }) {
         <h3 className="font-lora text-[17px] font-medium leading-[1.08] md:text-[19px]" style={{ color: GOLD }}>{label}</h3>
         <p className={`mt-1 ${sectionTableText}`}>{years}</p>
         <div className="mt-2 h-[82px] overflow-hidden rounded-md md:h-[96px]">
-          <img src={carImages[key]} alt="" className="h-full w-full object-cover object-center" loading="lazy" />
+          <img src={src} alt={table.image?.alt || label} className="h-full w-full object-cover object-center" loading="lazy" />
         </div>
       </div>
       <CostTable table={table} />
@@ -213,8 +137,8 @@ function MobileTabs({ tables, isDark }) {
   const activeTable = tables[activeIndex] || tables[0];
   if (!activeTable) return null;
 
-  const key = tableKey(activeTable?.title);
   const active = tableLabel(activeTable?.title);
+  const activeSrc = tableImage(activeTable);
 
   return (
     <div className="md:hidden">
@@ -250,7 +174,7 @@ function MobileTabs({ tables, isDark }) {
           </span>
         </h3>
         <div className="mt-3 h-[190px]">
-          <img src={carImages[key]} alt="" className="h-full w-full object-contain" loading="lazy" />
+          <img src={activeSrc} alt={activeTable.image?.alt || active.label} className="h-full w-full object-contain" loading="lazy" />
         </div>
         <div className="mt-4 overflow-x-auto">
           <div className="min-w-[720px]">
@@ -340,7 +264,7 @@ export default function ReplacementCosts({ data }) {
           </div>
 
           <div className="mt-1 w-full overflow-hidden rounded-md md:hidden">
-            <img src={carImages.classic} alt="" className="h-[170px] w-full object-cover object-center" loading="lazy" />
+            <img src={tableImage(tables[0])} alt={tables[0]?.image?.alt || ""} className="h-[170px] w-full object-cover object-center" loading="lazy" />
           </div>
 
           <div className="md:hidden">

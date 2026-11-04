@@ -625,7 +625,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every GLK Buyer",
-    "quote": "If you buy one GLK based on this page, buy a 2012+ facelift with the M272 3.5L V6 petrol - it's the simplest, most reliable engine in the range, with no turbo, no DPF, no AdBlue, and no \"Black Death\" injector seals. The OM651 diesel is the volume choice but demands full service history and injector-seal receipts; the OM642 V6 diesel is robust but budget £800–£1,500 for oil cooler seals at 80k–100k miles. The GLK's boxy charm is real - but the engine choice determines whether it's a keeper or a money pit. [MB-VERIFIED]"
+    "quote": "If you buy one GLK based on this page, buy a 2012+ facelift with the M272 3.5L V6 petrol - it's the simplest, most reliable engine in the range, with no turbo, no DPF, no AdBlue, and no \"Black Death\" injector seals. The OM651 diesel is the volume choice but demands full service history and injector-seal receipts; the OM642 V6 diesel is robust but budget £800–£1,500 for oil cooler seals at 80k–100k miles. The GLK's boxy charm is real - but the engine choice determines whether it's a keeper or a money pit. [MB-VERIFIED]",
+    "image": {
+      "src": "/model images/GLK.webp",
+      "alt": "Mercedes-Benz GLK"
+    }
   },
   "replacementCosts": {
     "h2": "GLK Engine Replacement Costs - By Generation",
@@ -641,7 +645,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "glk"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a GLK engine typically takes 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The GLK's relatively simple SUV architecture means access is generally good, though the OM642 V6 diesel's V-configuration adds labour time for certain repairs. The M272 petrol V6 is the simplest to work on - no turbochargers, no DPF, no AdBlue complexity.",
@@ -666,21 +674,33 @@
         "years": "2008–2012",
         "keyEngines": "OM651, OM642, M272",
         "whyBmwChanged": "Mercedes launched the GLK as a compact luxury SUV to compete with the BMW X3 and Audi Q5. The engine range mirrored the C-Class (W204) - the OM651 diesel, OM642 V6 diesel, and M272 petrol V6 were all carried over from the saloon platform.",
-        "worthKnowing": "The GLK's engine range is essentially the W204 C-Class drivetrain in an SUV body - parts availability is excellent because these engines were fitted to millions of Mercedes vehicles across multiple platforms."
+        "worthKnowing": "The GLK's engine range is essentially the W204 C-Class drivetrain in an SUV body - parts availability is excellent because these engines were fitted to millions of Mercedes vehicles across multiple platforms.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Launch Era (X204)"
+        }
       },
       {
         "era": "Facelift Era (X204)",
         "years": "2012–2015",
         "keyEngines": "OM651, OM642, M276",
         "whyBmwChanged": "The 2012 facelift brought interior and exterior updates, plus the introduction of the M276 petrol V6 as a replacement for the M272. The M276 offered improved efficiency and higher power output while retaining the naturally aspirated character that made the M272 popular.",
-        "worthKnowing": "The M276 is a genuine improvement over the M272 - more power, better efficiency, and similar reliability. The facelift GLK with the M276 is the best petrol GLK you can buy."
+        "worthKnowing": "The M276 is a genuine improvement over the M272 - more power, better efficiency, and similar reliability. The facelift GLK with the M276 is the best petrol GLK you can buy.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "Facelift Era (X204)"
+        }
       },
       {
         "era": "End of Production",
         "years": "2015",
         "keyEngines": "OM651, OM642, M276",
         "whyBmwChanged": "The GLK was discontinued in 2015 and replaced by the GLC (X253). The GLC introduced the OM654 diesel - a significant reliability upgrade over the OM651 - but lost the GLK's boxy, rugged styling in the process.",
-        "worthKnowing": "The GLK's discontinuation created a cult following - owners value its distinctive styling and simple, proven engines. The M272/M276 petrol V6s are increasingly sought after as modern turbocharged engines become more complex and expensive to repair."
+        "worthKnowing": "The GLK's discontinuation created a cult following - owners value its distinctive styling and simple, proven engines. The M272/M276 petrol V6s are increasingly sought after as modern turbocharged engines become more complex and expensive to repair.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "End of Production"
+        }
       }
     ]
   },

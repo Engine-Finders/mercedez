@@ -10,11 +10,11 @@ function CodeList({ items, icon, isDark }) {
   return (
     <div className="flex min-w-0 items-start gap-2.5">
       <span
-        className={`mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border ${
+        className={`mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full border md:h-11 md:w-11 ${
           isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
         }`}
       >
-        <HomeIcon name={icon} isDark={isDark} gold className="h-4 w-4" />
+        <HomeIcon name={icon} isDark={isDark} className="h-5 w-5 md:h-6 md:w-6" />
       </span>
       <p className={`font-lora text-[0.85rem] font-medium leading-snug md:text-[0.95rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {(items || []).join(", ")}
@@ -31,8 +31,8 @@ function EraRow({ row, isDark }) {
       }`}
     >
       <div className={`flex items-center gap-2.5 px-4 py-4 ${isDark ? "bg-black/40" : "bg-[#0a0a0a]"}`}>
-        <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-white/15 bg-white/5">
-          <HomeIcon name={row.icon || "car"} isDark gold className="h-4 w-4" />
+        <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-white/15 bg-white/5 md:h-12 md:w-12">
+          <HomeIcon name={row.icon || "car"} tone="silver" className="h-6 w-6 md:h-7 md:w-7" />
         </span>
         <span className="font-lora text-[0.95rem] font-medium leading-tight" style={{ color: GOLD }}>
           {row.era}
@@ -103,8 +103,8 @@ function KeyTakeaway({ data }) {
       </div>
 
       <div className="relative flex items-start gap-3 px-4 py-4 md:max-w-[62%] md:gap-4 md:px-5 md:py-5">
-        <span className="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/15 bg-white/5 md:h-12 md:w-12">
-          <HomeIcon name={data.icon || "shield"} isDark gold className="h-5 w-5 md:h-6 md:w-6" />
+        <span className="mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full border border-white/15 bg-white/5 md:h-14 md:w-14">
+          <HomeIcon name={data.icon || "shield"} tone="silver" className="h-7 w-7 md:h-8 md:w-8" />
         </span>
         <div className="min-w-0">
           <p className="font-lora text-[0.78rem] font-medium uppercase tracking-[0.08em] md:text-[0.85rem]" style={{ color: GOLD }}>
@@ -144,10 +144,10 @@ export default function HomeSec11({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <SectionLabel number={11} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Engine History - Six Decades of Engineering
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

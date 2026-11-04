@@ -57,7 +57,7 @@ function MatrixRow({ row, isDark, variant = "desktop" }) {
     <div className="flex flex-col gap-3">
       <div className="flex items-start gap-3">
         <div className="relative h-[92px] w-[36%] shrink-0 overflow-hidden">
-          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill className="object-contain object-left" sizes="40vw" />
+          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill unoptimized className="object-contain object-left" sizes="40vw" />
         </div>
         <div className="grid min-w-0 flex-1 grid-cols-2 gap-x-3 gap-y-2 pt-0.5">
           <div className="min-w-0">
@@ -86,7 +86,7 @@ function MatrixRow({ row, isDark, variant = "desktop" }) {
     <>
       <div className="flex min-w-0 items-center gap-2.5">
         <div className="relative h-11 w-16 shrink-0 overflow-hidden">
-          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill className="object-contain" sizes="64px" />
+          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill unoptimized className="object-contain" sizes="64px" />
         </div>
         <div className="min-w-0">
           <p className={`text-[0.9rem] font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
@@ -274,10 +274,10 @@ export default function HomeSec6({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <SectionLabel number={6} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             The Mercedes-Benz Ownership Economics Centre
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

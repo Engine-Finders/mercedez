@@ -808,7 +808,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every SL Buyer",
-    "quote": "If you buy one SL based on this page, buy an R231 with the M276 V6 biturbo - ideally a 2016+ facelift car with documented timing chain history. The R231 has absorbed the steepest depreciation, the M276 is well-understood, and you get modern electronics without the R230's ABC suspension cost trap. Avoid the R230 M156 AMG without full camshaft adjuster and head bolt history - the £5,000 you save on the purchase price becomes a £6,000 repair bill."
+    "quote": "If you buy one SL based on this page, buy an R231 with the M276 V6 biturbo - ideally a 2016+ facelift car with documented timing chain history. The R231 has absorbed the steepest depreciation, the M276 is well-understood, and you get modern electronics without the R230's ABC suspension cost trap. Avoid the R230 M156 AMG without full camshaft adjuster and head bolt history - the £5,000 you save on the purchase price becomes a £6,000 repair bill.",
+    "image": {
+      "src": "/model images/SL.webp",
+      "alt": "Mercedes-Benz SL"
+    }
   },
   "replacementCosts": {
     "h2": "SL Engine Replacement Costs - By Generation",
@@ -824,7 +828,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "sl"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting an SL engine typically takes 10–24 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The SL rule - generation is everything: A £3,800–£6,500 M276 recon against an £18,000–£50,000 R231 sits at roughly 8–35% - well below our 70% threshold for Mercedes-Benz. A £5,000–£8,000 M156 recon against an £8,000–£14,000 R230 sits at 35–100% - check the specific car's value before committing. The threshold for Mercedes-Benz is 70%: if the reconditioned engine cost exceeds 70% of what your car is worth, get a scrap valuation alongside any repair quote. For an R230 SL63 AMG worth £10,000 with a £7,000 recon bill, that's 70% - borderline. For an R129 SL500 worth £4,000 with a £4,500 recon, that's 112% - walk away. For an R231 SL400 worth £25,000 with a £5,000 recon, that's 20% - fix it.",
@@ -849,42 +857,66 @@
         "years": "1954–1963",
         "keyEngines": "M198 3.0L straight-six (Gullwing), M127 2.3L straight-six (W113)",
         "whyBmwChanged": "The SL was born as a racing-derived grand tourer - the Gullwing's M198 was a race engine for the road",
-        "worthKnowing": "The M198 is one of the most legendary Mercedes engines - only 1,400 W198s built. The later M127 in the \"Pagoda\" is simpler and more robust."
+        "worthKnowing": "The M198 is one of the most legendary Mercedes engines - only 1,400 W198s built. The later M127 in the \"Pagoda\" is simpler and more robust.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "The Birth of the SL - Straight-Six Era"
+        }
       },
       {
         "era": "The V8 Arrives - R107 Era",
         "years": "1971–1989",
         "keyEngines": "M116 3.5L V8, M117 4.5L/5.0L V8",
         "whyBmwChanged": "Mercedes shifted to V8s to deliver the torque and refinement expected of a grand tourer",
-        "worthKnowing": "The R107 ran for 18 years - the longest SL generation. The 5.0L <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M117</a> is the pick: 240–302 hp, robust and characterful."
+        "worthKnowing": "The R107 ran for 18 years - the longest SL generation. The 5.0L <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M117</a> is the pick: 240–302 hp, robust and characterful.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "The V8 Arrives - R107 Era"
+        }
       },
       {
         "era": "The Golden Era - R129",
         "years": "1989–2001",
         "keyEngines": "M104 3.2L straight-six, M119 5.0L V8",
         "whyBmwChanged": "The R129 introduced modern electronics and the <a  href='https://mercedesengines.uk/engine/m116-m117-m119'>M119</a> V8 - one of Mercedes' most robust engines ever",
-        "worthKnowing": "The M119 is bulletproof - used across R129, W140, W124 and more. The R129 is the SL to buy for appreciation."
+        "worthKnowing": "The M119 is bulletproof - used across R129, W140, W124 and more. The R129 is the SL to buy for appreciation.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "The Golden Era - R129"
+        }
       },
       {
         "era": "The Complex Era - R230",
         "years": "2001–2011",
         "keyEngines": "M112 3.7L V6, M113 5.0L V8, M156 6.2L V8 (AMG)",
         "whyBmwChanged": "The R230 introduced ABC active suspension and high-performance AMG V8s - complexity increased exponentially",
-        "worthKnowing": "The M113 is robust; the M156 is the one to avoid without documented camshaft adjuster work. ABC suspension is the real cost driver."
+        "worthKnowing": "The M113 is robust; the M156 is the one to avoid without documented camshaft adjuster work. ABC suspension is the real cost driver.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "The Complex Era - R230"
+        }
       },
       {
         "era": "The Modern Era - R231",
         "years": "2012–2020",
         "keyEngines": "M276 3.0L V6 biturbo, M157 5.5L V8 biturbo",
         "whyBmwChanged": "The R231 downsized to turbocharged V6 and V8s - better efficiency, lower emissions, but more complexity",
-        "worthKnowing": "The M276 V6 biturbo is the pick - well-understood, timing chain stretch is the only real caveat. The R231 has absorbed steep depreciation."
+        "worthKnowing": "The M276 V6 biturbo is the pick - well-understood, timing chain stretch is the only real caveat. The R231 has absorbed steep depreciation.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "The Modern Era - R231"
+        }
       },
       {
         "era": "The Electrified Era - R232",
         "years": "2021–present",
         "keyEngines": "M177 4.0L V8 biturbo (mild-hybrid)",
         "whyBmwChanged": "The R232 went fully electrified - 48-volt mild-hybrid system with integrated starter-generator",
-        "worthKnowing": "The M177 is shared with the AMG GT - proven reliability. The R232 is the most technologically advanced SL ever."
+        "worthKnowing": "The M177 is shared with the AMG GT - proven reliability. The R232 is the most technologically advanced SL ever.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "The Electrified Era - R232"
+        }
       }
     ]
   },

@@ -39,8 +39,17 @@ function Chevron({ open }) {
   );
 }
 
+/** Light: comparison col = black; verdict col alternates gold/black. Dark: silver. */
+function tableTone(isDark, goldOnLight = false) {
+  if (isDark) return "silver";
+  return goldOnLight ? "gold" : "black";
+}
+
 function ComparisonRow({ item, isDark, open, onToggle }) {
   const href = item.link?.href || "#";
+  const verdictGold = item.id % 2 === 1; // 1,3,5 gold · 2,4,6 black (ref)
+  const comparisonTone = tableTone(isDark, false);
+  const verdictTone = tableTone(isDark, verdictGold);
 
   return (
     <div
@@ -64,7 +73,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
               isDark ? "border-white/20" : "border-[#E5E5E5]"
             }`}
           >
-            <HomeIcon name={item.icon} isDark={isDark} gold className="h-6 w-6" />
+            <HomeIcon name={item.icon} tone={comparisonTone} className="h-6 w-6" />
           </span>
           <p className={`min-w-0 flex-1 font-lora text-[0.92rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {item.title}
@@ -92,7 +101,14 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
               isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
             }`}
           >
-            <HomeIcon name={item.verdictIcon || "shield"} isDark={isDark} gold className="mt-0.5 h-6 w-6 shrink-0" />
+            <span
+              className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full"
+              style={{
+                backgroundColor: !isDark && verdictGold ? "rgba(171,132,80,0.16)" : isDark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.05)",
+              }}
+            >
+              <HomeIcon name={item.verdictIcon || "shield"} tone={verdictTone} className="h-5 w-5" />
+            </span>
             <p className="font-lora text-[0.72rem] font-medium leading-[1.4]" style={{ color: GOLD }}>
               {item.verdictPreview}
             </p>
@@ -105,7 +121,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
         </div>
       ) : null}
 
-      {/* Desktop row - always open, unchanged */}
+      {/* Desktop row */}
       <Link
         href={href}
         className={`hidden border-0 no-underline hover:no-underline md:flex md:flex-row md:items-stretch ${
@@ -121,7 +137,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
                 isDark ? "border-white/20" : "border-[#E5E5E5]"
               }`}
             >
-              <HomeIcon name={item.icon} isDark={isDark} gold className="h-8 w-8" />
+              <HomeIcon name={item.icon} tone={comparisonTone} className="h-8 w-8" />
             </span>
             <div className="min-w-0">
               <p className={`font-lora text-[1.08rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
@@ -141,9 +157,11 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
           >
             <span
               className="mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full"
-              style={{ backgroundColor: "rgba(171,132,80,0.16)" }}
+              style={{
+                backgroundColor: !isDark && verdictGold ? "rgba(171,132,80,0.16)" : isDark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.05)",
+              }}
             >
-              <HomeIcon name={item.verdictIcon || "shield"} isDark={isDark} gold className="h-8 w-8" />
+              <HomeIcon name={item.verdictIcon || "shield"} tone={verdictTone} className="h-8 w-8" />
             </span>
             <p className="font-lora text-[0.86rem] font-medium leading-[1.4]" style={{ color: GOLD }}>
               {item.verdictPreview}
@@ -191,10 +209,10 @@ export default function HomeSec5({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-1 md:pt-6">
-          <SectionLabel number={5} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Comparison Hub - Head-to-Head Verdicts
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

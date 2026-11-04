@@ -218,8 +218,10 @@ function LiveFeed({ note }) {
   );
 }
 
-function PullQuote({ data }) {
+function PullQuote({ data, heroImage }) {
   if (!data) return null;
+  const imageSrc = data.image?.src || heroImage?.src || "/model/Hero-bg-image.webp";
+  const imageAlt = data.image?.alt || heroImage?.alt || "";
 
   return (
     <div className="grid overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] shadow-[0_10px_30px_var(--color-shadow)] md:grid-cols-[minmax(0,1.46fr)_minmax(290px,0.7fr)]">
@@ -237,13 +239,13 @@ function PullQuote({ data }) {
         </div>
       </div>
       <div className="relative min-h-[140px] md:min-h-full">
-        <Image src="/model/Hero-bg-image.webp" alt="" fill className="object-cover object-center" sizes="(min-width: 768px) 35vw, 100vw" />
+        <Image src={imageSrc} alt={imageAlt} fill unoptimized className="object-cover object-center" sizes="(min-width: 768px) 35vw, 100vw" />
       </div>
     </div>
   );
 }
 
-export default function MarketIntelligence({ data, quoteData }) {
+export default function MarketIntelligence({ data, quoteData, heroImage }) {
   const { theme } = useTheme();
   if (!data) return null;
 
@@ -291,7 +293,7 @@ export default function MarketIntelligence({ data, quoteData }) {
         </div>
 
         <div className="mt-4">
-          <PullQuote data={quoteData} />
+          <PullQuote data={quoteData} heroImage={heroImage} />
         </div>
       </div>
     </section>

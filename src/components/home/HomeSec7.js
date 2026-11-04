@@ -44,12 +44,12 @@ function EngineRow({ row, isDark }) {
   const body = (
     <>
       <div className="flex min-w-0 items-center gap-2">
-        <HomeIcon name="engine" isDark={isDark} gold className="h-5 w-5 shrink-0" />
+        <HomeIcon name="engine" isDark={isDark} className="h-5 w-5 shrink-0" />
         <span className={`font-lora text-[0.95rem] font-medium md:text-[1.05rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
       </div>
 
       <div className="flex min-w-0 items-center gap-1.5">
-        <HomeIcon name={isDiesel ? "droplet" : "fuel"} isDark={isDark} gold className="h-4 w-4 shrink-0" />
+        <HomeIcon name={isDiesel ? "droplet" : "fuel"} isDark={isDark} className="h-4 w-4 shrink-0" />
         <span className={`text-[0.78rem] font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.fuel}</span>
       </div>
 
@@ -115,8 +115,8 @@ function FooterCta({ data, isDark }) {
 
       <Link
         href={data.href || "/quote"}
-        className="btn-cta inline-flex w-full shrink-0 items-center justify-center rounded-md px-4 py-2.5 text-[0.8rem] font-semibold uppercase tracking-wide text-white no-underline md:w-auto md:px-5 md:py-3 md:text-[0.82rem]"
-        style={{ backgroundColor: "#0a0a0a", color: GOLD }}
+        className="btn-cta inline-flex w-full shrink-0 items-center justify-center rounded-md border px-4 py-2.5 text-[0.8rem] font-semibold uppercase tracking-wide no-underline md:w-auto md:px-5 md:py-3 md:text-[0.82rem]"
+        style={{ borderColor: GOLD, color: GOLD, backgroundColor: "#0a0a0a" }}
       >
         {data.buttonLabel || "GET EXPERT ADVICE →"}
       </Link>
@@ -153,10 +153,10 @@ export default function HomeSec7({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <SectionLabel number={7} isDark={isDark} />
           <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Engine Families - The Pillars
           </h2>
+          <SectionLabel isDark={isDark} />
           <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>

@@ -674,7 +674,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every Viano Buyer",
-    "quote": "Buy the facelift (2010–2014) with the OM642 3.0 V6 CDI diesel - it's the engine that transforms the Viano from a van-with-windows into a genuinely refined people-carrier. Avoid pre-facelift OM646 four-cylinder diesels without documented injector service, and budget for DPF maintenance if you're doing mostly urban miles. Section 1–7 complete. Ready for \"8-14\" when you are."
+    "quote": "Buy the facelift (2010–2014) with the OM642 3.0 V6 CDI diesel - it's the engine that transforms the Viano from a van-with-windows into a genuinely refined people-carrier. Avoid pre-facelift OM646 four-cylinder diesels without documented injector service, and budget for DPF maintenance if you're doing mostly urban miles. Section 1–7 complete. Ready for \"8-14\" when you are.",
+    "image": {
+      "src": "/model images/Viano.webp",
+      "alt": "Mercedes-Benz Viano"
+    }
   },
   "replacementCosts": {
     "h2": "Viano Engine Replacement Costs - By Generation",
@@ -723,7 +727,11 @@
             "rebuiltSupply": "[PLACEHOLDER - confirm vs cost sheet]",
             "labourHours": "10–14 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W639 Pre-Facelift (2003–2010)"
+        }
       },
       {
         "title": "W639 Facelift (2010–2014)",
@@ -776,7 +784,11 @@
             "rebuiltSupply": "[PLACEHOLDER - confirm vs cost sheet]",
             "labourHours": "10–14 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W639 Facelift (2010–2014)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a Viano engine typically takes 8–14 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [PLACEHOLDER - confirm vs cost sheet]. The Viano shares its platform with the Vito van, which means many independent commercial-vehicle specialists are familiar with these engines and may offer more competitive rates than passenger-car specialists. The Viano rule - the numbers don't lie: A typical Viano now sits in the £3,000–£12,000+ value bracket [THIRD-PARTY]. A reconditioned OM642 V6 diesel engine starts at around £2,500 supply-only [PLACEHOLDER - confirm vs cost sheet], and with fitting could easily reach £3,500–£4,500 total. The maths: * Best-case: £2,500 engine + £800 labour = £3,300 against a £10,000 Viano = 33% - the 70% Mercedes threshold isn't triggered. Replacement is clearly viable. * Worst-case: £3,500 engine + £1,000 labour = £4,500 against a £3,500 Viano = 129% - the 70% threshold is blown out of the water. Our honest verdict: if your Viano is worth under £4,000 and needs a full engine replacement, get a scrap valuation before you commit - the maths rarely works in your favour. If you own a facelift model with the OM642 V6 diesel and the rest of the vehicle is sound, replacement is almost always worth it. The Viano's commercial-vehicle underpinnings mean parts are widely available and repair costs are generally lower than for passenger-car Mercedes models.",
@@ -801,21 +813,33 @@
         "years": "2003–2005",
         "keyEngines": "OM646 (2.1L diesel), M112 (3.7L V6 petrol)",
         "whyBmwChanged": "Mercedes launched the Viano as the premium passenger version of the Vito van - aimed at executive transport and large families. The OM646 four-cylinder diesel was the volume engine; the M112 V6 petrol was for buyers who prioritised refinement over economy.",
-        "worthKnowing": "Early Vianos (2003–2005) are the most basic; rust and electrical issues are more common on these examples."
+        "worthKnowing": "Early Vianos (2003–2005) are the most basic; rust and electrical issues are more common on these examples.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W639 launch era"
+        }
       },
       {
         "era": "W639 mid-cycle update",
         "years": "2005–2010",
         "keyEngines": "OM646 (2.1L), OM642 (3.0L V6 diesel), M272 (3.5L V6 petrol)",
         "whyBmwChanged": "The OM642 V6 diesel arrived in 2005, transforming the Viano from a capable but utilitarian MPV into a genuinely refined people-carrier. The M272 petrol V6 replaced the <a  href='https://mercedesengines.uk/engine/m112'>M112</around 2008.",
-        "worthKnowing": "The OM642 V6 diesel is regarded by many specialists as the best engine ever fitted to the Viano - combining power, smoothness and durability in a way the four-cylinder diesels can't match."
+        "worthKnowing": "The OM642 V6 diesel is regarded by many specialists as the best engine ever fitted to the Viano - combining power, smoothness and durability in a way the four-cylinder diesels can't match.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W639 mid-cycle update"
+        }
       },
       {
         "era": "W639 facelift",
         "years": "2010–2014",
         "keyEngines": "OM651 (2.1L diesel), OM642 (3.0L V6 diesel), M272 (3.5L V6 petrol)",
         "whyBmwChanged": "The 2010 facelift brought new, more economical and environmentally friendly engines - the OM651 replaced the OM646 as the four-cylinder diesel offering, and the <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> and M272 received BlueEFFICIENCY updates.",
-        "worthKnowing": "The OM651 four-cylinder diesel is significantly more reliable than the OM646 it replaced, with fewer injector and turbo issues. The facelift also brought better refinement and a more car-like feel."
+        "worthKnowing": "The OM651 four-cylinder diesel is significantly more reliable than the OM646 it replaced, with fewer injector and turbo issues. The facelift also brought better refinement and a more car-like feel.",
+        "image": {
+          "src": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp",
+          "alt": "W639 facelift"
+        }
       }
     ]
   },

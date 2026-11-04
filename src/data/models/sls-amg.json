@@ -594,7 +594,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every SLS AMG Buyer",
-    "quote": "If you're buying an SLS AMG, prioritise a 2013+ GT or 2014+ Final Edition-they received revised lifter buckets and camshaft adjusters, making them the safest standard cars. Always commission a cold start inspection and, if possible, a bore‑scope inspection of the cylinder walls before purchase. The Black Series is a different world-buy only if you're a collector and the car has full service history. End of Sections 1–7 output. Ready for Prompt 2 (Sections 8–14) when you say \"8-14\"."
+    "quote": "If you're buying an SLS AMG, prioritise a 2013+ GT or 2014+ Final Edition-they received revised lifter buckets and camshaft adjusters, making them the safest standard cars. Always commission a cold start inspection and, if possible, a bore‑scope inspection of the cylinder walls before purchase. The Black Series is a different world-buy only if you're a collector and the car has full service history. End of Sections 1–7 output. Ready for Prompt 2 (Sections 8–14) when you say \"8-14\".",
+    "image": {
+      "src": "/model images/SLS-AMG.webp",
+      "alt": "Mercedes-Benz SLS AMG"
+    }
   },
   "replacementCosts": {
     "h2": "SLS AMG Engine Replacement Costs - By Variant",
@@ -610,7 +614,11 @@
           "Rebuilt (Supply)",
           "Labour Hours"
         ],
-        "rows": []
+        "rows": [],
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "sls-amg"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting an SLS AMG M159 engine is a specialist job. The front‑mid‑engine layout and transaxle configuration require 20–30 hours at £95–£150/hr (independent specialist) or £150–£250/hr (main dealer). The Black Series with its strengthened bottom end and dry sump system adds complexity, pushing labour to 25–35 hours [MB-QUOTE]. Note that the DCT transmission is effectively integrated with the engine package-transmission work often requires engine‑out access, adding to the labour bill. The SLS AMG rule -",
@@ -635,28 +643,44 @@
         "years": "2010–2012",
         "keyEngines": "M159 (563 hp)",
         "whyBmwChanged": "The SLS AMG was designed as a halo car to celebrate the 40th anniversary of AMG and revive the 300SL gullwing legend. The M159 was a heavily revised version of the M156 V8-over 120 redesigned components, a freer‑flowing intake, dry sump lubrication for track use, and a 7,200 rpm redline.",
-        "worthKnowing": "The M159 is the most powerful naturally‑aspirated production V8 of its era-620 Nm of torque at 4,750 rpm and a power‑to‑weight ratio of 0.36 kg/hp."
+        "worthKnowing": "The M159 is the most powerful naturally‑aspirated production V8 of its era-620 Nm of torque at 4,750 rpm and a power‑to‑weight ratio of 0.36 kg/hp.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Launch - the M159 arrives"
+        }
       },
       {
         "era": "GT - the power bump",
         "years": "2013–2014",
         "keyEngines": "M159 GT (583 hp)",
         "whyBmwChanged": "The 2013 GT model received a 20 hp power bump, revised suspension tuning for better handling, and darkened lights. The engine changes were relatively minor-valve lifters with an anti‑friction coating to reduce wear on camshaft lobes.",
-        "worthKnowing": "The GT is the sweet spot in the SLS AMG range-stronger engine, better handling, and still the classic gullwing look."
+        "worthKnowing": "The GT is the sweet spot in the SLS AMG range-stronger engine, better handling, and still the classic gullwing look.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "GT - the power bump"
+        }
       },
       {
         "era": "Final Edition - the send‑off",
         "years": "2014",
         "keyEngines": "M159 Final Edition (583 hp)",
         "whyBmwChanged": "The Final Edition marked the end of production for the SLS AMG, and the end of Mercedes‑AMG's naturally‑aspirated V8 era (the turbocharged M178 would follow in the AMG GT). Only 270 Final Edition cars were built (200 coupes, 70 roadsters).",
-        "worthKnowing": "The Final Edition is a collectible-but mechanically identical to the GT. The real value is in the exclusivity, not the engine."
+        "worthKnowing": "The Final Edition is a collectible-but mechanically identical to the GT. The real value is in the exclusivity, not the engine.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Final Edition - the send‑off"
+        }
       },
       {
         "era": "Black Series - the ultimate",
         "years": "2013–2014",
         "keyEngines": "M159 Black Series (622 hp)",
         "whyBmwChanged": "The Black Series was the track‑focused, stripped‑out, performance‑maximised SLS AMG. The M159 received a strengthened bottom end (crankshaft and bearings), a new oil pump, altered connecting‑rod connections, and revised valve buckets with an anti‑friction coating.",
-        "worthKnowing": "Only ~100 Black Series built worldwide-a true collector's item. Prices now exceed £250,000–£290,000."
+        "worthKnowing": "Only ~100 Black Series built worldwide-a true collector's item. Prices now exceed £250,000–£290,000.",
+        "image": {
+          "src": "/cars/amg gt-r232-gt 55-coupé-2023–-new-spectral blue metallic-new generation-amg gt r232 gt 55-45-angle-front-view.webp",
+          "alt": "Black Series - the ultimate"
+        }
       }
     ]
   },

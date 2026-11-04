@@ -595,7 +595,11 @@
   },
   "editorialPullQuote": {
     "title": "The One Thing We'd Tell Every R-Class Buyer",
-    "quote": "If you buy one R-Class based on this page, make it a 2010–2013 R320 CDI facelift with the OM642 diesel and a documented oil cooler seal replacement already done. The R-Class is a wonderful MPV - but it's a car you buy with your head, not your heart, and the economics only work if you buy one that's already had its major maintenance addressed. MERCEDES R-CLASS - SECTIONS 8-14"
+    "quote": "If you buy one R-Class based on this page, make it a 2010–2013 R320 CDI facelift with the OM642 diesel and a documented oil cooler seal replacement already done. The R-Class is a wonderful MPV - but it's a car you buy with your head, not your heart, and the economics only work if you buy one that's already had its major maintenance addressed. MERCEDES R-CLASS - SECTIONS 8-14",
+    "image": {
+      "src": "/model images/R-class.webp",
+      "alt": "Mercedes-Benz R-Class"
+    }
   },
   "replacementCosts": {
     "h2": "Mercedes R-Class Engine Replacement Costs - By Generation",
@@ -644,7 +648,11 @@
             "rebuiltSupply": "£9,000–£16,000",
             "labourHours": "16–20 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W251 R-Class Pre-Facelift (2006–2009)"
+        }
       },
       {
         "title": "W251 R-Class Facelift (2010–2013)",
@@ -673,7 +681,11 @@
             "rebuiltSupply": "£3,800–£5,800",
             "labourHours": "10–12 hrs"
           }
-        ]
+        ],
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "W251 R-Class Facelift (2010–2013)"
+        }
       }
     ],
     "figuresNote": "Labour estimate: Fitting a Mercedes R-Class engine typically takes 10–20 hours at £65–£95/hr (independent) or £110–£160/hr (London/SE dealer) [MB-QUOTE]. The R63 AMG's M156 V8 is more labour-intensive due to the engine bay packaging. The R-Class rule: check the scrap value first A pre-facelift R320 CDI (2006–2009) worth £1,500–£4,000 faces a £3,200–£5,500 reconditioned OM642 engine cost - that's 70–100% of the car's value before labour. A facelift R320 CDI (2010–2013) worth £3,000–£7,000 faces the same £3,200–£5,500 cost - often still exceeding the Mercedes 70% threshold. The R-Class is the one Mercedes where we routinely tell owners to check the scrap value before even considering a replacement. If the lowest viable reconditioned cost exceeds 70% of what your R-Class is worth on today's market, get a scrap valuation alongside any repair quote. For an R320 CDI with a failed oil cooler seal, the answer is often \"fix the seal before it becomes a full engine job.\" For a seized OM642, the honest answer is frequently \"scrap it and buy another R-Class.\" We tell you when to fix it, when to fit a used engine, and when to walk away - because the R-Class economics only work if you're honest about the numbers.",
@@ -698,21 +710,33 @@
         "years": "2006–2009",
         "keyEngines": "OM642 3.0 V6 diesel • M272 3.5 V6 petrol • M273 5.5 V8 petrol • M156 6.2 AMG V8",
         "whyBmwChanged": "Mercedes wanted to create a new segment - the \"Grand Sports Tourer\" - combining SUV ride height with MPV practicality and E-Class driving dynamics. The engine range reflected this ambition: V6 diesels for torque, V6/V8 petrols for performance, and the M156 for the ultra-niche R63 AMG.",
-        "worthKnowing": "The R63 AMG is one of the rarest Mercedes ever built - only 200 were produced. It uses the M156 6.2-litre V8 shared with the C63, E63 and SL63 - but in a 2.2-tonne MPV, it's a singularly strange experience."
+        "worthKnowing": "The R63 AMG is one of the rarest Mercedes ever built - only 200 were produced. It uses the M156 6.2-litre V8 shared with the C63, E63 and SL63 - but in a 2.2-tonne MPV, it's a singularly strange experience.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "The Launch"
+        }
       },
       {
         "era": "The Facelift / Rationalisation",
         "years": "2010–2013",
         "keyEngines": "OM642 (revised) • M272 (revised) • OM651 (introduced for some markets, not UK)",
         "whyBmwChanged": "The R-Class never sold in the volumes Mercedes hoped - so the facelift was a rationalisation. The V8s were dropped entirely; the range was simplified to the OM642 diesel and M272 petrol, with the OM642 receiving an improved oil cooler seal design.",
-        "worthKnowing": "This is the R-Class to buy: the facelift OM642 has fewer oil-cooler-seal failures, and the facelift interior and electronics are a significant step up from the pre-facelift car."
+        "worthKnowing": "This is the R-Class to buy: the facelift OM642 has fewer oil-cooler-seal failures, and the facelift interior and electronics are a significant step up from the pre-facelift car.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "The Facelift / Rationalisation"
+        }
       },
       {
         "era": "The End",
         "years": "2013",
         "keyEngines": "OM642 (final year)",
         "whyBmwChanged": "Mercedes discontinued the R-Class globally in 2013 due to low sales - it was a niche product that never found its audience.",
-        "worthKnowing": "The R-Class shares its platform with the GL (now GLS) and ML (now GLE) - so parts availability remains excellent through the GLE/GLS supply chain."
+        "worthKnowing": "The R-Class shares its platform with the GL (now GLS) and ML (now GLE) - so parts availability remains excellent through the GLE/GLS supply chain.",
+        "image": {
+          "src": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp",
+          "alt": "The End"
+        }
       }
     ]
   },

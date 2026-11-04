@@ -29,94 +29,219 @@
   "engines": {
     "title": "Most-Enquired Mercedes-Benz Engines (2025)",
     "icon": "engine",
-    "columns": ["RANK", "ENGINE CODE", "LABEL", "ENQUIRIES"],
+    "columns": [
+      "RANK",
+      "ENGINE CODE",
+      "LABEL",
+      "ENQUIRIES"
+    ],
     "rows": [
-      { "rank": 1, "code": "OM651", "label": "2.1L Diesel", "enquiries": "1,250", "tag": "MB-VERIFIED" },
-      { "rank": 2, "code": "OM642", "label": "3.0L V6 Diesel", "enquiries": "880", "tag": "MB-VERIFIED" },
-      { "rank": 3, "code": "OM654", "label": "2.0L Diesel", "enquiries": "520", "tag": "MB-VERIFIED" },
-      { "rank": 4, "code": "M276", "label": "3.0L V6 Petrol", "enquiries": "390", "tag": "MB-VERIFIED" },
-      { "rank": 5, "code": "M177", "label": "4.0L V8 Biturbo", "enquiries": "370", "tag": "MB-VERIFIED" }
+      {
+        "rank": 1,
+        "code": "OM651",
+        "label": "2.1L Diesel",
+        "enquiries": "1,250",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 2,
+        "code": "OM642",
+        "label": "3.0L V6 Diesel",
+        "enquiries": "880",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 3,
+        "code": "OM654",
+        "label": "2.0L Diesel",
+        "enquiries": "520",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 4,
+        "code": "M276",
+        "label": "3.0L V6 Petrol",
+        "enquiries": "390",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 5,
+        "code": "M177",
+        "label": "4.0L V8 Biturbo",
+        "enquiries": "370",
+        "tag": "MB-VERIFIED"
+      }
     ]
   },
   "models": {
     "title": "Most-Enquired Mercedes-Benz Models (2025)",
     "icon": "car",
-    "columns": ["RANK", "MODEL", "ENQUIRIES"],
+    "columns": [
+      "RANK",
+      "MODEL",
+      "ENQUIRIES"
+    ],
     "rows": [
-      { "rank": 1, "model": "C-Class W205", "enquiries": "368", "tag": "MB-VERIFIED" },
-      { "rank": 2, "model": "E-Class W212", "enquiries": "338", "tag": "MB-VERIFIED" },
-      { "rank": 3, "model": "GLC X253", "enquiries": "304", "tag": "MB-VERIFIED" },
-      { "rank": 4, "model": "GLA X156", "enquiries": "272", "tag": "MB-VERIFIED" },
-      { "rank": 5, "model": "C-Class W204", "enquiries": "252", "tag": "MB-VERIFIED" },
-      { "rank": 6, "model": "E-Class W211", "enquiries": "234", "tag": "MB-VERIFIED" }
+      {
+        "rank": 1,
+        "model": "C-Class W205",
+        "enquiries": "368",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 2,
+        "model": "E-Class W212",
+        "enquiries": "338",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 3,
+        "model": "GLC X253",
+        "enquiries": "304",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 4,
+        "model": "GLA X156",
+        "enquiries": "272",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 5,
+        "model": "C-Class W204",
+        "enquiries": "252",
+        "tag": "MB-VERIFIED"
+      },
+      {
+        "rank": 6,
+        "model": "E-Class W211",
+        "enquiries": "234",
+        "tag": "MB-VERIFIED"
+      }
     ]
   },
   "replacementCosts": {
     "title": "Replacement Cost Index (Reconditioned, Supply-Only)",
     "icon": "pound",
-    "columns": ["ENGINE CODE", "COST RANGE"],
+    "columns": [
+      "ENGINE CODE",
+      "COST RANGE"
+    ],
     "rows": [
-      { "code": "OM651", "cost": "£2,800–£4,800", "tag": "MB-QUOTE" },
-      { "code": "OM642", "cost": "£3,200–£5,500", "tag": "MB-QUOTE" },
-      { "code": "OM654", "cost": "£3,000–£5,000", "tag": "MB-QUOTE" },
-      { "code": "M276", "cost": "£3,800–£6,500", "tag": "MB-QUOTE" },
-      { "code": "M177", "cost": "£8,000–£14,000", "tag": "MB-QUOTE" }
+      {
+        "code": "OM651",
+        "cost": "£2,800–£4,800",
+        "tag": "MB-QUOTE"
+      },
+      {
+        "code": "OM642",
+        "cost": "£3,200–£5,500",
+        "tag": "MB-QUOTE"
+      },
+      {
+        "code": "OM654",
+        "cost": "£3,000–£5,000",
+        "tag": "MB-QUOTE"
+      },
+      {
+        "code": "M276",
+        "cost": "£3,800–£6,500",
+        "tag": "MB-QUOTE"
+      },
+      {
+        "code": "M177",
+        "cost": "£8,000–£14,000",
+        "tag": "MB-QUOTE"
+      }
     ]
   },
   "failures": {
     "title": "Most Common Mercedes-Benz Failures",
     "icon": "warning",
-    "columns": ["RANK", "FAILURE", "RISK LEVEL"],
+    "columns": [
+      "RANK",
+      "FAILURE",
+      "RISK LEVEL"
+    ],
     "rows": [
       {
         "rank": 1,
         "failure": "OM651 injector seal failure (\"Black Death\")",
-        "risk": { "label": "Catastrophic if Ignored", "type": "catastrophic" }
+        "risk": {
+          "label": "Catastrophic if Ignored",
+          "type": "catastrophic"
+        }
       },
       {
         "rank": 2,
         "failure": "OM651 rear timing chain tensioner wear",
-        "risk": { "label": "Immediate", "type": "immediate" }
+        "risk": {
+          "label": "Immediate",
+          "type": "immediate"
+        }
       },
       {
         "rank": 3,
         "failure": "OM642 oil cooler seal leak",
-        "risk": { "label": "Monitor", "type": "monitor" }
+        "risk": {
+          "label": "Monitor",
+          "type": "monitor"
+        }
       },
       {
         "rank": 4,
         "failure": "M276 timing chain stretch",
-        "risk": { "label": "Monitor", "type": "monitor" }
+        "risk": {
+          "label": "Monitor",
+          "type": "monitor"
+        }
       },
       {
         "rank": 5,
         "failure": "M177 valve cover oil leaks",
-        "risk": { "label": "Low", "type": "low" }
+        "risk": {
+          "label": "Low",
+          "type": "low"
+        }
       }
     ]
   },
   "liveFeed": {
     "title": "Live Enquiry Feed",
     "icon": "live",
-    "columns": ["VEHICLE", "LOCATION", "ISSUE", "TIMESTAMP"],
+    "columns": [
+      "VEHICLE",
+      "LOCATION",
+      "ISSUE",
+      "TIMESTAMP"
+    ],
     "rows": [
       {
         "vehicle": "Mercedes C220d (OM651)",
-        "image": { "src": "/right.webp", "alt": "Mercedes C220d" },
+        "image": {
+          "src": "/cars/c-class-w205-standard amg line-saloon-2014–2018-new-jupiter red-new generation-c-class w205 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes C220d"
+        },
         "location": "London",
         "issue": "Injector seal / \"Black Death\"",
         "timestamp": "3 hours ago"
       },
       {
         "vehicle": "Mercedes GLC (OM654)",
-        "image": { "src": "/right.webp", "alt": "Mercedes GLC" },
+        "image": {
+          "src": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp",
+          "alt": "Mercedes GLC"
+        },
         "location": "Birmingham",
         "issue": "Pre-purchase inspection",
         "timestamp": "5 hours ago"
       },
       {
         "vehicle": "Mercedes E350d (OM642)",
-        "image": { "src": "/right.webp", "alt": "Mercedes E350d" },
+        "image": {
+          "src": "/cars/cls-c218-coupé-4-door coupé-2011–2014-new-designo diamond white bright-new generation-cls c218-45-angle-front-view.webp",
+          "alt": "Mercedes E350d"
+        },
         "location": "Manchester",
         "issue": "Oil cooler seal leak",
         "timestamp": "8 hours ago"

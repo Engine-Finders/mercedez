@@ -12,7 +12,7 @@ const cardThemes = [
     accent: GOLD,
     border: "border-[rgba(171,132,80,0.35)]",
     bg: "bg-[linear-gradient(135deg,#FBF8F2_0%,#F5EAD4_100%)]",
-    image: "/model/Hero-bg-image.webp",
+    useHero: true,
     imageClass: "object-cover object-[68%_70%]",
     cta: "Explore Now",
     icon: "knowledge",
@@ -91,13 +91,14 @@ function UkMapArt({ accent }) {
   );
 }
 
-function ActionCard({ card, index, isDark }) {
+function ActionCard({ card, index, isDark, heroImage }) {
   const theme = cardThemes[index] || cardThemes[0];
   const titleParts = [
     { before: "Explore", accent: "Generations", after: "" },
     { before: "Diagnose", accent: "My Engine", after: "" },
     { before: "Compare", accent: "UK Specialists", after: "" },
   ][index] || { before: cleanText(card.title), accent: "", after: "" };
+  const cardImage = theme.useHero ? heroImage?.src || "/model/Hero-bg-image.webp" : theme.image;
 
   return (
     <Link
@@ -105,8 +106,8 @@ function ActionCard({ card, index, isDark }) {
       className={`group relative min-h-[250px] overflow-hidden rounded-md border ${theme.border} ${theme.bg} p-4 shadow-[0_10px_28px_rgba(10,26,43,0.10)] transition-all duration-200 hover:-translate-y-0.5 hover:shadow-[0_16px_34px_rgba(10,26,43,0.16)] no-underline md:min-h-[270px] md:p-5 lg:min-h-[270px]`}
     >
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_34%,rgba(255,255,255,0.92)_0%,rgba(255,255,255,0.08)_56%,transparent_100%)]" />
-      {theme.image ? (
-        <Image src={theme.image} alt="" fill className={`opacity-45 mix-blend-multiply ${theme.imageClass}`} sizes="(min-width: 1024px) 31vw, 100vw" />
+      {cardImage ? (
+        <Image src={cardImage} alt="" fill unoptimized className={`opacity-45 mix-blend-multiply ${theme.imageClass}`} sizes="(min-width: 1024px) 31vw, 100vw" />
       ) : (
         <UkMapArt accent={theme.accent} />
       )}
@@ -136,18 +137,20 @@ function ActionCard({ card, index, isDark }) {
   );
 }
 
-export default function ClosingActionCards({ data }) {
+export default function ClosingActionCards({ data, heroImage }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
   const title = splitTitle(data.h2);
+  const bgSrc = heroImage?.src || "/model/Hero-bg-image.webp";
+  const bgAlt = heroImage?.alt || "";
 
   return (
     <section className={`relative overflow-hidden pt-2 pb-8 text-[var(--color-text)] ${homeSectionBg(isDark, 14)}`}>
       <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
         <div className="relative overflow-hidden rounded-md bg-[var(--color-surface-raised)]">
-          <Image src="/model/Hero-bg-image.webp" alt="" fill className="hidden object-cover object-center md:block" sizes="100vw" />
+          <Image src={bgSrc} alt={bgAlt} fill unoptimized className="hidden object-cover object-center md:block" sizes="100vw" />
           <div
             className="absolute inset-0"
             style={{
@@ -179,7 +182,7 @@ export default function ClosingActionCards({ data }) {
 
         <div className="mt-4 grid gap-4 md:grid-cols-3">
           {(data.cards || []).map((card, index) => (
-            <ActionCard key={card.title || card.href} card={card} index={index} isDark={isDark} />
+            <ActionCard key={card.title || card.href} card={card} index={index} isDark={isDark} heroImage={heroImage} />
           ))}
         </div>
       </div>
