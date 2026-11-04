@@ -246,7 +246,17 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
         return;
       }
 
-      setVehicle(data.vehicle || emptyVehicle);
+      const raw = data.vehicle || {};
+      setVehicle({
+        vrm: String(raw.vrm || raw.VRM || reg).replace(/\s+/g, "").toUpperCase(),
+        brand: raw.brand || raw.make || "",
+        series: raw.series || raw.model || "",
+        year: raw.year || "",
+        fuelType: raw.fuelType || raw.fuel || "",
+        engineCapacity: raw.engineCapacity ? String(raw.engineCapacity) : "",
+        colour: raw.colour || "",
+        wheelplan: raw.wheelplan || "",
+      });
       setLookupAlert({ type: "", message: "" });
     } catch (error) {
       setVehicle(emptyVehicle);

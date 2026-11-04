@@ -11,12 +11,19 @@ export async function GET(request) {
     process.env.CHECKCARDETAILS_API_KEY ||
     process.env.VEHICLE_API_KEY ||
     process.env.API_KEY ||
-    "";
+    "157be19933d191db7628a7a7afa10bc9";
+
+  if (!apiKey) {
+    return Response.json({ error: "Vehicle lookup API key is not configured" }, { status: 500 });
+  }
+
   const url = `https://api.checkcardetails.co.uk/vehicledata/ukvehicledata?apikey=${apiKey}&vrm=${encodeURIComponent(cleanReg)}`;
 
   try {
     const res = await fetch(url, { headers: { Accept: "application/json" } });
     if (!res.ok) {
+      const detail = await res.text().catch(() => "");
+      console.error("GET vehicle-lookup upstream", res.status, detail.slice(0, 300));
       return Response.json({ error: `Vehicle lookup failed with status ${res.status}` }, { status: 502 });
     }
     const data = await res.json();
@@ -26,14 +33,31 @@ export async function GET(request) {
       return Response.json({ error: "No vehicle details found for that registration" }, { status: 404 });
     }
 
+    const make = regData.Make || "";
+    const model = regData.Model || "";
+    const year = regData.YearOfManufacture || "";
+    const fuel = regData.FuelType || "";
+    const colour = regData.Colour || "";
+    const wheelplan = regData.WheelPlan || "";
+    const engineCapacity = regData.EngineCapacity
+      ? String(Math.round(Number(regData.EngineCapacity)))
+      : "";
+
+    // Shape used by FloatingQuoteModal / QuoteForm (vrm, series, fuelType).
+    // Keep legacy aliases (VRM, model, fuel) for older callers.
     const vehicle = {
+      vrm: cleanReg,
       VRM: cleanReg,
-      brand: regData.Make || "",
-      make: regData.Make || "",
-      model: regData.Model || "",
-      year: regData.YearOfManufacture || "",
-      fuel: regData.FuelType || "",
-      engineCapacity: regData.EngineCapacity ? Math.round(Number(regData.EngineCapacity) / 1000) : "",
+      brand: make,
+      make,
+      series: model,
+      model,
+      year,
+      fuelType: fuel,
+      fuel,
+      engineCapacity,
+      colour,
+      wheelplan,
     };
 
     return Response.json({ vehicle, raw: data });
@@ -57,15 +81,25 @@ export async function POST(request) {
 
     const cleanReg = reg.replace(/\s+/g, "").toUpperCase();
     const apiKey =
-    process.env.CHECKCARDETAILS_API_KEY ||
-    process.env.VEHICLE_API_KEY ||
-    process.env.API_KEY ||
-    "";
+      process.env.CHECKCARDETAILS_API_KEY ||
+      process.env.VEHICLE_API_KEY ||
+      process.env.API_KEY ||
+      "157be19933d191db7628a7a7afa10bc9";
+
+    if (!apiKey) {
+      return Response.json(
+        { success: false, message: "Vehicle lookup API key is not configured." },
+        { status: 500 }
+      );
+    }
+
     const url = `https://api.checkcardetails.co.uk/vehicledata/ukvehicledata?apikey=${apiKey}&vrm=${encodeURIComponent(cleanReg)}`;
 
     const res = await fetch(url, { headers: { Accept: "application/json" } });
 
     if (!res.ok) {
+      const detail = await res.text().catch(() => "");
+      console.error("POST vehicle-lookup upstream", res.status, detail.slice(0, 300));
       return Response.json(
         { success: false, message: `Vehicle lookup service responded with status ${res.status}.` },
         { status: 502 }
