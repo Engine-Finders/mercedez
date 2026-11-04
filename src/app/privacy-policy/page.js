@@ -2,14 +2,16 @@ import LegalPage from "@/components/shared/LegalPage";
 
 export const metadata = {
   title: "Privacy Policy",
-  description: "How Mercedes Engines UK collects, uses and protects your personal information.",
+  description:
+    "How Mercedes Engines UK collects, uses and protects your personal information.",
 };
 
 export default function PrivacyPolicyPage() {
   return (
     <LegalPage title="Privacy Policy" updated="22 October 2026">
       <p>
-        This Privacy Policy explains how Mercedes Engines UK (&quot;we&quot;, &quot;us&quot;) handles personal information when you use
+        This Privacy Policy explains how Mercedes Engines UK (&quot;we&quot;,
+        &quot;us&quot;) handles personal information when you use
         mercedesengines.uk.
       </p>
 
@@ -17,8 +19,13 @@ export default function PrivacyPolicyPage() {
       <p>We may collect:</p>
       <ul>
         <li>Contact details you submit (such as name, email, phone number)</li>
-        <li>Vehicle details you provide (registration, model, engine code, symptoms)</li>
-        <li>Technical data such as IP address, browser type and pages visited</li>
+        <li>
+          Vehicle details you provide (registration, model, engine code,
+          symptoms)
+        </li>
+        <li>
+          Technical data such as IP address, browser type and pages visited
+        </li>
         <li>Cookie and analytics data as described in our Cookies Policy</li>
       </ul>
 
@@ -33,14 +40,30 @@ export default function PrivacyPolicyPage() {
 
       <h2>Sharing</h2>
       <p>
-        We may share relevant enquiry details with vetted specialists or service partners only where needed to fulfil your
-        request. We do not sell personal data.
+        We may share relevant enquiry details with vetted specialists or service
+        partners only where needed to fulfil your request. We do not sell
+        personal data. Suppliers may use your information only to respond to
+        your specific enquiry and provide the related service. They must not use
+        it for unrelated marketing or share it with third parties except where
+        legally required. Suppliers are responsible for their own data-handling
+        practices.
+      </p>
+
+      <h2>Retention</h2>
+      <p>
+        We retain enquiry data for up to 3 years from your last interaction to
+        handle complaints, disputes and legal claims. After this period, we
+        delete or anonymise the data unless continued retention is required by
+        law. Suppliers may retain your information under their own retention
+        policies. We may retain anonymised data indefinitely for analytical
+        purposes.
       </p>
 
       <h2>Your rights</h2>
       <p>
-        Depending on applicable law, you may ask to access, correct or delete your personal data, or object to certain
-        processing. Contact us to make a request.
+        Depending on applicable law, you may ask to access, correct or delete
+        your personal data, or object to certain processing. Contact us to make
+        a request.
       </p>
 
       <h2>Contact</h2>
