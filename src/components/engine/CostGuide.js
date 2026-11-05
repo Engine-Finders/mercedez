@@ -4,7 +4,12 @@ import Link from "next/link";
 import { useTheme } from "@/components/shared/themeProvider";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import { sectionDescription} from "@/components/models/sectionTypography";
+import { iconColor } from "@/components/engine/iconTone";
+import {
+  sectionDescription,
+  sectionH2,
+  sectionSmall,
+} from "@/components/models/sectionTypography";
 
 function cleanText(text = "") {
   return String(text)
@@ -48,8 +53,9 @@ function cardClass(isDark) {
     : "border-[var(--color-border-strong)] bg-[var(--color-surface)] shadow-[0_10px_28px_var(--color-shadow)]";
 }
 
-function ConditionIcon({ condition }) {
+function ConditionIcon({ condition, isDark }) {
   const key = cleanText(condition).toLowerCase();
+  const tone = iconColor(isDark);
 
   let path = <path d="M3 12h3m12 0h3M7 9h10v6H7V9Zm2-3h6m-3 0V3M5 15v3m14-3v3M9 18h6" />;
   if (key.includes("recondition")) {
@@ -59,7 +65,10 @@ function ConditionIcon({ condition }) {
   }
 
   return (
-    <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450] md:h-10 md:w-10">
+    <span
+      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)] md:h-10 md:w-10"
+      style={{ borderColor: tone, color: tone }}
+    >
       <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4 md:h-5 md:w-5" fill="none" stroke="currentColor" strokeWidth="1.85">
         {path}
       </svg>
@@ -88,8 +97,8 @@ function PriceCard({ row, popular = false, isDark, compact = false }) {
       ) : null}
 
       <div className="flex items-center gap-2.5">
-        <ConditionIcon condition={row.condition} />
-        <p className="font-lora text-[14px] font-medium uppercase tracking-[0.04em] text-[var(--color-text)] md:text-[15px]">{title}</p>
+        <ConditionIcon condition={row.condition} isDark={isDark} />
+        <p className={`font-lora font-medium uppercase tracking-[0.04em] text-[var(--color-text)] ${sectionSmall}`}>{title}</p>
       </div>
 
       {compact ? (
@@ -201,22 +210,27 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
           {/* Desktop */}
           <div className="hidden gap-4 md:grid md:grid-cols-[minmax(240px,0.85fr)_minmax(0,1.7fr)] md:items-stretch">
             <div className="flex flex-col">
-              <SectionLabel number={5} isDark={isDark} />
-          <h2 className={`font-medium tracking-normal font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px]`}>
-                <span className="text-[#AB8450]">{engineCode}</span> Engine Price Guide
+              <h2 className={`font-lora ${sectionH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                <span style={{ color: GOLD }}>{engineCode}</span> Engine Price Guide
               </h2>
-<p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
+              <div className="mt-3">
+                <SectionLabel isDark={isDark} />
+              </div>
+              <p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
                 All prices are estimates from UK specialists{" "}
-                <span className="font-semibold text-[#AB8450]">{quoteTag}</span>
+                <span className="font-semibold" style={{ color: GOLD }}>{quoteTag}</span>
               </p>
 
               {data.labourEstimate ? (
                 <div className="mt-4 rounded-xl border border-[var(--color-border)] bg-[rgba(171,132,80,0.12)] px-3.5 py-3">
                   <div className="flex items-start gap-2.5">
-                    <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] text-[12px] font-bold text-[#AB8450]">
+                    <span
+                      className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[12px] font-bold"
+                      style={{ borderColor: iconColor(isDark), color: iconColor(isDark) }}
+                    >
                       i
                     </span>
-                    <p className="text-[12px] leading-[1.4] text-[var(--color-text-muted)]">
+                    <p className={`leading-[1.4] text-[var(--color-text-muted)] ${sectionSmall}`}>
                       {renderTaggedText(data.labourEstimate)}
                     </p>
                   </div>
@@ -224,12 +238,15 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
               ) : null}
 
               <div className="mt-auto flex items-center gap-2 pt-4">
-                <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
+                <span
+                  className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)]"
+                  style={{ borderColor: iconColor(isDark), color: iconColor(isDark) }}
+                >
                   <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth="1.9">
                     <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
                   </svg>
                 </span>
-                <p className="text-[11px] text-[var(--color-text-soft)]">{exclusiveNote}</p>
+                <p className={`text-[var(--color-text-soft)] ${sectionSmall}`}>{exclusiveNote}</p>
               </div>
             </div>
 
@@ -248,13 +265,16 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
 
           {/* Mobile */}
           <div className="md:hidden">
-            <h2 className={`font-medium tracking-normal font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px]`}>
-              <span className="text-[#AB8450]">{engineCode}</span> Engine Price Guide
+            <h2 className={`font-lora ${sectionH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <span style={{ color: GOLD }}>{engineCode}</span> Engine Price Guide
             </h2>
-<p className="mt-4 text-[13px] leading-[1.4] text-[var(--color-text-muted)]">
+            <div className="mt-3">
+              <SectionLabel isDark={isDark} />
+            </div>
+            <p className={`mt-4 text-[var(--color-text-muted)] ${sectionDescription}`}>
               All prices are estimates from UK specialists
             </p>
-            <p className="mt-1 text-[12px] font-semibold text-[#AB8450]">{quoteTag}</p>
+            <p className={`mt-1 font-semibold ${sectionSmall}`} style={{ color: GOLD }}>{quoteTag}</p>
 
             <div className="mt-4 grid gap-3">
               {rows.map((row) => (
@@ -270,22 +290,28 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
 
             {data.labourEstimate ? (
               <div className={`mt-3 flex items-start gap-2.5 rounded-xl border px-3 py-2.5 ${cardClass(isDark)}`}>
-                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] text-[11px] font-bold text-[#AB8450]">
+                <span
+                  className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[11px] font-bold"
+                  style={{ borderColor: iconColor(isDark), color: iconColor(isDark) }}
+                >
                   i
                 </span>
-                <p className="text-[11px] leading-[1.4] text-[var(--color-text-muted)]">
+                <p className={`leading-[1.4] text-[var(--color-text-muted)] ${sectionSmall}`}>
                   {renderTaggedText(data.labourEstimate)}
                 </p>
               </div>
             ) : null}
 
             <div className={`mt-2.5 flex items-center gap-2 rounded-xl border px-3 py-2.5 ${cardClass(isDark)}`}>
-              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
+              <span
+                className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)]"
+                style={{ borderColor: iconColor(isDark), color: iconColor(isDark) }}
+              >
                 <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth="1.9">
                   <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
                 </svg>
               </span>
-              <p className="text-[11px] text-[var(--color-text-soft)]">{exclusiveNote}</p>
+              <p className={`text-[var(--color-text-soft)] ${sectionSmall}`}>{exclusiveNote}</p>
             </div>
 
             <div className="mt-3">

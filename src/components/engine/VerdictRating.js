@@ -3,6 +3,14 @@
 import { useTheme } from "@/components/shared/themeProvider";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import { iconColor } from "@/components/engine/iconTone";
+import {
+  sectionBadge,
+  sectionBody,
+  sectionH2,
+  sectionHighlight,
+  sectionSmall,
+} from "@/components/models/sectionTypography";
 
 const dimensionIcons = {
   Reliability: (
@@ -143,19 +151,21 @@ function StarRating({ value }) {
   );
 }
 
-function CircleIcon({ children, className = "" }) {
+function CircleIcon({ children, className = "", isDark = false }) {
+  const tone = iconColor(isDark);
   return (
     <span
-      className={`flex shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450] ${className}`}
+      className={`flex shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)] ${className}`}
+      style={{ borderColor: tone, color: tone }}
     >
       {children}
     </span>
   );
 }
 
-function DimensionIcon({ dimension }) {
+function DimensionIcon({ dimension, isDark }) {
   return (
-    <CircleIcon className="h-8 w-8 md:h-10 md:w-10">
+    <CircleIcon className="h-8 w-8 md:h-10 md:w-10" isDark={isDark}>
       <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3.5 w-3.5 md:h-5 md:w-5" fill="none" stroke="currentColor" strokeWidth="1.85">
         {dimensionIcons[dimension] || dimensionIcons.Reliability}
       </svg>
@@ -168,24 +178,24 @@ function RatingCard({ starRating, confidence, isDark }) {
 
   return (
     <article className={`rounded-xl border px-3.5 py-3.5 md:px-5 md:py-5 ${cardClass(isDark)}`}>
-      <p className={`text-[12px] font-medium md:text-[14px] ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-soft)]"}`}>Rating:</p>
+      <p className={`font-medium ${sectionBadge} ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-soft)]"}`}>Rating:</p>
 
       <div className="mt-1.5 flex flex-wrap items-end gap-x-2.5 gap-y-1 md:mt-2 md:gap-x-3">
-        <p className="font-lora text-[36px] font-medium leading-none text-[#AB8450] md:text-[48px]">{rating.display}</p>
+        <p className={`font-lora font-medium leading-none ${sectionH2}`} style={{ color: GOLD }}>{rating.display}</p>
         <div className="mb-0.5 flex items-center gap-1.5 md:mb-1 md:gap-2">
           <StarRating value={rating.numeric} />
-          <span className="font-lora text-[11px] font-medium text-[var(--color-text-soft)] md:text-[13px]">out of 5</span>
+          <span className={`font-lora font-medium text-[var(--color-text-soft)] ${sectionSmall}`}>out of 5</span>
         </div>
       </div>
 
       <div className="mt-3 border-t border-[var(--color-border)] pt-3">
         <div className="flex items-start gap-2.5">
-          <CircleIcon className="mt-0.5 h-7 w-7 md:h-8 md:w-8">
+          <CircleIcon className="mt-0.5 h-7 w-7 md:h-8 md:w-8" isDark={isDark}>
             <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3.5 w-3.5 md:h-4 md:w-4" fill="none" stroke="currentColor" strokeWidth="1.9">
               <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
             </svg>
           </CircleIcon>
-          <p className="min-w-0 text-[12px] leading-[1.4] text-[var(--color-text-muted)] md:text-[13px]">
+          <p className={`min-w-0 text-[var(--color-text-muted)] ${sectionSmall}`}>
             {renderTaggedText(confidence)}
           </p>
         </div>
@@ -206,7 +216,7 @@ function VerdictQuote({ oneLineVerdict, isDark }) {
         ”
       </span>
 
-      <p className="relative z-[1] px-4 pt-4 text-[13px] font-medium leading-[1.45] text-[var(--color-text)] md:px-6 md:pt-5 md:text-[15px]">
+      <p className={`relative z-[1] px-4 pt-4 font-medium text-[var(--color-text)] md:px-6 md:pt-5 ${sectionBody}`}>
         {quote}
       </p>
       {meta ? (
@@ -294,16 +304,16 @@ function ScoreBreakdown({ scoreNote, scoreBreakdown, isDark }) {
             className="grid grid-cols-[minmax(0,1fr)_auto] items-start gap-2 border-b border-[var(--color-border)] px-3 py-2.5 md:gap-4 md:px-5 md:py-3.5"
           >
             <div className="flex min-w-0 items-start gap-2 md:gap-3">
-              <DimensionIcon dimension={row.dimension} />
+              <DimensionIcon dimension={row.dimension} isDark={isDark} />
               <div className="min-w-0">
-                <p className="font-lora text-[12px] font-medium leading-tight text-[var(--color-text)] md:text-[14px]">{row.dimension}</p>
+                <p className={`font-lora font-medium leading-tight text-[var(--color-text)] ${sectionBadge}`}>{row.dimension}</p>
                 {row.detail ? (
-                  <p className="mt-0.5 text-[11px] leading-[1.35] text-[var(--color-text-soft)] md:mt-1 md:text-[12px]">{row.detail}</p>
+                  <p className={`mt-0.5 leading-[1.35] text-[var(--color-text-soft)] md:mt-1 ${sectionSmall}`}>{row.detail}</p>
                 ) : null}
               </div>
             </div>
             <p className="shrink-0 pt-0.5 text-right leading-none">
-              <span className="text-[20px] font-bold text-[#AB8450] md:text-[26px]">{row.points}</span>
+              <span className={`font-bold ${sectionHighlight}`} style={{ color: GOLD }}>{row.points}</span>
               <span className={`text-[11px] font-medium md:text-[13px] ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-muted)]"}`}> /{row.outOf}</span>
             </p>
           </div>
@@ -337,10 +347,12 @@ export default function VerdictRating({ data }) {
     <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden py-6 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 3)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="text-left">
-          <SectionLabel number={3} isDark={isDark} />
-          <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px]`}>
-            Verdict <span className="text-[#AB8450]">& Rating</span>
+          <h2 className={`font-lora ${sectionH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            Verdict <span style={{ color: GOLD }}>& Rating</span>
           </h2>
+          <div className="mt-3">
+            <SectionLabel isDark={isDark} />
+          </div>
         </div>
 
         {/* Desktop */}

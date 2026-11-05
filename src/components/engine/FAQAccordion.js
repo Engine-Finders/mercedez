@@ -5,7 +5,7 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "@/components/generation/GenIcons";
-import { sectionDescription } from "@/components/models/sectionTypography";
+import { sectionBody, sectionDescription, sectionH2, sectionH5 } from "@/components/models/sectionTypography";
 
 function cleanText(text = "") {
   return String(text)
@@ -59,7 +59,7 @@ function FaqItem({ item, open, onToggle, isLast, isDark }) {
           {item.id}
         </span>
         <span className="min-w-0 flex-1">
-          <span className={`block font-lora text-[14px] font-medium leading-[1.3] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <span className={`block font-lora font-medium leading-[1.3] ${sectionH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {topic ? (
               <>
                 {topic} – “{title}”
@@ -69,7 +69,7 @@ function FaqItem({ item, open, onToggle, isLast, isDark }) {
             )}
           </span>
           {open ? (
-            <span className={`mt-1.5 block text-[13px] leading-[1.45] ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>
+            <span className={`mt-1.5 block ${sectionBody} ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>
               {renderTaggedText(item.answer)}
             </span>
           ) : null}
@@ -101,12 +101,12 @@ export default function FAQAccordion({ data, engineLabel = "BMW Engine" }) {
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="grid items-start gap-5 md:grid-cols-[minmax(260px,0.85fr)_minmax(0,1.35fr)] md:gap-8 lg:gap-10">
           <div className="min-w-0 max-w-[480px]">
-            <SectionLabel number={6} isDark={isDark} />
-            <div className="flex flex-col gap-3">
-<h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-                Frequently Asked Questions
-              </h2>
-</div>
+            <h2 className={`font-lora ${sectionH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              Frequently Asked Questions
+            </h2>
+            <div className="mt-3">
+              <SectionLabel isDark={isDark} />
+            </div>
             <p className={`mt-4 ${sectionDescription} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Expert answers to the most common Mercedes{" "}
               <span className="font-semibold" style={{ color: GOLD }}>{engineCode}</span> engine questions.
