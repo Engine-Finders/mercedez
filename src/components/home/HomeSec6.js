@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -38,11 +57,11 @@ function VerdictCell({ verdict, isDark }) {
         <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
           <VerdictGlyph type={verdict?.type} />
         </span>
-        <span className="text-[0.78rem] font-semibold" style={{ color: style.bg }}>
+        <span className={`${typeTable} font-semibold`} style={{ color: style.bg }}>
           {verdict?.label || style.label}
         </span>
       </div>
-      <p className={`text-[0.7rem] font-light leading-[1.35] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+      <p className={`${typeTable} font-light ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
         {verdict?.text}
       </p>
     </div>
@@ -61,20 +80,20 @@ function MatrixRow({ row, isDark, variant = "desktop" }) {
         </div>
         <div className="grid min-w-0 flex-1 grid-cols-2 gap-x-3 gap-y-2 pt-0.5">
           <div className="min-w-0">
-            <p className={`font-lora text-[0.9rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <p className={`font-lora ${typeTable} font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.model}
             </p>
             {row.engine ? (
-              <p className={`mt-1 text-[0.7rem] leading-snug ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+              <p className={`mt-1 ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
                 ({row.engine})
               </p>
             ) : null}
-            <p className={`mt-2 text-[0.82rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
-            <p className={`mt-0.5 text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
+            <p className={`mt-2 ${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
+            <p className={`mt-0.5 ${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
           </div>
           <div className="min-w-0 pt-[2.1rem]">
-            <p className={`text-[0.82rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
-            <p className={`mt-0.5 text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
+            <p className={`${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
+            <p className={`mt-0.5 ${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
           </div>
         </div>
       </div>
@@ -89,21 +108,21 @@ function MatrixRow({ row, isDark, variant = "desktop" }) {
           <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill unoptimized className="object-contain" sizes="64px" />
         </div>
         <div className="min-w-0">
-          <p className={`text-[0.9rem] font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <p className={`${typeTable} font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {row.model}
           </p>
           {row.engine ? (
-            <p className={`mt-0.5 text-[0.68rem] ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>({row.engine})</p>
+            <p className={`mt-0.5 ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>({row.engine})</p>
           ) : null}
         </div>
       </div>
       <div>
-        <p className={`text-[0.8rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
-        <p className={`text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
+        <p className={`${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
+        <p className={`${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
       </div>
       <div>
-        <p className={`text-[0.8rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
-        <p className={`text-[0.62rem] uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
+        <p className={`${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
+        <p className={`${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
       </div>
       <VerdictCell verdict={row.verdict} isDark={isDark} />
     </>
@@ -135,7 +154,7 @@ function DecisionMatrix({ matrix, isDark }) {
   return (
     <div>
       <div className="mb-3 flex items-center gap-2 px-0.5 md:hidden">
-        <h3 className={`font-lora text-[1.05rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+        <h3 className={`font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {matrix?.title || "The Decision Matrix"}
         </h3>
         <span className="h-[2px] w-10" style={{ background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.18) 100%)` }} />
@@ -151,14 +170,14 @@ function DecisionMatrix({ matrix, isDark }) {
       {/* Desktop: single table box */}
       <div className={`hidden overflow-hidden rounded-lg border md:block ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
         <div className={`flex items-center gap-2 border-b px-4 py-3 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
-          <h3 className={`font-lora text-[1.15rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h3 className={`font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {matrix?.title || "The Decision Matrix"}
           </h3>
           <span className="h-[2px] w-10" style={{ background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.18) 100%)` }} />
         </div>
 
         <div
-          className={`border-b px-4 py-2.5 text-[0.65rem] font-semibold uppercase tracking-[0.06em] grid grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] gap-4 ${
+          className={`border-b px-4 py-2.5 ${typeTable} font-semibold uppercase tracking-[0.06em] grid grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] gap-4 ${
             isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
           }`}
         >
@@ -178,7 +197,7 @@ function DecisionMatrix({ matrix, isDark }) {
 function RuleCard({ data, isDark }) {
   return (
     <div className={`rounded-lg border p-4 md:p-5 ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
-      <h3 className={`font-lora text-[1rem] font-medium md:text-[1.08rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h3 className={`font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {data.title}
       </h3>
       <div className="mt-4 flex items-center gap-4">
@@ -189,15 +208,15 @@ function RuleCard({ data, isDark }) {
           }}
         >
           <div className={`flex h-[4.5rem] w-[4.5rem] flex-col items-center justify-center rounded-full ${isDark ? "bg-[var(--color-surface-raised)]" : "bg-white"}`}>
-            <span className="font-lora text-[1.35rem] font-semibold leading-none" style={{ color: GOLD }}>
+            <span className={`font-lora ${typeHighlight} font-semibold leading-none`} style={{ color: GOLD }}>
               {data.percent}
             </span>
-            <span className="mt-0.5 text-[0.55rem] font-semibold uppercase tracking-wide" style={{ color: GOLD }}>
+            <span className={`mt-0.5 ${typeBadge} font-semibold uppercase tracking-wide`} style={{ color: GOLD }}>
               {data.percentLabel}
             </span>
           </div>
         </div>
-        <p className={`text-[0.75rem] font-light leading-[1.4] md:text-[0.8rem] ${isDark ? "text-white/75" : "text-[var(--color-text-muted)]"}`}>
+        <p className={`${typeSmall} font-light ${isDark ? "text-white/75" : "text-[var(--color-text-muted)]"}`}>
           {data.text}
         </p>
       </div>
@@ -210,7 +229,7 @@ function LinksCard({ data, isDark }) {
 
   return (
     <div className={`rounded-lg border p-4 md:p-5 ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
-      <h3 className={`mb-3 font-lora text-[1rem] font-medium md:text-[1.08rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h3 className={`mb-3 font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {data?.title || "Deeper Analysis Links"}
       </h3>
       <ul className="flex flex-col gap-1">
@@ -223,20 +242,20 @@ function LinksCard({ data, isDark }) {
               }`}
             >
               <span
-                className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-[0.72rem] font-semibold"
+                className={`mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full ${typeBadge} font-semibold`}
                 style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}
               >
                 {item.id}
               </span>
               <span className="min-w-0 flex-1">
-                <span className={`block text-[0.82rem] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                <span className={`block ${typeSmall} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                   {item.label}
                 </span>
-                <span className={`mt-0.5 block text-[0.68rem] font-light leading-[1.3] ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+                <span className={`mt-0.5 block ${typeBadge} font-light ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
                   {item.purpose}
                 </span>
               </span>
-              <span className="mt-1 text-[0.9rem]" style={{ color: GOLD }}>
+              <span className={`mt-1 ${typeBody}`} style={{ color: GOLD }}>
                 ›
               </span>
             </Link>
@@ -274,11 +293,11 @@ export default function HomeSec6({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             The Mercedes-Benz Ownership Economics Centre
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>
@@ -305,7 +324,7 @@ export default function HomeSec6({ data }) {
               }`}
             >
               {data.footerNote ? (
-                <p className={`flex items-start gap-2 text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+                <p className={`flex items-start gap-2 ${typeSmall} ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
                   <HomeIcon name="shield" isDark={isDark} gold className="mt-0.5 h-4 w-4 shrink-0" />
                   <span>{data.footerNote}</span>
                 </p>
@@ -315,7 +334,7 @@ export default function HomeSec6({ data }) {
                   {data.footerTrust.map((item) => (
                     <li
                       key={item.label}
-                      className={`flex flex-col items-center gap-1 text-center text-[0.58rem] leading-tight md:inline-flex md:flex-row md:items-center md:gap-1.5 md:text-left md:text-[0.7rem] ${
+                      className={`flex flex-col items-center gap-1 text-center ${typeBadge} leading-tight md:inline-flex md:flex-row md:items-center md:gap-1.5 md:text-left ${
                         isDark ? "text-white/70" : "text-[var(--color-text-muted)]"
                       }`}
                     >

@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import { useState } from "react";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
@@ -33,7 +52,7 @@ export default function HomeSec13({ data }) {
       <div className="mx-auto w-full max-w-8xl">
         <div className="flex flex-col gap-3 md:flex-row md:items-end md:gap-6">
           <div className="shrink-0">
-            <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Frequently Asked Questions
             </h2>
             <SectionLabel isDark={isDark} />
@@ -58,10 +77,10 @@ export default function HomeSec13({ data }) {
                     isDark ? "text-white hover:bg-white/5" : "text-[var(--color-text)] hover:bg-[#F8F7F3]"
                   }`}
                 >
-                  <span className="font-lora text-[0.9rem] font-medium tabular-nums md:text-[1rem]" style={{ color: GOLD }}>
+                  <span className={`font-lora ${typeHighlight} font-medium tabular-nums`} style={{ color: GOLD }}>
                     Q{item.id}
                   </span>
-                  <span className="min-w-0 flex-1 font-lora text-[0.92rem] font-medium leading-snug md:text-[1.05rem]">
+                  <span className={`min-w-0 flex-1 font-lora ${typeH6} font-medium leading-snug`}>
                     {item.question}
                   </span>
                   <span className={`${isDark ? "text-white/50" : "text-[var(--color-text-muted)]"} ${isOpen ? "rotate-180" : ""} transition-transform`}>
@@ -71,7 +90,7 @@ export default function HomeSec13({ data }) {
                 {isOpen ? (
                   <div className="px-4 pb-4 md:px-5" style={{ borderLeft: `3px solid ${GOLD}` }}>
                     <p
-                      className={`pl-3 text-[0.82rem] font-light leading-[1.5] md:pl-[3.25rem] md:text-[0.9rem] ${
+                      className={`pl-3 ${typeBody} font-light md:pl-[3.25rem] ${
                         isDark ? "text-white/75" : "text-[var(--color-text-muted)]"
                       }`}
                     >

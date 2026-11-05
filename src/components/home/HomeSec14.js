@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -47,7 +66,7 @@ function StatItem({ item, isDark }) {
         <HomeIcon name={icon} isDark={isDark} className="h-5 w-5" />
       </span>
       <span className="hidden h-8 w-px shrink-0 md:block" style={{ backgroundColor: GOLD }} />
-      <span className="min-w-0 text-[0.78rem] leading-snug md:text-[0.85rem]">{label}</span>
+      <span className={`min-w-0 ${typeSmall}`}>{label}</span>
     </li>
   );
 }
@@ -70,11 +89,11 @@ export default function HomeSec14({ data }) {
     <section className={`px-3 pb-7 pt-2 md:px-4 md:pb-8 ${homeSectionBg(isDark, 14)}`}>
       {/* Mobile layout - matches ref */}
       <div className="mx-auto w-full max-w-8xl md:hidden">
-        <h2 className={`font-lora text-[1.85rem] font-medium leading-[1.1] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+        <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           Get the Right Answer. <span style={{ color: GOLD }}>Not Just Any Answer.</span>
         </h2>
         <SectionLabel isDark={isDark} />
-        <p className={`mt-2 text-[0.88rem] leading-snug ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+        <p className={`mt-2 ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
           {data.subHeadline}
         </p>
 
@@ -87,10 +106,10 @@ export default function HomeSec14({ data }) {
         ) : null}
 
         <div className="mt-5 rounded-xl border px-4 py-5" style={{ backgroundColor: "#0a0a0a", borderColor: "rgba(171,132,80,0.35)" }}>
-          <p className="font-lora text-[0.72rem] font-medium uppercase tracking-[0.1em]" style={{ color: GOLD }}>
+          <p className={`font-lora ${typeEyebrow}`} style={{ color: GOLD }}>
             {guidance.eyebrow || "GET YOUR FREE GUIDANCE"}
           </p>
-          <h3 className="mt-2 font-lora text-[1.45rem] font-medium leading-[1.15] text-white">
+          <h3 className={`mt-2 font-lora ${typeH4} text-white`}>
             {guidance.title || "Ask a Mercedes-Benz engine specialist"}
           </h3>
 
@@ -103,8 +122,8 @@ export default function HomeSec14({ data }) {
               <PhoneIcon />
             </span>
             <span className="min-w-0 flex-1">
-              <span className="block text-[0.82rem] font-semibold uppercase tracking-wide text-white">{secondaryCta.label}</span>
-              <span className="mt-0.5 block text-[0.7rem] text-white/70">{secondaryCta.subLabel}</span>
+              <span className={`block ${typeButton} font-semibold uppercase tracking-wide text-white`}>{secondaryCta.label}</span>
+              <span className={`mt-0.5 block ${typeSmall} text-white/70`}>{secondaryCta.subLabel}</span>
             </span>
             <span style={{ color: GOLD }}>
               <ArrowIcon />
@@ -113,7 +132,7 @@ export default function HomeSec14({ data }) {
 
           {review ? (
             <div className="mt-4 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-white">
-              <span className="inline-flex items-center gap-1 text-[0.88rem] font-semibold">
+              <span className={`inline-flex items-center gap-1 ${typeBody} font-semibold`}>
                 <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4 text-[#00b67a]" fill="currentColor">
                   <path d="m12 2.8 2.8 5.8 6.4.9-4.6 4.5 1.1 6.3-5.7-3-5.7 3 1.1-6.3-4.6-4.5 6.4-.9L12 2.8Z" />
                 </svg>
@@ -121,12 +140,12 @@ export default function HomeSec14({ data }) {
               </span>
               <span className="flex gap-0.5">
                 {Array.from({ length: review.stars || 5 }).map((_, index) => (
-                  <span key={index} className="text-[0.85rem]" style={{ color: GOLD }}>
+                  <span key={index} className={typeHighlight} style={{ color: GOLD }}>
                     ★
                   </span>
                 ))}
               </span>
-              <span className="text-[0.75rem] text-white/75">{review.score}</span>
+              <span className={`${typeSmall} text-white/75`}>{review.score}</span>
             </div>
           ) : null}
         </div>
@@ -150,11 +169,11 @@ export default function HomeSec14({ data }) {
         </div>
 
         <div className="relative max-w-[58%] px-8 py-7">
-          <h2 className={`font-lora text-[2.35rem] font-medium leading-[1.1] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Get the Right Answer. Not Just Any Answer.
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-2 text-[1.05rem] leading-snug ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-2 ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
 
@@ -174,8 +193,8 @@ export default function HomeSec14({ data }) {
             >
               <HomeIcon name="quote" isDark={isDark} className="h-7 w-7" />
               <span className="min-w-0">
-                <span className="block text-[0.82rem] font-semibold leading-tight uppercase tracking-wide">{primaryCta.label}</span>
-                <span className="mt-0.5 block text-[0.72rem] leading-tight text-white/85">{primaryCta.subLabel}</span>
+                <span className={`block ${typeButton} font-semibold leading-tight uppercase tracking-wide`}>{primaryCta.label}</span>
+                <span className={`mt-0.5 block ${typeSmall} leading-tight text-white/85`}>{primaryCta.subLabel}</span>
               </span>
             </Link>
 
@@ -187,8 +206,8 @@ export default function HomeSec14({ data }) {
             >
               <HomeIcon name="users" isDark={isDark} className="h-6 w-6" />
               <span className="min-w-0">
-                <span className="block text-[0.82rem] font-semibold leading-tight uppercase tracking-wide">{secondaryCta.label}</span>
-                <span className={`mt-0.5 block text-[0.72rem] leading-tight ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
+                <span className={`block ${typeButton} font-semibold leading-tight uppercase tracking-wide`}>{secondaryCta.label}</span>
+                <span className={`mt-0.5 block ${typeSmall} leading-tight ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
                   {secondaryCta.subLabel}
                 </span>
               </span>
@@ -196,13 +215,13 @@ export default function HomeSec14({ data }) {
 
             {review ? (
               <div className={`flex min-w-0 flex-wrap items-center gap-x-2 gap-y-1 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-                <span className="text-[0.88rem] font-semibold">{review.brand}</span>
+                <span className={`${typeBody} font-semibold`}>{review.brand}</span>
                 <span className="flex gap-0.5">
                   {Array.from({ length: review.stars || 5 }).map((_, index) => (
                     <StarBox key={index} faded={index === (review.stars || 5) - 1} />
                   ))}
                 </span>
-                <span className={`text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{review.score}</span>
+                <span className={`${typeSmall} ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{review.score}</span>
               </div>
             ) : null}
           </div>

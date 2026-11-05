@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
 import { homeSectionBg } from "@/components/home/sectionBg";
@@ -37,7 +56,7 @@ function RiskBadge({ risk, isDark }) {
       <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
         <RiskGlyph type={risk?.type} />
       </span>
-      <span className={`text-[0.72rem] font-medium leading-tight md:text-[0.78rem] ${isDark ? "text-white/90" : "text-[var(--color-text)]"}`}>
+      <span className={`${typeTable} font-medium leading-tight ${isDark ? "text-white/90" : "text-[var(--color-text)]"}`}>
         {risk?.label || style.label}
       </span>
     </span>
@@ -47,7 +66,7 @@ function RiskBadge({ risk, isDark }) {
 function Tag({ value, isDark }) {
   if (!value) return null;
   return (
-    <span className={`ml-1 text-[0.62rem] font-medium uppercase tracking-[0.04em] ${isDark ? "text-white/45" : "text-[var(--color-text-muted)]"}`}>
+    <span className={`ml-1 ${typeBadge} font-medium uppercase tracking-[0.04em] ${isDark ? "text-white/45" : "text-[var(--color-text-muted)]"}`}>
       [{value}]
     </span>
   );
@@ -64,7 +83,7 @@ function Panel({ title, icon, isDark, children, className = "" }) {
         <span className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-full md:h-12 md:w-12 ${isDark ? "bg-white/10" : "bg-[#F5EAD4]"}`}>
           <HomeIcon name={icon || "engine"} isDark={isDark} className="h-6 w-6 md:h-7 md:w-7" />
         </span>
-        <h3 className={`font-lora text-[0.85rem] font-medium uppercase leading-snug tracking-[0.03em] md:text-[0.92rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+        <h3 className={`font-lora ${typeH6} font-medium uppercase leading-snug tracking-[0.03em] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {title}
         </h3>
       </div>
@@ -84,7 +103,7 @@ function ScrollTable({ minWidth, children }) {
 function ColHead({ cols, grid, isDark }) {
   return (
     <div
-      className={`grid border-b px-3.5 py-2 text-[0.62rem] font-semibold uppercase tracking-[0.06em] ${grid} ${
+      className={`grid border-b px-3.5 py-2 ${typeTable} font-semibold uppercase tracking-[0.06em] ${grid} ${
         isDark ? "border-white/10 bg-white/5 text-white/50" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
       }`}
     >
@@ -110,10 +129,10 @@ function EnginesPanel({ data, isDark }) {
               isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
             }`}
           >
-            <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
-            <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
-            <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{row.label}</span>
-            <span className={`text-[0.78rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <span className={`${typeTable} tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
+            <span className={`font-lora ${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
+            <span className={`${typeTable} ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{row.label}</span>
+            <span className={`${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.enquiries}
               <Tag value={row.tag} isDark={isDark} />
             </span>
@@ -139,9 +158,9 @@ function ModelsPanel({ data, isDark }) {
               isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
             }`}
           >
-            <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
-            <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.model}</span>
-            <span className={`text-[0.78rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <span className={`${typeTable} tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
+            <span className={`font-lora ${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.model}</span>
+            <span className={`${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.enquiries}
               <Tag value={row.tag} isDark={isDark} />
             </span>
@@ -167,8 +186,8 @@ function CostsPanel({ data, isDark }) {
               isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
             }`}
           >
-            <span className={`font-lora text-[0.8rem] font-medium md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
-            <span className={`text-[0.78rem] font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <span className={`font-lora ${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
+            <span className={`${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.cost}
               <Tag value={row.tag} isDark={isDark} />
             </span>
@@ -194,8 +213,8 @@ function FailuresPanel({ data, isDark }) {
               isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"
             }`}
           >
-            <span className={`text-[0.78rem] tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
-            <span className={`font-lora text-[0.8rem] font-medium leading-snug md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <span className={`${typeTable} tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.rank}</span>
+            <span className={`font-lora ${typeTable} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.failure}
             </span>
             <RiskBadge risk={row.risk} isDark={isDark} />
@@ -225,13 +244,13 @@ function FeedPanel({ data, isDark }) {
               <div className="relative h-9 w-12 shrink-0 overflow-hidden">
                 <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.vehicle} fill unoptimized className="object-contain" sizes="48px" />
               </div>
-              <span className={`truncate font-lora text-[0.78rem] font-medium md:text-[0.82rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <span className={`truncate font-lora ${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {row.vehicle}
               </span>
             </div>
-            <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{row.location}</span>
-            <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.issue}</span>
-            <span className={`whitespace-nowrap text-[0.7rem] ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.timestamp}</span>
+            <span className={`${typeTable} ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>{row.location}</span>
+            <span className={`${typeTable} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.issue}</span>
+            <span className={`whitespace-nowrap ${typeTable} ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>{row.timestamp}</span>
           </div>
         ))}
       </ScrollTable>
@@ -266,11 +285,11 @@ export default function HomeSec10({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[760px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Market Intelligence - What 4,200+ UK Owners Told Us in 2025
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>
@@ -289,7 +308,7 @@ export default function HomeSec10({ data }) {
         </div>
 
         {data.footer ? (
-          <p className={`mt-4 text-center text-[0.78rem] italic md:mt-5 ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-4 text-center ${typeSmall} italic md:mt-5 ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>
             {data.footer}
           </p>
         ) : null}

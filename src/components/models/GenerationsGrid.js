@@ -5,7 +5,17 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionDescription, sectionTableText } from "@/components/models/sectionTypography";
+import {
+  sectionBadge,
+  sectionBody,
+  sectionButton,
+  sectionDescription,
+  sectionH2,
+  sectionH5,
+  sectionHighlight,
+  sectionSmall,
+  sectionTableText,
+} from "@/components/models/sectionTypography";
 
 const defaultCarImage = "/right.webp";
 
@@ -63,10 +73,8 @@ function splitCardTitle(title = "") {
 function GenerationCode({ children }) {
   return (
     <>
-      <span className="text-[17px] font-bold leading-[1.1] md:hidden">{children}</span>
-      <span className="hidden font-bold leading-[1.05] md:inline" style={{ fontSize: "17px" }}>
-        {children}
-      </span>
+      <span className={`font-bold leading-[1.1] md:hidden ${sectionHighlight}`}>{children}</span>
+      <span className={`hidden font-bold leading-[1.05] md:inline ${sectionHighlight}`}>{children}</span>
     </>
   );
 }
@@ -94,7 +102,7 @@ function ChevronIcon({ open = false }) {
 
 function TableIcon({ type = "calendar", isDark }) {
   const name = type === "fuel" ? "fuel" : type === "star" ? "star" : type === "scale" ? "scales" : type === "spark" ? "insight" : "timeline";
-  return <HomeIcon name={name} isDark={isDark} gold className="h-5 w-5 shrink-0 object-contain" />;
+  return <HomeIcon name={name} isDark={isDark} className="h-5 w-5 shrink-0 object-contain" />;
 }
 
 function Rating({ value, compact = false }) {
@@ -150,7 +158,7 @@ function GenerationCard({ card, index, open = false, onToggle }) {
         <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md text-[0.8rem] font-bold text-white" style={{ backgroundColor: GOLD }}>
           {index + 1}
         </span>
-        <h3 className="min-w-0 flex-1 text-[15px] font-bold leading-[1.25] md:text-[16px]" dangerouslySetInnerHTML={{ __html: displayTitle || cleanText(card.title) }} />
+        <h3 className={`min-w-0 flex-1 font-bold leading-[1.25] ${sectionH5}`} dangerouslySetInnerHTML={{ __html: displayTitle || cleanText(card.title) }} />
         <span className="mt-1 shrink-0" style={{ color: GOLD }}>
           <ChevronIcon open={open} />
         </span>
@@ -162,15 +170,15 @@ function GenerationCard({ card, index, open = false, onToggle }) {
       </div>
 
       {badge ? (
-        <p className="mt-2 text-[13px] font-semibold leading-[1.3]" dangerouslySetInnerHTML={{ __html: badge }} />
+        <p className={`mt-2 font-semibold leading-[1.3] ${sectionBadge}`} dangerouslySetInnerHTML={{ __html: badge }} />
       ) : null}
 
       {meta.years ? (
-        <p className="mt-1.5 text-[13px] leading-[1.35] text-[var(--color-text-muted)] md:text-[14px]" dangerouslySetInnerHTML={{ __html: meta.years }} />
+        <p className={`mt-1.5 text-[var(--color-text-muted)] ${sectionSmall}`} dangerouslySetInnerHTML={{ __html: meta.years }} />
       ) : null}
 
       {meta.engines ? (
-        <p className="mt-0.5 text-[12px] leading-[1.35] text-[var(--color-text-muted)] md:text-[13px]">
+        <p className={`mt-0.5 text-[var(--color-text-muted)] ${sectionTableText}`}>
           • <span dangerouslySetInnerHTML={{ __html: meta.engines }} />
         </p>
       ) : null}
@@ -181,7 +189,7 @@ function GenerationCard({ card, index, open = false, onToggle }) {
 
       <Link
         href={href}
-        className="mt-2.5 flex min-h-9 w-full items-center justify-center gap-2 rounded-md border px-3 text-[15px] font-bold no-underline transition hover:opacity-90 md:min-h-10 md:text-[16px]"
+        className={`mt-2.5 flex min-h-9 w-full items-center justify-center gap-2 rounded-md border px-3 font-bold no-underline transition hover:opacity-90 md:min-h-10 ${sectionButton}`}
         style={{ borderColor: `${GOLD}B3`, color: GOLD }}
       >
         <span>{label}</span>
@@ -190,9 +198,9 @@ function GenerationCard({ card, index, open = false, onToggle }) {
 
       {/* Accordion: Our Verdict only when open - below CTA */}
       {open && card.verdict ? (
-        <div className="mt-2.5 text-[14px] leading-[1.45]">
+        <div className={`mt-2.5 ${sectionTableText}`}>
           <p className="font-bold">Our Verdict:</p>
-          <p className="mt-1 text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: cleanText(card.verdict) }} />
+          <p className={`mt-1 text-[var(--color-text-muted)] ${sectionBody}`} dangerouslySetInnerHTML={{ __html: cleanText(card.verdict) }} />
         </div>
       ) : null}
     </article>
@@ -221,11 +229,11 @@ function ComparisonTable({ rangeTable, isDark }) {
         <span className="flex h-7 w-7 items-center justify-center rounded-md bg-[#F5EAD4]">
           <TableIcon type="scale" isDark={isDark} />
         </span>
-        <h3 className={`${sectionTableText} font-bold text-[var(--color-text)] md:text-[18px]`} dangerouslySetInnerHTML={{ __html: cleanText(rangeTable.title) }} />
+        <h3 className={`font-bold text-[var(--color-text)] ${sectionH5}`} dangerouslySetInnerHTML={{ __html: cleanText(rangeTable.title) }} />
       </div>
 
       <div className="overflow-x-auto">
-        <table className="min-w-[760px] w-full border-collapse overflow-hidden rounded-md text-left text-[15px] text-[var(--color-text)] md:min-w-0">
+        <table className={`min-w-[760px] w-full border-collapse overflow-hidden rounded-md text-left text-[var(--color-text)] md:min-w-0 ${sectionTableText}`}>
           <thead>
             <tr>
               <th className="w-[15%] border border-[var(--color-border)] bg-[var(--color-page-soft)] p-3" />
@@ -281,7 +289,7 @@ function ComparisonTable({ rangeTable, isDark }) {
                 <strong style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: diesel.post.split(" ")[0] }} />
                 <span dangerouslySetInnerHTML={{ __html: diesel.post.replace(diesel.post.split(" ")[0], "") }} />
               </td>
-              <td rowSpan={2} className="border p-3 text-[15px] font-bold leading-[1.35]" style={{ borderColor: `${GOLD}55`, backgroundColor: "rgba(171,132,80,0.1)", color: GOLD }} dangerouslySetInnerHTML={{ __html: recommendation }} />
+              <td rowSpan={2} className={`border p-3 font-bold leading-[1.35] ${sectionTableText}`} style={{ borderColor: `${GOLD}55`, backgroundColor: "rgba(171,132,80,0.1)", color: GOLD }} dangerouslySetInnerHTML={{ __html: recommendation }} />
             </tr>
             <tr>
               <th className="border border-[var(--color-border)] p-3 font-bold">
@@ -326,7 +334,7 @@ export default function GenerationsGrid({ data }) {
     <section data-theme-mode={theme} className={`py-5 text-[var(--color-text)] md:py-6 ${homeSectionBg(isDark, 4)}`}>
       <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
         <div>
-          <h2 className={`font-lora max-w-[640px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora max-w-[640px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
             <span dangerouslySetInnerHTML={{ __html: title.main }} />
             {title.accent ? (
               <>
@@ -400,7 +408,7 @@ export default function GenerationsGrid({ data }) {
         ) : null}
 
         {hasComparisonLink ? (
-          <p className="mt-4 flex items-center gap-3 pl-2 text-[15px]">
+          <p className={`mt-4 flex items-center gap-3 pl-2 ${sectionBody}`}>
             <span className="flex h-7 w-7 items-center justify-center rounded-md bg-[#F5EAD4]">
               <TableIcon type="spark" isDark={isDark} />
             </span>

@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import { useState } from "react";
 import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
@@ -50,12 +69,12 @@ function TrustStrip({ items, isDark }) {
             <HomeIcon name={item.icon} tone={isDark ? "silver" : "gold"} className="h-7 w-7 shrink-0 object-contain md:mt-0.5 md:h-9 md:w-9" />
             <div className="min-w-0">
               {value ? (
-                <p className="text-[0.82rem] font-bold leading-none md:text-[1.15rem]" style={{ color: GOLD }}>
+                <p className={`${typeHighlight} font-bold leading-none`} style={{ color: GOLD }}>
                   {value}
                 </p>
               ) : null}
               <p
-                className={`text-[0.58rem] font-medium leading-snug md:text-[0.8rem] ${value ? "mt-0.5 md:mt-1" : ""} ${
+                className={`${typeBadge} font-medium leading-snug ${value ? "mt-0.5 md:mt-1" : ""} ${
                   isDark ? "text-white" : "text-[var(--color-text)]"
                 }`}
               >
@@ -74,7 +93,7 @@ function HowItWorks({ data, activeStep, started, isDark }) {
 
   return (
     <div className={`rounded-lg border p-3 md:p-4 ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-[#F8F7F3]"}`}>
-      <h3 className={`font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h3 className={`font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {data?.title || "How It Works"}
       </h3>
       <GoldH3Strip />
@@ -98,7 +117,7 @@ function HowItWorks({ data, activeStep, started, isDark }) {
                     aria-hidden="true"
                   />
                   <span
-                    className={`pointer-events-none absolute top-1/2 right-[-0.3rem] z-[1] -translate-y-1/2 text-[0.65rem] sm:right-[-0.35rem] sm:text-[0.7rem] ${
+                    className={`pointer-events-none absolute top-1/2 right-[-0.3rem] z-[1] -translate-y-1/2 ${typeBadge} sm:right-[-0.35rem] ${
                       isDark ? "text-white/35" : "text-[rgba(0,0,0,0.28)]"
                     }`}
                     aria-hidden="true"
@@ -109,7 +128,7 @@ function HowItWorks({ data, activeStep, started, isDark }) {
               ) : null}
 
               <span
-                className="flex h-5 w-5 items-center justify-center rounded-full text-[0.65rem] font-bold sm:h-7 sm:w-7 sm:text-[0.8rem]"
+                className={`flex h-5 w-5 items-center justify-center rounded-full ${typeBadge} font-bold sm:h-7 sm:w-7`}
                 style={{ backgroundColor: "rgba(171,132,80,0.35)", color: isDark ? "#fff" : "#0a0a0a" }}
               >
                 {step.step}
@@ -117,10 +136,10 @@ function HowItWorks({ data, activeStep, started, isDark }) {
 
               <HomeIcon name={step.icon} isDark={isDark} className="mt-2 h-8 w-8 object-contain sm:mt-3 sm:h-12 sm:w-12 md:h-14 md:w-14" />
 
-              <p className={`font-lora mt-2 text-[0.68rem] font-medium leading-snug sm:mt-3 sm:text-[0.92rem] md:text-[1rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <p className={`font-lora mt-2 ${typeSmall} font-medium leading-snug sm:mt-3 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {step.title}
               </p>
-              <p className={`mt-1 max-w-[11.5rem] text-[0.55rem] leading-[1.35] sm:mt-1.5 sm:text-[0.7rem] md:text-[0.72rem] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
+              <p className={`mt-1 max-w-[11.5rem] ${typeBadge} leading-[1.35] sm:mt-1.5 ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
                 {step.text}
               </p>
             </li>
@@ -136,7 +155,7 @@ function WhyTrust({ data, isDark }) {
 
   return (
     <div className={`rounded-lg border p-3 md:p-4 ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
-      <h3 className={`font-lora text-[1.05rem] font-medium md:text-[1.15rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h3 className={`font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {data?.title || "Why Trust This Diagnosis?"}
       </h3>
       <GoldH3Strip />
@@ -150,10 +169,10 @@ function WhyTrust({ data, isDark }) {
               <HomeIcon name={signal.icon} isDark={isDark} className="h-4 w-4 object-contain" />
             </span>
             <div className="min-w-0">
-              <p className="text-[0.85rem] font-medium leading-snug" style={{ color: GOLD }}>
+              <p className={`${typeHighlight} font-medium leading-snug`} style={{ color: GOLD }}>
                 {signal.title}
               </p>
-              <p className={`mt-0.5 text-[0.72rem] font-light leading-[1.35] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
+              <p className={`mt-0.5 ${typeSmall} font-light ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
                 {signal.text}
               </p>
             </div>
@@ -169,7 +188,7 @@ function SelectField({ value, onChange, placeholder, options, isDark, darkCard }
     <select
       value={value}
       onChange={(e) => onChange(e.target.value)}
-      className={`w-full appearance-none rounded-md border bg-transparent px-3 py-2.5 text-[0.85rem] outline-none ${
+      className={`w-full appearance-none rounded-md border bg-transparent px-3 py-2.5 ${typeBody} outline-none ${
         darkCard
           ? "border-white/70 text-white [&>option]:text-black"
           : isDark
@@ -217,7 +236,7 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
     <div className="rounded-lg bg-[#0a0a0a] p-4 text-white md:p-5">
       {!started ? (
         <>
-          <h3 className="font-lora text-[1.25rem] font-medium md:text-[1.4rem]" style={{ color: GOLD }}>
+          <h3 className="font-lora ${typeH4}" style={{ color: GOLD }}>
             {calc.idleTitle || "Start Your Diagnosis"}
           </h3>
           <GoldH3Strip className="w-14" />
@@ -229,24 +248,24 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
           <button
             type="button"
             onClick={start}
-            className="btn-cta mt-4 flex w-full items-center justify-center rounded-md px-4 py-3 text-[0.85rem] font-semibold uppercase tracking-wide text-white"
+            className={`btn-cta ${typeButton} mt-4 flex w-full items-center justify-center rounded-md px-4 py-3 font-semibold uppercase tracking-wide text-white`}
             style={{ backgroundColor: GOLD }}
           >
             {calc.startLabel || "START DIAGNOSIS →"}
           </button>
-          <p className="mt-3 flex items-center justify-center gap-1.5 text-center text-[0.72rem] text-white/70">
+          <p className={`mt-3 flex items-center justify-center gap-1.5 text-center ${typeSmall} text-white/70`}>
             <span aria-hidden="true">🔒</span>
             {calc.secureLine || "Secure • Private • No Obligation"}
           </p>
         </>
       ) : (
         <>
-          <p className="text-[0.72rem] font-medium uppercase tracking-[0.12em] text-white/55">
+          <p className={`${typeBadge} font-medium uppercase tracking-[0.12em] text-white/55`}>
             Step {activeStep} of 3
           </p>
-          <h3 className="mt-1 font-lora text-[1.2rem] font-medium md:text-[1.35rem]">{current.title}</h3>
+          <h3 className="mt-1 font-lora ${typeH4}">{current.title}</h3>
           <GoldH3Strip className="w-14" />
-          <p className="text-[0.8rem] leading-[1.4] text-white/70">{current.text}</p>
+          <p className={`${typeSmall} text-white/70`}>{current.text}</p>
 
           {activeStep === 1 ? (
             <div className="mt-4 grid grid-cols-2 gap-2">
@@ -262,7 +281,7 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
                     }`}
                   >
                     <HomeIcon name={item.icon} tone="gold" className="h-7 w-7 md:h-5 md:w-5" />
-                    <span className="text-[0.68rem] leading-snug text-white/90">{item.label}</span>
+                    <span className={`${typeBadge} leading-snug text-white/90`}>{item.label}</span>
                   </button>
                 );
               })}
@@ -276,36 +295,36 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
                 value={age}
                 onChange={(e) => setAge(e.target.value)}
                 placeholder="Vehicle age (years)"
-                className="w-full rounded-md border border-white/70 bg-transparent px-3 py-2.5 text-[0.85rem] text-white outline-none placeholder:text-white/45"
+                className={`w-full rounded-md border border-white/70 bg-transparent px-3 py-2.5 ${typeBody} text-white outline-none placeholder:text-white/45`}
               />
               <input
                 type="text"
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
                 placeholder="Estimated value (£)"
-                className="w-full rounded-md border border-white/70 bg-transparent px-3 py-2.5 text-[0.85rem] text-white outline-none placeholder:text-white/45"
+                className={`w-full rounded-md border border-white/70 bg-transparent px-3 py-2.5 ${typeBody} text-white outline-none placeholder:text-white/45`}
               />
               <input
                 type="text"
                 value={mileage}
                 onChange={(e) => setMileage(e.target.value)}
                 placeholder="Approx. mileage"
-                className="w-full rounded-md border border-white/70 bg-transparent px-3 py-2.5 text-[0.85rem] text-white outline-none placeholder:text-white/45"
+                className={`w-full rounded-md border border-white/70 bg-transparent px-3 py-2.5 ${typeBody} text-white outline-none placeholder:text-white/45`}
               />
             </div>
           ) : null}
 
           {activeStep === 3 && exampleResult ? (
             <div className="mt-4 rounded-md border border-white/20 bg-white/5 p-3">
-              <p className="text-[0.68rem] font-medium uppercase tracking-wide text-white/55">{exampleResult.badge}</p>
-              <p className="mt-1 text-[0.95rem] font-medium">{exampleResult.fault}</p>
-              <p className="mt-1 text-[0.72rem] text-white/65">Common on: {exampleResult.commonOn}</p>
-              <p className="mt-0.5 text-[0.72rem] text-white/65">Symptoms: {exampleResult.symptomsMatch}</p>
-              <div className="mt-2 flex flex-wrap gap-3 text-[0.82rem] font-medium">
+              <p className={`${typeBadge} font-medium uppercase tracking-wide text-white/55`}>{exampleResult.badge}</p>
+              <p className={`mt-1 ${typeHighlight} font-medium`}>{exampleResult.fault}</p>
+              <p className={`mt-1 ${typeSmall} text-white/65`}>Common on: {exampleResult.commonOn}</p>
+              <p className={`mt-0.5 ${typeSmall} text-white/65`}>Symptoms: {exampleResult.symptomsMatch}</p>
+              <div className={`mt-2 flex flex-wrap gap-3 ${typeSmall} font-medium`}>
                 <span style={{ color: GOLD }}>Repair {exampleResult.repairCost}</span>
                 <span className="text-white/80">vs Replace {exampleResult.replaceCost}</span>
               </div>
-              <p className="mt-2 text-[0.68rem] text-white/50">{exampleResult.footer}</p>
+              <p className={`mt-2 ${typeBadge} text-white/50`}>{exampleResult.footer}</p>
             </div>
           ) : null}
 
@@ -313,7 +332,7 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
             <button
               type="button"
               onClick={back}
-              className="rounded-md border border-white/30 px-3 py-2.5 text-[0.78rem] font-medium text-white/85 hover:border-white/55"
+              className={`rounded-md border border-white/30 px-3 py-2.5 ${typeSmall} font-medium text-white/85 hover:border-white/55`}
             >
               {calc.backLabel || "← BACK"}
             </button>
@@ -321,7 +340,7 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
               <button
                 type="button"
                 onClick={next}
-                className="btn-cta flex flex-1 items-center justify-center rounded-md px-4 py-2.5 text-[0.82rem] font-semibold uppercase tracking-wide text-white"
+                className={`btn-cta ${typeButton} flex flex-1 items-center justify-center rounded-md px-4 py-2.5 font-semibold uppercase tracking-wide text-white`}
                 style={{ backgroundColor: GOLD }}
               >
                 {calc.continueLabel || "CONTINUE →"}
@@ -333,7 +352,7 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
                   setStarted(false);
                   setActiveStep(1);
                 }}
-                className="btn-cta flex flex-1 items-center justify-center rounded-md px-4 py-2.5 text-[0.82rem] font-semibold uppercase tracking-wide text-white"
+                className={`btn-cta ${typeButton} flex flex-1 items-center justify-center rounded-md px-4 py-2.5 font-semibold uppercase tracking-wide text-white`}
                 style={{ backgroundColor: GOLD }}
               >
                 START OVER
@@ -366,13 +385,13 @@ function BottomStats({ items, isDark }) {
         >
           <HomeIcon name={item.icon} isDark={isDark} className="h-7 w-7 shrink-0 object-contain sm:h-9 sm:w-9 md:mt-0.5 md:h-8 md:w-8" />
           <div className="min-w-0">
-            <p className="text-[0.85rem] font-bold leading-none sm:text-[1.05rem] md:text-[1.2rem]" style={{ color: GOLD }}>
+            <p className={`${typeHighlight} font-bold leading-none`} style={{ color: GOLD }}>
               {item.value}
             </p>
-            <p className={`mt-1 text-[0.58rem] font-medium leading-snug sm:text-[0.78rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <p className={`mt-1 ${typeBadge} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {item.label}
             </p>
-            <p className={`mt-0.5 hidden text-[0.7rem] md:block ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+            <p className={`mt-0.5 hidden ${typeSmall} md:block ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
               {item.sub}
             </p>
           </div>
@@ -393,11 +412,11 @@ export default function HomeSec3({ data }) {
       <div className="mx-auto w-full max-w-8xl">
         <div className="flex items-start gap-4">
           <div className="min-w-0 flex-1">
-            <h2 className={`font-lora max-w-[720px] text-[1.85rem] font-medium leading-[1.08] md:text-[2.75rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <h2 className={`font-lora max-w-[720px] ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Diagnose Your Mercedes-Benz Engine Problem
             </h2>
             <SectionLabel isDark={isDark} />
-            <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>
+            <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>
               {data.subHeadline}
             </p>
             <TrustStrip items={data.trustStrip} isDark={isDark} />

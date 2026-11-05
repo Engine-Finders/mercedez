@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -31,12 +50,12 @@ function VerdictBadge({ verdict, isDark }) {
       {/* Mobile: each word stacked · Desktop: single line */}
       <span className="flex flex-col items-center md:hidden" style={{ color: tone.color }}>
         {words.map((word) => (
-          <span key={word} className="text-[0.62rem] font-medium leading-tight">
+          <span key={word} className={`${typeBadge} font-medium leading-tight`}>
             {word}
           </span>
         ))}
       </span>
-      <span className="hidden text-[0.88rem] font-medium leading-tight md:inline" style={{ color: tone.color }}>
+      <span className={`hidden ${typeTable} font-medium leading-tight md:inline`} style={{ color: tone.color }}>
         {verdict?.text}
       </span>
     </span>
@@ -55,7 +74,7 @@ function RankingCard({ row, cardImage, isDark }) {
           background: "linear-gradient(180deg, #D4B896 0%, #C4A574 35%, #AB8450 70%, #8F6B3D 100%)",
         }}
       >
-        <span className="font-lora text-[1.35rem] font-medium leading-none text-black md:text-[1.6rem]">
+        <span className="font-lora ${typeH4} leading-none text-black">
           {row.rank}
         </span>
       </div>
@@ -78,22 +97,22 @@ function RankingCard({ row, cardImage, isDark }) {
               <HomeIcon name={row.icon} tone={tableIconTone(isDark)} className="h-4 w-4" />
             </span>
             <div className="min-w-0 flex-1">
-              <p className={`font-lora text-[0.98rem] font-medium leading-tight no-underline md:text-[1.1rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <p className={`font-lora ${typeH6} font-medium leading-tight no-underline ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {row.ranking}
               </p>
-              <p className="mt-0.5 font-lora text-[0.88rem] font-medium leading-tight no-underline md:text-[0.95rem]" style={{ color: GOLD }}>
+              <p className={`mt-0.5 font-lora ${typeHighlight} font-medium leading-tight no-underline`} style={{ color: GOLD }}>
                 {row.winner}
               </p>
             </div>
             <VerdictBadge verdict={row.verdict} isDark={isDark} />
           </div>
-          <p className={`hidden text-[0.78rem] font-light leading-[1.35] no-underline md:block ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`hidden ${typeSmall} font-light no-underline md:block ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
             {row.why}
           </p>
         </div>
 
         <p
-          className={`border-t px-2.5 pb-2.5 pt-2 text-[0.72rem] font-light leading-[1.35] no-underline md:hidden ${
+          className={`border-t px-2.5 pb-2.5 pt-2 ${typeSmall} font-light no-underline md:hidden ${
             isDark ? "border-white/10 text-white/70" : "border-[rgba(0,0,0,0.06)] text-[var(--color-text-muted)]"
           }`}
         >
@@ -147,11 +166,11 @@ export default function HomeSec4({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[3rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Ownership Rankings
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>
@@ -169,7 +188,7 @@ export default function HomeSec4({ data }) {
             }`}
           >
             <HomeIcon name="info" isDark={isDark} gold className="mt-0.5 h-5 w-5 shrink-0" />
-            <p className={`text-[0.78rem] font-light leading-[1.4] md:text-[0.86rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+            <p className={`${typeSmall} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
               <span className="font-medium">Data Note: </span>
               {data.dataNote}
             </p>

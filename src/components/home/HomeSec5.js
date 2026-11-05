@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -17,7 +36,7 @@ function NumberStrip({ id }) {
         background: "linear-gradient(180deg, #E8E4DC 0%, #F5F3EE 45%, #FFFFFF 100%)",
       }}
     >
-      <span className="font-lora text-[1.35rem] font-medium leading-none text-black md:text-[1.55rem]">{id}</span>
+      <span className="font-lora ${typeH4} leading-none text-black">{id}</span>
     </div>
   );
 }
@@ -75,7 +94,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
           >
             <HomeIcon name={item.icon} tone={comparisonTone} className="h-6 w-6" />
           </span>
-          <p className={`min-w-0 flex-1 font-lora text-[0.92rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <p className={`min-w-0 flex-1 font-lora ${typeH6} font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {item.title}
           </p>
           <span className={isDark ? "text-white/50" : "text-[var(--color-text-muted)]"}>
@@ -89,7 +108,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
         <div className="md:hidden">
           {item.detail ? (
             <p
-              className={`border-t px-3 py-2.5 pl-[3.75rem] text-[0.72rem] font-light leading-[1.35] ${
+              className={`border-t px-3 py-2.5 pl-[3.75rem] ${typeTable} font-light ${
                 isDark ? "border-white/10 text-white/65" : "border-[rgba(0,0,0,0.06)] text-[var(--color-text-muted)]"
               }`}
             >
@@ -109,12 +128,12 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
             >
               <HomeIcon name={item.verdictIcon || "shield"} tone={verdictTone} className="h-5 w-5" />
             </span>
-            <p className="font-lora text-[0.72rem] font-medium leading-[1.4]" style={{ color: GOLD }}>
+            <p className={`font-lora ${typeTable} font-medium`} style={{ color: GOLD }}>
               {item.verdictPreview}
             </p>
           </div>
           <div className={`border-t px-3 py-2.5 pl-[3.75rem] ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
-            <Link href={href} className="font-lora text-[0.78rem] font-medium no-underline hover:underline" style={{ color: GOLD }}>
+            <Link href={href} className={`font-lora ${typeTable} font-medium no-underline hover:underline`} style={{ color: GOLD }}>
               {item.link?.label || "Read the verdict →"}
             </Link>
           </div>
@@ -140,11 +159,11 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
               <HomeIcon name={item.icon} tone={comparisonTone} className="h-8 w-8" />
             </span>
             <div className="min-w-0">
-              <p className={`font-lora text-[1.08rem] font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <p className={`font-lora ${typeH6} font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {item.title}
               </p>
               {item.detail ? (
-                <p className={`mt-1 text-[0.78rem] font-light leading-[1.35] ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
+                <p className={`mt-1 ${typeTable} font-light ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
                   {item.detail}
                 </p>
               ) : null}
@@ -163,13 +182,13 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
             >
               <HomeIcon name={item.verdictIcon || "shield"} tone={verdictTone} className="h-8 w-8" />
             </span>
-            <p className="font-lora text-[0.86rem] font-medium leading-[1.4]" style={{ color: GOLD }}>
+            <p className={`font-lora ${typeTable} font-medium`} style={{ color: GOLD }}>
               {item.verdictPreview}
             </p>
           </div>
 
           <div className="flex shrink-0 items-center px-4">
-            <span className="font-lora text-[0.88rem] font-medium whitespace-nowrap" style={{ color: GOLD }}>
+            <span className={`font-lora ${typeTable} font-medium whitespace-nowrap`} style={{ color: GOLD }}>
               {item.link?.label || "Read the verdict →"}
             </span>
           </div>
@@ -209,11 +228,11 @@ export default function HomeSec5({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-1 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Comparison Hub - Head-to-Head Verdicts
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>
@@ -226,7 +245,7 @@ export default function HomeSec5({ data }) {
           }`}
         >
           <div
-            className={`hidden grid-cols-[2.75rem_minmax(0,1.15fr)_minmax(0,1.35fr)_auto] items-center border-b px-0 text-[0.68rem] font-semibold uppercase tracking-[0.08em] md:grid ${
+            className={`hidden grid-cols-[2.75rem_minmax(0,1.15fr)_minmax(0,1.35fr)_auto] items-center border-b px-0 ${typeTable} font-semibold uppercase tracking-[0.08em] md:grid ${
               isDark ? "border-white/10 text-white/55" : "border-[rgba(0,0,0,0.08)] text-[var(--color-text-muted)]"
             }`}
           >

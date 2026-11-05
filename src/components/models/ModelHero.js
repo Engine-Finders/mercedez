@@ -5,6 +5,7 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import { sectionBadge, sectionButton, sectionDescription, sectionH1, sectionSmall } from "@/components/models/sectionTypography";
 
 const TRUST_ICON_FALLBACKS = ["chart", "wrench", "book", "engine-finders"];
 
@@ -71,7 +72,7 @@ function TagPill({ tagPill, isDark }) {
 
   return (
     <div
-      className={`inline-flex w-fit max-w-full flex-nowrap items-center gap-x-2 self-start overflow-x-auto rounded-md border px-3 py-2 text-[0.72rem] leading-[1.35] whitespace-nowrap md:px-3.5 md:py-2.5 md:text-[0.8rem] ${
+      className={`inline-flex w-fit max-w-full flex-nowrap items-center gap-x-2 self-start overflow-x-auto rounded-md border px-3 py-2 whitespace-nowrap md:px-3.5 md:py-2.5 ${sectionBadge} ${
         isDark ? "bg-white/5 text-white/85" : "bg-white text-[var(--color-text-muted)]"
       }`}
       style={{ borderColor: GOLD }}
@@ -101,14 +102,14 @@ function HeroTitle({ title, isDark }) {
 
   if (guideIndex === -1) {
     return (
-      <h1 className={`font-lora max-w-[720px] text-[2rem] font-medium leading-[1.08] md:text-[2.85rem] md:leading-[1.05] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h1 className={`font-lora max-w-[720px] ${sectionH1} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {title}
       </h1>
     );
   }
 
   return (
-    <h1 className={`font-lora max-w-[760px] text-[2rem] font-medium leading-[1.08] md:text-[2.85rem] md:leading-[1.05] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+    <h1 className={`font-lora max-w-[760px] ${sectionH1} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
       {title.slice(0, guideIndex)}
       <span style={{ color: GOLD }}>{title.slice(guideIndex)}</span>
     </h1>
@@ -138,11 +139,11 @@ function TrustStat({ item, index, isDark }) {
         />
       </span>
       <span className="min-w-0">
-        <strong className={`block text-[0.62rem] font-semibold leading-tight sm:text-[0.82rem] md:text-[0.9rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+        <strong className={`block font-semibold leading-tight ${sectionSmall} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {label}
         </strong>
         {tag ? (
-          <span className="mt-0.5 block text-[0.55rem] font-medium sm:text-[0.68rem]" style={{ color: GOLD }}>
+          <span className={`mt-0.5 block font-medium ${sectionSmall}`} style={{ color: GOLD }}>
             [{tag}]
           </span>
         ) : null}
@@ -216,14 +217,14 @@ export default function ModelHero({ data }) {
             <FadeStrip isDark={isDark} />
           </div>
 
-          <p className={`mt-3 max-w-[520px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[520px] ${sectionDescription} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {renderWithPatternTag(data.subHeadline)}
           </p>
 
           {data.primaryCta ? (
             <Link
               href={ctaHref}
-              className={`mt-4 inline-flex w-fit items-center justify-center gap-3 rounded-md px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-5 md:px-6 md:py-3.5 md:text-[0.9rem] ${
+              className={`mt-4 inline-flex w-fit items-center justify-center gap-3 rounded-md px-5 py-3 font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-5 md:px-6 md:py-3.5 ${sectionButton} ${
                 isDark
                   ? "border border-white/25 bg-[linear-gradient(180deg,#ececec_0%,#c8c8c8_100%)] text-[#0a0a0a]"
                   : "bg-[#0a0a0a]"
@@ -266,17 +267,19 @@ export default function ModelHero({ data }) {
         </div>
 
         {trustStrip.length ? (
-          <ul
-            className={`mt-5 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] md:mt-auto md:max-w-[980px] md:rounded-2xl ${
-              isDark
-                ? "border-[rgba(171,132,80,0.4)] bg-[rgba(10,10,10,0.92)]"
-                : "border-[var(--color-border)] bg-white"
-            }`}
-          >
-            {trustStrip.map((item, index) => (
-              <TrustStat key={item.label} item={item} index={index} isDark={isDark} />
-            ))}
-          </ul>
+          <div className="mt-5 w-full md:mt-auto md:max-w-[980px] md:pt-1.5">
+            <ul
+              className={`grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] md:rounded-2xl ${
+                isDark
+                  ? "border-[rgba(171,132,80,0.4)] bg-[rgba(10,10,10,0.92)]"
+                  : "border-[var(--color-border)] bg-white"
+              }`}
+            >
+              {trustStrip.map((item, index) => (
+                <TrustStat key={item.label} item={item} index={index} isDark={isDark} />
+              ))}
+            </ul>
+          </div>
         ) : null}
       </div>
     </section>

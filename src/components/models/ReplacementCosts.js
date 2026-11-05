@@ -4,7 +4,16 @@ import { useMemo, useState } from "react";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionDescription, sectionH2, sectionTableText } from "@/components/models/sectionTypography";
+import {
+  sectionBody,
+  sectionDescription,
+  sectionH2,
+  sectionH3,
+  sectionH4,
+  sectionH6,
+  sectionSmall,
+  sectionTableText,
+} from "@/components/models/sectionTypography";
 
 const TRUST_ICON_MAP = { pound: "pound", gear: "engine", wrench: "wrench", shield: "shield" };
 const NOTE_ICON_MAP = { note: "note", info: "info", crown: "crown", chartShield: "chart" };
@@ -30,9 +39,9 @@ function cleanText(text = "") {
     .trim();
 }
 
-function Icon({ type, isDark, className = "h-10 w-10" }) {
+function Icon({ type, isDark, gold = false, className = "h-10 w-10" }) {
   const name = TRUST_ICON_MAP[type] || NOTE_ICON_MAP[type] || "info";
-  return <HomeIcon name={name} isDark={isDark} gold className={`${className} object-contain`} />;
+  return <HomeIcon name={name} isDark={isDark} gold={gold} className={`${className} object-contain`} />;
 }
 
 function splitTitle(title = "") {
@@ -71,9 +80,9 @@ function TrustStrip({ isDark }) {
     <div className="grid grid-cols-4 overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] shadow-[0_8px_24px_var(--color-shadow)]">
       {trustItems.map((item) => (
         <div key={item.title} className="flex flex-col items-center justify-center border-r border-[var(--color-border)] px-1.5 py-3 text-center last:border-r-0 md:px-4 md:py-3.5">
-          <Icon type={item.icon} isDark={isDark} className="h-8 w-8 md:h-9 md:w-9" />
-          <strong className="mt-1.5 text-[13px] leading-[1.1] text-[var(--color-text)] md:text-[15px]">{item.title}</strong>
-          <span className="mt-0.5 text-[12px] leading-[1.1] text-[var(--color-text-muted)] md:text-[13px]">{item.text}</span>
+          <Icon type={item.icon} isDark={isDark} gold className="h-8 w-8 md:h-9 md:w-9" />
+          <strong className={`mt-1.5 leading-[1.1] text-[var(--color-text)] ${sectionTableText}`}>{item.title}</strong>
+          <span className={`mt-0.5 leading-[1.1] text-[var(--color-text-muted)] ${sectionSmall}`}>{item.text}</span>
         </div>
       ))}
     </div>
@@ -87,7 +96,7 @@ function CostTable({ table }) {
 
   return (
     <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)]">
-      <table className="w-full border-collapse text-left text-[14px] text-[var(--color-text)] md:text-[15px]">
+      <table className={`w-full border-collapse text-left text-[var(--color-text)] ${sectionTableText}`}>
         <thead>
           <tr className="text-white" style={{ backgroundColor: GOLD }}>
             {columns.map((column) => (
@@ -121,7 +130,7 @@ function DesktopGenerationRow({ table }) {
   return (
     <div className="grid gap-0 md:grid-cols-[260px_minmax(0,1fr)]">
       <div className="border border-r-0 border-[var(--color-border)] bg-[var(--color-surface-raised)] p-3.5 md:rounded-l-md md:p-4">
-        <h3 className="font-lora text-[17px] font-medium leading-[1.08] md:text-[19px]" style={{ color: GOLD }}>{label}</h3>
+        <h3 className={`font-lora font-medium leading-[1.08] ${sectionH6}`} style={{ color: GOLD }}>{label}</h3>
         <p className={`mt-1 ${sectionTableText}`}>{years}</p>
         <div className="mt-2 h-[82px] overflow-hidden rounded-md md:h-[96px]">
           <img src={src} alt={table.image?.alt || label} className="h-full w-full object-cover object-center" loading="lazy" />
@@ -158,8 +167,8 @@ function MobileTabs({ tables, isDark }) {
                 }`}
                 style={selected ? { backgroundColor: GOLD } : undefined}
               >
-                <span className="block text-[0.95rem] font-bold leading-tight">{label.label}</span>
-                <span className="mt-1 block text-[14px] leading-tight">{label.years}</span>
+                <span className={`block font-bold leading-tight ${sectionTableText}`}>{label.label}</span>
+                <span className={`mt-1 block leading-tight ${sectionSmall}`}>{label.years}</span>
               </button>
             );
           })}
@@ -167,7 +176,7 @@ function MobileTabs({ tables, isDark }) {
       </div>
 
       <article className="rounded-b-md border border-t-0 border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4">
-        <h3 className="font-lora text-[28px] font-medium leading-tight text-[var(--color-text)] md:text-[40px]">
+        <h3 className={`font-lora font-medium leading-tight text-[var(--color-text)] ${sectionH3}`}>
           <span dangerouslySetInnerHTML={{ __html: active.label }} />{" "}
           <span style={{ color: GOLD }}>
             (<span dangerouslySetInnerHTML={{ __html: active.years }} />)
@@ -181,7 +190,7 @@ function MobileTabs({ tables, isDark }) {
             <CostTable table={activeTable} />
           </div>
         </div>
-        <div className="mt-4 flex items-center gap-3 rounded-md bg-[var(--color-page-soft)] px-4 py-3 text-[15px] text-[var(--color-text)]">
+        <div className={`mt-4 flex items-center gap-3 rounded-md bg-[var(--color-page-soft)] px-4 py-3 text-[var(--color-text)] ${sectionBody}`}>
           <Icon type="info" isDark={isDark} className="h-7 w-7 shrink-0" />
           Prices are supply only. Labour and ancillary parts extra.
         </div>
@@ -201,7 +210,7 @@ function Notes({ parts, isDark }) {
               Important Notes
             </h3>
           </div>
-          <p className="text-[15px] leading-[1.5] text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: parts.important }} />
+          <p className={`text-[var(--color-text)] ${sectionBody}`} dangerouslySetInnerHTML={{ __html: parts.important }} />
         </div>
         <div className="flex flex-col gap-2.5">
           <div className="flex items-center justify-start gap-3">
@@ -210,7 +219,7 @@ function Notes({ parts, isDark }) {
               Labour Estimate
             </h3>
           </div>
-          <p className="text-[15px] leading-[1.5] text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: parts.labour }} />
+          <p className={`text-[var(--color-text)] ${sectionBody}`} dangerouslySetInnerHTML={{ __html: parts.labour }} />
         </div>
       </div>
 
@@ -219,10 +228,10 @@ function Notes({ parts, isDark }) {
           <Icon type="crown" isDark={isDark} className="h-12 w-12 md:h-16 md:w-16" />
         </span>
         <div className="max-w-[540px]">
-          <h3 className="font-lora text-[22px] font-medium leading-[1.12] md:text-[28px]" style={{ color: GOLD }}>
+          <h3 className={`font-lora font-medium leading-[1.12] ${sectionH4}`} style={{ color: GOLD }}>
             The ownership rule - generation is everything:
           </h3>
-          <p className="mt-2 text-[14px] leading-[1.5] md:text-[15px]" dangerouslySetInnerHTML={{ __html: parts.rule.replace(/^The 3 Series rule - generation is everything:\s*/i, "") }} />
+          <p className={`mt-2 ${sectionTableText}`} dangerouslySetInnerHTML={{ __html: parts.rule.replace(/^The 3 Series rule - generation is everything:\s*/i, "") }} />
           <p className="mt-2 font-bold">Value the car first; the engine decision follows.</p>
         </div>
       </div>
@@ -290,7 +299,7 @@ export default function ReplacementCosts({ data }) {
           <Notes parts={notes} isDark={isDark} />
         </div>
 
-        <p className="mt-5 text-center text-[15px] text-[var(--color-text-soft)] md:hidden">
+        <p className={`mt-5 text-center text-[var(--color-text-soft)] md:hidden ${sectionDescription}`}>
           All prices in GBP (£) &nbsp; • &nbsp; Supply only &nbsp; • &nbsp; Subject to availability and condition
         </p>
       </div>

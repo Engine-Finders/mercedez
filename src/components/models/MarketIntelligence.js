@@ -5,6 +5,16 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import {
+  sectionButton,
+  sectionEyebrow,
+  sectionH2,
+  sectionH4,
+  sectionH5,
+  sectionHighlight,
+  sectionSmall,
+  sectionTableText,
+} from "@/components/models/sectionTypography";
 
 function cleanText(text = "") {
   return text
@@ -77,7 +87,7 @@ function TrendIcon({ trend }) {
 function CircleIcon({ name, isDark, small = false }) {
   return (
     <span className={`flex shrink-0 items-center justify-center ${small ? "h-10 w-10 md:h-11 md:w-11" : "h-14 w-14 md:h-16 md:w-16"}`}>
-      <HomeIcon name={name} isDark={isDark} gold className={small ? "h-7 w-7 object-contain" : "h-10 w-10 object-contain md:h-12 md:w-12"} />
+      <HomeIcon name={name} isDark={isDark} className={small ? "h-7 w-7 object-contain" : "h-10 w-10 object-contain md:h-12 md:w-12"} />
     </span>
   );
 }
@@ -116,7 +126,7 @@ function RichText({ value, strongFirst = false }) {
 function SignalTable({ rows, isDark }) {
   return (
     <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] shadow-[0_10px_30px_var(--color-shadow)]">
-      <div className="grid grid-cols-[34%_30%_36%] text-[12px] font-bold text-white md:grid-cols-[32%_33%_35%] md:text-[14px]" style={{ backgroundColor: GOLD }}>
+      <div className={`grid grid-cols-[34%_30%_36%] font-bold text-white md:grid-cols-[32%_33%_35%] ${sectionTableText}`} style={{ backgroundColor: GOLD }}>
         <div className="px-2 py-2 md:px-5 md:py-3">Signal</div>
         <div className="border-l border-white/28 px-2 py-2 md:px-3 md:py-2">2025 Data</div>
         <div className="border-l border-white/28 px-2 py-2 md:px-3 md:py-2">Demand Trend</div>
@@ -130,12 +140,12 @@ function SignalTable({ rows, isDark }) {
           <div key={`${row.signal}-${index}`} className="grid grid-cols-[34%_30%_36%] border-t border-[var(--color-border)] text-[var(--color-text)] md:grid-cols-[32%_33%_35%]">
             <div className="flex min-w-0 items-center gap-2 px-2 py-3 md:gap-4 md:px-3 md:py-3">
               <CircleIcon name={isEngine ? "engine" : "car"} isDark={isDark} small />
-              <p className="min-w-0 break-words text-[12px] font-bold leading-[1.25] md:text-[15px]" dangerouslySetInnerHTML={{ __html: cleanText(row.signal) }} />
+              <p className={`min-w-0 break-words font-bold leading-[1.25] ${sectionTableText}`} dangerouslySetInnerHTML={{ __html: cleanText(row.signal) }} />
             </div>
-            <div className="border-l border-[var(--color-border)] px-2 py-3 text-[12px] leading-[1.35] md:px-3 md:text-[15px]">
+            <div className={`border-l border-[var(--color-border)] px-2 py-3 md:px-3 ${sectionTableText}`}>
               <RichText value={row.data} />
             </div>
-            <div className="flex min-w-0 items-start gap-2 border-l border-[var(--color-border)] px-2 py-3 text-[12px] leading-[1.35] md:items-center md:gap-4 md:px-3 md:text-[15px]">
+            <div className={`flex min-w-0 items-start gap-2 border-l border-[var(--color-border)] px-2 py-3 md:items-center md:gap-4 md:px-3 ${sectionTableText}`}>
               <TrendIcon trend={trend.trend} />
               <p className="min-w-0 break-words hyphens-auto whitespace-normal">
                 <strong className="font-bold text-[var(--color-text)]">{trend.label.split(" ")[0]}</strong>
@@ -162,14 +172,14 @@ function InsightsPanel({ insights, isDark }) {
   return (
     <div className="rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-3 shadow-[0_10px_30px_var(--color-shadow)] md:col-span-3 md:p-3.5">
       <div className="mb-4 flex items-center gap-3" style={{ color: GOLD }}>
-        <HomeIcon name="chart" isDark={isDark} gold className="h-5 w-5 object-contain" />
-        <h3 className="text-[15px] font-bold md:text-[16px]">Insights from the data:</h3>
+        <HomeIcon name="chart" isDark={isDark} className="h-5 w-5 object-contain" />
+        <h3 className={`font-bold ${sectionH5}`}>Insights from the data:</h3>
       </div>
 
       <div className="grid gap-4 md:grid-cols-3 md:gap-0">
         {insights.map((insight, index) => (
           <article key={insight} className="border-[var(--color-border)] md:border-l md:px-3 md:first:border-l-0 md:first:pl-0 md:last:pr-0">
-            <p className="text-[13px] leading-[1.42] text-[var(--color-text)] md:text-[14px]">
+            <p className={`text-[var(--color-text)] ${sectionTableText}`}>
               <span className="float-left mr-3 mb-1">
                 <CircleIcon name={INSIGHT_ICONS[index] || "insight"} isDark={isDark} />
               </span>
@@ -190,8 +200,8 @@ function LiveFeed({ note }) {
   return (
     <aside className="rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4 shadow-[0_10px_30px_var(--color-shadow)] md:p-5">
       <div className="flex items-center justify-between gap-4">
-        <h3 className="text-[16px] font-bold text-[var(--color-text)] md:text-[17px]">Live Enquiry Feed</h3>
-        <span className="inline-flex items-center gap-2 text-[13px] text-[var(--color-text-muted)]">
+        <h3 className={`font-bold text-[var(--color-text)] ${sectionH5}`}>Live Enquiry Feed</h3>
+        <span className={`inline-flex items-center gap-2 text-[var(--color-text-muted)] ${sectionSmall}`}>
           <span className="h-2 w-2 rounded-full" style={{ backgroundColor: GOLD }} />
           Live
         </span>
@@ -203,10 +213,10 @@ function LiveFeed({ note }) {
           <circle key={x} cx={x} cy={[64, 40, 37, 26, 25][index]} r="4" fill="var(--color-surface)" stroke="currentColor" strokeWidth="3" />
         ))}
       </svg>
-      <p className="mt-3 text-[14px] leading-[1.35] text-[var(--color-text-muted)]">{displayNote}</p>
+      <p className={`mt-3 text-[var(--color-text-muted)] ${sectionSmall}`}>{displayNote}</p>
       <Link
         href="#"
-        className="mt-4 inline-flex min-h-11 w-full items-center justify-center gap-3 rounded-md border px-5 py-3 text-[15px] font-bold no-underline transition-all duration-200 hover:opacity-90"
+        className={`mt-4 inline-flex min-h-11 w-full items-center justify-center gap-3 rounded-md border px-5 py-3 font-bold no-underline transition-all duration-200 hover:opacity-90 ${sectionButton}`}
         style={{ borderColor: GOLD, color: GOLD }}
       >
         View Live Feed
@@ -228,11 +238,11 @@ function PullQuote({ data, heroImage }) {
       <div className="p-3 md:p-3.5">
         <div className="flex">
           <div>
-            <p className="text-[11px] font-bold uppercase md:text-[12px]" style={{ color: GOLD }}>
+            <p className={`font-bold ${sectionEyebrow}`} style={{ color: GOLD }}>
               Editorial Pull-Quote
             </p>
-            <h3 className="mt-1.5 max-w-[560px] text-[22px] font-bold leading-[1.1] text-[var(--color-text)] md:text-[31px]" dangerouslySetInnerHTML={{ __html: cleanText(data.title) }} />
-            <blockquote className="mt-2 max-w-[760px] text-[12px] leading-[1.45] text-[var(--color-text)] md:text-[13px]">
+            <h3 className={`mt-1.5 max-w-[560px] font-bold text-[var(--color-text)] ${sectionH4}`} dangerouslySetInnerHTML={{ __html: cleanText(data.title) }} />
+            <blockquote className={`mt-2 max-w-[760px] text-[var(--color-text)] ${sectionTableText}`}>
               &ldquo;<span dangerouslySetInnerHTML={{ __html: cleanText(data.quote) }} />&rdquo;
             </blockquote>
           </div>
@@ -257,7 +267,7 @@ export default function MarketIntelligence({ data, quoteData, heroImage }) {
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
         <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
           <div>
-            <h2 className={`font-lora max-w-[960px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <h2 className={`font-lora max-w-[960px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
               <span dangerouslySetInnerHTML={{ __html: title.before }} />
               {title.accent ? (
                 <>
@@ -274,9 +284,9 @@ export default function MarketIntelligence({ data, quoteData, heroImage }) {
           <div className="flex min-w-[210px] items-center gap-4 rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4 shadow-[0_8px_22px_var(--color-shadow)] md:p-5">
             <CircleIcon name="users" isDark={isDark} />
             <div>
-              <p className="text-[24px] font-bold leading-none text-[var(--color-text)] md:text-[34px]" dangerouslySetInnerHTML={{ __html: metricFromTitle(data.h2) }} />
-              <p className="mt-2 text-[13px] leading-[1.45] text-[var(--color-text-muted)] md:text-[14px]">Total Enquiries in 2025</p>
-              <p className="mt-1 text-[13px] font-medium md:text-[14px]" style={{ color: GOLD }}>
+              <p className={`font-bold leading-none text-[var(--color-text)] ${sectionHighlight}`} dangerouslySetInnerHTML={{ __html: metricFromTitle(data.h2) }} />
+              <p className={`mt-2 text-[var(--color-text-muted)] ${sectionSmall}`}>Total Enquiries in 2025</p>
+              <p className={`mt-1 font-medium ${sectionSmall}`} style={{ color: GOLD }}>
                 [MB-VERIFIED]
               </p>
             </div>

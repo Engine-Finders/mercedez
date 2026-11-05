@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
@@ -16,7 +35,7 @@ function CodeList({ items, icon, isDark }) {
       >
         <HomeIcon name={icon} isDark={isDark} className="h-5 w-5 md:h-6 md:w-6" />
       </span>
-      <p className={`font-lora text-[0.85rem] font-medium leading-snug md:text-[0.95rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <p className={`font-lora ${typeTable} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {(items || []).join(", ")}
       </p>
     </div>
@@ -34,7 +53,7 @@ function EraRow({ row, isDark }) {
         <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-white/15 bg-white/5 md:h-12 md:w-12">
           <HomeIcon name={row.icon || "car"} tone="silver" className="h-6 w-6 md:h-7 md:w-7" />
         </span>
-        <span className="font-lora text-[0.95rem] font-medium leading-tight" style={{ color: GOLD }}>
+        <span className={`font-lora ${typeHighlight} font-medium leading-tight`} style={{ color: GOLD }}>
           {row.era}
         </span>
       </div>
@@ -69,7 +88,7 @@ function TimelineTable({ data, isDark }) {
       <div className="overflow-x-auto">
         <div className="min-w-[720px]">
           <div
-            className={`grid grid-cols-[11rem_minmax(0,1.15fr)_minmax(0,1.15fr)_7.5rem] border-b text-[0.62rem] font-semibold uppercase tracking-[0.06em] ${
+            className={`grid grid-cols-[11rem_minmax(0,1.15fr)_minmax(0,1.15fr)_7.5rem] border-b ${typeTable} font-semibold uppercase tracking-[0.06em] ${
               isDark ? "border-white/10 bg-white/5 text-white/50" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
             }`}
           >
@@ -107,10 +126,10 @@ function KeyTakeaway({ data }) {
           <HomeIcon name={data.icon || "shield"} tone="silver" className="h-7 w-7 md:h-8 md:w-8" />
         </span>
         <div className="min-w-0">
-          <p className="font-lora text-[0.78rem] font-medium uppercase tracking-[0.08em] md:text-[0.85rem]" style={{ color: GOLD }}>
+          <p className={`font-lora ${typeEyebrow}`} style={{ color: GOLD }}>
             {data.title || "KEY TAKEAWAY"}
           </p>
-          <p className="mt-1.5 text-[0.82rem] font-light leading-[1.5] text-white/85 md:text-[0.92rem]">{data.text}</p>
+          <p className={`mt-1.5 ${typeDesc} font-light text-white/85`}>{data.text}</p>
         </div>
       </div>
     </div>
@@ -144,11 +163,11 @@ export default function HomeSec11({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Engine History - Six Decades of Engineering
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>

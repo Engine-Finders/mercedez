@@ -5,14 +5,22 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionBody, sectionDescription, sectionTableText } from "@/components/models/sectionTypography";
+import {
+  sectionBody,
+  sectionButton,
+  sectionDescription,
+  sectionH2,
+  sectionH5,
+  sectionSmall,
+  sectionTableText,
+} from "@/components/models/sectionTypography";
 
-const buyerImages = [
-  "/model/Hero-bg-image.webp",
-  "/model/Section 2-bg.webp",
-  "/model/Section 3-bg.webp",
-  "/hero-day.webp",
-  "/model/Hero-bg-image.webp",
+const FALLBACK_BUYER_IMAGES = [
+  "/cars/b-class-w245-standard-mpv-2005–2008-new-iridium silver metallic-first generation-b-class w245-45-angle-front-view.webp",
+  "/cars/b-class-w245-standard-mpv-2005–2008-new-iridium silver metallic-first generation-b-class w245 (2)-45-angle-front-view.webp",
+  "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169-45-angle-front-view.webp",
+  "/cars/a-class-w168-a-class facelift-hatchback-2001–2004-new-horizon blue metallic-revised front rear styling-a-class w168 a-class fl-45-angle-front-view.webp",
+  "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp",
 ];
 
 const proofItems = [
@@ -102,7 +110,7 @@ function Stars({ rating }) {
 function CircleIcon({ name, isDark }) {
   return (
     <span className="flex h-14 w-14 shrink-0 items-center justify-center md:h-16 md:w-16">
-      <HomeIcon name={name} isDark={isDark} gold className="h-9 w-9 object-contain md:h-10 md:w-10" />
+      <HomeIcon name={name} isDark={isDark} className="h-9 w-9 object-contain md:h-10 md:w-10" />
     </span>
   );
 }
@@ -113,34 +121,35 @@ function ProofStrip({ isDark }) {
       {proofItems.map((item) => (
         <li key={item.title} className="flex flex-col items-center justify-start border-r border-[var(--color-border)] px-5 py-3.5 text-center last:border-r-0">
           <HomeIcon name={item.icon} isDark={isDark} gold className="h-9 w-9 object-contain" />
-          <strong className="mt-1.5 text-[14px] leading-tight text-[var(--color-text)]">{item.title}</strong>
-          <span className="mt-0.5 text-[13px] leading-[1.25] text-[var(--color-text-muted)]">{item.text}</span>
+          <strong className={`mt-1.5 leading-tight text-[var(--color-text)] ${sectionSmall}`}>{item.title}</strong>
+          <span className={`mt-0.5 leading-[1.25] text-[var(--color-text-muted)] ${sectionSmall}`}>{item.text}</span>
         </li>
       ))}
     </ul>
   );
 }
 
-function BuyerRow({ row, index, isDark }) {
+function BuyerRow({ row, index, isDark, buyerImages }) {
   const iconKey = profileIconKey(row.buyerProfile);
+  const imageSrc = row.image?.src || buyerImages[index % buyerImages.length];
 
   return (
     <article className="grid overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] shadow-[0_10px_26px_var(--color-shadow)] md:rounded-none md:border-0 md:border-t md:shadow-none lg:grid-cols-[40%_18%_42%]">
-      <div className="grid grid-cols-[31%_69%] md:grid-cols-[300px_1fr] lg:border-r lg:border-[var(--color-border)]">
-        <div className="relative min-h-[150px] md:min-h-[124px]">
+      <div className="grid grid-cols-[38%_62%] md:grid-cols-[220px_1fr] lg:border-r lg:border-[var(--color-border)]">
+        <div className={`relative flex min-h-[120px] items-center justify-center md:min-h-[110px] ${isDark ? "bg-black/20" : "bg-[var(--color-page-soft)]"}`}>
           <Image
-            src={buyerImages[index % buyerImages.length]}
-            alt=""
+            src={imageSrc}
+            alt={row.image?.alt || ""}
             fill
-            className="object-cover"
-            sizes="(min-width: 1024px) 300px, (min-width: 768px) 300px, 31vw"
+            className="object-contain object-center p-1.5"
+            sizes="(min-width: 1024px) 220px, (min-width: 768px) 220px, 38vw"
           />
         </div>
-        <div className="flex min-w-0 items-center gap-3 px-3 py-3.5 md:px-5 md:py-4">
+        <div className="flex min-w-0 items-center gap-3 px-3 py-3 md:px-4 md:py-3.5">
           <CircleIcon name={PROFILE_ICON_MAP[iconKey]} isDark={isDark} />
           <div className="min-w-0">
             <h3
-              className="font-lora text-[16px] font-medium leading-[1.12] text-[var(--color-text)] md:text-[18px]"
+              className={`font-lora font-medium leading-[1.12] text-[var(--color-text)] ${sectionH5}`}
               dangerouslySetInnerHTML={{ __html: cleanText(row.buyerProfile) }}
             />
             <div className="mt-3 lg:hidden">
@@ -155,7 +164,7 @@ function BuyerRow({ row, index, isDark }) {
       </div>
 
       <p
-        className={`border-t border-[var(--color-border)] px-3 py-3 text-[var(--color-text)] md:px-4 md:py-3 lg:border-t-0 ${sectionTableText} md:text-[14px]`}
+        className={`border-t border-[var(--color-border)] px-3 py-3 text-[var(--color-text)] md:px-4 md:py-3 lg:border-t-0 ${sectionTableText}`}
         dangerouslySetInnerHTML={{ __html: cleanText(row.verdict) }}
       />
     </article>
@@ -170,13 +179,14 @@ export default function WhoShouldBuy({ data }) {
   const title = splitTitle(data.h2);
   const modelName = modelNameFromTitle(data.h2);
   const profiles = data.profiles || [];
+  const buyerImages = data.buyerImages?.length ? data.buyerImages : FALLBACK_BUYER_IMAGES;
 
   return (
     <section className={`py-6 text-[var(--color-text)] md:py-8 ${homeSectionBg(isDark, 10)}`}>
       <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
         <div className="flex flex-col gap-5 lg:grid lg:grid-cols-[minmax(0,0.92fr)_minmax(520px,1fr)] lg:items-start">
           <div>
-            <h2 className={`font-lora max-w-[760px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <h2 className={`font-lora max-w-[760px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
               <span dangerouslySetInnerHTML={{ __html: title.before }} />
               {title.accent ? (
                 <>
@@ -198,7 +208,7 @@ export default function WhoShouldBuy({ data }) {
         </div>
 
         <div className="mt-6 overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] shadow-[0_12px_32px_var(--color-shadow)]">
-          <div className="hidden grid-cols-[40%_18%_42%] text-[14px] font-bold text-white lg:grid" style={{ backgroundColor: GOLD }}>
+          <div className={`hidden grid-cols-[40%_18%_42%] font-bold text-white lg:grid ${sectionTableText}`} style={{ backgroundColor: GOLD }}>
             {(data.columns || ["Buyer Profile", "Rating", "Our Verdict"]).map((column, index) => (
               <div key={column} className={`px-3 py-2.5 ${index > 0 ? "border-l border-white/20" : ""}`}>
                 {column}
@@ -208,7 +218,7 @@ export default function WhoShouldBuy({ data }) {
 
           <div className="grid gap-5 bg-[var(--color-page)] md:gap-0 lg:block">
             {profiles.map((row, index) => (
-              <BuyerRow key={`${row.buyerProfile}-${index}`} row={row} index={index} isDark={isDark} />
+              <BuyerRow key={`${row.buyerProfile}-${index}`} row={row} index={index} isDark={isDark} buyerImages={buyerImages} />
             ))}
           </div>
         </div>
@@ -228,7 +238,7 @@ export default function WhoShouldBuy({ data }) {
           </div>
           <Link
             href="#engine-database"
-            className="inline-flex min-h-12 shrink-0 items-center justify-center gap-4 rounded-md px-5 py-3 text-[16px] font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] transition-all duration-200 hover:opacity-90 md:min-w-[260px]"
+            className={`inline-flex min-h-12 shrink-0 items-center justify-center gap-4 rounded-md px-5 py-3 font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] transition-all duration-200 hover:opacity-90 md:min-w-[260px] ${sectionButton}`}
             style={{ backgroundColor: GOLD }}
           >
             Explore <span dangerouslySetInnerHTML={{ __html: modelName }} /> Engines

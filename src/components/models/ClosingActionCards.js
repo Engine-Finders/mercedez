@@ -5,7 +5,7 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionBody, sectionButton, sectionDescription } from "@/components/models/sectionTypography";
+import { sectionBody, sectionButton, sectionDescription, sectionH2, sectionH4 } from "@/components/models/sectionTypography";
 
 const cardThemes = [
   {
@@ -111,23 +111,24 @@ function ActionCard({ card, index, isDark, heroImage }) {
       ) : (
         <UkMapArt accent={theme.accent} />
       )}
-      <div className="relative z-10 flex h-full max-w-[70%] flex-col items-start md:max-w-[74%] lg:max-w-[78%]">
-        <span className="flex h-16 w-16 items-center justify-center rounded-md bg-white/86 shadow-[0_12px_26px_rgba(10,26,43,0.10)] md:h-20 md:w-20">
-          <HomeIcon name={theme.icon} isDark={isDark} gold className="h-10 w-10 object-contain md:h-12 md:w-12" />
-        </span>
-        <h3 className="mt-5 font-lora text-[24px] font-medium leading-[1.06] text-black md:text-[26px] lg:text-[24px]">
-          <span dangerouslySetInnerHTML={{ __html: titleParts.before }} />
-          {titleParts.before ? <br className="md:hidden lg:block" /> : null}
-          {titleParts.accent ? (
-            <>
-              {" "}
-              <span style={{ color: theme.accent }} dangerouslySetInnerHTML={{ __html: titleParts.accent }} />
-            </>
-          ) : null}
-          {titleParts.after ? <> <span dangerouslySetInnerHTML={{ __html: titleParts.after }} /></> : null}
-        </h3>
+      <div className="relative z-10 flex h-full max-w-[78%] flex-col items-start md:max-w-[82%]">
+        <div className="flex items-center gap-3 md:gap-3.5">
+          <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-md bg-white/86 shadow-[0_12px_26px_rgba(10,26,43,0.10)] md:h-14 md:w-14">
+            <HomeIcon name={theme.icon} isDark={isDark} className="h-8 w-8 object-contain md:h-9 md:w-9" />
+          </span>
+          <h3 className={`min-w-0 font-lora font-medium leading-tight text-black ${sectionH4}`}>
+            <span dangerouslySetInnerHTML={{ __html: titleParts.before }} />
+            {titleParts.accent ? (
+              <>
+                {" "}
+                <span style={{ color: theme.accent }} dangerouslySetInnerHTML={{ __html: titleParts.accent }} />
+              </>
+            ) : null}
+            {titleParts.after ? <> <span dangerouslySetInnerHTML={{ __html: titleParts.after }} /></> : null}
+          </h3>
+        </div>
         <span className="mt-4 block h-1 w-12 rounded-full" style={{ backgroundColor: theme.accent }} />
-        <p className={`mt-4 max-w-[360px] text-[var(--color-text)] ${sectionBody} md:text-[17px]`} dangerouslySetInnerHTML={{ __html: cleanText(card.text) }} />
+        <p className={`mt-4 max-w-[360px] text-[var(--color-text)] ${sectionBody}`} dangerouslySetInnerHTML={{ __html: cleanText(card.text) }} />
         <span className={`mt-auto inline-flex items-center gap-5 pt-6 font-bold ${sectionButton}`} style={{ color: theme.accent }}>
           {theme.cta}
           <ArrowIcon className="h-6 w-6 transition-transform duration-200 group-hover:translate-x-1" />
@@ -149,18 +150,27 @@ export default function ClosingActionCards({ data, heroImage }) {
   return (
     <section className={`relative overflow-hidden pt-2 pb-8 text-[var(--color-text)] ${homeSectionBg(isDark, 14)}`}>
       <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
-        <div className="relative overflow-hidden rounded-md bg-[var(--color-surface-raised)]">
-          <Image src={bgSrc} alt={bgAlt} fill unoptimized className="hidden object-cover object-center md:block" sizes="100vw" />
+        <div className={`relative overflow-hidden rounded-md ${isDark ? "bg-[#070706]" : "bg-white"}`}>
+          <Image src={bgSrc} alt={bgAlt} fill unoptimized className="object-cover object-center opacity-90" sizes="100vw" />
           <div
             className="absolute inset-0"
             style={{
               background: isDark
-                ? "linear-gradient(90deg,rgba(7,7,6,0.97)_0%,rgba(7,7,6,0.88)_40%,rgba(7,7,6,0.3)_75%,transparent_100%)"
-                : "linear-gradient(90deg,#F8F7F3_0%,rgba(248,247,243,0.95)_40%,rgba(248,247,243,0.3)_75%,transparent_100%)",
+                ? "linear-gradient(90deg,rgba(7,7,6,0.7)_0%,rgba(7,7,6,0.32)_50%,transparent_82%)"
+                : "linear-gradient(90deg,rgba(255,255,255,0.55)_0%,rgba(255,255,255,0.22)_50%,transparent_82%)",
+            }}
+          />
+          <div
+            aria-hidden="true"
+            className="pointer-events-none absolute inset-y-0 left-0 z-[1] w-[90%] max-w-[720px] md:w-[68%]"
+            style={{
+              background: isDark
+                ? "radial-gradient(ellipse 92% 130% at 16% 48%, rgba(7,7,6,0.97) 0%, rgba(7,7,6,0.84) 40%, rgba(7,7,6,0.28) 70%, transparent 100%)"
+                : "radial-gradient(ellipse 92% 130% at 16% 48%, rgba(255,255,255,0.98) 0%, rgba(255,255,255,0.9) 40%, rgba(255,255,255,0.35) 70%, transparent 100%)",
             }}
           />
           <div className="relative z-10 max-w-[620px] px-4 py-4 md:px-6 md:py-6">
-            <h2 className={`font-lora max-w-[570px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <h2 className={`font-lora max-w-[570px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
               <span dangerouslySetInnerHTML={{ __html: title.before }} />
               {title.accent ? (
                 <>
@@ -172,7 +182,7 @@ export default function ClosingActionCards({ data, heroImage }) {
             <div className="mt-4">
               <SectionFadeStrip isDark={isDark} />
             </div>
-            <p className={`mt-4 max-w-[500px] text-[var(--color-text-muted)] ${sectionDescription} md:text-[17px]`}>
+            <p className={`mt-4 max-w-[500px] text-[var(--color-text-muted)] ${sectionDescription}`}>
               Everything you need to choose with confidence.
               <br />
               Data. Honesty. Specialists. All in one place.

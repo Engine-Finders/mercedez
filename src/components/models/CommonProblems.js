@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionH2, sectionTableText } from "@/components/models/sectionTypography";
+import { sectionBadge, sectionDescription, sectionH2, sectionH5, sectionH6, sectionHighlight, sectionSmall, sectionTableText } from "@/components/models/sectionTypography";
 
 const defaultProblemImage = "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=700&q=80";
 
@@ -65,7 +65,7 @@ function SeverityBadge({ severity }) {
   const classes = severityStyles[type] || severityStyles.monitor;
 
   return (
-    <span className={`inline-flex items-center gap-2 text-[15px] font-bold ${classes.text}`}>
+    <span className={`inline-flex items-center gap-2 font-bold ${sectionBadge} ${classes.text}`}>
       <span className={`h-3 w-3 rounded-full ${classes.dot}`} />
       <span dangerouslySetInnerHTML={{ __html: cleanText(severity?.label) }} />
     </span>
@@ -85,7 +85,7 @@ function ProblemImage({ index }) {
         className="h-full w-full object-cover"
       />
       <span
-        className="absolute left-3 top-3 rounded-md bg-[var(--color-surface-raised)] px-2 py-1 text-[18px] font-bold shadow-sm"
+        className={`absolute left-3 top-3 rounded-md bg-[var(--color-surface-raised)] px-2 py-1 font-bold shadow-sm ${sectionH6}`}
         style={{ color: GOLD }}
       >
         {String(index + 1).padStart(2, "0")}
@@ -102,20 +102,15 @@ function ProblemCard({ problem, index }) {
     <article className="grid grid-cols-[0.85fr_1.55fr] overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] shadow-[0_8px_22px_var(--color-shadow)] md:grid-cols-[0.9fr_1.3fr]">
       <ProblemImage index={index} />
       <div className="flex min-w-0 flex-col p-2.5 md:p-4">
-        <div className="flex items-start justify-between gap-4">
-          <h3
-            className="font-lora text-[15px] font-medium leading-[1.15] text-[var(--color-text)] md:text-[18px]"
-            dangerouslySetInnerHTML={{ __html: cleanText(problem.issue) }}
-          />
-          <div className="hidden shrink-0 md:block">
-            <SeverityBadge severity={problem.severity} />
-          </div>
-        </div>
-        <div className="mt-3 md:hidden">
+        <h3
+          className={`font-lora text-[var(--color-text)] ${sectionH5}`}
+          dangerouslySetInnerHTML={{ __html: cleanText(problem.issue) }}
+        />
+        <div className="mt-2 md:mt-2.5">
           <SeverityBadge severity={problem.severity} />
         </div>
         <p className={`mt-2 ${sectionTableText} text-[var(--color-text-muted)] md:mt-3`} dangerouslySetInnerHTML={{ __html: cleanText(problem.description) }} />
-        <Link href={href} className="mt-auto flex items-center justify-end gap-2 pt-4 text-[18px] font-bold no-underline hover:opacity-90" style={{ color: GOLD }}>
+        <Link href={href} className={`mt-auto flex items-center justify-end gap-2 pt-4 font-bold no-underline hover:opacity-90 ${sectionHighlight}`} style={{ color: GOLD }}>
           <span dangerouslySetInnerHTML={{ __html: label.replace(/\s*\u2192\s*$/, "") }} />
           <ArrowIcon />
         </Link>
@@ -130,7 +125,7 @@ function UrgencyKey({ items }) {
   return (
     <div className="rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-4 shadow-[0_8px_22px_var(--color-shadow)]">
       <div className="grid gap-4 md:grid-cols-[1fr_repeat(4,1.2fr)] md:items-start">
-        <h3 className="text-[15px] font-bold uppercase text-[var(--color-text)]">Urgency Key</h3>
+        <h3 className={`font-bold uppercase text-[var(--color-text)] ${sectionH5}`}>Urgency Key</h3>
         {items.map((item) => {
           const label = cleanText(item.label);
           const type = label.toLowerCase();
@@ -139,7 +134,7 @@ function UrgencyKey({ items }) {
           return (
             <div key={label} className="flex gap-3 border-[var(--color-border)] md:border-l md:pl-6">
               <span className={`mt-1 h-4 w-4 shrink-0 rounded-full ${dot}`} />
-              <p className="text-[15px] leading-[1.35] text-[var(--color-text-muted)]">
+              <p className={`text-[var(--color-text-muted)] ${sectionSmall}`}>
                 <strong className="block text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: label }} />
                 <span dangerouslySetInnerHTML={{ __html: cleanText(item.text) }} />
               </p>
@@ -170,7 +165,7 @@ export default function CommonProblems({ data }) {
             <SectionFadeStrip isDark={isDark} />
           </div>
           {data.subHeadline ? (
-            <p className="mt-3 max-w-[620px] text-[14px] leading-[1.45] text-[var(--color-text-muted)] md:text-[16px]">{cleanText(data.subHeadline)}</p>
+            <p className={`mt-3 max-w-[620px] text-[var(--color-text-muted)] ${sectionDescription}`}>{cleanText(data.subHeadline)}</p>
           ) : null}
         </div>
 
