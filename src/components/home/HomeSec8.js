@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -18,7 +37,7 @@ function CentreCard({ item, isDark, serifTitle = false }) {
         isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
       }`}
     >
-      <span className={`absolute right-3 top-3 text-[0.75rem] font-medium tabular-nums ${isDark ? "text-white/35" : "text-[var(--color-text-soft)]"}`}>
+      <span className={`absolute right-3 top-3 ${typeSmall} font-medium tabular-nums ${isDark ? "text-white/35" : "text-[var(--color-text-soft)]"}`}>
         {num}
       </span>
 
@@ -32,20 +51,20 @@ function CentreCard({ item, isDark, serifTitle = false }) {
             <HomeIcon name={item.icon} isDark={isDark} className="h-7 w-10 object-contain md:h-8 md:w-12" />
           </span>
           <h3
-            className={`min-w-0 text-[1rem] leading-tight md:text-[1.08rem] ${
+            className={`min-w-0 ${typeH5} leading-tight ${
               serifTitle ? "font-lora font-medium" : "font-semibold"
             } ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
           >
             {item.title}
           </h3>
         </div>
-        <p className={`text-[0.75rem] font-light leading-[1.4] md:text-[0.8rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+        <p className={`${typeSmall} font-light ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
           {item.description}
         </p>
         {item.meta ? (
-          <p className={`text-[0.68rem] ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>{item.meta}</p>
+          <p className={`${typeBadge} ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>{item.meta}</p>
         ) : null}
-        <span className="font-lora text-[0.85rem] font-medium" style={{ color: GOLD }}>
+        <span className={`font-lora ${typeHighlight} font-medium`} style={{ color: GOLD }}>
           {item.link?.label || "Explore →"}
         </span>
       </div>
@@ -60,7 +79,7 @@ function BottomBar({ data, isDark }) {
     <div className="mt-5 flex flex-col gap-4 rounded-xl px-4 py-4 md:mt-6 md:flex-row md:items-center md:justify-between md:px-5 md:py-4" style={{ backgroundColor: "#0a0a0a" }}>
       <ul className="flex flex-wrap gap-x-5 gap-y-2">
         {(data.items || []).map((item) => (
-          <li key={item.label} className="inline-flex items-center gap-2 text-[0.75rem] text-white/85 md:text-[0.8rem]">
+          <li key={item.label} className={`inline-flex items-center gap-2 ${typeSmall} text-white/85`}>
             <HomeIcon name={item.icon} tone="silver" className="h-5 w-5" />
             <span>{item.label}</span>
           </li>
@@ -68,7 +87,7 @@ function BottomBar({ data, isDark }) {
       </ul>
       <Link
         href={data.cta?.href || "/quote"}
-        className="inline-flex shrink-0 items-center justify-center rounded-md border px-5 py-2.5 text-[0.8rem] font-semibold uppercase tracking-wide no-underline"
+        className={`inline-flex shrink-0 items-center justify-center rounded-md border px-5 py-2.5 ${typeButton} font-semibold uppercase tracking-wide no-underline`}
         style={{ borderColor: GOLD, color: GOLD }}
       >
         {data.cta?.label || "GET EXPERT ADVICE →"}
@@ -105,11 +124,11 @@ export default function HomeSec8({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Knowledge Centres
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>

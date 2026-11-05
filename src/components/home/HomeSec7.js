@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -43,39 +62,41 @@ function EngineRow({ row, isDark }) {
 
   const body = (
     <>
-      <div className="flex min-w-0 items-center gap-2">
+      <div className="flex min-w-0 items-center gap-2 overflow-hidden">
         <HomeIcon name="engine" isDark={isDark} className="h-5 w-5 shrink-0" />
-        <span className={`font-lora text-[0.95rem] font-medium md:text-[1.05rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.code}</span>
+        <span className={`font-lora min-w-0 truncate ${typeTable} font-medium ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          {row.code}
+        </span>
       </div>
 
-      <div className="flex min-w-0 items-center gap-1.5">
+      <div className="flex min-w-0 items-center gap-1.5 overflow-hidden">
         <HomeIcon name={isDiesel ? "droplet" : "fuel"} isDark={isDark} className="h-4 w-4 shrink-0" />
-        <span className={`text-[0.78rem] font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.fuel}</span>
+        <span className={`min-w-0 truncate ${typeTable} font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.fuel}</span>
       </div>
 
-      <span className={`text-[0.78rem] font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.years}</span>
+      <span className={`min-w-0 truncate ${typeTable} font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.years}</span>
 
-      <div>
-        <p className={`text-[0.78rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.enquiries}</p>
-        <p className={`text-[0.62rem] ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>{row.sourceTag}</p>
+      <div className="min-w-0 overflow-hidden">
+        <p className={`truncate ${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.enquiries}</p>
+        <p className={`truncate ${typeBadge} ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>{row.sourceTag}</p>
       </div>
 
-      <div className="flex items-center gap-1.5">
+      <div className="flex min-w-0 items-center gap-1.5 overflow-hidden">
         <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
           <VerdictGlyph type={row.verdict?.type} />
         </span>
-        <span className="text-[0.78rem] font-semibold" style={{ color: style.bg }}>
+        <span className={`min-w-0 truncate ${typeTable} font-semibold`} style={{ color: style.bg }}>
           {row.verdict?.label || style.label}
         </span>
       </div>
 
-      <p className={`text-[0.72rem] font-light leading-[1.35] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+      <p className={`min-w-0 ${typeTable} font-light ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
         {row.take}
       </p>
     </>
   );
 
-  const className = `grid grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] items-center gap-3 border-b px-3 py-3 no-underline last:border-b-0 hover:no-underline md:px-4 md:py-3.5 ${
+  const className = `grid grid-cols-[minmax(128px,0.95fr)_minmax(110px,0.95fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] items-center gap-3 border-b px-3 py-3 no-underline last:border-b-0 hover:no-underline md:px-4 md:py-3.5 ${
     isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
   }`;
 
@@ -101,21 +122,21 @@ function FooterCta({ data, isDark }) {
     >
       <div className="flex min-w-0 flex-1 items-start gap-2.5">
         <HomeIcon name="shield" isDark={isDark} gold className="mt-0.5 h-7 w-7 shrink-0 md:h-8 md:w-8" />
-        <p className={`text-[0.75rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+        <p className={`${typeSmall} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
           {data.left}
         </p>
       </div>
 
       <div className="flex min-w-0 flex-1 items-start gap-2.5 md:border-l md:pl-5" style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.08)" }}>
         <HomeIcon name="star" isDark={isDark} gold className="mt-0.5 h-5 w-5 shrink-0 md:h-6 md:w-6" />
-        <p className={`text-[0.75rem] leading-[1.4] md:text-[0.85rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+        <p className={`${typeSmall} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
           {data.center}
         </p>
       </div>
 
       <Link
         href={data.href || "/quote"}
-        className="btn-cta inline-flex w-full shrink-0 items-center justify-center rounded-md border px-4 py-2.5 text-[0.8rem] font-semibold uppercase tracking-wide no-underline md:w-auto md:px-5 md:py-3 md:text-[0.82rem]"
+        className={`btn-cta ${typeButton} inline-flex w-full shrink-0 items-center justify-center rounded-md border px-4 py-2.5 font-semibold uppercase tracking-wide no-underline md:w-auto md:px-5 md:py-3`}
         style={{ borderColor: GOLD, color: GOLD, backgroundColor: "#0a0a0a" }}
       >
         {data.buttonLabel || "GET EXPERT ADVICE →"}
@@ -153,11 +174,11 @@ export default function HomeSec7({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Mercedes-Benz Engine Families - The Pillars
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>
@@ -170,14 +191,16 @@ export default function HomeSec7({ data }) {
           }`}
         >
           <div className="overflow-x-auto">
-            <div className="min-w-[760px]">
+            <div className="min-w-[820px]">
               <div
-                className={`grid grid-cols-[minmax(110px,0.9fr)_minmax(120px,1fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] gap-3 border-b px-3 py-2.5 text-[0.65rem] font-semibold uppercase tracking-[0.06em] md:px-4 ${
+                className={`grid grid-cols-[minmax(128px,0.95fr)_minmax(110px,0.95fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] gap-3 border-b px-3 py-2.5 ${typeTable} font-semibold uppercase tracking-[0.06em] md:px-4 ${
                   isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
                 }`}
               >
                 {columns.map((col) => (
-                  <span key={col}>{col}</span>
+                  <span key={col} className="min-w-0 truncate">
+                    {col}
+                  </span>
                 ))}
               </div>
 

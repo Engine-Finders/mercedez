@@ -1,3 +1,4 @@
+import { typeBadge, typeSmall } from "@/components/shared/typography";
 import HomeIcon from "@/components/home/homeIcons";
 
 /**
@@ -36,17 +37,13 @@ export default function TrustBadges({ items, isDark = false, className = "", mob
             />
             <span className="min-w-0 px-0.5">
               <strong
-                className={`block leading-tight md:text-[0.88rem] ${
-                  mobileRow ? "text-[0.55rem]" : "text-[0.78rem]"
-                } ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
+                className={`block leading-tight ${typeBadge} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
               >
                 {title}
               </strong>
               {text ? (
                 <span
-                  className={`mt-0.5 block leading-[1.2] md:text-[0.68rem] ${
-                    mobileRow ? "text-[0.48rem]" : "text-[0.68rem]"
-                  } ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}
+                  className={`mt-0.5 block leading-[1.2] ${typeSmall} ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}
                 >
                   {text}
                 </span>

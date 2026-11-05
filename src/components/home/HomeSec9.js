@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -37,7 +56,7 @@ function SeverityBadge({ severity, isDark }) {
       <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
         <SeverityGlyph type={severity?.type} />
       </span>
-      <span className={`text-[0.72rem] font-medium leading-tight md:text-[0.78rem] ${isDark ? "text-white/90" : "text-[var(--color-text)]"}`}>
+      <span className={`${typeTable} font-medium leading-tight ${isDark ? "text-white/90" : "text-[var(--color-text)]"}`}>
         {severity?.label || style.label}
       </span>
     </span>
@@ -57,7 +76,7 @@ function FailureRow({ row, isDark, compact = false }) {
         isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
       }`}
     >
-      <span className={`flex items-center justify-center self-center text-center text-[0.78rem] font-normal tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>
+      <span className={`flex items-center justify-center self-center text-center ${typeTable} font-normal tabular-nums ${isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}`}>
         {row.id}
       </span>
 
@@ -71,16 +90,16 @@ function FailureRow({ row, isDark, compact = false }) {
             >
               <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-3.5 w-3.5" />
             </span>
-            <span className={`text-[0.8rem] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <span className={`${typeTable} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.title}
             </span>
           </div>
-          <p className={`text-[0.7rem] font-light leading-[1.35] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`${typeTable} font-light ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
             {row.description}
           </p>
           <div className="flex flex-wrap items-center justify-between gap-2">
             <SeverityBadge severity={row.severity} isDark={isDark} />
-            <span className="font-lora text-[0.75rem] font-medium" style={{ color: GOLD }}>
+            <span className={`font-lora ${typeTable} font-medium`} style={{ color: GOLD }}>
               {row.link?.label || "Read more →"}
             </span>
           </div>
@@ -95,17 +114,17 @@ function FailureRow({ row, isDark, compact = false }) {
             >
               <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-5 w-5 md:h-6 md:w-6" />
             </span>
-            <span className={`text-[0.8rem] font-medium leading-snug md:text-[0.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <span className={`${typeTable} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.title}
             </span>
           </div>
-          <p className={`col-span-2 text-[0.7rem] font-light leading-[1.35] md:col-span-1 md:text-[0.74rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`col-span-2 ${typeTable} font-light md:col-span-1 ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
             {row.description}
           </p>
           {/* Mobile: severity + link in one row (like warning-signs card) */}
           <div className="col-span-2 flex flex-wrap items-center justify-between gap-2 md:hidden">
             <SeverityBadge severity={row.severity} isDark={isDark} />
-            <span className="font-lora text-[0.75rem] font-medium" style={{ color: GOLD }}>
+            <span className={`font-lora ${typeTable} font-medium`} style={{ color: GOLD }}>
               {row.link?.label || "Read more →"}
             </span>
           </div>
@@ -113,7 +132,7 @@ function FailureRow({ row, isDark, compact = false }) {
           <div className="hidden md:block">
             <SeverityBadge severity={row.severity} isDark={isDark} />
           </div>
-          <span className="hidden whitespace-nowrap font-lora text-[0.78rem] font-medium md:inline" style={{ color: GOLD }}>
+          <span className={`hidden whitespace-nowrap font-lora ${typeTable} font-medium md:inline`} style={{ color: GOLD }}>
             {row.link?.label || "Read more →"}
           </span>
         </>
@@ -135,14 +154,14 @@ function FailureCard({ block, isDark, compact = false }) {
         >
           <HomeIcon name={block.icon || "engine"} isDark={isDark} className={compact ? "h-4 w-4" : "h-6 w-6 md:h-7 md:w-7"} />
         </span>
-        <h3 className={`font-lora font-medium uppercase tracking-[0.04em] ${compact ? "text-[0.9rem]" : "text-[0.95rem] md:text-[1.05rem]"} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+        <h3 className={`font-lora ${typeH6} font-medium uppercase tracking-[0.04em] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {block.title}
         </h3>
       </div>
 
       {!compact ? (
         <div
-          className={`hidden items-center border-b px-3.5 py-2.5 text-[0.78rem] font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[1.75rem_minmax(120px,1.1fr)_minmax(140px,1.35fr)_minmax(100px,0.9fr)_auto] md:gap-3 ${
+          className={`hidden items-center border-b px-3.5 py-2.5 ${typeTable} font-semibold uppercase tracking-[0.06em] md:grid md:grid-cols-[1.75rem_minmax(120px,1.1fr)_minmax(140px,1.35fr)_minmax(100px,0.9fr)_auto] md:gap-3 ${
             isDark ? "border-white/10 bg-white/5 text-white/50" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
           }`}
         >
@@ -170,7 +189,7 @@ function UrgencyKey({ items, isDark }) {
         isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
       }`}
     >
-      <span className={`text-[0.72rem] font-semibold uppercase tracking-[0.08em] ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+      <span className={`${typeEyebrow} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
         Urgency Key
       </span>
       {items.map((item) => {
@@ -180,7 +199,7 @@ function UrgencyKey({ items, isDark }) {
             <span className="flex h-4 w-4 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
               <SeverityGlyph type={item.type} />
             </span>
-            <span className={`text-[0.72rem] md:text-[0.78rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+            <span className={`${typeSmall} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
               <strong className="font-medium">{item.label}</strong>
               <span className={isDark ? "text-white/55" : "text-[var(--color-text-muted)]"}> - {item.text}</span>
             </span>
@@ -218,11 +237,11 @@ export default function HomeSec9({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             The Mercedes-Benz Failure Database
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>

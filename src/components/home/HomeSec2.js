@@ -1,5 +1,6 @@
 "use client";
 
+import { typeH2, typeDesc, typeButton, typeSmall } from "@/components/shared/typography";
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -24,8 +25,12 @@ function VerdictBadge({ verdict, isDark }) {
   const icon = VERDICT_ICON[verdict?.type] || "safe-buy";
 
   return (
-    <span className={`inline-flex items-start gap-1.5 text-left text-[0.7rem] font-light leading-[1.25] no-underline md:text-[0.78rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-      <HomeIcon name={icon} isDark={isDark} className="mt-0.5 h-5 w-5 shrink-0" />
+    <span
+      className={`inline-flex items-start gap-1.5 text-left text-[12px] font-light leading-[1.25] no-underline md:text-[13px] ${
+        isDark ? "text-white/80" : "text-[var(--color-text-muted)]"
+      }`}
+    >
+      <HomeIcon name={icon} isDark={isDark} className="mt-0.5 h-4 w-4 shrink-0 md:h-5 md:w-5" />
       <span className="font-light no-underline">{verdict?.text}</span>
     </span>
   );
@@ -37,32 +42,44 @@ function ModelCard({ item, isDark }) {
   return (
     <Link
       href={href}
-      className={`flex items-center gap-3 rounded-lg border px-3 py-1.5 no-underline shadow-[0_2px_10px_rgba(0,0,0,0.04)] transition hover:no-underline hover:opacity-95 md:gap-4 md:px-4 md:py-1.5 ${
+      className={`flex items-center gap-2 rounded-lg border py-1.5 pl-1.5 pr-3 no-underline shadow-[0_2px_10px_rgba(0,0,0,0.04)] transition hover:no-underline hover:opacity-95 md:gap-4 md:px-4 md:py-1.5 ${
         isDark
           ? "border-white/10 bg-[var(--color-surface-raised)]"
           : "border-[#E5E5E5] bg-white"
       }`}
     >
-      <div className="relative h-[72px] w-[42%] shrink-0 overflow-hidden md:h-[88px]">
+      <div className="relative h-[72px] w-[46%] shrink-0 overflow-hidden md:h-[88px] md:w-[42%]">
         <Image
           src={item.image.src}
           alt={item.image.alt}
           fill
           unoptimized
-          className="object-contain object-center"
-          sizes="(max-width:768px) 40vw, 180px"
+          className="object-contain object-left md:object-center"
+          sizes="(max-width:768px) 46vw, 180px"
         />
       </div>
 
-      <div className="flex min-w-0 flex-1 flex-col justify-center gap-1 no-underline">
-        <p className={`font-lora text-[1.15rem] font-semibold leading-none no-underline md:text-[1.35rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <div className="flex min-w-0 flex-1 flex-col justify-center gap-0.5 no-underline md:gap-1">
+        <p
+          className={`font-lora text-[17px] font-semibold leading-none no-underline md:text-[20px] ${
+            isDark ? "text-white" : "text-[var(--color-text)]"
+          }`}
+        >
           {item.model}
         </p>
-        <p className={`text-[0.72rem] leading-[1.3] no-underline md:text-[0.8rem] ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+        <p
+          className={`text-[12px] leading-[1.3] no-underline md:text-[13px] ${
+            isDark ? "text-white/60" : "text-[var(--color-text-muted)]"
+          }`}
+        >
           {item.generations}
         </p>
         {item.note ? (
-          <p className={`text-[0.62rem] leading-snug no-underline ${isDark ? "text-white/45" : "text-[var(--color-text-soft)]"}`}>
+          <p
+            className={`text-[11px] leading-snug no-underline md:text-[12px] ${
+              isDark ? "text-white/45" : "text-[var(--color-text-soft)]"
+            }`}
+          >
             {item.note}
           </p>
         ) : null}
@@ -90,11 +107,11 @@ export default function HomeSec2({ data }) {
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
           <div className="max-w-[640px]">
-            <h2 className={`font-lora text-[2.2rem] font-medium leading-[1.05] md:text-[3.1rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Find Your Vehicle
             </h2>
             <SectionLabel isDark={isDark} />
-            <p className={`mt-2 max-w-[520px] text-[0.92rem] leading-[1.4] md:text-[1.05rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+            <p className={`mt-2 max-w-[520px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
               {data.subHeadline}
             </p>
           </div>
@@ -102,7 +119,12 @@ export default function HomeSec2({ data }) {
           {legend.length > 0 ? (
             <ul className="flex flex-wrap gap-x-4 gap-y-2 md:justify-end">
               {legend.map((item) => (
-                <li key={item.label} className="inline-flex items-center gap-2 text-[0.88rem] font-medium md:text-[1rem]" style={{ color: GOLD }}>
+                <li
+                  key={item.label}
+                  className={`inline-flex items-center gap-2 text-[13px] font-medium md:text-[15px] ${
+                    isDark ? "text-white" : "text-[#0a0a0a]"
+                  }`}
+                >
                   <HomeIcon name={item.icon} isDark={isDark} gold className="h-5 w-5 shrink-0 md:h-6 md:w-6" />
                   <span>{item.label}</span>
                 </li>
@@ -123,7 +145,7 @@ export default function HomeSec2({ data }) {
             <button
               type="button"
               onClick={() => setShowAllMobile((prev) => !prev)}
-              className="flex w-full items-center justify-center gap-2 rounded-md bg-[#0a0a0a] px-5 py-3.5 text-[0.9rem] font-semibold text-white"
+              className={`flex w-full items-center justify-center gap-2 rounded-md bg-[#0a0a0a] px-5 py-3.5 ${typeButton} font-semibold text-white`}
             >
               <span>{showAllMobile ? "Show fewer models" : "Show more models"}</span>
               <svg
@@ -156,7 +178,7 @@ export default function HomeSec2({ data }) {
             }`}
           >
             <HomeIcon name="info" isDark={isDark} gold className="mt-0.5 h-5 w-5 shrink-0" />
-            <p className={`text-[0.78rem] leading-[1.4] md:text-[0.86rem] ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
+            <p className={`${typeSmall} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>
               <span className="font-semibold">Data Note: </span>
               {dataNote}
             </p>
@@ -166,7 +188,7 @@ export default function HomeSec2({ data }) {
         <div className="mt-4 md:hidden">
           <Link
             href={cta.href || "/quote"}
-            className="btn-cta flex w-full items-center justify-center rounded-md px-5 py-3.5 text-[0.9rem] font-semibold text-white"
+            className={`btn-cta ${typeButton} flex w-full items-center justify-center rounded-md px-5 py-3.5 font-semibold text-white`}
             style={{ backgroundColor: GOLD }}
           >
             {cta.label || "START YOUR RESEARCH →"}

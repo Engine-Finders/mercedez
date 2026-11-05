@@ -4,7 +4,7 @@ import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionBody, sectionDescription, sectionH2, sectionTableText } from "@/components/models/sectionTypography";
+import { sectionBody, sectionDescription, sectionH2, sectionHighlight, sectionTableText } from "@/components/models/sectionTypography";
 
 const metricIcons = {
   "Overall Ownership Rating": "star",
@@ -63,7 +63,7 @@ function MetricIcon({ metric, isDark }) {
 
   return (
     <span className="flex h-11 w-11 shrink-0 items-center justify-center">
-      <HomeIcon name={icon} isDark={isDark} gold className="h-8 w-8 object-contain md:h-9 md:w-9" />
+      <HomeIcon name={icon} isDark={isDark} className="h-8 w-8 object-contain md:h-9 md:w-9" />
     </span>
   );
 }
@@ -71,7 +71,7 @@ function MetricIcon({ metric, isDark }) {
 function StatIcon({ iconKey, isDark }) {
   return (
     <span className="flex h-12 w-12 shrink-0 items-center justify-center">
-      <HomeIcon name={statIconKeys[iconKey] || iconKey || "chart"} isDark={isDark} gold className="h-10 w-10 object-contain" />
+      <HomeIcon name={statIconKeys[iconKey] || iconKey || "chart"} isDark={isDark} className="h-10 w-10 object-contain" />
     </span>
   );
 }
@@ -84,7 +84,7 @@ function VerdictTable({ metrics, isDark }) {
       }`}
     >
       <div
-        className={`grid grid-cols-[40%_60%] border-b px-3 py-2 font-semibold md:grid-cols-[42%_58%] md:px-3 md:py-2.5 ${sectionTableText} text-[13px]`}
+        className={`grid grid-cols-[40%_60%] border-b px-3 py-2 font-semibold md:grid-cols-[42%_58%] md:px-3 md:py-2.5 ${sectionTableText}`}
         style={{ borderColor: `${GOLD}55`, backgroundColor: isDark ? "rgba(171,132,80,0.12)" : "rgba(171,132,80,0.1)" }}
       >
         <span>Verdict Metric</span>
@@ -94,9 +94,9 @@ function VerdictTable({ metrics, isDark }) {
         <div key={row.metric} className="grid grid-cols-[40%_60%] border-b border-[var(--color-border)] last:border-b-0 md:grid-cols-[42%_58%]">
           <div className="flex items-center gap-2 border-r border-[var(--color-border)] px-3 py-2 md:px-3 md:py-2.5">
             <MetricIcon metric={row.metric} isDark={isDark} />
-            <span className={`font-medium leading-[1.25] ${sectionTableText} text-[13px]`} dangerouslySetInnerHTML={{ __html: cleanText(row.metric) }} />
+            <span className={`font-medium leading-[1.25] ${sectionTableText}`} dangerouslySetInnerHTML={{ __html: cleanText(row.metric) }} />
           </div>
-          <p className={`px-3 py-2 text-[var(--color-text-muted)] md:px-3 md:py-2.5 ${sectionTableText} text-[13px]`} dangerouslySetInnerHTML={{ __html: cleanText(row.ourCall) }} />
+          <p className={`px-3 py-2 text-[var(--color-text-muted)] md:px-3 md:py-2.5 ${sectionTableText}`} dangerouslySetInnerHTML={{ __html: cleanText(row.ourCall) }} />
         </div>
       ))}
     </div>
@@ -106,22 +106,19 @@ function VerdictTable({ metrics, isDark }) {
 function OneLineVerdict({ text, isDark }) {
   return (
     <div
-      className={`flex gap-4 rounded-md border p-4 shadow-[0_14px_36px_var(--color-shadow)] backdrop-blur md:items-center md:p-5 ${
+      className={`rounded-md border p-4 shadow-[0_14px_36px_var(--color-shadow)] backdrop-blur md:p-5 ${
         isDark ? "border-white/20 bg-[rgba(2,13,25,0.72)]" : "border-[var(--color-border)] bg-[rgba(255,255,255,0.86)]"
       }`}
     >
-      <span className="flex h-16 w-16 shrink-0 items-center justify-center md:h-20 md:w-20">
-        <HomeIcon name="shield" isDark={isDark} gold className="h-12 w-12 object-contain md:h-14 md:w-14" />
-      </span>
-      <div className="min-w-0">
+      <div className="flex items-center gap-2.5">
+        <span className="flex h-8 w-8 shrink-0 items-center justify-center md:h-9 md:w-9">
+          <HomeIcon name="shield" isDark={isDark} className="h-6 w-6 object-contain md:h-7 md:w-7" />
+        </span>
         <p className="font-bold" style={{ color: GOLD }}>
           One-line verdict:
         </p>
-        <p className={`mt-1 text-[var(--color-text-muted)] ${sectionBody}`} dangerouslySetInnerHTML={{ __html: cleanText(text) }} />
       </div>
-      <span className="ml-auto hidden text-4xl font-bold md:block" style={{ color: GOLD }}>
-        &quot;
-      </span>
+      <p className={`mt-2 text-[var(--color-text-muted)] ${sectionBody}`} dangerouslySetInnerHTML={{ __html: cleanText(text) }} />
     </div>
   );
 }
@@ -191,7 +188,7 @@ export default function OwnershipVerdict({ data }) {
                 <StatIcon iconKey={stat.iconKey} isDark={isDark} />
                 <p className={`text-[var(--color-text)] ${sectionTableText}`}>
                   {stat.value ? (
-                    <strong className="mr-1 text-[1.45rem] leading-none" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: stat.value }} />
+                    <strong className={`mr-1 leading-none ${sectionHighlight}`} style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: stat.value }} />
                   ) : null}
                   <span dangerouslySetInnerHTML={{ __html: stat.label }} />
                 </p>

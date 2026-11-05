@@ -5,6 +5,14 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import {
+  sectionDescription,
+  sectionH2,
+  sectionH5,
+  sectionHighlight,
+  sectionSmall,
+  sectionTableText,
+} from "@/components/models/sectionTypography";
 const STAT_ICON_MAP = {
   cube: "database",
   shield: "shield",
@@ -80,7 +88,7 @@ function shortTitle(title = "") {
 }
 
 function StatIcon({ type, isDark, className = "h-5 w-5" }) {
-  return <HomeIcon name={STAT_ICON_MAP[type] || "database"} isDark={isDark} gold className={`${className} object-contain`} />;
+  return <HomeIcon name={STAT_ICON_MAP[type] || "database"} isDark={isDark} className={`${className} object-contain`} />;
 }
 
 function StatCard({ icon, value, label, isDark }) {
@@ -90,9 +98,9 @@ function StatCard({ icon, value, label, isDark }) {
         <span className="shrink-0">
           <StatIcon type={icon} isDark={isDark} className="h-6 w-6" />
         </span>
-        <strong className="text-[1.05rem] leading-none text-[var(--color-text)]">{cleanText(value)}</strong>
+        <strong className={`leading-none text-[var(--color-text)] ${sectionHighlight}`}>{cleanText(value)}</strong>
       </div>
-      <p className="mt-3 text-[13px] leading-[1.45] text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: label }} />
+      <p className={`mt-3 text-[var(--color-text)] ${sectionSmall}`} dangerouslySetInnerHTML={{ __html: label }} />
     </div>
   );
 }
@@ -107,7 +115,7 @@ function Rating({ value }) {
   if (rating.includes("\u00bd")) stars[3] = "half";
 
   return (
-    <span className="inline-flex gap-0.5 text-[15px] leading-none">
+    <span className={`inline-flex gap-0.5 leading-none ${sectionTableText}`}>
       {stars.map((state, index) => (
         <span key={index} className={state === "empty" ? "text-[#cfd5dd]" : ""} style={state !== "empty" ? { color: GOLD } : undefined}>
           {state === "half" ? "\u00bd" : "\u2605"}
@@ -216,11 +224,11 @@ function applyNativeMobileFilters(section) {
 function DesktopTable({ engines }) {
   return (
     <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)]">
-      <table className="w-full border-collapse text-left text-[13px] text-[var(--color-text)]">
+      <table className={`w-full border-collapse text-left text-[var(--color-text)] ${sectionTableText}`}>
         <thead>
           <tr style={{ backgroundColor: "rgba(171,132,80,0.14)" }}>
             {["Engine Code", "Family", "Fuel", "Disp.", "Power", "Years", "Gen.", "Reliability", "2025 Enquiries", "Avg. Recon Cost"].map((column) => (
-              <th key={column} className="border-b border-r border-[var(--color-border)] px-3 py-3 text-center text-[13px] font-bold last:border-r-0">
+              <th key={column} className={`border-b border-r border-[var(--color-border)] px-3 py-3 text-center font-bold last:border-r-0 ${sectionTableText}`}>
                 {column}
               </th>
             ))}
@@ -249,7 +257,7 @@ function DesktopTable({ engines }) {
 
 function MobileControls({ filters, options, onChange, onReset, isDark }) {
   const selectClass =
-    "min-h-11 w-full appearance-none rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] py-2 pl-3 pr-10 text-[14px] text-[var(--color-text)]";
+    `min-h-11 w-full appearance-none rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] py-2 pl-3 pr-10 text-[var(--color-text)] ${sectionSmall}`;
   const selectStyle = {
     backgroundImage:
       "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%237b7368' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4 6l4 4 4-4'/%3E%3C/svg%3E\")",
@@ -261,7 +269,7 @@ function MobileControls({ filters, options, onChange, onReset, isDark }) {
 
   return (
     <div className="space-y-2.5">
-      <label className="flex min-h-12 items-center gap-2.5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-3 text-[14px] text-[var(--color-text-soft)]">
+      <label className={`flex min-h-12 items-center gap-2.5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-3 text-[var(--color-text-soft)] ${sectionSmall}`}>
         <StatIcon type="search" isDark={isDark} />
         <input
           type="search"
@@ -292,7 +300,7 @@ function MobileControls({ filters, options, onChange, onReset, isDark }) {
           <option value="family">Sort by Family</option>
         </select>
       </div>
-      <button type="button" data-filter-reset onClick={onReset} className="flex min-h-11 w-full items-center justify-center gap-2.5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[14px] text-[var(--color-text)]">
+      <button type="button" data-filter-reset onClick={onReset} className={`flex min-h-11 w-full items-center justify-center gap-2.5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[var(--color-text)] ${sectionSmall}`}>
         <StatIcon type="reset" isDark={isDark} />
         Reset filters
       </button>
@@ -302,7 +310,7 @@ function MobileControls({ filters, options, onChange, onReset, isDark }) {
 
 function MobileTable({ engines, isDark }) {
   return (
-    <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] text-[13px]">
+    <div className={`overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] ${sectionTableText}`}>
       <div className="grid grid-cols-[1.15fr_0.85fr_1fr_36px] gap-x-1 px-2.5 py-2.5 text-[11px] font-bold uppercase leading-tight text-white" style={{ backgroundColor: GOLD }}>
         <span>Engine Code</span>
         <span>Fuel</span>
@@ -350,11 +358,11 @@ function MobileTable({ engines, isDark }) {
         );
       })}
       </div>
-      <div data-engine-empty hidden className="border-t border-[var(--color-border)] px-3 py-4 text-center text-[14px] text-[var(--color-text-muted)]">
+      <div data-engine-empty hidden className={`border-t border-[var(--color-border)] px-3 py-4 text-center text-[var(--color-text-muted)] ${sectionSmall}`}>
         No engine codes match these filters.
       </div>
       {engines.length === 0 ? (
-        <div className="border-t border-[var(--color-border)] px-3 py-4 text-center text-[14px] text-[var(--color-text-muted)]">
+        <div className={`border-t border-[var(--color-border)] px-3 py-4 text-center text-[var(--color-text-muted)] ${sectionSmall}`}>
           No engine codes match these filters.
         </div>
       ) : null}
@@ -416,7 +424,7 @@ export default function EngineDatabase({ data }) {
       <div className="mx-auto w-full max-w-8xl px-4 md:px-6 lg:px-8">
         <div className="hidden md:block">
           <div>
-            <h2 className={`font-lora max-w-[650px] text-[27px] font-medium tracking-normal md:text-[39px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <h2 className={`font-lora max-w-[650px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
               <span dangerouslySetInnerHTML={{ __html: title.main }} />
               {title.accent ? (
                 <>
@@ -429,7 +437,7 @@ export default function EngineDatabase({ data }) {
               <SectionFadeStrip isDark={isDark} />
             </div>
             {data.subHeadline ? (
-              <p className="mt-2 max-w-[610px] text-[14px] leading-[1.45] text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} />
+              <p className={`mt-2 max-w-[610px] text-[var(--color-text-muted)] ${sectionDescription}`} dangerouslySetInnerHTML={{ __html: cleanText(data.subHeadline) }} />
             ) : null}
           </div>
 
@@ -440,7 +448,7 @@ export default function EngineDatabase({ data }) {
           <div className="mt-3 flex items-center justify-between gap-4">
             <button
               type="button"
-              className="flex min-h-11 min-w-[280px] items-center justify-between rounded-md border border-[var(--color-border)] px-5 text-[14px] font-medium transition-all duration-200 hover:opacity-90"
+              className={`flex min-h-11 min-w-[280px] items-center justify-between rounded-md border border-[var(--color-border)] px-5 font-medium transition-all duration-200 hover:opacity-90 ${sectionSmall}`}
               style={{ color: GOLD }}
             >
               <span className="flex items-center gap-3">
@@ -448,10 +456,10 @@ export default function EngineDatabase({ data }) {
               </span>
               <span>v</span>
             </button>
-            <p className="mr-auto border-l border-[var(--color-border)] pl-7 text-[12px] text-[var(--color-text-muted)]">
+            <p className={`mr-auto border-l border-[var(--color-border)] pl-7 text-[var(--color-text-muted)] ${sectionTableText}`}>
               Showing {shownDesktopCount} of {totalEngineCount} engine codes
             </p>
-            <div className="flex items-center gap-5 rounded-md border border-[var(--color-border)] px-5 py-3 text-[13px]">
+            <div className={`flex items-center gap-5 rounded-md border border-[var(--color-border)] px-5 py-3 ${sectionTableText}`}>
               <span>
                 <Rating value="★☆☆☆☆" /> Poor
               </span>
@@ -467,7 +475,7 @@ export default function EngineDatabase({ data }) {
             </div>
           </div>
 
-          <div className="mt-3 flex items-center justify-between rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 py-3 text-[12px] text-[var(--color-text-muted)]">
+          <div className={`mt-3 flex items-center justify-between rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-4 py-3 text-[var(--color-text-muted)] ${sectionTableText}`}>
             <p className="flex items-center gap-3">
               <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#F5EAD4] font-bold" style={{ color: GOLD }}>
                 i
@@ -481,7 +489,7 @@ export default function EngineDatabase({ data }) {
         </div>
 
         <div className="md:hidden">
-          <h2 className={`font-lora text-[1.75rem] font-medium leading-[1.08] tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
             <span dangerouslySetInnerHTML={{ __html: shortTitle(data.h2).replace("Engine Codes - The Database", "Engine Codes -") }} />
             <br />
             <span style={{ color: GOLD }}>The Database</span>
@@ -489,7 +497,7 @@ export default function EngineDatabase({ data }) {
           <div className="mt-2.5">
             <SectionFadeStrip isDark={isDark} />
           </div>
-          <p className={`mt-3 text-[0.9rem] leading-[1.45] text-[var(--color-text-muted)]`}>
+          <p className={`mt-3 text-[var(--color-text-muted)] ${sectionDescription}`}>
             {cleanText(data.subHeadline) || "The complete engine-code database with real UK enquiry data, fitted models, and replacement cost insights."}
           </p>
 
@@ -498,9 +506,9 @@ export default function EngineDatabase({ data }) {
               <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md bg-[#F5EAD4]">
                 <StatIcon type="database" isDark={isDark} className="h-6 w-6" />
               </span>
-              <h3 className="min-w-0 flex-1 text-left text-[1.35rem] font-bold leading-[1.15]">Proprietary UK Data</h3>
+              <h3 className={`min-w-0 flex-1 text-left font-bold ${sectionH5}`}>Proprietary UK Data</h3>
             </div>
-            <p className="mt-2.5 text-left text-[13px] leading-[1.45] text-[var(--color-text-muted)]">
+            <p className={`mt-2.5 text-left text-[var(--color-text-muted)] ${sectionSmall}`}>
               Every figure below is powered by real UK owner enquiries in 2025. This is data you won&apos;t find anywhere else.
             </p>
           </div>
@@ -513,7 +521,7 @@ export default function EngineDatabase({ data }) {
             <MobileTable engines={mobileEngines} isDark={isDark} />
           </div>
 
-          <div className="mt-5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-3.5 text-[13px] leading-[1.5]">
+          <div className={`mt-5 rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-3.5 ${sectionTableText}`}>
             <h3 className="font-bold uppercase" style={{ color: GOLD }}>
               Data sources:
             </h3>

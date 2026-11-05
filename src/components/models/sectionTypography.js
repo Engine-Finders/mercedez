@@ -1,6 +1,19 @@
-export const sectionH1 = "text-[36px] leading-[1.04] md:text-[55px] md:leading-[1.05]";
-export const sectionH2 = "text-[29px] font-bold leading-[1.08] md:text-[42px]";
-export const sectionDescription = "text-[15px] leading-[1.5] md:text-[16px]";
-export const sectionBody = "text-[15px] leading-[1.45]";
-export const sectionButton = "text-[16px]";
-export const sectionTableText = "text-[14px] leading-[1.45]";
+/**
+ * Model-page typography — re-exports the shared site scale.
+ */
+export {
+  typeH1 as sectionH1,
+  typeH2 as sectionH2,
+  typeH3 as sectionH3,
+  typeH4 as sectionH4,
+  typeH5 as sectionH5,
+  typeH6 as sectionH6,
+  typeDesc as sectionDescription,
+  typeBody as sectionBody,
+  typeHighlight as sectionHighlight,
+  typeBadge as sectionBadge,
+  typeSmall as sectionSmall,
+  typeButton as sectionButton,
+  typeTable as sectionTableText,
+  typeEyebrow as sectionEyebrow,
+} from "@/components/shared/typography";

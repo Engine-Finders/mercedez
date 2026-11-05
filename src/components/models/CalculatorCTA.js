@@ -5,7 +5,17 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionBody, sectionButton, sectionDescription } from "@/components/models/sectionTypography";
+import {
+  sectionBody,
+  sectionButton,
+  sectionDescription,
+  sectionEyebrow,
+  sectionH2,
+  sectionH3,
+  sectionH5,
+  sectionSmall,
+  sectionTableText,
+} from "@/components/models/sectionTypography";
 
 const ICON_MAP = {
   calculator: "calculator",
@@ -73,7 +83,7 @@ function introParts(intro = "") {
 }
 
 function Icon({ name, isDark, className = "h-8 w-8" }) {
-  return <HomeIcon name={ICON_MAP[name] || "calculator"} isDark={isDark} gold className={`${className} object-contain`} />;
+  return <HomeIcon name={ICON_MAP[name] || "calculator"} isDark={isDark} className={`${className} object-contain`} />;
 }
 
 function CircleIcon({ name, isDark, large = false, className = "" }) {
@@ -91,8 +101,8 @@ function Feature({ icon, title, text, isDark }) {
         <Icon name={icon} isDark={isDark} className="h-7 w-7 md:h-8 md:w-8" />
       </span>
       <span className="min-w-0">
-        <strong className="block text-[13px] leading-tight text-[var(--color-text)] md:text-[14px]" dangerouslySetInnerHTML={{ __html: title }} />
-        <span className="mt-0.5 block text-[12px] leading-[1.2] text-[var(--color-text-muted)] md:text-[13px]">{text}</span>
+        <strong className={`block leading-tight text-[var(--color-text)] ${sectionTableText}`} dangerouslySetInnerHTML={{ __html: title }} />
+        <span className={`mt-0.5 block leading-[1.2] text-[var(--color-text-muted)] ${sectionSmall}`}>{text}</span>
       </span>
     </li>
   );
@@ -109,12 +119,12 @@ function ArrowIcon({ className = "h-7 w-7" }) {
 function PrimaryPath({ path, modelName, isDark }) {
   return (
     <article className="rounded-md bg-[var(--color-surface-raised)] p-3.5 shadow-[0_10px_28px_var(--color-shadow)] md:p-4">
-      <span className="inline-flex rounded px-2 py-1 text-[12px] font-bold uppercase leading-none text-white md:px-2.5 md:py-1 md:text-[13px]" style={{ backgroundColor: GOLD }}>
+      <span className={`inline-flex rounded px-2 py-1 font-bold uppercase leading-none text-white md:px-2.5 md:py-1 ${sectionEyebrow}`} style={{ backgroundColor: GOLD }}>
         Path 1
       </span>
       <div className="mt-3.5 grid grid-cols-[auto_1fr] items-center gap-3.5 md:grid-cols-[1fr_auto] md:items-start">
         <div className="order-2 md:order-1">
-          <h3 className="font-lora text-[30px] font-medium leading-[1.06] text-[var(--color-text)] md:text-[42px]">
+          <h3 className={`font-lora font-medium text-[var(--color-text)] ${sectionH3}`}>
             <span style={{ color: GOLD }}>Know</span> your engine?
           </h3>
           <p className={`mt-2 max-w-[420px] text-[var(--color-text-muted)] ${sectionDescription}`}>
@@ -133,7 +143,7 @@ function PrimaryPath({ path, modelName, isDark }) {
           <Icon name="calculator" isDark className="h-8 w-8 shrink-0" />
           <span className="min-w-0">
             <span className="block leading-tight">Launch Diagnostic Calculator</span>
-            <span className="mt-0.5 block text-[12px] font-normal leading-tight md:text-[13px]">
+            <span className={`mt-0.5 block font-normal leading-tight ${sectionSmall}`}>
               <span dangerouslySetInnerHTML={{ __html: modelName }} /> pre-selected
             </span>
           </span>
@@ -155,12 +165,12 @@ function SecondaryPath({ path, isDark }) {
 
   return (
     <article className="rounded-md bg-[var(--color-surface-raised)] p-3.5 shadow-[0_10px_28px_var(--color-shadow)] md:p-4">
-      <span className="inline-flex rounded px-2 py-1 text-[12px] font-bold uppercase leading-none text-white md:px-2.5 md:py-1 md:text-[13px]" style={{ backgroundColor: GOLD }}>
+      <span className={`inline-flex rounded px-2 py-1 font-bold uppercase leading-none text-white md:px-2.5 md:py-1 ${sectionEyebrow}`} style={{ backgroundColor: GOLD }}>
         Path 2
       </span>
       <div className="mt-3.5 grid grid-cols-[auto_1fr] items-center gap-3.5 md:grid-cols-[1fr_auto] md:items-start">
         <div className="order-2 md:order-1">
-          <h3 className="font-lora max-w-[420px] text-[30px] font-medium leading-[1.06] text-[var(--color-text)] md:text-[42px]">
+          <h3 className={`font-lora max-w-[420px] font-medium text-[var(--color-text)] ${sectionH3}`}>
             <span style={{ color: GOLD }}>Not sure</span> which engine you have?
           </h3>
           <p className={`mt-2 text-[var(--color-text-muted)] ${sectionDescription}`}>We&apos;ll identify it first.</p>
@@ -177,7 +187,7 @@ function SecondaryPath({ path, isDark }) {
           <Icon name="engineQuestion" isDark={isDark} className="h-8 w-8 shrink-0" />
           <span className="min-w-0">
             <span className="block leading-tight">Identify My Engine First</span>
-            <span className="mt-0.5 block text-[12px] font-normal leading-tight text-[var(--color-text-muted)] md:text-[13px]">Then launch the diagnostic calculator</span>
+            <span className={`mt-0.5 block font-normal leading-tight text-[var(--color-text-muted)] ${sectionSmall}`}>Then launch the diagnostic calculator</span>
           </span>
         </span>
         <ArrowIcon className="h-5 w-5 shrink-0" />
@@ -201,7 +211,7 @@ function SmartDecision({ isDark }) {
   return (
     <div className="flex max-w-[620px] gap-3.5 rounded-md bg-[var(--color-page-soft)] p-3.5 shadow-[0_8px_22px_var(--color-shadow)] md:p-4">
       <Icon name="calculator" isDark={isDark} className="h-9 w-9 shrink-0 md:h-11 md:w-11" />
-      <p className={`text-[var(--color-text)] ${sectionBody} md:text-[17px]`}>
+      <p className={`text-[var(--color-text)] ${sectionBody}`}>
         <strong className="font-bold" style={{ color: GOLD }}>
           The smarter way to decide:
         </strong>{" "}
@@ -232,16 +242,24 @@ export default function CalculatorCTA({ data, heroImage }) {
             className="absolute inset-0"
             style={{
               background: isDark
-                ? "linear-gradient(90deg,rgba(7,7,6,0.98)_0%,rgba(7,7,6,0.88)_40%,rgba(7,7,6,0.35)_72%,transparent_100%)"
-                : "linear-gradient(90deg,#EFEEE9_0%,rgba(239,238,233,0.95)_40%,rgba(239,238,233,0.35)_72%,transparent_100%)",
+                ? "linear-gradient(90deg,rgba(7,7,6,0.72)_0%,rgba(7,7,6,0.35)_48%,transparent_78%)"
+                : "linear-gradient(90deg,rgba(255,255,255,0.55)_0%,rgba(255,255,255,0.22)_48%,transparent_78%)",
+            }}
+          />
+          {/* Soft fog behind left text */}
+          <div
+            aria-hidden="true"
+            className="pointer-events-none absolute inset-y-0 left-0 z-[1] w-[88%] max-w-[860px] md:w-[70%]"
+            style={{
+              background: isDark
+                ? "radial-gradient(ellipse 90% 120% at 18% 48%, rgba(7,7,6,0.96) 0%, rgba(7,7,6,0.82) 38%, rgba(7,7,6,0.28) 68%, transparent 100%)"
+                : "radial-gradient(ellipse 90% 120% at 18% 48%, rgba(255,255,255,0.98) 0%, rgba(255,255,255,0.88) 38%, rgba(255,255,255,0.35) 68%, transparent 100%)",
+              filter: "blur(0.5px)",
             }}
           />
           <div className="relative z-10 px-4 py-5 md:px-4 lg:px-6 lg:py-6">
             <div className="mx-auto w-full max-w-8xl md:mx-0 md:max-w-[820px]">
-              <h2
-                className={`font-lora max-w-[820px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
-                style={{ textShadow: "0 1px 2px rgba(255,255,255,0.95), 0 0 12px rgba(255,255,255,0.85), 0 0 24px rgba(255,255,255,0.65)" }}
-              >
+              <h2 className={`font-lora max-w-[820px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
                 <span dangerouslySetInnerHTML={{ __html: title.before }} />
                 {title.accent ? (
                   <>
@@ -254,10 +272,7 @@ export default function CalculatorCTA({ data, heroImage }) {
                 <SectionFadeStrip isDark={isDark} />
               </div>
               {data.intro ? (
-                <div
-                  className={`mt-3 max-w-[700px] text-[var(--color-text-muted)] ${sectionDescription}`}
-                  style={{ textShadow: "0 1px 2px rgba(255,255,255,0.95), 0 0 10px rgba(255,255,255,0.8), 0 0 18px rgba(255,255,255,0.55)" }}
-                >
+                <div className={`mt-3 max-w-[700px] text-[var(--color-text-muted)] ${sectionDescription}`}>
                   <p dangerouslySetInnerHTML={{ __html: intro.first }} />
                   {intro.second ? <p className="mt-1.5" dangerouslySetInnerHTML={{ __html: intro.second }} /> : null}
                 </div>
@@ -281,7 +296,7 @@ export default function CalculatorCTA({ data, heroImage }) {
               <span className="flex h-14 w-14 shrink-0 items-center justify-center md:h-16 md:w-16">
                 <Icon name="target" isDark className="h-11 w-11 md:h-12 md:w-12" />
               </span>
-              <h3 className="font-lora text-[20px] font-medium leading-tight md:text-[22px]">Stop guessing. Get the right answer.</h3>
+              <h3 className={`font-lora font-medium leading-tight ${sectionH5}`}>Stop guessing. Get the right answer.</h3>
             </div>
             <p className={`mt-2.5 text-white/90 ${sectionDescription}`}>
               Our calculator compares real repair and replacement costs against your car&apos;s value - so you know the financially smarter move.

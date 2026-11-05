@@ -1,5 +1,24 @@
 "use client";
 
+import {
+  typeH1,
+  typeH2,
+  typeH3,
+  typeH4,
+  typeH5,
+  typeH6,
+  typeDesc,
+  typeBody,
+  typeHighlight,
+  typeBadge,
+  typeSmall,
+  typeButton,
+  typeTable,
+  typeEyebrow,
+} from "@/components/shared/typography";
+
+
+
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
@@ -39,10 +58,10 @@ function TrustCard({ item, isDark }) {
         <HomeIcon name={item.icon || "chart"} isDark={isDark} gold className="h-6 w-6 md:h-8 md:w-8" />
       </span>
       <span className="mt-2.5 h-px w-8 md:mt-3 md:w-10" style={{ backgroundColor: GOLD }} />
-      <h3 className={`mt-2.5 font-lora text-[0.85rem] font-medium leading-tight md:mt-3 md:text-[1.08rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h3 className={`mt-2.5 font-lora ${typeH6} font-medium leading-tight md:mt-3 ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {item.title}
       </h3>
-      <p className={`mt-1.5 text-[0.68rem] font-light leading-[1.4] md:mt-2 md:text-[0.82rem] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+      <p className={`mt-1.5 ${typeSmall} font-light md:mt-2 ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
         {body}
       </p>
     </article>
@@ -77,11 +96,11 @@ export default function HomeSec12({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl">
         <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora text-[2rem] font-medium leading-[1.05] md:text-[2.85rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             Why Mercedes-Benz Owners Trust This Site
           </h2>
           <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
+          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {data.subHeadline}
           </p>
         </div>

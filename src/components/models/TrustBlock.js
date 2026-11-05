@@ -4,6 +4,7 @@ import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import { sectionBody, sectionH2, sectionHighlight } from "@/components/models/sectionTypography";
 
 function cleanText(text = "") {
   return text
@@ -42,7 +43,7 @@ function iconKey(item = {}) {
 function SignalIcon({ item, isDark }) {
   return (
     <span className="flex h-14 w-14 shrink-0 items-center justify-center md:h-16 md:w-16">
-      <HomeIcon name={iconKey(item)} isDark={isDark} gold className="h-9 w-9 object-contain md:h-10 md:w-10" />
+      <HomeIcon name={iconKey(item)} isDark={isDark} className="h-9 w-9 object-contain md:h-10 md:w-10" />
     </span>
   );
 }
@@ -63,7 +64,7 @@ export default function TrustBlock({ data, image }) {
         <div className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-3.5 shadow-[0_10px_30px_var(--color-shadow)] md:p-5">
           <div className="grid gap-4 lg:grid-cols-[minmax(0,0.92fr)_minmax(420px,1fr)] lg:items-center">
             <div>
-              <h2 className={`font-lora max-w-[650px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[45px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <h2 className={`font-lora max-w-[650px] font-medium tracking-normal ${isDark ? "text-white" : "text-[var(--color-text)]"} ${sectionH2}`}>
                 <span dangerouslySetInnerHTML={{ __html: title.before }} />
                 {title.accent ? (
                   <>
@@ -84,20 +85,20 @@ export default function TrustBlock({ data, image }) {
                       <div className="flex items-center gap-3">
                         <SignalIcon item={item} isDark={isDark} />
                         <strong
-                          className="min-w-0 text-[15px] font-bold leading-tight"
+                          className={`min-w-0 font-bold leading-tight ${sectionHighlight}`}
                           style={{ color: GOLD }}
                           dangerouslySetInnerHTML={{ __html: cleanText(item.title) }}
                         />
                       </div>
                       <p
-                        className="mt-1 text-[15px] leading-[1.42] text-[var(--color-text)]"
+                        className={`mt-1 text-[var(--color-text)] ${sectionBody}`}
                         dangerouslySetInnerHTML={{ __html: cleanText(item.text) }}
                       />
                     </div>
                     {/* Desktop: original side-by-side layout */}
                     <div className="hidden gap-4 md:flex">
                       <SignalIcon item={item} isDark={isDark} />
-                      <p className="text-[16px] leading-[1.42] text-[var(--color-text)]">
+                      <p className={`text-[var(--color-text)] ${sectionBody}`}>
                         <strong className="font-bold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(item.title) }} />
                         {" - "}
                         <span dangerouslySetInnerHTML={{ __html: cleanText(item.text) }} />

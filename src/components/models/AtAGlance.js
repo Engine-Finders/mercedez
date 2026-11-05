@@ -4,7 +4,7 @@ import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionBody, sectionDescription, sectionH2, sectionTableText } from "@/components/models/sectionTypography";
+import { sectionBadge, sectionBody, sectionDescription, sectionH2, sectionH5, sectionHighlight, sectionTableText } from "@/components/models/sectionTypography";
 
 const metricIcons = {
   Generations: "generations",
@@ -66,7 +66,7 @@ function IconBox({ metric, isDark }) {
 
   return (
     <span className="flex h-11 w-11 shrink-0 items-center justify-center md:h-10 md:w-10">
-      <HomeIcon name={icon} isDark={isDark} gold className="h-7 w-7 object-contain md:h-8 md:w-8" />
+      <HomeIcon name={icon} isDark={isDark} className="h-7 w-7 object-contain md:h-8 md:w-8" />
     </span>
   );
 }
@@ -77,16 +77,16 @@ function ValueWithBadges({ value, isDark }) {
 
   return (
     <span className="inline-flex flex-wrap items-center gap-2">
-      <span className={isRating ? "text-[1.7rem] leading-none" : ""} style={isRating ? { color: GOLD } : undefined} dangerouslySetInnerHTML={{ __html: text }} />
+      <span className={isRating ? `${sectionHighlight} leading-none` : ""} style={isRating ? { color: GOLD } : undefined} dangerouslySetInnerHTML={{ __html: text }} />
       {parts.map((part) => (
         <span
           key={part}
-          className={`inline-flex items-center gap-1 rounded-md border px-2 py-1 text-[15px] font-medium ${
+          className={`inline-flex items-center gap-1 rounded-md border px-2 py-1 font-medium ${sectionBadge} ${
             isDark ? "border-[rgba(171,132,80,0.35)] bg-white/5" : "border-[rgba(171,132,80,0.28)] bg-[#F5EAD4]"
           }`}
           style={{ color: GOLD }}
         >
-          <HomeIcon name="shield" isDark={isDark} gold className="h-4 w-4 object-contain" />
+          <HomeIcon name="shield" isDark={isDark} className="h-4 w-4 object-contain" />
           <span dangerouslySetInnerHTML={{ __html: part }} />
         </span>
       ))}
@@ -161,17 +161,17 @@ function RatingCard({ row, isDark }) {
     <div className={`mt-5 rounded-md p-5 md:hidden ${isDark ? "bg-[#0a0a0a] text-white" : "bg-[#0a0a0a] text-white"}`}>
       <div className="flex items-center gap-5">
         <span className="flex h-24 w-24 shrink-0 items-center justify-center">
-          <HomeIcon name="star" isDark gold className="h-[4.5rem] w-[4.5rem] object-contain" />
+          <HomeIcon name="star" isDark={isDark} gold={!isDark} className="h-[4.5rem] w-[4.5rem] object-contain" />
         </span>
         <div className="min-w-0">
-          <p className="text-[18px] font-bold">Overall Rating</p>
-          <p className="mt-2 text-[40px] leading-none md:text-[50px]" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(row.value).replace(" 3.9/5", "") }} />
-          <p className="mt-2 text-[18px] font-bold" style={{ color: GOLD }}>
+          <p className={`font-bold ${sectionH5}`}>Overall Rating</p>
+          <p className={`mt-2 leading-none ${sectionHighlight}`} style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: cleanText(row.value).replace(" 3.9/5", "") }} />
+          <p className={`mt-2 font-bold ${sectionH5}`} style={{ color: GOLD }}>
             3.9/5
           </p>
         </div>
       </div>
-      <p className="mt-3 text-[15px] leading-[1.35] text-white/82">A perfect blend of performance, engineering excellence, and drivability.</p>
+      <p className={`mt-3 text-white/82 ${sectionBody}`}>A perfect blend of performance, engineering excellence, and drivability.</p>
     </div>
   );
 }
