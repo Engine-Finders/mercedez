@@ -4,7 +4,16 @@ import Image from "next/image";
 import { useTheme } from "@/components/shared/themeProvider";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import { sectionDescription} from "@/components/models/sectionTypography";
+import { iconBgClass, iconBorderClass, iconColor } from "@/components/engine/iconTone";
+import {
+  sectionBadge,
+  sectionBody,
+  sectionDescription,
+  sectionH2,
+  sectionH5,
+  sectionHighlight,
+  sectionSmall,
+} from "@/components/models/sectionTypography";
 
 const iconPaths = {
   "Engine Family": <path d="M3 12h3m12 0h3M7 9h10v6H7V9Zm2-3h6m-3 0V3M5 15v3m14-3v3M9 18h6" />,
@@ -70,7 +79,10 @@ function ScoreStars() {
 
 function VerifiedBadge() {
   return (
-    <span className="inline-flex w-fit items-center gap-1.5 rounded-md border border-[rgba(171,132,80,0.42)] bg-[rgba(171,132,80,0.12)] px-2.5 py-1 text-[12px] font-semibold text-[#AB8450]">
+    <span
+      className={`inline-flex w-fit items-center gap-1.5 rounded-md border border-[rgba(171,132,80,0.42)] bg-[rgba(171,132,80,0.12)] px-2.5 py-1 font-semibold ${sectionBadge}`}
+      style={{ color: GOLD }}
+    >
       <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2">
         <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
       </svg>
@@ -89,18 +101,15 @@ function CircleIcon({ metric, isDark, brand = false, compact = false }) {
   const svgClass = compact
     ? "h-5 w-5 md:h-8 md:w-8"
     : "h-7 w-7 md:h-8 md:w-8";
+  const tone = iconColor(isDark);
 
   if (brand) {
     return (
-      <span className={`flex shrink-0 items-center justify-center rounded-full border ${sizeClass} ${
-        isDark
-          ? "border-[rgba(171,132,80,0.48)] bg-[radial-gradient(circle_at_30%_30%,rgba(171,132,80,0.28),rgba(10,10,10,0.96)_75%)]"
-          : "border-[rgba(171,132,80,0.26)] bg-[radial-gradient(circle_at_30%_30%,rgba(247,241,230,0.92),rgba(255,255,255,0.98)_75%)]"
-      }`}>
+      <span className={`flex shrink-0 items-center justify-center rounded-full border ${sizeClass} ${iconBorderClass(isDark)} ${iconBgClass(isDark)}`}>
         <span className={`grid grid-cols-2 overflow-hidden rounded-full border border-[var(--color-border-strong)] ${brandInnerClass}`}>
           <span className="bg-white" />
-          <span className="bg-[#AB8450]" />
-          <span className="bg-[#AB8450]" />
+          <span style={{ backgroundColor: tone }} />
+          <span style={{ backgroundColor: tone }} />
           <span className="bg-white" />
         </span>
       </span>
@@ -108,11 +117,10 @@ function CircleIcon({ metric, isDark, brand = false, compact = false }) {
   }
 
   return (
-    <span className={`flex shrink-0 items-center justify-center rounded-full border text-[#AB8450] ${sizeClass} ${
-      isDark
-        ? "border-[rgba(171,132,80,0.42)] bg-[radial-gradient(circle_at_30%_30%,rgba(171,132,80,0.25),rgba(10,10,10,0.96)_76%)]"
-        : "border-[rgba(171,132,80,0.26)] bg-[radial-gradient(circle_at_30%_30%,rgba(247,241,230,0.92),rgba(255,255,255,0.98)_75%)]"
-    }`}>
+    <span
+      className={`flex shrink-0 items-center justify-center rounded-full border ${sizeClass} ${iconBorderClass(isDark)} ${iconBgClass(isDark)}`}
+      style={{ color: tone }}
+    >
       <svg aria-hidden="true" viewBox="0 0 24 24" className={svgClass} fill="none" stroke="currentColor" strokeWidth="1.85">
         {iconPaths[metric] || iconPaths["Engine Family"]}
       </svg>
@@ -124,19 +132,21 @@ function SectionHeading({ engineName, isDark }) {
   const title = engineName.replace(/^Mercedes(?:-Benz|-AMG)?\s+/i, "");
   return (
     <div className="max-w-[860px] text-left">
-      <SectionLabel number={2} isDark={isDark} />
-      <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+      <h2 className={`font-lora ${sectionH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
         {engineName.startsWith("Mercedes") ? (
           <>
             {engineName.match(/^Mercedes(?:-Benz|-AMG)?/i)?.[0]}{" "}
-            <span className="text-[#AB8450]">{title}</span> Engine Overview
+            <span style={{ color: GOLD }}>{title}</span> Engine Overview
           </>
         ) : (
           <>
-            <span className="text-[#AB8450]">{engineName}</span> Engine Overview
+            <span style={{ color: GOLD }}>{engineName}</span> Engine Overview
           </>
         )}
       </h2>
+      <div className="mt-3">
+        <SectionLabel isDark={isDark} />
+      </div>
       <p className={`mt-4 max-w-[680px] ${sectionDescription} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
         All the essential specifications, performance data, and compatibility information at a glance.
       </p>
@@ -157,11 +167,11 @@ function DesktopSmallCard({ metric, value, isDark }) {
       <div className="flex items-start gap-4">
         <CircleIcon metric={metric} isDark={isDark} />
         <div className="min-w-0 pt-1">
-          <p className={`text-[14px] font-medium uppercase leading-none tracking-[0.04em] ${isDark ? "text-white/72" : "text-[var(--color-text-soft)]"}`}>{metric}</p>
+          <p className={`font-medium uppercase leading-none tracking-[0.04em] ${sectionBadge} ${isDark ? "text-white/72" : "text-[var(--color-text-soft)]"}`}>{metric}</p>
           {score ? (
             <>
-              <p className={`mt-3 font-lora text-[20px] font-medium leading-none ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-                <span className="text-[#AB8450]">{score.score}</span>/{score.total}
+              <p className={`mt-3 font-lora leading-none ${sectionH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+                <span style={{ color: GOLD }}>{score.score}</span>/{score.total}
               </p>
               <div className="mt-4">
                 <ScoreStars />
@@ -169,7 +179,7 @@ function DesktopSmallCard({ metric, value, isDark }) {
             </>
           ) : (
             <>
-              <p className={`mt-3 font-lora text-[16px] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <p className={`mt-3 font-lora font-medium leading-snug ${sectionSmall} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 {verified ? verified.text : cleanText(value)}
               </p>
               {verified?.badge ? (
@@ -199,9 +209,9 @@ function DesktopWideCard({ metric, value, text, isDark, imageType = "none" }) {
       <div className="flex items-start gap-4 px-6 py-6">
         <CircleIcon metric={metric} isDark={isDark} brand={isBrand} />
         <div className="min-w-0 pt-1">
-          <p className={`text-[14px] font-medium uppercase leading-none tracking-[0.04em] ${isDark ? "text-white/72" : "text-[var(--color-text-soft)]"}`}>{metric}</p>
-          <p className={`mt-3 font-lora text-[16px] font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{cleanText(value)}</p>
-          <p className={`mt-3 max-w-[340px] text-[15px] leading-[1.45] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>{text}</p>
+          <p className={`font-medium uppercase leading-none tracking-[0.04em] ${sectionBadge} ${isDark ? "text-white/72" : "text-[var(--color-text-soft)]"}`}>{metric}</p>
+          <p className={`mt-3 font-lora font-medium leading-snug ${sectionSmall} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{cleanText(value)}</p>
+          <p className={`mt-3 max-w-[340px] ${sectionBody} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>{text}</p>
         </div>
       </div>
 
@@ -273,14 +283,14 @@ function TrustFooter({ isDark }) {
       <div className="grid md:grid-cols-4">
         {items.map((item, index) => (
           <article key={item.title} className={`flex items-start gap-3 px-4 py-4 md:px-5 md:py-4 ${index < items.length - 1 ? "border-b border-[var(--color-border)] md:border-b-0 md:border-r" : ""}`}>
-            <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-[#AB8450]">
+            <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full" style={{ color: iconColor(isDark) }}>
               <svg aria-hidden="true" viewBox="0 0 24 24" className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth="1.9">
                 {item.path}
               </svg>
             </span>
             <div>
-              <p className={`text-[14px] font-semibold uppercase leading-[1.15] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{item.title}</p>
-              <p className={`mt-1 text-[13px] leading-[1.45] ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>{item.text}</p>
+              <p className={`font-semibold uppercase leading-[1.15] ${sectionBadge} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{item.title}</p>
+              <p className={`mt-1 ${sectionSmall} ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>{item.text}</p>
             </div>
           </article>
         ))}
@@ -310,8 +320,8 @@ function MobileRow({ metric, value, isDark }) {
       <div className="min-w-0">
         {score ? (
           <>
-            <p className={`font-lora text-[20px] font-medium leading-none sm:text-[25px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              <span className="text-[#AB8450]">{score.score}</span>/{score.total}
+            <p className={`font-lora leading-none ${sectionHighlight} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <span style={{ color: GOLD }}>{score.score}</span>/{score.total}
             </p>
             <div className="mt-2">
               <ScoreStars />
@@ -319,7 +329,7 @@ function MobileRow({ metric, value, isDark }) {
           </>
         ) : (
           <>
-            <p className={`font-lora text-[15px] font-medium leading-[1.25] sm:text-[18px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <p className={`font-lora font-medium leading-[1.25] ${sectionBody} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {verified ? verified.text : cleanText(value)}
             </p>
             {verified?.badge ? (

@@ -2,16 +2,19 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import HomeIcon from "@/components/home/homeIcons";
 import { useTheme } from "@/components/shared/themeProvider";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
-import { sectionButton, sectionDescription } from "@/components/models/sectionTypography";
+import { iconBgClass, iconBorderClass } from "@/components/engine/iconTone";
+import {
+  sectionButton,
+  sectionDescription,
+  sectionH1,
+  sectionSmall,
+  sectionHighlight,
+} from "@/components/models/sectionTypography";
 
-const statIconPaths = [
-  <path key="chart" d="M5 19V9m5 10V5m5 14v-7m5 7H3" />,
-  <path key="tool" d="m14.7 6.3 3-3a4 4 0 0 1 0 5.7l-1.4 1.4-2.7-2.7L7 14.3V17H4.3l6.6-6.6-2.7-2.7 1.4-1.4a4 4 0 0 1 5.1 0Z" />,
-  <path key="shield" d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />,
-  <path key="trophy" d="M8 4h8v4a4 4 0 0 1-8 0V4Zm0 2H4v2a3 3 0 0 0 4 2.8M16 6h4v2a3 3 0 0 1-4 2.8M12 12v5m-3 3h6m-7 0h8" />,
-];
+const STAT_ICON_KEYS = ["chart", "wrench", "shield", "trophy"];
 
 function normalizeText(value = "") {
   return value
@@ -67,15 +70,13 @@ function ArrowIcon() {
 function StatIcon({ index, isDark }) {
   return (
     <span
-      className={`flex h-12 w-12 shrink-0 items-center justify-center rounded-full border text-[#AB8450] md:h-14 md:w-14 ${
-        isDark
-          ? "border-white/14 bg-[radial-gradient(circle_at_30%_30%,rgba(171,132,80,0.22),rgba(10,10,10,0.92)_72%)]"
-          : "border-[rgba(171,132,80,0.18)] bg-[radial-gradient(circle_at_30%_30%,rgba(247,241,230,0.95),rgba(255,255,255,0.98)_72%)]"
-      }`}
+      className={`flex h-12 w-12 shrink-0 items-center justify-center rounded-full border md:h-14 md:w-14 ${iconBorderClass(isDark, "hero")} ${iconBgClass(isDark, "hero")}`}
     >
-      <svg aria-hidden="true" viewBox="0 0 24 24" className="h-7 w-7 md:h-8 md:w-8" fill="none" stroke="currentColor" strokeWidth="1.85">
-        {statIconPaths[index] || statIconPaths[0]}
-      </svg>
+      <HomeIcon
+        name={STAT_ICON_KEYS[index] || "chart"}
+        tone={isDark ? "silver" : "black"}
+        className="h-7 w-7 object-contain md:h-8 md:w-8"
+      />
     </span>
   );
 }
@@ -108,13 +109,13 @@ function HeroTitle({ title, isDark, accentText }) {
   const textClass = isDark ? "text-white" : "text-[var(--color-text)]";
 
   if (accentIndex === -1) {
-    return <h1 className={`max-w-[700px] font-bold tracking-normal ${textClass} font-lora text-[2rem] font-medium leading-[1.08] tracking-normal md:text-[2.65rem] md:leading-[1.05]`}>{cleanTitle}</h1>;
+    return <h1 className={`font-lora max-w-[700px] ${sectionH1} ${textClass}`}>{cleanTitle}</h1>;
   }
 
   return (
-    <h1 className={`max-w-[700px] font-bold tracking-normal ${textClass} font-lora text-[2rem] font-medium leading-[1.08] tracking-normal md:text-[2.65rem] md:leading-[1.05]`}>
+    <h1 className={`font-lora max-w-[700px] ${sectionH1} ${textClass}`}>
       {cleanTitle.slice(0, accentIndex)}
-      <span className="text-[#AB8450]">{accent}</span>
+      <span style={{ color: GOLD }}>{accent}</span>
       {cleanTitle.slice(accentIndex + accent.length)}
     </h1>
   );
@@ -133,10 +134,12 @@ function StatCard({ item, index, isDark }) {
     >
       <StatIcon index={index} isDark={isDark} />
       <div className="min-w-0">
-        {stat.value ? <p className={`text-[21px] font-bold leading-none md:text-[20px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{stat.value}</p> : null}
+        {stat.value ? (
+          <p className={`font-bold leading-none ${sectionHighlight} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{stat.value}</p>
+        ) : null}
         <div className={`${stat.value ? "mt-0.5" : ""} space-y-0`}>
           {stat.lines.filter(Boolean).map((line) => (
-            <p key={line} className={`text-[11px] font-medium uppercase leading-[1.02] md:text-[11px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <p key={line} className={`font-medium uppercase leading-[1.02] ${sectionSmall} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {line}
             </p>
           ))}
@@ -201,8 +204,12 @@ export default function EngineHero({ data }) {
             {data.primaryCta ? (
               <Link
                 href="/quote"
-                className={`btn-cta mt-4 hidden min-h-11 w-fit items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-6 py-2.5 font-semibold md:inline-flex ${sectionButton}`}
-                style={{ color: GOLD }}
+                className={`btn-cta mt-4 hidden min-h-11 w-fit items-center justify-center gap-3 rounded-md px-6 py-2.5 font-semibold md:inline-flex ${sectionButton} ${
+                  isDark
+                    ? "border border-white/70 bg-[#0a0a0a] text-white"
+                    : "border border-transparent bg-[#0a0a0a]"
+                }`}
+                style={isDark ? undefined : { color: GOLD }}
               >
                 <span>{ctaLabel}</span>
                 <ArrowIcon />
@@ -227,8 +234,12 @@ export default function EngineHero({ data }) {
         {data.primaryCta ? (
           <Link
             href="/quote"
-            className={`btn-cta relative z-10 mt-4 inline-flex min-h-12 w-full items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-6 py-3 text-center font-semibold md:hidden ${sectionButton}`}
-            style={{ color: GOLD }}
+            className={`btn-cta relative z-10 mt-4 inline-flex min-h-12 w-full items-center justify-center gap-3 rounded-md px-6 py-3 text-center font-semibold md:hidden ${sectionButton} ${
+              isDark
+                ? "border border-white/70 bg-[#0a0a0a] text-white"
+                : "border border-transparent bg-[#0a0a0a]"
+            }`}
+            style={isDark ? undefined : { color: GOLD }}
           >
             <span>{ctaLabel}</span>
             <ArrowIcon />
@@ -237,7 +248,7 @@ export default function EngineHero({ data }) {
 
         {data.trustStrip?.length > 0 ? (
           <ul
-            className={`relative z-10 mt-3 grid grid-cols-2 gap-2.5 md:mt-[-10px] md:grid-cols-4 md:gap-0 md:overflow-hidden md:rounded-2xl md:border md:shadow-[0_22px_56px_rgba(0,0,0,0.24)] ${
+            className={`relative z-10 mt-3 grid grid-cols-2 gap-2.5 md:mt-[-5px] md:grid-cols-4 md:gap-0 md:overflow-hidden md:rounded-2xl md:border md:shadow-[0_22px_56px_rgba(0,0,0,0.24)] ${
               isDark
                 ? "md:border-white/14 md:bg-[linear-gradient(180deg,rgba(18,18,18,0.85)_0%,rgba(10,10,10,0.92)_100%)]"
                 : "md:border-[rgba(171,132,80,0.16)] md:bg-[linear-gradient(180deg,rgba(255,255,255,0.82)_0%,rgba(248,247,243,0.94)_100%)]"

@@ -4,7 +4,8 @@ import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionDescription } from "@/components/models/sectionTypography";
+import { iconColor } from "@/components/engine/iconTone";
+import { sectionDescription, sectionH2, sectionSmall } from "@/components/models/sectionTypography";
 
 const CAR_IMAGES = [
   "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=640&q=80",
@@ -133,9 +134,13 @@ function ShieldIcon({ className = "h-4 w-4" }) {
 }
 
 function ExclusiveBadge({ isDark }) {
+  const tone = iconColor(isDark);
   return (
     <div className={`flex max-w-[260px] items-start gap-2 rounded-lg border px-2.5 py-2 ${cardClass(isDark)}`}>
-      <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
+      <span
+        className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)]"
+        style={{ borderColor: tone, color: tone }}
+      >
         <ShieldIcon className="h-3.5 w-3.5" />
       </span>
       <div className="min-w-0">
@@ -301,12 +306,12 @@ export default function Compatibility({
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="grid max-w-[720px] items-start gap-4 md:grid-cols-[minmax(0,1fr)_auto] md:gap-5">
           <div className="min-w-0">
-            <SectionLabel number={4} isDark={isDark} />
-            <div className="flex flex-col gap-3">
-<h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-                Compatible <span style={{ color: GOLD }}>Mercedes Models</span>
-              </h2>
-</div>
+            <h2 className={`font-lora ${sectionH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              Compatible <span style={{ color: GOLD }}>Mercedes Models</span>
+            </h2>
+            <div className="mt-3">
+              <SectionLabel isDark={isDark} />
+            </div>
             <p className={`mt-4 max-w-[540px] ${sectionDescription} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
               Mercedes {engineCode} engines are fitted across{" "}
               <span className="font-semibold" style={{ color: GOLD }}>{modelCountLabel}</span> from{" "}
@@ -370,10 +375,13 @@ export default function Compatibility({
           <VerifiedStrip />
 
           <div className={`flex items-center gap-2 rounded-lg border px-3 py-2.5 ${cardClass(isDark)}`}>
-            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-[#AB8450] bg-[rgba(171,132,80,0.12)] text-[#AB8450]">
+            <span
+              className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)]"
+              style={{ borderColor: iconColor(isDark), color: iconColor(isDark) }}
+            >
               <ShieldIcon className="h-3.5 w-3.5" />
             </span>
-            <p className="text-[11px] text-[var(--color-text-soft)]">{exclusiveNote}</p>
+            <p className={`text-[var(--color-text-soft)] ${sectionSmall}`}>{exclusiveNote}</p>
           </div>
         </div>
       </div>
