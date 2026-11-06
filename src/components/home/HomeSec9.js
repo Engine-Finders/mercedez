@@ -19,11 +19,10 @@ import {
 
 
 
-import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import { useTheme } from "@/components/shared/themeProvider";
 
 const SEVERITY = {
@@ -84,11 +83,11 @@ function FailureRow({ row, isDark, compact = false }) {
         <div className="flex min-w-0 flex-col gap-1.5">
           <div className="flex min-w-0 items-start gap-2">
             <span
-              className={`mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border ${
+              className={`mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full border ${
                 isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
               }`}
             >
-              <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-3.5 w-3.5" />
+              <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-5 w-5" />
             </span>
             <span className={`${typeTable} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.title}
@@ -108,11 +107,11 @@ function FailureRow({ row, isDark, compact = false }) {
         <>
           <div className="flex min-w-0 items-center gap-2.5">
             <span
-              className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full border md:h-11 md:w-11 ${
+              className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-full border md:h-12 md:w-12 ${
                 isDark ? "border-white/15 bg-white/5" : "border-[#EDE6D8] bg-[#F5EAD4]"
               }`}
             >
-              <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-5 w-5 md:h-6 md:w-6" />
+              <HomeIcon name={row.icon || "engine"} isDark={isDark} className="h-6 w-6 md:h-7 md:w-7" />
             </span>
             <span className={`${typeTable} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {row.title}
@@ -148,11 +147,11 @@ function FailureCard({ block, isDark, compact = false }) {
     <div className={`overflow-hidden rounded-xl border shadow-[0_6px_24px_rgba(10,26,43,0.05)] ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
       <div className={`flex items-center gap-2.5 border-b ${compact ? "px-3.5 py-3" : "px-4 py-3"} ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
         <span
-          className={`flex shrink-0 items-center justify-center rounded-full ${compact ? "h-8 w-8" : "h-11 w-11 md:h-12 md:w-12"} ${
+          className={`flex shrink-0 items-center justify-center rounded-full ${compact ? "h-9 w-9" : "h-12 w-12 md:h-14 md:w-14"} ${
             isDark ? "bg-white/10" : "bg-[#F5EAD4]"
           }`}
         >
-          <HomeIcon name={block.icon || "engine"} isDark={isDark} className={compact ? "h-4 w-4" : "h-6 w-6 md:h-7 md:w-7"} />
+          <HomeIcon name={block.icon || "engine"} isDark={isDark} className={compact ? "h-5 w-5" : "h-7 w-7 md:h-8 md:w-8"} />
         </span>
         <h3 className={`font-lora ${typeH6} font-medium uppercase tracking-[0.04em] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {block.title}
@@ -216,37 +215,19 @@ export default function HomeSec9({ data }) {
   const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 9)}`}>
-      <div className="absolute inset-x-0 top-0 hidden h-[280px] md:block">
-        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
-              : "absolute inset-0 bg-[linear-gradient(90deg,#EFEEE9_0%,rgba(239,238,233,0.92)_40%,rgba(239,238,233,0.2)_78%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
-          }
-        />
-      </div>
+    <section className={`relative overflow-hidden ${homeSectionBg(isDark, 9)}`}>
+      <SectionHeaderBand
+        title="The Mercedes-Benz Failure Database"
+        subHeadline={data.subHeadline}
+        image={headerImage}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 9)}
+        panelRgb={sectionPanelRgb(isDark, 9)}
+        titleClassName="max-w-[720px]"
+      />
 
-      <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            The Mercedes-Benz Failure Database
-          </h2>
-          <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-            {data.subHeadline}
-          </p>
-        </div>
-
-        <div className="mt-5 grid grid-cols-1 gap-4 md:mt-6 md:grid-cols-[1.45fr_0.9fr] md:gap-4">
+      <div className="relative mx-auto w-full max-w-8xl px-3 pb-7 pt-5 md:px-4 md:pb-8 md:pt-6">
+        <div className="grid grid-cols-1 gap-4 md:grid-cols-[1.45fr_0.9fr] md:gap-4">
           <FailureCard block={data.engineFailures} isDark={isDark} />
           <FailureCard block={data.warningSigns} isDark={isDark} compact />
         </div>

@@ -6,8 +6,16 @@ import HomeIcon from "@/components/home/homeIcons";
  * items: [{ icon, title, text }]
  * mobileRow: force 4-across on mobile (compact)
  */
-export default function TrustBadges({ items, isDark = false, className = "", mobileRow = false }) {
+export default function TrustBadges({ items, isDark = false, className = "", mobileRow = false, softDividers = false }) {
   if (!items?.length) return null;
+
+  const divider = softDividers
+    ? isDark
+      ? "border-white/6"
+      : "border-black/[0.05]"
+    : isDark
+      ? "border-white/12"
+      : "border-[var(--color-border)]";
 
   return (
     <ul
@@ -27,7 +35,7 @@ export default function TrustBadges({ items, isDark = false, className = "", mob
               mobileRow
                 ? "border-b-0 px-1.5 py-2.5 even:border-r"
                 : "px-2 py-3.5 even:border-r-0"
-            } ${isDark ? "border-white/12" : "border-[var(--color-border)]"}`}
+            } ${divider}`}
           >
             <HomeIcon
               name={item.icon}

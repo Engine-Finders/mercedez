@@ -19,11 +19,10 @@ import {
 
 
 
-import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
 import { useTheme } from "@/components/shared/themeProvider";
 
@@ -71,26 +70,26 @@ function EngineRow({ row, isDark }) {
 
       <div className="flex min-w-0 items-center gap-1.5 overflow-hidden">
         <HomeIcon name={isDiesel ? "droplet" : "fuel"} isDark={isDark} className="h-4 w-4 shrink-0" />
-        <span className={`min-w-0 truncate ${typeTable} font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.fuel}</span>
+        <span className={`font-lora min-w-0 truncate ${typeTable} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.fuel}</span>
       </div>
 
-      <span className={`min-w-0 truncate ${typeTable} font-normal ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.years}</span>
+      <span className={`font-lora min-w-0 truncate ${typeTable} ${isDark ? "text-white/80" : "text-[var(--color-text)]"}`}>{row.years}</span>
 
       <div className="min-w-0 overflow-hidden">
-        <p className={`truncate ${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.enquiries}</p>
-        <p className={`truncate ${typeBadge} ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>{row.sourceTag}</p>
+        <p className={`font-lora truncate ${typeTable} font-normal ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.enquiries}</p>
+        <p className={`truncate ${typeBadge} font-normal ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>{row.sourceTag}</p>
       </div>
 
       <div className="flex min-w-0 items-center gap-1.5 overflow-hidden">
         <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
           <VerdictGlyph type={row.verdict?.type} />
         </span>
-        <span className={`min-w-0 truncate ${typeTable} font-semibold`} style={{ color: style.bg }}>
+        <span className={`font-lora min-w-0 truncate ${typeTable}`} style={{ color: style.bg }}>
           {row.verdict?.label || style.label}
         </span>
       </div>
 
-      <p className={`min-w-0 ${typeTable} font-light ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+      <p className={`font-lora min-w-0 ${typeTable} font-light ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
         {row.take}
       </p>
     </>
@@ -153,36 +152,18 @@ export default function HomeSec7({ data }) {
   const columns = data.columns || [];
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 7)}`}>
-      <div className="absolute inset-x-0 top-0 hidden h-[280px] md:block">
-        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
-              : "absolute inset-0 bg-[linear-gradient(90deg,#EFEEE9_0%,rgba(239,238,233,0.92)_40%,rgba(239,238,233,0.2)_78%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
-          }
-        />
-      </div>
+    <section className={`relative overflow-hidden ${homeSectionBg(isDark, 7)}`}>
+      <SectionHeaderBand
+        title="Mercedes-Benz Engine Families - The Pillars"
+        subHeadline={data.subHeadline}
+        image={headerImage}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 7)}
+        panelRgb={sectionPanelRgb(isDark, 7)}
+        titleClassName="max-w-[720px]"
+      />
 
-      <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            Mercedes-Benz Engine Families - The Pillars
-          </h2>
-          <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-            {data.subHeadline}
-          </p>
-        </div>
-
+      <div className="relative mx-auto w-full max-w-8xl px-3 pb-7 pt-5 md:px-4 md:pb-8 md:pt-6">
         <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div
@@ -193,12 +174,15 @@ export default function HomeSec7({ data }) {
           <div className="overflow-x-auto">
             <div className="min-w-[820px]">
               <div
-                className={`grid grid-cols-[minmax(128px,0.95fr)_minmax(110px,0.95fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] gap-3 border-b px-3 py-2.5 ${typeTable} font-semibold uppercase tracking-[0.06em] md:px-4 ${
+                className={`grid grid-cols-[minmax(128px,0.95fr)_minmax(110px,0.95fr)_minmax(90px,0.75fr)_minmax(110px,0.95fr)_minmax(90px,0.7fr)_minmax(180px,1.4fr)] gap-3 border-b px-3 py-2.5 ${typeTable} uppercase tracking-[0.06em] md:px-4 ${
                   isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
                 }`}
               >
                 {columns.map((col) => (
-                  <span key={col} className="min-w-0 truncate">
+                  <span
+                    key={col}
+                    className={`min-w-0 truncate ${/enquir/i.test(col) ? "font-normal" : "font-semibold"}`}
+                  >
                     {col}
                   </span>
                 ))}

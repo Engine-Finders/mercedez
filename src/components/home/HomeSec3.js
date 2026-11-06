@@ -51,7 +51,7 @@ function TrustStrip({ items, isDark }) {
 
   return (
     <ul
-      className={`mt-4 grid w-full max-w-[720px] grid-cols-4 gap-0 overflow-hidden rounded-xl border shadow-[0_10px_28px_rgba(10,26,43,0.08)] md:mt-5 ${
+      className={`mt-4 grid w-full max-w-[980px] grid-cols-4 gap-0 overflow-hidden rounded-xl border shadow-[0_10px_28px_rgba(10,26,43,0.08)] md:mt-5 ${
         isDark
           ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
           : "border-[var(--color-border)] bg-white"
@@ -62,19 +62,19 @@ function TrustStrip({ items, isDark }) {
         return (
           <li
             key={item.label}
-            className={`flex min-w-0 flex-col items-center gap-1 px-1.5 py-2.5 text-center md:flex-row md:items-start md:gap-2.5 md:px-4 md:py-3.5 md:text-left ${
+            className={`flex min-w-0 flex-col items-center gap-1 px-2 py-2.5 text-center md:flex-row md:items-start md:gap-3 md:px-5 md:py-3.5 md:text-left ${
               index < items.length - 1 ? (isDark ? "border-r border-white/10" : "border-r border-[var(--color-border)]") : ""
             }`}
           >
-            <HomeIcon name={item.icon} tone={isDark ? "silver" : "gold"} className="h-7 w-7 shrink-0 object-contain md:mt-0.5 md:h-9 md:w-9" />
+            <HomeIcon name={item.icon} tone={isDark ? "silver" : "gold"} className="h-7 w-7 shrink-0 object-contain md:mt-0.5 md:h-8 md:w-8" />
             <div className="min-w-0">
               {value ? (
-                <p className={`${typeHighlight} font-bold leading-none`} style={{ color: GOLD }}>
+                <p className={`text-[15px] font-bold leading-none md:text-[17px]`} style={{ color: GOLD }}>
                   {value}
                 </p>
               ) : null}
               <p
-                className={`${typeBadge} font-medium leading-snug ${value ? "mt-0.5 md:mt-1" : ""} ${
+                className={`text-[11px] font-medium leading-snug md:text-[13px] ${value ? "mt-0.5 md:mt-1" : ""} ${
                   isDark ? "text-white" : "text-[var(--color-text)]"
                 }`}
               >
@@ -159,14 +159,14 @@ function WhyTrust({ data, isDark }) {
         {data?.title || "Why Trust This Diagnosis?"}
       </h3>
       <GoldH3Strip />
-      <ul className="flex flex-col gap-3">
+      <ul className="flex flex-col gap-3.5 md:gap-4">
         {signals.map((signal) => (
-          <li key={signal.title} className="flex items-start gap-2.5">
+          <li key={signal.title} className="flex items-start gap-3 md:gap-3.5">
             <span
-              className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-full border"
+              className="mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full border md:h-14 md:w-14"
               style={{ borderColor: GOLD, backgroundColor: "rgba(171,132,80,0.12)" }}
             >
-              <HomeIcon name={signal.icon} isDark={isDark} className="h-4 w-4 object-contain" />
+              <HomeIcon name={signal.icon} isDark={isDark} className="h-6 w-6 object-contain md:h-7 md:w-7" />
             </span>
             <div className="min-w-0">
               <p className={`${typeHighlight} font-medium leading-snug`} style={{ color: GOLD }}>
@@ -370,7 +370,7 @@ function BottomStats({ items, isDark }) {
 
   return (
     <ul
-      className={`mt-5 grid grid-cols-4 gap-0 overflow-hidden rounded-xl border md:mt-6 ${
+      className={`mt-5 grid w-full grid-cols-4 gap-0 overflow-hidden rounded-xl border shadow-[0_10px_28px_rgba(10,26,43,0.08)] md:mt-6 ${
         isDark
           ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
           : "border-[var(--color-border)] bg-white"
@@ -379,19 +379,23 @@ function BottomStats({ items, isDark }) {
       {items.map((item, index) => (
         <li
           key={item.label}
-          className={`flex min-w-0 flex-col items-center gap-1 px-1.5 py-3 text-center sm:gap-1.5 sm:px-3 sm:py-4 md:flex-row md:items-start md:gap-3 md:px-5 md:py-4 md:text-left ${
+          className={`flex min-w-0 flex-col items-center gap-1.5 px-2 py-3 text-center sm:px-3 sm:py-4 md:flex-row md:items-start md:gap-3.5 md:px-6 md:py-4 md:text-left ${
             index < items.length - 1 ? (isDark ? "border-r border-white/10" : "border-r border-[var(--color-border)]") : ""
           }`}
         >
-          <HomeIcon name={item.icon} isDark={isDark} className="h-7 w-7 shrink-0 object-contain sm:h-9 sm:w-9 md:mt-0.5 md:h-8 md:w-8" />
+          <HomeIcon
+            name={item.icon}
+            tone={isDark ? "silver" : "gold"}
+            className="h-7 w-7 shrink-0 object-contain sm:h-8 sm:w-8 md:mt-0.5 md:h-9 md:w-9"
+          />
           <div className="min-w-0">
-            <p className={`${typeHighlight} font-bold leading-none`} style={{ color: GOLD }}>
+            <p className="text-[15px] font-bold leading-none md:text-[17px]" style={{ color: GOLD }}>
               {item.value}
             </p>
-            <p className={`mt-1 ${typeBadge} font-medium leading-snug ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <p className={`mt-1 text-[11px] font-medium leading-snug md:text-[13px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               {item.label}
             </p>
-            <p className={`mt-0.5 hidden ${typeSmall} md:block ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+            <p className={`mt-0.5 hidden text-[11px] leading-snug md:block md:text-[12px] ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
               {item.sub}
             </p>
           </div>
@@ -409,34 +413,35 @@ export default function HomeSec3({ data }) {
 
   return (
     <section className={`relative overflow-hidden px-3 py-7 md:px-6 md:py-8 ${homeSectionBg(isDark, 3)}`}>
-      <div className="mx-auto w-full max-w-8xl">
-        <div className="flex items-start gap-4">
-          <div className="min-w-0 flex-1">
-            <h2 className={`font-lora max-w-[720px] ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              Diagnose Your Mercedes-Benz Engine Problem
-            </h2>
-            <SectionLabel isDark={isDark} />
-            <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>
-              {data.subHeadline}
-            </p>
-            <TrustStrip items={data.trustStrip} isDark={isDark} />
+      {data.headerImage ? (
+        <div className="pointer-events-none absolute top-0 right-[-1%] z-0 hidden w-[52%] md:block lg:right-[2%] lg:w-[48%] xl:right-[4%] xl:w-[44%]">
+          <div className="relative h-[340px] w-full max-w-[680px] lg:h-[400px] xl:h-[440px]">
+            <Image
+              src={data.headerImage.src}
+              alt={data.headerImage.alt || ""}
+              fill
+              unoptimized
+              priority={false}
+              className="object-contain object-top drop-shadow-[0_24px_48px_rgba(0,0,0,0.22)]"
+              sizes="(min-width: 1280px) 560px, (min-width: 768px) 48vw, 0px"
+            />
           </div>
+        </div>
+      ) : null}
 
-          {data.headerImage ? (
-            <div className="relative mt-2 hidden h-36 w-48 shrink-0 md:block md:h-44 md:w-64 lg:h-52 lg:w-80">
-              <Image
-                src={data.headerImage.src}
-                alt={data.headerImage.alt}
-                fill
-                unoptimized
-                className="object-contain object-right"
-                sizes="320px"
-              />
-            </div>
-          ) : null}
+      <div className="relative z-10 mx-auto w-full max-w-8xl">
+        <div className="max-w-[620px] md:max-w-[58%] lg:max-w-[54%]">
+          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            Diagnose Your Mercedes-Benz Engine Problem
+          </h2>
+          <SectionLabel isDark={isDark} />
+          <p className={`mt-3 max-w-[560px] ${typeDesc} ${isDark ? "text-white/78" : "text-[var(--color-text-muted)]"}`}>
+            {data.subHeadline}
+          </p>
+          <TrustStrip items={data.trustStrip} isDark={isDark} />
         </div>
 
-        <div className="mt-5 grid grid-cols-1 gap-3 md:mt-6 md:grid-cols-[1.1fr_1.15fr_1fr] md:gap-3.5">
+        <div className="mt-5 grid grid-cols-1 gap-3 md:mt-6 md:grid-cols-[1.28fr_0.88fr_1.28fr] md:gap-4 lg:grid-cols-[1.32fr_0.82fr_1.32fr]">
           <HowItWorks data={data.howItWorks} activeStep={activeStep} started={started} isDark={isDark} />
           <CalculatorPanel
             data={data.calculator}

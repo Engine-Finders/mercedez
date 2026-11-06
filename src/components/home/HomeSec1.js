@@ -3,15 +3,14 @@
 import {
   typeH1,
   typeDesc,
-  typeButton,
   typeEyebrow,
 } from "@/components/shared/typography";
 
 import Image from "next/image";
-import Link from "next/link";
 import { useTheme } from "@/components/shared/themeProvider";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import HeroRegLookup from "@/components/shared/HeroRegLookup";
 
 const trustStripIconKeys = [
   "real-inquiries",
@@ -65,14 +64,6 @@ function TrustLabel({ label }) {
   return label;
 }
 
-function ArrowIcon({ className = "h-4 w-4" }) {
-  return (
-    <svg aria-hidden="true" viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M5 12h14m-6-6 6 6-6 6" />
-    </svg>
-  );
-}
-
 const HERO_CAR_SRC =
   "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (5)-45-angle-front-view.webp";
 
@@ -82,8 +73,7 @@ export default function HomeSec1({ data }) {
   const bgImageSrc = isDark ? "/Dark.webp" : "/Light.webp";
   const carImageSrc = data.image?.src || HERO_CAR_SRC;
   const trustStrip = data.trustStrip || [];
-  const ctaHref = data.cta?.href || "/quote";
-  const ctaLabel = (data.cta?.label || "START YOUR RESEARCH →").replace(/\s*→\s*$/, "");
+  const ctaLabel = data.cta?.label || "Get Instant Quote →";
   const eyebrow = data.eyebrow || "INDEPENDENT. DATA-DRIVEN. MERCEDES EXPERTISE.";
 
   return (
@@ -153,18 +143,7 @@ export default function HomeSec1({ data }) {
               dangerouslySetInnerHTML={{ __html: data.subHeadline }}
             />
 
-            {/* Light: black fill + white text · Dark: white border + white text */}
-            <Link
-              href={ctaHref}
-              className={`btn-cta ${typeButton} mt-1 inline-flex w-fit items-center justify-center gap-3 rounded-md px-5 py-3 font-bold tracking-[0.04em] md:px-7 md:py-3.5 ${
-                isDark
-                  ? "border border-white bg-transparent text-white"
-                  : "border border-transparent bg-[#0a0a0a] text-white"
-              }`}
-            >
-              <span>{ctaLabel}</span>
-              <ArrowIcon className="h-4 w-4" />
-            </Link>
+            <HeroRegLookup ctaLabel={ctaLabel} className="mt-1" />
           </div>
 
           {/* Car — pushed down to sit on BG floor */}

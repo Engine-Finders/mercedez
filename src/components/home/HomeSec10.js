@@ -21,8 +21,8 @@ import {
 
 import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
-import { homeSectionBg } from "@/components/home/sectionBg";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
 import { useTheme } from "@/components/shared/themeProvider";
 
@@ -264,36 +264,18 @@ export default function HomeSec10({ data }) {
   const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 10)}`}>
-      <div className="absolute inset-x-0 top-0 hidden h-[280px] md:block">
-        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
-              : "absolute inset-0 bg-[linear-gradient(90deg,#F8F7F3_0%,rgba(248,247,243,0.92)_40%,rgba(248,247,243,0.2)_78%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#F8F7F3_0%,transparent_100%)]"
-          }
-        />
-      </div>
+    <section className={`relative overflow-hidden ${homeSectionBg(isDark, 10)}`}>
+      <SectionHeaderBand
+        title="Mercedes-Benz Market Intelligence - What 4,200+ UK Owners Told Us in 2025"
+        subHeadline={data.subHeadline}
+        image={headerImage}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 10)}
+        panelRgb={sectionPanelRgb(isDark, 10)}
+        titleClassName="max-w-[760px]"
+      />
 
-      <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[760px] pt-2 md:pt-6">
-          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            Mercedes-Benz Market Intelligence - What 4,200+ UK Owners Told Us in 2025
-          </h2>
-          <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-            {data.subHeadline}
-          </p>
-        </div>
-
+      <div className="relative mx-auto w-full max-w-8xl px-3 pb-7 pt-5 md:px-4 md:pb-8 md:pt-6">
         <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div className="mt-5 grid grid-cols-1 gap-4 md:mt-6 md:grid-cols-3 md:gap-4">

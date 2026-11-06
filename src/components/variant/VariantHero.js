@@ -1,10 +1,9 @@
 "use client";
 
-import { useState } from "react";
 import Image from "next/image";
-import { useRouter } from "next/navigation";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import HeroRegLookup from "@/components/shared/HeroRegLookup";
 import GenIcon from "../generation/GenIcons";
 
 const BADGE_ICON_BY_EMOJI = {
@@ -45,36 +44,10 @@ function HeroHeadline({ h1 = "" }) {
   );
 }
 
-// Inline UK flag - emoji regional-indicator flags don't render as a flag glyph
-// on Windows (shows "GB" letter tiles instead), so use a real vector icon.
-function UkFlagIcon({ className = "h-4 w-5" }) {
-  return (
-    <svg viewBox="0 0 20 14" className={className} aria-hidden="true">
-      <rect width="20" height="14" fill="#012169" />
-      <path d="M0 0 20 14M20 0 0 14" stroke="#fff" strokeWidth="2.4" />
-      <path d="M0 0 20 14M20 0 0 14" stroke="#C8102E" strokeWidth="1.2" />
-      <path d="M10 0v14M0 7h20" stroke="#fff" strokeWidth="4" />
-      <path d="M10 0v14M0 7h20" stroke="#C8102E" strokeWidth="2.4" />
-    </svg>
-  );
-}
-
 export default function VariantHero({ data }) {
   const { theme } = useTheme();
-  const router = useRouter();
-  const [regNumber, setRegNumber] = useState("");
 
   if (!data) return null;
-
-  function goToQuoteWithReg(event) {
-    event.preventDefault();
-    const cleaned = regNumber.replace(/\s+/g, "").toUpperCase();
-    if (!cleaned) {
-      router.push("/quote");
-      return;
-    }
-    router.push(`/quote?reg=${encodeURIComponent(cleaned)}`);
-  }
 
   const isDark = theme === "dark";
   const heroImage = isDark ? "/320d/hero_dark.webp" : "/320d/hero_light.webp";
@@ -87,7 +60,6 @@ export default function VariantHero({ data }) {
   const bodyTextClass = isDark ? "text-white/85" : "text-[var(--color-text-muted)]";
   const cardBorderClass = isDark ? "border-white/20" : "border-[var(--color-border)]";
   const cardBgClass = isDark ? "bg-[rgba(10,10,10,0.55)]" : "bg-[rgba(255,255,255,0.7)]";
-  const innerBgClass = isDark ? "bg-[rgba(10,10,10,0.6)]" : "bg-[rgba(255,255,255,0.85)]";
   const tagPillClass = isDark ? "border-white/30 bg-[rgba(10,10,10,0.55)] text-white" : "border-[rgba(171,132,80,0.45)] bg-[rgba(255,255,255,0.75)] text-[var(--color-text)]";
   // Stronger contrast than the plain --color-border token, since these sit on
   // a translucent card over a busy photo background rather than a solid surface.
@@ -155,41 +127,13 @@ export default function VariantHero({ data }) {
     </div>
   ) : null;
 
-  // Registration row → redirects to /quote with ?reg=… (lookup stays on quote page).
-  // Spec's "top split" row (country + input) holds on every breakpoint;
-  // only the full-width submit button drops to its own row.
-  const registrationRow = data.registrationInput ? (
-    <form
-      onSubmit={goToQuoteWithReg}
-      className="flex w-full flex-col gap-1.5 md:flex-row md:items-center md:gap-3"
-    >
-      <div className="flex w-full items-center gap-1.5 md:flex-1 md:gap-3">
-        <span className={`flex shrink-0 items-center gap-1.5 rounded-md border ${cardBorderClass} ${innerBgClass} px-2.5 py-2 text-[0.8rem] font-semibold md:py-3 md:text-[0.92rem] ${headingClass}`}>
-          <UkFlagIcon />
-          GB
-        </span>
-        <input
-          type="text"
-          name="reg"
-          value={regNumber}
-          onChange={(event) => setRegNumber(event.target.value.toUpperCase())}
-          placeholder={data.registrationInput.placeholder}
-          autoComplete="off"
-          className={`min-w-0 flex-1 rounded-md border ${cardBorderClass} ${innerBgClass} px-2.5 py-2 text-[0.8rem] uppercase focus:outline-none md:py-3 md:text-[0.92rem] ${headingClass} ${isDark ? "placeholder:text-white/50" : "placeholder:text-[var(--color-text-soft)]"}`}
-        />
-      </div>
-      {data.registrationInput.cta ? (
-        <button
-          type="submit"
-          className="flex w-full shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-md bg-[#0a0a0a] px-2 py-2 text-center text-[0.68rem] font-bold shadow-[0_12px_28px_var(--color-shadow)] md:w-auto md:px-6 md:py-3 md:text-[0.9rem]"
-          style={{ color: GOLD }}
-        >
-          {data.registrationInput.cta.label.replace(/\s*→\s*$/, "")}
-          <GenIcon name="arrow" className="h-4 w-4 shrink-0 md:h-5 md:w-5" />
-        </button>
-      ) : null}
-    </form>
-  ) : null;
+  // Yellow GB plate → /quote?reg=… (vehicle fetch happens on the quote page).
+  const registrationRow = (
+    <HeroRegLookup
+      ctaLabel={data.registrationInput?.cta?.label || "Get Instant Quote →"}
+      className="max-w-none"
+    />
+  );
 
   // Mobile: two distinct stacked cards (engine summary, then the reg/quote form).
   // Icon sits left, vertically centered against both text lines.
@@ -205,20 +149,19 @@ export default function VariantHero({ data }) {
     </div>
   ) : null;
 
-  const mobileQuoteWidget = data.registrationInput ? (
+  const mobileQuoteWidget = (
     <div className={`mt-1.5 flex w-full flex-col gap-2 rounded-md border ${cardBorderClass} ${cardBgClass} p-2.5 backdrop-blur-sm md:hidden`}>
       {registrationRow}
     </div>
-  ) : null;
+  );
 
-  // Desktop: single combined card (price/codes row over the reg/quote row),
-  // matching the original design.
-  const desktopQuoteWidget = data.priceAnchor || data.registrationInput ? (
+  // Desktop: single combined card (price/codes row over the reg/quote row).
+  const desktopQuoteWidget = (
     <div className={`hidden w-full flex-col gap-4 rounded-md border ${cardBorderClass} ${cardBgClass} p-5 backdrop-blur-sm md:flex`}>
       {priceRow}
       {registrationRow}
     </div>
-  ) : null;
+  );
 
   const tagPill = (
     <span className={`inline-flex w-fit max-w-full flex-wrap items-center gap-x-2 gap-y-1 rounded-md border px-3 py-2 text-[0.82rem] leading-[1.35] md:px-2.5 md:py-1.5 md:text-[0.78rem] ${tagPillClass}`}>

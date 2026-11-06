@@ -14,6 +14,18 @@ export function homeSectionBg(isDark, sectionIndex) {
   return sectionIndex % 2 === 1 ? "bg-[#EFEEE9]" : "bg-[#F8F7F3]";
 }
 
+/** Solid panel color for diagonal header bands (matches section bg). */
+export function sectionPanelBg(isDark, sectionIndex) {
+  if (isDark) return "var(--color-page)";
+  return sectionIndex % 2 === 1 ? SECTION_BG_A : SECTION_BG_B;
+}
+
+/** RGB triplet for left-half mobile fades over header images. */
+export function sectionPanelRgb(isDark, sectionIndex) {
+  if (isDark) return "7,7,6";
+  return sectionIndex % 2 === 1 ? "239,238,233" : "248,247,243";
+}
+
 /** Black (light) / white (dark) faded underline under section titles — all breakpoints. */
 export function SectionFadeStrip({ isDark, className = "w-14" }) {
   return (

@@ -1,10 +1,10 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import HeroRegLookup from "@/components/shared/HeroRegLookup";
 
 const TRUST_ICON_FALLBACKS = ["chart", "wrench", "book", "engine-finders"];
 
@@ -16,14 +16,6 @@ const EMOJI_ICON_MAP = {
   "📘": "book",
   "🛠️": "wrench",
 };
-
-function ArrowIcon({ className = "h-4 w-4" }) {
-  return (
-    <svg aria-hidden="true" viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M5 12h14m-6-6 6 6-6 6" />
-    </svg>
-  );
-}
 
 function resolveIcon(icon, index = 0) {
   if (!icon) return TRUST_ICON_FALLBACKS[index] || "chart";
@@ -94,8 +86,7 @@ export default function ModelHero({ data }) {
   const isDark = theme === "dark";
   const headerImage = data.headerImage || data.image || { src: "/model/Hero-bg-image.webp", alt: "" };
   const imageSrc = headerImage.src || headerImage.light || headerImage.dark || "/model/Hero-bg-image.webp";
-  const ctaLabel = (data.primaryCta?.label || "Explore Engines →").replace(/\s*→\s*$/, "");
-  const ctaHref = data.primaryCta?.href || "/quote";
+  const ctaLabel = data.primaryCta?.label || "Get Instant Quote →";
   const trustStrip = data.trustStrip || [];
 
   return (
@@ -138,17 +129,7 @@ export default function ModelHero({ data }) {
             dangerouslySetInnerHTML={{ __html: data.subHeadline }}
           />
 
-          {/* Desktop CTA */}
-          {data.primaryCta ? (
-            <Link
-              href={ctaHref}
-              className="btn-cta mt-3 hidden w-fit items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-4 md:inline-flex md:px-6 md:py-3.5 md:text-[0.9rem]"
-              style={{ color: GOLD }}
-            >
-              <span dangerouslySetInnerHTML={{ __html: ctaLabel }} />
-              <ArrowIcon />
-            </Link>
-          ) : null}
+          <HeroRegLookup ctaLabel={ctaLabel} className="mt-3 hidden md:mt-4 md:flex" />
         </div>
 
         {/* Mobile: image with top/bottom fade, then CTA below */}
@@ -172,17 +153,7 @@ export default function ModelHero({ data }) {
           />
         </div>
 
-        {/* Mobile CTA below image */}
-        {data.primaryCta ? (
-          <Link
-            href={ctaHref}
-            className="btn-cta mt-4 inline-flex w-full items-center justify-center gap-3 rounded-md bg-[#0a0a0a] px-5 py-3 text-[0.84rem] font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:hidden"
-            style={{ color: GOLD }}
-          >
-            <span dangerouslySetInnerHTML={{ __html: ctaLabel }} />
-            <ArrowIcon />
-          </Link>
-        ) : null}
+        <HeroRegLookup ctaLabel={ctaLabel} className="mt-4 md:hidden" />
 
         {trustStrip.length ? (
           <ul

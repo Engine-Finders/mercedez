@@ -22,8 +22,8 @@ import {
 import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
 import { useTheme } from "@/components/shared/themeProvider";
 
@@ -57,7 +57,7 @@ function VerdictCell({ verdict, isDark }) {
         <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
           <VerdictGlyph type={verdict?.type} />
         </span>
-        <span className={`${typeTable} font-semibold`} style={{ color: style.bg }}>
+        <span className={`font-lora ${typeTable} font-semibold`} style={{ color: style.bg }}>
           {verdict?.label || style.label}
         </span>
       </div>
@@ -84,15 +84,15 @@ function MatrixRow({ row, isDark, variant = "desktop" }) {
               {row.model}
             </p>
             {row.engine ? (
-              <p className={`mt-1 ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
+              <p className={`mt-1 font-lora ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
                 ({row.engine})
               </p>
             ) : null}
-            <p className={`mt-2 ${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
+            <p className={`mt-2 font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
             <p className={`mt-0.5 ${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
           </div>
           <div className="min-w-0 pt-[2.1rem]">
-            <p className={`${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
+            <p className={`font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
             <p className={`mt-0.5 ${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
           </div>
         </div>
@@ -108,20 +108,20 @@ function MatrixRow({ row, isDark, variant = "desktop" }) {
           <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill unoptimized className="object-contain" sizes="64px" />
         </div>
         <div className="min-w-0">
-          <p className={`${typeTable} font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <p className={`font-lora ${typeTable} font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {row.model}
           </p>
           {row.engine ? (
-            <p className={`mt-0.5 ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>({row.engine})</p>
+            <p className={`mt-0.5 font-lora ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>({row.engine})</p>
           ) : null}
         </div>
       </div>
       <div>
-        <p className={`${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
+        <p className={`font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
         <p className={`${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
       </div>
       <div>
-        <p className={`${typeTable} font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
+        <p className={`font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
         <p className={`${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
       </div>
       <VerdictCell verdict={row.verdict} isDark={isDark} />
@@ -207,11 +207,11 @@ function RuleCard({ data, isDark }) {
             background: `conic-gradient(${GOLD} 0% 70%, ${isDark ? "rgba(255,255,255,0.12)" : "#EDE6D8"} 70% 100%)`,
           }}
         >
-          <div className={`flex h-[4.5rem] w-[4.5rem] flex-col items-center justify-center rounded-full ${isDark ? "bg-[var(--color-surface-raised)]" : "bg-white"}`}>
-            <span className={`font-lora ${typeHighlight} font-semibold leading-none`} style={{ color: GOLD }}>
+          <div className={`flex h-[4.5rem] w-[4.5rem] flex-col items-center justify-center rounded-full px-1 ${isDark ? "bg-[var(--color-surface-raised)]" : "bg-white"}`}>
+            <span className="font-lora text-[15px] font-semibold leading-none md:text-[16px]" style={{ color: GOLD }}>
               {data.percent}
             </span>
-            <span className={`mt-0.5 ${typeBadge} font-semibold uppercase tracking-wide`} style={{ color: GOLD }}>
+            <span className="mt-0.5 text-center text-[9px] font-semibold uppercase leading-tight tracking-wide md:text-[10px]" style={{ color: GOLD }}>
               {data.percentLabel}
             </span>
           </div>
@@ -272,36 +272,18 @@ export default function HomeSec6({ data }) {
   const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
 
   return (
-    <section className={`relative overflow-hidden px-3 py-6 md:px-4 md:py-8 ${homeSectionBg(isDark, 6)}`}>
-      <div className="absolute inset-x-0 top-0 hidden h-[280px] md:block">
-        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
-              : "absolute inset-0 bg-[linear-gradient(90deg,#F8F7F3_0%,rgba(248,247,243,0.92)_40%,rgba(248,247,243,0.2)_78%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#F8F7F3_0%,transparent_100%)]"
-          }
-        />
-      </div>
+    <section className={`relative overflow-hidden ${homeSectionBg(isDark, 6)}`}>
+      <SectionHeaderBand
+        title="The Mercedes-Benz Ownership Economics Centre"
+        subHeadline={data.subHeadline}
+        image={headerImage}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 6)}
+        panelRgb={sectionPanelRgb(isDark, 6)}
+        titleClassName="max-w-[720px]"
+      />
 
-      <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            The Mercedes-Benz Ownership Economics Centre
-          </h2>
-          <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-            {data.subHeadline}
-          </p>
-        </div>
-
+      <div className="relative mx-auto w-full max-w-8xl px-3 pb-6 pt-5 md:px-4 md:pb-8 md:pt-6">
         <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div
