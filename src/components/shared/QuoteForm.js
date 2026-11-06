@@ -5,6 +5,7 @@ import { useEffect, useId, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { buildQuoteLeadPayload } from "@/app/api/lib/buildLeadPayload";
 import { resolveVehicleImage } from "@/lib/resolveVehicleImage";
+import UkPlate from "@/components/shared/UkPlate";
 
 const emptyVehicle = {
   vrm: "",
@@ -16,15 +17,6 @@ const emptyVehicle = {
   colour: "",
   wheelplan: "",
 };
-
-function formatPlate(vrm) {
-  const clean = String(vrm || "")
-    .replace(/\s+/g, "")
-    .toUpperCase();
-  if (clean.length === 7) return `${clean.slice(0, 4)} ${clean.slice(4)}`;
-  if (clean.length === 6) return `${clean.slice(0, 3)} ${clean.slice(3)}`;
-  return clean;
-}
 
 function engineLitres(raw) {
   if (!raw) return "—";
@@ -169,32 +161,6 @@ function Field({ id, label, icon, children }) {
 const fieldInputClass =
   "w-full rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] px-2.5 py-2 text-sm text-[var(--color-text)] outline-none placeholder:text-[var(--color-text-soft)] focus:border-[var(--color-primary)]";
 
-function UkPlate({ value, editable, onChange, inputId }) {
-  return (
-    <div className="flex min-h-11 flex-1 overflow-hidden rounded-md border border-[#1a1a1a] bg-[#F7CE45] shadow-sm">
-      <div className="flex w-8 shrink-0 flex-col items-center justify-center gap-0.5 bg-[#1B3E8A] text-white">
-        <span className="text-[0.55rem] font-bold leading-none tracking-wide">GB</span>
-      </div>
-      {editable ? (
-        <input
-          id={inputId}
-          type="text"
-          value={value}
-          maxLength={8}
-          autoComplete="off"
-          placeholder="REG HERE"
-          onChange={onChange}
-          className="w-full bg-transparent px-3 text-center font-bold tracking-[0.12em] text-[#1a1a1a] outline-none placeholder:text-[#1a1a1a]/55"
-        />
-      ) : (
-        <div className="flex w-full items-center justify-center px-3 text-center text-lg font-extrabold tracking-[0.14em] text-[#1a1a1a] sm:text-xl">
-          {formatPlate(value) || "—"}
-        </div>
-      )}
-    </div>
-  );
-}
-
 function mapLookupVehicle(raw, fallbackReg) {
   return {
     vrm: String(raw.vrm || raw.VRM || fallbackReg).replace(/\s+/g, "").toUpperCase(),
@@ -227,12 +193,6 @@ export default function QuoteForm({ onSuccess, compact = false }) {
   const [submitAlert, setSubmitAlert] = useState({ type: "", message: "" });
   const [submitted, setSubmitted] = useState(false);
   const [calculator, setCalculator] = useState(null);
-
-  useEffect(() => {
-    const fromUrl = searchParams?.get("reg") || searchParams?.get("vrm") || "";
-    const cleaned = fromUrl.replace(/\s+/g, "").toUpperCase();
-    if (cleaned) setRegInput(cleaned);
-  }, [searchParams]);
 
   useEffect(() => {
     if (searchParams?.get("from") !== "calculator") return;
@@ -289,6 +249,42 @@ export default function QuoteForm({ onSuccess, compact = false }) {
       setLookupLoading(false);
     }
   }
+
+  // Hero / sticky redirects land on /quote?reg=ABC123 — fill + fetch vehicle.
+  useEffect(() => {
+    const fromUrl = searchParams?.get("reg") || searchParams?.get("vrm") || "";
+    const cleaned = fromUrl.replace(/\s+/g, "").toUpperCase();
+    if (!cleaned) return;
+
+    setRegInput(cleaned);
+
+    let cancelled = false;
+    (async () => {
+      setLookupLoading(true);
+      setLookupAlert({ type: "", message: "" });
+      try {
+        const response = await fetch(`/api/vehicle-lookup?vrm=${encodeURIComponent(cleaned)}`);
+        const data = await response.json();
+        if (cancelled) return;
+        if (!response.ok) {
+          setVehicle(emptyVehicle);
+          setLookupAlert({ type: "error", message: data.error || "Could not find that vehicle." });
+          return;
+        }
+        setVehicle(mapLookupVehicle(data.vehicle || {}, cleaned));
+      } catch (error) {
+        if (cancelled) return;
+        setVehicle(emptyVehicle);
+        setLookupAlert({ type: "error", message: error.message || "Lookup failed. Please try again." });
+      } finally {
+        if (!cancelled) setLookupLoading(false);
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [searchParams]);
 
   async function handleSubmit(event) {
     event.preventDefault();

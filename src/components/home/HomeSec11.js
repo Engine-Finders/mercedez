@@ -21,8 +21,8 @@ import {
 
 import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import { useTheme } from "@/components/shared/themeProvider";
 
 function CodeList({ items, icon, isDark }) {
@@ -142,36 +142,18 @@ export default function HomeSec11({ data }) {
   const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 11)}`}>
-      <div className="absolute inset-x-0 top-0 hidden h-[280px] md:block">
-        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
-              : "absolute inset-0 bg-[linear-gradient(90deg,#EFEEE9_0%,rgba(239,238,233,0.92)_40%,rgba(239,238,233,0.2)_78%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
-          }
-        />
-      </div>
+    <section className={`relative overflow-hidden ${homeSectionBg(isDark, 11)}`}>
+      <SectionHeaderBand
+        title="Mercedes-Benz Engine History - Six Decades of Engineering"
+        subHeadline={data.subHeadline}
+        image={headerImage}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 11)}
+        panelRgb={sectionPanelRgb(isDark, 11)}
+        titleClassName="max-w-[720px]"
+      />
 
-      <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            Mercedes-Benz Engine History - Six Decades of Engineering
-          </h2>
-          <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-            {data.subHeadline}
-          </p>
-        </div>
-
+      <div className="relative mx-auto w-full max-w-8xl px-3 pb-7 pt-5 md:px-4 md:pb-8 md:pt-6">
         <TimelineTable data={data} isDark={isDark} />
         <KeyTakeaway data={data.keyTakeaway} />
       </div>

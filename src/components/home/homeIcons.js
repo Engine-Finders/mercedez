@@ -146,7 +146,7 @@ export default function HomeIcon({ name, isDark, className = "h-5 w-5", tone, go
       alt=""
       width={48}
       height={48}
-      className={className}
+      className={`object-contain ${className}`.trim()}
       unoptimized
     />
   );

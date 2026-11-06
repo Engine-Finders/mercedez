@@ -1,11 +1,11 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
-import { sectionBadge, sectionButton, sectionDescription, sectionH1, sectionSmall } from "@/components/models/sectionTypography";
+import HeroRegLookup from "@/components/shared/HeroRegLookup";
+import { sectionBadge, sectionDescription, sectionH1, sectionSmall } from "@/components/models/sectionTypography";
 
 const TRUST_ICON_FALLBACKS = ["chart", "wrench", "book", "engine-finders"];
 
@@ -21,14 +21,6 @@ const EMOJI_ICON_MAP = {
 /** Desktop diagonal: image starts ~52% at top, ~38% at bottom */
 const IMAGE_CLIP = "polygon(52% 0%, 100% 0%, 100% 100%, 38% 100%)";
 const LEFT_CLIP = "polygon(0 0, 52.15% 0, 38.15% 100%, 0 100%)";
-
-function ArrowIcon({ className = "h-4 w-4" }) {
-  return (
-    <svg aria-hidden="true" viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M5 12h14m-6-6 6 6-6 6" />
-    </svg>
-  );
-}
 
 function FadeStrip({ isDark, className = "w-14" }) {
   return (
@@ -158,8 +150,7 @@ export default function ModelHero({ data }) {
 
   const isDark = theme === "dark";
   const headerImage = data.headerImage || { src: "/model/Hero-bg-image.webp", alt: "" };
-  const ctaLabel = (data.primaryCta?.label || "Explore Engines →").replace(/\s*→\s*$/, "");
-  const ctaHref = data.primaryCta?.href || "#";
+  const ctaLabel = data.primaryCta?.label || "Get Instant Quote →";
   const trustStrip = data.trustStrip || [];
   const panelBg = isDark ? "#070706" : "#EFEEE9";
 
@@ -221,20 +212,7 @@ export default function ModelHero({ data }) {
             {renderWithPatternTag(data.subHeadline)}
           </p>
 
-          {data.primaryCta ? (
-            <Link
-              href={ctaHref}
-              className={`mt-4 inline-flex w-fit items-center justify-center gap-3 rounded-md px-5 py-3 font-semibold tracking-[0.02em] no-underline hover:no-underline hover:opacity-95 md:mt-5 md:px-6 md:py-3.5 ${sectionButton} ${
-                isDark
-                  ? "border border-white/25 bg-[linear-gradient(180deg,#ececec_0%,#c8c8c8_100%)] text-[#0a0a0a]"
-                  : "bg-[#0a0a0a]"
-              }`}
-              style={isDark ? undefined : { color: GOLD }}
-            >
-              <span>{ctaLabel}</span>
-              <ArrowIcon />
-            </Link>
-          ) : null}
+          <HeroRegLookup ctaLabel={ctaLabel} className="mt-4 md:mt-5" />
         </div>
 
         {/* Mobile: image below CTA */}

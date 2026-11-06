@@ -1,13 +1,12 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { useTheme } from "@/components/shared/themeProvider";
+import HeroRegLookup from "@/components/shared/HeroRegLookup";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { iconBgClass, iconBorderClass } from "@/components/engine/iconTone";
 import {
-  sectionButton,
   sectionDescription,
   sectionH1,
   sectionSmall,
@@ -57,14 +56,6 @@ function splitStatLabel(label = "") {
       ["", ""],
     ),
   };
-}
-
-function ArrowIcon() {
-  return (
-    <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
-      <path d="M5 12h14m-6-6 6 6-6 6" />
-    </svg>
-  );
 }
 
 function StatIcon({ index, isDark }) {
@@ -158,7 +149,9 @@ export default function EngineHero({ data }) {
   const metaItems = splitTagPill(data.tagPill);
   const accentToken = metaItems[1] || "";
   const description = normalizeText(data.subHeadline);
-  const ctaLabel = data.primaryCta?.label ? normalizeText(data.primaryCta.label).replace(/\s*\u2192$/, "") : "";
+  const ctaLabel = data.primaryCta?.label
+    ? normalizeText(data.primaryCta.label)
+    : "Get Instant Quote →";
 
   return (
     <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 1)}`}>
@@ -201,20 +194,7 @@ export default function EngineHero({ data }) {
               ))}
             </p>
 
-            {data.primaryCta ? (
-              <Link
-                href="/quote"
-                className={`btn-cta mt-4 hidden min-h-11 w-fit items-center justify-center gap-3 rounded-md px-6 py-2.5 font-semibold md:inline-flex ${sectionButton} ${
-                  isDark
-                    ? "border border-white/70 bg-[#0a0a0a] text-white"
-                    : "border border-transparent bg-[#0a0a0a]"
-                }`}
-                style={isDark ? undefined : { color: GOLD }}
-              >
-                <span>{ctaLabel}</span>
-                <ArrowIcon />
-              </Link>
-            ) : null}
+            <HeroRegLookup ctaLabel={ctaLabel} className="mt-4 hidden md:flex" />
           </div>
 
           <div className="relative order-2 flex min-h-[240px] items-end justify-center md:min-h-[500px] md:justify-end">
@@ -231,20 +211,7 @@ export default function EngineHero({ data }) {
           </div>
         </div>
 
-        {data.primaryCta ? (
-          <Link
-            href="/quote"
-            className={`btn-cta relative z-10 mt-4 inline-flex min-h-12 w-full items-center justify-center gap-3 rounded-md px-6 py-3 text-center font-semibold md:hidden ${sectionButton} ${
-              isDark
-                ? "border border-white/70 bg-[#0a0a0a] text-white"
-                : "border border-transparent bg-[#0a0a0a]"
-            }`}
-            style={isDark ? undefined : { color: GOLD }}
-          >
-            <span>{ctaLabel}</span>
-            <ArrowIcon />
-          </Link>
-        ) : null}
+        <HeroRegLookup ctaLabel={ctaLabel} className="relative z-10 mt-4 md:hidden" />
 
         {data.trustStrip?.length > 0 ? (
           <ul

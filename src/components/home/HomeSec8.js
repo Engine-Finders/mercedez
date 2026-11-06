@@ -19,15 +19,14 @@ import {
 
 
 
-import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
 import { useTheme } from "@/components/shared/themeProvider";
 
-function CentreCard({ item, isDark, serifTitle = false }) {
+function CentreCard({ item, isDark }) {
   const num = String(item.id).padStart(2, "0");
 
   return (
@@ -44,16 +43,16 @@ function CentreCard({ item, isDark, serifTitle = false }) {
       <div className="flex flex-col gap-2.5 pr-6">
         <div className="flex items-center gap-3">
           <span
-            className={`flex h-12 w-[3.75rem] shrink-0 items-center justify-center rounded-full border md:h-14 md:w-[4.5rem] ${
+            className={`flex h-12 w-12 shrink-0 items-center justify-center rounded-full border md:h-14 md:w-14 ${
               isDark ? "border-[rgba(171,132,80,0.45)] bg-[rgba(171,132,80,0.12)]" : "border-[#EDE6D8] bg-[#F5EAD4]"
             }`}
           >
-            <HomeIcon name={item.icon} isDark={isDark} className="h-7 w-10 object-contain md:h-8 md:w-12" />
+            <HomeIcon name={item.icon} isDark={isDark} className="h-7 w-7 md:h-8 md:w-8" />
           </span>
           <h3
-            className={`min-w-0 ${typeH5} leading-tight ${
-              serifTitle ? "font-lora font-medium" : "font-semibold"
-            } ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
+            className={`font-lora min-w-0 text-[18px] font-medium leading-tight md:text-[22px] ${
+              isDark ? "text-white" : "text-[var(--color-text)]"
+            }`}
           >
             {item.title}
           </h3>
@@ -103,46 +102,23 @@ export default function HomeSec8({ data }) {
   const centres = data.centres || [];
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 8)}`}>
-      <div className="absolute inset-x-0 top-0 hidden h-[260px] md:block">
-        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
-              : "absolute inset-0 bg-[linear-gradient(90deg,#F8F7F3_0%,rgba(248,247,243,0.92)_40%,rgba(248,247,243,0.2)_78%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#F8F7F3_0%,transparent_100%)]"
-          }
-        />
-      </div>
+    <section className={`relative overflow-hidden ${homeSectionBg(isDark, 8)}`}>
+      <SectionHeaderBand
+        title="Mercedes-Benz Knowledge Centres"
+        subHeadline={data.subHeadline}
+        image={headerImage}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 8)}
+        panelRgb={sectionPanelRgb(isDark, 8)}
+        titleClassName="max-w-[720px]"
+      />
 
-      <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[720px] pt-2 md:pt-6">
-          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            Mercedes-Benz Knowledge Centres
-          </h2>
-          <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-            {data.subHeadline}
-          </p>
-        </div>
-
+      <div className="relative mx-auto w-full max-w-8xl px-3 pb-7 pt-5 md:px-4 md:pb-8 md:pt-6">
         <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
 
         <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2 md:mt-6 md:grid-cols-4 md:gap-3.5">
-          {centres.map((item, index) => (
-            <CentreCard
-              key={item.id}
-              item={item}
-              isDark={isDark}
-              serifTitle={index % 4 === 0}
-            />
+          {centres.map((item) => (
+            <CentreCard key={item.id} item={item} isDark={isDark} />
           ))}
         </div>
 

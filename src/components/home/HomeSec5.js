@@ -20,23 +20,22 @@ import {
 
 
 import { useState } from "react";
-import Image from "next/image";
 import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
 import { useTheme } from "@/components/shared/themeProvider";
 
 function NumberStrip({ id }) {
   return (
     <div
-      className="flex w-10 shrink-0 items-center justify-center self-stretch md:w-12"
+      className="flex w-10 shrink-0 items-center justify-center self-stretch md:w-auto md:min-w-0"
       style={{
         background: "linear-gradient(180deg, #E8E4DC 0%, #F5F3EE 45%, #FFFFFF 100%)",
       }}
     >
-      <span className="font-lora ${typeH4} leading-none text-black">{id}</span>
+      <span className={`font-lora leading-none text-black ${typeH4}`}>{id}</span>
     </div>
   );
 }
@@ -57,6 +56,10 @@ function Chevron({ open }) {
     </svg>
   );
 }
+
+/** Shared desktop table columns — header + rows must use the same template. */
+const TABLE_COLS = "md:grid md:grid-cols-[3rem_minmax(0,1.15fr)_minmax(0,1.35fr)_11.5rem]";
+const COL_DIVIDER = (isDark) => (isDark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.05)");
 
 /** Light: comparison col = black; verdict col alternates gold/black. Dark: silver. */
 function tableTone(isDark, goldOnLight = false) {
@@ -140,58 +143,53 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
         </div>
       ) : null}
 
-      {/* Desktop row */}
+      {/* Desktop row — same grid as header */}
       <Link
         href={href}
-        className={`hidden border-0 no-underline hover:no-underline md:flex md:flex-row md:items-stretch ${
+        className={`hidden border-0 no-underline hover:no-underline ${TABLE_COLS} ${
           isDark ? "hover:bg-white/5" : "hover:bg-[#F8F7F3]"
         }`}
       >
-        <div className="flex min-w-0 flex-1 items-stretch">
-          <NumberStrip id={item.id} />
+        <NumberStrip id={item.id} />
 
-          <div className="flex min-w-0 flex-[1.15] items-start gap-3 px-4 py-3.5">
-            <span
-              className={`mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full border ${
-                isDark ? "border-white/20" : "border-[#E5E5E5]"
-              }`}
-            >
-              <HomeIcon name={item.icon} tone={comparisonTone} className="h-8 w-8" />
-            </span>
-            <div className="min-w-0">
-              <p className={`font-lora ${typeH6} font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-                {item.title}
-              </p>
-              {item.detail ? (
-                <p className={`mt-1 ${typeTable} font-light ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
-                  {item.detail}
-                </p>
-              ) : null}
-            </div>
-          </div>
-
-          <div
-            className="flex min-w-0 flex-[1.35] items-start gap-2.5 border-l px-4 py-3.5"
-            style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.06)" }}
+        <div className="flex min-w-0 items-start gap-3 px-4 py-3.5">
+          <span
+            className={`mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full border ${
+              isDark ? "border-white/20" : "border-[#E5E5E5]"
+            }`}
           >
-            <span
-              className="mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full"
-              style={{
-                backgroundColor: !isDark && verdictGold ? "rgba(171,132,80,0.16)" : isDark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.05)",
-              }}
-            >
-              <HomeIcon name={item.verdictIcon || "shield"} tone={verdictTone} className="h-8 w-8" />
-            </span>
-            <p className={`font-lora ${typeTable} font-medium`} style={{ color: GOLD }}>
-              {item.verdictPreview}
+            <HomeIcon name={item.icon} tone={comparisonTone} className="h-8 w-8" />
+          </span>
+          <div className="min-w-0">
+            <p className={`font-lora ${typeH6} font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              {item.title}
             </p>
+            {item.detail ? (
+              <p className={`mt-1 ${typeTable} font-light ${isDark ? "text-white/65" : "text-[var(--color-text-muted)]"}`}>
+                {item.detail}
+              </p>
+            ) : null}
           </div>
+        </div>
 
-          <div className="flex shrink-0 items-center px-4">
-            <span className={`font-lora ${typeTable} font-medium whitespace-nowrap`} style={{ color: GOLD }}>
-              {item.link?.label || "Read the verdict →"}
-            </span>
-          </div>
+        <div className="flex min-w-0 items-start gap-2.5 border-l px-4 py-3.5" style={{ borderColor: COL_DIVIDER(isDark) }}>
+          <span
+            className="mt-0.5 flex h-12 w-12 shrink-0 items-center justify-center rounded-full"
+            style={{
+              backgroundColor: !isDark && verdictGold ? "rgba(171,132,80,0.16)" : isDark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.05)",
+            }}
+          >
+            <HomeIcon name={item.verdictIcon || "shield"} tone={verdictTone} className="h-8 w-8" />
+          </span>
+          <p className={`font-lora ${typeTable} font-medium`} style={{ color: GOLD }}>
+            {item.verdictPreview}
+          </p>
+        </div>
+
+        <div className="flex items-center px-4">
+          <span className={`font-lora ${typeTable} font-medium whitespace-nowrap`} style={{ color: GOLD }}>
+            {item.link?.label || "Read the verdict →"}
+          </span>
         </div>
       </Link>
     </div>
@@ -207,37 +205,19 @@ export default function HomeSec5({ data }) {
   const [openId, setOpenId] = useState(null);
 
   return (
-    <section className={`relative overflow-hidden px-3 py-7 md:px-4 md:py-8 ${homeSectionBg(isDark, 5)}`}>
-      <div className="absolute inset-x-0 top-0 hidden h-[280px] md:block">
-        <Image src={headerImage.src} alt="" fill className="object-cover object-right" sizes="100vw" />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,11,0.96)_0%,rgba(2,7,11,0.78)_42%,rgba(2,7,11,0.28)_78%)]"
-              : "absolute inset-0 bg-[linear-gradient(90deg,#EFEEE9_0%,rgba(239,238,233,0.92)_40%,rgba(239,238,233,0.2)_78%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-              : "absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
-          }
-        />
-      </div>
+    <section className={`relative overflow-hidden ${homeSectionBg(isDark, 5)}`}>
+      <SectionHeaderBand
+        title="Comparison Hub - Head-to-Head Verdicts"
+        subHeadline={data.subHeadline}
+        image={headerImage}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 5)}
+        panelRgb={sectionPanelRgb(isDark, 5)}
+        titleClassName="max-w-[720px]"
+      />
 
-      <div className="relative mx-auto w-full max-w-8xl">
-        <div className="max-w-[720px] pt-1 md:pt-6">
-          <h2 className={`font-lora ${typeH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            Comparison Hub - Head-to-Head Verdicts
-          </h2>
-          <SectionLabel isDark={isDark} />
-          <p className={`mt-3 max-w-[640px] ${typeDesc} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-            {data.subHeadline}
-          </p>
-        </div>
-
-        <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow />
+      <div className="relative mx-auto w-full max-w-8xl px-3 pb-7 pt-5 md:px-4 md:pb-8 md:pt-6">
+        <TrustBadges items={data.trustStrip} isDark={isDark} mobileRow softDividers />
 
         <div
           className={`mt-5 overflow-hidden rounded-lg border shadow-[0_2px_12px_rgba(0,0,0,0.04)] md:mt-7 ${
@@ -245,16 +225,21 @@ export default function HomeSec5({ data }) {
           }`}
         >
           <div
-            className={`hidden grid-cols-[2.75rem_minmax(0,1.15fr)_minmax(0,1.35fr)_auto] items-center border-b px-0 ${typeTable} font-semibold uppercase tracking-[0.08em] md:grid ${
+            className={`hidden items-stretch border-b ${TABLE_COLS} ${typeTable} font-semibold uppercase tracking-[0.08em] ${
               isDark ? "border-white/10 text-white/55" : "border-[rgba(0,0,0,0.08)] text-[var(--color-text-muted)]"
             }`}
           >
-            <span className="px-2 py-2.5 text-center">{columns[0]}</span>
-            <span className="px-4 py-2.5">{columns[1]}</span>
-            <span className="border-l px-4 py-2.5" style={{ borderColor: isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.06)" }}>
-              {columns[2]}
-            </span>
-            <span className="px-4 py-2.5 text-right">{columns[3]}</span>
+            <div className="flex items-center justify-center py-2.5">{columns[0]}</div>
+            {/* Match row: px-4 + 48px icon + gap-3 → label lines up with title text */}
+            <div className="flex items-center gap-3 px-4 py-2.5">
+              <span className="h-12 w-12 shrink-0" aria-hidden="true" />
+              <span>{columns[1]}</span>
+            </div>
+            <div className="flex items-center gap-2.5 border-l px-4 py-2.5" style={{ borderColor: COL_DIVIDER(isDark) }}>
+              <span className="h-12 w-12 shrink-0" aria-hidden="true" />
+              <span>{columns[2]}</span>
+            </div>
+            <div className="flex items-center px-4 py-2.5 whitespace-nowrap">{columns[3]}</div>
           </div>
 
           {comparisons.map((item) => (
