@@ -1,10 +1,11 @@
 "use client";
 
 import { useState } from "react";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { iconTone } from "@/components/variant/variantTheme";
 
 const ACCENT_BY_INDEX = ["#e03232", "#da7a12", GOLD];
 const URGENCY_TONE = {
@@ -42,7 +43,7 @@ function ProblemDetail({ problem, index, isDark }) {
       <div className={`flex flex-col gap-2 text-[0.8rem] leading-[1.4] ${isDark ? "text-white/75" : "text-[var(--color-text-muted)]"}`}>
         {problem.symptoms ? (
           <p className="flex items-start gap-1.5">
-            <span className="mt-0.5" style={{ color: GOLD }}>
+            <span className="mt-0.5" style={{ color: iconTone(isDark) }}>
               <GenIcon name="info" className="h-3.5 w-3.5 shrink-0" />
             </span>
             <span>
@@ -53,7 +54,7 @@ function ProblemDetail({ problem, index, isDark }) {
         ) : null}
         {problem.typicalMileage ? (
           <p className="flex items-start gap-1.5">
-            <span className="mt-0.5" style={{ color: GOLD }}>
+            <span className="mt-0.5" style={{ color: iconTone(isDark) }}>
               <GenIcon name="gauge" className="h-3.5 w-3.5 shrink-0" />
             </span>
             <span>
@@ -64,7 +65,7 @@ function ProblemDetail({ problem, index, isDark }) {
         ) : null}
         {problem.repairCost ? (
           <p className="flex items-start gap-1.5">
-            <span className="mt-0.5" style={{ color: GOLD }}>
+            <span className="mt-0.5" style={{ color: iconTone(isDark) }}>
               <GenIcon name="wrench" className="h-3.5 w-3.5 shrink-0" />
             </span>
             <span>
@@ -75,7 +76,7 @@ function ProblemDetail({ problem, index, isDark }) {
         ) : null}
         {problem.replacementCost ? (
           <p className="flex items-start gap-1.5">
-            <span className="mt-0.5" style={{ color: GOLD }}>
+            <span className="mt-0.5" style={{ color: iconTone(isDark) }}>
               <GenIcon name="engine" className="h-3.5 w-3.5 shrink-0" />
             </span>
             <span>
@@ -117,13 +118,15 @@ export default function CommonProblems({ data }) {
   const problems = data.problems || [];
 
   return (
-    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 4)}`}>
-      <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <SectionLabel number={4} isDark={isDark} />
-        <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-          Common Problems
-        </h2>
-
+    <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 4)}`}>
+      <SectionHeaderBand
+        title="Common Problems"
+        image={{ src: "/sec2-bg.webp", alt: "" }}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 4)}
+        panelRgb={sectionPanelRgb(isDark, 4)}
+      />
+      <div className="relative mx-auto w-full max-w-8xl px-4 pb-8 pt-5 md:px-8 md:pb-10 md:pt-6">
         <div
           className={`mt-6 flex gap-2 overflow-x-auto rounded-md border p-1.5 md:hidden ${
             isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-[var(--color-surface)]"

@@ -2,10 +2,11 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
 const DESKTOP_COLS = "grid-cols-[130px_110px_1.3fr_1.2fr_1.1fr_1.8fr]";
 const CAR_IMAGE = "/320d/era_map.webp";
@@ -63,7 +64,7 @@ function DesktopRow({ row, isDark }) {
   );
 }
 
-function MobileCard({ row, isOpen, onToggle }) {
+function MobileCard({ row, isOpen, onToggle, isDark }) {
   const reliability = splitBracketTag(row.reliability);
   const reconCost = splitBracketTag(row.reconCost);
 
@@ -75,7 +76,7 @@ function MobileCard({ row, isOpen, onToggle }) {
       style={isOpen ? { borderColor: GOLD } : undefined}
     >
       <button type="button" onClick={onToggle} aria-expanded={isOpen} className="relative grid w-full grid-cols-[104px_1fr_1fr] p-3 text-left">
-        <span className="absolute right-3 top-3" style={{ color: GOLD }}>
+        <span className="absolute right-3 top-3" style={{ color: iconTone(isDark) }}>
           <GenIcon name="chevronDown" className={`h-4 w-4 shrink-0 transition-transform ${isOpen ? "rotate-180" : ""}`} />
         </span>
 
@@ -127,28 +128,24 @@ export default function EraMap({ data }) {
   const bodyWrapperBg = isDark ? "bg-black" : "bg-[var(--color-table-surface)]";
 
   return (
-    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 2)}`}>
-      <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <SectionLabel number={2} isDark={isDark} />
-        <div className="flex items-center gap-2.5">
-          <span className="hidden h-9 w-9 shrink-0 items-center justify-center rounded-md text-white md:flex" style={{ backgroundColor: GOLD }}>
-            <GenIcon name="clock" className="h-5 w-5" />
-          </span>
-          <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            {data.title}
-          </h2>
-        </div>
-        <p className={`mt-3 max-w-[520px] text-[0.82rem] leading-[1.45] md:text-[0.9rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
-          Four generations. Four eras. One guide to reliability, costs and what really matters.
-        </p>
-
-        <div className="mt-6 flex flex-col gap-3 md:hidden">
+    <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 2)}`}>
+      <SectionHeaderBand
+        title={data.title}
+        subHeadline="Four generations. Four eras. One guide to reliability, costs and what really matters."
+        image={{ src: "/sec2-bg.webp", alt: "" }}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 2)}
+        panelRgb={sectionPanelRgb(isDark, 2)}
+      />
+      <div className="relative mx-auto w-full max-w-8xl px-4 pb-8 pt-5 md:px-8 md:pb-10 md:pt-6">
+        <div className="flex flex-col gap-3 md:hidden">
           {data.rows?.map((row, index) => (
             <MobileCard
               key={row.generation}
               row={row}
               isOpen={openIndex === index}
               onToggle={() => setOpenIndex(openIndex === index ? null : index)}
+              isDark={isDark}
             />
           ))}
         </div>
@@ -156,7 +153,7 @@ export default function EraMap({ data }) {
         <div className="mt-6 hidden overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:block">
           <div
             className={`grid ${DESKTOP_COLS} gap-px px-2 py-2.5 text-[0.78rem] font-semibold text-white ${headerBg}`}
-            style={isDark ? undefined : { backgroundColor: GOLD }}
+            style={{ backgroundColor: chromeBg(isDark) }}
           >
             {data.columns?.map((col) => (
               <span key={col} className={`flex items-center px-3 border-r ${headerDivider} last:border-r-0`}>
@@ -179,7 +176,7 @@ export default function EraMap({ data }) {
           <div className="flex items-start gap-4 lg:max-w-[45%] lg:items-center">
             <span
               className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full border"
-              style={{ borderColor: "rgba(171,132,80,0.35)", backgroundColor: "rgba(171,132,80,0.12)", color: GOLD }}
+              style={{ borderColor: "rgba(171,132,80,0.35)", backgroundColor: "rgba(171,132,80,0.12)", color: iconTone(isDark) }}
             >
               <GenIcon name="shield" className="h-5 w-5" />
             </span>
@@ -205,7 +202,7 @@ export default function EraMap({ data }) {
                   <span aria-hidden="true" className="h-6 w-px shrink-0 bg-[var(--color-border)] lg:h-8" />
                 ) : null}
                 <div className="flex items-center gap-2">
-                  <span style={{ color: GOLD }}>
+                  <span style={{ color: iconTone(isDark) }}>
                     <GenIcon name={point.icon} className="h-4.5 w-4.5 shrink-0" />
                   </span>
                   <span className={`whitespace-nowrap text-[0.78rem] font-semibold ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{point.label}</span>

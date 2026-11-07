@@ -276,7 +276,7 @@
       },
       {
         "icon": "💯",
-        "label": "72/100 Engine Score"
+        "label": "66/100 Engine Score"
       },
       {
         "icon": "🏆",
@@ -320,7 +320,7 @@
       },
       {
         "metric": "Overall Engine Score",
-        "value": "72/100"
+        "value": "66/100"
       },
       {
         "metric": "M176/M177 - Our Verdict & Rating",
@@ -363,12 +363,12 @@
         "value": "Replacement Economics"
       },
       {
-        "metric": "22",
+        "metric": "16",
         "value": "Recon cost 45–59% of lowest host-vehicle value"
       },
       {
         "metric": "Total",
-        "value": "72/100"
+        "value": "66/100"
       },
       {
         "metric": "Sum of five rows above",
@@ -629,19 +629,44 @@
     ]
   },
   "verdictRating": {
-    "starRating": "",
-    "confidence": "",
-    "scoreNote": "",
+    "starRating": "3.5★ out of 5",
+    "confidence": "88% confidence - based on verified specialist rebuild reports and UK workshop consensus.",
+    "scoreNote": "Engine Score breakdown:",
     "scoreBreakdown": {
       "columns": [
         "Dimension",
         "Score (of 20)"
       ],
-      "rows": []
+      "rows": [
+        {
+          "dimension": "Reliability",
+          "score": "14 (3.5★ × 4)"
+        },
+        {
+          "dimension": "Repair Cost",
+          "score": "8 (Reconditioned supply midpoint £7,000–£9,999)"
+        },
+        {
+          "dimension": "Repairability",
+          "score": "12 (Mix of cheap fixes (oil leaks, sensors) and expensive ones (camshaft, RMS))"
+        },
+        {
+          "dimension": "Parts Supply",
+          "score": "16 (Available but specialist-order only; AMG parts premium applies)"
+        },
+        {
+          "dimension": "Replacement Economics",
+          "score": "16 (Recon cost 45–59% of lowest host-vehicle value)"
+        },
+        {
+          "dimension": "Total",
+          "score": "66/100 (Sum of five rows above)"
+        }
+      ]
     },
-    "oneLineVerdict": "",
-    "bestFor": "",
-    "avoidIf": ""
+    "oneLineVerdict": "The M176/M177 is a phenomenal performer when maintained - but its hot-vee design means oil leaks and camshaft wear are common from 60,000 miles - budget for specialist maintenance.",
+    "bestFor": "Enthusiasts who want AMG V8 performance and can afford specialist maintenance.",
+    "avoidIf": "You're on a tight budget or looking at a high-mileage example with no documented service history."
   },
   "compatibility": {
     "columns": [

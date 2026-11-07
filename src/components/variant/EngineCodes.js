@@ -2,10 +2,11 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
 const DESKTOP_COLS = "grid-cols-[1.5fr_0.9fr_0.9fr_1.2fr_1.1fr]";
 const ENGINE_IMAGE = "/320d/engine.webp";
@@ -67,7 +68,7 @@ function DetailCard({ row, isDark }) {
             className={`flex flex-wrap items-center justify-between gap-x-3 gap-y-1 ${index < 3 ? `border-b pb-2.5 ${isDark ? "border-white/10" : "border-[var(--color-border)]"}` : ""}`}
           >
             <span className={`flex items-center gap-1.5 ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
-              <span style={{ color: GOLD }}>
+              <span style={{ color: iconTone(isDark) }}>
                 <GenIcon name={item.icon} className="h-3.5 w-3.5 shrink-0" />
               </span>
               {item.label}
@@ -116,7 +117,7 @@ export default function EngineCodes({ data }) {
             className={`grid grid-cols-[1fr_1fr] gap-3 px-4 py-3 ${index > 0 ? `border-t ${isDark ? "border-white/10" : "border-[var(--color-border)]"}` : ""}`}
           >
             <span className={`flex items-center gap-2 border-r pr-3 text-[0.78rem] ${isDark ? "border-white/10 text-white/70" : "border-[var(--color-border)] text-[var(--color-text-muted)]"}`}>
-              <span style={{ color: GOLD }}>
+              <span style={{ color: iconTone(isDark) }}>
                 <GenIcon name={SPEC_ICONS[index % SPEC_ICONS.length]} className="h-4 w-4 shrink-0" />
               </span>
               {item.label.replace(/^\*\s*/, "")}
@@ -154,19 +155,22 @@ export default function EngineCodes({ data }) {
   ) : null;
 
   return (
-    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 8)}`}>
-      <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
+    <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 8)}`}>
+      <SectionHeaderBand
+        title="Engine Codes"
+        image={{ src: "/sec2-bg.webp", alt: "" }}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 8)}
+        panelRgb={sectionPanelRgb(isDark, 8)}
+      />
+      <div className="relative mx-auto w-full max-w-8xl px-4 pb-8 pt-5 md:px-8 md:pb-10 md:pt-6">
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-12">
           <div className="lg:col-span-8">
-            <SectionLabel number={8} isDark={isDark} />
-            <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              Engine Codes
-            </h2>
             {data.matchNote ? (
-              <p className={`mt-3 text-[0.78rem] ${isDark ? "text-white/55" : "text-[var(--color-text-soft)]"}`} dangerouslySetInnerHTML={{ __html: data.matchNote }} />
+              <p className={`text-[0.78rem] ${isDark ? "text-white/55" : "text-[var(--color-text-soft)]"}`} dangerouslySetInnerHTML={{ __html: data.matchNote }} />
             ) : null}
 
-            <div className="mt-6 grid grid-cols-4 gap-1.5 md:hidden">
+            <div className={`grid grid-cols-4 gap-1.5 md:hidden ${data.matchNote ? "mt-6" : ""}`}>
               {rows.map((row, index) => (
                 <button
                   key={row.engineCode}
@@ -191,7 +195,7 @@ export default function EngineCodes({ data }) {
             <div className="mt-6 hidden overflow-hidden rounded-xl border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-lg backdrop-blur md:block">
               <div
                 className={`grid ${DESKTOP_COLS} gap-px px-2 py-2.5 text-[0.78rem] font-semibold text-white ${headerBg}`}
-                style={isDark ? undefined : { backgroundColor: GOLD }}
+                style={{ backgroundColor: chromeBg(isDark) }}
               >
                 {data.columns?.map((col, index) => (
                   <span key={col} className={`px-2 ${index > 0 ? `border-l ${headerDivider}` : ""}`}>

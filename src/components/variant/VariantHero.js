@@ -5,6 +5,10 @@ import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/section
 import { useTheme } from "@/components/shared/themeProvider";
 import HeroRegLookup from "@/components/shared/HeroRegLookup";
 import GenIcon from "../generation/GenIcons";
+import { iconTone, variantModelImage } from "./variantTheme";
+
+const IMAGE_CLIP = "polygon(52% 0%, 100% 0%, 100% 100%, 38% 100%)";
+const LEFT_CLIP = "polygon(0 0, 52.15% 0, 38.15% 100%, 0 100%)";
 
 const BADGE_ICON_BY_EMOJI = {
   "🔧": "wrench",
@@ -28,8 +32,6 @@ function splitTagPill(tagPill = "") {
   return { model: parts[0] || "", body: parts[1] || "", years: parts[2] || "" };
 }
 
-// Renders the trailing "Compare ... " action phrase after a dash in the H1
-// as the blue accent color, matching the hero mockup.
 function HeroHeadline({ h1 = "" }) {
   const dashIndex = h1.indexOf(" - ");
   if (dashIndex === -1) return <span dangerouslySetInnerHTML={{ __html: h1 }} />;
@@ -44,14 +46,15 @@ function HeroHeadline({ h1 = "" }) {
   );
 }
 
-export default function VariantHero({ data }) {
+export default function VariantHero({ data, parent = "" }) {
   const { theme } = useTheme();
 
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const heroImage = isDark ? "/320d/hero_dark.webp" : "/320d/hero_light.webp";
-  const heroImageMobile = isDark ? "/320d/hero_mobile_dark1.webp" : "/320d/hero_mobile_light1.webp";
+  const tone = iconTone(isDark);
+  const panelBg = isDark ? "#070706" : "#EFEEE9";
+  const heroSrc = variantModelImage(parent, data.tagPill);
   const price = splitPriceAnchor(data.priceAnchor);
   const pill = splitTagPill(data.tagPill);
   const tickerItems = (data.ticker || "").replace(/^●\s*/, "").split(" · ").filter(Boolean);
@@ -60,15 +63,13 @@ export default function VariantHero({ data }) {
   const bodyTextClass = isDark ? "text-white/85" : "text-[var(--color-text-muted)]";
   const cardBorderClass = isDark ? "border-white/20" : "border-[var(--color-border)]";
   const cardBgClass = isDark ? "bg-[rgba(10,10,10,0.55)]" : "bg-[rgba(255,255,255,0.7)]";
-  const tagPillClass = isDark ? "border-white/30 bg-[rgba(10,10,10,0.55)] text-white" : "border-[rgba(171,132,80,0.45)] bg-[rgba(255,255,255,0.75)] text-[var(--color-text)]";
-  // Stronger contrast than the plain --color-border token, since these sit on
-  // a translucent card over a busy photo background rather than a solid surface.
+  const tagPillClass = isDark
+    ? "border-white/30 bg-[rgba(10,10,10,0.55)] text-white"
+    : "border-[rgba(171,132,80,0.45)] bg-[rgba(255,255,255,0.75)] text-[var(--color-text)]";
   const dividerClass = isDark ? "bg-white/35" : "bg-[rgba(7,24,39,0.25)]";
   const dividerBorderClass = isDark ? "border-white/35" : "border-[rgba(7,24,39,0.25)]";
   const badgeTextClass = isDark ? "text-white/85" : "text-[var(--color-text)]";
 
-  // Desktop: single row over the hero image, floating vertical dividers between every item.
-  // Self-hides on mobile so it can stay embedded in the hero section for both breakpoints.
   const desktopTrustBadges = data.trustBadges?.length > 0 ? (
     <div className={`hidden rounded-md border ${cardBorderClass} ${cardBgClass} p-4 backdrop-blur-sm md:block`}>
       <div className="flex items-stretch py-1.5">
@@ -80,7 +81,7 @@ export default function VariantHero({ data }) {
                 <span aria-hidden="true" className={`mx-4 my-1 w-px shrink-0 self-center ${dividerClass}`} style={{ height: "70%" }} />
               ) : null}
               <div className="flex w-full items-center gap-2.5 text-left">
-                <span style={{ color: GOLD }}>
+                <span style={{ color: tone }}>
                   <GenIcon name={icon} className="h-7 w-7 shrink-0" />
                 </span>
                 <span className={`text-[0.88rem] leading-[1.3] ${badgeTextClass}`}>{label}</span>
@@ -92,8 +93,6 @@ export default function VariantHero({ data }) {
     </div>
   ) : null;
 
-  // Mobile: single-row 4-column icon-on-top grid, rendered below the hero image
-  // (not overlapping the car) in normal page flow.
   const mobileTrustBadges = data.trustBadges?.length > 0 ? (
     <div className={`rounded-md border ${cardBorderClass} ${cardBgClass} p-2 backdrop-blur-sm md:hidden`}>
       <div className="grid grid-cols-4 gap-x-1 text-center">
@@ -104,7 +103,7 @@ export default function VariantHero({ data }) {
               key={badge}
               className={`flex flex-col items-center gap-1 px-0.5 ${index > 0 ? `border-l ${dividerBorderClass}` : ""}`}
             >
-              <span style={{ color: GOLD }}>
+              <span style={{ color: tone }}>
                 <GenIcon name={icon} className="h-5 w-5 shrink-0" />
               </span>
               <span className={`text-[0.58rem] leading-tight ${badgeTextClass}`}>{label}</span>
@@ -115,11 +114,9 @@ export default function VariantHero({ data }) {
     </div>
   ) : null;
 
-  // Price/code row, shared by the mobile "engine summary" card and the
-  // desktop combined card.
   const priceRow = data.priceAnchor ? (
     <div className="flex flex-wrap items-center gap-2 text-[0.74rem] md:text-[0.92rem]">
-      <span style={{ color: GOLD }}>
+      <span style={{ color: tone }}>
         <GenIcon name="tag" className="h-4 w-4 shrink-0 md:h-5 md:w-5" />
       </span>
       <span className={`font-semibold ${headingClass}`}>{price.headline}</span>
@@ -127,19 +124,17 @@ export default function VariantHero({ data }) {
     </div>
   ) : null;
 
-  // Yellow GB plate → /quote?reg=… (vehicle fetch happens on the quote page).
   const registrationRow = (
     <HeroRegLookup
       ctaLabel={data.registrationInput?.cta?.label || "Get Instant Quote →"}
       className="max-w-none"
+      buttonClassName="!bg-[#0a0a0a] hover:!bg-[#1a1a1a]"
     />
   );
 
-  // Mobile: two distinct stacked cards (engine summary, then the reg/quote form).
-  // Icon sits left, vertically centered against both text lines.
   const mobileEngineSummaryCard = data.priceAnchor ? (
     <div className={`mt-1.5 flex w-full items-center gap-3 rounded-md border ${cardBorderClass} ${cardBgClass} p-2.5 backdrop-blur-sm md:hidden`}>
-      <span style={{ color: GOLD }}>
+      <span style={{ color: tone }}>
         <GenIcon name="tag" className="h-4 w-4 shrink-0" />
       </span>
       <div className="flex min-w-0 flex-col gap-0.5">
@@ -155,7 +150,6 @@ export default function VariantHero({ data }) {
     </div>
   );
 
-  // Desktop: single combined card (price/codes row over the reg/quote row).
   const desktopQuoteWidget = (
     <div className={`hidden w-full flex-col gap-4 rounded-md border ${cardBorderClass} ${cardBgClass} p-5 backdrop-blur-sm md:flex`}>
       {priceRow}
@@ -165,7 +159,7 @@ export default function VariantHero({ data }) {
 
   const tagPill = (
     <span className={`inline-flex w-fit max-w-full flex-wrap items-center gap-x-2 gap-y-1 rounded-md border px-3 py-2 text-[0.82rem] leading-[1.35] md:px-2.5 md:py-1.5 md:text-[0.78rem] ${tagPillClass}`}>
-      <span style={{ color: GOLD }}>
+      <span style={{ color: tone }}>
         <GenIcon name="car" className="h-3.5 w-3.5 shrink-0" />
       </span>
       <strong className="font-semibold" style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: pill.model }} />
@@ -190,13 +184,12 @@ export default function VariantHero({ data }) {
 
   return (
     <>
-      {/* MOBILE: generation-style flow — copy → faded image → CTA/widgets */}
+      {/* MOBILE */}
       <section className={`relative w-full overflow-hidden md:hidden ${headingClass} ${homeSectionBg(isDark, 1)}`}>
         <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6">
           {tagPill}
 
           <div className="mt-5 flex max-w-[640px] flex-col gap-3">
-            <SectionFadeStrip isDark={isDark} />
             <h1 className={`font-lora text-[2rem] font-medium leading-[1.08] tracking-normal ${headingClass}`}>
               <HeroHeadline h1={data.h1} />
             </h1>
@@ -205,9 +198,8 @@ export default function VariantHero({ data }) {
 
           <p className={`mt-3 max-w-[600px] text-[0.88rem] leading-[1.45] ${bodyTextClass}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
 
-          {/* Wall-to-wall image with top/bottom fade */}
           <div className="relative left-1/2 mt-5 aspect-[16/10] w-screen -translate-x-1/2 overflow-hidden">
-            <Image src={heroImageMobile} alt="" fill className="object-cover object-center" sizes="100vw" priority />
+            <Image src={heroSrc} alt="" fill unoptimized className="object-cover object-center" sizes="100vw" priority />
             <div
               className={
                 isDark
@@ -248,27 +240,59 @@ export default function VariantHero({ data }) {
         </div>
       </section>
 
-      {/* DESKTOP: content-sized overlay hero (no fixed viewport height) */}
-      <section className={`relative hidden w-full overflow-hidden md:block ${headingClass} ${homeSectionBg(isDark, 1)}`}>
-        <div className="absolute inset-0">
-          <Image src={heroImage} alt="" fill className="object-cover object-[68%_center]" sizes="100vw" priority />
-          {isDark ? (
-            <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(0,0,0,0.9)_0%,rgba(0,0,0,0.62)_42%,rgba(0,0,0,0.2)_75%)]" />
-          ) : null}
+      {/* DESKTOP: model-hero diagonal gold split + model image */}
+      <section
+        className={`relative hidden left-1/2 w-screen -translate-x-1/2 overflow-hidden md:block ${headingClass} ${
+          isDark ? "bg-[#070706]" : "bg-[#EFEEE9]"
+        } md:min-h-[620px]`}
+      >
+        <div
+          className="pointer-events-none absolute inset-0 z-[1]"
+          style={{ backgroundColor: panelBg, clipPath: LEFT_CLIP }}
+          aria-hidden="true"
+        />
+
+        <div className="absolute inset-0 z-0" style={{ clipPath: IMAGE_CLIP }} aria-hidden="true">
+          <Image
+            src={heroSrc}
+            alt=""
+            fill
+            unoptimized
+            priority
+            className="object-cover object-[70%_center]"
+            sizes="100vw"
+          />
         </div>
 
-        <div className="relative mx-auto flex w-full max-w-8xl flex-col px-8 pb-6 pt-5">
-          <div className="flex w-full max-w-[640px] flex-col gap-2">
+        <svg
+          className="pointer-events-none absolute inset-0 z-[2] h-full w-full"
+          viewBox="0 0 100 100"
+          preserveAspectRatio="none"
+          aria-hidden="true"
+        >
+          <line
+            x1="52.1"
+            y1="0"
+            x2="38.1"
+            y2="100"
+            stroke={GOLD}
+            strokeWidth="2.5"
+            strokeLinecap="round"
+            vectorEffect="non-scaling-stroke"
+          />
+        </svg>
+
+        <div className="relative z-10 mx-auto flex w-full max-w-8xl flex-col px-8 pb-6 pt-8 md:min-h-[620px] md:justify-center">
+          <div className="flex w-full max-w-[560px] flex-col gap-2">
             {tagPill}
-            <SectionFadeStrip isDark={isDark} />
-            <h1 className={`font-lora text-[2.6rem] font-medium leading-[1.08] tracking-normal ${headingClass}`}>
+            <h1 className={`mt-3 font-lora text-[2.6rem] font-medium leading-[1.08] tracking-normal ${headingClass}`}>
               <HeroHeadline h1={data.h1} />
             </h1>
             <SectionFadeStrip isDark={isDark} />
-            <p className={`max-w-[560px] text-[0.92rem] leading-[1.35] ${bodyTextClass}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
+            <p className={`mt-2 max-w-[520px] text-[0.92rem] leading-[1.35] ${bodyTextClass}`} dangerouslySetInnerHTML={{ __html: data.subHeadline }} />
           </div>
 
-          <div className="mt-4 flex w-full max-w-[820px] flex-col gap-2">
+          <div className="mt-5 flex w-full max-w-[820px] flex-col gap-2">
             {desktopTrustBadges}
             {desktopQuoteWidget}
           </div>

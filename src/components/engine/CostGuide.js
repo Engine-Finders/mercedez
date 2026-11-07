@@ -152,23 +152,21 @@ function CompareCta({ cta, engineCode, desktop = false, isDark }) {
 
   if (desktop) {
     return (
-      <article className={`flex h-full flex-col justify-between rounded-xl p-4 text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}>
-        <div>
-          <span className="flex h-10 w-10 items-center justify-center rounded-full border border-white/35 bg-white/10 text-white">
-            <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.9">
-              <path d="M5 19V9m5 10V5m5 14v-7m5 7H3" />
-            </svg>
-          </span>
-          <p className="mt-4 text-[18px] font-bold leading-[1.2]">
-            Compare Prices from UK specialists
-          </p>
-          <p className="mt-2 text-[13px] leading-[1.4] text-white/85">
-            Get live pricing from 20+ trusted engine suppliers.
-          </p>
-        </div>
+      <article className={`flex flex-col rounded-xl p-4 text-white ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}>
+        <span className="flex h-10 w-10 items-center justify-center rounded-full border border-white/35 bg-white/10 text-white">
+          <svg aria-hidden="true" viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.9">
+            <path d="M5 19V9m5 10V5m5 14v-7m5 7H3" />
+          </svg>
+        </span>
+        <p className="mt-3 text-[18px] font-bold leading-[1.2]">
+          Compare Prices from UK specialists
+        </p>
+        <p className="mt-2 text-[13px] leading-[1.4] text-white/85">
+          Get live pricing from 20+ trusted engine suppliers.
+        </p>
         <Link
           href="/quote"
-          className={`mt-5 inline-flex min-h-11 items-center justify-center rounded-lg px-4 text-[13px] font-bold uppercase tracking-[0.04em] ${isDark ? "bg-[var(--color-surface)] text-white" : "bg-[var(--color-surface)] text-[var(--color-text)]"}`}
+          className={`mt-4 inline-flex min-h-11 items-center justify-center rounded-lg px-4 text-[13px] font-bold uppercase tracking-[0.04em] ${isDark ? "bg-[var(--color-surface)] text-white" : "bg-[var(--color-surface)] text-[var(--color-text)]"}`}
         >
           Compare Prices →
         </Link>
@@ -208,7 +206,7 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
     <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden py-6 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 5)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
           {/* Desktop */}
-          <div className="hidden gap-4 md:grid md:grid-cols-[minmax(240px,0.85fr)_minmax(0,1.7fr)] md:items-stretch">
+          <div className="hidden gap-4 md:grid md:grid-cols-[minmax(240px,0.85fr)_minmax(0,1.7fr)] md:items-start">
             <div className="flex flex-col">
               <h2 className={`font-lora ${sectionH2} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 <span style={{ color: GOLD }}>{engineCode}</span> Engine Price Guide
@@ -216,41 +214,43 @@ export default function CostGuide({ data, engineLabel = "Jaguar Engine" }) {
               <div className="mt-3">
                 <SectionLabel isDark={isDark} />
               </div>
-              <p className={`mt-4 ${sectionDescription} text-[var(--color-text-muted)]`}>
+              <p className="mt-4 text-[13px] leading-snug text-[var(--color-text-muted)] md:text-[15px] md:leading-[1.35]">
                 All prices are estimates from UK specialists{" "}
                 <span className="font-semibold" style={{ color: GOLD }}>{quoteTag}</span>
               </p>
 
               {data.labourEstimate ? (
-                <div className="mt-4 rounded-xl border border-[var(--color-border)] bg-[rgba(171,132,80,0.12)] px-3.5 py-3">
-                  <div className="flex items-start gap-2.5">
+                <div className="mt-3 rounded-xl border border-[var(--color-border)] bg-[rgba(171,132,80,0.12)] px-3 py-2.5">
+                  <div className="flex items-start gap-2">
                     <span
-                      className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[12px] font-bold"
+                      className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full border text-[11px] font-bold"
                       style={{ borderColor: iconColor(isDark), color: iconColor(isDark) }}
                     >
                       i
                     </span>
-                    <p className={`leading-[1.4] text-[var(--color-text-muted)] ${sectionSmall}`}>
+                    <p className="text-[12px] leading-snug text-[var(--color-text-muted)] md:text-[13px] md:leading-[1.35]">
                       {renderTaggedText(data.labourEstimate)}
                     </p>
                   </div>
                 </div>
               ) : null}
 
-              <div className="mt-auto flex items-center gap-2 pt-4">
+              <div className="mt-3 flex items-center gap-2">
                 <span
-                  className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)]"
+                  className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full border bg-[rgba(171,132,80,0.12)]"
                   style={{ borderColor: iconColor(isDark), color: iconColor(isDark) }}
                 >
-                  <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth="1.9">
+                  <svg aria-hidden="true" viewBox="0 0 24 24" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="1.9">
                     <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
                   </svg>
                 </span>
-                <p className={`text-[var(--color-text-soft)] ${sectionSmall}`}>{exclusiveNote}</p>
+                <p className="text-[12px] leading-snug text-[var(--color-text-soft)] md:text-[13px] md:leading-[1.35]">
+                  {exclusiveNote}
+                </p>
               </div>
             </div>
 
-            <div className="grid grid-cols-4 gap-3">
+            <div className="grid grid-cols-4 items-start gap-3">
               {rows.map((row) => (
                 <PriceCard
                   key={row.condition}

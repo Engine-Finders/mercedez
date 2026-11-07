@@ -5,6 +5,7 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
 const pointIcons = ["shield", "scale", "truck"];
 
@@ -27,10 +28,10 @@ export default function TrustCta({ data }) {
   return (
     <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 11)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <SectionLabel number={11} isDark={isDark} />
         <h2 className={`font-lora max-w-[720px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${headingClass}`}>
           {data.h2}
         </h2>
+        <SectionLabel isDark={isDark} />
 
         {data.trustPoints?.length > 0 ? (
           <ul className="mt-6 grid grid-cols-1 gap-6 md:grid-cols-3">
@@ -76,7 +77,7 @@ export default function TrustCta({ data }) {
                   <a
                     href="/quote"
                     className="btn-cta flex w-full shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-lg px-4 py-2.5 text-center text-[0.74rem] font-bold text-white no-underline shadow-[0_12px_28px_rgba(0,0,0,0.35)] md:w-auto md:px-6 md:py-3 md:text-[0.8rem]"
-                    style={{ backgroundColor: GOLD }}
+                    style={{ backgroundColor: chromeBg(isDark) }}
                   >
                     {data.ctaButton.label.replace(/\s*→\s*$/, "")}
                     <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
@@ -112,7 +113,7 @@ export default function TrustCta({ data }) {
                         />
                       ) : null}
                       <div className="flex flex-1 items-center gap-2.5">
-                        <span style={{ color: GOLD }}>
+                        <span style={{ color: iconTone(isDark) }}>
                           <GenIcon name={item.icon} className="h-5 w-5 shrink-0" />
                         </span>
                         <div className="min-w-0">
@@ -138,7 +139,7 @@ export default function TrustCta({ data }) {
                   />
                 ) : null}
                 <div className="flex items-center gap-2.5">
-                  <span style={{ color: GOLD }}>
+                  <span style={{ color: iconTone(isDark) }}>
                     <GenIcon name={item.icon} className="h-5 w-5 shrink-0" />
                   </span>
                   <div className="min-w-0">

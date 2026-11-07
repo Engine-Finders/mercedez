@@ -42,20 +42,20 @@ function ModelCard({ item, isDark }) {
   return (
     <Link
       href={href}
-      className={`flex items-center gap-2 rounded-lg border py-1.5 pl-1.5 pr-3 no-underline shadow-[0_2px_10px_rgba(0,0,0,0.04)] transition hover:no-underline hover:opacity-95 md:gap-4 md:px-4 md:py-1.5 ${
+      className={`flex items-center gap-1.5 rounded-lg border py-1.5 pl-1.5 pr-3 no-underline shadow-[0_2px_10px_rgba(0,0,0,0.04)] transition hover:no-underline hover:opacity-95 md:gap-4 md:px-4 md:py-1.5 ${
         isDark
           ? "border-white/10 bg-[var(--color-surface-raised)]"
           : "border-[#E5E5E5] bg-white"
       }`}
     >
-      <div className="relative h-[72px] w-[46%] shrink-0 overflow-hidden md:h-[88px] md:w-[42%]">
+      <div className="relative h-[72px] w-[34%] shrink-0 overflow-hidden md:h-[88px] md:w-[42%]">
         <Image
           src={item.image.src}
           alt={item.image.alt}
           fill
           unoptimized
           className="object-contain object-left md:object-center"
-          sizes="(max-width:768px) 46vw, 180px"
+          sizes="(max-width:768px) 34vw, 180px"
         />
       </div>
 

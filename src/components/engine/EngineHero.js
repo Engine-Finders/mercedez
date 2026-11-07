@@ -215,7 +215,7 @@ export default function EngineHero({ data }) {
 
         {data.trustStrip?.length > 0 ? (
           <ul
-            className={`relative z-10 mt-3 grid grid-cols-2 gap-2.5 md:mt-[-5px] md:grid-cols-4 md:gap-0 md:overflow-hidden md:rounded-2xl md:border md:shadow-[0_22px_56px_rgba(0,0,0,0.24)] ${
+            className={`relative z-10 mt-3 grid grid-cols-2 gap-2.5 md:mt-[4px] md:grid-cols-4 md:gap-0 md:overflow-hidden md:rounded-2xl md:border md:shadow-[0_22px_56px_rgba(0,0,0,0.24)] ${
               isDark
                 ? "md:border-white/14 md:bg-[linear-gradient(180deg,rgba(18,18,18,0.85)_0%,rgba(10,10,10,0.92)_100%)]"
                 : "md:border-[rgba(171,132,80,0.16)] md:bg-[linear-gradient(180deg,rgba(255,255,255,0.82)_0%,rgba(248,247,243,0.94)_100%)]"
