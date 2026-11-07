@@ -5,10 +5,11 @@ import {
   Geographies,
   Geography,
 } from "@vnedyalk0v/react19-simple-maps";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { iconTone } from "@/components/variant/variantTheme";
 import ukRegionsTopo from "@/data/maps/uk-regions-topo.json";
 
 const ITEM_ICONS = ["warning", "gauge", "dollar", "tag", "clock", "chart"];
@@ -175,15 +176,17 @@ export default function MarketIntelligence({ data }) {
   const { regions, tag } = regionalItem ? parseRegionalDemand(regionalItem.value) : { regions: [], tag: "" };
 
   return (
-    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 9)}`}>
-      <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
+    <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 9)}`}>
+      <SectionHeaderBand
+        title="Market Intelligence"
+        image={{ src: "/sec2-bg.webp", alt: "" }}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 9)}
+        panelRgb={sectionPanelRgb(isDark, 9)}
+      />
+      <div className="relative mx-auto w-full max-w-8xl px-4 pb-8 pt-5 md:px-8 md:pb-10 md:pt-6">
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-12">
           <div className="lg:col-span-8">
-            <SectionLabel number={9} isDark={isDark} />
-            <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              Market Intelligence
-            </h2>
-
             {items.length > 0 ? (
               <div className="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-3">
                 {items.map((item, index) => {
@@ -198,7 +201,7 @@ export default function MarketIntelligence({ data }) {
                         <div className="flex items-center gap-3">
                           <span
                             className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full"
-                            style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}
+                            style={{ backgroundColor: "rgba(171,132,80,0.18)", color: iconTone(isDark) }}
                           >
                             <GenIcon name="chart" className="h-4.5 w-4.5" />
                           </span>

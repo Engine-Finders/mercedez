@@ -5,6 +5,7 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { iconTone, variantModelImage } from "@/components/variant/variantTheme";
 
 const ITEM_ICONS = ["ear", "clipboardCheck", "cloud", "fan", "exhaust", "oilDrop", "engineWarning", "clipboardSearch"];
 
@@ -35,20 +36,19 @@ function TrustCard({ className = "", isDark }) {
   );
 }
 
-export default function BuyingChecklist({ data }) {
+export default function BuyingChecklist({ data, parent = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const image = isDark ? "/320d/checklist_dark.webp" : "/320d/checklist_light.webp";
-  const imageMobile = isDark ? "/320d/checklist_mobile_dark.webp" : "/320d/checklist_mobile_light.webp";
+  const image = variantModelImage(parent);
   const headingClass = isDark ? "text-white" : "text-[var(--color-text)]";
   const bodyTextClass = isDark ? "text-white/80" : "text-[var(--color-text-muted)]";
 
   return (
     <section className={`relative w-full overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 7)}`}>
       <div className="relative h-[220px] w-full md:hidden">
-        <Image src={imageMobile} alt="" fill className="object-cover" sizes="100vw" />
+        <Image src={image} alt="" fill className="object-cover object-center" sizes="100vw" unoptimized />
         <div
           className={
             isDark
@@ -59,7 +59,7 @@ export default function BuyingChecklist({ data }) {
       </div>
 
       <div className="absolute inset-0 hidden md:block">
-        <Image src={image} alt="" fill className="object-cover object-right" sizes="100vw" />
+        <Image src={image} alt="" fill className="object-cover object-right" sizes="100vw" unoptimized />
         {isDark ? (
           <>
             <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,17,0.95)_0%,rgba(2,7,17,0.75)_38%,rgba(2,7,17,0.25)_75%)]" />
@@ -73,8 +73,8 @@ export default function BuyingChecklist({ data }) {
       <div className="relative z-10 mx-auto w-full max-w-8xl px-4 py-8 md:px-8 md:py-10 lg:pr-[400px]">
         <div className="flex flex-col gap-5 lg:max-w-[720px]">
           <div>
-            <SectionLabel number={7} isDark={isDark} />
             <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${headingClass}`}>Buying Checklist</h2>
+            <SectionLabel isDark={isDark} />
             {data.intro ? (
               <p className={`mt-4 max-w-[560px] text-[0.88rem] leading-[1.5] md:text-[1rem] ${bodyTextClass}`} dangerouslySetInnerHTML={{ __html: data.intro }} />
             ) : null}
@@ -89,7 +89,7 @@ export default function BuyingChecklist({ data }) {
                     <span className="absolute left-3 top-3 flex h-6 w-6 shrink-0 items-center justify-center rounded-md text-[0.7rem] font-bold text-white" style={{ backgroundColor: GOLD }}>
                       {index + 1}
                     </span>
-                    <span className="mt-2" style={{ color: GOLD }}>
+                    <span className="mt-2" style={{ color: iconTone(isDark) }}>
                       <GenIcon name={ITEM_ICONS[index % ITEM_ICONS.length]} className="h-10 w-10" />
                     </span>
                     <p className="text-[0.92rem] font-bold leading-tight text-[var(--color-text)]">{label}</p>

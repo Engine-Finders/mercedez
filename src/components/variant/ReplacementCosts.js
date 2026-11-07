@@ -1,10 +1,11 @@
 "use client";
 
 import { useState } from "react";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
 const ROW_ICONS = ["tag", "refresh", "wrench", "crown"];
 const DESKTOP_COLS = "grid-cols-[1.2fr_1fr_1fr_0.9fr_1.4fr]";
@@ -18,7 +19,7 @@ function DesktopRow({ row, icon, isDark }) {
   return (
     <div className={`grid ${DESKTOP_COLS} items-center gap-px ${rowClass} px-2 py-3 text-[0.82rem] border-b ${borderBottom} last:border-b-0`}>
       <span className="flex items-center gap-2 px-2 font-semibold">
-        <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full" style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}>
+        <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full" style={{ backgroundColor: "rgba(171,132,80,0.18)", color: iconTone(isDark) }}>
           <GenIcon name={icon} className="h-3.5 w-3.5" />
         </span>
         <span dangerouslySetInnerHTML={{ __html: row.engineType }} />
@@ -26,7 +27,7 @@ function DesktopRow({ row, icon, isDark }) {
       <span className={`px-2 border-l ${cellDivider} ${mutedText}`} dangerouslySetInnerHTML={{ __html: row.supplyOnly }} />
       <span className={`px-2 border-l ${cellDivider} ${mutedText}`} dangerouslySetInnerHTML={{ __html: row.fittedIndie }} />
       <span className={`flex items-center gap-1.5 px-2 border-l ${cellDivider}`}>
-        <span style={{ color: GOLD }}>
+        <span style={{ color: iconTone(isDark) }}>
           <GenIcon name="shield" className="h-3.5 w-3.5 shrink-0" />
         </span>
         <span dangerouslySetInnerHTML={{ __html: row.warranty }} />
@@ -36,7 +37,7 @@ function DesktopRow({ row, icon, isDark }) {
   );
 }
 
-function AccordionRow({ row, icon, isOpen, onToggle }) {
+function AccordionRow({ row, icon, isOpen, onToggle, isDark }) {
   return (
     <div
       className={`overflow-hidden rounded-xl border shadow-sm bg-[var(--color-surface)] ${
@@ -54,7 +55,7 @@ function AccordionRow({ row, icon, isOpen, onToggle }) {
             <p className="mt-0.5 truncate text-[0.74rem] text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: row.bestFor }} />
           </div>
         </div>
-        <span style={{ color: GOLD }}>
+        <span style={{ color: iconTone(isDark) }}>
           <GenIcon name="chevronDown" className={`h-4 w-4 shrink-0 transition-transform ${isOpen ? "rotate-180" : ""}`} />
         </span>
       </button>
@@ -69,7 +70,7 @@ function AccordionRow({ row, icon, isOpen, onToggle }) {
           ].map((item) => (
             <div key={item.label} className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 border-t border-[var(--color-border)] pt-2.5">
               <span className="flex items-center gap-1.5 text-[var(--color-text-muted)]">
-                <span style={{ color: GOLD }}>
+                <span style={{ color: iconTone(isDark) }}>
                   <GenIcon name={item.icon} className="h-3.5 w-3.5 shrink-0" />
                 </span>
                 {item.label}
@@ -98,14 +99,16 @@ export default function ReplacementCosts({ data }) {
   const bodyWrapperBg = isDark ? "bg-black" : "bg-[var(--color-table-surface)]";
 
   return (
-    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 3)}`}>
-      <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <SectionLabel number={3} isDark={isDark} />
-        <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-          {data.h2}
-        </h2>
-
-        <div className="mt-6 flex flex-col gap-3 md:hidden">
+    <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 3)}`}>
+      <SectionHeaderBand
+        title={data.h2}
+        image={{ src: "/sec2-bg.webp", alt: "" }}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 3)}
+        panelRgb={sectionPanelRgb(isDark, 3)}
+      />
+      <div className="relative mx-auto w-full max-w-8xl px-4 pb-8 pt-5 md:px-8 md:pb-10 md:pt-6">
+        <div className="flex flex-col gap-3 md:hidden">
           {data.rows?.map((row, index) => (
             <AccordionRow
               key={row.engineType}
@@ -113,6 +116,7 @@ export default function ReplacementCosts({ data }) {
               icon={ROW_ICONS[index % ROW_ICONS.length]}
               isOpen={openIndex === index}
               onToggle={() => setOpenIndex(openIndex === index ? null : index)}
+              isDark={isDark}
             />
           ))}
         </div>
@@ -120,7 +124,7 @@ export default function ReplacementCosts({ data }) {
         <div className="mt-6 hidden overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:block">
           <div
             className={`grid ${DESKTOP_COLS} gap-px px-2 py-3 text-[0.82rem] font-semibold text-white ${headerBg}`}
-            style={isDark ? undefined : { backgroundColor: GOLD }}
+            style={{ backgroundColor: chromeBg(isDark) }}
           >
             {data.columns?.map((col, index) => (
               <span key={col} className={`px-2 ${index > 0 ? `border-l ${headerDivider}` : ""}`}>
@@ -141,7 +145,7 @@ export default function ReplacementCosts({ data }) {
               isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-white"
             }`}
           >
-            <span className="mt-0.5 shrink-0" style={{ color: GOLD }}>
+            <span className="mt-0.5 shrink-0" style={{ color: iconTone(isDark) }}>
               <GenIcon name="info" className="h-5 w-5" />
             </span>
             <p className={`text-[0.82rem] leading-[1.5] ${isDark ? "text-white/75" : "text-[var(--color-text-muted)]"}`} dangerouslySetInnerHTML={{ __html: data.figuresNote }} />
@@ -185,7 +189,7 @@ export default function ReplacementCosts({ data }) {
               <a
                 href="/quote"
                 className="btn-cta flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-xl px-4 py-2.5 text-[0.8rem] font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
-                style={{ backgroundColor: GOLD }}
+                style={{ backgroundColor: chromeBg(isDark) }}
               >
                 <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
                 {data.cta.label}
@@ -198,7 +202,7 @@ export default function ReplacementCosts({ data }) {
           <a
             href="/quote"
             className="btn-cta mt-4 flex w-full items-center justify-center gap-2 rounded-xl px-3 py-2.5 text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] md:hidden"
-            style={{ backgroundColor: GOLD }}
+            style={{ backgroundColor: chromeBg(isDark) }}
           >
             <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
             <span className="whitespace-nowrap text-center text-[0.78rem] font-bold">{data.cta.label}</span>

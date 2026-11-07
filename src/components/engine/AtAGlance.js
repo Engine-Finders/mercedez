@@ -10,8 +10,8 @@ import {
   sectionBody,
   sectionDescription,
   sectionH2,
+  sectionH4,
   sectionH5,
-  sectionHighlight,
   sectionSmall,
 } from "@/components/models/sectionTypography";
 
@@ -59,9 +59,9 @@ function parseScore(value = "") {
 
 function verifiedParts(value = "") {
   const clean = cleanText(value);
-  const badge = clean.includes("[BMW-VERIFIED]");
+  const badge = /\[(?:BMW|MB)-VERIFIED\]/.test(clean);
   return {
-    text: clean.replace("[BMW-VERIFIED]", "").trim(),
+    text: clean.replace(/\[(?:BMW|MB)-VERIFIED\]/g, "").trim(),
     badge,
   };
 }
@@ -86,8 +86,23 @@ function VerifiedBadge() {
       <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2">
         <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />
       </svg>
-      BMW-VERIFIED
+      MB-VERIFIED
     </span>
+  );
+}
+
+function MercedesMark({ className = "h-8 w-8", tone }) {
+  const stroke = tone || GOLD;
+  return (
+    <svg aria-hidden="true" viewBox="0 0 100 100" className={className} fill="none">
+      <circle cx="50" cy="50" r="44" stroke={stroke} strokeWidth="5" />
+      <path
+        d="M50 50 L50 8 M50 50 L11.5 72.5 M50 50 L88.5 72.5"
+        stroke={stroke}
+        strokeWidth="5"
+        strokeLinecap="round"
+      />
+    </svg>
   );
 }
 
@@ -96,8 +111,8 @@ function CircleIcon({ metric, isDark, brand = false, compact = false }) {
     ? "h-10 w-10 md:h-[58px] md:w-[58px]"
     : "h-14 w-14 md:h-[58px] md:w-[58px]";
   const brandInnerClass = compact
-    ? "h-7 w-7 md:h-11 md:w-11"
-    : "h-10 w-10 md:h-11 md:w-11";
+    ? "h-6 w-6 md:h-9 md:w-9"
+    : "h-8 w-8 md:h-9 md:w-9";
   const svgClass = compact
     ? "h-5 w-5 md:h-8 md:w-8"
     : "h-7 w-7 md:h-8 md:w-8";
@@ -106,12 +121,7 @@ function CircleIcon({ metric, isDark, brand = false, compact = false }) {
   if (brand) {
     return (
       <span className={`flex shrink-0 items-center justify-center rounded-full border ${sizeClass} ${iconBorderClass(isDark)} ${iconBgClass(isDark)}`}>
-        <span className={`grid grid-cols-2 overflow-hidden rounded-full border border-[var(--color-border-strong)] ${brandInnerClass}`}>
-          <span className="bg-white" />
-          <span style={{ backgroundColor: tone }} />
-          <span style={{ backgroundColor: tone }} />
-          <span className="bg-white" />
-        </span>
+        <MercedesMark className={brandInnerClass} />
       </span>
     );
   }
@@ -170,7 +180,7 @@ function DesktopSmallCard({ metric, value, isDark }) {
           <p className={`font-medium uppercase leading-none tracking-[0.04em] ${sectionBadge} ${isDark ? "text-white/72" : "text-[var(--color-text-soft)]"}`}>{metric}</p>
           {score ? (
             <>
-              <p className={`mt-3 font-lora leading-none ${sectionH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+              <p className={`mt-3 font-lora leading-none ${sectionH4} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
                 <span style={{ color: GOLD }}>{score.score}</span>/{score.total}
               </p>
               <div className="mt-4">
@@ -237,12 +247,9 @@ function DesktopWideCard({ metric, value, text, isDark, imageType = "none" }) {
             <path d="M28 64v12h12m100-12v12h12M56 76a8 8 0 1 0 0 .1M124 76a8 8 0 1 0 0 .1" />
           </svg>
         ) : null}
-        {imageType === "bmw" ? (
-          <span className="absolute bottom-4 right-6 grid h-32 w-32 grid-cols-2 overflow-hidden rounded-full border border-[#AB8450] opacity-[0.14]">
-            <span className="bg-transparent" />
-            <span className="bg-[#AB8450]" />
-            <span className="bg-[#AB8450]" />
-            <span className="bg-transparent" />
+        {imageType === "mercedes" ? (
+          <span className="absolute bottom-3 right-4 opacity-[0.18]">
+            <MercedesMark className="h-28 w-28" />
           </span>
         ) : null}
       </div>
@@ -253,7 +260,7 @@ function DesktopWideCard({ metric, value, text, isDark, imageType = "none" }) {
 function TrustFooter({ isDark }) {
   const items = [
     {
-      title: "BMW-Verified Data",
+      title: "Mercedes-Verified Data",
       text: "Verified using real UK enquiries and workshop data.",
       path: <path d="M12 3 5 6v6c0 5 3.3 8.8 7 9 3.7-.2 7-4 7-9V6l-7-3Zm-2 9 1.6 1.6L15 10" />,
     },
@@ -320,7 +327,7 @@ function MobileRow({ metric, value, isDark }) {
       <div className="min-w-0">
         {score ? (
           <>
-            <p className={`font-lora leading-none ${sectionHighlight} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            <p className={`font-lora leading-none ${sectionH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               <span style={{ color: GOLD }}>{score.score}</span>/{score.total}
             </p>
             <div className="mt-2">
@@ -414,7 +421,7 @@ export default function AtAGlance({ data }) {
               value={rowMap["Cross-Brand Fitment"]}
               text="This engine family is engineered exclusively for Mercedes-Benz vehicles."
               isDark={isDark}
-              imageType="bmw"
+              imageType="mercedes"
             />
           </div>
 

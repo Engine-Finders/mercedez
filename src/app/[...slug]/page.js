@@ -242,13 +242,13 @@ export default async function CatchAllPage({ params }) {
             dangerouslySetInnerHTML={{ __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)) }}
           />
         )}
-        <VariantHero data={data.hero} />
+        <VariantHero data={data.hero} parent={entry.parent} />
         <EraMap data={data.eraMap} />
         <VarReplacementCosts data={data.replacementCosts} />
         <VarProblems data={data.commonProblems} />
-        <QuotesCta data={data.quotesCta} />
+        <QuotesCta data={data.quotesCta} parent={entry.parent} />
         <RepairBuyOrReplace data={data.repairBuyOrReplace} />
-        <BuyingChecklist data={data.buyingChecklist} />
+        <BuyingChecklist data={data.buyingChecklist} parent={entry.parent} />
         <EngineCodes data={data.engineCodes} />
         <VarMarketIntelligence data={data.marketIntelligence} />
         <VarFAQAccordion data={data.faq} />

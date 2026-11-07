@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useTheme } from "@/components/shared/themeProvider";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
@@ -114,15 +115,14 @@ function renderTaggedText(text = "") {
 }
 
 function StarRating({ value }) {
-  const full = Math.floor(value);
-  const hasHalf = value - full >= 0.25 && value - full < 0.75;
-  const roundedHalf = value - full >= 0.75;
-  const filled = roundedHalf ? full + 1 : full;
+  const clamped = Math.max(0, Math.min(5, Number(value) || 0));
 
   return (
     <div className="flex items-center gap-0.5 text-[#AB8450]" aria-hidden="true">
       {Array.from({ length: 5 }).map((_, index) => {
-        if (index < filled) {
+        const fill = Math.max(0, Math.min(1, clamped - index));
+
+        if (fill >= 0.99) {
           return (
             <span key={index} className="font-lora text-[16px] leading-none md:text-[20px]">
               ★
@@ -130,11 +130,17 @@ function StarRating({ value }) {
           );
         }
 
-        if (index === filled && hasHalf) {
+        if (fill >= 0.25) {
           return (
-            <span key={index} className="relative inline-block font-lora text-[16px] leading-none text-[var(--color-border-strong)] md:text-[20px]">
+            <span
+              key={index}
+              className="relative inline-block font-lora text-[16px] leading-none text-[var(--color-border-strong)] md:text-[20px]"
+            >
               ★
-              <span className="absolute inset-y-0 left-0 w-1/2 overflow-hidden text-[#AB8450]">
+              <span
+                className="absolute inset-y-0 left-0 overflow-hidden text-[#AB8450]"
+                style={{ width: `${Math.round(fill * 100)}%` }}
+              >
                 ★
               </span>
             </span>
@@ -281,10 +287,17 @@ function ScoreBreakdown({ scoreNote, scoreBreakdown, isDark }) {
     }))
     .filter((row) => row.dimension);
 
-  const bodyRows = parsedRows.filter((row) => !row.isTotal && row.dimension.toLowerCase() !== "total");
-  const totalRow = parsedRows.find((row) => row.isTotal || row.dimension.toLowerCase() === "total");
-  const totalPoints = totalRow?.points ?? bodyRows.reduce((sum, row) => sum + row.points, 0);
-  const totalOutOf = totalRow?.outOf ?? 100;
+  const bodyRows = parsedRows
+    .filter((row) => !row.isTotal && row.dimension.toLowerCase() !== "total")
+    .map((row) => ({
+      ...row,
+      points: Math.min(Number(row.points) || 0, 20),
+      outOf: 20,
+    }));
+
+  /** Always sum the 5 dimensions; scale max is 100 (5 × 20). */
+  const totalPoints = bodyRows.reduce((sum, row) => sum + row.points, 0);
+  const totalOutOf = 100;
 
   return (
     <article className={`overflow-hidden rounded-xl border ${cardClass(isDark)}`}>
@@ -314,7 +327,7 @@ function ScoreBreakdown({ scoreNote, scoreBreakdown, isDark }) {
             </div>
             <p className="shrink-0 pt-0.5 text-right leading-none">
               <span className={`font-bold ${sectionHighlight}`} style={{ color: GOLD }}>{row.points}</span>
-              <span className={`text-[11px] font-medium md:text-[13px] ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-muted)]"}`}> /{row.outOf}</span>
+              <span className={`text-[11px] font-medium md:text-[13px] ${isDark ? "text-[var(--color-text)]" : "text-[var(--color-text-muted)]"}`}> /20</span>
             </p>
           </div>
         ))}
@@ -356,11 +369,21 @@ export default function VerdictRating({ data }) {
         </div>
 
         {/* Desktop */}
-        <div className="mt-5 hidden gap-3 md:grid md:grid-cols-[0.95fr_1.05fr] md:items-start">
+        <div className="mt-5 hidden gap-4 md:grid md:grid-cols-[0.9fr_1.1fr] md:items-start">
           <div className="grid gap-3">
             <RatingCard starRating={data.starRating} confidence={data.confidence} isDark={isDark} />
             <VerdictQuote oneLineVerdict={data.oneLineVerdict} isDark={isDark} />
             <AdviceCards bestFor={data.bestFor} avoidIf={data.avoidIf} isDark={isDark} />
+            <div className="relative aspect-[21/6] w-full overflow-hidden rounded-xl">
+              <Image
+                src="/e90/engine.webp"
+                alt=""
+                fill
+                unoptimized
+                className="scale-[1.35] object-cover object-center"
+                sizes="(min-width: 768px) 40vw, 100vw"
+              />
+            </div>
           </div>
           <ScoreBreakdown scoreNote={data.scoreNote} scoreBreakdown={data.scoreBreakdown} isDark={isDark} />
         </div>

@@ -2,10 +2,11 @@
 
 import { Fragment } from "react";
 import Image from "next/image";
-import SectionLabel from "@/components/reusableComponents/SectionLabel";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
+import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
 const DESKTOP_COLS = "grid-cols-[1.6fr_0.9fr_1fr_1.7fr]";
 const MOBILE_COLS = "grid-cols-[220px_110px_140px_240px]";
@@ -36,7 +37,7 @@ function Table({ columns, rows, cols, headerBg, headerDivider, isDark, goldHeade
         <span
           key={col}
           className={`${headerBg} px-4 py-2.5 text-[0.72rem] font-semibold text-white ${index > 0 ? `border-l ${headerDivider}` : ""}`}
-          style={goldHeader ? { backgroundColor: GOLD } : undefined}
+          style={goldHeader ? { backgroundColor: chromeBg(isDark) } : undefined}
         >
           {col}
         </span>
@@ -93,64 +94,26 @@ export default function RepairBuyOrReplace({ data }) {
   if (!data) return null;
 
   const isDark = theme === "dark";
-  // Keep existing header images
-  const image = isDark ? "/320d/repair_dark.webp" : "/320d/repair_light.webp";
-  const imageMobile = isDark ? "/320d/repair_mobile_dark.webp" : "/320d/repair_mobile_light.webp";
   const headerBg = isDark ? "bg-[var(--color-chrome)]" : "";
   const headerDivider = isDark ? "border-white/20" : "border-white/25";
-  const headingClass = isDark ? "text-white" : "text-[var(--color-text)]";
-  const bodyTextClass = isDark ? "text-white/80" : "text-[var(--color-text-muted)]";
 
   return (
-    <section className={`w-full text-[var(--color-text)] ${homeSectionBg(isDark, 6)}`}>
-      {/* Mobile header image kept */}
-      <div className="relative w-full overflow-hidden md:hidden">
-        <div className="relative h-[220px] w-full">
-          <Image src={imageMobile} alt="" fill className="object-contain" sizes="100vw" priority />
-          <div
-            className={
-              isDark
-                ? "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-                : "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,#F8F7F3_0%,transparent_100%)]"
-            }
-          />
-        </div>
+    <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 6)}`}>
+      <SectionHeaderBand
+        title={data.h2}
+        subHeadline="Every engine has a story. Make the right call with clear data, real-world costs, and honest guidance from UK specialists."
+        image={{ src: "/sec2-bg.webp", alt: "" }}
+        isDark={isDark}
+        panelBg={sectionPanelBg(isDark, 6)}
+        panelRgb={sectionPanelRgb(isDark, 6)}
+      />
 
-        <div className="mx-auto w-full max-w-8xl px-4 pb-8">
-          <SectionLabel number={6} isDark={isDark} />
-          <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal ${headingClass}`}>{data.h2}</h2>
-          <p className={`mt-4 max-w-[560px] text-[0.88rem] leading-[1.45] ${bodyTextClass}`}>
-            Every engine has a story. Make the right call with clear data, real-world costs, and honest guidance from UK specialists.
-          </p>
-        </div>
-      </div>
-
-      {/* Desktop header image kept */}
-      <div className="relative hidden w-full overflow-hidden md:block">
-        <div className="absolute inset-0">
-          <Image src={image} alt="" fill className="object-cover object-right" sizes="100vw" />
-          {isDark ? (
-            <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,17,0.95)_0%,rgba(2,7,17,0.75)_45%,rgba(2,7,17,0.15)_85%)]" />
-          ) : (
-            <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(248,247,243,0.96)_0%,rgba(248,247,243,0.78)_45%,rgba(248,247,243,0.12)_85%)]" />
-          )}
-        </div>
-
-        <div className="relative mx-auto w-full max-w-8xl px-4 py-8 md:px-8 md:py-10">
-          <SectionLabel number={6} isDark={isDark} />
-          <h2 className={`font-lora max-w-[600px] text-[42px] font-medium leading-[1.08] tracking-normal ${headingClass}`}>{data.h2}</h2>
-          <p className={`mt-4 max-w-[560px] text-[0.88rem] leading-[1.45] md:text-[1rem] ${bodyTextClass}`}>
-            Every engine has a story. Make the right call with clear data, real-world costs, and honest guidance from UK specialists.
-          </p>
-        </div>
-      </div>
-
-      <div className="relative mx-auto w-full max-w-8xl px-4 py-8 md:px-8 md:py-10">
+      <div className="relative mx-auto w-full max-w-8xl px-4 pb-8 pt-5 md:px-8 md:pb-10 md:pt-6">
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
           {data.canItBeRepaired ? (
             <div className="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-4 shadow-lg md:border-0 md:bg-transparent md:p-0 md:shadow-none">
               <p className="flex items-center gap-2 text-[0.95rem] font-bold uppercase tracking-wide text-[var(--color-text)]">
-                <span style={{ color: GOLD }}>
+                <span style={{ color: iconTone(isDark) }}>
                   <GenIcon name="wrench" className="h-4.5 w-4.5" />
                 </span>
                 {data.canItBeRepaired.title}
@@ -187,7 +150,7 @@ export default function RepairBuyOrReplace({ data }) {
           {data.buyingChecks ? (
             <div className="flex h-full flex-col rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-4 shadow-lg md:border-0 md:bg-transparent md:p-0 md:shadow-none">
               <p className="flex items-center gap-2 text-[0.95rem] font-bold uppercase tracking-wide text-[var(--color-text)]">
-                <span style={{ color: GOLD }}>
+                <span style={{ color: iconTone(isDark) }}>
                   <GenIcon name="cart" className="h-4.5 w-4.5" />
                 </span>
                 {data.buyingChecks.title}
@@ -246,7 +209,7 @@ export default function RepairBuyOrReplace({ data }) {
               <div className="relative z-10 flex items-start gap-3">
                 <span
                   className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-full"
-                  style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}
+                  style={{ backgroundColor: "rgba(171,132,80,0.18)", color: iconTone(isDark) }}
                 >
                   <GenIcon name="dollar" className="h-4.5 w-4.5" />
                 </span>
@@ -258,7 +221,7 @@ export default function RepairBuyOrReplace({ data }) {
               <a
                 href="/quote"
                 className="btn-cta relative z-10 flex w-fit items-center justify-center gap-2 whitespace-nowrap rounded-md px-4 py-3.5 text-center text-[0.7rem] font-bold uppercase tracking-wide text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
-                style={{ backgroundColor: GOLD }}
+                style={{ backgroundColor: chromeBg(isDark) }}
               >
                 <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
                 {data.cta.label}
@@ -287,7 +250,7 @@ export default function RepairBuyOrReplace({ data }) {
                 <a
                   href="/quote"
                   className="btn-cta flex w-full items-center justify-center gap-2 rounded-xl px-3 py-2.5 text-center text-[0.78rem] font-bold text-white no-underline shadow-md"
-                  style={{ backgroundColor: GOLD }}
+                  style={{ backgroundColor: chromeBg(isDark) }}
                 >
                   {data.cta.label}
                   <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
@@ -311,7 +274,7 @@ export default function RepairBuyOrReplace({ data }) {
                   <span aria-hidden="true" className="mx-1.5 my-1 w-px shrink-0 self-center bg-[var(--color-border)]" style={{ height: "70%" }} />
                 ) : null}
                 <div className="flex w-full flex-col items-center gap-1 text-center">
-                  <span style={{ color: GOLD }}>
+                  <span style={{ color: iconTone(isDark) }}>
                     <GenIcon name={item.icon} className="h-4 w-4 shrink-0" />
                   </span>
                   <span className={`text-[0.56rem] font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{item.label}</span>

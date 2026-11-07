@@ -48,93 +48,62 @@ function VerdictGlyph({ type }) {
   );
 }
 
+const MATRIX_COLS =
+  "grid-cols-[minmax(150px,1.2fr)_minmax(100px,0.85fr)_minmax(110px,0.9fr)_minmax(140px,1.15fr)]";
+
 function VerdictCell({ verdict, isDark }) {
   const style = VERDICT_STYLE[verdict?.type] || VERDICT_STYLE.watch;
 
   return (
     <div className="min-w-0">
-      <div className="mb-1 flex items-center gap-1.5">
-        <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: style.bg }}>
+      <div className="mb-0.5 flex items-center gap-1 md:mb-1 md:gap-1.5">
+        <span className="flex h-4 w-4 shrink-0 items-center justify-center rounded-full text-white md:h-5 md:w-5" style={{ backgroundColor: style.bg }}>
           <VerdictGlyph type={verdict?.type} />
         </span>
-        <span className={`font-lora ${typeTable} font-semibold`} style={{ color: style.bg }}>
+        <span className={`font-lora text-[11px] font-semibold md:text-[15px]`} style={{ color: style.bg }}>
           {verdict?.label || style.label}
         </span>
       </div>
-      <p className={`${typeTable} font-light ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
+      <p className={`text-[11px] font-light leading-snug md:text-[15px] md:leading-[1.45] ${isDark ? "text-white/70" : "text-[var(--color-text-muted)]"}`}>
         {verdict?.text}
       </p>
     </div>
   );
 }
 
-function MatrixRow({ row, isDark, variant = "desktop" }) {
+function MatrixRow({ row, isDark }) {
   const href = row.href || "#";
-  const isMobile = variant === "mobile";
 
-  const body = isMobile ? (
-    <div className="flex flex-col gap-3">
-      <div className="flex items-start gap-3">
-        <div className="relative h-[92px] w-[36%] shrink-0 overflow-hidden">
-          <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill unoptimized className="object-contain object-left" sizes="40vw" />
-        </div>
-        <div className="grid min-w-0 flex-1 grid-cols-2 gap-x-3 gap-y-2 pt-0.5">
-          <div className="min-w-0">
-            <p className={`font-lora ${typeTable} font-medium leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              {row.model}
-            </p>
-            {row.engine ? (
-              <p className={`mt-1 font-lora ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>
-                ({row.engine})
-              </p>
-            ) : null}
-            <p className={`mt-2 font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
-            <p className={`mt-0.5 ${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
-          </div>
-          <div className="min-w-0 pt-[2.1rem]">
-            <p className={`font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
-            <p className={`mt-0.5 ${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
-          </div>
-        </div>
-      </div>
-      <div className={`border-t pt-2.5 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
-        <VerdictCell verdict={row.verdict} isDark={isDark} />
-      </div>
-    </div>
-  ) : (
+  const body = (
     <>
-      <div className="flex min-w-0 items-center gap-2.5">
-        <div className="relative h-11 w-16 shrink-0 overflow-hidden">
+      <div className="flex min-w-0 items-center gap-1.5 md:gap-2.5">
+        <div className="relative h-8 w-12 shrink-0 overflow-hidden md:h-11 md:w-16">
           <Image src={row.image?.src || "/right.webp"} alt={row.image?.alt || row.model} fill unoptimized className="object-contain" sizes="64px" />
         </div>
         <div className="min-w-0">
-          <p className={`font-lora ${typeTable} font-semibold leading-tight ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+          <p className={`font-lora text-[11px] font-semibold leading-tight md:text-[15px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
             {row.model}
           </p>
           {row.engine ? (
-            <p className={`mt-0.5 font-lora ${typeTable} ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>({row.engine})</p>
+            <p className={`mt-0.5 font-lora text-[10px] md:text-[15px] ${isDark ? "text-white/60" : "text-[var(--color-text-muted)]"}`}>({row.engine})</p>
           ) : null}
         </div>
       </div>
       <div>
-        <p className={`font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
-        <p className={`${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
+        <p className={`font-lora text-[11px] md:text-[15px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.vehicleValue}</p>
+        <p className={`text-[9px] uppercase md:text-[13px] ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.vehicleSource}]</p>
       </div>
       <div>
-        <p className={`font-lora ${typeTable} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
-        <p className={`${typeBadge} uppercase ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
+        <p className={`font-lora text-[11px] md:text-[15px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>{row.replacementCost}</p>
+        <p className={`text-[9px] uppercase md:text-[13px] ${isDark ? "text-white/50" : "text-[var(--color-text-soft)]"}`}>[{row.replacementSource}]</p>
       </div>
       <VerdictCell verdict={row.verdict} isDark={isDark} />
     </>
   );
 
-  const className = isMobile
-    ? `rounded-xl border px-3.5 py-3.5 no-underline shadow-[0_4px_16px_rgba(10,26,43,0.05)] hover:no-underline ${
-        isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"
-      }`
-    : `grid grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] items-center gap-4 border-b px-4 py-3 no-underline last:border-b-0 hover:no-underline ${
-        isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
-      }`;
+  const className = `grid ${MATRIX_COLS} items-center gap-2 border-b px-2.5 py-2 no-underline last:border-b-0 hover:no-underline md:gap-4 md:px-4 md:py-3 ${
+    isDark ? "border-white/10 hover:bg-white/5" : "border-[rgba(0,0,0,0.06)] hover:bg-[#F8F7F3]"
+  }`;
 
   if (href && href !== "#") {
     return (
@@ -152,43 +121,30 @@ function DecisionMatrix({ matrix, isDark }) {
   const rows = matrix?.rows || [];
 
   return (
-    <div>
-      <div className="mb-3 flex items-center gap-2 px-0.5 md:hidden">
+    <div className={`overflow-hidden rounded-lg border ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
+      <div className={`flex items-center gap-2 border-b px-3 py-2.5 md:px-4 md:py-3 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
         <h3 className={`font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           {matrix?.title || "The Decision Matrix"}
         </h3>
         <span className="h-[2px] w-10" style={{ background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.18) 100%)` }} />
       </div>
 
-      {/* Mobile: separate cards */}
-      <div className="flex flex-col gap-3 md:hidden">
-        {rows.map((row) => (
-          <MatrixRow key={row.model} row={row} isDark={isDark} variant="mobile" />
-        ))}
-      </div>
+      <div className="overflow-x-auto">
+        <div className="min-w-[640px]">
+          <div
+            className={`grid ${MATRIX_COLS} gap-2 border-b px-2.5 py-2 text-[10px] font-semibold uppercase tracking-[0.06em] md:gap-4 md:px-4 md:py-2.5 md:text-[15px] ${
+              isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
+            }`}
+          >
+            {columns.map((col) => (
+              <span key={col}>{col}</span>
+            ))}
+          </div>
 
-      {/* Desktop: single table box */}
-      <div className={`hidden overflow-hidden rounded-lg border md:block ${isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[#E5E5E5] bg-white"}`}>
-        <div className={`flex items-center gap-2 border-b px-4 py-3 ${isDark ? "border-white/10" : "border-[rgba(0,0,0,0.06)]"}`}>
-          <h3 className={`font-lora ${typeH5} ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-            {matrix?.title || "The Decision Matrix"}
-          </h3>
-          <span className="h-[2px] w-10" style={{ background: `linear-gradient(90deg, ${GOLD} 0%, ${GOLD} 50%, rgba(171,132,80,0.18) 100%)` }} />
-        </div>
-
-        <div
-          className={`border-b px-4 py-2.5 ${typeTable} font-semibold uppercase tracking-[0.06em] grid grid-cols-[minmax(180px,1.2fr)_minmax(120px,0.85fr)_minmax(130px,0.9fr)_minmax(160px,1.15fr)] gap-4 ${
-            isDark ? "border-white/10 bg-white/5 text-white/55" : "border-[rgba(0,0,0,0.06)] bg-[#F8F7F3] text-[var(--color-text-muted)]"
-          }`}
-        >
-          {columns.map((col) => (
-            <span key={col}>{col}</span>
+          {rows.map((row) => (
+            <MatrixRow key={row.model} row={row} isDark={isDark} />
           ))}
         </div>
-
-        {rows.map((row) => (
-          <MatrixRow key={row.model} row={row} isDark={isDark} variant="desktop" />
-        ))}
       </div>
     </div>
   );

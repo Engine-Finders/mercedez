@@ -97,7 +97,7 @@ export default function HomeSec1({ data }) {
         />
       </div>
 
-      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-0 pt-5 md:min-h-[560px] md:justify-center md:px-6 md:pb-1 md:pt-6 lg:px-8">
+      <div className="relative mx-auto flex w-full max-w-8xl flex-col pl-[10px] pr-3 pb-0 pt-5 md:min-h-[560px] md:justify-center md:pl-[14px] md:pr-4 md:pb-1 md:pt-6">
         <div className="relative grid w-full items-center gap-0 md:grid-cols-[minmax(0,1.05fr)_minmax(280px,0.95fr)] md:gap-4 lg:gap-5">
           <div className="relative flex w-full max-w-[720px] flex-col gap-2.5 md:gap-3">
             {/* Eyebrow */}

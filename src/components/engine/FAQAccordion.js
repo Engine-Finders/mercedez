@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
@@ -111,6 +112,19 @@ export default function FAQAccordion({ data, engineLabel = "BMW Engine" }) {
               Expert answers to the most common Mercedes{" "}
               <span className="font-semibold" style={{ color: GOLD }}>{engineCode}</span> engine questions.
             </p>
+
+            <div className="relative mx-auto mt-5 hidden w-full max-w-[260px] md:block lg:max-w-[290px]">
+              <div className="absolute inset-x-[4%] bottom-[6%] h-[90px] rounded-[50%] border border-[rgba(171,132,80,0.28)]" />
+              <div className="absolute inset-x-[16%] bottom-[10%] h-[60px] rounded-[50%] border border-[rgba(171,132,80,0.18)]" />
+              <Image
+                src="/e90/engine.webp"
+                alt=""
+                width={290}
+                height={340}
+                unoptimized
+                className="relative z-10 mx-auto h-auto w-full object-contain drop-shadow-[0_24px_40px_rgba(0,0,0,0.35)]"
+              />
+            </div>
           </div>
 
           <div

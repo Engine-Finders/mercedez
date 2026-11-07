@@ -5,6 +5,7 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
+import { chromeBg, variantModelImage } from "@/components/variant/variantTheme";
 
 function splitHeadline(headline = "") {
   const cleaned = headline.replace(/\s*→\s*$/, "");
@@ -13,13 +14,12 @@ function splitHeadline(headline = "") {
   return { title: cleaned.slice(0, qIndex + 1), subtitle: cleaned.slice(qIndex + 2) };
 }
 
-export default function QuotesCta({ data }) {
+export default function QuotesCta({ data, parent = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
-  // Keep existing header images
-  const image = isDark ? "/320d/compare_dark.webp" : "/320d/compare_light.webp";
+  const image = variantModelImage(parent);
   const { title, subtitle } = splitHeadline(data.headline);
   const headingClass = isDark ? "text-white" : "text-[var(--color-text)]";
   const bodyTextClass = isDark ? "text-white/80" : "text-[var(--color-text-muted)]";
@@ -33,7 +33,7 @@ export default function QuotesCta({ data }) {
           }`}
         >
           <div className="absolute inset-0 hidden md:block">
-            <Image src={image} alt="" fill className="object-cover object-right" sizes="100vw" />
+            <Image src={image} alt="" fill className="object-cover object-right" sizes="100vw" unoptimized />
             {isDark ? (
               <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(2,7,17,0.95)_0%,rgba(2,7,17,0.75)_45%,rgba(2,7,17,0.15)_85%)]" />
             ) : (
@@ -43,9 +43,9 @@ export default function QuotesCta({ data }) {
 
           <div className="relative z-10 flex flex-col justify-between gap-6 md:flex-row md:items-center">
             <div className="flex flex-col gap-3 md:max-w-[55%]">
-              <SectionLabel number={5} isDark={isDark} />
               <div>
                 <h2 className={`font-lora text-[29px] font-medium leading-[1.08] md:text-[36px] ${headingClass}`}>{title}</h2>
+                <SectionLabel isDark={isDark} />
                 {subtitle ? (
                   <p className="mt-1 flex items-center gap-1.5 text-[0.95rem] font-semibold leading-[1.3] md:text-[1.1rem]" style={{ color: GOLD }}>
                     {subtitle}
@@ -62,7 +62,7 @@ export default function QuotesCta({ data }) {
                 <a
                   href="/quote"
                   className="btn-cta mt-1 flex w-full shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-md px-4 py-2.5 text-center text-[0.76rem] font-bold text-white no-underline shadow-[0_12px_28px_rgba(0,0,0,0.35)] md:w-fit md:px-6 md:py-3.5 md:text-[0.85rem]"
-                  style={{ backgroundColor: GOLD }}
+                  style={{ backgroundColor: chromeBg(isDark) }}
                 >
                   {data.button.label.replace(/\s*→\s*$/, "")}
                   <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
