@@ -21,7 +21,7 @@ export default function SectionHeaderBand({
   panelRgb = "248,247,243",
   titleClassName = "max-w-[480px] lg:max-w-[520px]",
 }) {
-  const src = image?.src || "/sec2-bg.webp";
+  const src = image?.src || "/Amg-gt.webp";
   const alt = image?.alt || "";
 
   return (

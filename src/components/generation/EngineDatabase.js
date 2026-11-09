@@ -6,6 +6,7 @@ import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
 import GenBadge from "./GenBadge";
+import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
 const DESKTOP_COLS = "grid-cols-[0.95fr_0.6fr_1.05fr_0.8fr_0.9fr_1.15fr_1fr_1.05fr_1fr_1.05fr]";
 const MOBILE_COLS = "grid-cols-[100px_70px_90px_110px_120px_110px_130px]";
@@ -81,7 +82,7 @@ function MobileRow({ engine, isDark }) {
       <span className={`border-r px-1.5 ${mutedText} ${cellDivider}`} dangerouslySetInnerHTML={{ __html: engine.enquiries }} />
       <span className="flex items-center gap-1 px-1.5 font-semibold">
         <span dangerouslySetInnerHTML={{ __html: engine.avgReconCost }} />
-        <span style={{ color: GOLD }}>
+        <span style={{ color: iconTone(isDark) }}>
           <GenIcon name="chevron" className="h-3.5 w-3.5 shrink-0" />
         </span>
       </span>
@@ -102,7 +103,7 @@ export default function EngineDatabase({ data }) {
       {/* Header image */}
       <div className="absolute inset-x-0 top-0 h-[220px] md:h-[280px]">
         <Image
-          src="/sec2-bg.webp"
+          src="/Amg-gt.webp"
           alt=""
           fill
           className="object-cover object-[64%_top] md:object-right"
@@ -126,11 +127,11 @@ export default function EngineDatabase({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="max-w-[760px] pt-2 md:pt-6">
-          <SectionLabel number={2} isDark={isDark} />
           <h2
             className={`font-lora max-w-[760px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
             dangerouslySetInnerHTML={{ __html: data.h2 }}
           />
+          <SectionLabel isDark={isDark} />
           {data.subHeadline ? (
             <p
               className="mt-4 max-w-[920px] text-[0.88rem] leading-[1.4] text-[var(--color-text-muted)] md:mt-5 md:text-[1.02rem] md:leading-[1.42]"
@@ -140,7 +141,7 @@ export default function EngineDatabase({ data }) {
         </div>
 
         <div className="mt-6 hidden overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:block">
-          <div className={`grid ${DESKTOP_COLS} gap-px rounded-t-md px-4 py-2 text-[0.72rem] font-semibold leading-[1.2] text-white`} style={{ backgroundColor: GOLD }}>
+          <div className={`grid ${DESKTOP_COLS} gap-px rounded-t-md px-4 py-2 text-[0.72rem] font-semibold leading-[1.2] text-white`} style={{ backgroundColor: chromeBg(isDark) }}>
             {data.columns?.map((col) => (
               <span key={col} className={`min-w-0 border-r px-2 last:border-r-0 ${headerDivider}`}>
                 {col}
@@ -156,7 +157,7 @@ export default function EngineDatabase({ data }) {
 
         <div className="mt-6 overflow-x-auto rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:hidden">
           <div className="min-w-[730px]">
-            <div className={`grid ${MOBILE_COLS} gap-px px-3 py-2 text-[0.68rem] font-semibold leading-[1.2] text-white`} style={{ backgroundColor: GOLD }}>
+            <div className={`grid ${MOBILE_COLS} gap-px px-3 py-2 text-[0.68rem] font-semibold leading-[1.2] text-white`} style={{ backgroundColor: chromeBg(isDark) }}>
               {MOBILE_HEADERS.map((col) => (
                 <span key={col} className={`border-r px-1.5 last:border-r-0 ${headerDivider}`}>
                   {col}
@@ -179,13 +180,13 @@ export default function EngineDatabase({ data }) {
               </span>
             </div>
             {data.confidenceScore.items.map((item, index) => {
-              const iconTone = item.iconColor === "success" ? "text-[#13884a]" : "";
+              const successIconClass = item.iconColor === "success" ? "text-[#13884a]" : "";
               const labelTone = item.iconColor === "success" ? "text-[#13884a]" : "";
               const padding = index === 0 ? "md:pl-4 md:pr-4" : "md:px-4";
               return (
                 <div key={`${item.label}-${index}`} className={`flex flex-col gap-1.5 ${padding}`}>
                   <p className={`flex items-center gap-2 text-[0.82rem] font-semibold leading-[1.3] ${labelTone || ""}`} style={labelTone ? undefined : { color: GOLD }}>
-                    <span className={`flex h-5 w-5 shrink-0 items-center justify-center ${iconTone}`} style={iconTone ? undefined : { color: GOLD }}>
+                    <span className={`flex h-5 w-5 shrink-0 items-center justify-center ${successIconClass}`} style={successIconClass ? undefined : { color: iconTone(isDark) }}>
                       <GenIcon name={item.icon} className="h-5 w-5" />
                     </span>
                     <span dangerouslySetInnerHTML={{ __html: item.label }} />

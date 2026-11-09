@@ -39,15 +39,15 @@ function ThemeIcon({ theme }) {
   );
 }
 
-function LogoMark({ isDark }) {
+function LogoMark() {
   return (
     <Image
-      src="/navbar-logo.png"
-      alt="Mercedes-Benz"
-      width={941}
-      height={912}
+      src="/icon.webp"
+      alt="Mercedes Engines"
+      width={977}
+      height={453}
       priority
-      className={`h-12 w-12 object-contain object-center md:h-16 md:w-16 ${isDark ? "" : "invert"}`}
+      className="h-10 w-auto object-contain object-left md:h-12"
     />
   );
 }
@@ -61,7 +61,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-40 border-b border-[var(--color-border)] bg-[var(--color-navbar)] backdrop-blur">
       <nav className="mx-auto flex w-full max-w-8xl items-center justify-between gap-3 px-4 py-3 md:px-8 md:py-4">
         <Link href="/" className="flex shrink-0 items-center gap-3 text-[var(--color-text)] no-underline">
-          <LogoMark isDark={theme === "dark"} />
+          <LogoMark />
         </Link>
 
         <DesktopNavMenus />

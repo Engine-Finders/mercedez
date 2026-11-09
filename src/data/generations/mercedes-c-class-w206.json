@@ -449,37 +449,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.820 (C220d/C300d)",
         "quote": "The 2.0-litre OM654 is a proven, robust diesel with a genuine 200,000-mile-plus lifespan. The 48V mild-hybrid system adds refinement, and the C300d's 261bhp makes it genuinely quick. Early OM654 units had some turbocharger issues, but these appear to have been resolved by 2022. It's the W206's most dependable engine.",
-        "whoItsFor": "buyers who want diesel economy and torque without compromising on refinement."
+        "whoItsFor": "buyers who want diesel economy and torque without compromising on refinement.",
+        "image": "/cars/c-class-w206-c43 amg-performance saloon-2022–-special-designo hyacinth red metallic-amg exterior-c-class w206 c43 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M264.915 (C200)",
         "quote": "The 1.5-litre M264 offers 201bhp with 48V mild-hybrid assistance - it's smooth, refined, and more than enough for UK roads. The M264 is a proven engine from the W205 era, carried over with mild-hybrid additions, making it the safer bet compared to the newer M254.",
-        "whoItsFor": "buyers who want a modern, efficient petrol without the M254's reliability question marks."
+        "whoItsFor": "buyers who want a modern, efficient petrol without the M254's reliability question marks.",
+        "image": "/cars/c-class-w206-c63 s e performance-performance phev saloon-2023–-special-selenite grey metallic-unique amg body-c-class w206 c63 s e perf-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M254.920 (C300/C300e/C350e)",
         "quote": "The M254 is the newest engine in the W206 lineup, replacing the M264. But it comes with reported issues: excessive oil consumption, camshaft adjuster failure (confirmed by Mercedes internal bulletin LI05.20-P-080257), and variator problems at relatively low mileage . These are still being understood, and long-term reliability is unproven.",
-        "whoItsFor": "buyers willing to accept teething issues for the latest technology."
+        "whoItsFor": "buyers willing to accept teething issues for the latest technology.",
+        "image": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M139l (AMG C63 S E-Performance)",
         "quote": "The M139l in the C63 is the most complex engine ever fitted to a C-Class - 2.0 litres, 476bhp from the engine alone, plus a rear-axle electric motor for 680bhp combined. When something goes wrong, it goes wrong expensively. The electric turbocharger, the hybrid system, and the sheer labour intensity of working on this engine mean replacement costs will be eye-watering.",
-        "whoItsFor": "buyers with deep pockets who want the most powerful four-cylinder production car ever."
+        "whoItsFor": "buyers with deep pockets who want the most powerful four-cylinder production car ever.",
+        "image": "/cars/c-class-w206-c43 amg-performance saloon-2022–-special-designo hyacinth red metallic-amg exterior-c-class w206 c43 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.820 (C220d)",
         "quote": "The C220d is the volume diesel for good reason - 197bhp, genuine 50+ mpg, and the same robust OM654 as the more powerful C300d. It's cheaper to buy, cheaper to run, and cheaper to replace than the petrol alternatives. The sweet spot in the W206 range.",
-        "whoItsFor": "buyers who want the best combination of economy, performance, and reliability."
+        "whoItsFor": "buyers who want the best combination of economy, performance, and reliability.",
+        "image": "/cars/c-class-w206-c63 s e performance-performance phev saloon-2023–-special-selenite grey metallic-unique amg body-c-class w206 c63 s e perf-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M264.915 (C180)",
         "quote": "The C180 is often overlooked in favour of the C200, but it's the same 1.5-litre M264 engine with 168bhp instead of 201bhp. It's cheaper to buy, cheaper to insure, and fundamentally the same reliable engine. For most UK buyers, 168bhp is more than enough.",
-        "whoItsFor": "budget-conscious buyers who want a premium badge without the premium running costs."
+        "whoItsFor": "budget-conscious buyers who want a premium badge without the premium running costs.",
+        "image": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp"
       }
     ]
   },
@@ -577,7 +583,8 @@
         "cta": {
           "label": "Compare M254 engine prices for your W206 C300 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w206-c43 amg-performance saloon-2022–-special-designo hyacinth red metallic-amg exterior-c-class w206 c43 amg-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -605,7 +612,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your W206 C220d/C300d →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w206-c63 s e performance-performance phev saloon-2023–-special-selenite grey metallic-unique amg body-c-class w206 c63 s e perf-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -633,7 +641,8 @@
         "cta": {
           "label": "Compare W206 48V battery replacement quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w206-standard amg line-saloon-2021–-new-iridium silver metallic-new generation-c-class w206 std amg-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -661,7 +670,8 @@
         "cta": {
           "label": "Compare W206 electrical diagnostics →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w206-c43 amg-performance saloon-2022–-special-designo hyacinth red metallic-amg exterior-c-class w206 c43 amg-45-angle-front-view.webp"
       }
     ]
   },
@@ -727,7 +737,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - W206 saloon shares identical engine-bay access with its S206 estate sibling, so costs are inherited directly per the Authority Model, with no divergence note required. M139l costs reflect AMG-specific parts, the electric turbocharger, and specialist labour requirements."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C220d",

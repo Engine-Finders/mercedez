@@ -498,7 +498,8 @@
         "cta": {
           "label": "Compare W245 transmission repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w245-standard-mpv-2005–2008-new-iridium silver metallic-first generation-b-class w245 (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -511,7 +512,8 @@
         "cta": {
           "label": "Compare OM640 engine prices for your W245 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w245-standard-mpv-2005–2008-new-iridium silver metallic-first generation-b-class w245-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -524,7 +526,8 @@
         "cta": {
           "label": "Compare M266 engine prices for your W245 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w245-standard-mpv-2005–2008-new-iridium silver metallic-first generation-b-class w245 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -590,7 +593,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the W245 shares its engine bay layout with the W169 A-Class, so costs are consistent with the wider Mercedes compact platform."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "B180 CDI",

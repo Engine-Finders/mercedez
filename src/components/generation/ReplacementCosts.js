@@ -3,8 +3,11 @@
 import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { homeSectionBg } from "@/components/home/sectionBg";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
+import { generationCtaCopy } from "@/lib/ctaLabels";
 import GenIcon from "./GenIcons";
+import { chromeBg } from "@/components/variant/variantTheme";
 
 const COLUMN_ICONS = ["car", "engine", "tag", "refresh", "shield", "clock"];
 
@@ -110,14 +113,15 @@ function FuelTable({ title, icon, rows, isDark, tone }) {
   );
 }
 
-export default function ReplacementCosts({ data }) {
+export default function ReplacementCosts({ data, parent = "", slug = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]";
+  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "";
   const headerDivider = isDark ? "border-white/20" : "border-white/25";
   const bodyWrapperBg = isDark ? "bg-black" : "bg-[var(--color-table-surface)]";
+  const cta = generationCtaCopy(parent, slug).costs;
 
   const petrolRows = data.rows?.filter((row) => row.fuelType === "petrol") || [];
   const dieselRows = data.rows?.filter((row) => row.fuelType === "diesel") || [];
@@ -125,7 +129,7 @@ export default function ReplacementCosts({ data }) {
   return (
     <section className={`relative overflow-hidden py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 7)}`}>
       <div className="absolute inset-x-0 top-0 h-[220px] md:h-[280px]">
-        <Image src="/sec2-bg.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
+        <Image src="/Amg-gt.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
         <div
           className={
             isDark
@@ -144,11 +148,11 @@ export default function ReplacementCosts({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="max-w-[760px] pt-2 md:pt-6">
-          <SectionLabel number={7} isDark={isDark} />
           <h2
             className={`font-lora max-w-[760px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
             dangerouslySetInnerHTML={{ __html: data.h2 }}
           />
+          <SectionLabel isDark={isDark} />
           {data.subHeadline ? (
             <p
               className={`mt-4 max-w-[560px] text-[0.88rem] leading-[1.4] md:mt-5 md:text-[1.08rem] md:leading-[1.42] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
@@ -158,7 +162,7 @@ export default function ReplacementCosts({ data }) {
         </div>
 
         <div className="mt-6 hidden overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:block">
-          <div className={`grid grid-cols-[1.3fr_1fr_1fr_1.1fr_1fr_0.8fr] gap-px ${headerBg} px-5 py-3 text-[0.82rem] font-semibold text-white`}>
+          <div className={`grid grid-cols-[1.3fr_1fr_1fr_1.1fr_1fr_0.8fr] gap-px ${headerBg} px-5 py-3 text-[0.82rem] font-semibold text-white`} style={{ backgroundColor: chromeBg(isDark) }}>
             {data.columns?.map((col, index) => (
               <span key={col} className={`flex items-center gap-2 px-3 border-r ${headerDivider} last:border-r-0`}>
                 <GenIcon name={COLUMN_ICONS[index]} className="h-4 w-4 shrink-0" />
@@ -239,6 +243,8 @@ export default function ReplacementCosts({ data }) {
         ) : null}
 
         {data.note ? <p className="mt-4 text-[0.78rem] text-[var(--color-text-soft)]" dangerouslySetInnerHTML={{ __html: data.note }} /> : null}
+
+        <SectionQuoteCta label={cta.label} support={cta.support} />
       </div>
     </section>
   );

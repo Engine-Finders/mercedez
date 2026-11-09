@@ -431,37 +431,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642.822 (GL 350 CDI, 265 bhp, post-2010)",
         "quote": "The most powerful iteration of the OM642 V6 diesel offered in the X164 - 265 bhp and 620 Nm of torque in a 2.5-tonne SUV. Oil cooler seal failures and exhaust manifold cracks are its known weak points, but the underlying engine is robust and proven across millions of Mercedes vehicles.",
-        "whoItsFor": "buyers who want maximum diesel torque without the V8's fuel bills."
+        "whoItsFor": "buyers who want maximum diesel torque without the V8's fuel bills.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M273.963 (GL 500 / GL 550, 5.5L V8)",
         "quote": "The 5.5-litre naturally aspirated V8 delivers 388 bhp and 530 Nm of torque - effortless, smooth, and the engine that defines the GL-Class experience. Thermostat failure and intake manifold actuator issues are its only real demands, but it's a proven, characterful engine.",
-        "whoItsFor": "buyers who want V8 refinement and don't mind the fuel bills."
+        "whoItsFor": "buyers who want V8 refinement and don't mind the fuel bills.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM642.940 (GL 320 CDI, pre-2009)",
         "quote": "The early OM642 V6 diesel is a solid engine, but oil cooler seal failure (located in the V of the engine) is a £1,000+ repair - and earlier cars (pre-2009) have a documented risk of crankshaft main bearing fatigue.",
-        "whoItsFor": "buyers who accept the risks of an early V6 diesel and have service history to prove maintenance."
+        "whoItsFor": "buyers who accept the risks of an early V6 diesel and have service history to prove maintenance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M273.963 (GL 500 / GL 550)",
         "quote": "The 5.5-litre V8 is a masterpiece, but it's an ageing, complex engine - thermostat failure, secondary air injection pump failure, and intake manifold actuator issues are all common, and parts are expensive. A full replacement can exceed £8,000.",
-        "whoItsFor": "buyers who want the flagship V8 and have the budget to maintain it."
+        "whoItsFor": "buyers who want the flagship V8 and have the budget to maintain it.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM642.820 (GL 350 BlueTEC, 211 bhp)",
         "quote": "The post-facelift diesel offers improved emissions technology with the same core OM642 reliability - and significantly lower fuel bills than any V8. It's the sensible choice for a 2.5-tonne SUV.",
-        "whoItsFor": "buyers who want diesel economy and don't need the extra power of the 265 bhp version."
+        "whoItsFor": "buyers who want diesel economy and don't need the extra power of the 265 bhp version.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM629.913 (GL 450 CDI, 4.0L V8 diesel)",
         "quote": "The 4.0-litre V8 diesel is often forgotten between the V6 diesel and the 5.5-litre petrol - but it offers 306 bhp and 700 Nm of torque, combining diesel economy with V8 refinement. It's rare, but that's exactly why it's overlooked.",
-        "whoItsFor": "buyers who want V8 presence with diesel running costs."
+        "whoItsFor": "buyers who want V8 presence with diesel running costs.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -572,7 +578,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your X164 GL 320 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -600,7 +607,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your X164 GL 350 BlueTEC →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -628,7 +636,8 @@
         "cta": {
           "label": "Compare M273 engine prices for your X164 GL 500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -656,7 +665,8 @@
         "cta": {
           "label": "Compare M273 engine prices for your X164 GL 450 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

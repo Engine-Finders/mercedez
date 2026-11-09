@@ -418,7 +418,8 @@
         "cta": {
           "label": "Compare W124 M103/M104 head gasket repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -446,7 +447,8 @@
         "cta": {
           "label": "Compare W124 wiring harness replacement quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -474,7 +476,8 @@
         "cta": {
           "label": "Compare W124 M102 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -502,7 +505,8 @@
         "cta": {
           "label": "Compare W124 diesel glow plug and injector repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -648,7 +652,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "200 D",

@@ -365,37 +365,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (B200d/B220d)",
         "quote": "Mercedes' own 2.0-litre diesel, introduced in 2016, replaces the ageing <a  href='https://mercedesengines.uk/engine/om651'>OM651</a> with a lighter, more efficient design. It's the pick of the W247 range - smooth, torquey, and backed by a strong reliability record.",
-        "whoItsFor": "buyers who want a modern, efficient diesel without the Renault-sourced compromises."
+        "whoItsFor": "buyers who want a modern, efficient diesel without the Renault-sourced compromises.",
+        "image": "/cars/b-class-w247 lci-b 250e-phev mpv-2022–-group-emerald green metallic-no independent exterior-b-class w247 lci b 250e-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M260.920 (B220/B250 4MATIC)",
         "quote": "Mercedes' own 2.0-litre turbo petrol, delivering 190–224 bhp with a responsive character and strong torque. It's the enthusiast's choice in the W247 range.",
-        "whoItsFor": "buyers who want genuine performance from a compact MPV."
+        "whoItsFor": "buyers who want genuine performance from a compact MPV.",
+        "image": "/cars/b-class-w247 lci-standard amg line-mpv-2022–-new-designo hyacinth red metallic-facelift-b-class w247 lci std amg-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M282.914 (B180/B200)",
         "quote": "The Renault-sourced 1.3-litre turbo petrol is a co-development engine (also used in Renault, Nissan, and Dacia models). While generally reliable, it lacks the refinement and long-term durability of Mercedes' own engines.",
-        "whoItsFor": "buyers on a budget who prioritise low running costs over longevity."
+        "whoItsFor": "buyers on a budget who prioritise low running costs over longevity.",
+        "image": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM654.920 (B220d) - cylinder head bolt issue",
         "quote": "A known issue on early OM654 engines where cylinder head bolts can break, leading to coolant and oil leaks. Repair costs can be significant if caught late.",
-        "whoItsFor": "buyers who can afford the premium for the top diesel."
+        "whoItsFor": "buyers who can afford the premium for the top diesel.",
+        "image": "/cars/b-class-w247-standard amg line-mpv-2019–2022-new-brilliant blue metallic-new generation-b-class w247 std amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (B200d)",
         "quote": "The mid-range diesel offers the best balance of performance (150 bhp), economy (up to 67 mpg), and reliability. It's the sweet spot in the W247 range.",
-        "whoItsFor": "fleet buyers and high-mileage drivers."
+        "whoItsFor": "fleet buyers and high-mileage drivers.",
+        "image": "/cars/b-class-w247 lci-b 250e-phev mpv-2022–-group-emerald green metallic-no independent exterior-b-class w247 lci b 250e-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M282 PHEV (B250e)",
         "quote": "The plug-in hybrid combines the 1.3-litre petrol with an electric motor for 218 bhp and impressive economy (up to 235 mpg). It's often overlooked in favour of the diesels but offers the lowest running costs for urban drivers.",
-        "whoItsFor": "city drivers with access to charging."
+        "whoItsFor": "city drivers with access to charging.",
+        "image": "/cars/b-class-w247 lci-standard amg line-mpv-2022–-new-designo hyacinth red metallic-facelift-b-class w247 lci std amg-45-angle-front-view.webp"
       }
     ]
   },
@@ -491,7 +497,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your W247 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w247 lci-b 250e-phev mpv-2022–-group-emerald green metallic-no independent exterior-b-class w247 lci b 250e-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -504,7 +511,8 @@
         "cta": {
           "label": "Compare M282 engine prices for your W247 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w247 lci-standard amg line-mpv-2022–-new-designo hyacinth red metallic-facelift-b-class w247 lci std amg-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -517,7 +525,8 @@
         "cta": {
           "label": "Compare M260 engine prices for your W247 4MATIC →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w247-b 250e-phev mpv-2020–2022-group-polar white-same exterior family-b-class w247 b 250e-45-angle-front-view.webp"
       }
     ]
   },
@@ -583,7 +592,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the W247 shares its MFA2 platform with the A-Class and CLA, so engine-bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "B180d",

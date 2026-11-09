@@ -616,7 +616,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W463 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -644,7 +645,8 @@
         "cta": {
           "label": "Compare <Link href='https://mercedesengines.uk/engine/m113'>M113</Link> / M273 engine prices for your W463 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -672,7 +674,8 @@
         "cta": {
           "label": "Compare M157 engine prices for your G 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -700,7 +703,8 @@
         "cta": {
           "label": "Compare M279 engine prices for your G 65 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -854,7 +858,7 @@
     ],
     "note": "No Generation variance from the Model Page’s baseline figures - W463 shares its engine bay architecture across its long production run, so costs are inherited directly per the Authority Model, with no divergence note required. OM642 and M276 costs carried forward from the EM data’s Table A."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "250 GD",

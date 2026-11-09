@@ -557,37 +557,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM651 (E 220 CDI / BlueTEC)",
         "quote": "“The 2.1‑litre four‑cylinder diesel is the W212's most dependable engine - proven across millions of miles in taxi and fleet service, with genuine 200,000+ mile potential. The 170 PS version delivers effortless performance without the V6 diesel's higher running costs.” Who it’s for: Buyers who want diesel economy and six‑figure mileage potential.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M274 (E 200 / E 250, 2013–2016)",
         "quote": "“The 2.0‑litre turbo four is a significant improvement over the M271 - smoother, more efficient, and free of the older engine's camshaft adjuster issues. 211 PS in the E 250 is plenty for executive duties.” Who it’s for: Buyers who want a modern petrol E‑Class without V6 running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272 V6 (E 300 / E 350 / E 350 CGI, 2009–2011)",
         "quote": "“The M272's balance shaft sprocket wear is this generation's defining risk - a design flaw that can lead to catastrophic engine failure. Mercedes acknowledged the issue but didn't extend the warranty as widely as with later engines.” Who it’s for: Buyers who understand the risk and have documented balance shaft history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156 (E 63 AMG, 2009–2011)",
         "quote": "“The 6.2‑litre naturally aspirated V8 is a masterpiece - but punishing to repair. Head bolt failure, camshaft adjuster wear, and tappet issues are well‑documented. A full replacement runs well into five figures.” Who it’s for: AMG enthusiasts with deep pockets and full service history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM651 (E 220 CDI)",
         "quote": "“The entry‑level diesel shares the same robust OM651 architecture as the more powerful versions - but costs less to buy and less to replace. Timing chain and injector seal maintenance are the only real demands.” Who it’s for: Buyers who want diesel economy on a tighter budget.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M276 V6 (E 350, 2012–2016)",
         "quote": "“Often overshadowed by the V8 models, the M276 V6 is actually the most refined petrol in the range - smoother than the M272, more reliable than the M156, and with 306 PS in the E 350, genuinely quick. It’s the sweet spot of the W212 petrol range.” Who it’s for: Buyers who want V6 refinement without AMG running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       }
     ]
   },
@@ -730,7 +736,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your W212 E 350 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -758,7 +765,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your W212 E 220 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -786,7 +794,8 @@
         "cta": {
           "label": "Compare M156 engine prices for your W212 E 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -814,7 +823,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W212 E 350 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -984,7 +994,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures - W212 saloon and S212 estate share identical engine‑bay access, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 200 CDI",

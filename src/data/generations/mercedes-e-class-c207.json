@@ -630,7 +630,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your S212 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -643,7 +644,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your S212 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -656,7 +658,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your S212 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -669,7 +672,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your S212 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 5,
@@ -682,7 +686,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your S212 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -780,7 +785,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the S212 shares its engine bay layout with the W212 saloon, so costs are consistent."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 200 CDI",

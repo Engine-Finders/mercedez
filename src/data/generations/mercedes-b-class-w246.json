@@ -378,31 +378,36 @@
         "slot": "Best Diesel Overall",
         "engine": "OM651DE22LA (B200 CDI / B220 CDI)",
         "quote": "The 2.1‑litre four‑cylinder diesel - 136–170 PS, up to 350 Nm of torque, and the workhorse of the W246 diesel range. The OM651 is a proven unit but carries a timing‑chain tensioner weakness that, if caught early, is a manageable repair.",
-        "whoItsFor": "buyers who want the best balance of economy and power in their W246 diesel."
+        "whoItsFor": "buyers who want the best balance of economy and power in their W246 diesel.",
+        "image": "/cars/b-class-w246-facelift-mpv-2015–2019-new-hyacinth red metallic-revised front rear-b-class w246 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M270DE16LA (B180 / B200)",
         "quote": "The 1.6‑litre turbo petrol - 122–156 PS, smooth, and the most dependable choice in the W246 range. It has no timing‑chain weakness and its cooling‑system issues are well‑understood and relatively inexpensive to fix.",
-        "whoItsFor": "buyers who want petrol refinement without diesel chain worries."
+        "whoItsFor": "buyers who want petrol refinement without diesel chain worries.",
+        "image": "/cars/b-class-w246-standard-mpv-2012–2015-new-brilliant silver metallic-major redesign-b-class w246 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM651DE18LA / OM651DE22LA (pre‑2015)",
         "quote": "The OM651's rear‑mounted timing chain and tensioner are well‑documented weak points. Cold‑start rattle is the warning sign. Pre‑2015 W246 diesels without documented chain‑tensioner replacement are the highest‑risk purchase in the range.",
-        "whoItsFor": "buyers on a tighter budget who understand the OM651's reputation and can verify chain history."
+        "whoItsFor": "buyers on a tighter budget who understand the OM651's reputation and can verify chain history.",
+        "image": "/cars/b-class-w246-standard-mpv-2012–2015-new-brilliant silver metallic-major redesign-b-class w246-45-angle-front-view.webp"
       },
       {
         "slot": "Budget Diesel",
         "engine": "OM607DE15LA (B160 CDI / B180 CDI)",
         "quote": "The Renault‑sourced 1.5‑litre diesel is simpler and cheaper to maintain than the OM651. Injector wear is a known pattern but repairs are inexpensive. A practical choice for budget‑conscious W246 owners.",
-        "whoItsFor": "buyers who prioritise low running costs and urban economy."
+        "whoItsFor": "buyers who prioritise low running costs and urban economy.",
+        "image": "/cars/b-class-w246-facelift-mpv-2015–2019-new-hyacinth red metallic-revised front rear-b-class w246 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M270DE16LA (B180 / B200)",
         "quote": "The 1.6‑litre petrol turbo - reliable, no chain risk, and cheaper to buy and maintain than the 2.0‑litre. For most UK W246 buyers, this is the safest all‑round bet.",
-        "whoItsFor": "the default choice for W246 buyers who want the best balance of reliability and running costs."
+        "whoItsFor": "the default choice for W246 buyers who want the best balance of reliability and running costs.",
+        "image": "/cars/b-class-w246-standard-mpv-2012–2015-new-brilliant silver metallic-major redesign-b-class w246 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -505,7 +510,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your W246 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w246-facelift-mpv-2015–2019-new-hyacinth red metallic-revised front rear-b-class w246 fl-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -533,7 +539,8 @@
         "cta": {
           "label": "Compare M270 engine prices for your W246 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w246-standard-mpv-2012–2015-new-brilliant silver metallic-major redesign-b-class w246 (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -561,7 +568,8 @@
         "cta": {
           "label": "Compare OM607 engine prices for your W246 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/b-class-w246-standard-mpv-2012–2015-new-brilliant silver metallic-major redesign-b-class w246-45-angle-front-view.webp"
       }
     ]
   },
@@ -619,7 +627,7 @@
     ],
     "note": "No Generation variance from the Model Page’s baseline figures - W246 shares its engine bay architecture with the W176 A‑Class and X156 GLA, so costs are inherited directly per the Authority Model, with no divergence note required. OM651 costs carried forward from the EM data’s Table A."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "B160 CDI",

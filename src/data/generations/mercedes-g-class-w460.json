@@ -401,37 +401,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM617 (300 GD)",
         "quote": "“The 3.0‑litre five‑cylinder naturally aspirated diesel is the G‑Class's most legendary engine - indestructible, mechanical, and capable of exceeding 500,000 miles with basic maintenance. 88 PS won't win any races, but it'll get you anywhere.” Who it’s for: Buyers who want the ultimate classic G‑Class diesel with the strongest reputation.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M110 (280 GE)",
         "quote": "“The 2.8‑litre straight‑six is the most refined petrol in the W460 range - smooth, torquey, and with Bosch K‑Jetronic mechanical fuel injection that's simpler than modern electronic systems. 156 PS transforms the G‑Class from agricultural to genuinely usable.” Who it’s for: Buyers who want the best‑driving W460 petrol without the carburettor's cold‑start compromises.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M115 (230 G, pre‑1982)",
         "quote": "“The carburettor four‑cylinder is the oldest engine in the range - simple but thirsty, cold‑start sensitive, and with carburettor wear that can be difficult to diagnose. The M102 fuel‑injected replacement was a significant improvement.” Who it’s for: Purists who want the original G‑Class experience and don't mind the compromises.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M110 (280 GE)",
         "quote": "“The straight‑six is robust, but parts are increasingly expensive and specialist‑only. Timing chain tensioner wear, K‑Jetronic injection system issues, and the sheer size of the engine make it the costliest petrol to maintain. A full rebuild is a four‑figure event.” Who it’s for: Buyers who want six‑cylinder refinement and have the budget to maintain it.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM616 (240 GD)",
         "quote": "“The 2.4‑litre four‑cylinder diesel is the entry‑level G‑Class engine - 72 PS is slow even by 1980s standards, but it's mechanically simple, cheap to rebuild, and will outlast the chassis. Parts are widely available across Europe.” Who it’s for: Buyers who want a diesel G‑Class on a tighter budget.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM602 (250 GD)",
         "quote": "“Often overshadowed by the legendary OM617, the later 2.5‑litre five‑cylinder OM602 is actually more refined and almost as durable - 84 PS with a smoother power delivery and lower fuel consumption. It's the sweet spot of the W460 diesel range.” Who it’s for: Buyers who want five‑cylinder diesel refinement without the OM617's classic‑tax premium.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       }
     ]
   },
@@ -542,7 +548,8 @@
         "cta": {
           "label": "Compare W460 bodywork restoration quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -570,7 +577,8 @@
         "cta": {
           "label": "Compare OM617 engine prices for your W460 300 GD →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -598,7 +606,8 @@
         "cta": {
           "label": "Compare M110 engine prices for your W460 280 GE →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -626,7 +635,8 @@
         "cta": {
           "label": "Compare M115 engine prices for your W460 230 G →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

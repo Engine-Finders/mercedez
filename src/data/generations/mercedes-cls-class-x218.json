@@ -476,7 +476,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your X218 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-x218-cls63 amg s shooting brake-performance estate-2014–2017-special-jupiter red-amg facelift body-cls x218 cls63 amg s shooting-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -504,7 +505,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your X218 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-x218-shooting brake-estate coupé-2012–2014-new-iridium silver metallic-completely different rear body-cls x218 shooting brake-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -532,7 +534,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your X218 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-x218-cls63 amg s shooting brake-performance estate-2014–2017-special-jupiter red-amg facelift body-cls x218 cls63 amg s shooting-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -560,7 +563,8 @@
         "cta": {
           "label": "Compare M157 engine prices for your CLS 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-x218-shooting brake-estate coupé-2012–2014-new-iridium silver metallic-completely different rear body-cls x218 shooting brake-45-angle-front-view.webp"
       }
     ]
   },
@@ -626,7 +630,7 @@
     ],
     "note": "No Generation variance from the Model Page’s baseline figures - X218 shares its engine bay architecture with the C218 coupé and W212 E‑Class, so costs are inherited directly per the Authority Model, with no divergence note required. OM651, OM642, and M276 costs carried forward from the EM data’s Table A."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLS 220 BlueTEC",

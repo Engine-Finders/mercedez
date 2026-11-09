@@ -278,7 +278,8 @@
         "cta": {
           "label": "Compare C118 M282 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c118-coupé-4-door coupé-2019–2023-new-polar white-new generation-cla c118 (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -306,7 +307,8 @@
         "cta": {
           "label": "Compare C118 OM654 AdBlue repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c118-coupé-4-door coupé-2019–2023-new-polar white-new generation-cla c118 (3)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -334,7 +336,8 @@
         "cta": {
           "label": "Compare C118 M260 water pump repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c118-coupé-4-door coupé-2019–2023-new-polar white-new generation-cla c118-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -362,7 +365,8 @@
         "cta": {
           "label": "Compare C118 M139 turbo repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c118-coupé-4-door coupé-2019–2023-new-polar white-new generation-cla c118 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -436,7 +440,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLA 180 d",

@@ -496,7 +496,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your C292 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -509,7 +510,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your C292 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -522,7 +524,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your C292 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -535,7 +538,8 @@
         "cta": {
           "label": "Compare C292 air suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -609,7 +613,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLE 350 d",

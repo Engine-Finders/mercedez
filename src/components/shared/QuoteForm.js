@@ -19,7 +19,7 @@ const emptyVehicle = {
 };
 
 function engineLitres(raw) {
-  if (!raw) return "—";
+  if (!raw) return "-";
   const cleaned = String(raw).replace(/[^\d.]/g, "");
   const num = Number(cleaned);
   if (!Number.isFinite(num) || num <= 0) return String(raw);
@@ -250,7 +250,7 @@ export default function QuoteForm({ onSuccess, compact = false }) {
     }
   }
 
-  // Hero / sticky redirects land on /quote?reg=ABC123 — fill + fetch vehicle.
+  // Hero / sticky redirects land on /quote?reg=ABC123 - fill + fetch vehicle.
   useEffect(() => {
     const fromUrl = searchParams?.get("reg") || searchParams?.get("vrm") || "";
     const cleaned = fromUrl.replace(/\s+/g, "").toUpperCase();
@@ -367,7 +367,7 @@ export default function QuoteForm({ onSuccess, compact = false }) {
       }`}
     >
       <div className="relative overflow-hidden px-3.5 pb-8 pt-5 sm:px-7 sm:pb-10 sm:pt-6">
-        <Image src="/sec2-bg.webp" alt="" fill priority className="object-cover object-center" sizes="672px" />
+        <Image src="/Amg-gt.webp" alt="" fill priority className="object-cover object-center" sizes="672px" />
         <div className="absolute inset-0 bg-black/55" />
         <div className="relative z-[1] text-center sm:text-left">
           <h1 className="text-xl font-extrabold leading-tight text-white sm:text-[1.75rem]">
@@ -430,13 +430,13 @@ export default function QuoteForm({ onSuccess, compact = false }) {
                   <li className="flex items-center gap-2">
                     <IconCalendar className="h-4 w-4 shrink-0 text-[var(--color-text)]" />
                     <span>
-                      <span className="font-semibold text-[var(--color-text)]">Year:</span> {vehicle.year || "—"}
+                      <span className="font-semibold text-[var(--color-text)]">Year:</span> {vehicle.year || "-"}
                     </span>
                   </li>
                   <li className="flex items-center gap-2">
                     <IconFuel className="h-4 w-4 shrink-0 text-[var(--color-text)]" />
                     <span>
-                      <span className="font-semibold text-[var(--color-text)]">Fuel Type:</span> {vehicle.fuelType || "—"}
+                      <span className="font-semibold text-[var(--color-text)]">Fuel Type:</span> {vehicle.fuelType || "-"}
                     </span>
                   </li>
                   <li className="flex items-center gap-2">
@@ -452,7 +452,7 @@ export default function QuoteForm({ onSuccess, compact = false }) {
                       aria-hidden="true"
                     />
                     <span>
-                      <span className="font-semibold text-[var(--color-text)]">Colour:</span> {vehicle.colour || "—"}
+                      <span className="font-semibold text-[var(--color-text)]">Colour:</span> {vehicle.colour || "-"}
                     </span>
                   </li>
                 </ul>

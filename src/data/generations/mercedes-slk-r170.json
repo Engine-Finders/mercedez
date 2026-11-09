@@ -509,7 +509,8 @@
         "cta": {
           "label": "Compare M111 engine prices for your R170 SLK →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -537,7 +538,8 @@
         "cta": {
           "label": "Compare M112 engine prices for your R170 SLK 320 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -565,7 +567,8 @@
         "cta": {
           "label": "Compare M112 AMG engine prices for your R170 SLK 32 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -593,7 +596,8 @@
         "cta": {
           "label": "Compare R170 vario-roof repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

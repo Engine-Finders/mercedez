@@ -431,37 +431,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642.940 (ML 320 CDI, 2005–2009)",
         "quote": "The 3.0-litre V6 diesel OM642 delivers 224 hp with 510 Nm of torque, combining strong performance with reasonable economy. It's a robust, proven engine that regularly exceeds 200,000 miles with proper maintenance - though oil cooler seal leaks are a known issue. The ML 350 BlueTEC (OM642.820) from 2009 onwards is equally refined.",
-        "whoItsFor": "buyers who want the best combination of performance, economy and reliability in the W164 range."
+        "whoItsFor": "buyers who want the best combination of performance, economy and reliability in the W164 range.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M113.964 (ML 500, 5.0-litre V8)",
         "quote": "The 5.0-litre M113 V8 is one of the most bulletproof petrol engines Mercedes ever built - 306 hp of smooth, naturally aspirated power, no balance-shaft issues, no timing-chain worries. It's the W164's sleeper pick - a V8 that sounds wonderful and keeps going.",
-        "whoItsFor": "buyers who want V8 refinement without the M273's balance-shaft risk."
+        "whoItsFor": "buyers who want V8 refinement without the M273's balance-shaft risk.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272.967 (ML 350, 3.5-litre V6)",
         "quote": "The M272 V6 is a great engine - but early units (2005–2008) suffer from a well-documented balance shaft gear failure. The teeth wear away, causing the timing to jump and potentially destroying the engine. If your engine serial number starts with '272', check whether it's in the affected range. The ML 500 with M113 V8 and diesel models were NOT affected.",
-        "whoItsFor": "buyers willing to check engine numbers and budget for balance shaft replacement, or those buying post-2008 examples."
+        "whoItsFor": "buyers willing to check engine numbers and budget for balance shaft replacement, or those buying post-2008 examples.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156.980 (ML 63 AMG, 6.2-litre V8)",
         "quote": "The 6.2-litre M156 V8 is a masterpiece - 510 hp of naturally aspirated AMG thunder, at the time the world's most powerful naturally aspirated 8-cylinder standard-production engine. But when it fails, it fails expensively. Camshaft adjusters, lifters, and the sheer cost of AMG-specific parts mean replacement bills frequently hit five figures.",
-        "whoItsFor": "collectors and enthusiasts with deep pockets."
+        "whoItsFor": "collectors and enthusiasts with deep pockets.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM642.940 (ML 280 CDI, 2005–2009)",
         "quote": "The ML 280 CDI offers 190 hp with the same robust OM642 V6 diesel as the more powerful ML 320 CDI. It's cheaper to buy, cheaper to insure, and cheaper to replace than the petrol alternatives - the sweet spot in the W164 diesel range for most UK buyers.",
-        "whoItsFor": "buyers who want diesel economy and reliability without the V8's fuel consumption."
+        "whoItsFor": "buyers who want diesel economy and reliability without the V8's fuel consumption.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM629.912 (ML 420 CDI, 4.0-litre V8 diesel)",
         "quote": "The 4.0-litre V8 diesel is rare in the W164 - 260 hp and an effortless 560 Nm of torque. It's the ultimate W164 for long-distance towing, offering V8 refinement with diesel economy. But it's a specialist engine - parts are harder to find and labour is more intensive than the V6 diesel.",
-        "whoItsFor": "buyers who need serious towing capability and are prepared for specialist maintenance."
+        "whoItsFor": "buyers who need serious towing capability and are prepared for specialist maintenance.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -567,7 +573,8 @@
         "cta": {
           "label": "Compare M272/M273 engine prices for your W164 ML 350/500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -595,7 +602,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W164 ML 280/320 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -623,7 +631,8 @@
         "cta": {
           "label": "Compare W164 air suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -651,7 +660,8 @@
         "cta": {
           "label": "Compare OM642 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -733,7 +743,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - W164 SUV shares its platform with the X164 GL-Class, so costs are inherited directly per the Authority Model, with no divergence note required. M156 AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "ML 280 CDI",

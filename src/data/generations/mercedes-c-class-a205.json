@@ -461,37 +461,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (C220d, facelift)",
         "quote": "The 2.0‑litre four‑cylinder diesel - 194 bhp, 400 Nm of torque, and a significant step forward from the OM651 it replaced. Quieter, smoother, and more efficient, with a timing chain that's more durable than the OM651's notorious rear‑mounted unit.",
-        "whoItsFor": "buyers who want modern diesel refinement without the OM651's chain concerns."
+        "whoItsFor": "buyers who want modern diesel refinement without the OM651's chain concerns.",
+        "image": "/cars/c-class-a205-c43 amg cabriolet-performance convertible-2016–2021-special-designo hyacinth red metallic-amg exterior-c-class a205 c43 amg cab-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M264 E20 DEH LA (C300, facelift)",
         "quote": "The 2.0‑litre turbo petrol with 48V mild‑hybrid assistance - 258 bhp plus 14 bhp EQ Boost, 370 Nm of torque, and the seamless stop‑start that only a 48V system can deliver. It's the sweet spot of the petrol range: more powerful than the C200, but without the AMG's running costs.",
-        "whoItsFor": "buyers who want six‑cylinder performance from a four‑cylinder package with modern hybrid efficiency."
+        "whoItsFor": "buyers who want six‑cylinder performance from a four‑cylinder package with modern hybrid efficiency.",
+        "image": "/cars/c-class-a205-cabriolet-convertible-2016–2018-new-diamond silver metallic-separate body-c-class a205 cab-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM651.921 (C220d / C250d, pre‑facelift)",
         "quote": "The 2.1‑litre twin‑turbo diesel - timing chain at the rear of the engine, a £2,500+ job when it fails, and a design that was already ageing by the time the A205 launched in 2016. Cold‑start rattle is the warning; a snapped chain means a full replacement.",
-        "whoItsFor": "buyers who understand the OM651's reputation and budget for chain replacement - or buy the facelift OM654 instead."
+        "whoItsFor": "buyers who understand the OM651's reputation and budget for chain replacement - or buy the facelift OM654 instead.",
+        "image": "/cars/c-class-a205-facelift cabriolet-convertible-2018–2021-new-cosmos black metallic-facelift-c-class a205 fl cab-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M177 DE40 LA (C63 / C63 S)",
         "quote": "The 4.0‑litre twin‑turbo V8 is a masterpiece, but when it fails - hot‑vee design, valve stem seals, timing chain, or the rear‑main seal leak that affects many M177 units - the repair bills are in a different league. Low production numbers (cabriolet AMG is rare) mean parts are specialist‑only.",
-        "whoItsFor": "collectors and enthusiasts who understand that 510 bhp comes with a six‑figure maintenance budget."
+        "whoItsFor": "collectors and enthusiasts who understand that 510 bhp comes with a six‑figure maintenance budget.",
+        "image": "/cars/c-class-a205-c43 amg cabriolet-performance convertible-2016–2021-special-designo hyacinth red metallic-amg exterior-c-class a205 c43 amg cab-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M264 E15 DEH LA (C200, facelift)",
         "quote": "The 1.5‑litre turbo with 48V mild hybrid - 184 bhp plus 14 bhp EQ Boost, 280 Nm of torque, and the most efficient petrol in the range. It's the entry‑point to the A205 range, but the 48V system makes it feel more refined than its displacement suggests.",
-        "whoItsFor": "buyers who want modern petrol efficiency without the C300's higher running costs."
+        "whoItsFor": "buyers who want modern petrol efficiency without the C300's higher running costs.",
+        "image": "/cars/c-class-a205-cabriolet-convertible-2016–2018-new-diamond silver metallic-separate body-c-class a205 cab-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M264 E20 DEH LA (C300, facelift)",
         "quote": "The facelift C300 is often overshadowed by the AMG models and the diesel C220d, but it's the quiet achiever of the range - 258 bhp, 48V mild hybrid, and none of the OM651's chain concerns or the M177's running costs.",
-        "whoItsFor": "buyers who want near‑AMG performance with four‑cylinder running costs."
+        "whoItsFor": "buyers who want near‑AMG performance with four‑cylinder running costs.",
+        "image": "/cars/c-class-a205-facelift cabriolet-convertible-2018–2021-new-cosmos black metallic-facelift-c-class a205 fl cab-45-angle-front-view.webp"
       }
     ]
   },
@@ -595,7 +601,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-a205-c43 amg cabriolet-performance convertible-2016–2021-special-designo hyacinth red metallic-amg exterior-c-class a205 c43 amg cab-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -608,7 +615,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-a205-cabriolet-convertible-2016–2018-new-diamond silver metallic-separate body-c-class a205 cab-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -621,7 +629,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-a205-facelift cabriolet-convertible-2018–2021-new-cosmos black metallic-facelift-c-class a205 fl cab-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -634,7 +643,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-a205-c43 amg cabriolet-performance convertible-2016–2021-special-designo hyacinth red metallic-amg exterior-c-class a205 c43 amg cab-45-angle-front-view.webp"
       }
     ]
   },
@@ -732,7 +742,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any M274, M264, OM651, OM654 or M177 family. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines (e.g., BMW B58B30, Mercedes <a  href='https://mercedesengines.uk/engine/om642'>OM642</a>), adjusted for the A205's cabriolet‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C220d",

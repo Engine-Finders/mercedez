@@ -419,37 +419,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642 (GLE 350 d)",
         "quote": "“The 3.0‑litre V6 turbodiesel is the GLE's most dependable engine - proven across the Mercedes range and capable of 200,000+ miles with routine servicing. 258 PS and 620 Nm of torque deliver effortless SUV performance.” Who it’s for: Buyers who want diesel economy and six‑figure mileage potential.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M276 (GLE 400)",
         "quote": "“The 3.0‑litre biturbo V6 is the sweet spot of the GLE petrol range - 333 PS with smooth power delivery and better fuel economy than the V8. It’s free of the OM651's diesel complications and more affordable to maintain than the AMG variants.” Who it’s for: Buyers who want V6 refinement without AMG running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM651 (GLE 250 d)",
         "quote": "“The 2.1‑litre four‑cylinder diesel has two well‑documented weaknesses - EGR cooler failure (cracking under thermal stress) and turbocharger bearing collapse, which can strike without warning and destroy the engine.” Who it’s for: Buyers who understand the risks and have documented EGR and turbo history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M157 (GLE 63 / 63 S AMG)",
         "quote": "“The 5.5‑litre biturbo V8 is a masterpiece - but punishing to repair. Turbocharger issues, cooling system failures, and the sheer complexity of the AMG engine bay add up fast. A full replacement runs well into five figures.” Who it’s for: AMG enthusiasts with deep pockets and full service history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM642 (GLE 350 d)",
         "quote": "“The V6 diesel offers the best balance of performance, reliability, and running costs - more refined than the OM651, more economical than the petrol V6, and with a proven track record across the Mercedes range.” Who it’s for: Buyers who want the most sensible GLE engine choice.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M276 (GLE 450 AMG / GLE 43 AMG)",
         "quote": "“Often overshadowed by the V8 AMG models, the 367 PS biturbo V6 in the GLE 450 and GLE 43 delivers genuine performance with lower running costs than the M157. It’s the sweet spot of the AMG‑badged GLE range.” Who it’s for: Performance buyers who want AMG style without V8 running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       }
     ]
   },
@@ -568,7 +574,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your W166 GLE 250 d →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -596,7 +603,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W166 GLE 350 d →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -624,7 +632,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your W166 GLE 400 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -652,7 +661,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your W166 GLE 500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -742,7 +752,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures - W166 SUV shares identical engine‑bay access with its C292 GLE Coupé sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLE 250 d",

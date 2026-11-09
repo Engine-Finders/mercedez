@@ -534,7 +534,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your C218 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c218-coupé-4-door coupé-2011–2014-new-designo diamond white bright-new generation-cls c218 (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -547,7 +548,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your C218 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c218-coupé-4-door coupé-2011–2014-new-designo diamond white bright-new generation-cls c218-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -560,7 +562,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your C218 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c218-facelift coupé-4-door coupé-2014–2017-new-cavansite blue metallic-major facelift-cls c218 fl coupe-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -573,7 +576,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your C218 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c218-coupé-4-door coupé-2011–2014-new-designo diamond white bright-new generation-cls c218 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -655,7 +659,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the C218 shares its engine bay layout with the W212 E-Class, so costs are consistent."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLS 220 BlueTEC",

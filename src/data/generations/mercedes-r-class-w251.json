@@ -566,7 +566,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your W251 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -579,7 +580,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W251 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -592,7 +594,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W251 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -605,7 +608,8 @@
         "cta": {
           "label": "Compare W251 air suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -679,7 +683,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "R 280 CDI",

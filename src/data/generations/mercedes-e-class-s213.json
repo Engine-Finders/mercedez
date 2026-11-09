@@ -557,37 +557,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM656.929 (E 400 d)",
         "quote": "The 2.9-litre inline-six diesel delivers 330 bhp and 700 Nm of torque - effortless, refined, and the most powerful six-cylinder diesel in the range. Injector and AdBlue system issues are emerging as its only real demands.",
-        "whoItsFor": "buyers who want six-cylinder diesel refinement without the V8's fuel bills."
+        "whoItsFor": "buyers who want six-cylinder diesel refinement without the V8's fuel bills.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M256.930 (post-2020 E 450 / E 53)",
         "quote": "The 3.0-litre inline-six with EQ Boost is a masterpiece - smooth, responsive, and with the 48V mild-hybrid system filling the torque gaps. It replaced the M276 V6 and is genuinely better in every way.",
-        "whoItsFor": "buyers who want the most advanced petrol engine in the range."
+        "whoItsFor": "buyers who want the most advanced petrol engine in the range.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M274.920 (pre-2020 E 200/E 300)",
         "quote": "The 2.0-litre turbo four is a solid engine, but it was superseded by the M264 for good reason - carbon buildup and HPFP issues are known weaknesses on higher-mileage examples.",
-        "whoItsFor": "budget-conscious buyers who accept the older tech."
+        "whoItsFor": "budget-conscious buyers who accept the older tech.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M177.980 (E 63/E 63 S)",
         "quote": "The 4.0-litre twin-turbo V8 delivers up to 612 bhp in S form, but the hot-vee layout concentrates heat between the cylinder banks - valve cover oil leaks and coolant system issues are the most common, with full replacement costs reaching £16,000.",
-        "whoItsFor": "AMG buyers with deep pockets and full service history."
+        "whoItsFor": "AMG buyers with deep pockets and full service history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (E 220 d / E 300 d)",
         "quote": "The 2.0-litre four-cylinder diesel offers genuine economy (50+ mpg) with the reliability of Mercedes' modern common-rail system - and avoids the ageing OM651's injector seal issues entirely.",
-        "whoItsFor": "buyers who want a modern, efficient estate without the V6 or V8 premium."
+        "whoItsFor": "buyers who want a modern, efficient estate without the V6 or V8 premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M276.823 (E 400/E 450, pre-2020)",
         "quote": "The 3.0-litre twin-turbo V6 is often overshadowed by the newer M256, but it offers genuine performance (5.2s to 60mph) with well-understood, manageable maintenance costs. Timing chain stretch is the main concern, but it's a known fix.",
-        "whoItsFor": "buyers who want V6 performance without the newer engine's premium."
+        "whoItsFor": "buyers who want V6 performance without the newer engine's premium.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -706,7 +712,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your S213 E 220 d →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -734,7 +741,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your S213 E 450 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -762,7 +770,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your S213 E 63 S →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -790,7 +799,8 @@
         "cta": {
           "label": "Compare M256 engine prices for your S213 E 450 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -912,7 +922,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the S213 estate shares its MRA platform with the W213 saloon, and engine-bay access is consistent across the range."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 200 d",

@@ -434,7 +434,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your C117 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c117-coupé-4-door coupé-2013–2016-new-brilliant silver metallic-first generation-cla c117 (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -462,7 +463,8 @@
         "cta": {
           "label": "Compare M270 engine prices for your C117 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c117-coupé-4-door coupé-2013–2016-new-brilliant silver metallic-first generation-cla c117 (3)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -490,7 +492,8 @@
         "cta": {
           "label": "Compare OM607 engine prices for your C117 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c117-coupé-4-door coupé-2013–2016-new-brilliant silver metallic-first generation-cla c117-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -518,7 +521,8 @@
         "cta": {
           "label": "Compare M133 engine prices for your CLA 45 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-c117-facelift coupé-4-door coupé-2016–2019-new-cavansite blue metallic-facelift-cla c117 fl coupe-45-angle-front-view.webp"
       }
     ]
   },
@@ -584,7 +588,7 @@
     ],
     "note": "No Generation variance from the Model Page’s baseline figures - C117 shares its engine bay architecture with the W176 A‑Class and X156 GLA, so costs are inherited directly per the Authority Model, with no divergence note required. OM651, OM607, and M270 costs carried forward from the EM data’s Table A."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLA 180 CDI",

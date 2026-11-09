@@ -365,37 +365,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM651.930 (GLA 200 d / 220 d)",
         "quote": "Mercedes' own 2.1‑litre diesel, first used in the B‑Class, is the pick of the X156 diesel range - smooth, torquey, and backed by a strong reliability record when serviced properly. The 220 d variant delivers 177 bhp with 350 Nm of torque.",
-        "whoItsFor": "buyers who want a modern, efficient diesel without the Renault‑sourced compromises."
+        "whoItsFor": "buyers who want a modern, efficient diesel without the Renault‑sourced compromises.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M270.920 (GLA 250)",
         "quote": "Mercedes' 2.0‑litre turbo petrol, delivering 211 bhp with a responsive character and strong torque. It's the enthusiast's choice in the X156 range.",
-        "whoItsFor": "buyers who want genuine performance from a compact SUV."
+        "whoItsFor": "buyers who want genuine performance from a compact SUV.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM607.951 (GLA 180 CDI / d)",
         "quote": "The Renault‑sourced 1.5‑litre diesel is economical but lacks the refinement and long‑term durability of Mercedes' own OM651. It has known turbo and DPF issues, particularly on higher‑mileage examples.",
-        "whoItsFor": "buyers on a tight budget who prioritise low running costs over longevity."
+        "whoItsFor": "buyers on a tight budget who prioritise low running costs over longevity.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M133.980 (GLA 45 AMG) - turbocharger and cooling system",
         "quote": "The high‑output AMG engine demands meticulous maintenance; turbocharger failure due to oil feed line contamination has been the subject of a service campaign. Cooling system issues can also be costly if neglected.",
-        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs."
+        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M270.910 (GLA 200)",
         "quote": "The 1.6‑litre turbo petrol offers the best balance of performance (156 bhp), economy, and reliability. It's the sweet spot in the X156 petrol range.",
-        "whoItsFor": "buyers who want a petrol without the AMG running costs."
+        "whoItsFor": "buyers who want a petrol without the AMG running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M270.920 (GLA 250 4MATIC)",
         "quote": "The 211 bhp 2.0‑litre with all‑wheel drive offers genuine year‑round capability. It's often overlooked in favour of the diesel but offers a better real‑world balance for UK weather.",
-        "whoItsFor": "buyers who need all‑weather traction without the top‑spec premium."
+        "whoItsFor": "buyers who need all‑weather traction without the top‑spec premium.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -483,7 +489,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your X156 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -496,7 +503,8 @@
         "cta": {
           "label": "Compare M270 engine prices for your X156 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -509,7 +517,8 @@
         "cta": {
           "label": "Compare M133 engine prices for your GLA 45 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

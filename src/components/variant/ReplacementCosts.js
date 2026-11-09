@@ -102,7 +102,7 @@ export default function ReplacementCosts({ data }) {
     <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 3)}`}>
       <SectionHeaderBand
         title={data.h2}
-        image={{ src: "/sec2-bg.webp", alt: "" }}
+        image={{ src: "/Amg-gt.webp", alt: "" }}
         isDark={isDark}
         panelBg={sectionPanelBg(isDark, 3)}
         panelRgb={sectionPanelRgb(isDark, 3)}

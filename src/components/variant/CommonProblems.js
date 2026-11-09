@@ -121,7 +121,7 @@ export default function CommonProblems({ data }) {
     <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 4)}`}>
       <SectionHeaderBand
         title="Common Problems"
-        image={{ src: "/sec2-bg.webp", alt: "" }}
+        image={{ src: "/Amg-gt.webp", alt: "" }}
         isDark={isDark}
         panelBg={sectionPanelBg(isDark, 4)}
         panelRgb={sectionPanelRgb(isDark, 4)}

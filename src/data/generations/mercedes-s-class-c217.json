@@ -401,31 +401,36 @@
         "slot": "Best Petrol Overall",
         "engine": "M176.980 (S 560 4MATIC, 2017–2020)",
         "quote": "The 4.0-litre hot-vee V8 M176 is a masterpiece of modern engineering - 469 hp, 700 Nm of torque, and the smoothest V8 Mercedes has made in decades. The 'hot-vee' design places the turbos inside the V of the engine, virtually eliminating lag. It's more reliable than the M278 it replaced, with fewer timing-chain and oil-leak issues. The S 560 is the sweet spot in the C217 range - V8 performance without AMG running costs.",
-        "whoItsFor": "buyers who want V8 refinement and effortless performance without the AMG tax."
+        "whoItsFor": "buyers who want V8 refinement and effortless performance without the AMG tax.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M276.824 (S 400/S 450 4MATIC, 2014–2020)",
         "quote": "The 3.0-litre twin-turbo V6 M276 delivers 367 hp with 500 Nm of torque - more than enough for UK roads. It's the cheapest C217 to buy, the cheapest to insure, and the cheapest to replace. The M276 is a well-regarded engine with fewer major failure modes than the V8s. The sweet spot in the C217 range for most UK buyers.",
-        "whoItsFor": "buyers who want the S-Class coupé experience without the V8 running costs."
+        "whoItsFor": "buyers who want the S-Class coupé experience without the V8 running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M278.929 (S 500, 2014–2017)",
         "quote": "The 4.7-litre M278 V8 is a great engine - but it comes with known issues: timing chain wear, camshaft adjuster failure, and oil leaks from the rear main seal. The cylinder shut-off system can also cause issues. If you're buying a pre-facelift S 500, budget for timing-chain inspection and rear-main-seal replacement. The M176 in the facelift S 560 is a much safer bet.",
-        "whoItsFor": "buyers willing to accept higher maintenance costs for the pre-facelift V8 experience."
+        "whoItsFor": "buyers willing to accept higher maintenance costs for the pre-facelift V8 experience.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M279.980 (S 65 AMG, 6.0-litre V12)",
         "quote": "The 6.0-litre M279 V12 is the last of its kind - 630 hp, 1,000 Nm of torque, and a sound that no V8 can match. But when it fails, it fails expensively. V12-specific parts are rare and costly, labour is intensive, and the sheer complexity of the twin-turbo 12-cylinder means replacement bills frequently hit five figures. The C217 was the last V12-powered Mercedes coupé ever produced - if you buy one, treat it as a collector's item with a maintenance budget to match.",
-        "whoItsFor": "collectors and enthusiasts with deep pockets who want the last V12 Mercedes coupé."
+        "whoItsFor": "collectors and enthusiasts with deep pockets who want the last V12 Mercedes coupé.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M176.980 (S 560 4MATIC)",
         "quote": "The S 560 is often overlooked in favour of the S 63 AMG, but it offers 469 hp of effortless V8 power with significantly lower running costs. The M176 hot-vee V8 is one of the most refined engines Mercedes has ever built - and with 700 Nm of torque, it's quicker than most drivers will ever need. It's the C217's sleeper pick.",
-        "whoItsFor": "buyers who want V8 refinement without the AMG badge tax."
+        "whoItsFor": "buyers who want V8 refinement without the AMG badge tax.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -523,7 +528,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your C217 S 500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -551,7 +557,8 @@
         "cta": {
           "label": "Compare M157/M177 engine prices for your C217 S 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -579,7 +586,8 @@
         "cta": {
           "label": "Compare M279 engine prices for your C217 S 65 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -607,7 +615,8 @@
         "cta": {
           "label": "Compare C217 ABC suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -673,7 +682,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - C217 coupé shares its W222-derived engine bay with the A217 convertible and W222 saloon, so costs are inherited directly per the Authority Model, with no divergence note required. AMG and V12 costs reflect specialist parts and labour requirements."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

@@ -117,7 +117,7 @@ function RankingCard({ row, isDark }) {
 export default function HomeSec4({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || { src: "/Amg-gt.webp", alt: "" };
   const rankings = data.rankings || [];
 
   return (

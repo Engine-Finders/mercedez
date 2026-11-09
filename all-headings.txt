@@ -1,108 +1,2210 @@
-# Heading Reference - 5 Page Types
-# Goal: hardcode H1/H2 in components. Dynamic pages share the same section labels
-# (only the model/variant/generation name changes inside the text).
+# All H1 / H2 from JSON data files
+# Extracted keys: h1, h2 only
 
 # ============================================================
-# 1) HOMEPAGE  (src/app/page.js)
+# 1) HOMEPAGE
 # ============================================================
-# H1 (hardcoded in HomeSec1.js)
-- The UK's Most Trusted Mercedes-Benz Ownership Guide
 
-# H2 - one per section (HomeSec2..HomeSec14)
-- Find Your Vehicle                                    (HomeSec2)
-- Diagnose Your Mercedes-Benz Engine Problem           (HomeSec3)
-- Mercedes-Benz Ownership Rankings                     (HomeSec4)
-- Comparison Hub - Head-to-Head Verdicts               (HomeSec5)
-- The Mercedes-Benz Ownership Economics Centre         (HomeSec6)
-- Mercedes-Benz Engine Families - The Pillars          (HomeSec7)
-- Mercedes-Benz Knowledge Centres                      (HomeSec8)
-- The Mercedes-Benz Failure Database                   (HomeSec9)
-- Mercedes-Benz Market Intelligence - What 4,200+ UK Owners Told Us in 2025  (HomeSec10)
-- Mercedes-Benz Engine History - Six Decades of Engineering  (HomeSec11)
-- Why Mercedes-Benz Owners Trust This Site             (HomeSec12)
-- Frequently Asked Questions                           (HomeSec13)
-- Not Sure Where to Start?                             (HomeSec14 - JSON "title")
-
+(no h1/h2 keys in JSON for this page type)
 
 # ============================================================
-# 2) MODEL PAGE  (src/app/[...slug]/page.js - single segment)
+# 2) MODEL PAGE
 # ============================================================
-# H1 (dynamic: data.h1 from src/data/models/*.json)
-#   Example: "A-Class Engines - The Complete UK Guide"
-#   Pattern: "{Model} Engines - The Complete UK Guide"
 
-# H2 - all dynamic (data.h2, except EditorialPullQuote uses data.title)
-# Section order in page.js:
-- Ownership Verdict        (data.h2)   e.g. "A-Class - The Ownership Verdict"
-- At a Glance              (data.h2)   e.g. "A-Class at a Glance"
-- Generations Grid         (data.h2)   e.g. "A-Class Generations - Find Your Vehicle"
-- Engine Database          (data.h2)   e.g. "A-Class Engine Codes - The Complete Database"
-- Common Problems          (data.h2)   e.g. "Common A-Class Engine Problems"
-- Market Intelligence      (data.h2)   e.g. "A-Class Market Intelligence - What 750+ UK Owners Told Us in 2025"
-- Editorial Pull Quote     (data.title) e.g. "The One Thing We'd Tell Every A-Class Buyer"
-- Replacement Costs        (data.h2)   e.g. "A-Class Engine Replacement Costs - By Generation"
-- Engine Evolution         (data.h2)   e.g. "How the A‑Class Engine Range Evolved - 1997 to Today"
-- Who Should Buy           (data.h2)   e.g. "Who Should Buy an A‑Class?"
-- Calculator CTA           (data.h2)   e.g. "Can I Repair My A‑Class Engine - or Should I Replace It?"
-- Trust Block              (data.h2)   e.g. "Why A‑Class Owners Trust MercedesEngine.uk"
-- FAQ                      (data.h2)   e.g. "A‑Class Frequently Asked Questions"
-- Closing Action Cards     (data.h2)   e.g. "Ready to Make a Decision?"
+## src/data/models/a-class.json
+H1: A-Class Engines - The Complete UK Guide
+H2: A-Class - The Ownership Verdict
+H2: A-Class at a Glance
+H2: A-Class Generations - Find Your Vehicle
+H2: A-Class Engine Codes - The Complete Database
+H2: Common A-Class Engine Problems
+H2: A-Class Market Intelligence - What 750+ UK Owners Told Us in 2025
+H2: A-Class Engine Replacement Costs - By Generation
+H2: How the A‑Class Engine Range Evolved - 1997 to Today
+H2: Who Should Buy an A‑Class?
+H2: Can I Repair My A‑Class Engine - or Should I Replace It?
+H2: Why A‑Class Owners Trust MercedesEngine.uk
+H2: A‑Class Frequently Asked Questions
+H2: Ready to Make a Decision?
 
+## src/data/models/amg-gt.json
+H1: AMG GT Engines - The Complete UK Guide
+H2: AMG GT - The Ownership Verdict
+H2: AMG GT at a Glance
+H2: AMG GT Generations - Find Your Vehicle
+H2: AMG GT Engine Codes - The Complete Database
+H2: Common AMG GT Engine Problems
+H2: AMG GT Market Intelligence - What 150+ UK Owners Told Us in 2025
+H2: AMG GT Engine Replacement Costs - By Generation
+H2: How the AMG GT Engine Range Evolved - 2015 to Today
+H2: Who Should Buy an AMG GT?
+H2: Can I Repair My AMG GT Engine - or Should I Replace It?
+H2: Why AMG GT Owners Trust mercedesengine.uk
+H2: AMG GT Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/b-class.json
+H1: B-Class Engines - The Complete UK Guide
+H2: B-Class - The Ownership Verdict
+H2: B-Class at a Glance
+H2: B-Class Generations - Find Your Vehicle
+H2: B-Class Engine Codes - The Complete Database
+H2: Common B-Class Engine Problems
+H2: B-Class Market Intelligence - What 177+ UK Owners Told Us in 2025
+H2: B-Class Engine Replacement Costs - By Generation
+H2: How the B-Class Engine Range Evolved - 2005 to Today
+H2: Who Should Buy a B-Class?
+H2: Can I Repair My B-Class Engine - or Should I Replace It?
+H2: Why B-Class Owners Trust mercedesengine.uk
+H2: B-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/c-class.json
+H1: C-Class Engines - The Complete UK Guide
+H2: C-Class - The Ownership Verdict
+H2: C-Class at a Glance
+H2: C-Class Generations - Find Your Vehicle
+H2: C-Class Engine Codes - The Complete Database
+H2: Common C-Class Engine Problems
+H2: C-Class Market Intelligence - What 865+ UK Owners Told Us in 2025
+H2: C-Class Engine Replacement Costs - By Generation
+H2: How the C-Class Engine Range Evolved - 2000 to Today
+H2: Who Should Buy a C-Class?
+H2: Can I Repair My C-Class Engine - or Should I Replace It?
+H2: Why C-Class Owners Trust mercedesengine.uk
+H2: C-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/citan.json
+H1: Citan Engines - The Complete UK Guide
+H2: Mercedes Citan - The Ownership Verdict
+H2: Mercedes Citan at a Glance
+H2: Citan Generations - Find Your Vehicle
+H2: Mercedes Citan Engine Codes - The Complete Database
+H2: Common Mercedes Citan Engine Problems
+H2: Mercedes Citan Market Intelligence - What UK Specialists Told Us
+H2: Mercedes Citan Engine Replacement Costs - By Generation
+H2: How the Citan Engine Range Evolved - 2012 to Today
+H2: Who Should Buy a Mercedes Citan?
+H2: Can I Repair My Citan Engine - or Should I Replace It?
+H2: Why Citan Owners Trust mercedesengine.uk
+H2: Mercedes Citan Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/cla.json
+H1: CLA Engines - The Complete UK Guide
+H2: CLA - The Ownership Verdict
+H2: CLA at a Glance
+H2: CLA Generations - Find Your Vehicle
+H2: CLA Engine Codes - The Complete Database
+H2: Common CLA Engine Problems
+H2: CLA Market Intelligence - What UK Owners Told Us in 2025
+H2: CLA Engine Replacement Costs - By Generation
+H2: How the CLA Engine Range Evolved - 2013 to Today
+H2: Who Should Buy a CLA?
+H2: Why CLA Owners Trust mercedesengine.uk
+H2: CLA Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/clc-class.json
+H1: CLC-Class Engines - The Complete UK Guide
+H2: CLC-Class - The Ownership Verdict
+H2: CLC-Class at a Glance
+H2: CLC-Class Generations - Find Your Vehicle
+H2: CLC-Class Engine Codes - The Complete Database
+H2: Common CLC-Class Engine Problems
+H2: CLC-Class Market Intelligence - What UK Owners Told Us in 2025
+H2: CLC-Class Engine Replacement Costs - By Generation
+H2: How the CLC-Class Engine Range Evolved - 2000 to 2011
+H2: Who Should Buy a CLC-Class?
+H2: Can I Repair My CLC-Class Engine - or Should I Replace It?
+H2: Why CLC-Class Owners Trust mercedesengine.uk
+H2: CLC-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/clk.json
+H1: CLK Engines - The Complete UK Guide
+H2: CLK - The Ownership Verdict
+H2: CLK at a Glance
+H2: CLK Generations - Find Your Vehicle
+H2: CLK Engine Codes - The Complete Database
+H2: Common CLK Engine Problems
+H2: CLK Market Intelligence - What UK Owners Told Us in 2025
+H2: CLK Engine Replacement Costs - By Generation
+H2: How the CLK Engine Range Evolved - 1997 to 2009
+H2: Who Should Buy a CLK?
+H2: Can I Repair My CLK Engine - or Should I Replace It?
+H2: Why CLK Owners Trust MercedesEngines.uk
+H2: CLK Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/cls.json
+H1: CLS Engines - The Complete UK Guide
+H2: Mercedes CLS - The Ownership Verdict
+H2: Mercedes CLS at a Glance
+H2: Mercedes CLS Generations - Find Your Vehicle
+H2: Mercedes CLS Engine Codes - The Complete Database
+H2: Common Mercedes CLS Engine Problems
+H2: Mercedes CLS Market Intelligence - What 306+ UK Owners Told Us in 2025
+H2: Mercedes CLS Engine Replacement Costs - By Generation
+H2: How the CLS Engine Range Evolved - 2004 to Today
+H2: Who Should Buy a Mercedes CLS?
+H2: Can I Repair My CLS Engine - or Should I Replace It?
+H2: Why CLS Owners Trust mercedesengine.uk
+H2: Mercedes CLS Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/e-class.json
+H1: E-Class Engines - The Complete UK Guide
+H2: E-Class - The Ownership Verdict
+H2: E-Class at a Glance
+H2: E-Class Generations - Find Your Vehicle
+H2: E-Class Engine Codes - The Complete Database
+H2: Common E-Class Engine Problems
+H2: E-Class Market Intelligence - What 1,018+ UK Owners Told Us in 2025
+H2: E-Class Engine Replacement Costs - By Generation
+H2: How the E-Class Engine Range Evolved - 1993 to Today
+H2: Who Should Buy an E-Class?
+H2: Can I Repair My E-Class Engine - or Should I Replace It?
+H2: Why E-Class Owners Trust mercedesengine.uk
+H2: E-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/g-class.json
+H1: G-Class Engines - The Complete UK Guide
+H2: G-Class - The Ownership Verdict
+H2: G-Class at a Glance
+H2: G-Class Generations - Find Your Vehicle
+H2: G-Class Engine Codes - The Complete Database
+H2: Common G-Class Engine Problems
+H2: G-Class Market Intelligence - What 250+ UK Owners Told Us in 2025
+H2: G-Class Engine Replacement Costs - By Generation
+H2: How the G‑Class Engine Range Evolved - 1979 to Today
+H2: Who Should Buy a G‑Class?
+H2: Can I Repair My G‑Class Engine - or Should I Replace It?
+H2: Why G‑Class Owners Trust MercedesEngine.uk
+H2: G‑Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/gla.json
+H1: GLA Engines - The Complete UK Guide
+H2: GLA - The Ownership Verdict
+H2: GLA at a Glance
+H2: GLA Generations - Find Your Vehicle
+H2: GLA Engine Codes - The Complete Database
+H2: Common GLA Engine Problems
+H2: GLA Market Intelligence - What 750+ UK Owners Told Us in 2025
+H2: GLA Engine Replacement Costs - By Generation
+H2: How the GLA Engine Range Evolved - 2013 to Today
+H2: Who Should Buy a GLA?
+H2: Can I Repair My GLA Engine - or Should I Replace It?
+H2: Why GLA Owners Trust MercedesEngine.uk
+H2: GLA Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/glc.json
+H1: GLC Engines - The Complete UK Guide
+H2: GLC - The Ownership Verdict
+H2: GLC at a Glance
+H2: GLC Generations - Find Your Vehicle
+H2: GLC Engine Codes - The Complete Database
+H2: Common GLC Engine Problems
+H2: GLC Market Intelligence - What 526+ UK Owners Told Us in 2025
+H2: GLC Engine Replacement Costs - By Generation
+H2: How the GLC Engine Range Evolved - 2015 to Today
+H2: Who Should Buy a GLC?
+H2: Can I Repair My GLC Engine - or Should I Replace It?
+H2: Why GLC Owners Trust mercedesengine.uk
+H2: GLC Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/gle.json
+H1: GLE Engines - The Complete UK Guide
+H2: GLE - The Ownership Verdict
+H2: GLE at a Glance
+H2: GLE Generations - Find Your Vehicle
+H2: GLE Engine Codes - The Complete Database
+H2: Common GLE Engine Problems
+H2: GLE Market Intelligence - What UK Owners Told Us in 2025
+H2: GLE Engine Replacement Costs - By Generation
+H2: How the GLE Engine Range Evolved - 1997 to Today
+H2: Who Should Buy a GLE?
+H2: Why GLE Owners Trust mercedesengine.uk
+H2: GLE Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/glk.json
+H1: GLK Engines - The Complete UK Guide
+H2: GLK - The Ownership Verdict
+H2: GLK at a Glance
+H2: GLK Generations - Find Your Vehicle
+H2: GLK Engine Codes - The Complete Database
+H2: Common GLK Engine Problems
+H2: GLK Market Intelligence - What 152+ UK Owners Told Us in 2025
+H2: GLK Engine Replacement Costs - By Generation
+H2: How the GLK Engine Range Evolved - 2008 to 2015
+H2: Who Should Buy a GLK?
+H2: Can I Repair My GLK Engine - or Should I Replace It?
+H2: Why GLK Owners Trust mercedesengine.uk
+H2: GLK Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/gls.json
+H1: GLS Engines - The Complete UK Guide
+H2: GLS - The Ownership Verdict
+H2: GLS at a Glance
+H2: GLS Generations - Find Your Vehicle
+H2: GLS Engine Codes - The Complete Database
+H2: Common GLS Engine Problems
+H2: GLS Market Intelligence - What UK Owners Told Us in 2025
+H2: GLS Engine Replacement Costs - By Generation
+H2: How the GLS Engine Range Evolved - 2006 to Today
+H2: Who Should Buy a GLS?
+H2: Can I Repair My GLS Engine - or Should I Replace It?
+H2: Why GLS Owners Trust MercedesEngines.uk
+H2: GLS Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/m-class.json
+H1: M-Class Engines - The Complete UK Guide
+H2: M-Class - The Ownership Verdict
+H2: M-Class at a Glance
+H2: M-Class Generations - Find Your Vehicle
+H2: M-Class Engine Codes - The Complete Database
+H2: Common M-Class Engine Problems
+H2: M-Class Market Intelligence - What UK Owners Told Us in 2025
+H2: M-Class Engine Replacement Costs - By Generation
+H2: How the M-Class Engine Range Evolved - 1997 to 2015
+H2: Who Should Buy an M-Class?
+H2: Can I Repair My M-Class Engine - or Should I Replace It?
+H2: Why M-Class Owners Trust mercedesengine.uk
+H2: M-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/r-class.json
+H1: R-Class Engines - The Complete UK Guide
+H2: Mercedes R-Class - The Ownership Verdict
+H2: Mercedes R-Class at a Glance
+H2: Mercedes R-Class - One Generation, Multiple Powertrains
+H2: Mercedes R-Class Engine Codes - The Complete Database
+H2: Common Mercedes R-Class Engine Problems
+H2: Mercedes R-Class Market Intelligence - What UK Specialists Told Us
+H2: Mercedes R-Class Engine Replacement Costs - By Generation
+H2: How the R-Class Engine Range Evolved - 2006 to 2013
+H2: Who Should Buy a Mercedes R-Class?
+H2: Can I Repair My R-Class Engine - or Should I Replace It?
+H2: Why R-Class Owners Trust mercedesengine.uk
+H2: Mercedes R-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/s-class.json
+H1: S-Class Engines - The Complete UK Guide
+H2: S-Class - The Ownership Verdict
+H2: S-Class at a Glance
+H2: S-Class Generations - Find Your Vehicle
+H2: S-Class Engine Codes - The Complete Database
+H2: Common S-Class Engine Problems
+H2: S-Class Market Intelligence - What 2,400+ UK Owners Told Us in 2025
+H2: S-Class Engine Replacement Costs - By Generation
+H2: How the S-Class Engine Range Evolved - 1991 to Today
+H2: Who Should Buy an S-Class?
+H2: Can I Repair My S-Class Engine - or Should I Replace It?
+H2: Why S-Class Owners Trust MercedesEngines.uk
+H2: S-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/sl.json
+H1: SL Engines - The Complete UK Guide
+H2: SL - The Ownership Verdict
+H2: SL at a Glance
+H2: SL Generations - Find Your Vehicle
+H2: SL Engine Codes - The Complete Database
+H2: Common SL Engine Problems
+H2: SL Market Intelligence - What 750+ UK Owners Told Us in 2025
+H2: SL Engine Replacement Costs - By Generation
+H2: How the SL Engine Range Evolved - 1954 to Today
+H2: Who Should Buy an SL?
+H2: Can I Repair My SL Engine - or Should I Replace It?
+H2: Why SL Owners Trust mercedesengine.uk
+H2: SL Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/slk-slc.json
+H1: SLK / SLC Engines - The Complete UK Guide
+H2: SLK / SLC - The Ownership Verdict
+H2: SLK / SLC at a Glance
+H2: SLK / SLC Generations - Find Your Vehicle
+H2: SLK / SLC Engine Codes - The Complete Database
+H2: Common SLK / SLC Engine Problems
+H2: SLK / SLC Market Intelligence - What UK Owners Told Us
+H2: SLK / SLC Engine Replacement Costs - By Generation
+H2: How the SLK / SLC Engine Range Evolved - 1996 to 2020
+H2: Who Should Buy an SLK / SLC?
+H2: Can I Repair My SLK / SLC Engine - or Should I Replace It?
+H2: Why SLK / SLC Owners Trust MercedesEngines.uk
+H2: SLK / SLC Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/sls-amg.json
+H1: SLS AMG Engines - The Complete UK Guide
+H2: SLS AMG - The Ownership Verdict
+H2: SLS AMG at a Glance
+H2: SLS AMG - One Generation, Three Powertrains
+H2: SLS AMG Engine Codes - The Complete Database
+H2: Common SLS AMG Engine Problems
+H2: SLS AMG Market Intelligence - What 100+ UK Owners Told Us in 2025
+H2: SLS AMG Engine Replacement Costs - By Variant
+H2: How the SLS AMG Engine Range Evolved - 2010 to 2015
+H2: Who Should Buy an SLS AMG?
+H2: Can I Repair My SLS AMG Engine - or Should I Replace It?
+H2: Why SLS AMG Owners Trust MercedesEngine.uk
+H2: SLS AMG Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/sprinter.json
+H1: Sprinter Engines - The Complete UK Guide
+H2: Sprinter - The Ownership Verdict
+H2: Sprinter at a Glance
+H2: Sprinter Generations - Find Your Vehicle
+H2: Sprinter Engine Codes - The Complete Database
+H2: Common Sprinter Engine Problems
+H2: Sprinter Market Intelligence - What UK Owners Told Us in 2025
+H2: Sprinter Engine Replacement Costs - By Generation
+H2: How the Sprinter Engine Range Evolved - 1995 to Today
+H2: Who Should Buy a Sprinter?
+H2: Why Sprinter Owners Trust mercedesengine.uk
+H2: Sprinter Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/v-class.json
+H1: V-Class Engines - The Complete UK Guide
+H2: V-Class - The Ownership Verdict
+H2: V-Class at a Glance
+H2: V-Class - One Generation, Two Engine Eras
+H2: V-Class Engine Codes - The Complete Database
+H2: Common V-Class Engine Problems
+H2: V-Class Market Intelligence - What UK Owners Told Us in 2025
+H2: V-Class Engine Replacement Costs - By Engine Era
+H2: How the V-Class Engine Range Evolved - 2014 to Today
+H2: Who Should Buy a V-Class?
+H2: Can I Repair My V-Class Engine - or Should I Replace It?
+H2: Why V-Class Owners Trust MercedesEngines.uk
+H2: V-Class Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/vaneo.json
+H1: Vaneo Engines - The Complete UK Guide
+H2: Vaneo - The Ownership Verdict
+H2: Vaneo at a Glance
+H2: Vaneo - One Generation, Four Powertrains
+H2: Vaneo Engine Codes - The Complete Database
+H2: Common Vaneo Engine Problems
+H2: Vaneo Market Intelligence - What UK Owners Told Us
+H2: Vaneo Engine Replacement Costs - By Generation
+H2: How the Vaneo Engine Range Evolved - 2001 to 2005
+H2: Who Should Buy a Vaneo?
+H2: Can I Repair My Vaneo Engine - or Should I Replace It?
+H2: Why Vaneo Owners Trust mercedesengine.uk
+H2: Vaneo Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/vario.json
+H1: Vario Engines - The Complete UK Guide
+H2: Vario - The Ownership Verdict
+H2: Vario at a Glance
+H2: Vario - One Generation, Two Powertrains
+H2: Vario Engine Codes - The Complete Database
+H2: Common Vario Engine Problems
+H2: Vario Market Intelligence - What UK Commercial Operators Told Us
+H2: Vario Engine Replacement Costs - By Variant
+H2: How the Vario Engine Range Evolved - 1996 to 2013
+H2: Who Should Buy a Vario?
+H2: Can I Repair My Vario Engine - or Should I Replace It?
+H2: Why Vario Owners Trust MercedesEngines.uk
+H2: Vario Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/viano.json
+H1: Viano Engines - The Complete UK Guide
+H2: Viano - The Ownership Verdict
+H2: Viano at a Glance
+H2: Viano Generations - Find Your Vehicle
+H2: Viano Engine Codes - The Complete Database
+H2: Common Viano Engine Problems
+H2: Viano Market Intelligence - What UK Owners Told Us in 2025
+H2: Viano Engine Replacement Costs - By Generation
+H2: How the Viano Engine Range Evolved - 2003 to 2014
+H2: Who Should Buy a Viano?
+H2: Can I Repair My Viano Engine - or Should I Replace It?
+H2: Why Viano Owners Trust mercedesengine.uk
+H2: Viano Frequently Asked Questions
+H2: Ready to Make a Decision?
+
+## src/data/models/vito.json
+H1: Vito Engines - The Complete UK Guide
+H2: Vito - The Ownership Verdict
+H2: Vito at a Glance
+H2: Vito Generations - Find Your Vehicle
+H2: Vito Engine Codes - The Complete Database
+H2: Common Vito Engine Problems
+H2: Vito Market Intelligence - What UK Owners Told Us in 2025
+H2: Vito Engine Replacement Costs - By Generation
+H2: How the Vito Engine Range Evolved - 1996 to Today
+H2: Who Should Buy a Vito?
+H2: Can I Repair My Vito Engine - or Should I Replace It?
+H2: Why Vito Owners Trust mercedesengine.uk
+H2: Vito Frequently Asked Questions
+H2: Ready to Make a Decision?
 
 # ============================================================
-# 3) GENERATION PAGE  (src/app/[...slug]/page.js - two segments)
+# 3) GENERATION PAGE
 # ============================================================
-# H1 (dynamic: data.h1 from src/data/generations/*.json)
-#   Example: "Mercedes A-Class W176 Engines - The Complete UK Guide"
-#   Pattern: "{Generation} Engines - The Complete UK Guide"
 
-# H2 - mix of static (hardcoded) and dynamic (data.h2)
-# Section order in page.js:
-- Engine Database          (data.h2)   e.g. "Mercedes A-Class W176 Engine Codes - The Complete Database"
-- Overview                 (data.h2)   e.g. "Mercedes A-Class W176 - Overview"
-- Best & Worst Engines     (STATIC)    "Best & Worst Engines"
-- Ownership Economics      (data.h2)   e.g. "Mercedes A-Class W176 - Ownership Economics"
-- Common Problems          (STATIC)    "Common Problems"
-- Replacement Costs        (data.h2)   e.g. "W176 Engine Replacement Costs - By Engine and Condition"
-- Core Variants            (STATIC)    "Core Variants"
-- Market Intelligence      (STATIC)    "Market Intelligence"
-- FAQ                      (STATIC)    "FAQ"
-- Trust CTA                (data.h2)   e.g. "Why UK Mercedes A-Class W176 Owners Trust MercedesEngines.uk"
+## src/data/generations/mercedes-a-class-w168.json
+H1: Mercedes A-Class W168 Engines - The Complete UK Guide
+H2: Mercedes A-Class W168 Engine Codes - The Complete Database
+H2: Mercedes A-Class W168 - Overview
+H2: Mercedes A-Class W168 - Ownership Economics
+H2: W168 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes A-Class W168 Owners Trust MercedesEngines.uk
 
+## src/data/generations/mercedes-a-class-w169.json
+H1: Mercedes A-Class W169 Engines - The Complete UK Guide
+H2: Mercedes A-Class W169 Engine Codes - The Complete Database
+H2: Mercedes A-Class W169 - Overview
+H2: Mercedes A-Class W169 - Ownership Economics
+H2: W169 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes A-Class W169 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-a-class-w176.json
+H1: Mercedes A-Class W176 Engines - The Complete UK Guide
+H2: Mercedes A-Class W176 Engine Codes - The Complete Database
+H2: Mercedes A-Class W176 - Overview
+H2: Mercedes A-Class W176 - Ownership Economics
+H2: W176 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes A-Class W176 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-a-class-w177.json
+H1: Mercedes A‑Class W177 Engines - The Complete UK Guide
+H2: Mercedes A‑Class W177 Engine Codes - The Complete Database
+H2: Mercedes A‑Class W177 - Overview
+H2: Mercedes A‑Class W177 - Ownership Economics
+H2: W177 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes A‑Class W177 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-amg-gt-c190.json
+H1: Mercedes-AMG GT C190 Engines - The Complete UK Guide
+H2: Mercedes-AMG GT C190 Engine Codes - The Complete Database
+H2: Mercedes-AMG GT C190 - Overview
+H2: Mercedes-AMG GT C190 - Ownership Economics
+H2: C190 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-AMG GT C190 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-amg-gt-r190.json
+H1: Mercedes‑AMG GT R190 Engines - The Complete UK Guide
+H2: Mercedes‑AMG GT R190 Engine Codes - The Complete Database
+H2: Mercedes‑AMG GT R190 - Overview
+H2: Mercedes‑AMG GT R190 - Ownership Economics
+H2: R190 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑AMG GT R190 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-amg-gt-x290.json
+H1: Mercedes-AMG GT X290 Engines - The Complete UK Guide
+H2: Mercedes-AMG GT X290 Engine Codes - The Complete Database
+H2: Mercedes-AMG GT X290 - Overview
+H2: Mercedes-AMG GT X290 - Ownership Economics
+H2: X290 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-AMG GT X290 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-b-class-w245.json
+H1: Mercedes B-Class W245 Engines - The Complete UK Guide
+H2: Mercedes B-Class W245 Engine Codes - The Complete Database
+H2: Mercedes B-Class W245 - Overview
+H2: Mercedes B-Class W245 - Ownership Economics
+H2: W245 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W245 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-b-class-w246.json
+H1: Mercedes B‑Class W246 Engines - The Complete UK Guide
+H2: Mercedes B‑Class W246 Engine Codes - The Complete Database
+H2: Mercedes B‑Class W246 - Overview
+H2: Mercedes B‑Class W246 - Ownership Economics
+H2: W246 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W246 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-b-class-w247.json
+H1: Mercedes B-Class W247 Engines - The Complete UK Guide
+H2: Mercedes B-Class W247 Engine Codes - The Complete Database
+H2: Mercedes B-Class W247 - Overview
+H2: Mercedes B-Class W247 - Ownership Economics
+H2: W247 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W247 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-a207.json
+H1: Mercedes-Benz A207 Engines - The Complete UK Guide
+H2: Mercedes-Benz A207 Engine Codes - The Complete Database
+H2: Mercedes-Benz A207 - Overview
+H2: Mercedes-Benz A207 - Ownership Economics
+H2: A207 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz A207 Cabriolet Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-c-class-w205.json
+H1: Mercedes‑Benz C‑Class W205 Engines - The Complete UK Guide
+H2: Mercedes‑Benz C‑Class W205 Engine Codes - The Complete Database
+H2: Mercedes‑Benz C‑Class W205 - Overview
+H2: Mercedes‑Benz C‑Class W205 - Ownership Economics
+H2: W205 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz C‑Class W205 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-c140.json
+H1: Mercedes-Benz C140 Engines - The Complete UK Guide
+H2: Mercedes-Benz C140 Engine Codes - The Complete Database
+H2: Mercedes-Benz C140 - Overview
+H2: Mercedes-Benz C140 - Ownership Economics
+H2: C140 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz C140 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-c204-coup.json
+H1: Mercedes-Benz C204 Coupé Engines - The Complete UK Guide
+H2: Mercedes-Benz C204 Coupé Engine Codes - The Complete Database
+H2: Mercedes-Benz C204 Coupé - Overview
+H2: Mercedes-Benz C204 Coupé - Ownership Economics
+H2: C204 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz C204 Coupé Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-citan-w420.json
+H1: Mercedes‑Benz Citan W420 Engines - The Complete UK Guide
+H2: Mercedes‑Benz Citan W420 Engine Codes - The Complete Database
+H2: Mercedes‑Benz Citan W420 - Overview
+H2: Mercedes‑Benz Citan W420 - Ownership Economics
+H2: W420 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz Citan W420 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-cla-c118.json
+H1: Mercedes-Benz CLA C118 Engines - The Complete UK Guide
+H2: Mercedes-Benz CLA C118 Engine Codes - The Complete Database
+H2: Mercedes-Benz CLA C118 - Overview
+H2: Mercedes-Benz CLA C118 - Ownership Economics
+H2: C118 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz CLA C118 Coupé Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-cla-class-x118.json
+H1: Mercedes‑Benz CLA‑Class X118 Engines - The Complete UK Guide
+H2: Mercedes‑Benz CLA‑Class X118 Engine Codes - The Complete Database
+H2: Mercedes‑Benz CLA‑Class X118 - Overview
+H2: Mercedes‑Benz CLA‑Class X118 - Ownership Economics
+H2: X118 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz CLA‑Class X118 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-e-class-c238.json
+H1: Mercedes‑Benz E‑Class C238 Engines - The Complete UK Guide
+H2: Mercedes‑Benz E‑Class C238 Engine Codes - The Complete Database
+H2: Mercedes‑Benz E‑Class C238 - Overview
+H2: Mercedes‑Benz E‑Class C238 - Ownership Economics
+H2: C238 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz E‑Class C238 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-e-class-s124.json
+H1: Mercedes‑Benz E‑Class S124 Engines - The Complete UK Guide
+H2: Mercedes‑Benz E‑Class S124 Engine Codes - The Complete Database
+H2: Mercedes‑Benz E‑Class S124 - Overview
+H2: Mercedes‑Benz E‑Class S124 - Ownership Economics
+H2: S124 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz E‑Class S124 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-g-class-w463-ii.json
+H1: Mercedes-Benz G-Class W463 Engines - The Complete UK Guide
+H2: Mercedes-Benz G-Class W463 Engine Codes - The Complete Database
+H2: Mercedes-Benz G-Class W463 - Overview
+H2: Mercedes-Benz G-Class W463 - Ownership Economics
+H2: W463 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz G-Class W463 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-gle-c167.json
+H1: Mercedes-Benz GLE C167 Engines - The Complete UK Guide
+H2: Mercedes-Benz GLE C167 Engine Codes - The Complete Database
+H2: Mercedes-Benz GLE C167 - Overview
+H2: Mercedes-Benz GLE C167 - Ownership Economics
+H2: C167 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz GLE C167 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-gls-x166.json
+H1: Mercedes‑Benz GLS X166 Engines - The Complete UK Guide
+H2: Mercedes‑Benz GLS X166 Engine Codes - The Complete Database
+H2: Mercedes‑Benz GLS X166 - Overview
+H2: Mercedes‑Benz GLS X166 - Ownership Economics
+H2: X166 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz GLS X166 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-s-class-w221.json
+H1: Mercedes‑Benz S‑Class W221 Engines - The Complete UK Guide
+H2: Mercedes‑Benz S‑Class W221 Engine Codes - The Complete Database
+H2: Mercedes‑Benz S‑Class W221 - Overview
+H2: Mercedes‑Benz S‑Class W221 - Ownership Economics
+H2: W221 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz S‑Class W221 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-sl-r230.json
+H1: Mercedes-Benz SL R230 Engines - The Complete UK Guide
+H2: Mercedes-Benz SL R230 Engine Codes - The Complete Database
+H2: Mercedes-Benz SL R230 - Overview
+H2: Mercedes-Benz SL R230 - Ownership Economics
+H2: R230 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz SL R230 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-slc-r172.json
+H1: Mercedes‑Benz SLC R172 Engines - The Complete UK Guide
+H2: Mercedes‑Benz SLC R172 Engine Codes - The Complete Database
+H2: Mercedes‑Benz SLC R172 - Overview
+H2: Mercedes‑Benz SLC R172 - Ownership Economics
+H2: R172 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz SLC R172 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-sprinter-w906.json
+H1: Mercedes-Benz Sprinter W906 Engines - The Complete UK Guide
+H2: Mercedes-Benz Sprinter W906 Engine Codes - The Complete Database
+H2: Mercedes-Benz Sprinter W906 - Overview
+H2: Mercedes-Benz Sprinter W906 - Ownership Economics
+H2: W906 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz Sprinter W906 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-benz-w124.json
+H1: Mercedes-Benz W124 Engines - The Complete UK Guide
+H2: Mercedes-Benz W124 Engine Codes - The Complete Database
+H2: Mercedes-Benz W124 - Overview
+H2: Mercedes-Benz W124 - Ownership Economics
+H2: W124 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes-Benz W124 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-a205.json
+H1: Mercedes C-Class A205 Engines - The Complete UK Guide
+H2: Mercedes C-Class A205 Engine Codes - The Complete Database
+H2: Mercedes C-Class A205 - Overview
+H2: Mercedes C-Class A205 - Ownership Economics
+H2: A205 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C-Class A205 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-c205.json
+H1: Mercedes C-Class C205 Engines - The Complete UK Guide
+H2: Mercedes C-Class C205 Engine Codes - The Complete Database
+H2: Mercedes C-Class C205 - Overview
+H2: Mercedes C-Class C205 - Ownership Economics
+H2: C205 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C-Class C205 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-cl203.json
+H1: Mercedes C-Class CL203 Engines - The Complete UK Guide
+H2: Mercedes C-Class CL203 Engine Codes - The Complete Database
+H2: Mercedes C-Class CL203 - Overview
+H2: Mercedes C-Class CL203 - Ownership Economics
+H2: CL203 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CL203 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-s202.json
+H1: Mercedes C-Class S202 Engines - The Complete UK Guide
+H2: Mercedes C-Class S202 Engine Codes - The Complete Database
+H2: Mercedes C-Class S202 - Overview
+H2: Mercedes C-Class S202 - Ownership Economics
+H2: S202 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C-Class S202 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-s203.json
+H1: Mercedes C‑Class S203 Engines - The Complete UK Guide
+H2: Mercedes C‑Class S203 Engine Codes - The Complete Database
+H2: Mercedes C‑Class S203 - Overview
+H2: Mercedes C‑Class S203 - Ownership Economics
+H2: S203 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C‑Class S203 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-s204.json
+H1: Mercedes C-Class S204 Engines - The Complete UK Guide
+H2: Mercedes C-Class S204 Engine Codes - The Complete Database
+H2: Mercedes C-Class S204 - Overview
+H2: Mercedes C-Class S204 - Ownership Economics
+H2: S204 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes S204 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-s205.json
+H1: Mercedes C-Class S205 Engines - The Complete UK Guide
+H2: Mercedes C-Class S205 Engine Codes - The Complete Database
+H2: Mercedes C-Class S205 - Overview
+H2: Mercedes C-Class S205 - Ownership Economics
+H2: S205 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C-Class S205 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-s206.json
+H1: Mercedes C‑Class S206 Engines - The Complete UK Guide
+H2: Mercedes C‑Class S206 Engine Codes - The Complete Database
+H2: Mercedes C‑Class S206 - Overview
+H2: Mercedes C‑Class S206 - Ownership Economics
+H2: S206 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C‑Class S206 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-w202.json
+H1: Mercedes C-Class W202 Engines - The Complete UK Guide
+H2: Mercedes C-Class W202 Engine Codes - The Complete Database
+H2: Mercedes C-Class W202 - Overview
+H2: Mercedes C-Class W202 - Ownership Economics
+H2: W202 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C-Class W202 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-w203.json
+H1: Mercedes C-Class W203 Engines - The Complete UK Guide
+H2: Mercedes C-Class W203 Engine Codes - The Complete Database
+H2: Mercedes C-Class W203 - Overview
+H2: Mercedes C-Class W203 - Ownership Economics
+H2: W203 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C-Class W203 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-w204.json
+H1: Mercedes C‑Class W204 Engines - The Complete UK Guide
+H2: Mercedes C‑Class W204 Engine Codes - The Complete Database
+H2: Mercedes C‑Class W204 - Overview
+H2: Mercedes C‑Class W204 - Ownership Economics
+H2: W204 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W204 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-c-class-w206.json
+H1: Mercedes C-Class W206 Engines - The Complete UK Guide
+H2: Mercedes C-Class W206 Engine Codes - The Complete Database
+H2: Mercedes C-Class W206 - Overview
+H2: Mercedes C-Class W206 - Ownership Economics
+H2: W206 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C-Class W206 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-citan-w415.json
+H1: Mercedes Citan W415 Engines - The Complete UK Guide
+H2: Mercedes Citan W415 Engine Codes - The Complete Database
+H2: Mercedes Citan W415 - Overview
+H2: Mercedes Citan W415 - Ownership Economics
+H2: W415 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes Citan W415 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-cl-c216.json
+H1: Mercedes CL C216 Engines - The Complete UK Guide
+H2: Mercedes CL C216 Engine Codes - The Complete Database
+H2: Mercedes CL C216 - Overview
+H2: Mercedes CL C216 - Ownership Economics
+H2: C216 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CL C216 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-cla-class-c117.json
+H1: Mercedes CLA‑Class C117 Engines - The Complete UK Guide
+H2: Mercedes CLA‑Class C117 Engine Codes - The Complete Database
+H2: Mercedes CLA‑Class C117 - Overview
+H2: Mercedes CLA‑Class C117 - Ownership Economics
+H2: C117 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C117 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-cla-x117.json
+H1: Mercedes CLA X117 Engines - The Complete UK Guide
+H2: Mercedes CLA X117 Engine Codes - The Complete Database
+H2: Mercedes CLA X117 - Overview
+H2: Mercedes CLA X117 - Ownership Economics
+H2: X117 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes X117 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-clc-class-cl203.json
+H1: Mercedes CLC-Class CL203 Engines - The Complete UK Guide
+H2: Mercedes CLC-Class CL203 Engine Codes - The Complete Database
+H2: Mercedes CLC-Class CL203 - Overview
+H2: Mercedes CLC-Class CL203 - Ownership Economics
+H2: CLC Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CLC Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-clk-a208.json
+H1: Mercedes CLK A208 Engines - The Complete UK Guide
+H2: Mercedes CLK A208 Engine Codes - The Complete Database
+H2: Mercedes CLK A208 - Overview
+H2: Mercedes CLK A208 - Ownership Economics
+H2: A208 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CLK A208 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-clk-c209.json
+H1: Mercedes CLK C209 Engines - The Complete UK Guide
+H2: Mercedes CLK C209 Engine Codes - The Complete Database
+H2: Mercedes CLK C209 - Overview
+H2: Mercedes CLK C209 - Ownership Economics
+H2: C209 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CLK C209 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-clk-class-a209.json
+H1: Mercedes CLK A209 Engines - The Complete UK Guide
+H2: Mercedes CLK A209 Engine Codes - The Complete Database
+H2: Mercedes CLK A209 - Overview
+H2: Mercedes CLK A209 - Ownership Economics
+H2: A209 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CLK A209 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-clk-class-c208.json
+H1: Mercedes CLK C208 Engines - The Complete UK Guide
+H2: Mercedes CLK C208 Engine Codes - The Complete Database
+H2: Mercedes CLK C208 - Overview
+H2: Mercedes CLK C208 - Ownership Economics
+H2: C208 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CLK C208 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-cls-c257.json
+H1: Mercedes CLS C257 Engines - The Complete UK Guide
+H2: Mercedes CLS C257 Engine Codes - The Complete Database
+H2: Mercedes CLS C257 - Overview
+H2: Mercedes CLS C257 - Ownership Economics
+H2: C257 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C257 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-cls-class-c218.json
+H1: Mercedes CLS C218 Engines - The Complete UK Guide
+H2: Mercedes CLS C218 Engine Codes - The Complete Database
+H2: Mercedes CLS C218 - Overview
+H2: Mercedes CLS C218 - Ownership Economics
+H2: C218 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CLS C218 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-cls-class-c219.json
+H1: Mercedes CLS C219 Engines - The Complete UK Guide
+H2: Mercedes CLS C219 Engine Codes - The Complete Database
+H2: Mercedes CLS C219 - Overview
+H2: Mercedes CLS C219 - Ownership Economics
+H2: C219 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes CLS C219 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-cls-class-x218.json
+H1: Mercedes CLS X218 Engines - The Complete UK Guide
+H2: Mercedes CLS X218 Engine Codes - The Complete Database
+H2: Mercedes CLS X218 - Overview
+H2: Mercedes CLS X218 - Ownership Economics
+H2: X218 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes X218 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-a238.json
+H1: Mercedes E-Class A238 Engines - The Complete UK Guide
+H2: Mercedes E-Class A238 Engine Codes - The Complete Database
+H2: Mercedes E-Class A238 - Overview
+H2: Mercedes E-Class A238 - Ownership Economics
+H2: A238 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class A238 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-c207.json
+H1: Mercedes E-Class S212 Engines - The Complete UK Guide
+H2: Mercedes E-Class S212 Engine Codes - The Complete Database
+H2: Mercedes E-Class S212 - Overview
+H2: Mercedes E-Class S212 - Ownership Economics
+H2: S212 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes C207 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-s210.json
+H1: Mercedes E-Class S210 Engines - The Complete UK Guide
+H2: Mercedes E-Class S210 Engine Codes - The Complete Database
+H2: Mercedes E-Class S210 - Overview
+H2: Mercedes E-Class S210 - Ownership Economics
+H2: S210 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class S210 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-s211.json
+H1: Mercedes E-Class S211 Engines - The Complete UK Guide
+H2: Mercedes E-Class S211 Engine Codes - The Complete Database
+H2: Mercedes E-Class S211 - Overview
+H2: Mercedes E-Class S211 - Ownership Economics
+H2: S211 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class S211 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-s213.json
+H1: Mercedes E-Class S213 Engines - The Complete UK Guide
+H2: Mercedes E-Class S213 Engine Codes - The Complete Database
+H2: Mercedes E-Class S213 - Overview
+H2: Mercedes E-Class S213 - Ownership Economics
+H2: S213 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class S213 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-s214.json
+H1: Mercedes E-Class S214 Engines - The Complete UK Guide
+H2: Mercedes E-Class S214 Engine Codes - The Complete Database
+H2: Mercedes E-Class S214 - Overview
+H2: Mercedes E-Class S214 - Ownership Economics
+H2: S214 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class S214 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-w210.json
+H1: Mercedes E-Class W210 Engines - The Complete UK Guide
+H2: Mercedes E-Class W210 Engine Codes - The Complete Database
+H2: Mercedes E-Class W210 - Overview
+H2: Mercedes E-Class W210 - Ownership Economics
+H2: W210 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class W210 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-w211.json
+H1: Mercedes E-Class W211 Engines - The Complete UK Guide
+H2: Mercedes E-Class W211 Engine Codes - The Complete Database
+H2: Mercedes E-Class W211 - Overview
+H2: Mercedes E-Class W211 - Ownership Economics
+H2: W211 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class W211 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-w212.json
+H1: Mercedes E‑Class W212 Engines - The Complete UK Guide
+H2: Mercedes E‑Class W212 Engine Codes - The Complete Database
+H2: Mercedes E‑Class W212 - Overview
+H2: Mercedes E‑Class W212 - Ownership Economics
+H2: W212 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E‑Class W212 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-w213.json
+H1: Mercedes E-Class W213 Engines - The Complete UK Guide
+H2: Mercedes E-Class W213 Engine Codes - The Complete Database
+H2: Mercedes E-Class W213 - Overview
+H2: Mercedes E-Class W213 - Ownership Economics
+H2: W213 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W213 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-e-class-w214.json
+H1: Mercedes E-Class W214 Engines - The Complete UK Guide
+H2: Mercedes E-Class W214 Engine Codes - The Complete Database
+H2: Mercedes E-Class W214 - Overview
+H2: Mercedes E-Class W214 - Ownership Economics
+H2: W214 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes E-Class W214 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-g-class-w460.json
+H1: Mercedes G‑Class W460 Engines - The Complete UK Guide
+H2: Mercedes G‑Class W460 Engine Codes - The Complete Database
+H2: Mercedes G‑Class W460 - Overview
+H2: Mercedes G‑Class W460 - Ownership Economics
+H2: W460 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes G‑Class W460 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-g-class-w461.json
+H1: Mercedes G-Class W461 Engines - The Complete UK Guide
+H2: Mercedes G-Class W461 Engine Codes - The Complete Database
+H2: Mercedes G-Class W461 - Overview
+H2: Mercedes G-Class W461 - Ownership Economics
+H2: W461 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes G-Class W461 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-g-class-w463.json
+H1: Mercedes G‑Class W463 Engines - The Complete UK Guide
+H2: Mercedes G‑Class W463 Engine Codes - The Complete Database
+H2: Mercedes G‑Class W463 - Overview
+H2: Mercedes G‑Class W463 - Ownership Economics
+H2: W463 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W463 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-gl-class-x164.json
+H1: Mercedes GL-Class X164 Engines - The Complete UK Guide
+H2: Mercedes GL-Class X164 Engine Codes - The Complete Database
+H2: Mercedes GL-Class X164 - Overview
+H2: Mercedes GL-Class X164 - Ownership Economics
+H2: X164 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GL-Class X164 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-gla-class-h247.json
+H1: Mercedes GLA-Class H247 Engines - The Complete UK Guide
+H2: Mercedes GLA-Class H247 Engine Codes - The Complete Database
+H2: Mercedes GLA-Class H247 - Overview
+H2: Mercedes GLA-Class H247 - Ownership Economics
+H2: H247 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GLA-Class H247 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-gla-x156.json
+H1: Mercedes GLA X156 Engines - The Complete UK Guide
+H2: Mercedes GLA X156 Engine Codes - The Complete Database
+H2: Mercedes GLA X156 - Overview
+H2: Mercedes GLA X156 - Ownership Economics
+H2: X156 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes X156 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-glc-class-c253.json
+H1: Mercedes GLC-Class C253 Engines - The Complete UK Guide
+H2: Mercedes GLC-Class C253 Engine Codes - The Complete Database
+H2: Mercedes GLC-Class C253 - Overview
+H2: Mercedes GLC-Class C253 - Ownership Economics
+H2: C253 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GLC-Class C253 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-glc-class-c254.json
+H1: Mercedes GLC C254 Engines - The Complete UK Guide
+H2: Mercedes GLC C254 Engine Codes - The Complete Database
+H2: Mercedes GLC C254 - Overview
+H2: Mercedes GLC C254 - Ownership Economics
+H2: C254 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GLC C254 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-glc-class-x253.json
+H1: Mercedes‑Benz E‑Class C238 Engines - The Complete UK Guide
+H2: Mercedes‑Benz E‑Class C238 Engine Codes - The Complete Database
+H2: Mercedes‑Benz E‑Class C238 - Overview
+H2: Mercedes‑Benz E‑Class C238 - Ownership Economics
+H2: C238 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes‑Benz GLC‑Class X253 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-glc-x254.json
+H1: Mercedes GLC X254 Engines - The Complete UK Guide
+H2: Mercedes GLC X254 Engine Codes - The Complete Database
+H2: Mercedes GLC X254 - Overview
+H2: Mercedes GLC X254 - Ownership Economics
+H2: X254 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GLC X254 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-gle-class-c292.json
+H1: Mercedes GLE-Class C292 Engines - The Complete UK Guide
+H2: Mercedes GLE-Class C292 Engine Codes - The Complete Database
+H2: Mercedes GLE-Class C292 - Overview
+H2: Mercedes GLE-Class C292 - Ownership Economics
+H2: C292 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GLE C292 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-gle-class-v167.json
+H1: Mercedes GLE V167 Engines - The Complete UK Guide
+H2: Mercedes GLE V167 Engine Codes - The Complete Database
+H2: Mercedes GLE V167 - Overview
+H2: Mercedes GLE V167 - Ownership Economics
+H2: V167 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes V167 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-gle-class-w166.json
+H1: Mercedes GLE W166 Engines - The Complete UK Guide
+H2: Mercedes GLE W166 Engine Codes - The Complete Database
+H2: Mercedes GLE W166 - Overview
+H2: Mercedes GLE W166 - Ownership Economics
+H2: W166 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GLE W166 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-glk-x204.json
+H1: Mercedes GLK X204 Engines - The Complete UK Guide
+H2: Mercedes GLK X204 Engine Codes - The Complete Database
+H2: Mercedes GLK X204 - Overview
+H2: Mercedes GLK X204 - Ownership Economics
+H2: X204 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes X204 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-gls-x167.json
+H1: Mercedes GLS X167 Engines - The Complete UK Guide
+H2: Mercedes GLS X167 Engine Codes - The Complete Database
+H2: Mercedes GLS X167 - Overview
+H2: Mercedes GLS X167 - Ownership Economics
+H2: X167 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes GLS X167 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-m-class-w163.json
+H1: Mercedes M-Class W163 Engines - The Complete UK Guide
+H2: Mercedes M-Class W163 Engine Codes - The Complete Database
+H2: Mercedes M-Class W163 - Overview
+H2: Mercedes M-Class W163 - Ownership Economics
+H2: W163 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes M-Class W163 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-m-class-w164.json
+H1: Mercedes M-Class W164 Engines - The Complete UK Guide
+H2: Mercedes M-Class W164 Engine Codes - The Complete Database
+H2: Mercedes M-Class W164 - Overview
+H2: Mercedes M-Class W164 - Ownership Economics
+H2: W164 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes M-Class W164 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-m-class-w166.json
+H1: Mercedes M‑Class W166 Engines - The Complete UK Guide
+H2: Mercedes M‑Class W166 Engine Codes - The Complete Database
+H2: Mercedes M‑Class W166 - Overview
+H2: Mercedes M‑Class W166 - Ownership Economics
+H2: W166 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes M‑Class W166 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-r-class-w251.json
+H1: Mercedes R-Class W251 Engines - The Complete UK Guide
+H2: Mercedes R-Class W251 Engine Codes - The Complete Database
+H2: Mercedes R-Class W251 - Overview
+H2: Mercedes R-Class W251 - Ownership Economics
+H2: W251 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes R-Class W251 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-s-class-a217.json
+H1: Mercedes S‑Class A217 Engines - The Complete UK Guide
+H2: Mercedes S‑Class A217 Engine Codes - The Complete Database
+H2: Mercedes S‑Class A217 - Overview
+H2: Mercedes S‑Class A217 - Ownership Economics
+H2: A217 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes S‑Class A217 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-s-class-c215.json
+H1: Mercedes S-Class C215 Engines - The Complete UK Guide
+H2: Mercedes S-Class C215 Engine Codes - The Complete Database
+H2: Mercedes S-Class C215 - Overview
+H2: Mercedes S-Class C215 - Ownership Economics
+H2: C215 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes S-Class C215 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-s-class-c217.json
+H1: Mercedes S-Class C217 Engines - The Complete UK Guide
+H2: Mercedes S-Class C217 Engine Codes - The Complete Database
+H2: Mercedes S-Class C217 - Overview
+H2: Mercedes S-Class C217 - Ownership Economics
+H2: C217 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes S-Class C217 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-s-class-w140.json
+H1: Mercedes S‑Class W140 Engines - The Complete UK Guide
+H2: Mercedes S‑Class W140 Engine Codes - The Complete Database
+H2: Mercedes S‑Class W140 - Overview
+H2: Mercedes S‑Class W140 - Ownership Economics
+H2: W140 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W140 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-s-class-w220.json
+H1: Mercedes S-Class W220 Engines - The Complete UK Guide
+H2: Mercedes S-Class W220 Engine Codes - The Complete Database
+H2: Mercedes S-Class W220 - Overview
+H2: Mercedes S-Class W220 - Ownership Economics
+H2: W220 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W220 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-s-class-w222.json
+H1: Mercedes S-Class W222 Engines - The Complete UK Guide
+H2: Mercedes S-Class W222 Engine Codes - The Complete Database
+H2: Mercedes S-Class W222 - Overview
+H2: Mercedes S-Class W222 - Ownership Economics
+H2: W222 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes S-Class W222 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-s-class-w223.json
+H1: Mercedes S-Class W223 Engines - The Complete UK Guide
+H2: Mercedes S-Class W223 Engine Codes - The Complete Database
+H2: Mercedes S-Class W223 - Overview
+H2: Mercedes S-Class W223 - Ownership Economics
+H2: W223 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes S-Class W223 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-sl-class-r129.json
+H1: Mercedes SL R129 Engines - The Complete UK Guide
+H2: Mercedes SL R129 Engine Codes - The Complete Database
+H2: Mercedes SL R129 - Overview
+H2: Mercedes SL R129 - Ownership Economics
+H2: R129 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes R129 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-sl-r231.json
+H1: Mercedes SL R231 Engines - The Complete UK Guide
+H2: Mercedes SL R231 Engine Codes - The Complete Database
+H2: Mercedes SL R231 - Overview
+H2: Mercedes SL R231 - Ownership Economics
+H2: R231 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes R231 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-sl-r232.json
+H1: Mercedes SL R232 Engines - The Complete UK Guide
+H2: Mercedes SL R232 Engine Codes - The Complete Database
+H2: Mercedes SL R232 - Overview
+H2: Mercedes SL R232 - Ownership Economics
+H2: R232 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes SL R232 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-slk-class-r172.json
+H1: Mercedes SLK R172 Engines - The Complete UK Guide
+H2: Mercedes SLK R172 Engine Codes - The Complete Database
+H2: Mercedes SLK R172 - Overview
+H2: Mercedes SLK R172 - Ownership Economics
+H2: R172 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes SLK R172 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-slk-r170.json
+H1: Mercedes SLK R170 Engines - The Complete UK Guide
+H2: Mercedes SLK R170 Engine Codes - The Complete Database
+H2: Mercedes SLK R170 - Overview
+H2: Mercedes SLK R170 - Ownership Economics
+H2: R170 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes SLK R170 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-slk-r171.json
+H1: Mercedes SLK R171 Engines - The Complete UK Guide
+H2: Mercedes SLK R171 Engine Codes - The Complete Database
+H2: Mercedes SLK R171 - Overview
+H2: Mercedes SLK R171 - Ownership Economics
+H2: R171 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes SLK R171 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-sls-amg-c197.json
+H1: Mercedes SLS AMG C197 Engines - The Complete UK Guide
+H2: Mercedes SLS AMG C197 Engine Codes - The Complete Database
+H2: Mercedes SLS AMG C197 - Overview
+H2: Mercedes SLS AMG C197 - Ownership Economics
+H2: C197 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes SLS AMG C197 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-sls-amg-r197.json
+H1: Mercedes SLS AMG R197 Engines - The Complete UK Guide
+H2: Mercedes SLS AMG R197 Engine Codes - The Complete Database
+H2: Mercedes SLS AMG R197 - Overview
+H2: Mercedes SLS AMG R197 - Ownership Economics
+H2: R197 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes SLS AMG R197 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-sprinter-w901-905.json
+H1: Mercedes Sprinter W901–905 Engines - The Complete UK Guide
+H2: Mercedes Sprinter W901–905 Engine Codes - The Complete Database
+H2: Mercedes Sprinter W901–905 - Overview
+H2: Mercedes Sprinter W901–905 - Ownership Economics
+H2: Sprinter W901–905 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes Sprinter W901–905 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-sprinter-w907.json
+H1: Mercedes Sprinter W907 Engines - The Complete UK Guide
+H2: Mercedes Sprinter W907 Engine Codes - The Complete Database
+H2: Mercedes Sprinter W907 - Overview
+H2: Mercedes Sprinter W907 - Ownership Economics
+H2: W907 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes W907 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-v-class-w447.json
+H1: Mercedes V-Class W447 Engines - The Complete UK Guide
+H2: Mercedes V-Class W447 Engine Codes - The Complete Database
+H2: Mercedes V-Class W447 - Overview
+H2: Mercedes V-Class W447 - Ownership Economics
+H2: W447 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes V-Class W447 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-vaneo-w414.json
+H1: Mercedes Vaneo W414 Engines - The Complete UK Guide
+H2: Mercedes Vaneo W414 Engine Codes - The Complete Database
+H2: Mercedes Vaneo W414 - Overview
+H2: Mercedes Vaneo W414 - Ownership Economics
+H2: W414 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes Vaneo W414 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-viano-w639.json
+H1: Mercedes Viano W639 Engines - The Complete UK Guide
+H2: Mercedes Viano W639 Engine Codes - The Complete Database
+H2: Mercedes Viano W639 - Overview
+H2: Mercedes Viano W639 - Ownership Economics
+H2: W639 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes Viano W639 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-vito-w447.json
+H1: Mercedes Vito W447 Engines - The Complete UK Guide
+H2: Mercedes Vito W447 Engine Codes - The Complete Database
+H2: Mercedes Vito W447 - Overview
+H2: Mercedes Vito W447 - Ownership Economics
+H2: W447 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes Vito W447 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-vito-w638.json
+H1: Mercedes Vito W638 Engines - The Complete UK Guide
+H2: Mercedes Vito W638 Engine Codes - The Complete Database
+H2: Mercedes Vito W638 - Overview
+H2: Mercedes Vito W638 - Ownership Economics
+H2: W638 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes Vito W638 Owners Trust MercedesEngines.uk
+
+## src/data/generations/mercedes-vito-w639.json
+H1: Mercedes Vito W639 Engines - The Complete UK Guide
+H2: Mercedes Vito W639 Engine Codes - The Complete Database
+H2: Mercedes Vito W639 - Overview
+H2: Mercedes Vito W639 - Ownership Economics
+H2: W639 Engine Replacement Costs - By Engine and Condition
+H2: Why UK Mercedes Vito W639 Owners Trust MercedesEngines.uk
 
 # ============================================================
-# 4) VARIANT PAGE  (src/app/[...slug]/page.js - two segments)
+# 4) VARIANT PAGE
 # ============================================================
-# H1 (dynamic: data.h1 from src/data/variants/*.json)
-#   Example: "Mercedes‑Benz GLC‑Class GLC63 AMG Engine Replacement - Compare Prices & Get Quotes"
-#   Pattern: "{Variant} Engine Replacement - Compare Prices & Get Quotes"
 
-# H2 - mix of static and dynamic
-# Section order in page.js:
-- Era Map                  (data.title)  e.g. "The GLC63 AMG THROUGH TIME - Era Map"
-- Replacement Costs        (data.h2)     e.g. "Mercedes‑Benz GLC63 AMG Engine Replacement Costs"
-- Common Problems          (STATIC)      "Common Problems"
-- Quotes CTA               (data.headline) e.g. "Ready to Compare? Get Matched With a Vetted Mercedes‑Benz Specialist →"
-- Repair, Buy or Replace   (data.h2)     e.g. "GLC‑Class GLC63 AMG - Repair, Buy, or Replace?"
-- Buying Checklist         (STATIC)      "Buying Checklist"
-- Engine Codes             (STATIC)      "Engine Codes"
-- Market Intelligence      (STATIC)      "Market Intelligence"
-- FAQ                      (STATIC)      "FAQ"
-- Trust CTA                (data.h2)     e.g. "Why UK Mercedes‑Benz GLC63 AMG Owners Trust MercedesEngine.uk"
+## src/data/variants/a-class-160-170-cdi.json
+H1: Mercedes A-Class A160 / A170 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes A-Class A160/A170 CDI Engine Replacement Costs
+H2: Mercedes A-Class CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes A-Class CDI Owners Trust MercedesEngine.uk
 
+## src/data/variants/a-class-a180-cdi.json
+H1: Mercedes-Benz A-Class A180 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz A-Class A180 CDI Engine Replacement Costs
+H2: A-Class A180 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz A180 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/a-class-a200-cdi.json
+H1: Mercedes-Benz A-Class A200 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz A-Class A200 CDI Engine Replacement Costs
+H2: Mercedes-Benz A200 CDI - Repair, Buy, or Replace?
+
+## src/data/variants/a-class-a200-petrol.json
+H1: Mercedes A200 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes A200 Petrol Engine Replacement Costs
+H2: A200 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes A200 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/a-class-a200d.json
+H1: Mercedes-Benz A200d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz A200d Engine Replacement Costs
+H2: A200d - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz A200d Owners Trust MercedesEngine.uk
+
+## src/data/variants/a-class-a250.json
+H1: Mercedes A‑Class A250 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes A‑Class A250 Engine Replacement Costs
+H2: A250 - Repair, Buy, or Replace?
+
+## src/data/variants/a-class-a35-amg.json
+H1: Mercedes A35 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes A35 AMG Engine Replacement Costs
+H2: A35 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes A35 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/a-class-a45-amg.json
+H1: Mercedes-AMG A45 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG A45 Engine Replacement Costs
+H2: A45 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/amg-gt-gt-43.json
+H1: Mercedes-AMG GT 43 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG GT 43 Engine Replacement Costs
+H2: AMG GT 43 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-AMG GT 43 Owners Trust MercedesEngine.uk
+
+## src/data/variants/amg-gt-gt-r-pro.json
+H1: Mercedes‑AMG GT R / GT R Pro Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑AMG GT R / GT R Pro Engine Replacement Costs
+H2: Mercedes‑AMG GT R / GT R Pro - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑AMG GT R / GT R Pro Owners Trust MercedesEngine.uk
+
+## src/data/variants/amg-gt-gt-s-c.json
+H1: Mercedes-AMG GT / GT S / GT C Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑AMG GT / GT S / GT C Engine Replacement Costs
+H2: Mercedes‑AMG GT / GT S / GT C - Repair, Buy, or Replace?
+
+## src/data/variants/b-class-b180-b200-petrol.json
+H1: Mercedes‑Benz B‑Class B180 / B200 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz B‑Class B180 / B200 Petrol Engine Replacement Costs
+H2: B‑Class B180 / B200 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz B180 / B200 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/b-class-b200-cdi-b200d.json
+H1: Mercedes B‑Class B200 CDI / B200d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes B‑Class B200 CDI / B200d Engine Replacement Costs
+H2: Mercedes B‑Class B200 CDI / B200d - Repair, Buy, or Replace?
+H2: Why UK Mercedes B‑Class B200 CDI / B200d Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-270-280-300-cdi.json
+H1: Mercedes C‑Class C270 / C280 / C300 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C‑Class C270 / C280 / C300 CDI Engine Replacement Costs
+H2: Mercedes C‑Class CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes C‑Class CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-c200-c220-diesel-older.json
+H1: Mercedes C200 & C220 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C200/C220 CDI Engine Replacement Costs
+H2: C200/C220 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes C-Class Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-c200-cdi.json
+H1: Mercedes C‑Class C200 CDI / C200d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C‑Class C200 CDI / C200d Engine Replacement Costs
+H2: C200 CDI / C200d - Repair, Buy, or Replace?
+
+## src/data/variants/c-class-c220-230-petrol.json
+H1: Mercedes-Benz C220 / C230 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz C220 / C230 Petrol Engine Replacement Costs
+H2: C220 / C230 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz C220 / C230 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-c220-cdi-c220d.json
+H1: Mercedes C220 CDI / C220d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C220 CDI / C220d Engine Replacement Costs
+H2: C220 CDI / C220d - Repair, Buy, or Replace?
+H2: Why UK Mercedes C220 CDI / C220d Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-c250-cdi.json
+H1: Mercedes-Benz C250 CDI / C250d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz C250 CDI / C250d Engine Replacement Costs
+H2: C250 CDI / C250d - Repair, Buy, or Replace?
+
+## src/data/variants/c-class-c300-petrol.json
+H1: Mercedes C300 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C300 Petrol Engine Replacement Costs
+H2: C300 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes C300 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-c300d.json
+H1: Mercedes-Benz C-Class C300d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz C-Class C300d Engine Replacement Costs
+H2: C-Class C300d - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz C-Class C300d Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-c320-c350-cdi.json
+H1: Mercedes-Benz C320 CDI / C350 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz C320 / C350 CDI Engine Replacement Costs
+H2: Mercedes-Benz C320 / C350 CDI - Repair, Buy, or Replace?
+
+## src/data/variants/c-class-c350-c400-petrol.json
+H1: Mercedes C‑Class C350 / C400 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C‑Class C350 / C400 Petrol Engine Replacement Costs
+H2: C350 / C400 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/c-class-c43-amg.json
+H1: Mercedes C43 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C43 AMG Engine Replacement Costs
+H2: C43 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes C43 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/c-class-c63-amg.json
+H1: Mercedes-AMG C63 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG C63 Engine Replacement Costs
+H2: C63 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/c-class-c63-se-performance.json
+H1: Mercedes‑AMG C63 S E Performance Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑AMG C63 S E Performance Engine Replacement Costs
+H2: Mercedes‑AMG C63 S E Performance - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑AMG C63 S E Performance Owners Trust MercedesEngine.uk
+
+## src/data/variants/citan-108-112-cdi.json
+H1: Mercedes Citan 108 / 110 / 112 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes Citan CDI Engine Replacement Costs
+H2: Citan CDI - Repair, Buy, or Replace?
+
+## src/data/variants/citan-citan-petrol.json
+H1: Mercedes Citan Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes Citan Petrol Engine Replacement Costs
+H2: Citan Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes Citan Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/cla-class-cla180d-200d.json
+H1: Mercedes CLA180d / CLA200d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLA180d / CLA200d Engine Replacement Costs
+H2: Mercedes CLA180d / CLA200d - Repair, Buy, or Replace?
+H2: Why UK Mercedes CLA180d / CLA200d Owners Trust MercedesEngine.uk
+
+## src/data/variants/cla-class-cla220d.json
+H1: Mercedes-Benz CLA 220d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLA 220d Engine Replacement Costs
+H2: CLA 220d - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz CLA 220d Owners Trust MercedesEngine.uk
+
+## src/data/variants/cla-class-cla250.json
+H1: Mercedes CLA250 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLA250 Engine Replacement Costs
+H2: CLA250 - Repair, Buy, or Replace?
+H2: Why UK Mercedes CLA250 Owners Trust MercedesEngine.uk
+
+## src/data/variants/cla-class-cla35-amg.json
+H1: Mercedes CLA35 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLA35 AMG Engine Replacement Costs
+H2: CLA35 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/cla-class-cla45-amg.json
+H1: Mercedes CLA45 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLA45 AMG Engine Replacement Costs
+H2: CLA45 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes CLA45 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/clc-class-clc180-200-petrol.json
+H1: Mercedes-Benz CLC180 / CLC200 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLC180 / CLC200 Petrol Engine Replacement Costs
+H2: Mercedes-Benz CLC180 / CLC200 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/clc-class-clc200-clc220-cdi.json
+H1: Mercedes-Benz CLC200 / CLC220 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLC200 / CLC220 CDI Engine Replacement Costs
+H2: CLC200 / CLC220 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz CLC200 / CLC220 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/clk-200-220-cdi.json
+H1: Mercedes-Benz CLK 200 CDI / 220 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLK 200/220 CDI Engine Replacement Costs
+H2: CLK 200/220 CDI - Repair, Buy, or Replace?
+
+## src/data/variants/clk-230-280-320.json
+H1: Mercedes CLK 230 / 280 / 320 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLK 230 / 280 / 320 Engine Replacement Costs
+H2: Mercedes CLK 230 / 280 / 320 - Repair, Buy, or Replace?
+H2: Why UK Mercedes CLK 230 / 280 / 320 Owners Trust MercedesEngine.uk
+
+## src/data/variants/clk-class-clk55-63-amg.json
+H1: Mercedes‑Benz CLK55 / CLK63 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz CLK55 / CLK63 AMG Engine Replacement Costs
+H2: Mercedes‑Benz CLK55 / CLK63 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz CLK55 / CLK63 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/clk-clk270-clk320-cdi.json
+H1: Mercedes‑Benz CLK270 / CLK320 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz CLK270 / CLK320 CDI Engine Replacement Costs
+H2: CLK270 / CLK320 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz CLK270 / CLK320 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/clk-clk350.json
+H1: Mercedes-Benz CLK350 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLK350 Engine Replacement Costs
+H2: Mercedes-Benz CLK350 - Repair, Buy, or Replace?
+
+## src/data/variants/cls-cls220-250-cdi-220d.json
+H1: Mercedes-Benz CLS 220 / 250 CDI & 220d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLS 220 / 250 CDI & 220d Engine Replacement Costs
+H2: CLS 220 / 250 CDI & 220d - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz CLS 220 / 250 CDI & 220d Owners Trust MercedesEngine.uk
+
+## src/data/variants/cls-cls350-cls500-petrol.json
+H1: Mercedes CLS350 / CLS500 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLS350 / CLS500 Petrol Engine Replacement Costs
+H2: CLS350 / CLS500 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/cls-cls350d-400d.json
+H1: Mercedes CLS 350d & 400d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLS 350d / 400d Engine Replacement Costs
+H2: CLS 350d / 400d - Repair, Buy, or Replace?
+H2: Why UK Mercedes CLS Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/cls-cls450-500.json
+H1: Mercedes CLS 450 / 500 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes CLS 450 / 500 Engine Replacement Costs
+H2: CLS 450 / 500 - Repair, Buy, or Replace?
+H2: Why UK Mercedes CLS 450 / 500 Owners Trust MercedesEngine.uk
+
+## src/data/variants/cls-cls63-amg.json
+H1: Mercedes-AMG CLS63 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG CLS63 Engine Replacement Costs
+H2: CLS63 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/e-class-e200-cdi-e200d.json
+H1: Mercedes‑Benz E‑Class E200 CDI / E200d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz E200 CDI / E200d Engine Replacement Costs
+H2: E‑Class E200 CDI / E200d - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz E200 CDI / E200d Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e200-e220-diesel-older.json
+H1: Mercedes E-Class E200 / E220 Diesel Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes E-Class E200 / E220 Diesel Engine Replacement Costs
+H2: Mercedes E-Class E200 / E220 Diesel - Repair, Buy, or Replace?
+H2: Why UK Mercedes E-Class Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e200-e230-petrol.json
+H1: Mercedes E200 / E230 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes E200 / E230 Petrol Engine Replacement Costs
+H2: E200 / E230 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes E200 / E230 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e200-e250-petrol.json
+H1: Mercedes-Benz E200 / E250 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz E200 / E250 Petrol Engine Replacement Costs
+H2: E200 / E250 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/e-class-e220-cdi-e220d.json
+H1: Mercedes-Benz E220 CDI / E220d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz E220 CDI / E220d Engine Replacement Costs
+H2: Mercedes-Benz E220 CDI / E220d - Repair, Buy, or Replace?
+
+## src/data/variants/e-class-e250-cdi-e250d.json
+H1: Mercedes E‑Class E250 CDI / E250d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes E250 CDI / E250d Engine Replacement Costs
+H2: Mercedes E250 CDI / E250d - Repair, Buy, or Replace?
+H2: Why UK Mercedes E250 CDI / E250d Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e270-e280-e300-cdi.json
+H1: Mercedes-Benz E-Class E270 / E280 / E300 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz E-Class E270 / E280 / E300 CDI Engine Replacement Costs
+H2: E-Class E270 / E280 / E300 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz E-Class E270 / E280 / E300 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e280-e320-e350-petrol.json
+H1: Mercedes E-Class E280 / E320 / E350 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes E-Class E280 / E320 / E350 Petrol Engine Replacement Costs
+H2: Mercedes E-Class E280 / E320 / E350 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes E-Class V6 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e300-e450.json
+H1: Mercedes-Benz E-Class E300 / E450 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz E300 / E450 Engine Replacement Costs
+H2: E-Class E300 / E450 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz E300 / E450 Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e320-e350-cdi.json
+H1: Mercedes E320 CDI & E350 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes E320 / E350 CDI Engine Replacement Costs
+H2: E320 / E350 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes E-Class Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e350d-e400d.json
+H1: Mercedes E‑Class E350d / E400d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes E‑Class E350d / E400d Engine Replacement Costs
+H2: E350d / E400d - Repair, Buy, or Replace?
+
+## src/data/variants/e-class-e500-e550.json
+H1: Mercedes-Benz E500 / E550 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz E500 / E550 Engine Replacement Costs
+H2: Mercedes-Benz E500 / E550 - Repair, Buy, or Replace?
+
+## src/data/variants/e-class-e53-amg.json
+H1: Mercedes E‑Class E53 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes E53 AMG Engine Replacement Costs
+H2: Mercedes E53 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes E53 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/e-class-e63-amg.json
+H1: Mercedes-Benz E-Class E63 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz E63 AMG Engine Replacement Costs
+H2: E63 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz E63 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/g-class-g350-g500-petrol-older.json
+H1: Mercedes G‑Class G350 / G500 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes G‑Class G350 / G500 Petrol Engine Replacement Costs
+H2: G350 / G500 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/g-class-g350d.json
+H1: Mercedes G350d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes G350d Engine Replacement Costs
+H2: G350d - Repair, Buy, or Replace?
+H2: Why UK Mercedes G350d Owners Trust MercedesEngine.uk
+
+## src/data/variants/g-class-g500-g550.json
+H1: Mercedes G500 / G550 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes G500 / G550 Engine Replacement Costs
+H2: G500 / G550 - Repair, Buy, or Replace?
+H2: Why UK Mercedes G500 / G550 Owners Trust MercedesEngine.uk
+
+## src/data/variants/g-class-g55-amg.json
+H1: Mercedes-Benz G55 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz G55 AMG Engine Replacement Costs
+H2: G55 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/g-class-g63-amg.json
+H1: Mercedes‑AMG G63 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑AMG G63 Engine Replacement Costs
+H2: Mercedes‑AMG G63 - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑AMG G63 Owners Trust MercedesEngine.uk
+
+## src/data/variants/g-class-g65-amg.json
+H1: Mercedes‑Benz G‑Class G65 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz G65 AMG Engine Replacement Costs
+H2: G‑Class G65 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz G65 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/gla-class-gla200-250-petrol.json
+H1: Mercedes GLA200 / GLA250 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLA200 / GLA250 Petrol Engine Replacement Costs
+H2: Mercedes GLA200 / GLA250 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes GLA200 / GLA250 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/gla-class-gla200d-220d.json
+H1: Mercedes-Benz GLA200d / GLA220d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz GLA200d / GLA220d Engine Replacement Costs
+H2: Mercedes-Benz GLA200d / GLA220d - Repair, Buy, or Replace?
+
+## src/data/variants/gla-class-gla35-amg.json
+H1: Mercedes-AMG GLA 35 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG GLA 35 Engine Replacement Costs
+H2: GLA 35 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-AMG GLA 35 Owners Trust MercedesEngine.uk
+
+## src/data/variants/glc-250-300-petrol.json
+H1: Mercedes-Benz GLC 250 / 300 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz GLC 250 / 300 Petrol Engine Replacement Costs
+H2: GLC 250 / 300 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/glc-class-glc-300d.json
+H1: Mercedes GLC 300d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLC 300d Engine Replacement Costs
+H2: GLC 300d - Repair, Buy, or Replace?
+
+## src/data/variants/glc-class-glc220d-250d.json
+H1: Mercedes GLC220d & GLC250d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLC220d / GLC250d Engine Replacement Costs
+H2: GLC220d / GLC250d - Repair, Buy, or Replace?
+H2: Why UK Mercedes GLC Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/glc-class-glc350d-400d.json
+H1: Mercedes GLC 350d / 400d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLC 350d / 400d Engine Replacement Costs
+H2: GLC 350d / 400d - Repair, Buy, or Replace?
+H2: Why UK Mercedes GLC 350d / 400d Owners Trust MercedesEngine.uk
+
+## src/data/variants/glc-class-glc43-amg.json
+H1: Mercedes‑AMG GLC43 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑AMG GLC43 Engine Replacement Costs
+H2: Mercedes‑AMG GLC43 - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑AMG GLC43 Owners Trust MercedesEngine.uk
+
+## src/data/variants/glc-class-glc63-amg.json
+H1: Mercedes‑Benz GLC‑Class GLC63 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz GLC63 AMG Engine Replacement Costs
+H2: GLC‑Class GLC63 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz GLC63 AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/gle-class-gle-63-amg.json
+H1: Mercedes GLE 63 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLE 63 AMG Engine Replacement Costs
+H2: GLE 63 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/gle-class-gle250d-300d.json
+H1: Mercedes-Benz GLE250d / GLE300d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz GLE250d / GLE300d Engine Replacement Costs
+H2: Mercedes-Benz GLE250d / GLE300d - Repair, Buy, or Replace?
+
+## src/data/variants/gle-class-gle350-450-petrol.json
+H1: Mercedes-Benz GLE 350 / 450 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz GLE 350 / 450 Petrol Engine Replacement Costs
+H2: GLE 350 / 450 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz GLE 350 / 450 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/gle-class-gle350d-400d.json
+H1: Mercedes GLE350d / GLE400d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLE350d / GLE400d Engine Replacement Costs
+H2: Mercedes GLE350d / GLE400d - Repair, Buy, or Replace?
+H2: Why UK Mercedes GLE350d / GLE400d Owners Trust MercedesEngine.uk
+
+## src/data/variants/gle-class-gle53-amg.json
+H1: Mercedes-AMG GLE53 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG GLE53 Engine Replacement Costs
+H2: GLE53 AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes-AMG GLE53 Owners Trust MercedesEngine.uk
+
+## src/data/variants/glk-320-350-cdi.json
+H1: Mercedes-Benz GLK 320 CDI / 350 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz GLK 320/350 CDI Engine Replacement Costs
+H2: GLK 320/350 CDI - Repair, Buy, or Replace?
+
+## src/data/variants/glk-class-glk200-250-petrol.json
+H1: Mercedes GLK 200 / 250 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLK 200 / 250 Petrol Engine Replacement Costs
+H2: Mercedes GLK 200 / 250 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes GLK 200 / 250 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/glk-class-glk220-250-cdi.json
+H1: Mercedes GLK 220 CDI / 250 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes GLK 220 CDI / 250 CDI Engine Replacement Costs
+H2: GLK 220 CDI / 250 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes GLK 220 CDI / 250 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/gls-class-gls63-amg.json
+H1: Mercedes‑AMG GLS63 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑AMG GLS63 Engine Replacement Costs
+H2: Mercedes‑AMG GLS63 - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑AMG GLS63 Owners Trust MercedesEngine.uk
+
+## src/data/variants/gls-gls350d-400d.json
+H1: Mercedes‑Benz GLS350d / GLS400d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz GLS350d / GLS400d Engine Replacement Costs
+H2: GLS350d / GLS400d - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz GLS350d / GLS400d Owners Trust MercedesEngine.uk
+
+## src/data/variants/gls-gls450-500-580.json
+H1: Mercedes-Benz GLS450 / GLS500 / GLS580 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz GLS450 / GLS500 / GLS580 Engine Replacement Costs
+H2: Mercedes-Benz GLS450 / GLS500 / GLS580 - Repair, Buy, or Replace?
+
+## src/data/variants/m-class-ml-petrol.json
+H1: Mercedes ML230, ML320 & ML350 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes ML Petrol Engine Replacement Costs
+H2: ML Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes M-Class Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/m-class-ml270-320-cdi.json
+H1: Mercedes-Benz ML270 / ML320 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz ML270 / ML320 CDI Engine Replacement Costs
+H2: ML270 / ML320 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz ML270 / ML320 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/m-class-ml500-ml550-ml63-amg.json
+H1: Mercedes M‑Class ML500 / ML550 / ML63 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes M‑Class V8 Engine Replacement Costs
+H2: M‑Class V8 - Repair, Buy, or Replace?
+
+## src/data/variants/mercedes-a-class-a180d.json
+H1: Mercedes A‑Class A180d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes A180d Engine Replacement Costs
+H2: Mercedes A180d - Repair, Buy, or Replace?
+H2: Why UK Mercedes A‑Class A180d Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-amg-gla45.json
+H1: Mercedes-AMG GLA45 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG GLA45 Engine Replacement Costs
+H2: Mercedes-AMG GLA45 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-AMG GLA45 Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-amg-gt-63.json
+H1: Mercedes-AMG GT 63 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG GT 63 Engine Replacement Costs
+H2: Mercedes-AMG GT 63 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-AMG GT 63 Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-a-class-a160-a180-petrol.json
+H1: Mercedes-Benz A-Class A160 / A180 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz A-Class A160 / A180 Petrol Engine Replacement Costs
+H2: Mercedes-Benz A-Class A160 / A180 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz A-Class A160 / A180 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-c-class-c250-petrol.json
+H1: Mercedes-Benz C-Class C250 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz C250 Petrol Engine Replacement Costs
+H2: Mercedes-Benz C250 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz C250 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-cla180-cla200-petrol.json
+H1: Mercedes-Benz CLA180 / CLA200 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLA180 / CLA200 Petrol Engine Replacement Costs
+H2: Mercedes-Benz CLA180 / CLA200 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz CLA180 / CLA200 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-cls320-cls350-cdi.json
+H1: Mercedes-Benz CLS320 / CLS350 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz CLS320 / CLS350 CDI Engine Replacement Costs
+H2: Mercedes-Benz CLS320 / CLS350 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz CLS320 / CLS350 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-e300d.json
+H1: Mercedes-Benz E300d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz E300d Engine Replacement Costs
+H2: Mercedes-Benz E300d - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz E300d Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-g250-g300-diesel.json
+H1: Mercedes-Benz G250 / G300 Diesel Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz G250 / G300 Diesel Engine Replacement Costs
+H2: Mercedes-Benz G250 / G300 Diesel - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz G250 / G300 Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-gle500-gle580.json
+H1: Mercedes-Benz GLE500 / GLE580 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz GLE500 / GLE580 Engine Replacement Costs
+H2: Mercedes-Benz GLE500 / GLE580 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz GLE500 / GLE580 Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-ml250-bluetec-ml350-cdi.json
+H1: Mercedes-Benz ML250 BlueTEC / ML350 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz ML250 / ML350 Diesel Engine Replacement Costs
+H2: Mercedes-Benz ML250 / ML350 Diesel - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz ML250 / ML350 Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-s430-s500-s560-s580.json
+H1: Mercedes-Benz S-Class V8 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz S-Class V8 Engine Replacement Costs
+H2: Mercedes-Benz S-Class V8 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz S-Class V8 Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-slk200-cdi.json
+H1: Mercedes-Benz SLK200 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz SLK200 CDI Engine Replacement Costs
+H2: Mercedes-Benz SLK200 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz SLK200 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-sprinter-209-319-cdi.json
+H1: Mercedes-Benz Sprinter 209-319 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz Sprinter 209-319 CDI Engine Replacement Costs
+H2: Mercedes-Benz Sprinter CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz Sprinter CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-benz-viano-3-0-3-5-cdi.json
+H1: Mercedes-Benz Viano 3.0 / 3.5 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz Viano 3.0 / 3.5 CDI Engine Replacement Costs
+H2: Mercedes-Benz Viano 3.0 / 3.5 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz Viano 3.0 / 3.5 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/mercedes-c-class-c180-c200-petrol.json
+H1: Mercedes C‑Class C180 / C200 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes C180 / C200 Petrol Engine Replacement Costs
+H2: Mercedes C180 / C200 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/r-class-r280-r320-cdi.json
+H1: Mercedes R280 / R320 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes R280 / R320 CDI Engine Replacement Costs
+H2: R280 / R320 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes R280 / R320 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/r-class-r350-r500-petrol.json
+H1: Mercedes-Benz R350 / R500 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz R350 / R500 Petrol Engine Replacement Costs
+H2: R350 / R500 Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/s-class-s280-320-350-420-petrol.json
+H1: Mercedes S‑Class S280 / S320 / S350 / S420 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes S‑Class S280 / S320 / S350 / S420 Petrol Engine Replacement Costs
+H2: Mercedes S‑Class S280 / S320 / S350 / S420 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes S‑Class S280 / S320 / S350 / S420 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/s-class-s300-s320-diesel-older.json
+H1: Mercedes S‑Class S300 / S320 Diesel Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes S‑Class S300 / S320 Diesel Engine Replacement Costs
+H2: Mercedes S‑Class S300 / S320 Diesel - Repair, Buy, or Replace?
+H2: Why UK Mercedes S‑Class S300 / S320 Diesel Owners Trust MercedesEngine.uk
+
+## src/data/variants/s-class-s320-s350-cdi.json
+H1: Mercedes‑Benz S‑Class S320 CDI / S350 CDI / BlueTEC Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz S320 CDI / S350 CDI / BlueTEC Engine Replacement Costs
+H2: S‑Class S320 CDI / S350 CDI / BlueTEC - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz S320 CDI / S350 CDI / BlueTEC Owners Trust MercedesEngine.uk
+
+## src/data/variants/s-class-s350-400-450-petrol.json
+H1: Mercedes-Benz S-Class S350 / S400 / S450 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz S-Class S350 / S400 / S450 Petrol Engine Replacement Costs
+H2: S-Class S350 / S400 / S450 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz S-Class S350 / S400 / S450 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/s-class-s350d-s400d.json
+H1: Mercedes-Benz S350d / S400d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz S350d / S400d Engine Replacement Costs
+H2: Mercedes-Benz S350d / S400d - Repair, Buy, or Replace?
+
+## src/data/variants/s-class-s600-s65-v12.json
+H1: Mercedes S600 & S65 V12 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes S600 / S65 V12 Engine Replacement Costs
+H2: S600 / S65 V12 - Repair, Buy, or Replace?
+H2: Why UK Mercedes S-Class V12 Owners Trust MercedesEngine.uk
+
+## src/data/variants/s-class-s63-amg.json
+H1: Mercedes S‑Class S63 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes S‑Class S63 AMG Engine Replacement Costs
+H2: S63 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/sl-class-sl320-cdi.json
+H1: Mercedes SL320 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes SL320 CDI Engine Replacement Costs
+H2: Mercedes SL320 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes SL320 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/sl-sl280-320-350-petrol.json
+H1: Mercedes SL 280 / 320 / 350 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes SL 280 / 320 / 350 Petrol Engine Replacement Costs
+H2: SL 280 / 320 / 350 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes SL 280 / 320 / 350 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/sl-sl350-sl400-sl450.json
+H1: Mercedes-Benz SL350 / SL400 / SL450 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz SL350 / SL400 / SL450 Engine Replacement Costs
+H2: SL350 / SL400 / SL450 - Repair, Buy, or Replace?
+
+## src/data/variants/sl-sl500-sl550-sl560.json
+H1: Mercedes SL500 / SL550 / SL560 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes SL500 / SL550 / SL560 Engine Replacement Costs
+H2: Mercedes SL V8 - Repair, Buy, or Replace?
+H2: Why UK Mercedes SL V8 Owners Trust MercedesEngine.uk
+
+## src/data/variants/sl-sl55-sl63-amg.json
+H1: Mercedes-Benz SL55 / SL63 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz SL55 / SL63 AMG Engine Replacement Costs
+H2: Mercedes-Benz SL55 / SL63 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/sl-sl600-sl65-v12.json
+H1: Mercedes‑Benz SL600 / SL65 AMG V12 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz SL600 / SL65 AMG V12 Engine Replacement Costs
+H2: SL600 / SL65 AMG V12 - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz SL600 / SL65 AMG V12 Owners Trust MercedesEngine.uk
+
+## src/data/variants/slc-220d-250d.json
+H1: Mercedes-Benz SLC 220d / 250d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz SLC 220d / 250d Engine Replacement Costs
+H2: SLC 220d / 250d - Repair, Buy, or Replace?
+
+## src/data/variants/slc-class-slc43-amg.json
+H1: Mercedes-AMG SLC43 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-AMG SLC43 Engine Replacement Costs
+H2: Mercedes-AMG SLC43 - Repair, Buy, or Replace?
+H2: Why UK Mercedes-AMG SLC43 Owners Trust MercedesEngine.uk
+
+## src/data/variants/slc-slc180-200.json
+H1: Mercedes SLC 180 / 200 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes SLC 180 / 200 Engine Replacement Costs
+H2: SLC 180 / 200 - Repair, Buy, or Replace?
+H2: Why UK Mercedes SLC 180 / 200 Owners Trust MercedesEngine.uk
+
+## src/data/variants/slk-class-slk-55-amg.json
+H1: Mercedes SLK 55 AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes SLK 55 AMG Engine Replacement Costs
+H2: SLK 55 AMG - Repair, Buy, or Replace?
+
+## src/data/variants/slk-slk200-230-kompressor.json
+H1: Mercedes-Benz SLK 200 / 230 Kompressor Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz SLK 200 / 230 Kompressor Engine Replacement Costs
+H2: SLK 200 / 230 Kompressor - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz SLK 200 / 230 Kompressor Owners Trust MercedesEngine.uk
+
+## src/data/variants/slk-slk250-350.json
+H1: Mercedes SLK250 & SLK350 Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes SLK250 / SLK350 Engine Replacement Costs
+H2: SLK250 / SLK350 - Repair, Buy, or Replace?
+H2: Why UK Mercedes SLK Owners Trust MercedesEngine.uk
+
+## src/data/variants/sls-amg-62-v8.json
+H1: Mercedes‑Benz SLS AMG Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz SLS AMG Engine Replacement Costs
+H2: SLS AMG - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz SLS AMG Owners Trust MercedesEngine.uk
+
+## src/data/variants/sls-amg-black-series.json
+H1: Mercedes-Benz SLS AMG Black Series Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz SLS AMG Black Series Engine Replacement Costs
+H2: Mercedes-Benz SLS AMG Black Series - Repair, Buy, or Replace?
+
+## src/data/variants/sls-amg-sls-amg-gt.json
+H1: Mercedes‑Benz SLS AMG GT Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz SLS AMG GT Engine Replacement Costs
+H2: Mercedes‑Benz SLS AMG GT - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz SLS AMG GT Owners Trust MercedesEngine.uk
+
+## src/data/variants/sprinter-208-316-cdi.json
+H1: Mercedes-Benz Sprinter 208–316 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz Sprinter 208–316 CDI Engine Replacement Costs
+H2: Sprinter 208–316 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz Sprinter 208–316 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/sprinter-211-317-cdi.json
+H1: Mercedes Sprinter 211–317 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes Sprinter 211–317 CDI Engine Replacement Costs
+H2: Sprinter 211–317 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes Sprinter Owners Trust MercedesEngine.uk
+
+## src/data/variants/v-class-v200-250-petrol.json
+H1: Mercedes V‑Class V200 / V250 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes V‑Class V200 / V250 Petrol Engine Replacement Costs
+H2: Mercedes V‑Class V200 / V250 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes V‑Class V200 / V250 Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/v-class-v200d-v220d.json
+H1: Mercedes‑Benz V‑Class V200d / V220d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes‑Benz V200d / V220d Engine Replacement Costs
+H2: V‑Class V200d / V220d - Repair, Buy, or Replace?
+H2: Why UK Mercedes‑Benz V200d / V220d Owners Trust MercedesEngine.uk
+
+## src/data/variants/v-class-v250d-v300d.json
+H1: Mercedes-Benz V250d / V300d Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz V250d / V300d Engine Replacement Costs
+H2: Mercedes-Benz V250d / V300d - Repair, Buy, or Replace?
+
+## src/data/variants/vaneo-16-19-petrol.json
+H1: Mercedes Vaneo 1.6 / 1.9 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes Vaneo 1.6 / 1.9 Petrol Engine Replacement Costs
+H2: Mercedes Vaneo 1.6 / 1.9 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes Vaneo Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/vaneo-17-cdi.json
+H1: Mercedes-Benz Vaneo 1.7 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz Vaneo 1.7 CDI Engine Replacement Costs
+H2: Vaneo 1.7 CDI - Repair, Buy, or Replace?
+
+## src/data/variants/viano-22-cdi.json
+H1: Mercedes-Benz Viano 2.2 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz Viano 2.2 CDI Engine Replacement Costs
+H2: Viano 2.2 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes-Benz Viano 2.2 CDI Owners Trust MercedesEngine.uk
+
+## src/data/variants/viano-32-37-petrol.json
+H1: Mercedes Viano 3.2 & 3.7 Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes Viano 3.2 / 3.7 Petrol Engine Replacement Costs
+H2: Viano 3.2 / 3.7 Petrol - Repair, Buy, or Replace?
+H2: Why UK Mercedes Viano Petrol Owners Trust MercedesEngine.uk
+
+## src/data/variants/vito-108-112-cdi-older.json
+H1: Mercedes Vito 108 / 110 / 112 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes Vito CDI Engine Replacement Costs
+H2: Vito CDI - Repair, Buy, or Replace?
+
+## src/data/variants/vito-petrol.json
+H1: Mercedes-Benz Vito Petrol Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes-Benz Vito Petrol Engine Replacement Costs
+H2: Vito Petrol - Repair, Buy, or Replace?
+
+## src/data/variants/vito-vito-109-119-cdi.json
+H1: Mercedes Vito 109-119 CDI Engine Replacement - Compare Prices & Get Quotes
+H2: Mercedes Vito 109-119 CDI Engine Replacement Costs
+H2: Vito 109-119 CDI - Repair, Buy, or Replace?
+H2: Why UK Mercedes Vito 109-119 CDI Owners Trust MercedesEngine.uk
 
 # ============================================================
-# 5) ENGINE PAGE  (src/app/engine/[slug]/page.js)
+# 5) ENGINE PAGE
 # ============================================================
-# H1 (dynamic: data.h1 from src/data/engines/*.json)
-#   Example: "Mercedes-Benz M102 Engine - Specs, Reliability & Replacement Cost"
-#   Pattern: "{Engine} Engine - Specs, Reliability & Replacement Cost"
 
-# H2 - ALL static (hardcoded in components)
-# Section order in page.js:
-- At a Glance              (STATIC)  "At a Glance"
-- Verdict & Rating         (STATIC)  "Verdict & Rating"
-- Compatibility            (STATIC)  "Compatibility"
-- Cost Guide               (STATIC)  "Cost Guide"
-- FAQ                      (STATIC)  "FAQ"
-- Why Owners Trust Us      (STATIC)  "Why Owners Trust Us"
+## src/data/engines/mercedes-amg-m176-m177.json
+H1: Mercedes-AMG M176/M177 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m102.json
+H1: Mercedes-Benz M102 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m103.json
+H1: Mercedes-Benz M103 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m104.json
+H1: Mercedes-Benz M104 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m111.json
+H1: Mercedes-Benz M111 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m112.json
+H1: Mercedes-Benz M112 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m113.json
+H1: Mercedes-Benz M113 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m116-m117-m119.json
+H1: Mercedes-Benz M116/M117/M119 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m120.json
+H1: Mercedes-Benz M120 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m133-m139.json
+H1: Mercedes-Benz M133/M139 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m136.json
+H1: Mercedes-Benz M136 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m137.json
+H1: Mercedes-Benz M137 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m156.json
+H1: Mercedes-Benz M156 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m157-m178.json
+H1: Mercedes-Benz M157/M178 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m159-m178-gt.json
+H1: Mercedes-Benz M159/M178 GT Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m254-m256-m257.json
+H1: Mercedes-Benz M254/M256/M257 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m260-m264.json
+H1: Mercedes-Benz M260/M264 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m266.json
+H1: Mercedes-Benz M266 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m270-m271.json
+H1: Mercedes-Benz M270/M271 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m272-m273.json
+H1: Mercedes-Benz M272/M273 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m274.json
+H1: Mercedes-Benz M274 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m275-m279.json
+H1: Mercedes-Benz M275/M279 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m276-m278.json
+H1: Mercedes-Benz M276/M278 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-m282.json
+H1: Mercedes-Benz M282 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om601-om608.json
+H1: Mercedes-Benz OM601-OM608 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om611-om613.json
+H1: Mercedes-Benz OM611/OM613 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om615-om616-om617.json
+H1: Mercedes-Benz OM615/OM616/OM617 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om621-om622-om626.json
+H1: Mercedes-Benz OM621/OM622/OM626 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om640.json
+H1: Mercedes-Benz OM640 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om642.json
+H1: Mercedes-Benz OM642 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om646-om647.json
+H1: Mercedes-Benz OM646/OM647 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om648.json
+H1: Mercedes-Benz OM648 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om651.json
+H1: Mercedes-Benz OM651 Engine - Specs, Reliability & Replacement Cost
+
+## src/data/engines/mercedes-benz-om654-om656.json
+H1: Mercedes-Benz OM654/OM656 Engine - Specs, Reliability & Replacement Cost
+
+# Totals: H1=307  H2=1263

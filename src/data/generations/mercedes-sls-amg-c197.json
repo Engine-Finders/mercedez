@@ -392,7 +392,8 @@
         "cta": {
           "label": "Compare M159 engine prices for your C197 SLS AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -420,7 +421,8 @@
         "cta": {
           "label": "Compare M159 service quotes for your C197 SLS AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -448,7 +450,8 @@
         "cta": {
           "label": "Compare M159 exhaust manifold prices for your C197 SLS AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

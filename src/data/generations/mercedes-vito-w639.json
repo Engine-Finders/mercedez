@@ -602,7 +602,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your Vito →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -615,7 +616,8 @@
         "cta": {
           "label": "Compare OM646/OM651 injector prices for your Vito →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -628,7 +630,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your Vito →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -641,7 +644,8 @@
         "cta": {
           "label": "Compare turbocharger prices for your Vito →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

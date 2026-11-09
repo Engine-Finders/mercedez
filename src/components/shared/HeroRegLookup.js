@@ -5,13 +5,14 @@ import { useRouter } from "next/navigation";
 import UkPlate from "@/components/shared/UkPlate";
 
 /**
- * Hero registration lookup — yellow GB plate + CTA.
+ * Hero registration lookup - yellow GB plate + CTA.
  * Navigates to /quote?reg=… (vehicle fetch happens on the quote page).
  */
 export default function HeroRegLookup({
   ctaLabel = "Get Instant Quote →",
   className = "",
   buttonClassName = "",
+  plateClassName = "",
 }) {
   const router = useRouter();
   const uid = useId();
@@ -39,6 +40,7 @@ export default function HeroRegLookup({
         value={regInput}
         editable
         inputId={`${uid}-hero-reg`}
+        className={plateClassName}
         onChange={(event) =>
           setRegInput(event.target.value.toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 8))
         }

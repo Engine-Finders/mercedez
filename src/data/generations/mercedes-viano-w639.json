@@ -455,37 +455,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642.990 (3.0 CDI BlueEFFICIENCY, 2010–2014)",
         "quote": "The 3.0‑litre V6 diesel OM642 delivers 224 PS and 440 Nm of torque - effortless, refined, and perfectly suited to the Viano's size and weight. It's a robust, proven engine that regularly exceeds 200,000 miles with proper maintenance, though oil cooler seal leaks are a known issue. The pre‑facelift 204 PS version is equally dependable.",
-        "whoItsFor": "buyers who want effortless V6 torque and refinement for long journeys or heavy loads."
+        "whoItsFor": "buyers who want effortless V6 torque and refinement for long journeys or heavy loads.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112 E37 (3.7, 2004–2008)",
         "quote": "The 3.7‑litre M112 V6 delivers 231 PS of smooth, naturally aspirated power - no turbo lag, no balance‑shaft worries, just a robust, proven V6 that keeps going. The 3.2‑litre M112 E32 is equally solid. The M112 is one of Mercedes' most durable petrol engines and a perfect match for the Viano's character.",
-        "whoItsFor": "buyers who want V6 refinement without the M272's balance‑shaft risk."
+        "whoItsFor": "buyers who want V6 refinement without the M272's balance‑shaft risk.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272 E35 (3.5, 2007–2014)",
         "quote": "The 3.5‑litre M272 V6 is a great engine - smooth, powerful, and refined. But early units (roughly 2005–2008) suffer from a well‑documented balance‑shaft gear failure. The balance shaft sprocket wears prematurely, causing the timing to jump and potentially destroying the engine. If you're buying a pre‑2008 Viano 3.5, check the engine number against Mercedes' affected range.",
-        "whoItsFor": "buyers willing to check engine numbers and budget for balance‑shaft replacement, or those buying post‑2008 examples."
+        "whoItsFor": "buyers willing to check engine numbers and budget for balance‑shaft replacement, or those buying post‑2008 examples.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM642.990 (3.0 CDI)",
         "quote": "The OM642 V6 diesel is a brilliant engine - but when it fails, it fails expensively. Oil cooler seal leaks require the intake manifold to be removed, a labour‑intensive job. Timing‑chain wear can also occur on higher‑mileage examples. A full replacement can easily exceed £6,500.",
-        "whoItsFor": "buyers who need V6 diesel torque and are prepared for higher maintenance costs."
+        "whoItsFor": "buyers who need V6 diesel torque and are prepared for higher maintenance costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM651.940 (2.2 CDI BlueEFFICIENCY, 2010–2014)",
         "quote": "The 2.2‑litre OM651 diesel is a significant improvement over the OM646 - more refined, more efficient, and more reliable. With 163 PS and 360 Nm of torque, it's more than enough for the Viano's day‑to‑day duties. It's the sweet spot in the diesel range - cheaper to buy, cheaper to run, and cheaper to replace than the V6 diesel.",
-        "whoItsFor": "buyers who want diesel economy and reliability without the V6's running costs."
+        "whoItsFor": "buyers who want diesel economy and reliability without the V6's running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M112 E32 (3.2, 2003–2008)",
         "quote": "The 3.2‑litre M112 V6 is often overlooked in favour of the larger 3.7 or the diesels, but it offers 190 PS of smooth, reliable V6 power with significantly better fuel economy than the 3.7. It's cheaper to buy, cheaper to insure, and cheaper to replace. The M112 is bulletproof - the W639's sleeper pick.",
-        "whoItsFor": "buyers who want V6 refinement without the fuel bills of the 3.7 or the diesel's DPF concerns."
+        "whoItsFor": "buyers who want V6 refinement without the fuel bills of the 3.7 or the diesel's DPF concerns.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -575,7 +581,8 @@
         "cta": {
           "label": "Compare OM646 engine prices for your W639 2.0/2.2 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -603,7 +610,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your W639 3.5 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -631,7 +639,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W639 3.0 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -659,7 +668,8 @@
         "cta": {
           "label": "Compare OM646 injector repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 5,
@@ -687,7 +697,8 @@
         "cta": {
           "label": "Check W639 fuel system recall status →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

@@ -2,7 +2,9 @@
 
 import Link from "next/link";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
+import { modelCtaCopy } from "@/lib/ctaLabels";
 import { sectionBadge, sectionDescription, sectionH2, sectionH5, sectionH6, sectionHighlight, sectionSmall, sectionTableText } from "@/components/models/sectionTypography";
 
 const defaultProblemImage = "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=700&q=80";
@@ -146,12 +148,13 @@ function UrgencyKey({ items }) {
   );
 }
 
-export default function CommonProblems({ data }) {
+export default function CommonProblems({ data, modelSlug = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
   const title = splitTitle(data.h2);
+  const cta = modelCtaCopy(modelSlug).problems;
 
   return (
     <section data-theme-mode={theme} className={`py-6 text-[var(--color-text)] ${homeSectionBg(isDark, 6)}`}>
@@ -178,6 +181,8 @@ export default function CommonProblems({ data }) {
         <div className="mt-4">
           <UrgencyKey items={data.urgencyKey} />
         </div>
+
+        <SectionQuoteCta label={cta.label} support={cta.support} />
       </div>
     </section>
   );

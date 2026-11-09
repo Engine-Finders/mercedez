@@ -461,37 +461,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM646.962 (C200 CDI/C220 CDI, 2003–2007)",
         "quote": "The OM646 is the improved version of the OM611 - common-rail diesel with better injector reliability, improved emissions, and a proven 200,000-mile-plus lifespan. It's the W203's most dependable diesel, free of the earlier OM611's injector fragility.",
-        "whoItsFor": "buyers who want a reliable, economical diesel without the V6's complexity."
+        "whoItsFor": "buyers who want a reliable, economical diesel without the V6's complexity.",
+        "image": "/cars/c-class-w203-facelift-saloon-2004–2007-new-brilliant silver metallic-major facelift-c-class w203 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112.953 (C320, 3.2-litre V6)",
         "quote": "The 3.2-litre M112 V6 delivers 218bhp of smooth, naturally aspirated power. No supercharger to worry about, no timing-chain tensioner issues - just a robust, proven V6 that sounds wonderful and keeps going. The C240's 2.6-litre M112 is equally solid.",
-        "whoItsFor": "buyers who want a smooth six-cylinder petrol without the Kompressor's complexities."
+        "whoItsFor": "buyers who want a smooth six-cylinder petrol without the Kompressor's complexities.",
+        "image": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M111.951/M111.955 (early C180)",
         "quote": "The early 2.0-litre M111 four-cylinder is prone to camshaft adjuster magnet oil leaks that can reach the ECU, plus general age-related oil leaks from gaskets and seals. It's an old engine in an old car - and replacement costs frequently exceed the vehicle's value.",
-        "whoItsFor": "budget buyers willing to accept age-related issues."
+        "whoItsFor": "budget buyers willing to accept age-related issues.",
+        "image": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203 (3)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM612.962 (C270 CDI, 2.7-litre 5-cyl diesel)",
         "quote": "The five-cylinder OM612 is rare and specialist - when the injectors fail or the turbo goes, parts are harder to find and labour is more intensive than the four-cylinder diesels. Replacement costs can hit five figures on a bad day.",
-        "whoItsFor": "buyers who need 170bhp diesel torque and are prepared for specialist maintenance."
+        "whoItsFor": "buyers who need 170bhp diesel torque and are prepared for specialist maintenance.",
+        "image": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M271.946 (C180 Kompressor, 2002–2007)",
         "quote": "The 1.8-litre supercharged M271 offers 143bhp, decent economy, and the same fundamental robustness as its 163bhp sibling. It's the volume engine for good reason - cheap to run, cheap to replace, and more than enough for UK roads.",
-        "whoItsFor": "buyers who want a premium badge without the premium running costs."
+        "whoItsFor": "buyers who want a premium badge without the premium running costs.",
+        "image": "/cars/c-class-w203-facelift-saloon-2004–2007-new-brilliant silver metallic-major facelift-c-class w203 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M112.912 (C240, 2.6-litre V6)",
         "quote": "The 2.6-litre M112 V6 is often overlooked in favour of the Kompressor fours or the bigger C320, but it offers 170bhp of smooth, naturally aspirated power without the M271's supercharger complexity. It's the W203's sleeper pick - a petrol that drives like a proper Mercedes.",
-        "whoItsFor": "buyers who want a V6 without the C320's fuel consumption."
+        "whoItsFor": "buyers who want a V6 without the C320's fuel consumption.",
+        "image": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -597,7 +603,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your W203 C180/C200 Kompressor →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w203-facelift-saloon-2004–2007-new-brilliant silver metallic-major facelift-c-class w203 fl-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -625,7 +632,8 @@
         "cta": {
           "label": "Compare OM611/OM646 engine prices for your W203 C200/C220 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203 (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -653,7 +661,8 @@
         "cta": {
           "label": "Compare W203 rust repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203 (3)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -681,7 +690,8 @@
         "cta": {
           "label": "Compare M112 engine prices for your W203 C240/C320 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w203-standard-saloon-2000–2004-new-aragonite blue metallic-new-generation exterior-c-class w203-45-angle-front-view.webp"
       }
     ]
   },
@@ -763,7 +773,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - W203 saloon shares identical engine-bay access with its S203 estate and CL203 SportCoupé siblings, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C200 CDI",

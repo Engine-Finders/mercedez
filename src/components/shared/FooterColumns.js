@@ -72,11 +72,11 @@ export const footerLegal = {
 function LogoMark() {
   return (
     <Image
-      src="/mercedes-benz-seeklogo.png"
-      alt="Mercedes-Benz"
-      width={160}
-      height={160}
-      className="h-20 w-20 object-contain object-center"
+      src="/icon.webp"
+      alt="Mercedes Engines"
+      width={977}
+      height={453}
+      className="h-16 w-auto object-contain object-left md:h-20"
     />
   );
 }

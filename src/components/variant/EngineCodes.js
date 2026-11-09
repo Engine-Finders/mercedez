@@ -158,7 +158,7 @@ export default function EngineCodes({ data }) {
     <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 8)}`}>
       <SectionHeaderBand
         title="Engine Codes"
-        image={{ src: "/sec2-bg.webp", alt: "" }}
+        image={{ src: "/Amg-gt.webp", alt: "" }}
         isDark={isDark}
         panelBg={sectionPanelBg(isDark, 8)}
         panelRgb={sectionPanelRgb(isDark, 8)}
