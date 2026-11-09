@@ -456,31 +456,36 @@
         "slot": "Best Diesel Overall",
         "engine": "OM606.961 (S 300 Turbodiesel, 1996–1998)",
         "quote": "The 3.0‑litre four‑valve turbo‑diesel six - 177 PS, robust, and a significant improvement over the earlier OM603 'rod bender'. If you must have a W140 diesel, this is the one.",
-        "whoItsFor": "buyers who want diesel economy without the OM603's rod‑bender risk."
+        "whoItsFor": "buyers who want diesel economy without the OM603's rod‑bender risk.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M104.990 (S 320, 3.2L I6)",
         "quote": "The 3.2‑litre straight‑six - 231 PS, simple, robust, and the cheapest W140 engine to maintain. No major systemic weaknesses beyond normal head gasket wear at high mileages.",
-        "whoItsFor": "the most sensible W140 buyer who prioritises reliability and running costs."
+        "whoItsFor": "the most sensible W140 buyer who prioritises reliability and running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM603.971 (300 SD / S 350 Turbodiesel, 1991–1993)",
         "quote": "The 3.5‑litre turbo‑diesel has a documented connecting‑rod failure reputation - the 'rod bender'. Catastrophic failure can occur without warning. Many specialists advise avoiding these cars entirely unless the engine has been fully rebuilt.",
-        "whoItsFor": "only buyers who can verify a full engine rebuild."
+        "whoItsFor": "only buyers who can verify a full engine rebuild.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M120 V12 (S 600)",
         "quote": "The 6.0‑litre V12 - 394 PS, an engineering masterpiece. But 12 coil packs, engine mounts, and specialist labour add up fast. The price of V12 ownership is significant.",
-        "whoItsFor": "collectors and enthusiasts who understand V12 running costs."
+        "whoItsFor": "collectors and enthusiasts who understand V12 running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M119 5.0 V8 (S 500)",
         "quote": "The 5.0‑litre V8 - 320 PS, V8 prestige without V12 running costs. Timing‑chain guides are the only significant weak point. Budget for guide replacement and this is the W140 sweet spot.",
-        "whoItsFor": "buyers who want the flagship W140 experience at a reasonable running cost."
+        "whoItsFor": "buyers who want the flagship W140 experience at a reasonable running cost.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -591,7 +596,8 @@
         "cta": {
           "label": "Compare OM603 engine prices for your W140 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -619,7 +625,8 @@
         "cta": {
           "label": "Compare M119 engine prices for your W140 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -647,7 +654,8 @@
         "cta": {
           "label": "Compare M120 engine prices for your W140 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -675,7 +683,8 @@
         "cta": {
           "label": "Compare M104 engine prices for your W140 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -749,7 +758,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - W140 shares its engine bay architecture across its long production run, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "300 SD",

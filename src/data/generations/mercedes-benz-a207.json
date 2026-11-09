@@ -378,7 +378,8 @@
         "cta": {
           "label": "Compare A207 M271 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -406,7 +407,8 @@
         "cta": {
           "label": "Compare A207 OM651 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -434,7 +436,8 @@
         "cta": {
           "label": "Compare A207 M276 coolant system repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -462,7 +465,8 @@
         "cta": {
           "label": "Compare A207 OM642 oil cooler seal repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -576,7 +580,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 220 CDI",

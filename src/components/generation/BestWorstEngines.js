@@ -4,6 +4,7 @@ import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import { resolveGenerationCarImage } from "@/lib/resolveGenerationCarImage";
 import GenIcon from "./GenIcons";
 
 const typeStyles = {
@@ -51,51 +52,59 @@ const typeStyles = {
   },
 };
 
-function MobileCard({ item, isDark }) {
+function resolveCardImage(item, fallbackSrc) {
+  return item?.image || fallbackSrc;
+}
+
+function MobileCard({ item, isDark, imageSrc }) {
   const style = typeStyles[item.type] || typeStyles.success;
   const badgeClass = isDark ? style.dark : style.light;
+  const src = resolveCardImage(item, imageSrc);
 
   return (
     <div
-      className="flex gap-3 overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-3"
+      className="overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-surface)] p-3"
       style={{ borderLeft: `4px solid ${style.color}` }}
     >
-      <div className="flex w-20 shrink-0 flex-col items-center gap-1.5">
+      <div className="flex items-center gap-2">
         <span className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-full ${badgeClass}`}>
           <GenIcon name={style.icon} className="h-3.5 w-3.5" />
         </span>
-        <div className="relative h-28 w-20 shrink-0 overflow-hidden">
-          <Image src="/right.webp" alt={`${item.engine} engine`} fill className="object-contain" sizes="80px" />
-        </div>
+        <p className={`min-w-0 flex-1 text-[0.72rem] font-semibold leading-tight ${badgeClass.split(" ")[0]}`} dangerouslySetInnerHTML={{ __html: item.slot }} />
       </div>
 
-      <div className="flex min-w-0 flex-1 flex-col gap-1.5">
-        <p className={`text-[0.72rem] font-semibold leading-tight ${badgeClass.split(" ")[0]}`} dangerouslySetInnerHTML={{ __html: item.slot }} />
+      <div className="relative mt-2 aspect-[16/10] w-full overflow-hidden rounded-sm">
+        <Image src={src} alt={`${item.engine || "engine"}`} fill unoptimized className="object-cover object-center" sizes="100vw" />
+      </div>
 
-        <p className="flex flex-wrap items-baseline gap-x-1.5 text-[1rem] font-bold leading-tight text-[var(--color-text)]">
-          <span dangerouslySetInnerHTML={{ __html: item.engine }} />
-          {item.engineNote ? (
-            <span className="text-[0.72rem] font-normal text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: item.engineNote }} />
-          ) : null}
-        </p>
-
-        <p className="text-[0.78rem] leading-[1.35] text-[var(--color-text-muted)]">&ldquo;<span dangerouslySetInnerHTML={{ __html: item.quote }} />&rdquo;</p>
-
-        <p className="border-t border-[var(--color-border)] pt-2 text-[0.76rem] leading-[1.3] text-[var(--color-text)]">
-          <span className="font-semibold" style={{ color: style.color }}>Who it&apos;s for:</span>{" "}
-          <span dangerouslySetInnerHTML={{ __html: item.whoItsFor }} />
-        </p>
-        {item.modelWideNote ? (
-          <p className="rounded-md bg-[var(--color-page-soft)] p-1.5 text-[0.68rem] leading-[1.3] text-[var(--color-text-soft)]" dangerouslySetInnerHTML={{ __html: item.modelWideNote }} />
+      <p className="mt-2 flex flex-wrap items-baseline gap-x-1.5 text-[1rem] font-bold leading-tight text-[var(--color-text)]">
+        <span dangerouslySetInnerHTML={{ __html: item.engine }} />
+        {item.engineNote ? (
+          <span className="text-[0.72rem] font-normal text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: item.engineNote }} />
         ) : null}
-      </div>
+      </p>
+
+      <p className="mt-1.5 text-[0.78rem] leading-[1.35] text-[var(--color-text-muted)]">
+        &ldquo;<span dangerouslySetInnerHTML={{ __html: item.quote }} />&rdquo;
+      </p>
+
+      <p className="mt-2 border-t border-[var(--color-border)] pt-2 text-[0.76rem] leading-[1.3] text-[var(--color-text)]">
+        <span className="font-semibold" style={{ color: style.color }}>
+          Who it&apos;s for:
+        </span>{" "}
+        <span dangerouslySetInnerHTML={{ __html: item.whoItsFor }} />
+      </p>
+      {item.modelWideNote ? (
+        <p className="mt-1.5 rounded-md bg-[var(--color-page-soft)] p-1.5 text-[0.68rem] leading-[1.3] text-[var(--color-text-soft)]" dangerouslySetInnerHTML={{ __html: item.modelWideNote }} />
+      ) : null}
     </div>
   );
 }
 
-function Card({ item, isDark }) {
+function Card({ item, isDark, imageSrc }) {
   const style = typeStyles[item.type] || typeStyles.success;
   const badgeClass = isDark ? style.dark : style.light;
+  const src = resolveCardImage(item, imageSrc);
 
   return (
     <div className={`hidden h-full flex-col gap-2 overflow-hidden rounded-md border border-b-4 border-[var(--color-border)] bg-[var(--color-surface)] p-3 sm:flex ${style.accent}`}>
@@ -106,6 +115,10 @@ function Card({ item, isDark }) {
         <p className={`flex-1 text-[0.76rem] font-semibold leading-tight ${badgeClass.split(" ")[0]}`} dangerouslySetInnerHTML={{ __html: item.slot }} />
       </div>
 
+      <div className="relative aspect-[16/10] w-full overflow-hidden rounded-sm">
+        <Image src={src} alt={`${item.engine || "engine"}`} fill unoptimized className="object-cover object-center" sizes="220px" />
+      </div>
+
       <p className="flex flex-wrap items-baseline gap-x-1.5 text-[1.05rem] font-bold leading-tight text-[var(--color-text)]">
         <span dangerouslySetInnerHTML={{ __html: item.engine }} />
         {item.engineNote ? (
@@ -113,12 +126,9 @@ function Card({ item, isDark }) {
         ) : null}
       </p>
 
-      <div className="flex items-start gap-2.5">
-        <div className="relative -ml-3 h-36 w-24 shrink-0 overflow-hidden rounded-sm">
-          <Image src="/right.webp" alt={`${item.engine} engine`} fill className="object-contain" sizes="100px" />
-        </div>
-        <p className="text-[0.8rem] leading-[1.35] text-[var(--color-text-muted)]">&ldquo;<span dangerouslySetInnerHTML={{ __html: item.quote }} />&rdquo;</p>
-      </div>
+      <p className="min-h-0 flex-1 text-[0.8rem] leading-[1.35] text-[var(--color-text-muted)]">
+        &ldquo;<span dangerouslySetInnerHTML={{ __html: item.quote }} />&rdquo;
+      </p>
 
       <div className="mt-auto">
         <p className="border-t border-[var(--color-border)] pt-2 text-[0.78rem] leading-[1.3] text-[var(--color-text)]">
@@ -151,12 +161,16 @@ function OverlookedCard({ item, isDark }) {
         </div>
 
         <div className="p-5 md:pt-5">
-          <p className="text-[0.88rem] leading-[1.5] text-[var(--color-text-muted)]">&ldquo;<span dangerouslySetInnerHTML={{ __html: item.quote }} />&rdquo;</p>
+          <p className="text-[0.88rem] leading-[1.5] text-[var(--color-text-muted)]">
+            &ldquo;<span dangerouslySetInnerHTML={{ __html: item.quote }} />&rdquo;
+          </p>
         </div>
 
         <div className="p-5 md:flex md:items-center">
           <p className="text-[0.82rem] leading-[1.5] text-[var(--color-text)]">
-            <span className="font-semibold" style={{ color: GOLD }}>Who it&apos;s for: </span>
+            <span className="font-semibold" style={{ color: GOLD }}>
+              Who it&apos;s for:{" "}
+            </span>
             <span dangerouslySetInnerHTML={{ __html: item.whoItsFor }} />
           </p>
         </div>
@@ -165,34 +179,56 @@ function OverlookedCard({ item, isDark }) {
   );
 }
 
-export default function BestWorstEngines({ data }) {
+export default function BestWorstEngines({ data, parent = "", slug = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
   const items = data.items || [];
-  const mainItems = items.filter((item) => !item.fullWidth);
+  const mainItems = items.filter((item) => !item.fullWidth && (item.engine || item.quote));
   const wideItems = items.filter((item) => item.fullWidth);
+
+  // Thin-data single-paragraph fallback (no engine cards)
+  const thinSummary = !mainItems.length && items.length === 1 && !items[0].engine ? items[0] : null;
 
   return (
     <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 4)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <SectionLabel number={4} isDark={isDark} />
         <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
           Best &amp; Worst Engines
         </h2>
+        <SectionLabel isDark={isDark} />
 
-        <div className="mt-6 flex flex-col gap-3 sm:hidden">
-          {mainItems.map((item) => (
-            <MobileCard key={item.slot} item={item} isDark={isDark} />
-          ))}
-        </div>
+        {thinSummary ? (
+          <p
+            className={`mt-6 max-w-[920px] text-[0.92rem] leading-[1.5] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
+            dangerouslySetInnerHTML={{ __html: thinSummary.quote }}
+          />
+        ) : (
+          <>
+            <div className="mt-6 flex flex-col gap-3 sm:hidden">
+              {mainItems.map((item, index) => (
+                <MobileCard
+                  key={item.slot}
+                  item={item}
+                  isDark={isDark}
+                  imageSrc={item.image || resolveGenerationCarImage(parent, slug, index)}
+                />
+              ))}
+            </div>
 
-        <div className="mt-6 hidden items-stretch gap-4 sm:grid sm:grid-cols-2 lg:grid-cols-5">
-          {mainItems.map((item) => (
-            <Card key={item.slot} item={item} isDark={isDark} />
-          ))}
-        </div>
+            <div className="mt-6 hidden items-stretch gap-4 sm:grid sm:grid-cols-2 lg:grid-cols-5">
+              {mainItems.map((item, index) => (
+                <Card
+                  key={item.slot}
+                  item={item}
+                  isDark={isDark}
+                  imageSrc={item.image || resolveGenerationCarImage(parent, slug, index)}
+                />
+              ))}
+            </div>
+          </>
+        )}
 
         {wideItems.length > 0 ? (
           <div className="mt-4 flex flex-col gap-4">

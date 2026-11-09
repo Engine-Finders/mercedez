@@ -384,7 +384,8 @@
         "cta": {
           "label": "Compare M159 engine prices for your SLS AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -397,7 +398,8 @@
         "cta": {
           "label": "Compare M159 engine prices for your SLS AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -410,7 +412,8 @@
         "cta": {
           "label": "Compare M159 engine prices for your SLS AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -423,7 +426,8 @@
         "cta": {
           "label": "Compare SLS AMG transmission repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

@@ -631,7 +631,8 @@
         "cta": {
           "label": "Compare M274/M264 engine prices for your A238 E-Class →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -659,7 +660,8 @@
         "cta": {
           "label": "Compare M276/M256 engine prices for your A238 E-Class →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -687,7 +689,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your A238 E 220 d →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -715,7 +718,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your A238 E 63 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -829,7 +833,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 220 d",

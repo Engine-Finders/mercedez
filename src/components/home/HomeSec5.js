@@ -57,7 +57,7 @@ function Chevron({ open }) {
   );
 }
 
-/** Shared desktop table columns — header + rows must use the same template. */
+/** Shared desktop table columns - header + rows must use the same template. */
 const TABLE_COLS = "md:grid md:grid-cols-[3rem_minmax(0,1.15fr)_minmax(0,1.35fr)_11.5rem]";
 const COL_DIVIDER = (isDark) => (isDark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.05)");
 
@@ -143,7 +143,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
         </div>
       ) : null}
 
-      {/* Desktop row — same grid as header */}
+      {/* Desktop row - same grid as header */}
       <Link
         href={href}
         className={`hidden border-0 no-underline hover:no-underline ${TABLE_COLS} ${
@@ -199,7 +199,7 @@ function ComparisonRow({ item, isDark, open, onToggle }) {
 export default function HomeSec5({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || data.headerImages?.[0] || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || data.headerImages?.[0] || { src: "/Amg-gt.webp", alt: "" };
   const comparisons = data.comparisons || [];
   const columns = data.columns || ["#", "COMPARISON", "VERDICT PREVIEW", "LINK"];
   const [openId, setOpenId] = useState(null);

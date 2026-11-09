@@ -1,8 +1,8 @@
-/** Shared SEO asset sanitizer — kills 404 jpg/png schema & OG hits from clone JSON. */
+/** Shared SEO asset sanitizer - kills 404 jpg/png schema & OG hits from clone JSON. */
 
 export const SITE_URL = "https://mercedesengines.uk";
-export const DEFAULT_OG_IMAGE = `${SITE_URL}/Hero-dark.webp`;
-export const DEFAULT_LOGO = `${SITE_URL}/navbar-logo.png`;
+export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-share.webp`;
+export const DEFAULT_LOGO = `${SITE_URL}/icon.webp`;
 
 const BAD_HOST =
   /mercedesbenzengine\.uk|mercedesengine\.uk|bmwengines\.uk|jaguarengines\.uk|landroverengines\.uk/i;

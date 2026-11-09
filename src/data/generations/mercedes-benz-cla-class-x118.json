@@ -408,37 +408,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (CLA 220 d, 190hp)",
         "quote": "The modern 2.0‑litre diesel that replaced the ageing <a  href='https://mercedesengines.uk/engine/om651'>OM651</a>. Excellent fuel economy, strong torque (400Nm), and none of the injector seal issues that plagued its predecessor. AdBlue system niggles are its only real demand.",
-        "whoItsFor": "buyers who want genuine diesel efficiency without the OM608's compromises."
+        "whoItsFor": "buyers who want genuine diesel efficiency without the OM608's compromises.",
+        "image": "/cars/cla-x118-cla35 amg shooting brake-performance estate-2019–2023-special-selenite grey metallic-amg body-cla x118 cla35 amg shooting br-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M260.920 (CLA 250, 224hp)",
         "quote": "Mercedes' 2.0‑litre turbo four - smooth, responsive, and fundamentally robust. Delivers 224hp with genuine everyday usability, and shares its architecture with the AMG 35 for proven durability.",
-        "whoItsFor": "buyers who want everyday performance without the AMG premium."
+        "whoItsFor": "buyers who want everyday performance without the AMG premium.",
+        "image": "/cars/cla-x118-cla45 s amg shooting brake-performance estate-2019–2023-special-spectral blue metallic-amg body-cla x118 cla45 s amg shooting-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M282.914 (CLA 180/200, 136–163hp)",
         "quote": "The Renault‑developed 1.3‑litre turbo is the most contentious engine in the range - occasional oil consumption and timing chain concerns have been reported, and it lacks the refinement of the 2.0‑litre M260.",
-        "whoItsFor": "buyers on a tight budget who prioritise running costs over driving experience."
+        "whoItsFor": "buyers on a tight budget who prioritise running costs over driving experience.",
+        "image": "/cars/cla-x118-shooting brake-estate coupé-2019–2023-new-emerald green metallic-separate body-cla x118 shooting brake-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M139.980 (AMG CLA 45 S, 421hp)",
         "quote": "The most powerful four‑cylinder production engine in the world. High‑strung design and tight engine bay packaging make even sensor replacement labour‑intensive - and a full recon is a five‑figure bill.",
-        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist."
+        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist.",
+        "image": "/cars/cla-x118-cla35 amg shooting brake-performance estate-2019–2023-special-selenite grey metallic-amg body-cla x118 cla35 amg shooting br-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (CLA 200 d, 150hp)",
         "quote": "The entry‑point to the proven OM654 diesel family. 150hp and 400Nm deliver strong real‑world performance, and the engine shares its robust design with the 220 d - just with lower running costs.",
-        "whoItsFor": "buyers who want diesel economy without the higher purchase price of the 220 d."
+        "whoItsFor": "buyers who want diesel economy without the higher purchase price of the 220 d.",
+        "image": "/cars/cla-x118-cla45 s amg shooting brake-performance estate-2019–2023-special-spectral blue metallic-amg body-cla x118 cla45 s amg shooting-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M260.920 (AMG CLA 35, 306hp)",
         "quote": "The 35 sits in a sweet spot between the 250 and the full‑fat 45 - 306hp, 4MATIC, and the same M260 architecture that underpins the non‑AMG cars. Lower running costs than the 45, and more accessible maintenance.",
-        "whoItsFor": "buyers who want AMG performance without the 45's maintenance premium."
+        "whoItsFor": "buyers who want AMG performance without the 45's maintenance premium.",
+        "image": "/cars/cla-x118-shooting brake-estate coupé-2019–2023-new-emerald green metallic-separate body-cla x118 shooting brake-45-angle-front-view.webp"
       }
     ]
   },
@@ -553,7 +559,8 @@
         "cta": {
           "label": "Compare M282 engine prices for your X118 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-x118-cla35 amg shooting brake-performance estate-2019–2023-special-selenite grey metallic-amg body-cla x118 cla35 amg shooting br-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -566,7 +573,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your X118 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-x118-cla45 s amg shooting brake-performance estate-2019–2023-special-spectral blue metallic-amg body-cla x118 cla45 s amg shooting-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -579,7 +587,8 @@
         "cta": {
           "label": "Compare M260 engine prices for your X118 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-x118-shooting brake-estate coupé-2019–2023-new-emerald green metallic-separate body-cla x118 shooting brake-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -592,7 +601,8 @@
         "cta": {
           "label": "Compare M139 engine prices for your AMG CLA 45 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-x118-cla35 amg shooting brake-performance estate-2019–2023-special-selenite grey metallic-amg body-cla x118 cla35 amg shooting br-45-angle-front-view.webp"
       }
     ]
   },
@@ -690,7 +700,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLA 180 d",

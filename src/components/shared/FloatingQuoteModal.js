@@ -26,7 +26,7 @@ function formatPlate(vrm) {
 }
 
 function engineLitres(raw) {
-  if (!raw) return "—";
+  if (!raw) return "-";
   const cleaned = String(raw).replace(/[^\d.]/g, "");
   const num = Number(cleaned);
   if (!Number.isFinite(num) || num <= 0) return String(raw);
@@ -187,7 +187,7 @@ function UkPlate({ value, editable, onChange, inputId }) {
         />
       ) : (
         <div className="flex w-full items-center justify-center px-3 text-center text-lg font-extrabold tracking-[0.14em] text-[#1a1a1a] sm:text-xl">
-          {formatPlate(value) || "—"}
+          {formatPlate(value) || "-"}
         </div>
       )}
     </div>
@@ -348,7 +348,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
     >
       {/* Header */}
       <div className="relative shrink-0 overflow-hidden px-4 pb-8 pt-5 sm:px-7 sm:pb-10 sm:pt-6">
-        <Image src="/sec2-bg.webp" alt="" fill priority className="object-cover object-center" sizes="672px" />
+        <Image src="/Amg-gt.webp" alt="" fill priority className="object-cover object-center" sizes="672px" />
         <div className="absolute inset-0 bg-black/55" />
         <button
           ref={closeRef}
@@ -410,13 +410,13 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
                   <li className="flex items-center gap-2">
                     <IconCalendar className="h-4 w-4 shrink-0 text-[var(--color-text)]" />
                     <span>
-                      <span className="font-semibold text-[var(--color-text)]">Year:</span> {vehicle.year || "—"}
+                      <span className="font-semibold text-[var(--color-text)]">Year:</span> {vehicle.year || "-"}
                     </span>
                   </li>
                   <li className="flex items-center gap-2">
                     <IconFuel className="h-4 w-4 shrink-0 text-[var(--color-text)]" />
                     <span>
-                      <span className="font-semibold text-[var(--color-text)]">Fuel Type:</span> {vehicle.fuelType || "—"}
+                      <span className="font-semibold text-[var(--color-text)]">Fuel Type:</span> {vehicle.fuelType || "-"}
                     </span>
                   </li>
                   <li className="flex items-center gap-2">
@@ -432,7 +432,7 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
                       aria-hidden="true"
                     />
                     <span>
-                      <span className="font-semibold text-[var(--color-text)]">Colour:</span> {vehicle.colour || "—"}
+                      <span className="font-semibold text-[var(--color-text)]">Colour:</span> {vehicle.colour || "-"}
                     </span>
                   </li>
                 </ul>

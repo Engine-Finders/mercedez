@@ -545,7 +545,8 @@
         "cta": {
           "label": "Compare M273 engine prices for your C216 CL 500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -573,7 +574,8 @@
         "cta": {
           "label": "Compare M156 engine prices for your C216 CL 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -601,7 +603,8 @@
         "cta": {
           "label": "Compare M275 engine prices for your C216 CL 600/CL 65 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -629,7 +632,8 @@
         "cta": {
           "label": "Compare C216 ABC suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

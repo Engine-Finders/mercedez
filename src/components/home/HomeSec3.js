@@ -359,6 +359,21 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
               </button>
             )}
           </div>
+
+          {activeStep === 3 ? (
+            <div className="mt-4 border-t border-white/15 pt-4">
+              <p className={`${typeSmall} text-white/70`}>
+                Understand the likely engine fault, repair costs and whether replacement may be necessary.
+              </p>
+              <a
+                href="/quote"
+                className={`btn-cta ${typeButton} mt-2.5 flex w-full items-center justify-center rounded-md px-4 py-2.5 font-semibold text-white no-underline`}
+                style={{ backgroundColor: "#0a0a0a", border: "1px solid rgba(255,255,255,0.2)" }}
+              >
+                Get Mercedes-Benz Specialist Advice →
+              </a>
+            </div>
+          ) : null}
         </>
       )}
     </div>

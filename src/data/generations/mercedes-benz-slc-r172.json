@@ -342,37 +342,43 @@
         "slot": "Best Petrol Overall",
         "engine": "M276 3.0‑litre V6 bi‑turbo (SLC 43 AMG, 367hp)",
         "quote": "The 3.0‑litre V6 bi‑turbo is the engine the SLC deserved - 367hp, 520Nm, and a soundtrack that transforms the compact roadster into a genuine AMG. It's the most rewarding engine in the range, with proven reliability across the Mercedes‑Benz line‑up.",
-        "whoItsFor": "enthusiasts who want genuine AMG performance in a compact package."
+        "whoItsFor": "enthusiasts who want genuine AMG performance in a compact package.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Diesel Overall",
         "engine": "OM651 2.1‑litre four‑cylinder turbo (SLC 250 d, 204hp)",
         "quote": "The 2.1‑litre turbo diesel delivers 204hp and 500Nm - ample torque for the lightweight R172 chassis. It's the most economical engine in the range, with a proven track record across the Mercedes line‑up. Timing chain and injector seals are the main watchpoints.",
-        "whoItsFor": "buyers who want roadster fun with diesel running costs."
+        "whoItsFor": "buyers who want roadster fun with diesel running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M274 1.6‑litre turbo (SLC 180, 156hp)",
         "quote": "The entry‑level 1.6‑litre turbo is the least powerful engine in the range - 156hp in a roadster that deserves more. Timing chain stretch is a documented issue on higher‑mileage examples, and it lacks the character of the larger engines.",
-        "whoItsFor": "buyers on a tight budget who prioritise running costs over performance."
+        "whoItsFor": "buyers on a tight budget who prioritise running costs over performance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M276 3.0‑litre V6 bi‑turbo (SLC 43 AMG, 367hp)",
         "quote": "The V6 bi‑turbo is the most complex engine in the SLC range - cooling system and turbocharger issues are documented on higher‑mileage examples, and the tight engine bay makes repairs labour‑intensive. A full recon is a four‑figure bill.",
-        "whoItsFor": "AMG buyers with a maintenance budget to match the performance."
+        "whoItsFor": "AMG buyers with a maintenance budget to match the performance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M274 2.0‑litre turbo (SLC 200, 184hp)",
         "quote": "The 2.0‑litre turbo delivers 184hp and 300Nm - plenty of performance for the lightweight R172 chassis. It's the sweet spot in the range: more power than the SLC 180, lower running costs than the SLC 300 or V6, and the same proven M274 architecture.",
-        "whoItsFor": "buyers who want genuine roadster performance without the V6's running costs."
+        "whoItsFor": "buyers who want genuine roadster performance without the V6's running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M274 2.0‑litre turbo (SLC 300, 245hp)",
         "quote": "The SLC 300 is often overlooked in favour of the SLC 43 AMG - but 245hp from the 2.0‑litre turbo is more than enough to exploit the R172's chassis, and it avoids the V6's higher running costs. It's the performance bargain of the range.",
-        "whoItsFor": "buyers who want near‑AMG performance without the AMG maintenance premium."
+        "whoItsFor": "buyers who want near‑AMG performance without the AMG maintenance premium.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -447,7 +453,8 @@
         "cta": {
           "label": "Compare M274 engine prices for your SLC →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -460,7 +467,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your SLC →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -473,7 +481,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your SLC 43 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -531,7 +540,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "SLC 250 d",

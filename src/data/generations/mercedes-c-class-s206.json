@@ -425,37 +425,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654 (C 220 d)",
         "quote": "“The 200 PS version of Mercedes’ modular diesel family delivers effortless estate‑car torque with proven longevity - taxi‑fleet examples regularly exceed 350,000 km. The 48V mild‑hybrid system smooths out stop‑start and low‑speed running.” Who it’s for: Buyers who need diesel economy and six‑figure mileage potential.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s206-c43 amg estate-performance estate-2022–-special-designo hyacinth red metallic-amg exterior-c-class s206 c43 amg est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M254 (C 200)",
         "quote": "“The 1.5‑litre mild‑hybrid petrol is the sweet spot of the S206 range - 204 PS is plenty for the estate’s weight, the 48V system provides instant torque off the line, and the reliability record is better than the <a  href='https://mercedesengines.uk/engine/m260-m264'>M264</a> it replaced.” Who it’s for: Buyers who want a petrol S206 without the AMG running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s206-estate-estate-2021–-new-calcite white-separate estate-c-class s206 est-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M139L (AMG C 63 S E Performance)",
         "quote": "“The most powerful four‑cylinder production car engine ever - but also one of the most complex. The plug‑in hybrid system adds battery, electric motor, and cooling system failure points on top of the high‑stress turbo engine. A full replacement runs well into five figures.” Who it’s for: Performance buyers with deep pockets and warranty cover.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s206-c43 amg estate-performance estate-2022–-special-designo hyacinth red metallic-amg exterior-c-class s206 c43 amg est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M139L (AMG C 63 S E Performance)",
         "quote": "“Electric motor, battery pack, turbocharger, and engine all in one package - any major failure triggers a cascade of costs. The 6.1 kWh battery alone is a four‑figure replacement.” Who it’s for: Buyers who understand the complexity and have full warranty cover.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s206-estate-estate-2021–-new-calcite white-separate estate-c-class s206 est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654 (C 200 d)",
         "quote": "“The 163 PS entry‑level diesel shares the same robust OM654 architecture as the more powerful versions - but costs less to buy and less to replace. DPF and EGR maintenance is the only real demand.” Who it’s for: Buyers who want diesel economy on a tighter budget.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s206-c43 amg estate-performance estate-2022–-special-designo hyacinth red metallic-amg exterior-c-class s206 c43 amg est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M254 (C 300 e)",
         "quote": "“The plug‑in hybrid C 300 e offers 204 PS from the petrol engine plus 129 PS from the electric motor - 245 kW combined. It’s often dismissed as a compromise, but for company‑car drivers it’s the most tax‑efficient S206 you can buy.” Who it’s for: Company‑car buyers who prioritise BIK tax over outright performance.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s206-estate-estate-2021–-new-calcite white-separate estate-c-class s206 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -574,7 +580,8 @@
         "cta": {
           "label": "Compare M254 engine prices for your S206 C 200 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s206-c43 amg estate-performance estate-2022–-special-designo hyacinth red metallic-amg exterior-c-class s206 c43 amg est-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -602,7 +609,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your S206 C 220 d →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s206-estate-estate-2021–-new-calcite white-separate estate-c-class s206 est-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -630,7 +638,8 @@
         "cta": {
           "label": "Compare M139 engine prices for your S206 AMG C 43 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s206-c43 amg estate-performance estate-2022–-special-designo hyacinth red metallic-amg exterior-c-class s206 c43 amg est-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -658,7 +667,8 @@
         "cta": {
           "label": "Compare C 300 e battery prices for your S206 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s206-estate-estate-2021–-new-calcite white-separate estate-c-class s206 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -740,7 +750,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures - S206 estate shares identical engine‑bay access with its W206 saloon sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C 200 d",

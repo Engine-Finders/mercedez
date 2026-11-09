@@ -432,31 +432,36 @@
         "slot": "Best Diesel Overall",
         "engine": "OM646DE22LA (C 200 CDI / C 220 CDI, pre‑2010)",
         "quote": "The 2.1‑litre four‑cylinder diesel - 136–170 PS, simple, robust, and lacking the rear‑mounted timing chain of its OM651 successor. The OM646 is the most dependable diesel in the entire W204 range.",
-        "whoItsFor": "buyers who want a proven, low‑maintenance W204 diesel."
+        "whoItsFor": "buyers who want a proven, low‑maintenance W204 diesel.",
+        "image": "/cars/c-class-w204-facelift-saloon-2011–2014-new-cavansite blue metallic-major exterior revision-c-class w204 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M276DE35 (C 350, post‑2011)",
         "quote": "The 3.5‑litre naturally aspirated V6 - 306 PS, smooth, and a significant improvement over the balance‑shaft‑prone M272. Post‑2011 M276 V6s are the safest petrol W204s to buy.",
-        "whoItsFor": "buyers who want V6 refinement without the M272 balance‑shaft risk."
+        "whoItsFor": "buyers who want V6 refinement without the M272 balance‑shaft risk.",
+        "image": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272 V6 (pre‑2009, C 230 / C 280 / C 300)",
         "quote": "Pre‑2009 M272 V6 petrols carry a well‑documented balance‑shaft gear wear issue that can be catastrophic if ignored. Always verify that the balance‑shaft gear has been replaced before buying.",
-        "whoItsFor": "buyers willing to verify full engine history before purchase."
+        "whoItsFor": "buyers willing to verify full engine history before purchase.",
+        "image": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204 (3)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156E63 (C 63 AMG)",
         "quote": "The 6.2‑litre AMG V8 - 457–517 PS, and a genuine performance icon. But cam lifter wear and head‑bolt issues on early cars can cost £1,500–£4,000 to fix. Budget for it.",
-        "whoItsFor": "enthusiasts who understand the AMG tax."
+        "whoItsFor": "enthusiasts who understand the AMG tax.",
+        "image": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204 (4)-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM651DE22LA (C 220 CDI, post‑2011)",
         "quote": "The 2.1‑litre common‑rail diesel - 170 PS, strong economy, and the most popular W204 diesel. Provided the timing chain has been checked, this is the sweet spot of W204 ownership.",
-        "whoItsFor": "the default choice for UK W204 buyers seeking economy and value."
+        "whoItsFor": "the default choice for UK W204 buyers seeking economy and value.",
+        "image": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204-45-angle-front-view.webp"
       }
     ]
   },
@@ -575,7 +580,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your W204 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w204-facelift-saloon-2011–2014-new-cavansite blue metallic-major exterior revision-c-class w204 fl-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -603,7 +609,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your W204 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204 (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -631,7 +638,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W204 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204 (3)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -659,7 +667,8 @@
         "cta": {
           "label": "Compare M156 engine prices for your C 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w204-standard-saloon-2007–2011-new-hyacinth red metallic-new generation-c-class w204 (4)-45-angle-front-view.webp"
       }
     ]
   },

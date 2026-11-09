@@ -139,7 +139,7 @@ function KeyTakeaway({ data }) {
 export default function HomeSec11({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || { src: "/Amg-gt.webp", alt: "" };
 
   return (
     <section className={`relative overflow-hidden ${homeSectionBg(isDark, 11)}`}>

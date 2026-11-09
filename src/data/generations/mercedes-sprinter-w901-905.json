@@ -516,31 +516,36 @@
         "slot": "Most Reliable Diesel",
         "engine": "OM601.943 (208 D / 308 D / 408 D)",
         "quote": "The 2.3‑litre naturally‑aspirated diesel - 79 PS, legendary durability, and a reputation for exceeding 300,000 miles with basic maintenance. The ultimate 'fit and forget' workhorse.",
-        "whoItsFor": "buyers who value simplicity and durability above all else."
+        "whoItsFor": "buyers who value simplicity and durability above all else.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Diesel All‑Rounder",
         "engine": "OM602.980 122 PS (212 D / 312 D / 412 D)",
         "quote": "The 2.9‑litre five‑cylinder turbo‑diesel - 122 PS, strong torque for heavier payloads, and the best balance of power and durability in the pre‑CDI range. The turbo is the only real weak point.",
-        "whoItsFor": "buyers who need more power than the OM601 but want proven durability."
+        "whoItsFor": "buyers who need more power than the OM601 but want proven durability.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM611 / OM612 CDI (post‑2000)",
         "quote": "The common‑rail CDI units brought common‑rail refinement but introduced electronic complexity and injector wear. High‑mileage examples without documented injector history should be approached with caution.",
-        "whoItsFor": "buyers who can verify injector service history."
+        "whoItsFor": "buyers who can verify injector service history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM612.981 (216 CDI / 316 CDI / 416 CDI)",
         "quote": "The 2.7‑litre five‑cylinder CDI - 156 PS, the most powerful first‑gen Sprinter. But injector failure and turbo wear add up fast. The highest running costs of the T1N generation.",
-        "whoItsFor": "buyers who need maximum power and are prepared for higher running costs."
+        "whoItsFor": "buyers who need maximum power and are prepared for higher running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM602.980 102 PS (210 D / 310 D / 410 D)",
         "quote": "The 2.9‑litre five‑cylinder turbo‑diesel - 102 PS, proven durability, and moderate running costs. The sweet spot of pre‑CDI Sprinter ownership.",
-        "whoItsFor": "the default choice for budget‑conscious Sprinter buyers who need a reliable workhorse."
+        "whoItsFor": "the default choice for budget‑conscious Sprinter buyers who need a reliable workhorse.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -651,7 +656,8 @@
         "cta": {
           "label": "Compare OM601 / OM602 engine prices for your Sprinter →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -679,7 +685,8 @@
         "cta": {
           "label": "Compare OM611 / OM612 engine prices for your Sprinter →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -707,7 +714,8 @@
         "cta": {
           "label": "Compare OM602 engine prices for your Sprinter →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -735,7 +743,8 @@
         "cta": {
           "label": "Compare M111 engine prices for your Sprinter →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -817,7 +826,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the W901–905 range shares engine bay architecture across all weight variants, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

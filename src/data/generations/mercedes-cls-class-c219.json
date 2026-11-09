@@ -419,37 +419,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642 (CLS 320 CDI / CLS 350 CDI)",
         "quote": "“The 3.0‑litre V6 turbodiesel is the C219's most dependable engine - proven in the W211 E‑Class and capable of 200,000+ miles with routine servicing. The 350 CDI's 268 PS version delivers effortless performance without the AMG V8's running costs.” Who it’s for: Buyers who want diesel economy and six‑figure mileage potential.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M113 V8 (CLS 500, 2004–2006)",
         "quote": "“The 5.0‑litre M113 is the C219's most robust V8 - smooth, torquey, and free of the M156's camshaft adjuster issues. 306 PS and 460 Nm deliver effortless performance without the supercharged AMG's complexity.” Who it’s for: Buyers who want V8 refinement without AMG running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219 (3)-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272 V6 (CLS 350 / CLS 350 CGI)",
         "quote": "“The M272's balance shaft sprocket wear is this generation's defining risk - a design flaw that can lead to catastrophic engine failure. Mercedes acknowledged the issue but didn't extend the warranty as widely as with later engines.” Who it’s for: Buyers who understand the risk and have documented balance shaft history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156 (CLS 63 AMG)",
         "quote": "“The 6.2‑litre naturally aspirated V8 is a masterpiece - but punishing to repair. Camshaft adjuster wear, tappet noise, and the entire engine's high‑strung nature add up fast. A full replacement runs well into five figures.” Who it’s for: AMG enthusiasts with deep pockets and full service history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM642 (CLS 320 CDI)",
         "quote": "“The entry‑level diesel shares the same robust <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> architecture as the more powerful 350 CDI - but costs less to buy and less to replace. Oil cooler seals and swirl flaps are the only real demands.” Who it’s for: Buyers who want diesel economy on a tighter budget.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219 (3)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M113 (CLS 55 AMG)",
         "quote": "“Often overshadowed by the later M156, the supercharged 5.4‑litre M113 is actually more reliable - fewer camshaft issues, proven supercharger, and a more robust bottom end. 476 PS is still plenty in 2026.” Who it’s for: AMG buyers who want performance without the M156's anxiety.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219-45-angle-front-view.webp"
       }
     ]
   },
@@ -560,7 +566,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your C219 CLS 350 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219 (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -588,7 +595,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your C219 CLS 320 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219 (3)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -616,7 +624,8 @@
         "cta": {
           "label": "Compare M156 engine prices for your C219 CLS 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -644,7 +653,8 @@
         "cta": {
           "label": "Compare M113 engine prices for your C219 CLS 55 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c219-standard-4-door coupé-2004–2008-new-moonlight silver metallic-original cls design-cls c219 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -734,7 +744,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures - C219 shares the W211 E‑Class platform and engine‑bay access, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLS 320 CDI",

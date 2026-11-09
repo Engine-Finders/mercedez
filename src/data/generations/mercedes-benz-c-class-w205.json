@@ -299,37 +299,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654 (post‑facelift, 2018–2021)",
         "quote": "The modern 2.0‑litre diesel that replaced the OM651. Significantly improved timing chain design, better fuel economy, and none of the 'Black Death' injector seal issues that plagued its predecessor. AdBlue system niggles are its only real demand.",
-        "whoItsFor": "buyers who want modern diesel efficiency without the OM651's caveats."
+        "whoItsFor": "buyers who want modern diesel efficiency without the OM651's caveats.",
+        "image": "/cars/c-class-w205 lci-c43 amg-performance saloon-2018–2021-special-high-tech silver metallic-facelifted amg-c-class w205 lci c43 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M274 2.0‑litre turbo (184–245hp)",
         "quote": "Mercedes' workhorse four‑cylinder turbo - smooth, responsive, and fundamentally robust. Chain stretch is the main watchpoint, but it's far less common than the N47 problems BMW owners face.",
-        "whoItsFor": "buyers who want everyday usability with genuine performance."
+        "whoItsFor": "buyers who want everyday usability with genuine performance.",
+        "image": "/cars/c-class-w205 lci-c63 amg s-performance saloon-2018–2021-special-rubellite red metallic-facelifted flagship amg-c-class w205 lci c63 amg s-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM651 2.1‑litre diesel (pre‑facelift, 2014–2018)",
         "quote": "Injector seal failure ('Black Death') and timing chain tensioner wear are this generation's defining diesel risks - both are well‑documented and expensive to address if ignored.",
-        "whoItsFor": "only buyers with full service history and documented injector work."
+        "whoItsFor": "only buyers with full service history and documented injector work.",
+        "image": "/cars/c-class-w205-c43 amg-performance saloon-2016–2018-special-amg solarbeam yellow-amg body treatment-c-class w205 c43 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M177 4.0‑litre V8 (AMG C 63/S)",
         "quote": "The hot‑vee twin‑turbo V8 shares the <a  href='https://mercedesengines.uk/engine/m159-m178-gt'>M178</a>'s cooling demands. Sensor‑derived misfire issues are the main electrical headache, and tight engine bay packaging makes even sensor replacement labour‑intensive.",
-        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist."
+        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist.",
+        "image": "/cars/c-class-w205-c63 amg-performance saloon-2015–2018-special-designo mocha black metallic-wide amg treatment-c-class w205 c63 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M274 2.0‑litre turbo (C 200, 184hp)",
         "quote": "The volume petrol engine in the W205 range - parts are widely available, the tuning is proven, and it delivers 184hp with genuine everyday usability. Chain stretch is the only real watchpoint.",
-        "whoItsFor": "buyers who want the W205 experience without the diesel's complications or the V6's running costs."
+        "whoItsFor": "buyers who want the W205 experience without the diesel's complications or the V6's running costs.",
+        "image": "/cars/c-class-w205-facelift-saloon-2018–2021-new-magnetite black metallic-major facelift-c-class w205 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M276 3.0‑litre V6 bi‑turbo (C 400 / C 450 AMG)",
         "quote": "The 3.0‑litre V6 bi‑turbo sits in a sweet spot between the four‑cylinder and the full‑fat AMG V8 - 333–367hp, smooth power delivery, and without the M177's hot‑vee cooling demands.",
-        "whoItsFor": "buyers who want V6 refinement without the AMG V8's maintenance premium."
+        "whoItsFor": "buyers who want V6 refinement without the AMG V8's maintenance premium.",
+        "image": "/cars/c-class-w205-standard amg line-saloon-2014–2018-new-jupiter red-new generation-c-class w205 std amg-45-angle-front-view.webp"
       }
     ]
   },
@@ -412,7 +418,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your W205 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w205 lci-c43 amg-performance saloon-2018–2021-special-high-tech silver metallic-facelifted amg-c-class w205 lci c43 amg-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -425,7 +432,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your W205 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w205 lci-c63 amg s-performance saloon-2018–2021-special-rubellite red metallic-facelifted flagship amg-c-class w205 lci c63 amg s-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -438,7 +446,8 @@
         "cta": {
           "label": "Compare M274 engine prices for your W205 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w205-c43 amg-performance saloon-2016–2018-special-amg solarbeam yellow-amg body treatment-c-class w205 c43 amg-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -451,7 +460,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your AMG C 63 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w205-c63 amg-performance saloon-2015–2018-special-designo mocha black metallic-wide amg treatment-c-class w205 c63 amg-45-angle-front-view.webp"
       }
     ]
   },
@@ -557,7 +567,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C 220 d",

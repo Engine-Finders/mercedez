@@ -426,37 +426,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM656 2.9‑litre straight‑six diesel (E 400 d, 330–340hp)",
         "quote": "The most powerful diesel six Mercedes has ever built - 340hp and 700Nm from a 2.9‑litre straight‑six. Smooth, effortless, and fundamentally robust, with none of the AdBlue system issues that plague the OM654. The <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a> is a genuine modern classic in the making.",
-        "whoItsFor": "buyers who want diesel refinement and effortless torque without the four‑cylinder's compromises."
+        "whoItsFor": "buyers who want diesel refinement and effortless torque without the four‑cylinder's compromises.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M256 3.0‑litre straight‑six (E 450, 367hp)",
         "quote": "Mercedes' return to the straight‑six - 367hp, 500Nm, and a 48V mild‑hybrid system that adds 22hp and 250Nm of electric boost. Smooth, responsive, and far more refined than the V6 it replaced. Cooling system maintenance is the only real demand.",
-        "whoItsFor": "buyers who want straight‑six refinement and genuine performance."
+        "whoItsFor": "buyers who want straight‑six refinement and genuine performance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M274 2.0‑litre turbo (E 200, 184hp / E 300, 245hp)",
         "quote": "The pre‑facelift four‑cylinder turbo is the most contentious engine in the range - timing chain stretch is a documented issue on higher‑mileage examples, and it lacks the refinement of the later M264 or the sixes. Avoid without documented chain history.",
-        "whoItsFor": "buyers on a tight budget who prioritise running costs over refinement."
+        "whoItsFor": "buyers on a tight budget who prioritise running costs over refinement.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M256.930 (AMG E 53, 435hp)",
         "quote": "The highest‑strung M256 tune - 435hp from a 3.0‑litre straight‑six with 48V mild‑hybrid. Tight engine bay packaging makes even sensor replacement labour‑intensive, and cooling system integrity is critical on hard‑driven cars.",
-        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist."
+        "whoItsFor": "AMG buyers with deep pockets and a trusted specialist.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654 2.0‑litre diesel (E 220 d, 163–194hp)",
         "quote": "The volume diesel in the C238 range - 194hp and 400Nm deliver strong real‑world performance, and the OM654 is a proven modern diesel with AdBlue system maintenance as its only real cost. Lower running costs than the six‑cylinder diesel, with 90% of the torque.",
-        "whoItsFor": "buyers who want diesel economy without the six‑cylinder's purchase premium."
+        "whoItsFor": "buyers who want diesel economy without the six‑cylinder's purchase premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M264 2.0‑litre mild‑hybrid (E 300 EQ Boost, 258hp)",
         "quote": "The facelift replacement for the M274 - 258hp, 48V mild‑hybrid, and none of the M274's timing chain concerns. It sits in a sweet spot between the four and the six, offering genuine performance without the <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M256</a>'s running costs. Often overlooked in favour of the sixes.",
-        "whoItsFor": "buyers who want modern petrol efficiency without the six‑cylinder's fuel consumption."
+        "whoItsFor": "buyers who want modern petrol efficiency without the six‑cylinder's fuel consumption.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -579,7 +585,8 @@
         "cta": {
           "label": "Compare M274 engine prices for your C238 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -592,7 +599,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your C238 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -605,7 +613,8 @@
         "cta": {
           "label": "Compare M256 engine prices for your C238 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -618,7 +627,8 @@
         "cta": {
           "label": "Compare OM656 engine prices for your C238 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -716,7 +726,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 220 d",

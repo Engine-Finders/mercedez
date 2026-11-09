@@ -348,37 +348,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642 3.0‑litre V6 diesel (GLS 350 d, 258hp)",
         "quote": "The proven 3.0‑litre V6 turbo diesel that powered the X166 across its entire production run - 258hp, 620Nm of torque, and a documented reputation for longevity. Oil cooler seals are the main watchpoint, but the engine itself is robust and well‑supported.",
-        "whoItsFor": "buyers who want effortless V6 diesel torque without the M278's petrol‑engine risks."
+        "whoItsFor": "buyers who want effortless V6 diesel torque without the M278's petrol‑engine risks.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M276 3.0‑litre V6 bi‑turbo (GLS 400, 367hp)",
         "quote": "The facelift‑era V6 bi‑turbo delivers 367hp and 500Nm from a 3.0‑litre V6 - smooth, responsive, and without the cylinder scoring risks that plague the M278 V8. It's the sensible petrol choice in the X166 range.",
-        "whoItsFor": "buyers who want V6 petrol refinement without the M278 V8's reliability concerns."
+        "whoItsFor": "buyers who want V6 petrol refinement without the M278 V8's reliability concerns.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M278 4.7‑litre V8 twin‑turbo (GLS 500, 435–455hp)",
         "quote": "The 4.7‑litre V8 is the most contentious engine in the X166 range - cylinder scoring is a well‑documented pattern, particularly in the right cylinder head, caused by heat concentration in a thermally overloaded design. A full engine replacement is a five‑figure bill that can appear at almost any mileage.",
-        "whoItsFor": "buyers who understand the risk and are prepared for a potential £6,000–£10,000 rebuild."
+        "whoItsFor": "buyers who understand the risk and are prepared for a potential £6,000–£10,000 rebuild.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M157 5.5‑litre V8 twin‑turbo (GLS 63 AMG, 557–577hp)",
         "quote": "The hand‑built AMG V8 delivers 577hp in facelift guise - and with it comes AMG‑level running costs. Carbon buildup, oil consumption, valve cover gasket leaks, and cooling system failures are all documented on higher‑mileage examples. A full recon is a five‑figure bill, and parts availability can be a headache.",
-        "whoItsFor": "AMG enthusiasts with deep pockets and a trusted specialist."
+        "whoItsFor": "AMG enthusiasts with deep pockets and a trusted specialist.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M276 3.0‑litre V6 bi‑turbo (GL 400 / GLS 400)",
         "quote": "The V6 bi‑turbo offers genuine performance without the M278's risks or the M157's running costs - 333–367hp, 480–500Nm, and a proven track record across the Mercedes range. It's the sweet spot in the X166 petrol line‑up.",
-        "whoItsFor": "buyers who want V6 performance without the V8's reliability concerns."
+        "whoItsFor": "buyers who want V6 performance without the V8's reliability concerns.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM642 3.0‑litre V6 diesel (GL 350 CDI)",
         "quote": "The pre‑facelift OM642 diesel is often overlooked in favour of the GLS 350 d's 9G‑Tronic car - but the 7G‑Tronic GL 350 CDI offers the same 258hp and 620Nm, often at a lower purchase price, with the same robust diesel V6 underneath.",
-        "whoItsFor": "buyers who want X166 capability on a tighter budget."
+        "whoItsFor": "buyers who want X166 capability on a tighter budget.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -453,7 +459,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your X166 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -466,7 +473,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your X166 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -479,7 +487,8 @@
         "cta": {
           "label": "Compare M157 engine prices for your GLS 63 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -492,7 +501,8 @@
         "cta": {
           "label": "Compare X166 suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

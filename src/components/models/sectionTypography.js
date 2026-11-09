@@ -1,5 +1,5 @@
 /**
- * Model-page typography — re-exports the shared site scale.
+ * Model-page typography - re-exports the shared site scale.
  */
 export {
   typeH1 as sectionH1,

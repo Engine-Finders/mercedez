@@ -529,7 +529,8 @@
         "cta": {
           "label": "Compare M256 engine prices for your X167 GLS →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -557,7 +558,8 @@
         "cta": {
           "label": "Compare M176/M177 engine prices for your X167 GLS →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -585,7 +587,8 @@
         "cta": {
           "label": "Compare OM656 engine prices for your X167 GLS diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -613,7 +616,8 @@
         "cta": {
           "label": "Compare X167 air suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -695,7 +699,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLS 350 d 4MATIC",

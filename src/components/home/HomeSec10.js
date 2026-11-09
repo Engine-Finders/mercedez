@@ -24,6 +24,7 @@ import HomeIcon from "@/components/home/homeIcons";
 import { homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
 
 const RISK = {
@@ -261,7 +262,7 @@ function FeedPanel({ data, isDark }) {
 export default function HomeSec10({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || { src: "/Amg-gt.webp", alt: "" };
 
   return (
     <section className={`relative overflow-hidden ${homeSectionBg(isDark, 10)}`}>
@@ -283,6 +284,11 @@ export default function HomeSec10({ data }) {
           <ModelsPanel data={data.models} isDark={isDark} />
           <CostsPanel data={data.replacementCosts} isDark={isDark} />
         </div>
+
+        <SectionQuoteCta
+          label="Request a Mercedes-Benz Engine Quote"
+          support="Use our indicative replacement prices as a guide and request a quote for your specific Mercedes-Benz engine."
+        />
 
         <div className="mt-4 grid grid-cols-1 gap-4 md:grid-cols-[1.35fr_1fr] md:gap-4">
           <FailuresPanel data={data.failures} isDark={isDark} />

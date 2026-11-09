@@ -557,37 +557,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM656 D 29 (S 400 d, facelift)",
         "quote": "The 3.0‑litre straight‑six diesel - 340 bhp, 700 Nm of torque, and the most refined diesel ever fitted to an S‑Class. The OM656 replaced the OM642 V6 in 2017 and delivers seamless straight‑six smoothness, effortless torque and genuine 40+ mpg economy in a 2‑tonne luxury saloon.",
-        "whoItsFor": "buyers who want effortless diesel torque with straight‑six refinement and class‑leading economy."
+        "whoItsFor": "buyers who want effortless diesel torque with straight‑six refinement and class‑leading economy.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M256 (S 500, facelift)",
         "quote": "The 3.0‑litre straight‑six with 48V mild‑hybrid technology - 367 bhp plus 21 bhp EQ Boost, 500 Nm of torque, and the first straight‑six petrol from Mercedes since the <a  href='https://mercedesengines.uk/engine/m104'>M104</a>. It's smooth, responsive and technologically advanced, with the 48V system making stop‑start virtually undetectable.",
-        "whoItsFor": "buyers who want modern straight‑six refinement with mild‑hybrid efficiency."
+        "whoItsFor": "buyers who want modern straight‑six refinement with mild‑hybrid efficiency.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM651.921 (S 300 BlueTEC Hybrid)",
         "quote": "The 2.2‑litre four‑cylinder diesel hybrid - 204 bhp system output. It's the entry‑point to W222 ownership, but the OM651 is an ageing unit with rear‑mounted timing chain issues, and the hybrid system adds further complexity. Low UK sales mean parts and specialist knowledge are thin on the ground.",
-        "whoItsFor": "buyers on a tight budget who understand the OM651's reputation - but the OM642 or OM656 are better bets."
+        "whoItsFor": "buyers on a tight budget who understand the OM651's reputation - but the OM642 or OM656 are better bets.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M279 E 60 AL (S 65 AMG / S 600)",
         "quote": "The 6.0‑litre V12 biturbo - 530–630 bhp, up to 1,000 Nm of torque. When something fails - and it will be expensive - only V12‑trained specialists should touch it. Parts are rare, labour is intensive, and the S 65's seven‑speed AMG gearbox is a specialist item in itself.",
-        "whoItsFor": "collectors and enthusiasts who understand that V12 ownership comes with six‑figure maintenance budgets."
+        "whoItsFor": "collectors and enthusiasts who understand that V12 ownership comes with six‑figure maintenance budgets.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM642 LS (S 350 BlueTEC)",
         "quote": "The 3.0‑litre V6 diesel - 258 bhp, 620 Nm of torque, and the most common diesel in the pre‑facelift UK W222 parc. The OM642 is a proven unit with well‑documented fixes, and the 7G‑TRONIC gearbox is robust. Oil cooler seals are the only real weakness - a £800–£1,400 job.",
-        "whoItsFor": "buyers who want proven diesel V6 refinement without the facelift <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a>'s higher complexity or purchase price."
+        "whoItsFor": "buyers who want proven diesel V6 refinement without the facelift <a  href='https://mercedesengines.uk/engine/om654-om656'>OM656</a>'s higher complexity or purchase price.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M176 DE 40 (S 560, facelift)",
         "quote": "The 4.0‑litre V8 - 469 bhp, 700 Nm of torque, with cylinder deactivation that shuts off four cylinders under light load. It's more powerful and efficient than the M278 it replaced, and the classic 'S 560' badge carries real heritage. Often overshadowed by the AMG models, but it's the sweet spot of the V8 range.",
-        "whoItsFor": "buyers who want V8 power and presence without the AMG running costs."
+        "whoItsFor": "buyers who want V8 power and presence without the AMG running costs.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -731,7 +737,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -744,7 +751,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -757,7 +765,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -770,7 +779,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -892,7 +902,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any of these families. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines, adjusted for the W222's flagship‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "S 300 BlueTEC Hybrid",

@@ -455,37 +455,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.820 (GLC 220 d 4MATIC, MHEV)",
         "quote": "The 2.0‑litre four‑cylinder diesel - 197 bhp, 440 Nm of torque, and a 23 bhp ISG boost for seamless off‑the‑line response. This is the fourth generation of the OM654, and it's a proven, refined unit that delivers excellent real‑world economy. For UK buyers, this remains the default choice.",
-        "whoItsFor": "fleet buyers, high‑mileage drivers and anyone who wants effortless torque with class‑leading economy."
+        "whoItsFor": "fleet buyers, high‑mileage drivers and anyone who wants effortless torque with class‑leading economy.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M254.920 (GLC 300, MHEV)",
         "quote": "The 2.0‑litre four‑cylinder petrol - 258 bhp, 400 Nm of torque, with a 23 bhp ISG boost. It's smooth, responsive and the sweet spot of the non‑AMG petrol range. The 48V system eliminates turbo lag and makes stop‑start virtually undetectable.",
-        "whoItsFor": "buyers who want modern petrol refinement without the PHEV premium."
+        "whoItsFor": "buyers who want modern petrol refinement without the PHEV premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M139.580 (GLC 63 S E Performance)",
         "quote": "The 2.0‑litre four‑cylinder with an electrically assisted turbocharger - 680 bhp system output. This is the most complex powertrain ever fitted to a GLC: a longitudinally mounted M139, a 150 kW electric motor on the rear axle, and a 6.1 kWh battery. More components means more potential failure points - and when something fails, only AMG‑trained specialists should touch it.",
-        "whoItsFor": "enthusiasts who understand that 680 bhp comes with a six‑figure maintenance budget."
+        "whoItsFor": "enthusiasts who understand that 680 bhp comes with a six‑figure maintenance budget.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M139.580 (GLC 63 S E Performance)",
         "quote": "The 2.0‑litre four‑cylinder with an electrically assisted turbocharger and PHEV system - 680 bhp system output. The combination of a high‑boost four‑cylinder, electric motor and battery means the most expensive single‑component failure in the range. The 6.1 kWh battery alone is a £5,000+ replacement outside warranty.",
-        "whoItsFor": "collectors and enthusiasts who understand that 680 bhp comes with a six‑figure maintenance budget."
+        "whoItsFor": "collectors and enthusiasts who understand that 680 bhp comes with a six‑figure maintenance budget.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.820 (GLC 300 de 4MATIC, PHEV)",
         "quote": "The 2.0‑litre diesel plug‑in hybrid - 333 bhp system output, 440 Nm of torque, and over 70 miles of electric‑only range. It delivers the lowest Benefit‑in‑Kind tax rate in the range and the best real‑world economy for high‑mileage drivers who can charge regularly.",
-        "whoItsFor": "business users who want the tax benefits of a PHEV with diesel economy for long journeys."
+        "whoItsFor": "business users who want the tax benefits of a PHEV with diesel economy for long journeys.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M254.920 (GLC 300 e 4MATIC, PHEV)",
         "quote": "The petrol plug‑in hybrid - 313 bhp system output, and the same 25.4 kWh battery as the GLC 400 e, but with lower running costs. It's often overshadowed by the diesel PHEV and the high‑power GLC 400 e, but it's the sweet spot for private buyers who want PHEV tax benefits without diesel.",
-        "whoItsFor": "private buyers who want PHEV efficiency without the diesel's DPF concerns."
+        "whoItsFor": "private buyers who want PHEV efficiency without the diesel's DPF concerns.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -613,7 +619,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -626,7 +633,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -639,7 +647,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -652,7 +661,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -750,7 +760,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a>, OM654 or M139 family. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the X254's SUV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs - budget an additional £5,000–£10,000 for battery replacement outside warranty."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLC 220 d",

@@ -132,7 +132,7 @@ export default function EraMap({ data }) {
       <SectionHeaderBand
         title={data.title}
         subHeadline="Four generations. Four eras. One guide to reliability, costs and what really matters."
-        image={{ src: "/sec2-bg.webp", alt: "" }}
+        image={{ src: "/Amg-gt.webp", alt: "" }}
         isDark={isDark}
         panelBg={sectionPanelBg(isDark, 2)}
         panelRgb={sectionPanelRgb(isDark, 2)}

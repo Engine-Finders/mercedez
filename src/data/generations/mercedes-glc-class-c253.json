@@ -717,7 +717,8 @@
         "cta": {
           "label": "Compare M274/M264 engine prices for your C253 GLC-Class →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -745,7 +746,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your C253 GLC 43 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -773,7 +775,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your C253 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -801,7 +804,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your C253 GLC 63 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -939,7 +943,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLC 220 d 4MATIC",

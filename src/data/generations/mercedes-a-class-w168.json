@@ -507,7 +507,8 @@
         "cta": {
           "label": "Compare M166 engine prices for your W168 A-Class →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w168-a 210 evolution-hatchback-2002–2004-special-glut red-sport-specific bumpers, wheels and stance-a-class w168 a 210 evolution-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -535,7 +536,8 @@
         "cta": {
           "label": "Compare OM668 engine prices for your W168 A-Class →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w168-a-class facelift-hatchback-2001–2004-new-horizon blue metallic-revised front rear styling-a-class w168 a-class fl-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -563,7 +565,8 @@
         "cta": {
           "label": "Compare W168 engine mount replacement quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w168-a 210 evolution-hatchback-2002–2004-special-glut red-sport-specific bumpers, wheels and stance-a-class w168 a 210 evolution-45-angle-front-view.webp"
       }
     ]
   },
@@ -629,7 +632,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "A160 CDI",

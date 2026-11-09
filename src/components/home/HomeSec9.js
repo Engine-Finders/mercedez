@@ -23,6 +23,7 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
 
 const SEVERITY = {
@@ -212,7 +213,7 @@ function UrgencyKey({ items, isDark }) {
 export default function HomeSec9({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || { src: "/Amg-gt.webp", alt: "" };
 
   return (
     <section className={`relative overflow-hidden ${homeSectionBg(isDark, 9)}`}>
@@ -233,6 +234,11 @@ export default function HomeSec9({ data }) {
         </div>
 
         <UrgencyKey items={data.urgencyKey} isDark={isDark} />
+
+        <SectionQuoteCta
+          label="Diagnose Mercedes-Benz Engine Problems"
+          support="Explore possible causes of common Mercedes-Benz engine faults and understand your repair options."
+        />
       </div>
     </section>
   );

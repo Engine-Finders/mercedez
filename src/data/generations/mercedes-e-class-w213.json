@@ -455,37 +455,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (E 220 d)",
         "quote": "Mercedes' own 2.0‑litre four‑cylinder diesel, introduced in 2016, is the pick of the W213 diesel range - efficient, refined, and backed by a strong reliability record when serviced properly. It's 17% lighter than the OM651 it replaced.",
-        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage executive motoring."
+        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage executive motoring.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M256.930 (E 450 4MATIC)",
         "quote": "Mercedes' 3.0‑litre inline‑six petrol, with 367 bhp and EQ Boost mild‑hybrid assistance, delivers effortless power and silky refinement. It's the defining engine of the W213 generation.",
-        "whoItsFor": "buyers who want the full executive saloon experience."
+        "whoItsFor": "buyers who want the full executive saloon experience.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM642.855 (E 350 d, pre‑2018)",
         "quote": "The V6 diesel is generally reliable but its oil cooler seals can fail, leaking oil into the V of the engine - a labour‑intensive repair. The <a  href='https://mercedesengines.uk/engine/om642'>OM642</a> was phased out in favour of the OM656 inline-six for good reason.",
-        "whoItsFor": "buyers who want V6 diesel refinement but can afford the premium maintenance."
+        "whoItsFor": "buyers who want V6 diesel refinement but can afford the premium maintenance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M256.930 (E 450 / AMG E 53) - EQ Boost system and turbo",
         "quote": "The 48V mild‑hybrid system and turbocharger on the M256 can be costly to repair if issues arise. The AMG E 53's higher output adds further complexity.",
-        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs."
+        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (E 220 d)",
         "quote": "The mid‑range diesel offers the best balance of performance (194 bhp), economy (up to 60 mpg), and reliability. It's the sweet spot in the W213 range.",
-        "whoItsFor": "fleet buyers and high‑mileage drivers."
+        "whoItsFor": "fleet buyers and high‑mileage drivers.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M264.920 EQ Boost (E 350)",
         "quote": "The 2.0‑litre four‑cylinder petrol with 48V mild hybrid delivers 299 bhp + 14 hp boost and genuine performance (0‑62 mph in 5.9 seconds). It's often overlooked in favour of the six‑cylinder but offers a compelling blend of performance and efficiency.",
-        "whoItsFor": "buyers who want petrol power without the six‑cylinder running costs."
+        "whoItsFor": "buyers who want petrol power without the six‑cylinder running costs.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -605,7 +611,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your W213 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -618,7 +625,8 @@
         "cta": {
           "label": "Compare M256 engine prices for your W213 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -631,7 +639,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W213 V6 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -644,7 +653,8 @@
         "cta": {
           "label": "Compare OM656 engine prices for your W213 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -742,7 +752,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the W213 shares its MRA platform with the CLS (C257) and S‑Class (W222), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 200 d",

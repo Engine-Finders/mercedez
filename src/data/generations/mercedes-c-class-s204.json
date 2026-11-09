@@ -455,37 +455,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM651.911 (C220 CDI/C250 CDI)",
         "quote": "Mercedes' own 2.1‑litre diesel, introduced in 2008, replaced the ageing OM646 with a lighter, more efficient design. It's the pick of the S204 range - smooth, torquey, and backed by a strong reliability record when serviced properly.",
-        "whoItsFor": "buyers who want a modern, efficient diesel without the older engine's compromises."
+        "whoItsFor": "buyers who want a modern, efficient diesel without the older engine's compromises.",
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M276.957 (C350, facelift)",
         "quote": "Mercedes' 3.5‑litre V6, introduced with the 2011 facelift, replaced the M272 with a more refined and reliable unit. It delivers 306 bhp with a silky character and strong torque.",
-        "whoItsFor": "buyers who want genuine V6 performance from a family estate."
+        "whoItsFor": "buyers who want genuine V6 performance from a family estate.",
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M271.950/820/860 (C180/C200/C250 CGI)",
         "quote": "The M271 four‑cylinder petrol is known for timing chain stretch and tensioner failure - a problem that can lead to catastrophic engine damage if ignored. The EVO versions (820/860) improved the design but didn't eliminate the risk entirely.",
-        "whoItsFor": "buyers on a budget who prioritise low running costs over long‑term reliability."
+        "whoItsFor": "buyers on a budget who prioritise low running costs over long‑term reliability.",
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM642.834 (C350 CDI) - oil cooler seal leak",
         "quote": "The V6 diesel's oil cooler seals are prone to failure, leaking oil into the V of the engine. Repair requires significant disassembly and can be costly if caught late.",
-        "whoItsFor": "buyers who want the power of a V6 diesel but can afford the premium maintenance."
+        "whoItsFor": "buyers who want the power of a V6 diesel but can afford the premium maintenance.",
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM651.911 (C220 CDI)",
         "quote": "The mid‑range diesel offers the best balance of performance (170 bhp), economy (up to 60 mpg), and reliability. It's the sweet spot in the S204 range.",
-        "whoItsFor": "fleet buyers and high‑mileage drivers."
+        "whoItsFor": "fleet buyers and high‑mileage drivers.",
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M272.947 (C300)",
         "quote": "The 3.0‑litre V6 petrol offers 231 bhp with a smooth, characterful delivery. It's often overlooked in favour of the diesels but offers a genuinely rewarding driving experience with fewer of the M271's timing chain concerns.",
-        "whoItsFor": "enthusiasts who want a six‑cylinder estate without the running costs of the C350."
+        "whoItsFor": "enthusiasts who want a six‑cylinder estate without the running costs of the C350.",
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -589,7 +595,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your S204 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -602,7 +609,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your S204 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -615,7 +623,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your S204 V6 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -628,7 +637,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your S204 V6 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s204-estate-estate-2007–2014-new-citrine brown metallic-separate estate body-c-class s204 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -702,7 +712,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the S204 shares its engine bay with the W204 saloon, so labour times and costs are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C180 CDI",

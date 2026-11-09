@@ -100,7 +100,7 @@ def main() -> int:
 
     elapsed = time.perf_counter() - t0
     print(
-        f"\nDone in {elapsed:.1f}s — ok={ok} skipped={skipped} failed={failed}"
+        f"\nDone in {elapsed:.1f}s - ok={ok} skipped={skipped} failed={failed}"
     )
     return 1 if failed else 0
 

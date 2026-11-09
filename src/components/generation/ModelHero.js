@@ -2,9 +2,11 @@
 
 import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
-import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
+import { GOLD, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import HeroRegLookup from "@/components/shared/HeroRegLookup";
+import { generationCtaCopy } from "@/lib/ctaLabels";
+import { variantModelImage } from "@/components/variant/variantTheme";
 
 const TRUST_ICON_FALLBACKS = ["chart", "wrench", "book", "engine-finders"];
 
@@ -17,10 +19,35 @@ const EMOJI_ICON_MAP = {
   "🛠️": "wrench",
 };
 
+/** Desktop diagonal: image starts ~52% at top, ~38% at bottom */
+const IMAGE_CLIP = "polygon(52% 0%, 100% 0%, 100% 100%, 38% 100%)";
+const LEFT_CLIP = "polygon(0 0, 52.15% 0, 38.15% 100%, 0 100%)";
+
 function resolveIcon(icon, index = 0) {
   if (!icon) return TRUST_ICON_FALLBACKS[index] || "chart";
   if (EMOJI_ICON_MAP[icon]) return EMOJI_ICON_MAP[icon];
   return icon;
+}
+
+function HeroTitle({ title, isDark }) {
+  const guideIndex = String(title || "").indexOf("UK Guide");
+  const textClass = isDark ? "text-white" : "text-[var(--color-text)]";
+
+  if (guideIndex === -1) {
+    return (
+      <h1
+        className={`font-lora max-w-[760px] text-[2rem] font-medium leading-[1.08] md:text-[2.85rem] md:leading-[1.05] ${textClass}`}
+        dangerouslySetInnerHTML={{ __html: title }}
+      />
+    );
+  }
+
+  return (
+    <h1 className={`font-lora max-w-[760px] text-[2rem] font-medium leading-[1.08] md:text-[2.85rem] md:leading-[1.05] ${textClass}`}>
+      <span dangerouslySetInnerHTML={{ __html: title.slice(0, guideIndex) }} />
+      <span style={{ color: GOLD }} dangerouslySetInnerHTML={{ __html: title.slice(guideIndex) }} />
+    </h1>
+  );
 }
 
 function TagPill({ tagPill, isDark }) {
@@ -35,7 +62,7 @@ function TagPill({ tagPill, isDark }) {
         isDark ? "border-white/20 bg-white/5 text-white/85" : "border-[#E5E5E5] bg-white/80 text-[var(--color-text-muted)]"
       }`}
     >
-      <HomeIcon name="car" isDark={isDark} gold className="h-4 w-4 shrink-0 object-contain" />
+      <HomeIcon name="car" isDark={isDark} className="h-4 w-4 shrink-0 object-contain" />
       {parts.map((part, index) => (
         <span key={`${part}-${index}`} className="inline-flex shrink-0 items-center gap-2">
           {index > 0 ? (
@@ -43,7 +70,10 @@ function TagPill({ tagPill, isDark }) {
               •
             </span>
           ) : null}
-          <span className={index === 0 ? (isDark ? "font-medium text-white" : "font-medium text-[var(--color-text)]") : ""} dangerouslySetInnerHTML={{ __html: part }} />
+          <span
+            className={index === 0 ? (isDark ? "font-medium text-white" : "font-medium text-[var(--color-text)]") : ""}
+            dangerouslySetInnerHTML={{ __html: part }}
+          />
         </span>
       ))}
     </div>
@@ -63,7 +93,7 @@ function TrustStat({ item, index, isDark }) {
       }`}
     >
       <span className="flex h-12 w-12 shrink-0 items-center justify-center md:h-14 md:w-14">
-        <HomeIcon name={iconKey} isDark={isDark} gold className="h-11 w-11 object-contain md:h-14 md:w-14" />
+        <HomeIcon name={iconKey} isDark={isDark} className="h-11 w-11 object-contain md:h-14 md:w-14" />
       </span>
       <span className="min-w-0">
         <strong className={`block text-[0.62rem] font-semibold leading-tight sm:text-[0.82rem] md:text-[0.9rem] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
@@ -79,94 +109,133 @@ function TrustStat({ item, index, isDark }) {
   );
 }
 
-export default function ModelHero({ data }) {
+export default function ModelHero({ data, parent = "", slug = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || data.image || { src: "/model/Hero-bg-image.webp", alt: "" };
-  const imageSrc = headerImage.src || headerImage.light || headerImage.dark || "/model/Hero-bg-image.webp";
-  const ctaLabel = data.primaryCta?.label || "Get Instant Quote →";
+  const heroSrc = variantModelImage(parent, data.tagPill);
+  const ctaLabel = generationCtaCopy(parent, slug).hero;
   const trustStrip = data.trustStrip || [];
+  const panelBg = isDark ? "#070706" : "#EFEEE9";
 
   return (
-    <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 1)}`}>
-      {/* Desktop background image only */}
-      <div className="absolute inset-0 hidden md:block">
-        <Image src={imageSrc} alt={headerImage.alt || ""} fill className="object-cover object-center" sizes="100vw" priority />
-        <div
-          className={
-            isDark
-              ? "absolute inset-0 bg-[linear-gradient(105deg,rgba(2,7,11,0.98)_0%,rgba(2,7,11,0.95)_42%,rgba(2,7,11,0.72)_58%,rgba(2,7,11,0.28)_78%,rgba(2,7,11,0.08)_100%)]"
-              : "absolute inset-0 bg-[linear-gradient(105deg,#EFEEE9_0%,rgba(239,238,233,0.98)_42%,rgba(239,238,233,0.88)_56%,rgba(239,238,233,0.4)_74%,rgba(239,238,233,0.06)_100%)]"
-          }
-        />
-        <div
-          className={
-            isDark
-              ? "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)] md:h-20"
-              : "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)] md:h-20"
-          }
+    <section
+      className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden text-[var(--color-text)] md:min-h-[620px] ${
+        isDark ? "bg-[#070706]" : "bg-[#EFEEE9]"
+      }`}
+    >
+      <div
+        className="pointer-events-none absolute inset-0 z-[1] hidden md:block"
+        style={{ backgroundColor: panelBg, clipPath: LEFT_CLIP }}
+        aria-hidden="true"
+      />
+
+      <div className="absolute inset-0 z-0 hidden md:block" style={{ clipPath: IMAGE_CLIP }} aria-hidden="true">
+        <Image
+          src={heroSrc}
+          alt=""
+          fill
+          className="object-cover object-[70%_center]"
+          sizes="100vw"
+          priority
+          unoptimized
         />
       </div>
 
-      <div className="relative mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6 md:px-6 md:pb-6 md:pt-8 lg:px-8">
+      <svg
+        className="pointer-events-none absolute inset-0 z-[2] hidden h-full w-full md:block"
+        viewBox="0 0 100 100"
+        preserveAspectRatio="none"
+        aria-hidden="true"
+      >
+        <line
+          x1="52.1"
+          y1="0"
+          x2="38.1"
+          y2="100"
+          stroke={GOLD}
+          strokeWidth="2.5"
+          strokeLinecap="round"
+          vectorEffect="non-scaling-stroke"
+        />
+      </svg>
+
+      <div className="relative z-10 mx-auto flex w-full max-w-8xl flex-col px-4 pb-5 pt-6 md:min-h-[620px] md:px-6 md:pb-7 md:pt-10 lg:px-8">
         <TagPill tagPill={data.tagPill} isDark={isDark} />
 
-        <div className="mt-4 max-w-[640px] md:mt-5">
-          {/* H1 with strip above and below */}
+        <div className="mt-5 max-w-[560px] md:mt-6 md:max-w-[520px] lg:max-w-[560px]">
           <div className="flex flex-col gap-3 md:gap-3.5">
-            <SectionFadeStrip isDark={isDark} />
-            <h1
-              className={`font-lora max-w-[760px] text-[2rem] font-medium leading-[1.08] md:text-[2.85rem] md:leading-[1.05] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
-              dangerouslySetInnerHTML={{ __html: data.h1 }}
-            />
+            <HeroTitle title={data.h1 || "Engines - The Complete UK Guide"} isDark={isDark} />
             <SectionFadeStrip isDark={isDark} />
           </div>
 
           <p
-            className={`mt-3 max-w-[600px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
+            className={`mt-3 max-w-[520px] text-[0.88rem] leading-[1.45] md:text-[1.02rem] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
             dangerouslySetInnerHTML={{ __html: data.subHeadline }}
           />
-
-          <HeroRegLookup ctaLabel={ctaLabel} className="mt-3 hidden md:mt-4 md:flex" />
         </div>
 
-        {/* Mobile: image with top/bottom fade, then CTA below */}
+        <div className="relative z-20 mt-4 hidden w-full md:mt-5 md:block md:max-w-[980px]">
+          <HeroRegLookup
+            ctaLabel={ctaLabel}
+            className="!max-w-none w-full sm:justify-start sm:gap-3"
+            plateClassName="w-full sm:w-[340px] sm:max-w-[340px] sm:shrink-0 sm:flex-none"
+            buttonClassName="!bg-[#0a0a0a] hover:!bg-[#1a1a1a]"
+          />
+        </div>
+
         <div className="relative left-1/2 mt-5 aspect-[16/10] w-screen -translate-x-1/2 overflow-hidden md:hidden">
-          <Image src={imageSrc} alt={headerImage.alt || ""} fill className="object-cover object-center" sizes="100vw" priority />
+          <Image
+            src={heroSrc}
+            alt=""
+            fill
+            className="object-cover object-center"
+            sizes="100vw"
+            priority
+            unoptimized
+          />
           <div
             className={
               isDark
-                ? "absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,var(--color-page)_0%,transparent_100%)]"
-                : "absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,#EFEEE9_0%,transparent_100%)]"
+                ? "pointer-events-none absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,rgba(7,7,6,0.9)_0%,transparent_100%)]"
+                : "pointer-events-none absolute inset-x-0 top-0 h-16 bg-[linear-gradient(180deg,rgba(239,238,233,0.92)_0%,transparent_100%)]"
             }
             aria-hidden="true"
           />
           <div
             className={
               isDark
-                ? "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,var(--color-page)_0%,transparent_100%)]"
-                : "absolute inset-x-0 bottom-0 h-16 bg-[linear-gradient(0deg,#EFEEE9_0%,transparent_100%)]"
+                ? "pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,rgba(7,7,6,0.92)_0%,transparent_100%)]"
+                : "pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-[linear-gradient(0deg,rgba(239,238,233,0.95)_0%,transparent_100%)]"
             }
             aria-hidden="true"
           />
         </div>
 
-        <HeroRegLookup ctaLabel={ctaLabel} className="mt-4 md:hidden" />
+        <div className="relative z-20 mt-4 w-full md:hidden">
+          <HeroRegLookup
+            ctaLabel={ctaLabel}
+            className="!max-w-none w-full"
+            plateClassName="w-full"
+            buttonClassName="!bg-[#0a0a0a] hover:!bg-[#1a1a1a]"
+          />
+        </div>
 
         {trustStrip.length ? (
-          <ul
-            className={`mt-3 grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] backdrop-blur-xl md:mt-4 md:max-w-[880px] md:rounded-2xl ${
-              isDark
-                ? "border-[rgba(171,132,80,0.35)] bg-[rgba(10,10,10,0.55)]"
-                : "border-[var(--color-border)] bg-[rgba(255,255,255,0.85)]"
-            }`}
-          >
-            {trustStrip.map((item, index) => (
-              <TrustStat key={item.label} item={item} index={index} isDark={isDark} />
-            ))}
-          </ul>
+          <div className="mt-5 w-full md:mt-auto md:max-w-[980px] md:pt-1.5">
+            <ul
+              className={`grid w-full grid-cols-4 overflow-hidden rounded-xl border shadow-[0_14px_32px_rgba(10,26,43,0.08)] md:rounded-2xl ${
+                isDark
+                  ? "border-[rgba(171,132,80,0.4)] bg-[rgba(10,10,10,0.92)]"
+                  : "border-[var(--color-border)] bg-white"
+              }`}
+            >
+              {trustStrip.map((item, index) => (
+                <TrustStat key={item.label} item={item} index={index} isDark={isDark} />
+              ))}
+            </ul>
+          </div>
         ) : null}
       </div>
     </section>

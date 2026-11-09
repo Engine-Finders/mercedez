@@ -599,37 +599,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM646.963 (CLK 220 CDI, 2005–2009)",
         "quote": "The 2.1-litre OM646 is the most refined and reliable diesel in the A209 range. It replaced the less-reliable OM612 five-cylinder and offers 148bhp with a genuine 200,000-mile-plus lifespan when properly maintained . Injector seal 'Black Death' is the only real concern - and it's easily preventable.",
-        "whoItsFor": "buyers who want diesel economy without the OM612's five-cylinder quirks."
+        "whoItsFor": "buyers who want diesel economy without the OM612's five-cylinder quirks.",
+        "image": "/cars/clk-a209-cabriolet-convertible-2003–2005-new-black-separate body-clk a209 cab-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112.953 (CLK 320, 3.2-litre V6)",
         "quote": "The 3.2-litre M112 V6 is arguably the most bulletproof engine ever fitted to a CLK. 218bhp of smooth, naturally aspirated power, no balance-shaft issues, no timing-chain worries - just a robust, proven V6 that keeps going. The 2.6-litre M112.912 in the CLK 240 is equally solid .",
-        "whoItsFor": "buyers who want V6 smoothness without the M272's balance-shaft risk."
+        "whoItsFor": "buyers who want V6 smoothness without the M272's balance-shaft risk.",
+        "image": "/cars/clk-a209-clk63 amg cabriolet-performance convertible-2006–2009-special-spectral blue metallic-amg body-clk a209 clk63 amg cab-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M271.940/M271.955 (CLK 200 Kompressor)",
         "quote": "The 1.8-litre supercharged M271 is the A209's entry-level petrol - but it comes with known issues: timing chain stretch, camshaft adjuster wear, and supercharger clutch failure . Repair costs can quickly exceed the value of a budget CLK. If you buy one, ensure the chain and tensioner have been replaced.",
-        "whoItsFor": "budget-conscious buyers willing to accept higher maintenance costs."
+        "whoItsFor": "budget-conscious buyers willing to accept higher maintenance costs.",
+        "image": "/cars/clk-a209-facelift cabriolet-convertible-2005–2009-new-cavansite blue metallic-facelift-clk a209 fl cab-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156.982 (CLK 63 AMG)",
         "quote": "The 6.2-litre M156 V8 is a masterpiece - 474bhp of naturally aspirated AMG thunder. But when it fails, it fails expensively. Camshaft adjusters, lifters, and the sheer cost of AMG-specific parts mean replacement bills frequently hit five figures. The Black Series M156.983 is even more costly.",
-        "whoItsFor": "collectors and enthusiasts with deep pockets."
+        "whoItsFor": "collectors and enthusiasts with deep pockets.",
+        "image": "/cars/clk-a209-cabriolet-convertible-2003–2005-new-black-separate body-clk a209 cab-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M112.912 (CLK 240, 2.6-litre V6)",
         "quote": "Often overlooked in favour of the more powerful CLK 320, the 2.6-litre <a  href='https://mercedesengines.uk/engine/m112'>M112</a> offers 170bhp, the same bulletproof reliability, and significantly better fuel economy. It's cheaper to buy, cheaper to insure, and cheaper to run - the sweet spot in the A209 petrol range.",
-        "whoItsFor": "buyers who want V6 refinement without the running costs of a larger engine."
+        "whoItsFor": "buyers who want V6 refinement without the running costs of a larger engine.",
+        "image": "/cars/clk-a209-clk63 amg cabriolet-performance convertible-2006–2009-special-spectral blue metallic-amg body-clk a209 clk63 amg cab-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM642.920 (CLK 320 CDI, 3.0-litre V6 diesel)",
         "quote": "The 3.0-litre OM642 V6 diesel is rare in the A209 but offers 224bhp and 510Nm of torque - more than the CLK 500 V8 in pulling power . It's a refined, powerful diesel that transforms the CLK into a genuine grand tourer. The OM642 is well-regarded for reliability, though early units can have oil cooler seal issues.",
-        "whoItsFor": "buyers who want diesel torque without the four-cylinder's limitations."
+        "whoItsFor": "buyers who want diesel torque without the four-cylinder's limitations.",
+        "image": "/cars/clk-a209-facelift cabriolet-convertible-2005–2009-new-cavansite blue metallic-facelift-clk a209 fl cab-45-angle-front-view.webp"
       }
     ]
   },
@@ -751,7 +757,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your CLK 200 Kompressor →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a209-cabriolet-convertible-2003–2005-new-black-separate body-clk a209 cab-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -779,7 +786,8 @@
         "cta": {
           "label": "Compare M272/M273 engine prices for your CLK 280/350/550 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a209-clk63 amg cabriolet-performance convertible-2006–2009-special-spectral blue metallic-amg body-clk a209 clk63 amg cab-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -807,7 +815,8 @@
         "cta": {
           "label": "Compare M272/M273 intake manifold repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a209-facelift cabriolet-convertible-2005–2009-new-cavansite blue metallic-facelift-clk a209 fl cab-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -835,7 +844,8 @@
         "cta": {
           "label": "Compare OM612 engine prices for your CLK 270 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a209-cabriolet-convertible-2003–2005-new-black-separate body-clk a209 cab-45-angle-front-view.webp"
       },
       {
         "id": 5,
@@ -863,7 +873,8 @@
         "cta": {
           "label": "Compare A209 roof hydraulic repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a209-clk63 amg cabriolet-performance convertible-2006–2009-special-spectral blue metallic-amg body-clk a209 clk63 amg cab-45-angle-front-view.webp"
       }
     ]
   },
@@ -985,7 +996,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - A209 cabriolet shares its W203-derived engine bay with the C209 coupé, so costs are inherited directly per the Authority Model, with no divergence note required. M156 AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
- "coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLK 220 CDI",

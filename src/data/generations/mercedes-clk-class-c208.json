@@ -455,37 +455,43 @@
         "slot": "Best Diesel Overall",
         "engine": "Omitted",
         "quote": "no diesel engine fitted to the C208.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112.940 (CLK 320, 3.2L V6)",
         "quote": "The 3.2-litre V6 offers the perfect balance of refinement and reliability - smooth power delivery, no supercharger complexity, and a documented reputation for exceeding 150,000 miles with routine maintenance. Camshaft adjuster wear is its only real demand.",
-        "whoItsFor": "buyers who want V6 smoothness without V8 running costs."
+        "whoItsFor": "buyers who want V6 smoothness without V8 running costs.",
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M111.944 (pre-2000 CLK 200 Kompressor, 189 bhp)",
         "quote": "The supercharged 2.0-litre four-cylinder is a clever piece of engineering, but the supercharger clutch and timing chain tensioner are known weak points - and the 2000 refresh detuned it for a reason.",
-        "whoItsFor": "only buyers with documented supercharger service history."
+        "whoItsFor": "only buyers with documented supercharger service history.",
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M113.984 (CLK 55 AMG)",
         "quote": "The 5.4-litre V8 delivers 342 bhp and a soundtrack to match, but it's an ageing AMG - valve cover oil leaks, timing chain wear, and the sheer cost of V8 parts make it the most expensive engine in the range to maintain.",
-        "whoItsFor": "AMG collectors with deep pockets and full service history."
+        "whoItsFor": "AMG collectors with deep pockets and full service history.",
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M112.940 (CLK 320)",
         "quote": "The V6 offers genuine performance (7.4s to 60mph) with significantly lower running costs than the V8 - and sits in the same used price bracket as the four-cylinder cars. It's the sweet spot of the range.",
-        "whoItsFor": "buyers who want the best all-round CLK experience."
+        "whoItsFor": "buyers who want the best all-round CLK experience.",
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M112.912 (CLK 240, 2.6L V6)",
         "quote": "Often overshadowed by the 320, the 2.6-litre V6 offers the same smooth six-cylinder character with slightly better fuel economy - and lower purchase prices because buyers overlook it.",
-        "whoItsFor": "buyers who want V6 refinement on a budget."
+        "whoItsFor": "buyers who want V6 refinement on a budget.",
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208-45-angle-front-view.webp"
       }
     ]
   },
@@ -604,7 +610,8 @@
         "cta": {
           "label": "Compare M111 engine prices for your C208 CLK 200 Kompressor →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208 (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -632,7 +639,8 @@
         "cta": {
           "label": "Compare M112 engine prices for your C208 CLK 320 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -660,7 +668,8 @@
         "cta": {
           "label": "Compare M113 engine prices for your C208 CLK 430 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208 (2)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -688,7 +697,8 @@
         "cta": {
           "label": "Compare C208 transmission prices →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c208-coupé-coupé-1997–2002-new-moonlight silver metallic-first clk generation-clk c208-45-angle-front-view.webp"
       }
     ]
   },
@@ -778,7 +788,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the C208 coupé shares its W202 platform with the C-Class of the era, and engine-bay access is consistent across the range."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

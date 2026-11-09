@@ -524,7 +524,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your CLC →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -537,7 +538,8 @@
         "cta": {
           "label": "Compare OM646 engine prices for your CLC →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -550,7 +552,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your CLC →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc (2)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -563,7 +566,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your CLC →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clc-class-cl203-clc-coupé-2008–2010-new-brilliant silver metallic-final facelift body revision of sportcoupé-clc-class cl203 clc-45-angle-front-view.webp"
       }
     ]
   },
@@ -637,7 +641,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the CL203/CLC shares its engine bay layout with the W203 C-Class, so costs are consistent."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLC 200 CDI",

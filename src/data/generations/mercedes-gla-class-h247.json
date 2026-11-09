@@ -521,37 +521,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (GLA 220 d, 190 bhp)",
         "quote": "The 2.0-litre four-cylinder diesel offers genuine performance (7.3s to 60mph) with excellent fuel economy and the reliability of Mercedes' modern common-rail system - AdBlue system maintenance is its only real demand.",
-        "whoItsFor": "buyers who want diesel torque and economy without the older OM651's issues."
+        "whoItsFor": "buyers who want diesel torque and economy without the older OM651's issues.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M260.920 (GLA 250, 224 bhp)",
         "quote": "The 2.0-litre turbo four is the sweet spot of the petrol range - punchy, responsive, and without the M139's high-strung complexity. It's the engine that makes the GLA feel genuinely quick.",
-        "whoItsFor": "buyers who want performance without the AMG premium."
+        "whoItsFor": "buyers who want performance without the AMG premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M282.914 (GLA 180/200, 1.3L)",
         "quote": "The Renault-sourced 1.3-litre turbo is a clever engine, but its small displacement means it works hard in a 1.5-tonne SUV - turbocharger and timing chain wear are emerging as concerns on higher-mileage examples.",
-        "whoItsFor": "buyers who prioritise running costs and accept the smaller engine's limitations."
+        "whoItsFor": "buyers who prioritise running costs and accept the smaller engine's limitations.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M139.980 (AMG GLA 45 S, 421 bhp)",
         "quote": "The hand-built 2.0-litre turbo delivers 421 bhp - the most powerful four-cylinder in production - but high-strung engines come with high-strung costs. Turbo and cooling system failures are expensive, and specialist labour is essential.",
-        "whoItsFor": "AMG enthusiasts with the budget to maintain the most powerful four-cylinder ever made."
+        "whoItsFor": "AMG enthusiasts with the budget to maintain the most powerful four-cylinder ever made.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (GLA 200 d, 150 bhp)",
         "quote": "The entry-level diesel offers genuine economy (50+ mpg) with the same core engine as the more powerful 220 d - and significantly lower purchase prices. It's the sensible choice for high-mileage drivers.",
-        "whoItsFor": "buyers who want diesel economy without the V6 or AMG premium."
+        "whoItsFor": "buyers who want diesel economy without the V6 or AMG premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M260.920 (AMG GLA 35, 306 bhp)",
         "quote": "Often overshadowed by the 45 S, the GLA 35 offers genuine AMG performance (306 bhp) with significantly lower running costs than its big brother - and the 48V mild-hybrid system adds a useful 13 bhp boost.",
-        "whoItsFor": "buyers who want AMG credentials without the 45 S's running costs."
+        "whoItsFor": "buyers who want AMG credentials without the 45 S's running costs.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -670,7 +676,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your H247 GLA 200 d →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -698,7 +705,8 @@
         "cta": {
           "label": "Compare M282 engine prices for your H247 GLA 200 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -726,7 +734,8 @@
         "cta": {
           "label": "Compare M139 engine prices for your H247 AMG GLA 45 S →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -754,7 +763,8 @@
         "cta": {
           "label": "Compare H247 engine prices with 48V system inspection →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -868,7 +878,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the H247 shares its MFA2 platform with the A-Class and GLB, and engine-bay access is consistent across the range."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLA 180 d",
