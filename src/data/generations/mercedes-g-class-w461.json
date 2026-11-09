@@ -514,7 +514,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W461 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -527,7 +528,8 @@
         "cta": {
           "label": "Compare W461 axle repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -540,7 +542,8 @@
         "cta": {
           "label": "Compare W461 suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

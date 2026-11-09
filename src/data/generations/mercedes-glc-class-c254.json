@@ -431,37 +431,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.820 (GLC 220d 4MATIC / GLC 300d 4MATIC)",
         "quote": "The 2.0-litre OM654 is a proven, robust diesel with a strong reputation for reliability since its introduction in 2016. The 48V mild-hybrid system adds refinement, and the GLC 300d's 269 hp makes it genuinely quick while maintaining excellent economy. It's the C254's most dependable engine.",
-        "whoItsFor": "buyers who want diesel economy and torque without compromising on refinement."
+        "whoItsFor": "buyers who want diesel economy and torque without compromising on refinement.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M254.920 (GLC 300 4MATIC)",
         "quote": "The 2.0-litre M254 offers 258 hp with 48V mild-hybrid assistance - it's smooth, refined, and more than enough for UK roads. The M254 is a newer engine but has proven itself in the W206 C-Class. The 23 hp ISG boost provides seamless acceleration.",
-        "whoItsFor": "buyers who want a modern, efficient petrol without the PHEV's complexity."
+        "whoItsFor": "buyers who want a modern, efficient petrol without the PHEV's complexity.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M254-based PHEVs (GLC 300e, GLC 400e)",
         "quote": "The M254 four-cylinder petrol is a newer engine, and the complex 25.4 kWh plug-in hybrid system adds significant complexity. The combination of combustion engine, electric motor, and hybrid battery creates more potential failure points than a conventional powertrain. Owner reports indicate electrical issues, software glitches, and self-discharging batteries.",
-        "whoItsFor": "buyers who prioritise low company-car tax and electric commuting over long-term simplicity."
+        "whoItsFor": "buyers who prioritise low company-car tax and electric commuting over long-term simplicity.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M139-based AMG GLC 63 S E‑PERFORMANCE",
         "quote": "The AMG GLC 63 S E‑PERFORMANCE's powertrain is the most complex ever fitted to a GLC - a 2.0-litre M139 engine with an electric exhaust gas turbocharger, a 400-volt high-performance battery with direct cell cooling, and an Electric Drive Unit on the rear axle, producing 680 hp combined. When something goes wrong, it goes wrong expensively. The electric turbocharger, the hybrid system, and the sheer labour intensity of working on this engine mean replacement costs will be eye-watering.",
-        "whoItsFor": "buyers with deep pockets who want the most powerful GLC ever."
+        "whoItsFor": "buyers with deep pockets who want the most powerful GLC ever.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.820 (GLC 220d 4MATIC)",
         "quote": "The GLC 220d is the volume diesel for good reason - 197 hp, 440 Nm of torque, genuine 50+ mpg economy, and the same robust OM654 as the more powerful GLC 300d. It's cheaper to buy, cheaper to run, and cheaper to replace than the petrol alternatives. The sweet spot in the C254 range for most UK buyers.",
-        "whoItsFor": "buyers who want the best combination of economy, performance, and reliability in the C254 range."
+        "whoItsFor": "buyers who want the best combination of economy, performance, and reliability in the C254 range.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM654.820 (GLC 300de 4MATIC PHEV diesel)",
         "quote": "The GLC 300de is the most overlooked engine in the C254 range - a 2.0-litre OM654 diesel combined with a 129 hp electric motor and 25.4 kWh battery, delivering 313 hp combined and over 74 miles of electric range. It's the ultimate company car choice - low BIK tax with diesel economy for long journeys.",
-        "whoItsFor": "company car drivers who need the lowest possible tax bills with genuine long-distance capability."
+        "whoItsFor": "company car drivers who need the lowest possible tax bills with genuine long-distance capability.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -559,7 +565,8 @@
         "cta": {
           "label": "Compare C254 electrical diagnostics →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -587,7 +594,8 @@
         "cta": {
           "label": "Compare C254 48V battery replacement quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -615,7 +623,8 @@
         "cta": {
           "label": "Compare C254 PHEV battery health checks →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -643,7 +652,8 @@
         "cta": {
           "label": "Compare AMG GLC 43 engine prices →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

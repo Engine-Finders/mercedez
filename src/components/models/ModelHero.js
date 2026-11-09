@@ -5,6 +5,7 @@ import HomeIcon from "@/components/home/homeIcons";
 import { GOLD } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import HeroRegLookup from "@/components/shared/HeroRegLookup";
+import { modelCtaCopy } from "@/lib/ctaLabels";
 import { sectionBadge, sectionDescription, sectionH1, sectionSmall } from "@/components/models/sectionTypography";
 
 const TRUST_ICON_FALLBACKS = ["chart", "wrench", "book", "engine-finders"];
@@ -144,13 +145,13 @@ function TrustStat({ item, index, isDark }) {
   );
 }
 
-export default function ModelHero({ data }) {
+export default function ModelHero({ data, modelSlug = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
   const headerImage = data.headerImage || { src: "/model/Hero-bg-image.webp", alt: "" };
-  const ctaLabel = data.primaryCta?.label || "Get Instant Quote →";
+  const ctaLabel = modelCtaCopy(modelSlug).hero;
   const trustStrip = data.trustStrip || [];
   const panelBg = isDark ? "#070706" : "#EFEEE9";
 
@@ -211,8 +212,14 @@ export default function ModelHero({ data }) {
           <p className={`mt-3 max-w-[520px] ${sectionDescription} ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}>
             {renderWithPatternTag(data.subHeadline)}
           </p>
+        </div>
 
-          <HeroRegLookup ctaLabel={ctaLabel} className="mt-4 md:mt-5" />
+        <div className="relative z-20 mt-4 w-full md:mt-5 md:max-w-[980px]">
+          <HeroRegLookup
+            ctaLabel={ctaLabel}
+            className="!max-w-none w-full sm:justify-start sm:gap-3"
+            plateClassName="w-full sm:w-[340px] sm:max-w-[340px] sm:shrink-0 sm:flex-none"
+          />
         </div>
 
         {/* Mobile: image below CTA */}

@@ -425,37 +425,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.820 (E 220 d, MHEV)",
         "quote": "The 2.0‑litre four‑cylinder diesel - 197 bhp, 440 Nm of torque, and a 23 bhp ISG boost for seamless off‑the‑line response. This is the fourth generation of the OM654, and it's a proven, refined unit that delivers 56 mpg on the combined WLTP cycle. For UK buyers, this remains the default executive choice.",
-        "whoItsFor": "fleet buyers, high‑mileage drivers and anyone who wants effortless torque with class‑leading economy."
+        "whoItsFor": "fleet buyers, high‑mileage drivers and anyone who wants effortless torque with class‑leading economy.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M254.920 (E 200, MHEV)",
         "quote": "The 2.0‑litre four‑cylinder petrol - 204 bhp, 320 Nm of torque, with a 23 bhp ISG boost. It's smooth, responsive and the most affordable way into W214 ownership. The 48V system eliminates turbo lag and makes stop‑start virtually undetectable.",
-        "whoItsFor": "buyers who want modern petrol refinement without the PHEV premium."
+        "whoItsFor": "buyers who want modern petrol refinement without the PHEV premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M254.920 (E 400 e 4MATIC, PHEV)",
         "quote": "The most powerful four‑cylinder in the range - 381 bhp system output from a 2.0‑litre turbo petrol and a 129 bhp electric motor. The PHEV system adds significant complexity: battery, cooling, power electronics and the weight of a 25.4 kWh pack. More components means more potential failure points.",
-        "whoItsFor": "buyers who want maximum PHEV performance and understand the complexity premium."
+        "whoItsFor": "buyers who want maximum PHEV performance and understand the complexity premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M256 (E 53 HYBRID 4MATIC+)",
         "quote": "The 3.0‑litre straight‑six - 449 bhp, 560 Nm of torque, paired with a PHEV system. This is a complex, high‑performance powertrain with a twin‑turbo straight‑six, 28.6 kWh battery and electric motor. When something fails - and it will be expensive - only AMG‑trained specialists should touch it.",
-        "whoItsFor": "enthusiasts who understand that 449 bhp comes with a six‑figure maintenance budget."
+        "whoItsFor": "enthusiasts who understand that 449 bhp comes with a six‑figure maintenance budget.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.820 (E 300 de, PHEV)",
         "quote": "The 2.0‑litre diesel plug‑in hybrid - 313 bhp system output, 440 Nm of torque, and over 70 miles of electric‑only range. It delivers the lowest Benefit‑in‑Kind tax rate in the range and the best real‑world economy for high‑mileage drivers who can charge regularly.",
-        "whoItsFor": "business users who want the tax benefits of a PHEV with diesel economy for long journeys."
+        "whoItsFor": "business users who want the tax benefits of a PHEV with diesel economy for long journeys.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M254.920 (E 300 e, PHEV)",
         "quote": "The petrol plug‑in hybrid - 313 bhp system output, and the same 25.4 kWh battery as the E 400 e, but with lower running costs. It's often overshadowed by the diesel PHEV and the high‑power E 400 e, but it's the sweet spot for private buyers who want PHEV tax benefits without diesel.",
-        "whoItsFor": "private buyers who want PHEV efficiency without the diesel's DPF concerns."
+        "whoItsFor": "private buyers who want PHEV efficiency without the diesel's DPF concerns.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -559,7 +565,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -572,7 +579,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -585,7 +593,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -598,7 +607,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -672,7 +682,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a>, OM654 or M256 family. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines (e.g., Mercedes OM654, BMW B58B30), adjusted for the W214's executive‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages. PHEV battery replacement costs are not included in the above engine costs - budget an additional £5,000–£10,000 for battery replacement outside warranty."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 220 d",

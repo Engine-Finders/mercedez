@@ -418,7 +418,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your Vito W447 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -446,7 +447,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your Vito W447 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -474,7 +476,8 @@
         "cta": {
           "label": "Compare OM622 engine prices for your Vito W447 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -502,7 +505,8 @@
         "cta": {
           "label": "Compare M274 engine prices for your Vito W447 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -560,7 +564,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - W447 shares its engine bay architecture across body styles, so costs are inherited directly per the Authority Model, with no divergence note required. OM651 and OM654 costs carried forward from the EM data's Table A."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "109 CDI",

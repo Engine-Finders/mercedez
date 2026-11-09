@@ -312,19 +312,22 @@
         "slot": "Best Petrol Overall",
         "engine": "M178.980 (GT S, 522hp)",
         "quote": "The sweet spot of the M178 range: 522hp delivers genuine supercar performance without the GT R's track‑focused suspension compromise, and the same hot‑vee V8 architecture that underpins AMG's most celebrated modern engines.",
-        "whoItsFor": "buyers who want the full AMG V8 experience without the GT R's premium."
+        "whoItsFor": "buyers who want the full AMG V8 experience without the GT R's premium.",
+        "image": "/cars/amg gt-c190-gt c-coupé-2017–2021-new-designo hyacinth red metallic-wider body revised aero-amg gt c190 gt c-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M178.980 (GT R, 585hp)",
         "quote": "The highest‑strung factory tune of the M178 in the R190 line‑up. More power means more heat, and the hot‑vee design already runs cooling systems hard - intercooler and oil cooler integrity are critical on track‑used cars.",
-        "whoItsFor": "track‑day enthusiasts with a maintenance budget to match."
+        "whoItsFor": "track‑day enthusiasts with a maintenance budget to match.",
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M178.980 (GT, 476hp)",
         "quote": "Entry‑level power in a £100k+ car sounds modest, but 476hp from a twin‑turbo V8 is still more than enough to exploit the R190's chassis. Lower tune means marginally less strain on the hot‑vee cooling system.",
-        "whoItsFor": "buyers who want AMG V8 character without the highest running costs."
+        "whoItsFor": "buyers who want AMG V8 character without the highest running costs.",
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (3)-45-angle-front-view.webp"
       }
     ]
   },
@@ -383,7 +386,8 @@
         "cta": {
           "label": "Compare M178 engine prices for your R190 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/amg gt-c190-gt c-coupé-2017–2021-new-designo hyacinth red metallic-wider body revised aero-amg gt c190 gt c-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -396,7 +400,8 @@
         "cta": {
           "label": "Compare M178 engine prices for your R190 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -409,7 +414,8 @@
         "cta": {
           "label": "Compare R190 transmission prices →",
           "href": "#"
-        }
+        },
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (3)-45-angle-front-view.webp"
       }
     ]
   },

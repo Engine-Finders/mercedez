@@ -461,37 +461,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (V 300 d, facelift)",
         "quote": "The 2.0‑litre four‑cylinder diesel - 237–239 bhp, 500 Nm of torque, and the most powerful diesel in the facelift W447 range. The OM654 replaced the ageing OM651 in 2019, bringing improved refinement, lower emissions and better fuel economy. It's the engine that finally made the V‑Class feel properly quick.",
-        "whoItsFor": "buyers who want maximum diesel performance and the latest engine technology."
+        "whoItsFor": "buyers who want maximum diesel performance and the latest engine technology.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M274.920 (V 250)",
         "quote": "The 2.0‑litre four‑cylinder petrol - 211 bhp, 350 Nm of torque, and the only petrol option in the pre‑facelift W447 range. It's smooth, refined and ideal for urban use where diesel DPF issues are a concern. Rare in the UK, but a genuinely good choice for low‑mileage buyers.",
-        "whoItsFor": "buyers who want petrol refinement without diesel DPF headaches - a rare but compelling option."
+        "whoItsFor": "buyers who want petrol refinement without diesel DPF headaches - a rare but compelling option.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM651.950 (V 200/220/250 CDI, pre‑facelift)",
         "quote": "The 2.1‑litre four‑cylinder diesel - 136–190 bhp, up to 440 Nm of torque. The OM651's rear‑mounted timing chain is a well‑documented weak point. Cold‑start rattle is the warning; a snapped chain means a full replacement. Pre‑2019 cars are the ones to watch - the OM654 replacement in 2019 was a significant improvement.",
-        "whoItsFor": "buyers on a tighter budget who understand the OM651's reputation and can verify chain history."
+        "whoItsFor": "buyers on a tighter budget who understand the OM651's reputation and can verify chain history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM642.820/.830 (V 350 BlueTEC)",
         "quote": "The 3.0‑litre V6 diesel - 211–231 bhp, 540–540 Nm of torque. The OM642 is a proven, durable unit but carries higher running costs than the four‑cylinder diesels. Oil cooler seal leaks in the V of the engine are a known issue - a £800–£1,400 specialist repair. Rare in the UK V‑Class parc.",
-        "whoItsFor": "buyers who want V6 refinement and are prepared for the higher running costs."
+        "whoItsFor": "buyers who want V6 refinement and are prepared for the higher running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (V 220 d, facelift)",
         "quote": "The 2.0‑litre four‑cylinder diesel - 163 bhp, 380 Nm of torque, and the volume engine in the facelift W447 range. It's refined, efficient and the cheapest OM654 to maintain. The 9G‑TRONIC gearbox makes the most of its torque.",
-        "whoItsFor": "buyers who want the best combination of economy, refinement and running costs - the default choice."
+        "whoItsFor": "buyers who want the best combination of economy, refinement and running costs - the default choice.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM642.830 (V 350 BlueTEC, pre‑facelift)",
         "quote": "The 3.0‑litre V6 diesel - 231 bhp, 540 Nm of torque. It's often overshadowed by the four‑cylinder diesels, but the OM642 V6 offers effortless refinement and genuine V6 smoothness. The most powerful pre‑facelift V‑Class, and a future classic in the right specification.",
-        "whoItsFor": "buyers who want V6 refinement and effortless torque - but be prepared for V6 running costs."
+        "whoItsFor": "buyers who want V6 refinement and effortless torque - but be prepared for V6 running costs.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -595,7 +601,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -608,7 +615,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -621,7 +629,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -634,7 +643,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -724,7 +734,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any OM651, OM642, OM654, M274 or <a  href='https://mercedesengines.uk/engine/m254-m256-m257'>M254</a> family. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines, adjusted for the W447's MPV‑class labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "V 200 CDI",

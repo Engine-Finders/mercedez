@@ -286,7 +286,7 @@ export default function Compatibility({
     <section className={`relative left-1/2 w-screen -translate-x-1/2 overflow-hidden py-6 text-[var(--color-text)] md:py-9 ${homeSectionBg(isDark, 4)}`}>
       {/* Header-only background (same pattern as gen sec2) */}
       <div className="absolute inset-x-0 top-0 h-[220px] md:h-[280px]">
-        <Image src="/sec2-bg.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
+        <Image src="/Amg-gt.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
         <div
           className={
             isDark

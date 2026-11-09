@@ -73,13 +73,13 @@ export default function HomeSec1({ data }) {
   const bgImageSrc = isDark ? "/Dark.webp" : "/Light.webp";
   const carImageSrc = data.image?.src || HERO_CAR_SRC;
   const trustStrip = data.trustStrip || [];
-  const ctaLabel = data.cta?.label || "Get Instant Quote →";
+  const ctaLabel = data.cta?.label || "Explore Mercedes-Benz Engine Replacement Options";
   const eyebrow = data.eyebrow || "INDEPENDENT. DATA-DRIVEN. MERCEDES EXPERTISE.";
 
   return (
-    <section className={`relative overflow-hidden text-[var(--color-text)] md:min-h-[560px] ${homeSectionBg(isDark, 1)}`}>
+    <section className={`relative text-[var(--color-text)] md:min-h-[560px] ${homeSectionBg(isDark, 1)}`}>
       {/* Theme background (Light / Dark) */}
-      <div className="absolute inset-0">
+      <div className="absolute inset-0 overflow-hidden">
         <Image
           src={bgImageSrc}
           alt=""
@@ -98,8 +98,8 @@ export default function HomeSec1({ data }) {
       </div>
 
       <div className="relative mx-auto flex w-full max-w-8xl flex-col pl-[10px] pr-3 pb-0 pt-5 md:min-h-[560px] md:justify-center md:pl-[14px] md:pr-4 md:pb-1 md:pt-6">
-        <div className="relative grid w-full items-center gap-0 md:grid-cols-[minmax(0,1.05fr)_minmax(280px,0.95fr)] md:gap-4 lg:gap-5">
-          <div className="relative flex w-full max-w-[720px] flex-col gap-2.5 md:gap-3">
+        <div className="relative grid w-full items-center gap-0 overflow-visible md:grid-cols-[minmax(0,1.05fr)_minmax(280px,0.95fr)] md:gap-4 lg:gap-5">
+          <div className="relative flex w-full max-w-[720px] flex-col gap-2.5 overflow-visible md:gap-3">
             {/* Eyebrow */}
             <div className="flex flex-col gap-2 md:gap-2">
               <p
@@ -143,10 +143,17 @@ export default function HomeSec1({ data }) {
               dangerouslySetInnerHTML={{ __html: data.subHeadline }}
             />
 
-            <HeroRegLookup ctaLabel={ctaLabel} className="mt-1" />
+            {/* Match trust-strip width (920px); plate left, CTA right - CTA width unchanged */}
+            <div className="relative z-20 mt-1 w-full md:w-[920px] md:max-w-[min(920px,calc(100vw-2rem))]">
+              <HeroRegLookup
+                ctaLabel={ctaLabel}
+                className="!max-w-none w-full sm:justify-between sm:gap-8"
+                plateClassName="w-full sm:w-[340px] sm:max-w-[340px] sm:shrink-0 sm:flex-none"
+              />
+            </div>
           </div>
 
-          {/* Car — pushed down to sit on BG floor */}
+          {/* Car - pushed down to sit on BG floor */}
           <div className="relative mx-auto -mt-3 mb-0 flex w-full max-w-[520px] items-end justify-center md:mx-0 md:mt-0 md:max-w-none md:justify-end">
             <div className="relative h-[210px] w-full translate-y-14 md:h-auto md:aspect-[5/4] md:min-h-[320px] md:translate-y-20 lg:translate-y-24">
               <Image
@@ -162,7 +169,7 @@ export default function HomeSec1({ data }) {
           </div>
         </div>
 
-        {/* Mobile trust badges — 2×2; black icons (light) / silver (dark) */}
+        {/* Mobile trust badges - 2×2; black icons (light) / silver (dark) */}
         <ul
           className={`mt-3 mb-1 grid w-full grid-cols-2 overflow-hidden rounded-xl border md:hidden ${
             isDark
@@ -211,7 +218,7 @@ export default function HomeSec1({ data }) {
           })}
         </ul>
 
-        {/* Desktop trust strip — black (light) / silver (dark) */}
+        {/* Desktop trust strip - black (light) / silver (dark) */}
         <ul
           className={`relative z-10 mt-0 mb-2 hidden w-full max-w-[920px] grid-cols-4 overflow-hidden rounded-2xl border shadow-[0_14px_32px_rgba(10,26,43,0.1)] backdrop-blur-xl md:grid ${
             isDark

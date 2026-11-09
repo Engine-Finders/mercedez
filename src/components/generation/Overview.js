@@ -5,6 +5,7 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
+import { iconTone } from "@/components/variant/variantTheme";
 
 const factIcons = ["car", "arrow", "arrow", "car"];
 const factIconCircled = [false, true, true, false];
@@ -48,8 +49,8 @@ export default function Overview({ data }) {
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const image = isDark ? "/e90/overview_dark - Copy.webp" : "/e90/overview_light.webp";
-  const mobileImage = isDark ? "/e90/overview_mobile_dark.webp" : "/e90/overview_mobile_light.webp";
+  const image = "/2.webp";
+  const mobileImage = "/2.webp";
   const keyFacts = parseKeyFacts(data.keyFacts);
 
   const headingClass = isDark ? "text-white" : "text-[var(--color-text)]";
@@ -71,11 +72,11 @@ export default function Overview({ data }) {
   const factItem = (fact, index) => (
     <div className="flex min-w-0 flex-1 items-start gap-2 px-1">
       {factIconCircled[index % factIconCircled.length] ? (
-        <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border" style={{ borderColor: GOLD, color: GOLD }}>
+        <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border" style={{ borderColor: iconTone(isDark), color: iconTone(isDark) }}>
           <GenIcon name={factIcons[index % factIcons.length]} className="h-3 w-3" />
         </span>
       ) : (
-        <span className="mt-0.5 shrink-0" style={{ color: GOLD }}>
+        <span className="mt-0.5 shrink-0" style={{ color: iconTone(isDark) }}>
           <GenIcon name={factIcons[index % factIcons.length]} className="h-4 w-4" />
         </span>
       )}
@@ -129,11 +130,11 @@ export default function Overview({ data }) {
           {keyFacts.map((fact, index) => (
             <div key={fact.label} className={`flex items-start gap-2 border-l py-0 pl-3 first:border-l-0 first:pl-0 ${cardDividerClass}`}>
               {factIconCircled[index % factIconCircled.length] ? (
-                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border" style={{ borderColor: GOLD, color: GOLD }}>
+                <span className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border" style={{ borderColor: iconTone(isDark), color: iconTone(isDark) }}>
                   <GenIcon name={factIcons[index % factIcons.length]} className="h-3 w-3" />
                 </span>
               ) : (
-                <span className="mt-0.5 shrink-0" style={{ color: GOLD }}>
+                <span className="mt-0.5 shrink-0" style={{ color: iconTone(isDark) }}>
                   <GenIcon name={factIcons[index % factIcons.length]} className="h-4 w-4" />
                 </span>
               )}
@@ -196,11 +197,11 @@ export default function Overview({ data }) {
         </div>
 
         <div className="px-4 pb-7 pt-5">
-          <SectionLabel number={3} isDark={isDark} />
           <h2
             className={`font-lora mt-1.5 text-[29px] font-medium leading-[1.08] tracking-normal ${headingClass}`}
             dangerouslySetInnerHTML={{ __html: data.h2 }}
           />
+          <SectionLabel isDark={isDark} />
 
           {introParts.length > 0 ? (
             <div className={`mt-4 flex flex-col gap-3 text-[0.9rem] leading-[1.5] ${bodyTextClass}`}>
@@ -237,11 +238,11 @@ export default function Overview({ data }) {
             <div aria-hidden="true" />
 
             <div className="flex flex-col justify-center pl-8">
-              <SectionLabel number={3} isDark={isDark} />
               <h2
                 className={`font-lora text-[42px] font-medium leading-[1.08] tracking-normal ${headingClass}`}
                 dangerouslySetInnerHTML={{ __html: data.h2 }}
               />
+              <SectionLabel isDark={isDark} />
 
               {introParts.length > 0 ? (
                 <div className={`mt-4 flex flex-col gap-3 text-[1.05rem] leading-[1.55] ${bodyTextClass}`}>

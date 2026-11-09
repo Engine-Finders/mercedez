@@ -147,7 +147,7 @@ function FooterCta({ data, isDark }) {
 export default function HomeSec7({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || { src: "/Amg-gt.webp", alt: "" };
   const engines = data.engines || [];
   const columns = data.columns || [];
 

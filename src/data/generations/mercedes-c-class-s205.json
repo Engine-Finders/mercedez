@@ -479,37 +479,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (post-2018 C 220d/C 300d)",
         "quote": "The 2.0-litre four-cylinder diesel that replaced the OM651 - smoother, more efficient, and without the OM651's injector seal 'Black Death' risk. AdBlue system issues are the main concern, but these are software-manageable.",
-        "whoItsFor": "buyers who want a modern diesel without the OM651's ageing weaknesses."
+        "whoItsFor": "buyers who want a modern diesel without the OM651's ageing weaknesses.",
+        "image": "/cars/c-class-s205 lci-estate-estate-2018–2021-new-dolomite brown metallic-facelift-c-class s205 lci est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M276.823 (C 400/C 450/AMG C 43)",
         "quote": "The 3.0-litre twin-turbo V6 offers genuine performance with none of the M177's hot-vee heat management headaches. Timing chain stretch is its known weak point, but preventative maintenance keeps it in check.",
-        "whoItsFor": "buyers who want six-cylinder refinement without V8 running costs."
+        "whoItsFor": "buyers who want six-cylinder refinement without V8 running costs.",
+        "image": "/cars/c-class-s205-c43 amg estate-performance estate-2016–2021-special-designo selenite grey magno-amg body-c-class s205 c43 amg est-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM651.921 (pre-2018 C 220d/C 250d)",
         "quote": "Injector seal failure ('Black Death') is this engine's defining risk - carbon buildup around the injectors leads to compression loss and, if ignored, engine damage. Timing chain tensioner wear is a secondary concern.",
-        "whoItsFor": "only buyers with documented injector seal replacement history."
+        "whoItsFor": "only buyers with documented injector seal replacement history.",
+        "image": "/cars/c-class-s205-estate-estate-2014–2018-new-kallalite green metallic-separate estate body-c-class s205 est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M177.980 (AMG C 63/C 63 S)",
         "quote": "The 4.0-litre twin-turbo V8 delivers 503bhp in S form, but the hot-vee layout concentrates heat between the cylinder banks - valve cover oil leaks and coolant system issues are the most common, with full replacement costs reaching £14,000.",
-        "whoItsFor": "AMG buyers with deep pockets and full service history."
+        "whoItsFor": "AMG buyers with deep pockets and full service history.",
+        "image": "/cars/c-class-s205 lci-estate-estate-2018–2021-new-dolomite brown metallic-facelift-c-class s205 lci est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (post-2018 C 220d)",
         "quote": "The newer diesel offers genuine fuel economy (60+ mpg) with significantly lower failure rates than the OM651 it replaced - and sits in the same used price bracket as older cars with the older engine.",
-        "whoItsFor": "buyers who want a modern, efficient estate without the OM651's caveats."
+        "whoItsFor": "buyers who want a modern, efficient estate without the OM651's caveats.",
+        "image": "/cars/c-class-s205-c43 amg estate-performance estate-2016–2021-special-designo selenite grey magno-amg body-c-class s205 c43 amg est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M274.920 (C 300, 242 bhp)",
         "quote": "The 2.0-litre turbo petrol is often dismissed in favour of the diesel, but it offers genuine performance (6.2s to 60mph) with none of the DPF or injector issues that plague the diesels. It's the sensible petrol choice.",
-        "whoItsFor": "buyers who want petrol refinement without the V6 or V8 premium."
+        "whoItsFor": "buyers who want petrol refinement without the V6 or V8 premium.",
+        "image": "/cars/c-class-s205-estate-estate-2014–2018-new-kallalite green metallic-separate estate body-c-class s205 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -620,7 +626,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your S205 C 220d →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s205 lci-estate-estate-2018–2021-new-dolomite brown metallic-facelift-c-class s205 lci est-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -648,7 +655,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your S205 C 43 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s205-c43 amg estate-performance estate-2016–2021-special-designo selenite grey magno-amg body-c-class s205 c43 amg est-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -676,7 +684,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your S205 C 63 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s205-estate-estate-2014–2018-new-kallalite green metallic-separate estate body-c-class s205 est-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -704,7 +713,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your S205 C 220d →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s205 lci-estate-estate-2018–2021-new-dolomite brown metallic-facelift-c-class s205 lci est-45-angle-front-view.webp"
       }
     ]
   },
@@ -802,7 +812,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the S205 estate shares its MRA platform with the W205 saloon, and engine-bay access is consistent across the range. Costs are inherited from the EM data's Table A."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C 180d",

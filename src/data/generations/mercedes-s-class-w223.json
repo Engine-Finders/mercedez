@@ -590,7 +590,8 @@
         "cta": {
           "label": "Compare W223 48V system repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -603,7 +604,8 @@
         "cta": {
           "label": "Compare OM656 AdBlue repair quotes for your W223 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -616,7 +618,8 @@
         "cta": {
           "label": "Compare M176/M177 engine prices for your W223 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -629,7 +632,8 @@
         "cta": {
           "label": "Compare W223 air suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -719,7 +723,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "S 350 d",

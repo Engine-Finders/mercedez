@@ -401,31 +401,36 @@
         "slot": "Best Petrol Overall",
         "engine": "M276.825 (SL 400, facelift)",
         "quote": "Mercedes' 3.0‑litre bi‑turbo V6, upgraded to 367 bhp in the 2016 facelift, delivers effortless performance with 500 Nm of torque. It's the sweet spot in the R231 range - refined, responsive, and considerably more reliable than the V8 alternatives.",
-        "whoItsFor": "buyers who want grand touring performance without the V8's running costs or reliability concerns."
+        "whoItsFor": "buyers who want grand touring performance without the V8's running costs or reliability concerns.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M278.927 (SL 500)",
         "quote": "The 4.7‑litre bi‑turbo V8 is known for cylinder scoring and coolant/oil leaks. While it delivers effortless power, these issues can be costly to address. The M278 is widely considered the most problematic engine in the R231 range.",
-        "whoItsFor": "buyers who prioritise V8 presence and are prepared for potentially expensive maintenance."
+        "whoItsFor": "buyers who prioritise V8 presence and are prepared for potentially expensive maintenance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M279.981 (SL 65 AMG) - V12 complexity",
         "quote": "The 6.0‑litre twin‑turbo V12 is a masterpiece of engineering but exceptionally complex and costly to maintain. Parts are expensive, labour is intensive, and specialist knowledge is required.",
-        "whoItsFor": "collectors and enthusiasts who want flagship V12 status and can afford the premium running costs."
+        "whoItsFor": "collectors and enthusiasts who want flagship V12 status and can afford the premium running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M276.954 (SL 350)",
         "quote": "The 3.5‑litre naturally aspirated V6 offers the best balance of performance (306 bhp), characterful engine note, and reliability. It's the most affordable entry point into R231 ownership.",
-        "whoItsFor": "buyers who want the SL experience without the turbocharged complexity."
+        "whoItsFor": "buyers who want the SL experience without the turbocharged complexity.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M157.983 (SL 63 AMG)",
         "quote": "The 5.5‑litre twin‑turbo V8 delivers 537–585 bhp with genuine AMG character. It's often overlooked in favour of the V12 but offers a more engaging and reliable driving experience - watch for oil intrusion in the wiring harness.",
-        "whoItsFor": "buyers who want AMG performance without the V12's reliability headaches."
+        "whoItsFor": "buyers who want AMG performance without the V12's reliability headaches.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -513,7 +518,8 @@
         "cta": {
           "label": "Compare M278 engine prices for your R231 SL 500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -526,7 +532,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your R231 V6 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -539,7 +546,8 @@
         "cta": {
           "label": "Compare M157 engine prices for your R231 SL 63 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -552,7 +560,8 @@
         "cta": {
           "label": "Compare R231 engine mount replacement prices →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -626,7 +635,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the R231 is a standalone model with no direct platform‑sharing for engine bay access, so labour times are specific to this generation. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

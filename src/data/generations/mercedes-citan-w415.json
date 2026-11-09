@@ -419,37 +419,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM608.915 (post-2019 111 CDI, 116 bhp)",
         "quote": "The later K9K diesel offers the most power in the range - 116 bhp and 270 Nm of torque - with improved emissions compliance. Turbocharger and injector wear are its known weak points, but the K9K is one of Europe's most common diesel engines.",
-        "whoItsFor": "fleet buyers who need the most capable Citan diesel."
+        "whoItsFor": "fleet buyers who need the most capable Citan diesel.",
+        "image": "/cars/citan-w415-panel van-van-2012–2021-new-arctic white-first generation-citan w415 panel-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M200.711 (112, 1.2L petrol)",
         "quote": "The 1.2-litre four-cylinder petrol offers simple, reliable motoring without the DPF and injector concerns of the diesels - ideal for urban delivery work where diesel emissions compliance is a headache.",
-        "whoItsFor": "urban delivery drivers who want petrol simplicity."
+        "whoItsFor": "urban delivery drivers who want petrol simplicity.",
+        "image": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM607.951 (pre-2019 108/109 CDI)",
         "quote": "The early K9K diesel is a high-mileage workhorse, but injector failure and turbocharger wear are common on vans over 100,000 miles - and EGR/DPF clogging is a persistent issue for urban delivery work.",
-        "whoItsFor": "buyers who accept the risks of a high-mileage diesel and have service history to prove maintenance."
+        "whoItsFor": "buyers who accept the risks of a high-mileage diesel and have service history to prove maintenance.",
+        "image": "/cars/citan-w415-panel van-van-2012–2021-new-arctic white-first generation-citan w415 panel-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM608.915 (post-2019 111 CDI)",
         "quote": "The most powerful K9K diesel offers the best performance, but the added complexity of the Euro 6 emissions system - including AdBlue - means more components to fail and higher repair costs.",
-        "whoItsFor": "buyers who need maximum diesel power and accept the emissions complexity."
+        "whoItsFor": "buyers who need maximum diesel power and accept the emissions complexity.",
+        "image": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM607.951 (109 CDI, 90 bhp)",
         "quote": "The mid-range diesel offers genuine versatility with 90 bhp and good fuel economy - and sits in the same used price bracket as lower-powered examples. It's the sweet spot of the diesel range.",
-        "whoItsFor": "buyers who want the most common, best-supported Citan diesel."
+        "whoItsFor": "buyers who want the most common, best-supported Citan diesel.",
+        "image": "/cars/citan-w415-panel van-van-2012–2021-new-arctic white-first generation-citan w415 panel-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M200.711 (112, 1.2L petrol)",
         "quote": "Often ignored in favour of the diesels, the 1.2-litre petrol offers simple, reliable motoring without the DPF and injector concerns - and lower purchase prices because buyers overlook it.",
-        "whoItsFor": "buyers who want petrol reliability without the diesel's complications."
+        "whoItsFor": "buyers who want petrol reliability without the diesel's complications.",
+        "image": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp"
       }
     ]
   },
@@ -576,7 +582,8 @@
         "cta": {
           "label": "Compare K9K engine prices for your W415 Citan →",
           "href": "#"
-        }
+        },
+        "image": "/cars/citan-w415-panel van-van-2012–2021-new-arctic white-first generation-citan w415 panel-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -604,7 +611,8 @@
         "cta": {
           "label": "Compare K9K turbo prices for your W415 Citan →",
           "href": "#"
-        }
+        },
+        "image": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -632,7 +640,8 @@
         "cta": {
           "label": "Compare K9K EGR/DPF prices for your W415 Citan →",
           "href": "#"
-        }
+        },
+        "image": "/cars/citan-w415-panel van-van-2012–2021-new-arctic white-first generation-citan w415 panel-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -660,7 +669,8 @@
         "cta": {
           "label": "Compare M200 engine prices for your W415 Citan →",
           "href": "#"
-        }
+        },
+        "image": "/cars/citan-w415-tourer-mpv-2012–2021-new-pebble grey-passenger body-citan w415 tourer-45-angle-front-view.webp"
       }
     ]
   },

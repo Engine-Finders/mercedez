@@ -458,7 +458,8 @@
         "cta": {
           "label": "Compare OM611 engine prices for your W638 112 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -486,7 +487,8 @@
         "cta": {
           "label": "Compare M111 engine prices for your W638 113 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -514,7 +516,8 @@
         "cta": {
           "label": "Compare OM601 engine prices for your W638 110 D →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -542,7 +545,8 @@
         "cta": {
           "label": "Compare W638 bodywork restoration quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

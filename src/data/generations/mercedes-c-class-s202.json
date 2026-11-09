@@ -491,37 +491,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM605.960 (C250 T Turbo-D)",
         "quote": "The five‑cylinder 2.5‑litre turbodiesel - 150 bhp, 280 Nm of torque, and the same mechanical injection pump that made the OM60x family legendary. No common‑rail electronics to fail, no DPF to clog, just honest, reliable diesel torque that'll outlast the car.",
-        "whoItsFor": "buyers who want bulletproof diesel reliability without CDI complexity."
+        "whoItsFor": "buyers who want bulletproof diesel reliability without CDI complexity.",
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M104.941 (C280 T, pre‑facelift)",
         "quote": "The 2.8‑litre straight‑six - 193 bhp, 270 Nm, and the last of Mercedes' great inline‑six petrols. Silky smooth, famously reliable, and free of the V6's balance‑shaft issues. The M104 is respected as one of Mercedes' most reliable engines ever produced",
-        "whoItsFor": "enthusiasts who want six‑cylinder smoothness and old‑school Mercedes build quality."
+        "whoItsFor": "enthusiasts who want six‑cylinder smoothness and old‑school Mercedes build quality.",
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M111.944 (C200 T Kompressor)",
         "quote": "The only supercharged petrol in the S202 range - 192 bhp from a 2.0‑litre four‑cylinder with a belt‑driven Eaton supercharger. The added complexity (supercharger clutch, intercooler, higher boost) introduces failure modes the naturally aspirated M111s simply don't have.",
-        "whoItsFor": "buyers who want forced‑induction performance on a budget and understand the maintenance premium."
+        "whoItsFor": "buyers who want forced‑induction performance on a budget and understand the maintenance premium.",
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M113.944 (C43 AMG)",
         "quote": "The 4.3‑litre V8 is robust, but when it fails - valve stem seals, timing chain, or the five‑speed auto that sits behind it - the repair bills are in a different league. Low production numbers (under 2,000 estates worldwide) mean parts are specialist‑only.",
-        "whoItsFor": "collectors and enthusiasts who understand that 306 bhp comes with a six‑figure maintenance budget."
+        "whoItsFor": "collectors and enthusiasts who understand that 306 bhp comes with a six‑figure maintenance budget.",
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM611.960 (C220 T CDI)",
         "quote": "The 2.2‑litre common‑rail diesel - 125 bhp, 300 Nm, and the sweet spot of the S202 diesel range. More refined than the OM605, cheaper to run than the petrols, and the most common engine in the UK parc. Recon costs are reasonable and parts are everywhere.",
-        "whoItsFor": "buyers who want modern diesel refinement without the OM605's older‑tech compromises."
+        "whoItsFor": "buyers who want modern diesel refinement without the OM605's older‑tech compromises.",
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M112.920 (C280 T, facelift)",
         "quote": "The 2.8‑litre V6 - 197 bhp, 270 Nm, and the first V6 in a C‑Class. It's smoother than the <a  href='https://mercedesengines.uk/engine/m104'>M104</a> it replaced, more refined than the four‑cylinder M111, and carries none of the Kompressor's supercharger worries. Most buyers overlook it in favour of the diesel or the AMG.",
-        "whoItsFor": "buyers who want six‑cylinder refinement without the AMG price tag."
+        "whoItsFor": "buyers who want six‑cylinder refinement without the AMG price tag.",
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -649,7 +655,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -662,7 +669,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -675,7 +683,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -688,7 +697,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s202-estate-estate-1996–2001-new-malachite green metallic-completely different rear body-c-class s202 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -786,7 +796,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any M111, M104, M112, M113, OM604, OM605 or OM611 family. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines (e.g., BMW N47D20C, Mercedes OM651), adjusted for the S202's estate‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C220 T Diesel",

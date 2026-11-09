@@ -389,31 +389,36 @@
         "slot": "Best Petrol Overall",
         "engine": "M176 (S 560, 2017–2020)",
         "quote": "“The 4.0‑litre biturbo V8 replaced the M278 with improved efficiency and responsiveness - 469 PS and 700 Nm deliver effortless grand‑tourer performance. It’s the sweet spot of the A217 range.” Who it’s for: Buyers who want V8 refinement without AMG running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M157 (AMG S 63, 2015–2017)",
         "quote": "“The 5.5‑litre biturbo V8 has known turbocharger and cooling system issues - owners report needing to replace multiple components to keep it reliable. The M177 that replaced it is a better bet.” Who it’s for: Buyers who understand the risks and have full service history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M279 (AMG S 65)",
         "quote": "“The 6.0‑litre V12 biturbo is the ultimate A217 engine - but the most punishing to repair. With just 630 PS and 1,000 Nm, the sheer complexity and rarity of this engine make a full replacement a five‑figure event.” Who it’s for: Collectors with deep pockets who want the V12 experience.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M278 (S 500, 2015–2017)",
         "quote": "“The 4.7‑litre biturbo V8 delivers 455 PS of effortless power with better fuel economy than the AMG variants. It’s the refined V8 choice without the AMG price premium.” Who it’s for: Buyers who want V8 power without the running costs of the M157/M177.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M276 (S 400 4MATIC)",
         "quote": "“Often overshadowed by the V8 models, the 3.0‑litre biturbo V6 delivers 367 PS with lower running costs and better fuel economy. It’s the most sensible A217 engine choice.” Who it’s for: Buyers who want A217 ownership without the V8 tax.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       }
     ]
   },
@@ -524,7 +529,8 @@
         "cta": {
           "label": "Compare M176 engine prices for your A217 S 560 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -552,7 +558,8 @@
         "cta": {
           "label": "Compare M157 engine prices for your A217 AMG S 63 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -580,7 +587,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your A217 S 400 4MATIC →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -608,7 +616,8 @@
         "cta": {
           "label": "Compare M279 engine prices for your A217 AMG S 65 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -674,7 +683,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures - A217 Convertible shares engine‑bay access with its C217 Coupé sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

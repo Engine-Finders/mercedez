@@ -5,8 +5,9 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
+import { iconTone } from "@/components/variant/variantTheme";
 
-function FAQItem({ item, isOpen, onToggle }) {
+function FAQItem({ item, isOpen, onToggle, isDark }) {
   return (
     <div className="rounded-md border border-[var(--color-border)] bg-[var(--color-surface)]">
       <button
@@ -22,7 +23,7 @@ function FAQItem({ item, isOpen, onToggle }) {
           {item.id}
         </span>
         <span className="flex-1 text-[0.92rem] font-semibold leading-snug text-[var(--color-text)]" dangerouslySetInnerHTML={{ __html: item.question }} />
-        <span className={`shrink-0 text-[var(--color-text-muted)] transition-transform ${isOpen ? "rotate-180" : ""}`} style={{ color: GOLD }}>
+        <span className={`shrink-0 transition-transform ${isOpen ? "rotate-180" : ""}`} style={{ color: iconTone(isDark) }}>
           <GenIcon name="chevronDown" className="h-5 w-5" />
         </span>
       </button>
@@ -47,21 +48,21 @@ export default function FAQAccordion({ data }) {
   return (
     <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 10)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <SectionLabel number={10} isDark={isDark} />
         <h2
           className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
           dangerouslySetInnerHTML={{ __html: data.h2 || "FAQ" }}
         />
+        <SectionLabel isDark={isDark} />
 
         <div className="mt-6 grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-x-5">
           <div className="flex flex-col gap-3">
             {left.map((item) => (
-              <FAQItem key={item.id} item={item} isOpen={openId === item.id} onToggle={() => setOpenId(openId === item.id ? null : item.id)} />
+              <FAQItem key={item.id} item={item} isOpen={openId === item.id} onToggle={() => setOpenId(openId === item.id ? null : item.id)} isDark={isDark} />
             ))}
           </div>
           <div className="flex flex-col gap-3">
             {right.map((item) => (
-              <FAQItem key={item.id} item={item} isOpen={openId === item.id} onToggle={() => setOpenId(openId === item.id ? null : item.id)} />
+              <FAQItem key={item.id} item={item} isOpen={openId === item.id} onToggle={() => setOpenId(openId === item.id ? null : item.id)} isDark={isDark} />
             ))}
           </div>
         </div>

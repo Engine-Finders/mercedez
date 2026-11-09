@@ -338,7 +338,8 @@
         "cta": {
           "label": "Compare C167 OM656 AdBlue repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -366,7 +367,8 @@
         "cta": {
           "label": "Compare C167 M256/M177 coolant system repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -394,7 +396,8 @@
         "cta": {
           "label": "Compare C167 PHEV battery repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -422,7 +425,8 @@
         "cta": {
           "label": "Compare C167 M177 turbo repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -528,7 +532,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLE 300 d",

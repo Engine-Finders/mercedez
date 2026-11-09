@@ -492,31 +492,36 @@
         "slot": "Best Six Overall",
         "engine": "M104.991 (SL 320, 1993–1998)",
         "quote": "The 3.2‑litre straight‑six - 228–231 PS, robust, smooth, and without the V8's timing‑chain guide worries or the V12's coil‑pack costs. The sweet spot of R129 ownership.",
-        "whoItsFor": "buyers who want the classic SL experience with the lowest running costs."
+        "whoItsFor": "buyers who want the classic SL experience with the lowest running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best V8 Overall",
         "engine": "M113.961 (SL 500, 1998–2001)",
         "quote": "The 5.0‑litre SOHC V8 - 302–306 PS, reliable, modern, and free from the M119's chain‑guide worries. The facelift R129's best engine for daily use.",
-        "whoItsFor": "buyers who want V8 prestige with modern reliability."
+        "whoItsFor": "buyers who want V8 prestige with modern reliability.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M119 V8 (500 SL / SL 500, 1989–1998)",
         "quote": "The M119 V8 delivers effortless torque but timing‑chain guide wear is a documented weakness. If your R129 V8 has over 80,000 miles and no documented guide replacement, budget for the work.",
-        "whoItsFor": "buyers who can verify timing‑chain guide history."
+        "whoItsFor": "buyers who can verify timing‑chain guide history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M120 V12 (600 SL / SL 600)",
         "quote": "The 6.0‑litre V12 - 389–394 PS, an engineering icon. But 12 individual coil packs, engine mounts, and specialist labour add up fast. The price of V12 ownership is significant.",
-        "whoItsFor": "collectors and enthusiasts who understand V12 running costs."
+        "whoItsFor": "collectors and enthusiasts who understand V12 running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M112 V6 (SL 280 / SL 320, 1998–2001)",
         "quote": "The 2.8–3.2‑litre V6 - 201–224 PS, cheap parts, simple maintenance, and the most affordable way into R129 ownership. The water pump is the only real weak point.",
-        "whoItsFor": "the sensible entry point for R129 buyers on a budget."
+        "whoItsFor": "the sensible entry point for R129 buyers on a budget.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -651,7 +656,8 @@
         "cta": {
           "label": "Compare M119 engine prices for your R129 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -679,7 +685,8 @@
         "cta": {
           "label": "Compare M120 engine prices for your R129 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -707,7 +714,8 @@
         "cta": {
           "label": "Compare M104 engine prices for your R129 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -735,7 +743,8 @@
         "cta": {
           "label": "Compare M112 / M113 engine prices for your R129 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -833,7 +842,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - R129 shares its engine bay architecture across its long production run, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

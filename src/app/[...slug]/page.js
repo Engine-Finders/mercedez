@@ -187,21 +187,21 @@ export default async function CatchAllPage({ params }) {
             dangerouslySetInnerHTML={{ __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)) }}
           />
         )}
-        <ModelHero data={data.hero} />
+        <ModelHero data={data.hero} modelSlug={entry.slug} />
         <OwnershipVerdict data={data.ownershipVerdict} />
         <AtAGlance data={data.atAGlance} />
         <GenerationsGrid data={data.generations} />
         <EngineDatabase data={data.engineDatabase} />
-        <CommonProblems data={data.commonProblems} />
+        <CommonProblems data={data.commonProblems} modelSlug={entry.slug} />
         <MarketIntelligence
           data={data.marketIntelligence}
           quoteData={data.editorialPullQuote}
           heroImage={data.hero?.headerImage}
         />
-        <ReplacementCosts data={data.replacementCosts} />
+        <ReplacementCosts data={data.replacementCosts} modelSlug={entry.slug} />
         <EngineEvolution data={data.engineEvolution} />
         <WhoShouldBuy data={data.whoShouldBuy} />
-        <CalculatorCTA data={data.calculatorCta} heroImage={data.hero?.headerImage} />
+        <CalculatorCTA data={data.calculatorCta} heroImage={data.hero?.headerImage} modelSlug={entry.slug} />
         <TrustBlock data={data.trustBlock} image={data.ownershipVerdict?.image} />
         <FAQAccordion data={data.faq} />
         <ClosingActionCards data={data.closingActionCards} heroImage={data.hero?.headerImage} />
@@ -218,17 +218,17 @@ export default async function CatchAllPage({ params }) {
             dangerouslySetInnerHTML={{ __html: JSON.stringify(sanitizeJsonLd(data.meta.jsonLd)) }}
           />
         )}
-        <GenHero data={data.hero} />
+        <GenHero data={data.hero} parent={entry.parent} slug={entry.slug} />
         <GenEngineDatabase data={data.engineDatabase} />
         <Overview data={data.overview} />
-        <BestWorstEngines data={data.bestWorstEngines} />
+        <BestWorstEngines data={data.bestWorstEngines} parent={entry.parent} slug={entry.slug} />
         <OwnershipEconomics data={data.ownershipEconomics} />
-        <GenProblems data={data.commonProblems} />
-        <GenReplacementCosts data={data.replacementCosts} />
+        <GenProblems data={data.commonProblems} parent={entry.parent} slug={entry.slug} />
+        <GenReplacementCosts data={data.replacementCosts} parent={entry.parent} slug={entry.slug} />
         <CoreVariants data={data.coreVariants} parentSlug={entry.parent} />
         <GenMarketIntelligence data={data.marketIntelligence} />
         <GenFAQAccordion data={data.faq} />
-        <GenTrustCta data={data.trustCta} />
+        <GenTrustCta data={data.trustCta} parent={entry.parent} slug={entry.slug} />
       </main>
     );
   }

@@ -365,37 +365,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM651.930 (CLA 200 d/220 d)",
         "quote": "Mercedes' own 2.1‑litre diesel, introduced in 2008, is the pick of the X117 diesel range - smooth, torquey, and backed by a strong reliability record when serviced properly.",
-        "whoItsFor": "buyers who want a modern, efficient diesel without the Renault‑sourced compromises."
+        "whoItsFor": "buyers who want a modern, efficient diesel without the Renault‑sourced compromises.",
+        "image": "/cars/cla-x117-cla45 amg shooting brake-performance estate-2015–2019-special-designo hyacinth red metallic-amg body-cla x117 cla45 amg shooting br-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M270.920 (CLA 250)",
         "quote": "Mercedes' 2.0‑litre turbo petrol, delivering 211–218 bhp with a responsive character and strong torque. It's the enthusiast's choice in the X117 range.",
-        "whoItsFor": "buyers who want genuine performance from a compact estate."
+        "whoItsFor": "buyers who want genuine performance from a compact estate.",
+        "image": "/cars/cla-x117-facelift shooting brake-estate coupé-2016–2019-new-obsidian black metallic-facelift-cla x117 fl shooting brake-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM607.951 (CLA 180 d)",
         "quote": "The Renault‑sourced 1.5‑litre diesel is economical but lacks the refinement and long‑term durability of Mercedes' own OM651. It's the entry‑level option for a reason.",
-        "whoItsFor": "buyers on a tight budget who prioritise low running costs over longevity."
+        "whoItsFor": "buyers on a tight budget who prioritise low running costs over longevity.",
+        "image": "/cars/cla-x117-shooting brake-estate coupé-2015–2016-new-hyacinth red metallic-completely different rear body-cla x117 shooting brake-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M133.980 (CLA 45 AMG) - turbo and cooling system",
         "quote": "The high‑output AMG engine demands meticulous maintenance; turbocharger and cooling system issues can be costly if neglected.",
-        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs."
+        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs.",
+        "image": "/cars/cla-x117-cla45 amg shooting brake-performance estate-2015–2019-special-designo hyacinth red metallic-amg body-cla x117 cla45 amg shooting br-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M270.910 (CLA 200)",
         "quote": "The 1.6‑litre turbo petrol offers the best balance of performance (156 bhp), economy, and reliability. It's the sweet spot in the X117 petrol range.",
-        "whoItsFor": "buyers who want a petrol without the AMG running costs."
+        "whoItsFor": "buyers who want a petrol without the AMG running costs.",
+        "image": "/cars/cla-x117-facelift shooting brake-estate coupé-2016–2019-new-obsidian black metallic-facelift-cla x117 fl shooting brake-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M270.920 (CLA 220 4MATIC)",
         "quote": "The 184 bhp 2.0‑litre with all‑wheel drive offers genuine year‑round capability. It's often overlooked in favour of the CLA 250 but offers a better real‑world balance.",
-        "whoItsFor": "buyers who need all‑weather traction without the top‑spec premium."
+        "whoItsFor": "buyers who need all‑weather traction without the top‑spec premium.",
+        "image": "/cars/cla-x117-shooting brake-estate coupé-2015–2016-new-hyacinth red metallic-completely different rear body-cla x117 shooting brake-45-angle-front-view.webp"
       }
     ]
   },
@@ -483,7 +489,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your X117 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-x117-cla45 amg shooting brake-performance estate-2015–2019-special-designo hyacinth red metallic-amg body-cla x117 cla45 amg shooting br-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -496,7 +503,8 @@
         "cta": {
           "label": "Compare M270 engine prices for your X117 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-x117-facelift shooting brake-estate coupé-2016–2019-new-obsidian black metallic-facelift-cla x117 fl shooting brake-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -509,7 +517,8 @@
         "cta": {
           "label": "Compare M133 engine prices for your CLA 45 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cla-x117-shooting brake-estate coupé-2015–2016-new-hyacinth red metallic-completely different rear body-cla x117 shooting brake-45-angle-front-view.webp"
       }
     ]
   },
@@ -567,7 +576,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the X117 shares its MFA platform with the A‑Class (W176) and B‑Class (W246), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLA 180 d",

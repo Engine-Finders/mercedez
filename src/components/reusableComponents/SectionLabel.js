@@ -1,5 +1,5 @@
 /**
- * Title accent strip — sits below H2 (no "SECTION N" label).
+ * Title accent strip - sits below H2 (no "SECTION N" label).
  * Strip: black in light theme, white in dark.
  * @param {boolean} [isDark]
  * @param {string} [className]

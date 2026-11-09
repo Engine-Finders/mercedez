@@ -70,7 +70,7 @@ function TrustCard({ item, isDark }) {
 export default function HomeSec12({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || { src: "/Amg-gt.webp", alt: "" };
   const signals = data.signals || [];
 
   return (

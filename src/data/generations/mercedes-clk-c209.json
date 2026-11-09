@@ -557,37 +557,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642.910 (CLK 320 CDI, facelift)",
         "quote": "The 3.0‑litre V6 diesel - 224 bhp, 510 Nm of torque, and the most refined diesel ever fitted to a CLK. The OM642 is a proven unit, and the 7G‑TRONIC gearbox makes the most of its effortless torque. Oil cooler seals are the only real weakness.",
-        "whoItsFor": "buyers who want effortless grand‑touring torque with diesel economy and V6 refinement."
+        "whoItsFor": "buyers who want effortless grand‑touring torque with diesel economy and V6 refinement.",
+        "image": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112.955 (CLK 320, pre‑facelift)",
         "quote": "The 3.2‑litre V6 - 218 bhp, 310 Nm, and the last of Mercedes' simple 3‑valve‑per‑cylinder V6s. No balance‑shaft issues to worry about, no SBC brake problems, just smooth, reliable V6 power. It's the most honest engine in the C209 range.",
-        "whoItsFor": "buyers who want pre‑facelift V6 refinement without the M272's balance‑shaft concerns."
+        "whoItsFor": "buyers who want pre‑facelift V6 refinement without the M272's balance‑shaft concerns.",
+        "image": "/cars/clk-c209-facelift coupé-coupé-2005–2009-new-brilliant silver metallic-major facelift-clk c209 fl coupe-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272.940 / .960 (CLK 280 / CLK 350, facelift)",
         "quote": "The M272 V6 is a significant step forward in power and refinement, but early units (pre‑2008) suffer from balance‑shaft wear - a £2,000‑£3,000 repair that requires engine removal. The 3.5‑litre CLK 350 is the worst affected.",
-        "whoItsFor": "buyers who understand the M272's reputation and budget for balance‑shaft replacement - or buy a post‑2008 car."
+        "whoItsFor": "buyers who understand the M272's reputation and budget for balance‑shaft replacement - or buy a post‑2008 car.",
+        "image": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156.982 (CLK 63 AMG)",
         "quote": "The 6.2‑litre naturally aspirated V8 is a masterpiece, but when it fails - valve stem seals, camshaft adjusters, or the MCT gearbox - the repair bills are in a different league. Low production numbers mean parts are specialist‑only.",
-        "whoItsFor": "collectors and enthusiasts who understand that 481 bhp comes with a six‑figure maintenance budget."
+        "whoItsFor": "collectors and enthusiasts who understand that 481 bhp comes with a six‑figure maintenance budget.",
+        "image": "/cars/clk-c209-facelift coupé-coupé-2005–2009-new-brilliant silver metallic-major facelift-clk c209 fl coupe-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M271.955 (CLK 200 Kompressor, facelift)",
         "quote": "The 1.8‑litre supercharged four‑cylinder - 184 bhp, 250 Nm, and the sweet spot of the C209 range. More powerful than the pre‑facelift 163 bhp unit, more efficient than the V6s, and the cheapest to run and insure.",
-        "whoItsFor": "buyers who want CLK style without the V6 or V8 running costs."
+        "whoItsFor": "buyers who want CLK style without the V6 or V8 running costs.",
+        "image": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M112.912 (CLK 240, pre‑facelift)",
         "quote": "The 2.6‑litre V6 is often overshadowed by the 3.2‑litre CLK 320, but it's the same durable M112 family with lower running costs. No balance‑shaft issues, no SBC problems - just honest V6 motoring.",
-        "whoItsFor": "buyers who want V6 refinement on a budget."
+        "whoItsFor": "buyers who want V6 refinement on a budget.",
+        "image": "/cars/clk-c209-facelift coupé-coupé-2005–2009-new-brilliant silver metallic-major facelift-clk c209 fl coupe-45-angle-front-view.webp"
       }
     ]
   },
@@ -739,7 +745,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -752,7 +759,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c209-facelift coupé-coupé-2005–2009-new-brilliant silver metallic-major facelift-clk c209 fl coupe-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -765,7 +773,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c209-coupé-coupé-2002–2005-new-glut red-new generation-clk c209-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -778,7 +787,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-c209-facelift coupé-coupé-2005–2009-new-brilliant silver metallic-major facelift-clk c209 fl coupe-45-angle-front-view.webp"
       }
     ]
   },
@@ -900,7 +910,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any M271, M112, M272, M113, M156, OM612, OM646 or OM642 family. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines (e.g., Mercedes OM651, OM642), adjusted for the C209's coupé‑specific labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLK 270 CDI",

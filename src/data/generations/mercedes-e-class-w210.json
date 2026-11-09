@@ -647,37 +647,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM613.961 (post-1999 E 320 CDI)",
         "quote": "The 3.2-litre common-rail straight-six diesel offered 197 bhp and immense torque - and it was the most refined diesel in the range. Injector and turbo issues are its only real demands, but the common-rail system was a leap forward over the old indirect-injection diesels.",
-        "whoItsFor": "buyers who want effortless torque and 40+ mpg from a six-cylinder."
+        "whoItsFor": "buyers who want effortless torque and 40+ mpg from a six-cylinder.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112.940 (post-1997 E 320 V6)",
         "quote": "The 3.2-litre V6 replaced the ageing M104 inline-six, offering 217–221 bhp with smoother power delivery and better reliability. Camshaft adjuster wear is its only real weak point, but it's a well-understood fix.",
-        "whoItsFor": "buyers who want V6 smoothness without V8 running costs."
+        "whoItsFor": "buyers who want V6 smoothness without V8 running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM604.912 (pre-1998 E 220 Diesel)",
         "quote": "The 2.2-litre indirect-injection diesel is a relic of a bygone era - underpowered, noisy, and prone to injector and glow plug issues. The OM611 common-rail that replaced it was a revelation.",
-        "whoItsFor": "only buyers who want a cheap classic and don't mind the noise."
+        "whoItsFor": "only buyers who want a cheap classic and don't mind the noise.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M113.984 (E 55 AMG)",
         "quote": "The 5.4-litre V8 delivers 354 bhp and a soundtrack to match, but it's an ageing AMG - valve cover oil leaks, timing chain wear, and the sheer cost of V8 parts make it the most expensive engine in the range to maintain.",
-        "whoItsFor": "AMG collectors with deep pockets and full service history."
+        "whoItsFor": "AMG collectors with deep pockets and full service history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M112.940 (E 320 V6)",
         "quote": "The V6 offers genuine performance (6.9s to 60mph) with significantly lower running costs than the V8 - and sits in the same used price bracket as the four-cylinder cars. It's the sweet spot of the range.",
-        "whoItsFor": "buyers who want the best all-round W210 experience."
+        "whoItsFor": "buyers who want the best all-round W210 experience.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM611.961 (post-1998 E 220 CDI)",
         "quote": "The 2.2-litre common-rail diesel is often dismissed as 'just the base diesel', but it offers 50+ mpg with none of the V8's fuel bills - and the common-rail system was a genuine step forward over the old OM604.",
-        "whoItsFor": "buyers who want economy without the agricultural feel of older diesels."
+        "whoItsFor": "buyers who want economy without the agricultural feel of older diesels.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -868,7 +874,8 @@
         "cta": {
           "label": "Compare M112 engine prices for your W210 E 320 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -896,7 +903,8 @@
         "cta": {
           "label": "Compare M113 engine prices for your W210 E 430 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -924,7 +932,8 @@
         "cta": {
           "label": "Compare M104 engine prices for your W210 E 320 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -952,7 +961,8 @@
         "cta": {
           "label": "Compare OM604 engine prices for your W210 E 220 Diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -1106,7 +1116,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the W210 saloon shares its platform with the S210 estate, and engine-bay access is consistent across the range."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 220 Diesel",

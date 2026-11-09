@@ -3,9 +3,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
-import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import { GOLD, homeSectionBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
+import { iconTone, variantModelImage } from "@/components/variant/variantTheme";
 
 function VariantPanel({ title, icon, variants, tone, isDark }) {
   if (!variants?.length) return null;
@@ -56,11 +57,14 @@ function VariantPanel({ title, icon, variants, tone, isDark }) {
   );
 }
 
-export default function CoreVariants({ data }) {
+export default function CoreVariants({ data, parentSlug, parent }) {
   const { theme } = useTheme();
   if (!data) return null;
 
   const isDark = theme === "dark";
+  const modelParent = parentSlug || parent || "";
+  const modelImage = variantModelImage(modelParent);
+  const fogRgb = sectionPanelRgb(isDark, 8);
   const scopeNoteTextClass = isDark ? "text-white/85" : "text-[var(--color-text-muted)]";
   const scopeNoteStrongClass = isDark ? "text-white" : "text-[var(--color-text)]";
 
@@ -70,7 +74,7 @@ export default function CoreVariants({ data }) {
         isDark ? "border-white/10 bg-[var(--color-surface-raised)]" : "border-[var(--color-border)] bg-white"
       }`}
     >
-      <span className="mt-0.5 shrink-0" style={{ color: GOLD }}>
+      <span className="mt-0.5 shrink-0" style={{ color: iconTone(isDark) }}>
         <GenIcon name="info" className="h-5 w-5" />
       </span>
       <p className={`text-[0.82rem] leading-[1.5] ${scopeNoteTextClass}`}>
@@ -88,23 +92,28 @@ export default function CoreVariants({ data }) {
   );
 
   return (
-    <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 8)}`}>
-      <div className="mx-auto w-full max-w-8xl px-4 md:px-8">
-        <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(320px,0.85fr)] lg:items-center">
-          <div>
-            <SectionLabel number={8} isDark={isDark} />
-            <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
-              Core Variants
-            </h2>
+    <section className={`relative w-full overflow-hidden py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 8)}`}>
+      {/* Full-bleed model image on the right with fog into content */}
+      <div className="pointer-events-none absolute inset-y-0 right-0 hidden w-[58%] lg:block" aria-hidden="true">
+        <Image src={modelImage} alt="" fill unoptimized className="object-cover object-right" sizes="(min-width: 1024px) 58vw, 100vw" />
+        <div
+          className="absolute inset-0"
+          style={{
+            background: `linear-gradient(90deg, rgba(${fogRgb},0.98) 0%, rgba(${fogRgb},0.88) 22%, rgba(${fogRgb},0.45) 48%, rgba(${fogRgb},0.12) 72%, transparent 100%)`,
+          }}
+        />
+      </div>
 
-            <div className="mt-5 flex flex-col gap-4">
-              {variantPanels}
-              {scopeNoteBlock}
-            </div>
-          </div>
+      <div className="relative z-10 mx-auto w-full max-w-8xl px-4 md:px-8">
+        <div className="max-w-[720px] lg:max-w-[58%]">
+          <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
+            Core Variants
+          </h2>
+          <SectionLabel isDark={isDark} />
 
-          <div className="relative hidden min-h-[300px] lg:block">
-            <Image src="/right.webp" alt="" fill className="object-contain object-right" sizes="(min-width: 1024px) 40vw, 100vw" />
+          <div className="mt-5 flex flex-col gap-4">
+            {variantPanels}
+            {scopeNoteBlock}
           </div>
         </div>
       </div>

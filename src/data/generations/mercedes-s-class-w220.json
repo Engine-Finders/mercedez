@@ -509,37 +509,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM648.960 (S 320 CDI, facelift)",
         "quote": "Mercedes' improved 3.2‑litre straight‑six diesel, introduced with the 2002 facelift, replaced the problematic OM613 with a more refined and reliable unit. It delivers 204 bhp with strong low‑end torque and better fuel economy than its predecessor.",
-        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage luxury motoring."
+        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage luxury motoring.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M113.966 (S 500 4MATIC)",
         "quote": "Mercedes' 5.0‑litre V8, mated to the 4MATIC all‑wheel drive system, delivers 306 bhp with a silky, effortless character. The M113 is one of Mercedes' most robust V8 engines, with fewer of the issues that plague the M137 V12.",
-        "whoItsFor": "buyers who want V8 power and all‑weather capability."
+        "whoItsFor": "buyers who want V8 power and all‑weather capability.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M137.970/980 (S 600 / S 63 AMG)",
         "quote": "The M137 V12 has gone on to be regarded as one of Mercedes‑Benz's least reliable engines ever made. Along with a host of other issues, one of the main concerns is cylinder wall deformation, allowing oil to pass into the combustion chamber. The 6.3‑litre S 63 AMG variant is even more problematic.",
-        "whoItsFor": "collectors with deep pockets and a specialist mechanic on speed dial."
+        "whoItsFor": "collectors with deep pockets and a specialist mechanic on speed dial.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M275.950 (S 600, facelift) - twin‑turbo and cooling system",
         "quote": "The biturbo V12 is complex and costly to maintain. Turbocharger failure, cooling system leaks, and ignition coil issues are all common - and all expensive to repair.",
-        "whoItsFor": "buyers who want V12 flagship status and can afford the premium running costs."
+        "whoItsFor": "buyers who want V12 flagship status and can afford the premium running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM648.960 (S 320 CDI)",
         "quote": "The facelift diesel offers the best balance of performance, economy (up to 34 mpg), and reliability. It's the sweet spot in the W220 range.",
-        "whoItsFor": "high‑mileage drivers and those who want S‑Class luxury without V12 running costs."
+        "whoItsFor": "high‑mileage drivers and those who want S‑Class luxury without V12 running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M113.986 (S 55 AMG)",
         "quote": "The supercharged 5.4‑litre V8 delivers 360 bhp with genuine AMG performance. It's often overlooked in favour of the V12 models but offers a more reliable and engaging driving experience.",
-        "whoItsFor": "buyers who want AMG performance without the V12's reliability headaches."
+        "whoItsFor": "buyers who want AMG performance without the V12's reliability headaches.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -659,7 +665,8 @@
         "cta": {
           "label": "Compare M137 engine prices for your W220 V12 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -672,7 +679,8 @@
         "cta": {
           "label": "Compare OM613 engine prices for your W220 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -685,7 +693,8 @@
         "cta": {
           "label": "Compare M113 engine prices for your W220 V8 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -698,7 +707,8 @@
         "cta": {
           "label": "Compare M275 engine prices for your W220 V12 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -812,7 +822,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the W220 shares its platform with the C215 CL‑Class, so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "S 320 CDI",

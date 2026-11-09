@@ -25,6 +25,7 @@ import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
 
 const VERDICT_STYLE = {
@@ -225,7 +226,7 @@ function LinksCard({ data, isDark }) {
 export default function HomeSec6({ data }) {
   const { theme } = useTheme();
   const isDark = theme === "dark";
-  const headerImage = data.headerImage || { src: "/sec2-bg.webp", alt: "" };
+  const headerImage = data.headerImage || { src: "/Amg-gt.webp", alt: "" };
 
   return (
     <section className={`relative overflow-hidden ${homeSectionBg(isDark, 6)}`}>
@@ -251,6 +252,11 @@ export default function HomeSec6({ data }) {
             <DecisionMatrix matrix={data.matrix} isDark={isDark} />
             <div className="grid gap-3 md:gap-4">
               <RuleCard data={data.ruleOfThumb} isDark={isDark} />
+              <SectionQuoteCta
+                label="Get a Mercedes-Benz Engine Quote"
+                support="Compare replacement costs against your Mercedes-Benz's value before deciding on your next step."
+                className="mt-0"
+              />
               <LinksCard data={data.deeperLinks} isDark={isDark} />
             </div>
           </div>

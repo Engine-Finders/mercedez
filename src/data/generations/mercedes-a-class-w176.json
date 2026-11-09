@@ -407,37 +407,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM651.901",
         "quote": "The 1.8-litre OM651 is the sweet spot in the W176 diesel range - no timing chain tensioner issues, no injector seal 'Black Death' that plagued older CDI units, and a genuine 150,000-mile-plus lifespan with routine servicing. The 2.2-litre OM651.930 in the A220 d is equally robust.",
-        "whoItsFor": "buyers who want a diesel without the entry-level OM607's limitations."
+        "whoItsFor": "buyers who want a diesel without the entry-level OM607's limitations.",
+        "image": "/cars/a-class-w176 lci-a 45 amg-performance hatchback-2015–2018-special-obsidian black metallic-facelifted amg exterior-a-class w176 lci a 45 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M270.920 (A250)",
         "quote": "The 2.0-litre turbo M270 delivers 211bhp in a genuinely refined, responsive package. It's the engine that convinced the world Mercedes could do a proper premium hatchback - smooth, punchy, and without the M133's eye-watering running costs.",
-        "whoItsFor": "buyers who want the performance of a hot hatch without the AMG tax."
+        "whoItsFor": "buyers who want the performance of a hot hatch without the AMG tax.",
+        "image": "/cars/a-class-w176 lci-standard amg line-hatchback-2015–2018-new-designo hyacinth red metallic-major facelift-a-class w176 lci std amg-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM607.951",
         "quote": "Renault-sourced 1.5-litre diesel. Adequate economy but feels underpowered in the W176's heavier body and lacks the OM651's refinement and durability. Injector and EGR issues are more common than on the Mercedes-built OM651.",
-        "whoItsFor": "budget-conscious buyers prioritising fuel economy over everything else."
+        "whoItsFor": "budget-conscious buyers prioritising fuel economy over everything else.",
+        "image": "/cars/a-class-w176-a 45 amg-performance hatchback-2013–2015-special-brilliant blue metallic-unique amg front rear body treatment-a-class w176 a 45 amg (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M133.980 (A45 AMG)",
         "quote": "When a 360–381bhp four-cylinder goes wrong, it goes wrong expensively. Turbocharger failure, high-pressure fuel pump issues, and the sheer labour intensity of working in the AMG engine bay mean replacement costs frequently hit five figures. The A45's M133 is a masterpiece - but it's a masterpiece with a maintenance bill to match.",
-        "whoItsFor": "buyers with deep pockets and a full AMG service history."
+        "whoItsFor": "buyers with deep pockets and a full AMG service history.",
+        "image": "/cars/a-class-w176-a 45 amg-performance hatchback-2013–2015-special-brilliant blue metallic-unique amg front rear body treatment-a-class w176 a 45 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M270.910 (A180/A200)",
         "quote": "The 1.6-litre turbo M270 offers genuinely good economy, adequate power (122–156bhp), and the same fundamental robustness as its 2.0-litre sibling. It's the volume engine for good reason - cheap to run, cheap to replace, and more than enough for UK roads.",
-        "whoItsFor": "buyers who want a premium hatchback without the premium running costs."
+        "whoItsFor": "buyers who want a premium hatchback without the premium running costs.",
+        "image": "/cars/a-class-w176-amg sport amg line-hatchback-2012–2015-new-iridium silver metallic-distinct amg exterior package-a-class w176 amg sport amg l-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM651.930 (A220 d 4MATIC)",
         "quote": "The 2.2-litre diesel is rare on UK roads compared to the volume OM651.901 and M270 models, but it offers 177bhp, all-wheel-drive traction, and genuine longevity. It's the W176's sleeper pick - a diesel that drives like a petrol.",
-        "whoItsFor": "buyers who need diesel economy with four-wheel-drive capability."
+        "whoItsFor": "buyers who need diesel economy with four-wheel-drive capability.",
+        "image": "/cars/a-class-w176-standard style-hatchback-2012–2015-new-hyacinth red metallic-major transition to low, sporty hatchback-a-class w176 std style-45-angle-front-view.webp"
       }
     ]
   },
@@ -535,7 +541,8 @@
         "cta": {
           "label": "Compare OM607 engine prices for your W176 A180 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w176 lci-a 45 amg-performance hatchback-2015–2018-special-obsidian black metallic-facelifted amg exterior-a-class w176 lci a 45 amg-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -563,7 +570,8 @@
         "cta": {
           "label": "Compare M270 engine prices for your W176 A250 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w176 lci-standard amg line-hatchback-2015–2018-new-designo hyacinth red metallic-major facelift-a-class w176 lci std amg-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -591,7 +599,8 @@
         "cta": {
           "label": "Compare M133 engine prices for your W176 A45 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w176-a 45 amg-performance hatchback-2013–2015-special-brilliant blue metallic-unique amg front rear body treatment-a-class w176 a 45 amg (2)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -619,7 +628,8 @@
         "cta": {
           "label": "Compare W176 rear subframe repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w176-a 45 amg-performance hatchback-2013–2015-special-brilliant blue metallic-unique amg front rear body treatment-a-class w176 a 45 amg-45-angle-front-view.webp"
       }
     ]
   },
