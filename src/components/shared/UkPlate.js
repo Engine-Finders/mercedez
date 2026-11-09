@@ -15,7 +15,7 @@ export default function UkPlate({ value, editable = true, onChange, inputId, cla
 
   return (
     <div
-      className={`flex flex-1 overflow-hidden rounded-md border border-[#1a1a1a] bg-[#F7CE45] shadow-sm ${
+      className={`flex min-w-0 overflow-hidden rounded-md border border-[#1a1a1a] bg-[#F7CE45] shadow-sm ${
         isHero ? "min-h-[3.25rem] sm:min-h-14" : "min-h-11"
       } ${className}`}
     >
@@ -51,7 +51,7 @@ export default function UkPlate({ value, editable = true, onChange, inputId, cla
             isHero ? "text-xl sm:text-2xl" : "text-lg sm:text-xl"
           }`}
         >
-          {formatPlate(value) || "—"}
+          {formatPlate(value) || "-"}
         </div>
       )}
     </div>

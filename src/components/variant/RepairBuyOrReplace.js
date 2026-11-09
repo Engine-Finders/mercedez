@@ -102,7 +102,7 @@ export default function RepairBuyOrReplace({ data }) {
       <SectionHeaderBand
         title={data.h2}
         subHeadline="Every engine has a story. Make the right call with clear data, real-world costs, and honest guidance from UK specialists."
-        image={{ src: "/sec2-bg.webp", alt: "" }}
+        image={{ src: "/Amg-gt.webp", alt: "" }}
         isDark={isDark}
         panelBg={sectionPanelBg(isDark, 6)}
         panelRgb={sectionPanelRgb(isDark, 6)}

@@ -262,7 +262,8 @@
         "cta": {
           "label": "Compare C204 M271 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -290,7 +291,8 @@
         "cta": {
           "label": "Compare C204 OM651 injector repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -318,7 +320,8 @@
         "cta": {
           "label": "Compare C204 M276 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -346,7 +349,8 @@
         "cta": {
           "label": "Compare C204 M274 water pump repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -420,7 +424,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C 200 CDI",

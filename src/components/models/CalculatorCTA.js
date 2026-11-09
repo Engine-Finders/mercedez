@@ -5,6 +5,7 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
+import { modelCtaCopy } from "@/lib/ctaLabels";
 import {
   sectionBody,
   sectionButton,
@@ -12,7 +13,6 @@ import {
   sectionEyebrow,
   sectionH2,
   sectionH3,
-  sectionH5,
   sectionSmall,
   sectionTableText,
 } from "@/components/models/sectionTypography";
@@ -116,7 +116,7 @@ function ArrowIcon({ className = "h-7 w-7" }) {
   );
 }
 
-function PrimaryPath({ path, modelName, isDark }) {
+function PrimaryPath({ pathLabel, modelName, isDark }) {
   return (
     <article className="rounded-md bg-[var(--color-surface-raised)] p-3.5 shadow-[0_10px_28px_var(--color-shadow)] md:p-4">
       <span className={`inline-flex rounded px-2 py-1 font-bold uppercase leading-none text-white md:px-2.5 md:py-1 ${sectionEyebrow}`} style={{ backgroundColor: GOLD }}>
@@ -128,23 +128,23 @@ function PrimaryPath({ path, modelName, isDark }) {
             <span style={{ color: GOLD }}>Know</span> your engine?
           </h3>
           <p className={`mt-2 max-w-[420px] text-[var(--color-text-muted)] ${sectionDescription}`}>
-            Launch the diagnostic calculator with <span dangerouslySetInnerHTML={{ __html: modelName }} /> pre-selected.
+            Know your engine? Explore likely faults and compare repair-versus-replacement costs.
           </p>
         </div>
         <CircleIcon name="engineSearch" isDark={isDark} large className="order-1 md:order-2" />
       </div>
 
       <Link
-        href={path?.href || "/fault-diagnostic-calculator"}
+        href="/quote"
         className={`mt-3.5 flex min-h-12 items-center justify-between gap-2.5 rounded-md px-3.5 py-2.5 font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] transition-all duration-200 hover:opacity-90 ${sectionButton}`}
         style={{ backgroundColor: GOLD }}
       >
         <span className="flex min-w-0 items-center gap-2.5">
           <Icon name="calculator" isDark className="h-8 w-8 shrink-0" />
           <span className="min-w-0">
-            <span className="block leading-tight">Launch Diagnostic Calculator</span>
+            <span className="block leading-tight">{pathLabel}</span>
             <span className={`mt-0.5 block font-normal leading-tight ${sectionSmall}`}>
-              <span dangerouslySetInnerHTML={{ __html: modelName }} /> pre-selected
+              <span dangerouslySetInnerHTML={{ __html: modelName }} /> quote journey
             </span>
           </span>
         </span>
@@ -160,9 +160,7 @@ function PrimaryPath({ path, modelName, isDark }) {
   );
 }
 
-function SecondaryPath({ path, isDark }) {
-  const note = "Identification is the first step inside the tool.";
-
+function SecondaryPath({ pathLabel, isDark }) {
   return (
     <article className="rounded-md bg-[var(--color-surface-raised)] p-3.5 shadow-[0_10px_28px_var(--color-shadow)] md:p-4">
       <span className={`inline-flex rounded px-2 py-1 font-bold uppercase leading-none text-white md:px-2.5 md:py-1 ${sectionEyebrow}`} style={{ backgroundColor: GOLD }}>
@@ -173,21 +171,23 @@ function SecondaryPath({ path, isDark }) {
           <h3 className={`font-lora max-w-[420px] font-medium text-[var(--color-text)] ${sectionH3}`}>
             <span style={{ color: GOLD }}>Not sure</span> which engine you have?
           </h3>
-          <p className={`mt-2 text-[var(--color-text-muted)] ${sectionDescription}`}>We&apos;ll identify it first.</p>
+          <p className={`mt-2 text-[var(--color-text-muted)] ${sectionDescription}`}>
+            Not sure which engine you have? Identify your engine code before starting diagnosis.
+          </p>
         </div>
         <CircleIcon name="documentSearch" isDark={isDark} large className="order-1 md:order-2" />
       </div>
 
       <Link
-        href={path?.href || "#"}
+        href="/quote"
         className={`mt-3.5 flex min-h-12 items-center justify-between gap-2.5 rounded-md border px-3.5 py-2.5 font-bold no-underline transition-all duration-200 hover:opacity-90 ${sectionButton}`}
         style={{ borderColor: GOLD, color: GOLD }}
       >
         <span className="flex min-w-0 items-center gap-2.5">
           <Icon name="engineQuestion" isDark={isDark} className="h-8 w-8 shrink-0" />
           <span className="min-w-0">
-            <span className="block leading-tight">Identify My Engine First</span>
-            <span className={`mt-0.5 block font-normal leading-tight text-[var(--color-text-muted)] ${sectionSmall}`}>Then launch the diagnostic calculator</span>
+            <span className="block leading-tight">{pathLabel}</span>
+            <span className={`mt-0.5 block font-normal leading-tight text-[var(--color-text-muted)] ${sectionSmall}`}>Then continue to your quote</span>
           </span>
         </span>
         <ArrowIcon className="h-5 w-5 shrink-0" />
@@ -198,9 +198,9 @@ function SecondaryPath({ path, isDark }) {
           <Icon name="info" isDark className="h-5 w-5" />
         </span>
         <p className={`text-[var(--color-text)] ${sectionBody}`}>
-          <strong className="font-bold" dangerouslySetInnerHTML={{ __html: note }} />
+          <strong className="font-bold">Identification is the first step.</strong>
           <br />
-          <span className="text-[var(--color-text-muted)]">We&apos;ll pinpoint your exact engine code before running the diagnostics.</span>
+          <span className="text-[var(--color-text-muted)]">We&apos;ll pinpoint your exact engine code before guiding your next step.</span>
         </p>
       </div>
     </article>
@@ -221,7 +221,7 @@ function SmartDecision({ isDark }) {
   );
 }
 
-export default function CalculatorCTA({ data, heroImage }) {
+export default function CalculatorCTA({ data, heroImage, modelSlug = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
@@ -229,7 +229,7 @@ export default function CalculatorCTA({ data, heroImage }) {
   const title = splitTitle(data.h2);
   const intro = introParts(data.intro);
   const modelName = modelNameFromTitle(data.h2);
-  const paths = data.paths || [];
+  const cta = modelCtaCopy(modelSlug);
   const bgSrc = heroImage?.src || "/model/Hero-bg-image.webp";
   const bgAlt = heroImage?.alt || "";
 
@@ -286,30 +286,8 @@ export default function CalculatorCTA({ data, heroImage }) {
         </div>
 
         <div className="mt-5 grid gap-4 lg:grid-cols-2">
-          <PrimaryPath path={paths[0]} modelName={modelName} isDark={isDark} />
-          <SecondaryPath path={paths[1]} isDark={isDark} />
-        </div>
-
-        <div className="mt-5 flex flex-col gap-4 rounded-md bg-[#0a0a0a] p-4 text-white shadow-[0_12px_32px_var(--color-shadow)] md:flex-row md:items-center md:justify-between md:p-5">
-          <div className="min-w-0 max-w-[700px]">
-            <div className="flex items-center gap-3.5">
-              <span className="flex h-14 w-14 shrink-0 items-center justify-center md:h-16 md:w-16">
-                <Icon name="target" isDark className="h-11 w-11 md:h-12 md:w-12" />
-              </span>
-              <h3 className={`font-lora font-medium leading-tight ${sectionH5}`}>Stop guessing. Get the right answer.</h3>
-            </div>
-            <p className={`mt-2.5 text-white/90 ${sectionDescription}`}>
-              Our calculator compares real repair and replacement costs against your car&apos;s value - so you know the financially smarter move.
-            </p>
-          </div>
-          <Link
-            href={paths[0]?.href || "/fault-diagnostic-calculator"}
-            className={`inline-flex min-h-14 shrink-0 items-center justify-center gap-4 rounded-md px-5 py-3.5 font-bold text-white no-underline shadow-[0_12px_28px_rgba(0,0,0,0.28)] transition-all duration-200 hover:opacity-90 md:min-w-[360px] ${sectionButton}`}
-            style={{ backgroundColor: GOLD }}
-          >
-            Start Your Verdict Now
-            <ArrowIcon className="h-6 w-6" />
-          </Link>
+          <PrimaryPath pathLabel={cta.path1} modelName={modelName} isDark={isDark} />
+          <SecondaryPath pathLabel={cta.path2} isDark={isDark} />
         </div>
       </div>
     </section>

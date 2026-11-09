@@ -348,37 +348,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM608.915 1.5‑litre diesel (112 CDI, 116hp)",
         "quote": "The highest‑output 1.5 dCi diesel delivers 116hp and 260Nm of torque - ample for the W420's van and MPV duties. It's the most refined diesel in the range, with a proven track record across the Renault‑Nissan‑Mercedes Alliance. Injector and turbo maintenance are the main watchpoints.",
-        "whoItsFor": "buyers who want maximum diesel performance from the W420 range."
+        "whoItsFor": "buyers who want maximum diesel performance from the W420 range.",
+        "image": "/cars/citan-w420-ecitan-electric van-2022–-group-granite green-same physical van body-citan w420 ecitan-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M282.914 1.3‑litre turbo (113, 131hp)",
         "quote": "The 1.3‑litre turbo petrol delivers 131hp and 240Nm - genuinely brisk for a compact van. Jointly developed by Renault‑Nissan‑Mitsubishi and Mercedes‑Benz, it's a thoroughly modern engine with good refinement and proven reliability. Timing chain maintenance is the only real demand.",
-        "whoItsFor": "buyers who want petrol refinement without the diesel's DPF complications."
+        "whoItsFor": "buyers who want petrol refinement without the diesel's DPF complications.",
+        "image": "/cars/citan-w420-panel van-van-2021–-new-jupiter red-new generation-citan w420 panel-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM608.915 1.5‑litre diesel (108 CDI, 75hp)",
         "quote": "The lowest‑output diesel is underpowered for the W420's size - 75hp struggles with a full load. Injector and turbo issues are documented on higher‑mileage examples, and the DPF can clog on urban‑only vans.",
-        "whoItsFor": "buyers on a tight budget who prioritise fuel economy over performance."
+        "whoItsFor": "buyers on a tight budget who prioritise fuel economy over performance.",
+        "image": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM608.915 1.5‑litre diesel (injector/turbo failure)",
         "quote": "The Renault‑sourced 1.5 dCi is generally robust but injector and turbo failures are documented on higher‑mileage examples. A full recon is a significant four‑figure bill, and DPF issues add to the running costs.",
-        "whoItsFor": "buyers who understand diesel maintenance costs and are prepared for potential injector or turbo work."
+        "whoItsFor": "buyers who understand diesel maintenance costs and are prepared for potential injector or turbo work.",
+        "image": "/cars/citan-w420-ecitan-electric van-2022–-group-granite green-same physical van body-citan w420 ecitan-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M282.914 1.3‑litre turbo (110, 102hp)",
         "quote": "The entry‑level petrol turbo delivers 102hp - more than enough for urban and light commercial use. It avoids the diesel's DPF complications and offers lower running costs than the higher‑output 113. The M282 is a well‑proven unit across the Alliance.",
-        "whoItsFor": "buyers who want petrol simplicity without the diesel's complexities."
+        "whoItsFor": "buyers who want petrol simplicity without the diesel's complexities.",
+        "image": "/cars/citan-w420-panel van-van-2021–-new-jupiter red-new generation-citan w420 panel-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM608.915 1.5‑litre diesel (110 CDI, 95hp)",
         "quote": "The mid‑range diesel is often overlooked in favour of the 116hp 112 CDI - but 95hp and 260Nm deliver solid real‑world performance for most W420 duties, with slightly lower purchase costs than the top‑spec diesel.",
-        "whoItsFor": "buyers who want diesel torque without paying for the highest‑output variant."
+        "whoItsFor": "buyers who want diesel torque without paying for the highest‑output variant.",
+        "image": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp"
       }
     ]
   },
@@ -453,7 +459,8 @@
         "cta": {
           "label": "Compare OM608 engine prices for your W420 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/citan-w420-ecitan-electric van-2022–-group-granite green-same physical van body-citan w420 ecitan-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -466,7 +473,8 @@
         "cta": {
           "label": "Compare DPF service prices for your W420 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/citan-w420-panel van-van-2021–-new-jupiter red-new generation-citan w420 panel-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -479,7 +487,8 @@
         "cta": {
           "label": "Compare M282 engine prices for your W420 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/citan-w420-tourer-mpv-2021–-new-steel blue-passenger body-citan w420 tourer-45-angle-front-view.webp"
       }
     ]
   },

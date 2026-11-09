@@ -457,7 +457,8 @@
         "cta": {
           "label": "Compare M166 engine prices for your W414 Vaneo →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -485,7 +486,8 @@
         "cta": {
           "label": "Compare OM668 engine prices for your W414 Vaneo →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -513,7 +515,8 @@
         "cta": {
           "label": "Compare W414 engine mount replacement quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

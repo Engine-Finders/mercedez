@@ -575,37 +575,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM648.961 (E 320 CDI, pre‑facelift)",
         "quote": "The 3.2‑litre straight‑six diesel - 204 bhp, 500 Nm of torque, and the most reliable diesel ever fitted to a W211. The OM648/722.6 drivetrain combo is absolutely bulletproof - examples regularly exceed 400,000 miles on the original engine and gearbox. The OM648 is widely considered one of the best engines Mercedes ever built.",
-        "whoItsFor": "buyers who want bulletproof diesel reliability and effortless six‑cylinder torque - the one to buy."
+        "whoItsFor": "buyers who want bulletproof diesel reliability and effortless six‑cylinder torque - the one to buy.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112.921 (E 320, pre‑facelift)",
         "quote": "The 3.2‑litre V6 - 224 bhp, 315 Nm of torque, and the last of Mercedes' simple 3‑valve‑per‑cylinder V6s. No balance‑shaft issues, no SBC problems (on the engine itself), just smooth, reliable V6 power. The M112 is widely considered one of the best engines Mercedes ever built. If you can find one with a clean history, the powertrain itself is unlikely to give you grief.",
-        "whoItsFor": "buyers who want pre‑facelift V6 refinement without the M272's balance‑shaft concerns."
+        "whoItsFor": "buyers who want pre‑facelift V6 refinement without the M272's balance‑shaft concerns.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272.940 / .960 (E 280 / E 350, facelift, 2005–2007)",
         "quote": "The M272 V6 is a significant step forward in power and refinement, but early units (2005–2007, up to engine number 30 468 993) suffer from balance‑shaft sprocket wear - a £2,000‑£3,000 repair that requires engine removal. A worn sprocket can destroy the engine if ignored. The 3.5‑litre E 350 is the worst affected.",
-        "whoItsFor": "buyers who understand the M272's reputation and budget for balance‑shaft replacement - or buy a 2008‑2009 car where the issue was resolved."
+        "whoItsFor": "buyers who understand the M272's reputation and budget for balance‑shaft replacement - or buy a 2008‑2009 car where the issue was resolved.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156.983 (E 63 AMG, facelift)",
         "quote": "The 6.2‑litre naturally aspirated V8 is a masterpiece, but when it fails - cylinder head bolts (up to engine code 156983 60 060658), camshaft adjusters, or valve stem seals - the repair bills are in a different league. The M156 is definitely less reliable and higher maintenance than the M113K.",
-        "whoItsFor": "collectors and enthusiasts who understand that 514 bhp comes with a six‑figure maintenance budget."
+        "whoItsFor": "collectors and enthusiasts who understand that 514 bhp comes with a six‑figure maintenance budget.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM646.961 (E 220 CDI)",
         "quote": "The 2.1‑litre four‑cylinder diesel - 134–150 bhp, 340 Nm of torque, and the most common diesel in the UK W211 parc. It's a reliable, albeit slow, lump, and the 5‑speed 722.6 gearbox will also go on forever. The cheapest W211 to run and insure.",
-        "whoItsFor": "buyers who want E‑Class prestige without the six‑cylinder running costs."
+        "whoItsFor": "buyers who want E‑Class prestige without the six‑cylinder running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M112.912 (E 240, pre‑facelift)",
         "quote": "The 2.6‑litre V6 is often overshadowed by the 3.2‑litre E 320, but it's the same durable <a  href='https://mercedesengines.uk/engine/m112'>M112</a> family with lower running costs. No balance‑shaft issues, no SBC problems - just honest V6 motoring. The M112 and M113 need some maintenance, being 14 or more years old, but they remain some of the most reliable Mercedes engines ever built.",
-        "whoItsFor": "buyers who want V6 refinement on a budget."
+        "whoItsFor": "buyers who want V6 refinement on a budget.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -765,7 +771,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -778,7 +785,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -791,7 +799,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -804,7 +813,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -934,7 +944,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline - no Engine Page exists yet for any M271, M112, M272, <Link href='https://mercedesengines.uk/engine/m113'>M113</Link>, M156, OM646, <a  href='https://mercedesengines.uk/engine/om646-om647'>OM647</a>, OM648 or OM642 family. These costs are derived from the EM_Proprietary_Data Table A - Engine Replacement Economics for comparable engines, adjusted for the W211's executive‑car labour access and marked [MB-QUOTE] accordingly. All figures are provisional pending dedicated Engine Pages."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 220 Diesel",

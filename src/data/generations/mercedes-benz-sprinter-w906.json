@@ -322,7 +322,8 @@
         "cta": {
           "label": "Compare W906 OM642 oil cooler seal repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -350,7 +351,8 @@
         "cta": {
           "label": "Compare W906 injector and EGR repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -378,7 +380,8 @@
         "cta": {
           "label": "Compare W906 M271 timing chain repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -406,7 +409,8 @@
         "cta": {
           "label": "Compare W906 M272 balance shaft repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -504,7 +508,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "209 CDI",

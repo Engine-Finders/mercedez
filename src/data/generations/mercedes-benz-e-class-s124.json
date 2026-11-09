@@ -336,37 +336,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM603 3.0‑litre six‑cylinder diesel (300 TD, 110hp / 300 TD Turbo, 143–147hp)",
         "quote": "The cast‑iron block, pre‑combustion chamber diesel six that built Mercedes' reputation. No turbo on early cars, no DPF, no EGR - just mechanical fuel injection and a documented 500,000‑mile lifespan. Head gasket issues are virtually unheard of with proper coolant maintenance.",
-        "whoItsFor": "buyers who want the most durable diesel engine Mercedes ever built."
+        "whoItsFor": "buyers who want the most durable diesel engine Mercedes ever built.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M104 3.0‑litre 24‑valve six (300 TE‑24, 220hp)",
         "quote": "The multi‑valve evolution of the M103 - smoother, more powerful, and with a genuine 220hp that transforms the S124 into a rapid estate. The M104 is a stout motor that benefits from a well‑documented maintenance regime.",
-        "whoItsFor": "enthusiasts who want six‑cylinder refinement and genuine performance."
+        "whoItsFor": "enthusiasts who want six‑cylinder refinement and genuine performance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M102 2.0‑litre carburettor four (early 200 TE)",
         "quote": "The carburettor is the weak link - early cars suffer from cold‑start and idle issues as the Stromberg unit ages. The later KE‑Jetronic injected versions are more reliable but still not as durable as the M111 that replaced them.",
-        "whoItsFor": "buyers on a tight budget who are comfortable with classic‑car carburettor maintenance."
+        "whoItsFor": "buyers on a tight budget who are comfortable with classic‑car carburettor maintenance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M104.992 AMG 3.6 (E 36 T AMG, 272hp)",
         "quote": "The rarest S124 engine - a 3.6‑litre hand‑built AMG unit with 272hp. Parts are scarce, specialist knowledge is limited, and a full rebuild is a five‑figure bill.",
-        "whoItsFor": "collectors and AMG enthusiasts with deep pockets."
+        "whoItsFor": "collectors and AMG enthusiasts with deep pockets.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM602 2.5‑litre five‑cylinder diesel (250 TD, 90hp / 250 TD Turbo, 126hp)",
         "quote": "The five‑cylinder diesel is the Goldilocks engine - more refined than the four, more economical than the six, and the turbo version delivers 126hp with genuine usability. The OM602 is bulletproof and parts remain widely available.",
-        "whoItsFor": "buyers who want diesel durability without the six‑cylinder's running costs."
+        "whoItsFor": "buyers who want diesel durability without the six‑cylinder's running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M111 2.2‑litre four (E 220 T, 150hp)",
         "quote": "The post‑1993 M111 is one of Mercedes' most durable modern four‑cylinders - 16 valves, 150hp, and none of the carburettor or early KE‑Jetronic complications. It's the sensible choice in the petrol range, often overlooked in favour of the sixes.",
-        "whoItsFor": "buyers who want modern petrol reliability without the six‑cylinder's fuel consumption."
+        "whoItsFor": "buyers who want modern petrol reliability without the six‑cylinder's fuel consumption.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -513,7 +519,8 @@
         "cta": {
           "label": "Compare OM60x engine prices for your S124 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -526,7 +533,8 @@
         "cta": {
           "label": "Compare M103/M104 engine prices for your S124 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -539,7 +547,8 @@
         "cta": {
           "label": "Compare M102 engine prices for your S124 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -552,7 +561,8 @@
         "cta": {
           "label": "Compare S124 suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -674,7 +684,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "200 T D",

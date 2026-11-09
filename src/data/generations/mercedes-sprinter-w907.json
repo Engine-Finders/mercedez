@@ -329,25 +329,29 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (315/317/319 CDI)",
         "quote": "Mercedes' 2.0‑litre four‑cylinder diesel, introduced in 2020, replaced the ageing OM651 with a lighter, more efficient design. It delivers 150–190 bhp with strong low‑end torque and significantly improved refinement.",
-        "whoItsFor": "fleet buyers and commercial operators who want the latest Mercedes diesel technology."
+        "whoItsFor": "fleet buyers and commercial operators who want the latest Mercedes diesel technology.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM642.899 (319/419/519 CDI, 2018–2021)",
         "quote": "The V6 diesel is smooth and powerful but carries the same oil cooler seal and swirl flap issues that affect the OM642 across the Mercedes range. Repairs are labour‑intensive and costly. The OM642 was phased out after 2021 for good reason.",
-        "whoItsFor": "buyers who need V6 torque and can afford the premium maintenance."
+        "whoItsFor": "buyers who need V6 torque and can afford the premium maintenance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM651.958 (311/314/316 CDI, 2018–2020)",
         "quote": "The 2.1‑litre four‑cylinder diesel offers proven durability and widespread parts availability. It's the backbone of the Sprinter range and remains a solid choice for high‑mileage operations.",
-        "whoItsFor": "buyers on a budget who prioritise parts availability and established reliability."
+        "whoItsFor": "buyers on a budget who prioritise parts availability and established reliability.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM654.920 (315 CDI)",
         "quote": "The 150 bhp version of the 2.0‑litre diesel offers the best balance of performance and economy. It's often overlooked in favour of the higher‑output variants but delivers genuine real‑world efficiency.",
-        "whoItsFor": "operators who want modern engine technology without the premium of the top‑spec variant."
+        "whoItsFor": "operators who want modern engine technology without the premium of the top‑spec variant.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -419,7 +423,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your W907 Sprinter →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -432,7 +437,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your W907 Sprinter →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -445,7 +451,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your W907 Sprinter →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -487,7 +494,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the W907 is a standalone commercial vehicle platform with specific engine‑bay access considerations. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "311 CDI",

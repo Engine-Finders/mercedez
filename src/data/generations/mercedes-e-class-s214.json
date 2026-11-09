@@ -449,37 +449,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM656.XXX (E 450d, 3.0-litre straight-six diesel)",
         "quote": "The 3.0-litre OM656 is one of the most powerful diesel engines Mercedes has ever produced - 367 hp and 750 Nm of torque, with 48V mild-hybrid assistance. It's a refined, smooth straight-six that delivers effortless performance while maintaining genuine economy. Introduced in 2017, the OM656 has proven itself as a robust, durable engine.",
-        "whoItsFor": "buyers who want effortless diesel torque and six-cylinder refinement without the complexity of a V8."
+        "whoItsFor": "buyers who want effortless diesel torque and six-cylinder refinement without the complexity of a V8.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M256.830 (E 450, 3.0-litre straight-six petrol)",
         "quote": "The 3.0-litre M256 straight-six is a masterpiece of modern engineering - 381 hp, 500 Nm of torque, and the smoothest six-cylinder petrol Mercedes has made since the <a  href='https://mercedesengines.uk/engine/m104'>M104</a>. Introduced in 2017, it replaced the M276 V6 and has proven itself as a refined, reliable powerplant. The 48V mild-hybrid system and integrated starter-generator deliver seamless start-stop and electric boost.",
-        "whoItsFor": "buyers who want the pinnacle of petrol refinement in an E-Class estate."
+        "whoItsFor": "buyers who want the pinnacle of petrol refinement in an E-Class estate.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M254-based PHEVs (E 300e, E 350e, E 400e)",
         "quote": "The M254 four-cylinder petrol is a newer engine, and the complex 25.4 kWh plug-in hybrid system adds significant complexity. The combination of combustion engine, electric motor, and hybrid battery creates more potential failure points than a conventional powertrain. While early signs are positive, long-term reliability data is limited.",
-        "whoItsFor": "buyers who prioritise low company-car tax and electric commuting over long-term simplicity."
+        "whoItsFor": "buyers who prioritise low company-car tax and electric commuting over long-term simplicity.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M256-based AMG E 53 Hybrid",
         "quote": "The AMG E 53 Hybrid's powertrain is the most complex ever fitted to an E-Class estate - a 3.0-litre M256M straight-six with an electric auxiliary compressor, a 161 hp electric motor, and a 25.4 kWh battery, producing 604 hp combined. When something goes wrong, it goes wrong expensively. The electric turbocharger, the hybrid system, and the sheer labour intensity of working on this engine mean replacement costs will be eye-watering.",
-        "whoItsFor": "buyers with deep pockets who want the most powerful E-Class estate ever."
+        "whoItsFor": "buyers with deep pockets who want the most powerful E-Class estate ever.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.820 (E 220d, 2.0-litre four-cylinder diesel)",
         "quote": "The E 220d is the volume diesel for good reason - 197 hp, 440 Nm of torque, genuine 50+ mpg economy, and the same robust OM654 as the more powerful variants. It's cheaper to buy, cheaper to run, and cheaper to replace than the six-cylinder diesels. The sweet spot in the S214 range for most UK buyers.",
-        "whoItsFor": "buyers who want the best combination of economy, performance, and reliability in the S214 range."
+        "whoItsFor": "buyers who want the best combination of economy, performance, and reliability in the S214 range.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "OM654.820 (E 300de plug-in hybrid diesel)",
         "quote": "The E 300de is the most overlooked engine in the S214 range - a 2.0-litre OM654 diesel combined with a 129 hp electric motor and 25.4 kWh battery, delivering 313 hp combined and up to 71 miles of electric range. It's the ultimate company car choice - low BIK tax with diesel economy for long journeys.",
-        "whoItsFor": "company car drivers who need the lowest possible tax bills with genuine long-distance capability."
+        "whoItsFor": "company car drivers who need the lowest possible tax bills with genuine long-distance capability.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -585,7 +591,8 @@
         "cta": {
           "label": "Compare S214 48V battery replacement quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -613,7 +620,8 @@
         "cta": {
           "label": "Compare S214 PHEV battery health checks →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -641,7 +649,8 @@
         "cta": {
           "label": "Compare S214 electrical diagnostics →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -669,7 +678,8 @@
         "cta": {
           "label": "Compare S214 air suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -759,7 +769,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - S214 estate shares its MRA2-derived engine bay with the W214 saloon and X214 All-Terrain, so costs are inherited directly per the Authority Model, with no divergence note required. M256 AMG costs reflect AMG-specific parts, the electric auxiliary compressor, hybrid system components, and specialist labour requirements."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 220d",

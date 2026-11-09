@@ -455,31 +455,36 @@
         "slot": "Best Petrol Overall",
         "engine": "M276.955 (SLK 350, 3.5-litre V6)",
         "quote": "The 3.5-litre M276 V6 delivers 306 PS of naturally aspirated power - smooth, responsive, and with a sound that no turbocharged four can match. It's the R172's sweet spot: V6 refinement without the M152's running costs, and more reliable than the M271 four-cylinder. The M276 is a well-regarded engine with good reliability, though timing chain issues affect some examples.",
-        "whoItsFor": "buyers who want V6 smoothness and the classic roadster experience without AMG bills."
+        "whoItsFor": "buyers who want V6 smoothness and the classic roadster experience without AMG bills.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M271.860/M271.861 (SLK 200 / SLK 250, 2011–2015)",
         "quote": "The 1.8-litre M271 turbo four is a great engine - but it comes with known issues: timing chain stretch, camshaft adjuster wear, and oil leaks from the camshaft solenoid. The M274 that replaced it in the 2015 facelift is a much safer bet. If you're buying a pre-facelift SLK 200 or SLK 250, budget for timing-chain inspection.",
-        "whoItsFor": "buyers willing to accept higher maintenance costs for the pre-facelift experience."
+        "whoItsFor": "buyers willing to accept higher maintenance costs for the pre-facelift experience.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M152.980 (SLK 55 AMG, 5.5-litre V8)",
         "quote": "The 5.5-litre M152 V8 is a masterpiece - 422 PS of naturally aspirated AMG thunder, exclusive to the SLK 55 AMG. It features cylinder deactivation derived from Formula 1 technology and weighs just 187 kg. But when it fails, it fails expensively. V8-specific parts, AMG labour rates, and the sheer complexity of this engine mean replacement bills frequently hit five figures. It's the last naturally aspirated V8 SLK - treat it as the special car it is.",
-        "whoItsFor": "collectors and enthusiasts with deep pockets who want the last naturally aspirated V8 SLK."
+        "whoItsFor": "collectors and enthusiasts with deep pockets who want the last naturally aspirated V8 SLK.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M274.920 (SLC 200 / SLC 300, 2015–2020)",
         "quote": "The 2.0-litre M274 turbo four is a significant improvement over the M271 - 184 PS in the SLC 200 and 245 PS in the SLC 300, with 300 Nm and 370 Nm of torque respectively. It's more reliable, more responsive, and more efficient than the engine it replaced. The SLC 300 is the sweet spot - 245 PS in a lightweight roadster is more than enough for UK roads.",
-        "whoItsFor": "buyers who want the best combination of performance, reliability, and value in the R172 range."
+        "whoItsFor": "buyers who want the best combination of performance, reliability, and value in the R172 range.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M276.823 (AMG SLC 43, 3.0-litre twin-turbo V6)",
         "quote": "The 3.0-litre twin-turbo V6 in the AMG SLC 43 produces 367–390 PS - more than the SLK 55 AMG's 422 PS? No, but close, and with significantly better fuel economy. It replaced the M152 V8 in the facelift range and offers AMG performance without the V8's running costs. Often overlooked in favour of the V8, the SLC 43 is the smarter daily-driver choice.",
-        "whoItsFor": "buyers who want AMG performance with V6 running costs."
+        "whoItsFor": "buyers who want AMG performance with V6 running costs.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -577,7 +582,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your R172 SLK 200/250 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -605,7 +611,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your R172 SLK 350 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -633,7 +640,8 @@
         "cta": {
           "label": "Compare R172 Vario-roof repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -661,7 +669,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your R172 SLK 250 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 5,
@@ -689,7 +698,8 @@
         "cta": {
           "label": "Compare M152 engine prices for your R172 SLK 55 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -779,7 +789,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - R172 roadster shares its W204-derived engine bay with the C-Class, so costs are inherited directly per the Authority Model, with no divergence note required. AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "SLK 250 CDI",

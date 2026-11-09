@@ -395,37 +395,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654.920 (CLS 220 d)",
         "quote": "Mercedes' own 2.0‑litre four‑cylinder diesel, introduced in 2016, is the pick of the C257 diesel range - efficient, refined, and backed by a strong reliability record when serviced properly.",
-        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage cruising."
+        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage cruising.",
+        "image": "/cars/cls-c257-facelift-4-door coupé-2021–2023-new-diamond silver metallic-exterior facelift-cls c257 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M256.930 (CLS 450)",
         "quote": "Mercedes' 3.0‑litre inline‑six petrol, with 362 bhp and EQ Boost mild‑hybrid assistance, delivers effortless power and silky refinement. It's the defining engine of the C257 generation.",
-        "whoItsFor": "buyers who want the full luxury coupé experience."
+        "whoItsFor": "buyers who want the full luxury coupé experience.",
+        "image": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "OM656.929 (CLS 350 d / 400 d)",
         "quote": "The inline‑six diesel is generally reliable but complex; its twin‑turbo system and AdBlue/SCR components can be costly to repair if neglected. The CLS 400 d was a short‑production variant, making parts potentially harder to source.",
-        "whoItsFor": "buyers who want six‑cylinder diesel refinement but can afford the premium maintenance."
+        "whoItsFor": "buyers who want six‑cylinder diesel refinement but can afford the premium maintenance.",
+        "image": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257 (3)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M256.930 (CLS 450 / AMG CLS 53) - EQ Boost system and turbo",
         "quote": "The 48V mild‑hybrid system and turbocharger on the M256 can be costly to repair if issues arise. The AMG CLS 53's higher output adds further complexity.",
-        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs."
+        "whoItsFor": "buyers who want AMG performance and can afford the premium running costs.",
+        "image": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM654.920 (CLS 220 d)",
         "quote": "The entry‑level diesel offers the best balance of performance (194 bhp), economy (up to 51 mpg), and reliability. It's the sweet spot in the C257 range.",
-        "whoItsFor": "fleet buyers and high‑mileage drivers."
+        "whoItsFor": "fleet buyers and high‑mileage drivers.",
+        "image": "/cars/cls-c257-facelift-4-door coupé-2021–2023-new-diamond silver metallic-exterior facelift-cls c257 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M264.920 (CLS 350)",
         "quote": "The 2.0‑litre four‑cylinder petrol with EQ Boost delivers 299 bhp and genuine performance (0‑62 mph in 6.0 seconds). It's often overlooked in favour of the six‑cylinder but offers a compelling blend of performance and efficiency.",
-        "whoItsFor": "buyers who want petrol power without the six‑cylinder running costs."
+        "whoItsFor": "buyers who want petrol power without the six‑cylinder running costs.",
+        "image": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -521,7 +527,8 @@
         "cta": {
           "label": "Compare OM654 engine prices for your C257 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c257-facelift-4-door coupé-2021–2023-new-diamond silver metallic-exterior facelift-cls c257 fl-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -534,7 +541,8 @@
         "cta": {
           "label": "Compare M256 engine prices for your C257 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257 (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -547,7 +555,8 @@
         "cta": {
           "label": "Compare OM656 engine prices for your C257 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/cls-c257-standard-4-door coupé-2018–2021-new-emerald green metallic-new generation-cls c257 (3)-45-angle-front-view.webp"
       }
     ]
   },
@@ -621,7 +630,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the C257 shares its MRA platform with the E‑Class (W213), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "CLS 220 d",

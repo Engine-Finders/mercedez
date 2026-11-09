@@ -383,31 +383,36 @@
         "slot": "Best Petrol Overall",
         "engine": "M113.989 (SLK 55 AMG)",
         "quote": "The 5.4‑litre naturally aspirated V8 - 360 bhp, 510 Nm of torque, and the most reliable engine in the R171 range. The M113 is legendary for its durability - the only real issue is the crank position sensor failing at around 10 years old. It's the engine that makes the SLK 55 AMG a future classic.",
-        "whoItsFor": "enthusiasts who want V8 power and proven reliability - and understand that V8 running costs come with the territory."
+        "whoItsFor": "enthusiasts who want V8 power and proven reliability - and understand that V8 running costs come with the territory.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M271.944 (SLK 200 Kompressor, pre‑facelift)",
         "quote": "The 1.8‑litre supercharged four‑cylinder - 163 bhp, 240 Nm of torque. The M271's timing chain is a well‑documented weak point, particularly on pre‑2007 cars. Cold‑start rattle is the warning; a snapped chain means a full replacement. Later Evo engines are improved but not immune.",
-        "whoItsFor": "buyers on a budget who understand the M271's reputation and can verify chain history."
+        "whoItsFor": "buyers on a budget who understand the M271's reputation and can verify chain history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M272.963 (SLK 350, pre‑facelift)",
         "quote": "The early M272 V6 - balance‑shaft sprocket wear is an engine‑out job. Affected cars up to about 2006 can require £2,000–£3,000 repairs. The 3.5‑litre is the worst affected due to higher stress levels. Later cars (engine number 2729..30 468993 onwards) are improved.",
-        "whoItsFor": "buyers who understand the M272's reputation and can verify the engine number or repair history."
+        "whoItsFor": "buyers who understand the M272's reputation and can verify the engine number or repair history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M271.954 (SLK 200 Kompressor, facelift)",
         "quote": "The 1.8‑litre Evo - 184 bhp, 250 Nm of torque, and a significant step up from the 163 bhp pre‑facelift unit. The facelift engine (2008–2011) has improved timing chain components and better fuel economy. It's the cheapest R171 to run and insure.",
-        "whoItsFor": "buyers who want R171 style without the V6 running costs - but still check for chain history."
+        "whoItsFor": "buyers who want R171 style without the V6 running costs - but still check for chain history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M272.942 (SLK 280)",
         "quote": "The 3.0‑litre V6 - 231 bhp, 300 Nm of torque. It's often overlooked in favour of the SLK 350, but it's the same robust M272 family with lower running costs. On facelift cars (2008+), the balance‑shaft issue is resolved. The best‑kept secret in the R171 range.",
-        "whoItsFor": "buyers who want V6 refinement without the SLK 350's higher purchase price or insurance group."
+        "whoItsFor": "buyers who want V6 refinement without the SLK 350's higher purchase price or insurance group.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -503,7 +508,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -516,7 +522,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -529,7 +536,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -542,7 +550,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

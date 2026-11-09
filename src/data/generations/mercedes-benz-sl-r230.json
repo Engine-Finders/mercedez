@@ -382,7 +382,8 @@
         "cta": {
           "label": "Compare R230 M272 balance shaft repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -410,7 +411,8 @@
         "cta": {
           "label": "Compare R230 SL 55 AMG supercharger repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -438,7 +440,8 @@
         "cta": {
           "label": "Compare R230 M275 ignition system repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -466,7 +469,8 @@
         "cta": {
           "label": "Compare R230 SBC system repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },

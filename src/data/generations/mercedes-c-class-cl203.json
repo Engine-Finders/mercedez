@@ -652,7 +652,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your CL203 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-cl203-sportcoupé facelift-3-door coupé-2004–2008-new-nautical blue metallic-major facelift-c-class cl203 sportcoupe fl-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -665,7 +666,8 @@
         "cta": {
           "label": "Compare OM611/OM612 engine prices for your CL203 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-cl203-sportcoupé-3-door coupé-2000–2004-new-almandine black metallic-entirely different roof body-c-class cl203 sportcoupe-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -678,7 +680,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your CL203 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-cl203-sportcoupé facelift-3-door coupé-2004–2008-new-nautical blue metallic-major facelift-c-class cl203 sportcoupe fl-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -691,7 +694,8 @@
         "cta": {
           "label": "Compare C32 AMG engine prices for your CL203 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-cl203-sportcoupé-3-door coupé-2000–2004-new-almandine black metallic-entirely different roof body-c-class cl203 sportcoupe-45-angle-front-view.webp"
       }
     ]
   },
@@ -805,7 +809,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the CL203 shares its engine bay layout with the W203 saloon, so costs are consistent."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C200 CDI",

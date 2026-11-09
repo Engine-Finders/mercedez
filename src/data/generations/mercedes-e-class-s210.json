@@ -801,7 +801,8 @@
         "cta": {
           "label": "Compare M112/M113 engine prices for your S210 E-Class →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -829,7 +830,8 @@
         "cta": {
           "label": "Compare OM606 engine prices for your S210 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -857,7 +859,8 @@
         "cta": {
           "label": "Compare M111 wiring harness replacement quotes for your S210 E-Class →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -885,7 +888,8 @@
         "cta": {
           "label": "Compare S210 self-levelling suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -1023,7 +1027,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 200 D",

@@ -5,6 +5,7 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
+import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
 const verdictStyles = {
   warning: { icon: "warning", light: "text-[#d97517]", dark: "text-[#ffb05a]" },
@@ -84,14 +85,14 @@ export default function OwnershipEconomics({ data }) {
   if (!data) return null;
 
   const isDark = theme === "dark";
-  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "bg-[var(--color-primary)]";
+  const headerBg = isDark ? "bg-[var(--color-chrome)]" : "";
   const headerDivider = isDark ? "border-white/20" : "border-white/25";
   const bodyWrapperBg = isDark ? "bg-black" : "bg-[var(--color-table-surface)]";
 
   return (
     <section className={`relative overflow-hidden py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 5)}`}>
       <div className="absolute inset-x-0 top-0 h-[220px] md:h-[280px]">
-        <Image src="/sec2-bg.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
+        <Image src="/Amg-gt.webp" alt="" fill className="object-cover object-[64%_top] md:object-right" sizes="100vw" />
         <div
           className={
             isDark
@@ -110,15 +111,15 @@ export default function OwnershipEconomics({ data }) {
 
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="max-w-[760px] pt-2 md:pt-6">
-          <SectionLabel number={5} isDark={isDark} />
           <h2
             className={`font-lora max-w-[760px] text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
             dangerouslySetInnerHTML={{ __html: data.h2 }}
           />
+          <SectionLabel isDark={isDark} />
         </div>
 
         <div className="mt-6 hidden overflow-hidden rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:block">
-          <div className={`grid grid-cols-[110px_100px_1fr_130px_150px_1.4fr] gap-px ${headerBg} px-5 py-3 text-[0.82rem] font-semibold text-white`}>
+          <div className={`grid grid-cols-[110px_100px_1fr_130px_150px_1.4fr] gap-px ${headerBg} px-5 py-3 text-[0.82rem] font-semibold text-white`} style={{ backgroundColor: chromeBg(isDark) }}>
             {data.columns?.map((col, index) => (
               <span key={col} className={`flex items-center gap-2 px-3 border-r ${headerDivider} last:border-r-0`}>
                 <GenIcon name={COLUMN_ICONS[index]} className="h-4 w-4 shrink-0" />
@@ -135,7 +136,7 @@ export default function OwnershipEconomics({ data }) {
 
         <div className="mt-6 overflow-x-auto rounded-md border border-[var(--color-border)] bg-[var(--color-table-surface)] shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur md:hidden">
           <div className="min-w-[850px]">
-            <div className={`grid ${MOBILE_COLS} gap-px ${headerBg} px-3 py-2.5 text-[0.7rem] font-semibold leading-[1.2] text-white`}>
+            <div className={`grid ${MOBILE_COLS} gap-px ${headerBg} px-3 py-2.5 text-[0.7rem] font-semibold leading-[1.2] text-white`} style={{ backgroundColor: chromeBg(isDark) }}>
               {data.columns?.map((col, index) => (
                 <span key={col} className={`flex items-center gap-1.5 px-2 border-r ${headerDivider} last:border-r-0`}>
                   <GenIcon name={COLUMN_ICONS[index]} className="h-3.5 w-3.5 shrink-0" />
@@ -187,7 +188,7 @@ export default function OwnershipEconomics({ data }) {
                   >
                     <span
                       className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full"
-                      style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}
+                      style={{ backgroundColor: "rgba(171,132,80,0.18)", color: iconTone(isDark) }}
                     >
                       <GenIcon name={takeawayIcons[index % takeawayIcons.length]} className="h-4.5 w-4.5" />
                     </span>

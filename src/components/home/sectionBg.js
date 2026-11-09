@@ -26,7 +26,7 @@ export function sectionPanelRgb(isDark, sectionIndex) {
   return sectionIndex % 2 === 1 ? "239,238,233" : "248,247,243";
 }
 
-/** Black (light) / white (dark) faded underline under section titles — all breakpoints. */
+/** Black (light) / white (dark) faded underline under section titles - all breakpoints. */
 export function SectionFadeStrip({ isDark, className = "w-14" }) {
   return (
     <span

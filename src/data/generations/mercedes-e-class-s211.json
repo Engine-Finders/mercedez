@@ -809,37 +809,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM642.920 (E 320 CDI, 2005–2009)",
         "quote": "The 3.0-litre V6 diesel OM642 is the standout engine of the entire S211 generation. It delivers 224 PS with 540 Nm of torque, combines power with refinement and economy, and regularly exceeds 400,000 kilometres with proper maintenance. Early OM642 units had some timing chain and injector issues, but post-2005 variants with optimised common-rail injection proved exceptionally durable.",
-        "whoItsFor": "buyers who want the best combination of performance, economy and reliability in the S211 range."
+        "whoItsFor": "buyers who want the best combination of performance, economy and reliability in the S211 range.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112.949 (E 320, 3.2-litre V6)",
         "quote": "The 3.2-litre M112 V6 is arguably the most bulletproof petrol engine ever fitted to an E-Class. 221 PS of smooth, naturally aspirated power, no balance-shaft issues, no timing-chain worries - just a robust, proven V6 that keeps going. The 2.6-litre M112.917 in the E 240 is equally solid.",
-        "whoItsFor": "buyers who want V6 smoothness without the M272's balance-shaft risk."
+        "whoItsFor": "buyers who want V6 smoothness without the M272's balance-shaft risk.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272.943 / M272.964 (E 280 / E 350, pre-September 2006)",
         "quote": "The M272 V6 is a great engine - but early units (before September 2006) suffer from a well-documented balance shaft gear failure. The bearings fail between 100,000 and 150,000 miles, causing the timing to jump and potentially destroying the engine. Post-2006 engines have the revised parts and are much more reliable. If you're buying a pre-2006 E 280 or E 350, check the engine number against Mercedes' affected range.",
-        "whoItsFor": "buyers willing to check engine numbers and budget for balance shaft replacement, or those buying post-2006 examples."
+        "whoItsFor": "buyers willing to check engine numbers and budget for balance shaft replacement, or those buying post-2006 examples.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M156.982 (E 63 AMG, 6.2-litre V8)",
         "quote": "The 6.2-litre M156 V8 is a masterpiece - 514 PS of naturally aspirated AMG thunder. But when it fails, it fails expensively. Camshaft adjusters, lifters, and the sheer cost of AMG-specific parts mean replacement bills frequently hit five figures. The E 55 AMG's supercharged M113 V8 is cheaper to maintain.",
-        "whoItsFor": "collectors and enthusiasts with deep pockets."
+        "whoItsFor": "collectors and enthusiasts with deep pockets.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM646.963 (E 220 CDI, 2006–2009)",
         "quote": "The 2.1-litre OM646 offers 170 PS with genuine 50+ mpg economy and a proven 200,000-mile-plus lifespan when properly maintained. It's cheaper to buy, cheaper to insure, and cheaper to replace than the V6 diesels - the sweet spot in the S211 diesel range for most UK buyers.",
-        "whoItsFor": "buyers who want diesel economy without the V6's complexity or running costs."
+        "whoItsFor": "buyers who want diesel economy without the V6's complexity or running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M113.967 (E 500, 5.0-litre V8)",
         "quote": "The 5.0-litre M113 V8 is often overlooked in favour of the AMG models, but it offers 306 PS of smooth, reliable V8 power without the supercharger complexity or the M156's eye-watering running costs. It's the S211's sleeper pick - a V8 that sounds wonderful and keeps going.",
-        "whoItsFor": "buyers who want V8 refinement without the AMG tax."
+        "whoItsFor": "buyers who want V8 refinement without the AMG tax.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -977,7 +983,8 @@
         "cta": {
           "label": "Compare M272/M273 engine prices for your S211 E 280/350/500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -1005,7 +1012,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your S211 E 200 KOMPRESSOR →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -1033,7 +1041,8 @@
         "cta": {
           "label": "Compare OM646 engine prices for your S211 E 200/220 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -1061,7 +1070,8 @@
         "cta": {
           "label": "Compare S211 rear air suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 5,
@@ -1089,7 +1099,8 @@
         "cta": {
           "label": "Compare S211 SBC pump diagnostics →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -1291,7 +1302,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - S211 estate shares its W211-derived engine bay with the saloon, so costs are inherited directly per the Authority Model, with no divergence note required. M156 AMG costs reflect AMG-specific parts and specialist labour requirements."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "E 200 CDI",

@@ -4,7 +4,10 @@ import { useState } from "react";
 import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
+import { generationCtaCopy } from "@/lib/ctaLabels";
+import { resolveGenerationCarImage } from "@/lib/resolveGenerationCarImage";
 import GenIcon from "./GenIcons";
 
 function TieredCostTable({ tiers, isDark }) {
@@ -72,12 +75,13 @@ function RiskBadge({ riskLevel }) {
   );
 }
 
-function AccordionCard({ problem, isDark, isOpen, onToggle }) {
+function AccordionCard({ problem, isDark, isOpen, onToggle, imageSrc }) {
+  const src = problem.image || imageSrc;
   return (
     <div className="glass-panel overflow-hidden rounded-md">
       <button type="button" onClick={onToggle} aria-expanded={isOpen} className="flex w-full gap-3 py-3 pr-3 text-left">
-        <span className="relative h-20 w-20 shrink-0 overflow-hidden">
-          <Image src="/right.webp" alt={problem.title} fill className="object-cover object-[center_20%] scale-125" sizes="80px" />
+        <span className="relative h-12 w-12 shrink-0 overflow-hidden rounded-sm">
+          <Image src={src} alt={problem.title} fill unoptimized className="object-cover object-center" sizes="48px" />
         </span>
 
         <div className="min-w-0 flex-1">
@@ -148,14 +152,15 @@ function AccordionCard({ problem, isDark, isOpen, onToggle }) {
   );
 }
 
-function ProblemCard({ problem, isDark }) {
+function ProblemCard({ problem, isDark, imageSrc }) {
   const { code, name } = splitTitle(problem.title);
+  const src = problem.image || imageSrc;
 
   return (
     <div className="glass-panel flex h-full flex-col overflow-hidden rounded-md">
-      {/* Header: id badge + title left, image cropped to the card's top-right corner */}
-      <div className="relative min-h-[140px] px-4 pb-3 pt-4">
-        <div className="relative z-10 flex max-w-[62%] flex-col gap-2.5">
+      {/* Header: id badge + title left, smaller image top-right */}
+      <div className="relative min-h-[108px] px-4 pb-3 pt-4">
+        <div className="relative z-10 flex max-w-[72%] flex-col gap-2.5">
           <div>
             <div className="flex items-center gap-2">
               <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md bg-[var(--color-primary)] text-[0.8rem] font-bold text-white">
@@ -173,9 +178,9 @@ function ProblemCard({ problem, isDark }) {
             <p className="mt-0.5 text-[var(--color-text-muted)]" dangerouslySetInnerHTML={{ __html: problem.affectedModels }} />
           </div>
         </div>
-        <div className="absolute right-0 top-0 h-full w-[42%] overflow-hidden rounded-bl-md">
-          <div className="relative h-full min-h-[128px] w-full">
-            <Image src="/right.webp" alt={problem.title} fill className="object-cover" sizes="180px" />
+        <div className="absolute right-2 top-2 h-[72px] w-[88px] overflow-hidden rounded-md">
+          <div className="relative h-full w-full">
+            <Image src={src} alt={problem.title} fill unoptimized className="object-cover object-center" sizes="88px" />
           </div>
         </div>
       </div>
@@ -231,21 +236,22 @@ function ProblemCard({ problem, isDark }) {
   );
 }
 
-export default function CommonProblems({ data }) {
+export default function CommonProblems({ data, parent = "", slug = "" }) {
   const { theme } = useTheme();
   const [openId, setOpenId] = useState(null);
   if (!data) return null;
 
   const isDark = theme === "dark";
+  const cta = generationCtaCopy(parent, slug).problems;
 
   return (
     <section className={`w-full py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 6)}`}>
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
-        <SectionLabel number={6} isDark={isDark} />
         <h2
           className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}
           dangerouslySetInnerHTML={{ __html: data.h2 || "Common Problems" }}
         />
+        <SectionLabel isDark={isDark} />
         {data.subHeadline ? (
           <p
             className={`mt-4 max-w-[920px] text-[0.88rem] leading-[1.4] md:mt-5 md:text-[1.08rem] md:leading-[1.42] ${isDark ? "text-white/80" : "text-[var(--color-text-muted)]"}`}
@@ -255,21 +261,27 @@ export default function CommonProblems({ data }) {
 
         {/* Mobile: accordion - one card open at a time */}
         <div className="mt-6 flex flex-col gap-3 md:hidden">
-          {data.problems?.map((problem) => (
+          {data.problems?.map((problem, index) => (
             <AccordionCard
               key={problem.id}
               problem={problem}
               isDark={isDark}
               isOpen={problem.id === openId}
               onToggle={() => setOpenId(problem.id === openId ? null : problem.id)}
+              imageSrc={problem.image || resolveGenerationCarImage(parent, slug, index)}
             />
           ))}
         </div>
 
         {/* Desktop: full grid, all cards visible */}
         <div className="mt-6 hidden gap-4 md:grid md:grid-cols-2 lg:grid-cols-4">
-          {data.problems?.map((problem) => (
-            <ProblemCard key={problem.id} problem={problem} isDark={isDark} />
+          {data.problems?.map((problem, index) => (
+            <ProblemCard
+              key={problem.id}
+              problem={problem}
+              isDark={isDark}
+              imageSrc={problem.image || resolveGenerationCarImage(parent, slug, index)}
+            />
           ))}
         </div>
 
@@ -322,6 +334,8 @@ export default function CommonProblems({ data }) {
             ) : null}
           </div>
         ) : null}
+
+        <SectionQuoteCta label={cta.label} support={cta.support} />
       </div>
     </section>
   );

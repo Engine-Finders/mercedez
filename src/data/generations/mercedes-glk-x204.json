@@ -419,37 +419,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM651.912 (GLK 220 CDI / 250 CDI)",
         "quote": "Mercedes' own 2.1‑litre four‑cylinder diesel, introduced in 2008, is the pick of the X204 diesel range - efficient, refined, and backed by a strong reliability record when serviced properly. The 250 CDI variant delivers 204 bhp with 500 Nm of torque.",
-        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage SUV motoring."
+        "whoItsFor": "buyers who want a modern, efficient diesel for high‑mileage SUV motoring.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M276.957 (GLK 350 4MATIC, facelift)",
         "quote": "Mercedes' 3.5‑litre V6, introduced with the 2012 facelift, replaced the M272 with a more refined and reliable unit. It delivers 306 bhp with a silky character and strong torque.",
-        "whoItsFor": "buyers who want V6 petrol refinement without the pre‑facelift M272's balance shaft concerns."
+        "whoItsFor": "buyers who want V6 petrol refinement without the pre‑facelift M272's balance shaft concerns.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272.948/991 (GLK 300 / 350, pre‑2010)",
         "quote": "The M272 V6 petrol is known for balance shaft sprocket wear on pre‑2010 models - a manufacturing defect that can lead to timing chain issues and catastrophic engine damage if ignored. Post‑2010 models are significantly improved.",
-        "whoItsFor": "buyers who want V6 petrol power but must verify the balance shaft has been addressed."
+        "whoItsFor": "buyers who want V6 petrol power but must verify the balance shaft has been addressed.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM642.832/961 (GLK 320 CDI / 350 CDI) - oil cooler seal leak",
         "quote": "The V6 diesel's oil cooler seals are prone to failure, leaking oil into the V of the engine. Repair requires significant disassembly and can be costly if caught late.",
-        "whoItsFor": "buyers who want V6 diesel torque but can afford the premium maintenance."
+        "whoItsFor": "buyers who want V6 diesel torque but can afford the premium maintenance.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM651.912 (GLK 220 CDI)",
         "quote": "The mid‑range diesel offers the best balance of performance (170 bhp), economy (up to 44 mpg), and reliability. It's the sweet spot in the X204 range.",
-        "whoItsFor": "fleet buyers and high‑mileage drivers."
+        "whoItsFor": "fleet buyers and high‑mileage drivers.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M274.920 (GLK 250 4MATIC)",
         "quote": "The 2.0‑litre four‑cylinder turbo petrol delivers 211 bhp with genuine performance and strong torque. It's often overlooked in favour of the diesels but offers a compelling blend of power and efficiency.",
-        "whoItsFor": "buyers who want petrol power without the V6 running costs."
+        "whoItsFor": "buyers who want petrol power without the V6 running costs.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -553,7 +559,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your X204 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -566,7 +573,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your X204 V6 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -579,7 +587,8 @@
         "cta": {
           "label": "Compare OM642 engine prices for your X204 V6 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -592,7 +601,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your X204 V6 petrol →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -690,7 +700,7 @@
     ],
     "note": "No Generation variance from the Model Page's baseline figures - the X204 shares its platform with the C‑Class (W204), so engine‑bay access and labour times are consistent across the range. Costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "GLK 200 CDI",

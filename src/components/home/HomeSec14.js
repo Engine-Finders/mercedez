@@ -19,7 +19,7 @@ import { GOLD, homeSectionBg, sectionPanelBg } from "@/components/home/sectionBg
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { useTheme } from "@/components/shared/themeProvider";
 
-/** Diagonal gold border — shifted a bit right */
+/** Diagonal gold border - shifted a bit right */
 const IMAGE_CLIP = "polygon(58% 0%, 100% 0%, 100% 100%, 44% 100%)";
 const LEFT_CLIP = "polygon(0 0, 58.15% 0, 44.15% 100%, 0 100%)";
 

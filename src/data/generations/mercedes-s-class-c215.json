@@ -413,37 +413,43 @@
         "slot": "Best Diesel Overall",
         "engine": "Omitted",
         "quote": "no diesel engine fitted to the C215.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M113.960 (CL 500, 5.0L V8)",
         "quote": "The 5.0-litre M113 V8 is arguably the most reliable modern Mercedes engine ever built - naturally aspirated, simple SOHC design, and proven to exceed 200,000 miles with routine maintenance. Thermostat and MAF sensor issues are its only real demands.",
-        "whoItsFor": "buyers who want bulletproof V8 reliability in a flagship coupé."
+        "whoItsFor": "buyers who want bulletproof V8 reliability in a flagship coupé.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M137.970 (pre-facelift CL 600, 5.8L V12)",
         "quote": "The M137 V12 is possibly the least reliable modern Mercedes engine - oil cooler O-ring failures are a £1,000+ repair, and the complex 12-cylinder architecture makes it a specialist-only proposition. Mercedes replaced it with the M275 for good reason.",
-        "whoItsFor": "collectors who accept the risks of a rare V12 flagship."
+        "whoItsFor": "collectors who accept the risks of a rare V12 flagship.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M275.980 (CL 65 AMG, 6.0L twin-turbo V12)",
         "quote": "The 612 bhp twin-turbo V12 delivers tyre-shredding torque and a soundtrack to match, but it's an ageing AMG flagship - turbocharger wear, coil pack failure and the sheer cost of V12 parts make it the most expensive engine in the range to maintain.",
-        "whoItsFor": "AMG collectors with deep pockets and full service history."
+        "whoItsFor": "AMG collectors with deep pockets and full service history.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M113.960 (CL 500)",
         "quote": "The entry-level V8 offers genuine grand-touring performance (6.1s to 60mph) with significantly lower running costs than any V12 - and sits in the same used price bracket as lesser cars. It's the sweet spot of the range.",
-        "whoItsFor": "buyers who want the C215 experience without the V12's running costs."
+        "whoItsFor": "buyers who want the C215 experience without the V12's running costs.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M113.991 (post-facelift CL 55 AMG Kompressor, 493 bhp)",
         "quote": "The supercharged 5.4-litre V8 is often overshadowed by the V12s, but it offers genuine AMG performance (4.7s to 60mph) with none of the M137's reliability issues - and the supercharger whine is addictive.",
-        "whoItsFor": "buyers who want AMG performance without the V12's complexity."
+        "whoItsFor": "buyers who want AMG performance without the V12's complexity.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -562,7 +568,8 @@
         "cta": {
           "label": "Compare M137 engine prices for your C215 CL 600 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -590,7 +597,8 @@
         "cta": {
           "label": "Compare M113 engine prices for your C215 CL 500 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -618,7 +626,8 @@
         "cta": {
           "label": "Compare M113K engine prices for your C215 CL 55 AMG Kompressor →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 4,
@@ -646,7 +655,8 @@
         "cta": {
           "label": "Compare M275 engine prices for your C215 CL 600 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -720,7 +730,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the C215 shares its W220 platform with the S-Class saloon, and engine-bay access is consistent across the range."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

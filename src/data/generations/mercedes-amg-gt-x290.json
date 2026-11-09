@@ -371,37 +371,43 @@
         "slot": "Best Diesel Overall",
         "engine": "Omitted",
         "quote": "no diesel engine fitted to the X290.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/amg gt-c190-gt c-coupé-2017–2021-new-designo hyacinth red metallic-wider body revised aero-amg gt c190 gt c-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M177.980 (GT 63, 585 bhp)",
         "quote": "The 4.0-litre twin-turbo V8 that defines AMG's modern era - hot-vee layout, responsive delivery, and a soundtrack that justifies the premium. Oil leaks from valve covers and coolant system issues are its known weak points, but the underlying engine is robust.",
-        "whoItsFor": "buyers who want V8 theatre without the hybrid system's complexity."
+        "whoItsFor": "buyers who want V8 theatre without the hybrid system's complexity.",
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M256.930 (GT 43/53, 367/435 bhp)",
         "quote": "The electrified straight-six is clever engineering, but the 48V EQ Boost system adds complexity beyond a conventional engine - starter-generator and auxiliary battery failures are emerging as the primary concerns.",
-        "whoItsFor": "buyers who prioritise efficiency and accept the hybrid system's long-term costs."
+        "whoItsFor": "buyers who prioritise efficiency and accept the hybrid system's long-term costs.",
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (3)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M177.880 (GT 63 S E Performance)",
         "quote": "The plug-in hybrid V8 combines the M177's complexity with a 150 kW electric motor and 4.8 kWh battery. Two powertrains mean two sets of failure points - and the highest replacement cost in the range.",
-        "whoItsFor": "buyers who want the ultimate AMG and have the budget to maintain it."
+        "whoItsFor": "buyers who want the ultimate AMG and have the budget to maintain it.",
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (4)-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M177.980 (GT 63, 585 bhp)",
         "quote": "The entry-level V8 X290 offers the same core engine as the GT 63 S, with slightly less power but the same character - and significantly lower acquisition and maintenance costs than the hybrid flagship.",
-        "whoItsFor": "buyers who want V8 performance without the hybrid premium."
+        "whoItsFor": "buyers who want V8 performance without the hybrid premium.",
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (5)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M256.930 (GT 53, 435 bhp)",
         "quote": "The higher-output straight-six offers genuine performance (4.5s to 60mph) with better fuel economy than any V8 - and avoids the M177's hot-vee heat management entirely. It's the sensible AMG.",
-        "whoItsFor": "buyers who want AMG credentials with running costs that won't shock."
+        "whoItsFor": "buyers who want AMG credentials with running costs that won't shock.",
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt-45-angle-front-view.webp"
       }
     ]
   },
@@ -496,7 +502,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your X290 GT 63 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/amg gt-c190-gt c-coupé-2017–2021-new-designo hyacinth red metallic-wider body revised aero-amg gt c190 gt c-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -524,7 +531,8 @@
         "cta": {
           "label": "Compare M256 engine prices for your X290 GT 53 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -552,7 +560,8 @@
         "cta": {
           "label": "Compare X290 hybrid engine prices →",
           "href": "#"
-        }
+        },
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (3)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -580,7 +589,8 @@
         "cta": {
           "label": "Compare X290 transmission prices →",
           "href": "#"
-        }
+        },
+        "image": "/cars/amg gt-c190-gt-coupé-2014–2016-new-iridium silver metallic-original amg gt body-amg gt c190 gt (4)-45-angle-front-view.webp"
       }
     ]
   },

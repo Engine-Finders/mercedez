@@ -665,7 +665,8 @@
         "cta": {
           "label": "Compare M274 engine prices for your C205 C-Class →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-c205-coupé-coupé-2015–2018-new-tenorite grey metallic-separate coupé-c-class c205 (2)-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -693,7 +694,8 @@
         "cta": {
           "label": "Compare OM651 engine prices for your C205 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-c205-coupé-coupé-2015–2018-new-tenorite grey metallic-separate coupé-c-class c205 (3)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -721,7 +723,8 @@
         "cta": {
           "label": "Compare M276 engine prices for your C205 C400/C43 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-c205-coupé-coupé-2015–2018-new-tenorite grey metallic-separate coupé-c-class c205 (4)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -749,7 +752,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your C205 AMG C63 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-c205-coupé-coupé-2015–2018-new-tenorite grey metallic-separate coupé-c-class c205-45-angle-front-view.webp"
       }
     ]
   },
@@ -871,7 +875,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C200d",

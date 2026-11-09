@@ -179,7 +179,7 @@ export default function MarketIntelligence({ data }) {
     <section className={`relative overflow-hidden text-[var(--color-text)] ${homeSectionBg(isDark, 9)}`}>
       <SectionHeaderBand
         title="Market Intelligence"
-        image={{ src: "/sec2-bg.webp", alt: "" }}
+        image={{ src: "/Amg-gt.webp", alt: "" }}
         isDark={isDark}
         panelBg={sectionPanelBg(isDark, 9)}
         panelRgb={sectionPanelRgb(isDark, 9)}

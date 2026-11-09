@@ -527,37 +527,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM646 (C 220 CDI, facelift, 2004–2007)",
         "quote": "“The facelift OM646 improved on the <a  href='https://mercedesengines.uk/engine/om611-om613'>OM611</a> with better injector design and common‑rail refinement. 150 PS and 340 Nm of torque deliver effortless estate‑car performance with genuine 200,000+ mile potential.” Who it’s for: Buyers who want a proven, efficient diesel estate without the 5‑cylinder’s higher running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M112 V6 (C 240 / C 320)",
         "quote": "“The M112 V6 is the S203's most robust petrol engine - smooth, torquey, and free of the M271's camshaft adjuster issues and the M272's balance shaft concerns. The 218 PS C 320 is the sweet spot.” Who it’s for: Buyers who want V6 refinement without AMG running costs.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M272 V6 (C 230 / C 350, 2005–2007)",
         "quote": "“The M272's balance shaft sprocket wear is this generation's defining risk - a design flaw that can lead to catastrophic engine failure. Mercedes acknowledged the issue but didn't extend the warranty as widely as with the <a  href='https://mercedesengines.uk/engine/m260-m264'>M260</a>.” Who it’s for: Buyers who understand the risk and have documented balance shaft history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "C 55 AMG (M113 V8)",
         "quote": "“The 367 PS 5.4‑litre V8 is a joy to drive but punishing to repair - valve cover gaskets, timing chain tensioners, and the entire engine bay's heat‑related wear add up fast. A full replacement runs well into five figures.” Who it’s for: AMG enthusiasts with deep pockets and full service history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM611 (C 220 CDI, pre‑facelift, 2001–2004)",
         "quote": "“The older OM611 is cheaper to buy and cheaper to replace than the facelift OM646 - and with injector seal maintenance, it's equally durable. 143 PS and 340 Nm are plenty for estate duties.” Who it’s for: Buyers who want diesel economy on a tighter budget.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M112 V6 (C 240, pre‑facelift)",
         "quote": "“The 170 PS C 240 is often dismissed in favour of the C 320, but it shares the same robust <a  href='https://mercedesengines.uk/engine/m112'>M112</a> V6 architecture with lower running costs - and none of the M272's balance shaft anxiety.” Who it’s for: Buyers who want V6 ownership without the V8 tax.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -684,7 +690,8 @@
         "cta": {
           "label": "Compare M272 engine prices for your S203 C 350 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -712,7 +719,8 @@
         "cta": {
           "label": "Compare OM646 engine prices for your S203 C 220 CDI →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -740,7 +748,8 @@
         "cta": {
           "label": "Compare M271 engine prices for your S203 C 200 Kompressor →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -768,7 +777,8 @@
         "cta": {
           "label": "Compare M113 engine prices for your S203 C 55 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-s203-estate-estate-2001–2007-new-garnet red metallic-separate estate body-c-class s203 est-45-angle-front-view.webp"
       }
     ]
   },
@@ -914,7 +924,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures - S203 estate shares identical engine‑bay access with its W203 saloon sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C 220 CDI",

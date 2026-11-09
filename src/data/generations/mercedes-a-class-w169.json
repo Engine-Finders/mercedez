@@ -425,37 +425,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM640.941 (A180 CDI)",
         "quote": "The sweet spot of the OM640 diesel family - 109 bhp, 250 Nm of torque from just 1,600 rpm, and no catastrophic failure modes. Simple common‑rail injection, robust chain‑driven valvetrain, and the same Euro 4 compliance that kept it in production for the full W169 lifecycle.",
-        "whoItsFor": "buyers who want diesel economy without the complexity of the A200 CDI's higher boost or the entry‑level A160 CDI's sluggishness."
+        "whoItsFor": "buyers who want diesel economy without the complexity of the A200 CDI's higher boost or the entry‑level A160 CDI's sluggishness.",
+        "image": "/cars/a-class-w169-facelift-hatchback-2008–2012-new-brilliant silver metallic-revised lamps, bumpers and grille-a-class w169 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M266.940 (A170)",
         "quote": "The 1.7‑litre naturally aspirated petrol - 116 bhp, simple SOHC 8‑valve design, no turbo, no direct injection. It's the most honest engine in the W169 range: smooth, reliable, and cheap to maintain.",
-        "whoItsFor": "buyers who want a straightforward petrol hatchback without turbo or diesel complications."
+        "whoItsFor": "buyers who want a straightforward petrol hatchback without turbo or diesel complications.",
+        "image": "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169 (2)-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M266.980 (A200 Turbo)",
         "quote": "The only forced‑induction petrol in the W169 range. 193 bhp from a 2.0‑litre turbo sounds appealing, but the added complexity - turbocharger, intercooler, higher boost - introduces failure modes the naturally aspirated M266s simply don't have. Specialist parts are harder to source, and the engine was only fitted to about 2% of W169s.",
-        "whoItsFor": "enthusiasts who understand that 193 bhp in a small hatchback comes with a maintenance premium."
+        "whoItsFor": "enthusiasts who understand that 193 bhp in a small hatchback comes with a maintenance premium.",
+        "image": "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169 (3)-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "OM640.942 (A200 CDI)",
         "quote": "The highest‑output OM640 diesel - 140 bhp, more boost, more stress. When the turbo or injectors fail on this variant, the repair bill is significantly higher than the lower‑output OM640.940 or .941.",
-        "whoItsFor": "buyers who want the most powerful diesel W169 and are prepared for the higher running costs."
+        "whoItsFor": "buyers who want the most powerful diesel W169 and are prepared for the higher running costs.",
+        "image": "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM640.940 (A160 CDI)",
         "quote": "The entry‑level diesel - 82 bhp, 184 Nm, and the cheapest recon cost of any W169 diesel. It's slow, but it's honest, and the low purchase price of an A160 CDI combined with cheap replacement economics makes it the best value proposition in the range.",
-        "whoItsFor": "budget‑conscious buyers who prioritise running costs over performance."
+        "whoItsFor": "budget‑conscious buyers who prioritise running costs over performance.",
+        "image": "/cars/a-class-w169-facelift-hatchback-2008–2012-new-brilliant silver metallic-revised lamps, bumpers and grille-a-class w169 fl-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M266.960 (A200)",
         "quote": "The 2.0‑litre naturally aspirated petrol - 136 bhp, no turbo, no direct injection. It's the quiet achiever of the W169 range: more power than the A170, but without the A200 Turbo's complexity or the diesels' DPF and injector concerns.",
-        "whoItsFor": "buyers who want the best naturally aspirated petrol W169 and don't need a diesel's fuel economy."
+        "whoItsFor": "buyers who want the best naturally aspirated petrol W169 and don't need a diesel's fuel economy.",
+        "image": "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169 (2)-45-angle-front-view.webp"
       }
     ]
   },
@@ -559,7 +565,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w169-facelift-hatchback-2008–2012-new-brilliant silver metallic-revised lamps, bumpers and grille-a-class w169 fl-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -572,7 +579,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169 (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -585,7 +593,8 @@
         "cta": {
           "label": "",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w169-standard-hatchback-2004–2008-new-black-completely new generation-a-class w169 (3)-45-angle-front-view.webp"
       }
     ]
   },

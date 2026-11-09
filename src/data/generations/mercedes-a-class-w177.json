@@ -443,37 +443,43 @@
         "slot": "Best Diesel Overall",
         "engine": "OM654 (A 200 d / A 220 d)",
         "quote": "“The most refined diesel in the W177 range. Taxi‑fleet examples regularly exceed 350,000 km with proper servicing; the 190 PS version delivers genuine performance without the cylinder‑head anxiety of the M260 petrol.” Who it’s for: Buyers who need diesel economy and six‑figure mileage potential.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/a-class-w177 lci-a 35 amg-performance hatchback-2022–-special-polar white-facelifted amg-a-class w177 lci a 35 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M282 1.3‑litre (A 200)",
         "quote": "“The sweet spot of the Renault‑Nissan‑Mercedes co‑development. 163 PS is plenty for the W177’s weight, the cylinder‑deactivation system saves fuel at motorway speeds, and the reliability record is better than the M260’s.” Who it’s for: Buyers who want a petrol W177 without the M260’s cylinder‑head anxiety.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/a-class-w177 lci-a 45 s amg-performance hatchback-2022–-special-amg solarbeam yellow-facelifted flagship amg-a-class w177 lci a 45 s amg-45-angle-front-view.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M260 (A 250 / A 35 AMG)",
         "quote": "“Cylinder‑head failure is this engine’s defining risk - misfires that persist after plug and coil replacement point to valve‑seat issues. Mercedes extended the warranty on cylinder heads to 15 years in some markets, which tells you everything.” Who it’s for: Buyers who understand the risk and have full service history.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/a-class-w177 lci-standard amg line-hatchback-2022–-new-designo mocha black metallic-facelifted generation-a-class w177 lci std amg-45-angle-front-view.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M139 (A 45 / A 45 S)",
         "quote": "“The most powerful production four‑cylinder in the world - but also one of the most costly to fix. Oil leaks, carbon buildup, cooling system issues and HPFP failure can add up fast; a full replacement runs well into five figures.” Who it’s for: Performance buyers with deep pockets and warranty cover.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/a-class-w177-a 35 amg-performance hatchback-2019–2022-special-selenite grey metallic-amg bodywork-a-class w177 a 35 amg-45-angle-front-view.webp"
       },
       {
         "slot": "Best Value",
         "engine": "OM608 (A 180 d)",
         "quote": "“Renault K9K‑based, proven over millions of miles across Europe, and the cheapest diesel to replace in the W177 range. DPF and EGR maintenance is the only real demand.” Who it’s for: Buyers who want a cheap‑to‑run diesel hatchback without the OM654’s premium.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/a-class-w177-a 45 s amg-performance hatchback-2019–2022-special-spectral blue metallic-wider aggressive amg treatment-a-class w177 a 45 s amg-45-angle-front-view.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M282 1.3‑litre (A 160)",
         "quote": "“The entry‑level 109 PS version is often dismissed as underpowered, but it’s the lightest, cheapest‑to‑run petrol in the range - and shares the same fundamental reliability as the A 200. For city driving, it’s the sensible choice.” Who it’s for: City drivers who prioritise running costs over performance.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/cars/a-class-w177-a 45 s edition 1-performance hatchback-2019-special-jupiter red-edition-specific graphics and aero-a-class w177 a 45 s ed1-45-angle-front-view.webp"
       }
     ]
   },
@@ -576,7 +582,8 @@
         "cta": {
           "label": "Compare M260 engine prices for your W177 A 250 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w177 lci-a 35 amg-performance hatchback-2022–-special-polar white-facelifted amg-a-class w177 lci a 35 amg-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -604,7 +611,8 @@
         "cta": {
           "label": "Compare OM608 engine prices for your W177 A 180 d →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w177 lci-a 45 s amg-performance hatchback-2022–-special-amg solarbeam yellow-facelifted flagship amg-a-class w177 lci a 45 s amg-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -632,7 +640,8 @@
         "cta": {
           "label": "Compare M282 engine prices for your W177 A 200 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w177 lci-standard amg line-hatchback-2022–-new-designo mocha black metallic-facelifted generation-a-class w177 lci std amg-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -660,7 +669,8 @@
         "cta": {
           "label": "Compare M139 engine prices for your W177 A 45 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/a-class-w177-a 35 amg-performance hatchback-2019–2022-special-selenite grey metallic-amg bodywork-a-class w177 a 35 amg-45-angle-front-view.webp"
       }
     ]
   },
@@ -742,7 +752,7 @@
     ],
     "note": "No Generation variance from the Engine Page baseline figures - W177 hatchback shares identical engine‑bay access with its V177 saloon sibling, so costs are inherited directly per the Authority Model, with no divergence note required."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "A 180 d",

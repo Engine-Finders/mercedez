@@ -218,7 +218,8 @@
         "cta": {
           "label": "Compare W463 OM656 AdBlue repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -246,7 +247,8 @@
         "cta": {
           "label": "Compare W463 M176/M177 coolant system repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -274,7 +276,8 @@
         "cta": {
           "label": "Compare W463 M177 turbo repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -324,7 +327,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "G 350 d",

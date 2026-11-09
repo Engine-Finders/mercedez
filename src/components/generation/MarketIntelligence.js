@@ -5,6 +5,7 @@ import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "./GenIcons";
+import { iconTone } from "@/components/variant/variantTheme";
 
 function splitVehicle(vehicle = "") {
   const match = vehicle.match(/^(.*?)\s((?:E|F|G|W|C|X|R)\d{2,3}\b.*)$/i);
@@ -27,7 +28,7 @@ function StatCard({ icon, title, children, isDark }) {
       <div className="flex items-center gap-2">
         <span
           className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full"
-          style={{ backgroundColor: "rgba(171,132,80,0.18)", color: GOLD }}
+          style={{ backgroundColor: "rgba(171,132,80,0.18)", color: iconTone(isDark) }}
         >
           <GenIcon name={icon} className="h-4 w-4" />
         </span>
@@ -73,10 +74,10 @@ export default function MarketIntelligence({ data }) {
       <div className="relative mx-auto w-full max-w-8xl px-4 md:px-8">
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-[1.35fr_1fr] lg:items-start">
           <div>
-            <SectionLabel number={9} isDark={isDark} />
             <h2 className={`font-lora text-[29px] font-medium leading-[1.08] tracking-normal md:text-[42px] ${isDark ? "text-white" : "text-[var(--color-text)]"}`}>
               Market Intelligence
             </h2>
+            <SectionLabel isDark={isDark} />
 
             <div className="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-4">
               <StatCard icon="chart" title="Most Requested Engines" isDark={isDark}>
@@ -100,7 +101,7 @@ export default function MarketIntelligence({ data }) {
           {data.liveFeed?.length > 0 ? (
             <div className={`overflow-hidden rounded-md border shadow-[0_14px_40px_var(--color-shadow)] backdrop-blur ${feedBorder} ${feedBg}`}>
               <div className={`flex items-center gap-2 border-b px-4 py-3 text-[0.85rem] font-semibold uppercase tracking-wide ${feedBorder} ${feedText}`}>
-                <span style={{ color: GOLD }}>
+                <span style={{ color: iconTone(isDark) }}>
                   <GenIcon name="gauge" className="h-4 w-4" />
                 </span>
                 <span style={{ color: GOLD }}>Live Feed</span>
@@ -136,14 +137,14 @@ export default function MarketIntelligence({ data }) {
                         </div>
 
                         <div className={`flex items-center gap-1.5 ${feedMuted}`}>
-                          <span style={{ color: GOLD }}>
+                          <span style={{ color: iconTone(isDark) }}>
                             <GenIcon name="pin" className="h-3.5 w-3.5 shrink-0" />
                           </span>
                           <span dangerouslySetInnerHTML={{ __html: row.location }} />
                         </div>
 
                         <div className={`flex items-center gap-1.5 ${feedMuted}`}>
-                          <span style={{ color: GOLD }}>
+                          <span style={{ color: iconTone(isDark) }}>
                             <GenIcon name="warning" className="h-3.5 w-3.5 shrink-0" />
                           </span>
                           <span dangerouslySetInnerHTML={{ __html: row.issue }} />
@@ -161,7 +162,7 @@ export default function MarketIntelligence({ data }) {
 
               {data.liveFeed[0]?.updated ? (
                 <div className={`flex items-center justify-end gap-1.5 border-t px-4 py-2.5 text-[0.72rem] ${feedBorder} ${feedSoft}`}>
-                  <span style={{ color: GOLD }}>
+                  <span style={{ color: iconTone(isDark) }}>
                     <GenIcon name="refresh" className="h-3.5 w-3.5 shrink-0" />
                   </span>
                   <span dangerouslySetInnerHTML={{ __html: data.liveFeed[0].updated }} />

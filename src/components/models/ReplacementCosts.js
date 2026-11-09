@@ -3,7 +3,9 @@
 import { useMemo, useState } from "react";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
+import { modelCtaCopy } from "@/lib/ctaLabels";
 import {
   sectionBody,
   sectionDescription,
@@ -239,7 +241,7 @@ function Notes({ parts, isDark }) {
   );
 }
 
-export default function ReplacementCosts({ data }) {
+export default function ReplacementCosts({ data, modelSlug = "" }) {
   const { theme } = useTheme();
   const tables = useMemo(() => normalizeTables(data?.tables || []), [data]);
   if (!data) return null;
@@ -247,6 +249,7 @@ export default function ReplacementCosts({ data }) {
   const isDark = theme === "dark";
   const title = splitTitle(data.h2);
   const notes = splitFiguresNote(data.figuresNote || data.labourEstimate);
+  const cta = modelCtaCopy(modelSlug).costs;
 
   return (
     <section className={`py-6 text-[var(--color-text)] ${homeSectionBg(isDark, 8)}`}>
@@ -298,6 +301,8 @@ export default function ReplacementCosts({ data }) {
         <div className="mt-5">
           <Notes parts={notes} isDark={isDark} />
         </div>
+
+        <SectionQuoteCta label={cta.label} support={cta.support} />
 
         <p className={`mt-5 text-center text-[var(--color-text-soft)] md:hidden ${sectionDescription}`}>
           All prices in GBP (£) &nbsp; • &nbsp; Supply only &nbsp; • &nbsp; Subject to availability and condition

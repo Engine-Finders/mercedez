@@ -743,7 +743,8 @@
         "cta": {
           "label": "Compare M111 engine prices for your W202 C-Class →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w202-facelift-saloon-1997–2000-new-polar white-front rear lamp revision-c-class w202 fl-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -771,7 +772,8 @@
         "cta": {
           "label": "Compare M104 engine prices for your W202 C280 →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w202-standard-saloon-1993–1997-new-black-first c-class generation-c-class w202 (2)-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -799,7 +801,8 @@
         "cta": {
           "label": "Compare OM605 engine prices for your W202 diesel →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w202-standard-saloon-1993–1997-new-black-first c-class generation-c-class w202 (3)-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -827,7 +830,8 @@
         "cta": {
           "label": "Compare W202 steering and suspension repair quotes →",
           "href": "#"
-        }
+        },
+        "image": "/cars/c-class-w202-standard-saloon-1993–1997-new-black-first c-class generation-c-class w202 (4)-45-angle-front-view.webp"
       }
     ]
   },
@@ -957,7 +961,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [
       {
         "name": "C200 Diesel",

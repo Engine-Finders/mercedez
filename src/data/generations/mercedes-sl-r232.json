@@ -347,37 +347,43 @@
         "slot": "Best Diesel Overall",
         "engine": "Omitted",
         "quote": "no diesel engine fitted to the R232.",
-        "whoItsFor": ""
+        "whoItsFor": "",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Petrol Overall",
         "engine": "M177.980 (SL 63 4MATIC+, 577 bhp)",
         "quote": "The twin-turbo 4.0-litre V8 is the heart of the AMG SL - 577 bhp, 800 Nm of torque, and a soundtrack that justifies the premium. Valve cover oil leaks and cooling system issues are its known weak points, but the underlying engine is proven across the Mercedes range.",
-        "whoItsFor": "buyers who want the pure V8 SL experience without hybrid complexity."
+        "whoItsFor": "buyers who want the pure V8 SL experience without hybrid complexity.",
+        "image": "/right.webp"
       },
       {
         "slot": "Highest Risk",
         "engine": "M139.580 (SL 43, 2.0L four-cylinder)",
         "quote": "The F1-derived electric turbo four-cylinder is a technological marvel - but it's also the first four-cylinder SL since the 190 SL of the 1950s. The electric turbocharger and 48V system add complexity beyond a conventional engine.",
-        "whoItsFor": "buyers who prioritise efficiency and accept the four-cylinder's character."
+        "whoItsFor": "buyers who prioritise efficiency and accept the four-cylinder's character.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Expensive Failure",
         "engine": "M177.880 (SL 63 S E Performance)",
         "quote": "The plug-in hybrid V8 combines the M177's complexity with a 150 kW electric motor and 6.1 kWh battery. Two powertrains mean two sets of failure points - and the highest replacement cost in the range.",
-        "whoItsFor": "buyers who want the ultimate SL and have the budget to maintain it."
+        "whoItsFor": "buyers who want the ultimate SL and have the budget to maintain it.",
+        "image": "/right.webp"
       },
       {
         "slot": "Best Value",
         "engine": "M177.980 (SL 55 4MATIC+, 469 bhp)",
         "quote": "The entry-level V8 offers the same core engine as the SL 63, with slightly less power but the same character - and significantly lower acquisition and maintenance costs.",
-        "whoItsFor": "buyers who want V8 performance without the flagship premium."
+        "whoItsFor": "buyers who want V8 performance without the flagship premium.",
+        "image": "/right.webp"
       },
       {
         "slot": "Most Overlooked",
         "engine": "M177.980 (SL 63 4MATIC+, 577 bhp)",
         "quote": "Often overshadowed by the plug-in hybrid, the pure V8 SL 63 offers genuine supercar performance (3.6s to 60mph) with none of the hybrid system's weight or complexity - and a cleaner engine bay for maintenance.",
-        "whoItsFor": "buyers who want the purest AMG SL experience."
+        "whoItsFor": "buyers who want the purest AMG SL experience.",
+        "image": "/right.webp"
       }
     ]
   },
@@ -472,7 +478,8 @@
         "cta": {
           "label": "Compare M177 engine prices for your R232 SL 63 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 2,
@@ -500,7 +507,8 @@
         "cta": {
           "label": "Compare M139 engine prices for your R232 SL 43 →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       },
       {
         "id": 3,
@@ -528,7 +536,8 @@
         "cta": {
           "label": "Compare R232 hybrid engine prices →",
           "href": "#"
-        }
+        },
+        "image": "/right.webp"
       }
     ]
   },
@@ -578,7 +587,7 @@
     ],
     "note": "No Generation variance from the baseline figures - the R232 shares its MSA platform with the second-generation AMG GT, and engine-bay access is consistent across the range."
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

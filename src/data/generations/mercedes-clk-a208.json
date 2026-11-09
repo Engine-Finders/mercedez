@@ -547,7 +547,8 @@
         "cta": {
           "label": "Compare M111 engine prices for your A208 CLK →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a208-cabriolet-convertible-1998–2002-new-horizon blue metallic-separate body-clk a208 cab-45-angle-front-view.webp"
       },
       {
         "id": 2,
@@ -575,7 +576,8 @@
         "cta": {
           "label": "Compare M112/M113 engine prices for your A208 CLK →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a208-cabriolet-convertible-1998–2002-new-horizon blue metallic-separate body-clk a208 cab-45-angle-front-view.webp"
       },
       {
         "id": 3,
@@ -603,7 +605,8 @@
         "cta": {
           "label": "Compare M113 engine prices for your A208 CLK 55 AMG →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a208-cabriolet-convertible-1998–2002-new-horizon blue metallic-separate body-clk a208 cab-45-angle-front-view.webp"
       },
       {
         "id": 4,
@@ -631,7 +634,8 @@
         "cta": {
           "label": "Compare M111 wiring harness replacement quotes for your A208 CLK →",
           "href": "#"
-        }
+        },
+        "image": "/cars/clk-a208-cabriolet-convertible-1998–2002-new-horizon blue metallic-separate body-clk a208 cab-45-angle-front-view.webp"
       }
     ]
   },
@@ -713,7 +717,7 @@
     ],
     "note": ""
   },
-"coreVariants": {
+  "coreVariants": {
     "dieselVariants": [],
     "petrolVariants": [
       {

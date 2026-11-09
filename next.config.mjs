@@ -8,7 +8,7 @@ const nextConfig = {
   trailingSlash: false,
   images: {
     // Vercel Image Optimization returns 402 OPTIMIZED_IMAGE_REQUEST_PAYMENT_REQUIRED
-    // on this project plan — serve public assets directly instead.
+    // on this project plan - serve public assets directly instead.
     unoptimized: true,
     remotePatterns: [
       {
