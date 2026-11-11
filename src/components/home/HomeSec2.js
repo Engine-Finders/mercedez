@@ -7,6 +7,7 @@ import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 
 const MOBILE_MODEL_LIMIT = 5;
@@ -186,13 +187,12 @@ export default function HomeSec2({ data }) {
         ) : null}
 
         <div className="mt-4 md:hidden">
-          <Link
-            href={cta.href || "/quote"}
+          <OpenQuoteButton
             className={`btn-cta ${typeButton} flex w-full items-center justify-center rounded-md px-5 py-3.5 font-semibold text-white`}
             style={{ backgroundColor: GOLD }}
           >
             {cta.label || "START YOUR RESEARCH →"}
-          </Link>
+          </OpenQuoteButton>
         </div>
       </div>
     </section>

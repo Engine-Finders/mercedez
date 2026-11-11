@@ -3,6 +3,7 @@
 import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 import { generationCtaCopy } from "@/lib/ctaLabels";
 import GenIcon from "./GenIcons";
@@ -106,14 +107,13 @@ export default function TrustCta({ data, parent, slug = "" }) {
                 {cta.support || data.finalCta || "Request a specialist quote based on your engine, vehicle details and replacement requirements."}
               </p>
             </div>
-            <a
-              href="/quote"
+            <OpenQuoteButton
               className="btn-cta flex w-full shrink-0 items-center justify-center gap-2 rounded-md px-5 py-3 text-center text-[0.8rem] font-bold tracking-wide text-white md:inline-flex md:w-auto md:whitespace-nowrap"
               style={{ backgroundColor: chromeBg(isDark) }}
             >
               <span>{cta.label}</span>
               <GenIcon name="chevron" className="h-4 w-4" />
-            </a>
+            </OpenQuoteButton>
           </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import { useTheme } from "@/components/shared/themeProvider";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { iconColor } from "@/components/engine/iconTone";
@@ -164,20 +164,18 @@ function CompareCta({ cta, engineCode, desktop = false, isDark }) {
         <p className="mt-2 text-[13px] leading-[1.4] text-white/85">
           Get live pricing from 20+ trusted engine suppliers.
         </p>
-        <Link
-          href="/quote"
+        <OpenQuoteButton
           className={`mt-4 inline-flex min-h-11 items-center justify-center rounded-lg px-4 text-[13px] font-bold uppercase tracking-[0.04em] ${isDark ? "bg-[var(--color-surface)] text-white" : "bg-[var(--color-surface)] text-[var(--color-text)]"}`}
         >
           Compare Prices →
-        </Link>
+        </OpenQuoteButton>
       </article>
     );
   }
 
   return (
-    <Link
-      href="/quote"
-      className={`btn-cta mt-1 flex min-h-12 items-center justify-between gap-3 rounded-xl px-3.5 py-3 text-white shadow-[0_12px_28px_var(--color-shadow)] ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}
+    <OpenQuoteButton
+      className={`btn-cta mt-1 flex min-h-12 w-full items-center justify-between gap-3 rounded-xl px-3.5 py-3 text-left text-white shadow-[0_12px_28px_var(--color-shadow)] ${isDark ? "bg-[var(--color-chrome)]" : "bg-[#AB8450]"}`}
     >
       <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-white/40">
         <svg aria-hidden="true" viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="1.9">
@@ -188,7 +186,7 @@ function CompareCta({ cta, engineCode, desktop = false, isDark }) {
         {label || `Compare Jaguar ${engineCode} engine prices from UK specialists`}
       </span>
       <span aria-hidden="true" className="text-[18px] font-bold">→</span>
-    </Link>
+    </OpenQuoteButton>
   );
 }
 

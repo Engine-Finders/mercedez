@@ -3,7 +3,9 @@
 import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
+import { generationCtaCopy } from "@/lib/ctaLabels";
 import GenIcon from "./GenIcons";
 import { chromeBg, iconTone } from "@/components/variant/variantTheme";
 
@@ -80,7 +82,7 @@ function MobileRow({ row, isDark }) {
 const takeawayIcons = ["diamond", "chart", "trophy"];
 const COLUMN_ICONS = ["engine", "gauge", "warning", "wrench", "refresh", "shield"];
 
-export default function OwnershipEconomics({ data }) {
+export default function OwnershipEconomics({ data, parent = "", slug = "" }) {
   const { theme } = useTheme();
   if (!data) return null;
 
@@ -88,6 +90,7 @@ export default function OwnershipEconomics({ data }) {
   const headerBg = isDark ? "bg-[var(--color-chrome)]" : "";
   const headerDivider = isDark ? "border-white/20" : "border-white/25";
   const bodyWrapperBg = isDark ? "bg-black" : "bg-[var(--color-table-surface)]";
+  const cta = generationCtaCopy(parent, slug).ownership;
 
   return (
     <section className={`relative overflow-hidden py-8 text-[var(--color-text)] md:py-10 ${homeSectionBg(isDark, 5)}`}>
@@ -202,6 +205,8 @@ export default function OwnershipEconomics({ data }) {
             </div>
           ) : null}
         </div>
+
+        <SectionQuoteCta label={cta.label} support={cta.support} />
       </div>
     </section>
   );

@@ -285,11 +285,6 @@ export default function HomeSec10({ data }) {
           <CostsPanel data={data.replacementCosts} isDark={isDark} />
         </div>
 
-        <SectionQuoteCta
-          label="Request a Mercedes-Benz Engine Quote"
-          support="Use our indicative replacement prices as a guide and request a quote for your specific Mercedes-Benz engine."
-        />
-
         <div className="mt-4 grid grid-cols-1 gap-4 md:grid-cols-[1.35fr_1fr] md:gap-4">
           <FailuresPanel data={data.failures} isDark={isDark} />
           <FeedPanel data={data.liveFeed} isDark={isDark} />
@@ -300,6 +295,11 @@ export default function HomeSec10({ data }) {
             {data.footer}
           </p>
         ) : null}
+
+        <SectionQuoteCta
+          label="Request a Mercedes-Benz Engine Quote"
+          support="Use our indicative replacement prices as a guide and request a quote for your specific Mercedes-Benz engine."
+        />
       </div>
     </section>
   );

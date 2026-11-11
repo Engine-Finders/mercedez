@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useState } from "react";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
 import { chromeBg, iconTone } from "@/components/variant/variantTheme";
@@ -130,9 +131,8 @@ export default function EngineCodes({ data }) {
   ) : null;
 
   const quoteCtaBanner = data.cta?.label ? (
-    <a
-      href="/quote"
-      className="btn-cta relative flex items-center gap-4 overflow-hidden rounded-xl border p-5 text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
+    <OpenQuoteButton
+      className="btn-cta relative flex w-full items-center gap-4 overflow-hidden rounded-xl border p-5 text-left text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
       style={{ borderColor: "rgba(171,132,80,0.35)", backgroundColor: "#0a0a0a" }}
     >
       <div className="absolute inset-0">
@@ -151,7 +151,7 @@ export default function EngineCodes({ data }) {
           <p className="mt-1 text-[0.78rem] leading-[1.4] text-white/80">Get quotes from trusted UK specialists in minutes.</p>
         </div>
       </div>
-    </a>
+    </OpenQuoteButton>
   ) : null;
 
   return (

@@ -24,6 +24,7 @@ import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 
 const VERDICT_STYLE = {
@@ -133,13 +134,12 @@ function FooterCta({ data, isDark }) {
         </p>
       </div>
 
-      <Link
-        href={data.href || "/quote"}
+      <OpenQuoteButton
         className={`btn-cta ${typeButton} inline-flex w-full shrink-0 items-center justify-center rounded-md border px-4 py-2.5 font-semibold uppercase tracking-wide no-underline md:w-auto md:px-5 md:py-3`}
         style={{ borderColor: GOLD, color: GOLD, backgroundColor: "#0a0a0a" }}
       >
         {data.buttonLabel || "GET EXPERT ADVICE →"}
-      </Link>
+      </OpenQuoteButton>
     </div>
   );
 }

@@ -24,7 +24,9 @@ import Image from "next/image";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
+import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
+import { useRouter } from "next/navigation";
 
 function GoldH3Strip({ className = "w-12" }) {
   return (
@@ -207,6 +209,7 @@ function SelectField({ value, onChange, placeholder, options, isDark, darkCard }
 }
 
 function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, setActiveStep, exampleResult }) {
+  const router = useRouter();
   const calc = data || {};
   const [model, setModel] = useState("");
   const [engine, setEngine] = useState("");
@@ -230,6 +233,36 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
   function back() {
     if (activeStep > 1) setActiveStep(activeStep - 1);
     else setStarted(false);
+  }
+
+  function startDiagnosisQuote() {
+    const details = {
+      model,
+      engine,
+      category,
+      symptom,
+      age,
+      value,
+      mileage,
+      result: exampleResult
+        ? {
+            fault: exampleResult.fault,
+            commonOn: exampleResult.commonOn,
+            symptomsMatch: exampleResult.symptomsMatch,
+            repairCost: exampleResult.repairCost,
+            replaceCost: exampleResult.replaceCost,
+          }
+        : null,
+      source: "home-diagnostic-calculator",
+    };
+
+    try {
+      sessionStorage.setItem("bmw_quote_calculator", JSON.stringify(details));
+    } catch {
+      // ignore storage failures; still continue to quote
+    }
+
+    router.push("/quote?from=calculator");
   }
 
   return (
@@ -365,13 +398,14 @@ function CalculatorPanel({ data, steps = [], started, setStarted, activeStep, se
               <p className={`${typeSmall} text-white/70`}>
                 Understand the likely engine fault, repair costs and whether replacement may be necessary.
               </p>
-              <a
-                href="/quote"
-                className={`btn-cta ${typeButton} mt-2.5 flex w-full items-center justify-center rounded-md px-4 py-2.5 font-semibold text-white no-underline`}
+              <button
+                type="button"
+                onClick={startDiagnosisQuote}
+                className={`btn-cta ${typeButton} mt-2.5 flex w-full items-center justify-center rounded-md px-4 py-2.5 font-semibold uppercase tracking-wide text-white`}
                 style={{ backgroundColor: "#0a0a0a", border: "1px solid rgba(255,255,255,0.2)" }}
               >
-                Get Mercedes-Benz Specialist Advice →
-              </a>
+                START DIAGNOSIS →
+              </button>
             </div>
           ) : null}
         </>
@@ -471,6 +505,11 @@ export default function HomeSec3({ data }) {
         </div>
 
         <BottomStats items={data.bottomStats} isDark={isDark} />
+
+        <SectionQuoteCta
+          label="Get Mercedes-Benz Specialist Advice"
+          support="Understand the likely engine fault, repair costs and whether replacement may be necessary."
+        />
       </div>
     </section>
   );

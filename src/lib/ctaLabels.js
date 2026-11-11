@@ -58,5 +58,9 @@ export function generationCtaCopy(parentSlug = "", chassisSlug = "") {
       label: `Get a Mercedes-Benz ${full} Engine Quote`,
       support: `Request a specialist quote based on your ${gen || model} engine, vehicle details and replacement requirements.`,
     },
+    ownership: {
+      label: `Get a Mercedes-Benz ${full} Engine Quote`,
+      support: `Compare replacement costs against your ${full}'s value before deciding on your next step.`,
+    },
   };
 }

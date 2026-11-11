@@ -302,11 +302,11 @@ export default function ReplacementCosts({ data, modelSlug = "" }) {
           <Notes parts={notes} isDark={isDark} />
         </div>
 
-        <SectionQuoteCta label={cta.label} support={cta.support} />
-
         <p className={`mt-5 text-center text-[var(--color-text-soft)] md:hidden ${sectionDescription}`}>
           All prices in GBP (£) &nbsp; • &nbsp; Supply only &nbsp; • &nbsp; Subject to availability and condition
         </p>
+
+        <SectionQuoteCta label={cta.label} support={cta.support} />
       </div>
     </section>
   );

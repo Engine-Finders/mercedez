@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/shared/Navbar";
 import Footer from "@/components/shared/Footer";
 import FreeQuoteSticky from "@/components/shared/FreeQuoteForm";
+import { QuoteModalProvider } from "@/components/shared/quoteModalContext";
 import { ThemeProvider } from "@/components/shared/themeProvider";
 
 const lora = Lora({
@@ -63,10 +64,12 @@ export default function RootLayout({ children }) {
           `}
         </Script>
         <ThemeProvider>
-          <Navbar />
-          <div className="flex-1 bg-[var(--color-page)]">{children}</div>
-          <Footer />
-          <FreeQuoteSticky />
+          <QuoteModalProvider>
+            <Navbar />
+            <div className="flex-1 bg-[var(--color-page)]">{children}</div>
+            <Footer />
+            <FreeQuoteSticky />
+          </QuoteModalProvider>
         </ThemeProvider>
       </body>
     </html>

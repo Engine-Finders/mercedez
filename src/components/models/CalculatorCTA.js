@@ -1,9 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, SectionFadeStrip } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 import { modelCtaCopy } from "@/lib/ctaLabels";
 import {
@@ -134,14 +134,13 @@ function PrimaryPath({ pathLabel, modelName, isDark }) {
         <CircleIcon name="engineSearch" isDark={isDark} large className="order-1 md:order-2" />
       </div>
 
-      <Link
-        href="/quote"
-        className={`mt-3.5 flex min-h-12 items-center justify-between gap-2.5 rounded-md px-3.5 py-2.5 font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] transition-all duration-200 hover:opacity-90 ${sectionButton}`}
+      <OpenQuoteButton
+        className={`mt-3.5 flex min-h-12 w-full items-center justify-between gap-2.5 rounded-md px-3.5 py-2.5 font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] transition-all duration-200 hover:opacity-90 ${sectionButton}`}
         style={{ backgroundColor: GOLD }}
       >
         <span className="flex min-w-0 items-center gap-2.5">
           <Icon name="calculator" isDark className="h-8 w-8 shrink-0" />
-          <span className="min-w-0">
+          <span className="min-w-0 text-left">
             <span className="block leading-tight">{pathLabel}</span>
             <span className={`mt-0.5 block font-normal leading-tight ${sectionSmall}`}>
               <span dangerouslySetInnerHTML={{ __html: modelName }} /> quote journey
@@ -149,7 +148,7 @@ function PrimaryPath({ pathLabel, modelName, isDark }) {
           </span>
         </span>
         <ArrowIcon className="h-5 w-5 shrink-0" />
-      </Link>
+      </OpenQuoteButton>
 
       <ul className="mt-4 grid grid-cols-3 gap-2.5">
         <Feature icon="check" title={`${modelName} pre-selected`} text="All generations covered" isDark={isDark} />
@@ -178,20 +177,19 @@ function SecondaryPath({ pathLabel, isDark }) {
         <CircleIcon name="documentSearch" isDark={isDark} large className="order-1 md:order-2" />
       </div>
 
-      <Link
-        href="/quote"
-        className={`mt-3.5 flex min-h-12 items-center justify-between gap-2.5 rounded-md border px-3.5 py-2.5 font-bold no-underline transition-all duration-200 hover:opacity-90 ${sectionButton}`}
+      <OpenQuoteButton
+        className={`mt-3.5 flex min-h-12 w-full items-center justify-between gap-2.5 rounded-md border px-3.5 py-2.5 font-bold no-underline transition-all duration-200 hover:opacity-90 ${sectionButton}`}
         style={{ borderColor: GOLD, color: GOLD }}
       >
         <span className="flex min-w-0 items-center gap-2.5">
           <Icon name="engineQuestion" isDark={isDark} className="h-8 w-8 shrink-0" />
-          <span className="min-w-0">
+          <span className="min-w-0 text-left">
             <span className="block leading-tight">{pathLabel}</span>
             <span className={`mt-0.5 block font-normal leading-tight text-[var(--color-text-muted)] ${sectionSmall}`}>Then continue to your quote</span>
           </span>
         </span>
         <ArrowIcon className="h-5 w-5 shrink-0" />
-      </Link>
+      </OpenQuoteButton>
 
       <div className="mt-4 flex gap-3 rounded-md bg-[var(--color-page-soft)] p-3.5">
         <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-white" style={{ backgroundColor: GOLD }}>
