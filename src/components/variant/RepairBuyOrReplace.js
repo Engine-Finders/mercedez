@@ -4,6 +4,7 @@ import { Fragment } from "react";
 import Image from "next/image";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
 import { chromeBg, iconTone } from "@/components/variant/variantTheme";
@@ -218,14 +219,13 @@ export default function RepairBuyOrReplace({ data }) {
                   <span className="block">Get the right engine at the right price.</span>
                 </p>
               </div>
-              <a
-                href="/quote"
+              <OpenQuoteButton
                 className="btn-cta relative z-10 flex w-fit items-center justify-center gap-2 whitespace-nowrap rounded-md px-4 py-3.5 text-center text-[0.7rem] font-bold uppercase tracking-wide text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
                 style={{ backgroundColor: chromeBg(isDark) }}
               >
                 <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
                 {data.cta.label}
-              </a>
+              </OpenQuoteButton>
             </div>
           ) : null}
         </div>
@@ -247,14 +247,13 @@ export default function RepairBuyOrReplace({ data }) {
                 <p className={`text-[0.8rem] leading-[1.45] ${isDark ? "text-white/75" : "text-[var(--color-text-muted)]"}`}>
                   Get real quotes from vetted UK specialists and make the right call.
                 </p>
-                <a
-                  href="/quote"
+                <OpenQuoteButton
                   className="btn-cta flex w-full items-center justify-center gap-2 rounded-xl px-3 py-2.5 text-center text-[0.78rem] font-bold text-white no-underline shadow-md"
                   style={{ backgroundColor: chromeBg(isDark) }}
                 >
                   {data.cta.label}
                   <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
-                </a>
+                </OpenQuoteButton>
               </div>
 
               <div className="relative h-[110px] w-[110px] shrink-0">

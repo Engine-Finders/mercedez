@@ -24,6 +24,7 @@ import HomeIcon from "@/components/home/homeIcons";
 import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import TrustBadges from "@/components/reusableComponents/TrustBadges";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 
 function CentreCard({ item, isDark }) {
@@ -84,13 +85,12 @@ function BottomBar({ data, isDark }) {
           </li>
         ))}
       </ul>
-      <Link
-        href={data.cta?.href || "/quote"}
+      <OpenQuoteButton
         className={`inline-flex shrink-0 items-center justify-center rounded-md border px-5 py-2.5 ${typeButton} font-semibold uppercase tracking-wide no-underline`}
         style={{ borderColor: GOLD, color: GOLD }}
       >
         {data.cta?.label || "GET EXPERT ADVICE →"}
-      </Link>
+      </OpenQuoteButton>
     </div>
   );
 }

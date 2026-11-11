@@ -3,6 +3,7 @@
 import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
 import { chromeBg, variantModelImage } from "@/components/variant/variantTheme";
@@ -59,14 +60,13 @@ export default function QuotesCta({ data, parent = "" }) {
               ) : null}
 
               {data.button ? (
-                <a
-                  href="/quote"
+                <OpenQuoteButton
                   className="btn-cta mt-1 flex w-full shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-md px-4 py-2.5 text-center text-[0.76rem] font-bold text-white no-underline shadow-[0_12px_28px_rgba(0,0,0,0.35)] md:w-fit md:px-6 md:py-3.5 md:text-[0.85rem]"
                   style={{ backgroundColor: chromeBg(isDark) }}
                 >
                   {data.button.label.replace(/\s*→\s*$/, "")}
                   <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
-                </a>
+                </OpenQuoteButton>
               ) : null}
             </div>
           </div>

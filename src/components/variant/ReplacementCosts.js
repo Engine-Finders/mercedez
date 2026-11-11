@@ -3,6 +3,7 @@
 import { useState } from "react";
 import SectionHeaderBand from "@/components/reusableComponents/SectionHeaderBand";
 import { GOLD, homeSectionBg, sectionPanelBg, sectionPanelRgb } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
 import { chromeBg, iconTone } from "@/components/variant/variantTheme";
@@ -186,28 +187,26 @@ export default function ReplacementCosts({ data }) {
               </>
             ) : null}
             {data.cta?.label ? (
-              <a
-                href="/quote"
+              <OpenQuoteButton
                 className="btn-cta flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-xl px-4 py-2.5 text-[0.8rem] font-bold text-white no-underline shadow-[0_12px_28px_var(--color-shadow)]"
                 style={{ backgroundColor: chromeBg(isDark) }}
               >
                 <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
                 {data.cta.label}
-              </a>
+              </OpenQuoteButton>
             ) : null}
           </div>
         ) : null}
 
         {data.cta?.label ? (
-          <a
-            href="/quote"
+          <OpenQuoteButton
             className="btn-cta mt-4 flex w-full items-center justify-center gap-2 rounded-xl px-3 py-2.5 text-white no-underline shadow-[0_12px_28px_var(--color-shadow)] md:hidden"
             style={{ backgroundColor: chromeBg(isDark) }}
           >
             <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
             <span className="whitespace-nowrap text-center text-[0.78rem] font-bold">{data.cta.label}</span>
             <GenIcon name="chevron" className="h-4 w-4 shrink-0" />
-          </a>
+          </OpenQuoteButton>
         ) : null}
       </div>
     </section>

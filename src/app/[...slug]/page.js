@@ -222,7 +222,7 @@ export default async function CatchAllPage({ params }) {
         <GenEngineDatabase data={data.engineDatabase} />
         <Overview data={data.overview} />
         <BestWorstEngines data={data.bestWorstEngines} parent={entry.parent} slug={entry.slug} />
-        <OwnershipEconomics data={data.ownershipEconomics} />
+        <OwnershipEconomics data={data.ownershipEconomics} parent={entry.parent} slug={entry.slug} />
         <GenProblems data={data.commonProblems} parent={entry.parent} slug={entry.slug} />
         <GenReplacementCosts data={data.replacementCosts} parent={entry.parent} slug={entry.slug} />
         <CoreVariants data={data.coreVariants} parentSlug={entry.parent} />

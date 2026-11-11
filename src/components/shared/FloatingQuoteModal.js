@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useId, useMemo, useState } from "react";
+import { useEffect, useId, useMemo, useState } from "react";
 import { buildQuoteLeadPayload } from "@/app/api/lib/buildLeadPayload";
 import { resolveVehicleImage } from "@/lib/resolveVehicleImage";
 
@@ -194,9 +194,13 @@ function UkPlate({ value, editable, onChange, inputId }) {
   );
 }
 
-export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
+export default function FloatingQuoteModal({ titleId, closeRef, onClose, initialReg = "" }) {
   const uid = useId();
-  const [regInput, setRegInput] = useState("");
+  const [regInput, setRegInput] = useState(() =>
+    String(initialReg || "")
+      .replace(/\s+/g, "")
+      .toUpperCase(),
+  );
   const [vehicle, setVehicle] = useState(emptyVehicle);
   const [lookupLoading, setLookupLoading] = useState(false);
   const [lookupAlert, setLookupAlert] = useState({ type: "", message: "" });
@@ -224,14 +228,17 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
     [vehicle.brand, vehicle.series, vehicle.model, vehicle.vrm],
   );
 
-  async function lookupVehicle(event) {
-    event?.preventDefault?.();
-    const reg = regInput.replace(/\s+/g, "").toUpperCase();
+  async function lookupVehicle(eventOrReg) {
+    eventOrReg?.preventDefault?.();
+    const reg = String(typeof eventOrReg === "string" ? eventOrReg : regInput)
+      .replace(/\s+/g, "")
+      .toUpperCase();
     if (!reg) {
       setLookupAlert({ type: "error", message: "Enter a registration number first." });
       return;
     }
 
+    setRegInput(reg);
     setLookupLoading(true);
     setLookupAlert({ type: "", message: "" });
     setSubmitted(false);
@@ -265,6 +272,17 @@ export default function FloatingQuoteModal({ titleId, closeRef, onClose }) {
       setLookupLoading(false);
     }
   }
+
+  useEffect(() => {
+    const cleaned = String(initialReg || "")
+      .replace(/\s+/g, "")
+      .toUpperCase();
+    if (!cleaned) return undefined;
+    void lookupVehicle(cleaned);
+    return undefined;
+    // Auto-fetch once when opened from hero with a registration.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [initialReg]);
 
   async function handleSubmit(event) {
     event.preventDefault();

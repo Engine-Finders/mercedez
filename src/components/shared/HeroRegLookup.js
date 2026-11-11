@@ -1,12 +1,12 @@
 "use client";
 
 import { useId, useState } from "react";
-import { useRouter } from "next/navigation";
 import UkPlate from "@/components/shared/UkPlate";
+import { useQuoteModal } from "@/components/shared/quoteModalContext";
 
 /**
- * Hero registration lookup - yellow GB plate + CTA.
- * Navigates to /quote?reg=… (vehicle fetch happens on the quote page).
+ * Hero registration lookup — yellow GB plate + CTA.
+ * Opens sticky quote modal and auto-fetches vehicle when a reg is entered.
  */
 export default function HeroRegLookup({
   ctaLabel = "Get Instant Quote →",
@@ -14,18 +14,14 @@ export default function HeroRegLookup({
   buttonClassName = "",
   plateClassName = "",
 }) {
-  const router = useRouter();
+  const { openQuoteModal } = useQuoteModal();
   const uid = useId();
   const [regInput, setRegInput] = useState("");
 
   function onSubmit(event) {
     event.preventDefault();
     const cleaned = regInput.replace(/\s+/g, "").toUpperCase();
-    if (!cleaned) {
-      router.push("/quote");
-      return;
-    }
-    router.push(`/quote?reg=${encodeURIComponent(cleaned)}`);
+    openQuoteModal({ reg: cleaned });
   }
 
   const label = String(ctaLabel || "Get Instant Quote →").replace(/\s*→\s*$/, "");

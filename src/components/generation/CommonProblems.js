@@ -4,6 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import SectionQuoteCta from "@/components/shared/SectionQuoteCta";
 import { useTheme } from "@/components/shared/themeProvider";
 import { generationCtaCopy } from "@/lib/ctaLabels";
@@ -137,13 +138,10 @@ function AccordionCard({ problem, isDark, isOpen, onToggle, imageSrc }) {
 
           {problem.cta ? (
             <div className="px-4 py-4">
-              <a
-                href="/quote"
-                className="btn-cta flex h-11 w-full items-center rounded-md bg-[var(--color-primary)] px-4 text-white"
-              >
+              <OpenQuoteButton className="btn-cta flex h-11 w-full items-center rounded-md bg-[var(--color-primary)] px-4 text-white">
                 <span className="flex-1 text-center text-[0.8rem] font-semibold" dangerouslySetInnerHTML={{ __html: problem.cta.label.replace(/\s*→\s*$/, "") }} />
                 <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
-              </a>
+              </OpenQuoteButton>
             </div>
           ) : null}
         </div>
@@ -223,13 +221,10 @@ function ProblemCard({ problem, isDark, imageSrc }) {
 
       {problem.cta ? (
         <div className="mt-auto border-t border-[var(--color-border)] px-4 py-4">
-          <a
-            href="/quote"
-            className="flex h-11 w-full items-center rounded-md bg-[var(--color-primary)] px-4 text-white"
-          >
+          <OpenQuoteButton className="flex h-11 w-full items-center rounded-md bg-[var(--color-primary)] px-4 text-white">
             <span className="flex-1 text-center text-[0.8rem] font-semibold" dangerouslySetInnerHTML={{ __html: problem.cta.label.replace(/\s*→\s*$/, "") }} />
             <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
-          </a>
+          </OpenQuoteButton>
         </div>
       ) : null}
     </div>

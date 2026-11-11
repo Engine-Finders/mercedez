@@ -252,11 +252,6 @@ export default function HomeSec6({ data }) {
             <DecisionMatrix matrix={data.matrix} isDark={isDark} />
             <div className="grid gap-3 md:gap-4">
               <RuleCard data={data.ruleOfThumb} isDark={isDark} />
-              <SectionQuoteCta
-                label="Get a Mercedes-Benz Engine Quote"
-                support="Compare replacement costs against your Mercedes-Benz's value before deciding on your next step."
-                className="mt-0"
-              />
               <LinksCard data={data.deeperLinks} isDark={isDark} />
             </div>
           </div>
@@ -291,6 +286,11 @@ export default function HomeSec6({ data }) {
             </div>
           ) : null}
         </div>
+
+        <SectionQuoteCta
+          label="Get a Mercedes-Benz Engine Quote"
+          support="Compare replacement costs against your Mercedes-Benz's value before deciding on your next step."
+        />
       </div>
     </section>
   );

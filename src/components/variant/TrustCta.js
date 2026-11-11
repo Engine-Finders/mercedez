@@ -3,6 +3,7 @@
 import Image from "next/image";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import { useTheme } from "@/components/shared/themeProvider";
 import GenIcon from "../generation/GenIcons";
 import { chromeBg, iconTone } from "@/components/variant/variantTheme";
@@ -74,14 +75,13 @@ export default function TrustCta({ data }) {
                   <p className={`text-[1rem] font-bold leading-[1.4] md:text-[1.2rem] ${headingClass}`} dangerouslySetInnerHTML={{ __html: data.finalCta }} />
                 ) : null}
                 {data.ctaButton ? (
-                  <a
-                    href="/quote"
+                  <OpenQuoteButton
                     className="btn-cta flex w-full shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-lg px-4 py-2.5 text-center text-[0.74rem] font-bold text-white no-underline shadow-[0_12px_28px_rgba(0,0,0,0.35)] md:w-auto md:px-6 md:py-3 md:text-[0.8rem]"
                     style={{ backgroundColor: chromeBg(isDark) }}
                   >
                     {data.ctaButton.label.replace(/\s*→\s*$/, "")}
                     <GenIcon name="arrow" className="h-4 w-4 shrink-0" />
-                  </a>
+                  </OpenQuoteButton>
                 ) : null}
               </div>
             </div>

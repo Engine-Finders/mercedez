@@ -1,7 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import { useTheme } from "@/components/shared/themeProvider";
+import OpenQuoteButton from "@/components/shared/OpenQuoteButton";
 import SectionLabel from "@/components/reusableComponents/SectionLabel";
 import { GOLD, homeSectionBg } from "@/components/home/sectionBg";
 import { iconColor } from "@/components/engine/iconTone";
@@ -152,12 +152,11 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
             {highlightConfidence(data.finalCta)}
           </p>
           {data.ctaButton?.href ? (
-            <Link
-              href="/quote"
+            <OpenQuoteButton
               className={`btn-cta inline-flex min-h-11 shrink-0 items-center justify-center rounded-lg bg-[#AB8450] px-5 font-bold text-white ${sectionButton}`}
             >
               {ctaLabel || `Compare ${engineCode} Engine Prices Now`} →
-            </Link>
+            </OpenQuoteButton>
           ) : null}
         </div>
 
@@ -202,13 +201,12 @@ export default function TrustCta({ data, engineLabel = "BMW Engine" }) {
               )}
             </p>
             {data.ctaButton?.href ? (
-              <Link
-                href="/quote"
+              <OpenQuoteButton
                 className={`btn-cta mt-3 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-lg bg-[#AB8450] px-4 font-bold text-white ${sectionButton}`}
               >
                 <span>{ctaLabel || `Compare ${engineCode} Engine Prices Now`}</span>
                 <span aria-hidden="true">→</span>
-              </Link>
+              </OpenQuoteButton>
             ) : null}
           </article>
         </div>
