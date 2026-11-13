@@ -9,7 +9,8 @@ export default function CookiesPolicyPage() {
   return (
     <LegalPage title="Cookies Policy" updated="22 October 2026">
       <p>
-        This Cookies Policy explains how mercedesengines.uk uses cookies and similar technologies.
+        This Cookies Policy explains how mercedesengines.uk (operated by PRESTIGE AUTO ENGINEERING LTD, Company number
+        17406830) uses cookies and similar technologies.
       </p>
 
       <h2>What are cookies?</h2>
