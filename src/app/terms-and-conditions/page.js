@@ -13,6 +13,15 @@ export default function TermsAndConditionsPage() {
         site.
       </p>
 
+      <h2>Company details</h2>
+      <p>
+        mercedesengines.uk is operated by PRESTIGE AUTO ENGINEERING LTD
+        <br />
+        Unit A5 Windsor Road Commercial Estate, Ramsden Heath, Billericay, United Kingdom, CM11 1QE
+        <br />
+        Company number 17406830
+      </p>
+
       <h2>About this site</h2>
       <p>
         Mercedes Engines UK provides independent editorial guides, tools and ownership information about Mercedes-Benz
