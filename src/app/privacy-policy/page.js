@@ -11,8 +11,18 @@ export default function PrivacyPolicyPage() {
     <LegalPage title="Privacy Policy" updated="22 October 2026">
       <p>
         This Privacy Policy explains how Mercedes Engines UK (&quot;we&quot;,
-        &quot;us&quot;) handles personal information when you use
-        mercedesengines.uk.
+        &quot;us&quot;), operated by PRESTIGE AUTO ENGINEERING LTD, handles
+        personal information when you use mercedesengines.uk.
+      </p>
+
+      <h2>Company details</h2>
+      <p>
+        PRESTIGE AUTO ENGINEERING LTD
+        <br />
+        Unit A5 Windsor Road Commercial Estate, Ramsden Heath, Billericay,
+        United Kingdom, CM11 1QE
+        <br />
+        Company number 17406830
       </p>
 
       <h2>Information we collect</h2>
@@ -68,7 +78,9 @@ export default function PrivacyPolicyPage() {
 
       <h2>Contact</h2>
       <p>
-        For privacy questions, contact us via the Contact page on this website.
+        For privacy questions, contact us via the Contact page on this website,
+        or write to PRESTIGE AUTO ENGINEERING LTD, Unit A5 Windsor Road
+        Commercial Estate, Ramsden Heath, Billericay, United Kingdom, CM11 1QE.
       </p>
     </LegalPage>
   );
