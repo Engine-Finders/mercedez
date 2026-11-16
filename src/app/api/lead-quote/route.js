@@ -11,6 +11,12 @@ const SUPABASE_WEBHOOK_URL =
 const SUPABASE_ANON_KEY =
   process.env.SUPABASE_ANON_KEY ||
   "REDACTED";
+const SUPABASE_WEBHOOK_URL_2 =
+  process.env.SUPABASE_WEBHOOK_URL_2 ||
+  "";
+const SUPABASE_ANON_KEY_2 =
+  process.env.SUPABASE_ANON_KEY_2 ||
+  "REDACTED";
 
 const resend = new Resend(RESEND_API_KEY);
 
@@ -102,38 +108,45 @@ export async function POST(req) {
       emailStatus = `Resend Exception: ${resendErr.message}`;
     }
 
-    // 2. Optional Supabase / Webhook forwarding
-    if (SUPABASE_WEBHOOK_URL) {
-      try {
-        await fetch(SUPABASE_WEBHOOK_URL, {
+    // 2. Optional Supabase / Webhook forwarding (DB1 + DB2)
+    const leadBody = {
+      name,
+      email,
+      number: phone,
+      postcode: postal,
+      vehicle_reg: VRM,
+      vehicle_brand: vehicle_make,
+      vehicle_model: vehicle_model,
+      vehicle_year: vehicle_year,
+      fuel_type: vehicle_fuel,
+      engine_capacity: vehicle_fuel_capacity,
+      description: note,
+      source: siteName,
+      source_page: pageUrl,
+    };
+
+    const webhookTargets = [
+      { url: SUPABASE_WEBHOOK_URL, key: SUPABASE_ANON_KEY },
+      { url: SUPABASE_WEBHOOK_URL_2, key: SUPABASE_ANON_KEY_2 },
+    ].filter((target) => target.url);
+
+    await Promise.allSettled(
+      webhookTargets.map(async (target) => {
+        await fetch(target.url, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            ...(SUPABASE_ANON_KEY
+            ...(target.key
               ? {
-                  Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
-                  apikey: SUPABASE_ANON_KEY,
+                  Authorization: `Bearer ${target.key}`,
+                  apikey: target.key,
                 }
               : {}),
           },
-          body: JSON.stringify({
-            name,
-            email,
-            number: phone,
-            postcode: postal,
-            vehicle_reg: VRM,
-            vehicle_brand: vehicle_make,
-            vehicle_model: vehicle_model,
-            vehicle_year: vehicle_year,
-            fuel_type: vehicle_fuel,
-            engine_capacity: vehicle_fuel_capacity,
-            description: note,
-            source: siteName,
-            source_page: pageUrl,
-          }),
+          body: JSON.stringify(leadBody),
         });
-      } catch {}
-    }
+      }),
+    );
 
     return Response.json({
       success: true,

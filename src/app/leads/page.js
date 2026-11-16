@@ -18,6 +18,7 @@ export default function LeadsPage() {
         <p className="mt-2 text-sm text-[var(--color-text-muted)]">
           Showing leads where <code className="font-semibold">source</code> is{" "}
           <span className="font-semibold text-[var(--color-primary)]">{LEAD_SOURCE}</span>.
+          Use DB1 / DB2 to switch between the existing and new Supabase projects.
         </p>
       </div>
       <LeadsTable />

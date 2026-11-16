@@ -6,13 +6,15 @@ export async function GET(request) {
     const { searchParams } = new URL(request.url);
     const limit = Number(searchParams.get("limit") || 100);
     const source = searchParams.get("source") || LEAD_SOURCE;
+    const db = searchParams.get("db") === "2" ? "2" : "1";
 
     const leads = await fetchSiteLeads({
       source,
+      db,
       limit: Number.isFinite(limit) ? Math.min(Math.max(limit, 1), 500) : 100,
     });
 
-    return Response.json({ success: true, source, leads });
+    return Response.json({ success: true, source, db, leads });
   } catch (error) {
     console.error("fetch leads failed", error);
     return Response.json(
