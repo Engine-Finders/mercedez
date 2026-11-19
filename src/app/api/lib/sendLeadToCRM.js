@@ -1,30 +1,14 @@
 import { toCrmLeadPayload } from "@/app/api/lib/buildLeadPayload";
 import { LEAD_SOURCE } from "@/app/api/lib/leadConfig";
 
-const SUPABASE_WEBHOOK_URL =
-  process.env.SUPABASE_WEBHOOK_URL ||
-  "";
-
-const SUPABASE_ANON_KEY =
-  process.env.SUPABASE_ANON_KEY ||
-  "REDACTED";
-
-const SUPABASE_URL =
-  process.env.SUPABASE_URL || "";
-
+const SUPABASE_WEBHOOK_URL = process.env.SUPABASE_WEBHOOK_URL || "";
+const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || "";
+const SUPABASE_URL = process.env.SUPABASE_URL || "";
 const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY || "";
 
-const SUPABASE_WEBHOOK_URL_2 =
-  process.env.SUPABASE_WEBHOOK_URL_2 ||
-  "";
-
-const SUPABASE_ANON_KEY_2 =
-  process.env.SUPABASE_ANON_KEY_2 ||
-  "REDACTED";
-
-const SUPABASE_URL_2 =
-  process.env.SUPABASE_URL_2 || "";
-
+const SUPABASE_WEBHOOK_URL_2 = process.env.SUPABASE_WEBHOOK_URL_2 || "";
+const SUPABASE_ANON_KEY_2 = process.env.SUPABASE_ANON_KEY_2 || "";
+const SUPABASE_URL_2 = process.env.SUPABASE_URL_2 || "";
 const SUPABASE_SERVICE_ROLE_KEY_2 = process.env.SUPABASE_SERVICE_ROLE_KEY_2 || "";
 
 async function postLeadWebhook(url, anonKey, body, label) {

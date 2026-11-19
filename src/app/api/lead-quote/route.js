@@ -5,18 +5,10 @@ const RESEND_FROM_EMAIL =
   process.env.RESEND_FROM_EMAIL || "Quote Sales <sales@enginesmarket.co.uk>";
 const LEAD_RECIPIENT_EMAIL =
   process.env.LEAD_EMAIL_RECIPIENT || process.env.SMTP_TO_EMAIL || "ef2crm@gmail.com";
-const SUPABASE_WEBHOOK_URL =
-  process.env.SUPABASE_WEBHOOK_URL ||
-  "";
-const SUPABASE_ANON_KEY =
-  process.env.SUPABASE_ANON_KEY ||
-  "REDACTED";
-const SUPABASE_WEBHOOK_URL_2 =
-  process.env.SUPABASE_WEBHOOK_URL_2 ||
-  "";
-const SUPABASE_ANON_KEY_2 =
-  process.env.SUPABASE_ANON_KEY_2 ||
-  "REDACTED";
+const SUPABASE_WEBHOOK_URL = process.env.SUPABASE_WEBHOOK_URL || "";
+const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || "";
+const SUPABASE_WEBHOOK_URL_2 = process.env.SUPABASE_WEBHOOK_URL_2 || "";
+const SUPABASE_ANON_KEY_2 = process.env.SUPABASE_ANON_KEY_2 || "";
 
 const resend = new Resend(RESEND_API_KEY);
 

@@ -15,7 +15,7 @@ export async function fetchVehicleDetails(regNumber, options = {}) {
     options.apiKey ||
     process.env.VEHICLE_API_KEY ||
     process.env.NEXT_PUBLIC_VEHICLE_API_KEY ||
-    "REDACTED";
+    "";
 
   const apiUrl = `https://api.checkcardetails.co.uk/vehicledata/ukvehicledata?apikey=${apiKey}&vrm=${encodeURIComponent(cleaned)}`;
 

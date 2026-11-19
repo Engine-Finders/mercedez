@@ -11,7 +11,7 @@ export async function GET(request) {
     process.env.CHECKCARDETAILS_API_KEY ||
     process.env.VEHICLE_API_KEY ||
     process.env.API_KEY ||
-    "REDACTED";
+    "";
 
   if (!apiKey) {
     return Response.json({ error: "Vehicle lookup API key is not configured" }, { status: 500 });
@@ -84,7 +84,7 @@ export async function POST(request) {
       process.env.CHECKCARDETAILS_API_KEY ||
       process.env.VEHICLE_API_KEY ||
       process.env.API_KEY ||
-      "REDACTED";
+      "";
 
     if (!apiKey) {
       return Response.json(
